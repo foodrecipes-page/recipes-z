@@ -1,0 +1,79 @@
+{
+  "title": "Zapotec Crunchy Bread",
+  "description": "A kid-friendly, spicy Venezuelan dish featuring crunchy white bread marinated with a blend of spices and served as a low-calorie snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice white bread into thin rounds.",
+    "In a small bowl, mix olive oil, red chili flakes, dijon mustard, lime juice, salt, and cumin powder until well combined.",
+    "Brush each slice of bread with the marinade mixture evenly.",
+    "Place the marinated slices on a baking sheet lined with parchment paper.",
+    "Bake for 10 minutes or until golden brown and crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "zapotec",
+    "crunchy",
+    "bread",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 1
+  },
+  "slug": "zapotec-crunchy-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zapotec-crunchy-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:46:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "white bread",
+    "diet": "low-calorie",
+    "region": null
+  }
+}

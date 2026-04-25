@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "z",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'z''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-z@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "zapotec-crunchy-bread",
+    "title": "Zapotec Crunchy Bread",
+    "tags": [
+      "zapotec",
+      "crunchy",
+      "bread",
+      "spicy"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
+    "shard": "z"
+  }
+]
