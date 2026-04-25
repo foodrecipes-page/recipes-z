@@ -1,0 +1,85 @@
+{
+  "title": "Zestful Zucchini Zabaglione",
+  "description": "This meal-prep Greek dish is a sweet and crispy delight featuring orange zest, made gluten-free-friendly for all to enjoy.",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "2 medium-sized",
+      "notes": "Halved lengthwise and thinly sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For frying the zucchini slices"
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 packet (about 3.5g)",
+      "notes": "Gluten-free and vegan-friendly"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 cups",
+      "notes": "Full-fat for a richer texture"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "3 tbsp",
+      "notes": "For sweetening the zabaglione"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "1 whole orange's worth",
+      "notes": "Juice and zest separated, use only the zest"
+    },
+    {
+      "Flax Seeds": "1/4 tsp (optional for thickening)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place zucchini slices on a baking sheet lined with parchment paper. Season lightly with salt and pepper.",
+    "Fry the zucchini in olive oil until golden brown, about 2-3 minutes per side. Remove from heat and set aside to cool slightly.",
+    "In a large bowl, whisk together orange juice, heavy cream, sugar, and gelatin. Let sit for at least 10 minutes before adding zest.",
+    "Add orange zest to the cream mixture and mix well. Reheat zucchini slices and place them on top of zabaglione in an oven-safe dish.",
+    "Bake for about 3-5 minutes until warm throughout but still crispy, checking every minute. Remove from heat when done.",
+    "Optional: Stir flax seeds into the zabaglione before serving for added thickness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "zestful",
+    "zucchini",
+    "orange",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "zestful-zucchini-zabaglione",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zestful-zucchini-zabaglione",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:17:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "orange zest",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

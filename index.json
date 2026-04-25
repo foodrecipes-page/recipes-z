@@ -39,6 +39,19 @@
     "shard": "z"
   },
   {
+    "slug": "zestful-zucchini-zabaglione",
+    "title": "Zestful Zucchini Zabaglione",
+    "tags": [
+      "zestful",
+      "zucchini",
+      "orange",
+      "smoke"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zucchini-zest-monsoon-zweet",
     "title": "Zucchini Zest Monsoon Zweet",
     "tags": [
