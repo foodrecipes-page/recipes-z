@@ -1,0 +1,73 @@
+{
+  "title": "Zucchini Zest Monsoon Zweet",
+  "description": "A diabetic-friendly umami and chewy Canadian dish featuring zucchini, seasoned with a touch of umami and savory flavors to resemble a monsoon flavor profile.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Diabetes-Friendly Tamari Sauce (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the zucchini and slice them into rounds.",
+    "In a large pan, heat olive oil over medium heat. Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add sliced zucchini to the pan. Season with kosher salt and cook for about 5 minutes or until they start to soften slightly.",
+    "Drizzle on diabetes-friendly tamari sauce (if using), stir well, then continue cooking for an additional 2-3 minutes to allow flavors to meld together.",
+    "Once fully cooked, remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zucchini",
+    "monsoon",
+    "umami",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 2.7,
+    "carbs": 16.3,
+    "fat": 4.8
+  },
+  "slug": "zucchini-zest-monsoon-zweet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zucchini-zest-monsoon-zweet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:16:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "zucchini",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}

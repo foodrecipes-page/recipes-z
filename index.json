@@ -37,5 +37,18 @@
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zucchini-zest-monsoon-zweet",
+    "title": "Zucchini Zest Monsoon Zweet",
+    "tags": [
+      "zucchini",
+      "monsoon",
+      "umami",
+      "chewy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 18,
+    "shard": "z"
   }
 ]
