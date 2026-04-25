@@ -1,0 +1,76 @@
+{
+  "title": "Zestful Zucchini Starch",
+  "description": "A citrusy and tender low-carb-friendly Tunisian dish featuring potato starch, blanched vegetables for a show-off touch in this easy to prepare meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large zucchinis",
+      "amount": "sliced",
+      "notes": "for the crunch"
+    },
+    {
+      "name": "1/4 cup potato starch",
+      "amount": "measuring spoon",
+      "notes": "slightly dampened with water to bind"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced",
+      "notes": "optional for zest"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "for extra zing"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the zucchinis into coins about 1/4 inch thick.",
+    "Sprinkle a little salt and pepper on both sides of the sliced zucchini.",
+    "In a small bowl, mix the potato starch with water until smooth. Add lemon juice if using for extra brightness.",
+    "Dip each slice of zucchini in the starch mixture and arrange them evenly in a baking dish or oven-safe skillet.",
+    "Bake for 25-30 minutes or until crisp and golden brown on top.",
+    "Serve hot with a squeeze of fresh lemon juice and additional minced garlic if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zucchini",
+    "potato starch",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "zestful-zucchini-starch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zestful-zucchini-starch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:27:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "potato starch",
+    "diet": "low-carb",
+    "region": null
+  }
+}

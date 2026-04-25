@@ -25,5 +25,17 @@
     "cuisine": "Canadian",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zestful-zucchini-starch",
+    "title": "Zestful Zucchini Starch",
+    "tags": [
+      "zucchini",
+      "potato starch",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
