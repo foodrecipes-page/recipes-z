@@ -1,0 +1,81 @@
+{
+  "title": "Zestful Paleo Grilled Citrus Crunch",
+  "description": "A citrusy and crunchy Canadian dish featuring a paleo-friendly one-pot meal with caramel sauce for added sweetness and depth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Paleo-friendly bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Citrus fruits (e.g., orange, lemon)",
+      "amount": "1-2 whole",
+      "notes": "Choose your favorite citrus variety."
+    },
+    {
+      "name": "Almond flour or coconut flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cinnamon (optional)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sweetener of choice (e.g., stevia, erythritol) optional",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a mixing bowl, combine the bread crumbs, citrus fruits' zest and juice, almond flour or coconut flour, coconut oil, cinnamon (if using), and vanilla extract. Mix well until everything is evenly combined.",
+    "Season with sweetener of choice if desired and mix again for even distribution.",
+    "Grease a sheet pan with a small amount of coconut oil for easier cleanup.",
+    "Using your hands, form the mixture into small balls or patties to fit on the grill grate. Press slightly to compact the shape as it cooks.",
+    "Place the formed citrus crunch items on the greased sheet pan and place under direct heat from the grill. Cook for about 2-3 minutes per side until golden brown and crispy.",
+    "Remove from the grill once done and let cool slightly before serving with a drizzle of caramel sauce or your favorite non-paleo-friendly sweetener."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "grilled",
+    "citrusy",
+    "crunchy",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "zestful-paleo-grilled-citrus-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zestful-paleo-grilled-citrus-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:49:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "caramel sauce",
+    "diet": "paleo",
+    "region": null
+  }
+}

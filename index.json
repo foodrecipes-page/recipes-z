@@ -11,5 +11,19 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zestful-paleo-grilled-citrus-crunch",
+    "title": "Zestful Paleo Grilled Citrus Crunch",
+    "tags": [
+      "paleo",
+      "grilled",
+      "citrusy",
+      "crunchy",
+      "canadian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "z"
   }
 ]
