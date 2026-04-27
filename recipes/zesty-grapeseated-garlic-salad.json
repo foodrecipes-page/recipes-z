@@ -1,0 +1,79 @@
+{
+  "title": "Zesty Grapeseated Garlic Salad",
+  "description": "A refreshing and energizing Venezuelan dish featuring tender grapes folded into a garlic-infused dressing.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grilled Grapes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Herbs (optional, such as parsley or cilantro)",
+      "notes": "a few leaves"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 1-2 minutes.",
+    "Add red wine vinegar and water to the pan. Stir well.",
+    "Reduce mixture by half, then let cool slightly.",
+    "Fold cooled dressing into grapes gently.",
+    "Optional: mix in fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zesty",
+    "grape-seated",
+    "garlic",
+    "energizing",
+    "venezuelan",
+    "folded",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "zesty-grapeseated-garlic-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grapeseated-garlic-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:20:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "grapes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Grapeseated",
+    "mainIngredient": "Garlic",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}
