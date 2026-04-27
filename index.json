@@ -52,6 +52,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-moroccan-lemon-stir-fry",
+    "title": "Zesty Moroccan Lemon Stir-fry",
+    "tags": [
+      "moroccan",
+      "zesty",
+      "quick-fix",
+      "citrusy",
+      "tender",
+      "stir-fry"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zucchini-zest-monsoon-zweet",
     "title": "Zucchini Zest Monsoon Zweet",
     "tags": [

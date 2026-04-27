@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Moroccan Lemon Stir-fry",
+  "description": "This quick-fix moroccan dish features citrusy lemon zest and tender vegetables. Perfect for pescatarian meals.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "1 yellow onion, thinly sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (8 oz) diced tomatoes",
+      "amount": "",
+      "notes": "undrained"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "2 tbsp lemon zest",
+      "amount": "",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp clove powder",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add olive oil and onion, sauté until translucent.",
+    "Add garlic, cumin, cinnamon, and clove powder to the skillet, stirring for about 1 minute.",
+    "Push vegetables to the side of the pan and pour in diced tomatoes. Let cook for another minute before adding lemon juice and zest. Stir well.",
+    "Increase heat to high, bring sauce to a boil, then reduce heat and simmer for 2 minutes.",
+    "Add broccoli florets to the skillet. Cover with a lid and let it steam cook until tender (about 5-7 minutes).",
+    "Season with salt to taste, remove from heat, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "zesty",
+    "quick-fix",
+    "citrusy",
+    "tender",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 4
+  },
+  "slug": "zesty-moroccan-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:01:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "cloves",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lemon",
+    "descriptor": "Zesty",
+    "dishForm": "Stir-fry"
+  }
+}
