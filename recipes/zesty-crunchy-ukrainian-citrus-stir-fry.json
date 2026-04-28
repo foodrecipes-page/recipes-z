@@ -1,0 +1,90 @@
+{
+  "title": "Zesty Crunchy Ukrainian Citrus Stir-fry",
+  "description": "A citrusy, crunchy post-workout dish featuring vegetable stock and pressure-cooked elements for a paleo-friendly meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Carrots, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Celery stalks, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Wheat-free Seasoning Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Aminos (as a substitute for soy sauce)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almonds, chopped",
+      "amount": "30 grams"
+    }
+  ],
+  "instructions": [
+    "Prepare all vegetables and seasonings. Heat oil in a pressure cooker.",
+    "Add lemon zest and garlic to the cooker, stir-fry for about 2 minutes.",
+    "Add celery, carrots, and coconut aminos. Stir well to combine.",
+    "Gradually add lime juice while stirring until fully combined, cooking for an additional minute.",
+    "Season with wheat-free seasoning blend, mix thoroughly.",
+    "Transfer the mixture into serving bowls, garnish with chopped almonds.",
+    "Serve hot as a snack or meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zesty",
+    "crunchy",
+    "citrus",
+    "stir-fry",
+    "post-workout",
+    "ukrainian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 27,
+    "fat": 16
+  },
+  "slug": "zesty-crunchy-ukrainian-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-ukrainian-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:05:08Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "vegetable stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
