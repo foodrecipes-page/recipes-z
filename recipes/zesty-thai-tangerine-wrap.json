@@ -1,0 +1,85 @@
+{
+  "title": "Zesty Thai Tangerine Wrap",
+  "description": "A tangy, tender dish featuring a blend of v sterbottensost cheese and other plant-based ingredients in a refreshing wrap that is sure to impress.",
+  "cuisine": "Thai",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost Cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium (peeled, thinly sliced)"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Chili",
+      "amount": "4-6 slices (fresh or dried)"
+    },
+    {
+      "name": "Fresh Tangerine Zest",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 green onions, thinly sliced"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "1 sprig per person (optional)"
+    },
+    {
+      "name": "Wrap Leaves",
+      "amount": "4-6 leaves (such as lettuce or cabbage), chopped"
+    }
+  ],
+  "instructions": [
+    "Combine V Sterbottensost Cheese, lime juice, red chili slices, tangerine zest, and green onions in a small bowl.",
+    "Spread the mixture evenly over the zucchini slices.",
+    "Garnish with thyme sprigs if using.",
+    "Place wrap leaves on top of the cheese filling to assemble the wraps.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "wrap",
+    "zesty",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "zesty-thai-tangerine-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-thai-tangerine-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:36:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tangerine",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}

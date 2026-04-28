@@ -99,6 +99,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-thai-tangerine-wrap",
+    "title": "Zesty Thai Tangerine Wrap",
+    "tags": [
+      "thai",
+      "wrap",
+      "zesty",
+      "tangy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 5,
+    "shard": "z"
+  },
+  {
     "slug": "zucchini-zest-monsoon-zweet",
     "title": "Zucchini Zest Monsoon Zweet",
     "tags": [
