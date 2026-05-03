@@ -1,0 +1,90 @@
+{
+  "title": "Zesty Venezuelan Tofu Salad",
+  "description": "A bright, refreshing salad with citrus-marinated tofu, roasted corn, black beans, and a touch of habanero, perfect for a quick hangover cure.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "cut into 1‑inch cubes, press to remove excess moisture"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "used for pan searing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3 tbsp",
+      "notes": "freshly squeezed from 1 lemon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed from 1 lime"
+    },
+    {
+      "name": "Habanero pepper",
+      "amount": "1",
+      "notes": "minced, optional for heat"
+    },
+    {
+      "name": "Sweet corn kernels",
+      "amount": "1 cup",
+      "notes": "roasted, slightly charred"
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 cup",
+      "notes": "cooked, drained"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press tofu cubes for 15 minutes to remove moisture, then pat dry.",
+    "In a bowl whisk together olive oil, lemon juice, lime juice, minced habanero (if using), 1 tsp salt, and ½ tsp pepper.",
+    "Add tofu cubes to the bowl, toss until evenly coated, and let marinate for 10 minutes.",
+    "Heat a non‑stick skillet over medium‑high heat and sear tofu until golden on all sides, about 5 minutes total.",
+    "While tofu cooks, roast corn kernels in a dry skillet or oven at 400°F (200°C) until slightly charred, about 5 minutes.",
+    "In a large bowl combine roasted corn, black beans, sliced red onion, diced avocado, and chopped cilantro.",
+    "Fold the seared tofu into the bowl, stirring gently to mix.",
+    "Taste and adjust seasoning with extra salt or pepper if desired. Serve immediately."
+  ],
+  "slug": "zesty-venezuelan-tofu-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-tofu-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:04:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "lemons",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Tofu",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}
