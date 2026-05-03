@@ -1,0 +1,86 @@
+{
+  "title": "Zesty Australian Egg Custard",
+  "description": "A salty, fluffy midnight snack that combines creamy egg custard with steamed greens, perfect for the Whole30 lifestyle.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "steamed greens (spinach or broccoli)",
+      "amount": "200 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Steam 200 g of greens in a steamer basket until just tender, about 3 minutes, then set aside.",
+    "Whisk together 4 eggs, 120 ml coconut milk, 1 tsp salt, 1/4 tsp black pepper, and 1/4 tsp garlic powder until smooth.",
+    "Pour custard mixture into a 9-inch shallow baking dish lined with parchment.",
+    "Spread steamed greens evenly over the custard and lightly press them down.",
+    "Drizzle 1 tbsp coconut oil over the greens and custard.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove foil and bake another 5 minutes until custard is firm and lightly browned."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "egg-custard",
+    "fluffy",
+    "midnight-snack",
+    "salty",
+    "steamed-vegetable",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 335,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 27
+  },
+  "slug": "zesty-australian-egg-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-australian-egg-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:43:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "egg",
+    "descriptor": "Zesty",
+    "dishForm": "Custard"
+  }
+}

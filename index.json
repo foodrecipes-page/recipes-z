@@ -97,6 +97,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-australian-egg-custard",
+    "title": "Zesty Australian Egg Custard",
+    "tags": [
+      "egg-custard",
+      "fluffy",
+      "midnight-snack",
+      "salty",
+      "steamed-vegetable",
+      "whole30"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-bitter-spanish-corn-bowl",
     "title": "Zesty Bitter Spanish Corn Bowl",
     "tags": [
@@ -486,6 +501,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-moroccan-chicken-tagine",
+    "title": "Zesty Moroccan Chicken Tagine",
+    "tags": [
+      "halal-friendly",
+      "high-protein",
+      "moroccan",
+      "post-workout",
+      "quick-cook",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
