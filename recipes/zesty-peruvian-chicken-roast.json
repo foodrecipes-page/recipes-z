@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Peruvian Chicken Roast",
+  "description": "Sour, spicy, and chewy Peruvian-style roast chicken with a zesty lime-chili glaze, perfect for midnight cravings and nut‑free diners.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1 (1.5 kg)",
+      "notes": "cleaned and patted dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/4 cup",
+      "notes": "from 1-2 limes"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tbsp",
+      "notes": "adds tanginess"
+    },
+    {
+      "name": "adobo chili flakes",
+      "amount": "1 tbsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "quartered"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Pat the chicken dry with paper towels.",
+    "In a bowl, whisk together olive oil, lime juice, vinegar, chili flakes, cumin, coriander, minced garlic, and a pinch of salt.",
+    "Rub the mixture all over the chicken, including inside the cavity.",
+    "Place the onion quarters in the cavity and tie the legs with kitchen twine.",
+    "Place the chicken breast‑side up on a rack in a roasting pan.",
+    "Roast for 20 minutes, then baste with pan juices and sprinkle chopped cilantro over the top.",
+    "Continue roasting, basting every 20 minutes, for a total of 80 minutes or until the internal temperature reaches 75°C (165°F).",
+    "Let the chicken rest for 10 minutes before carving. Serve hot, optionally with a wedge of lime and extra cilantro.",
+    ""
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 80,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "roasted-chicken",
+    "spicy",
+    "nut-free",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 7,
+    "fat": 35
+  },
+  "slug": "zesty-peruvian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:57:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "chilli flakes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Roast"
+  }
+}
