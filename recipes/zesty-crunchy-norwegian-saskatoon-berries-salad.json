@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Crunchy Norwegian Saskatoon Berries Salad",
+  "description": "A spicy, crunchy salad packed with sashimi-sliced Saskatoon berries, toasted walnuts and a zesty dressing—perfect for low‑sodium meal prep.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "200g",
+      "notes": "sashimi sliced"
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "100g"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "30g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "30g",
+      "notes": "low‑sodium crumbled"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "5ml"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "5g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "30g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Slice the Saskatoon berries into thin, sashimi‑like slices and place them in a bowl.",
+    "Toss the mixed salad greens, diced cucumber, and toasted walnuts together.",
+    "In a small bowl whisk together lemon juice, olive oil, sriracha, black pepper, and chopped dill until emulsified.",
+    "Pour the dressing over the salad mixture and toss until evenly coated.",
+    "Sprinkle the crumbled low‑sodium feta over the top and gently fold it in.",
+    "Add the sliced berries back onto the salad, arranging them in a fan shape for visual appeal.",
+    "If using yogurt, drizzle it in a zig‑zag pattern across the salad for creaminess.",
+    "Serve immediately or chill in the fridge for up to 24 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-sodium",
+    "meal-prep",
+    "quick",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 346,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "zesty-crunchy-norwegian-saskatoon-berries-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-norwegian-saskatoon-berries-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:52:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Salad"
+  }
+}
