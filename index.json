@@ -141,6 +141,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chinese-seafood-en-croute",
+    "title": "Zesty Chinese Seafood En Croute",
+    "tags": [
+      "chinese-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "pescatarian",
+      "seafood-lovers"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-creamy-goan-fish-curry",
     "title": "Zesty Creamy Goan Fish Curry",
     "tags": [],

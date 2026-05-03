@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Chinese Seafood En Croute",
+  "description": "A resinous and snappy Chinese dish featuring seafood stock in a keto-friendly en croute pastry, perfect for adventurous eaters. This recipe combines the freshness of seafood with the richness of a buttery crust.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound",
+      "notes": "patted dry"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour and a pinch of salt.",
+    "Add the coconut oil and egg to the bowl and mix until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "In a separate bowl, whisk together the seafood stock, sesame oil, soy sauce, and grated ginger.",
+    "Arrange the shrimp, scallops, and mussels in the center of the dough, leaving a 1 inch border around the edges.",
+    "Pour the seafood stock mixture over the seafood.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the top of the pastry with a little bit of coconut oil.",
+    "Bake the en croute for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "pescatarian",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "zesty-chinese-seafood-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-seafood-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:15:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "seafood stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "seafood",
+    "descriptor": "Zesty resinous",
+    "dishForm": "En croute"
+  }
+}
