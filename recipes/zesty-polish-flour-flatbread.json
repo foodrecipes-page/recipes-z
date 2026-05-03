@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Polish Flour Flatbread",
+  "description": "A fluffy, citrusy flatbread with a romantic Polish twist, finished with a fragrant tadka and completely sugar‑free friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "dry active yeast",
+      "amount": "5 g",
+      "notes": "about one packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml",
+      "notes": "40 °C"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 lemon",
+      "notes": "zest of one lemon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 lemon",
+      "notes": "juice of one lemon"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "extra olive oil",
+      "amount": "1 tbsp",
+      "notes": "for tadka"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine warm water and yeast; let sit 2–3 minutes until frothy.",
+    "Add flour, salt, lemon zest, lemon juice, dried basil, and 1 tbsp olive oil to the yeast mixture. Stir until a shaggy dough forms.",
+    "Turn dough onto a floured surface and knead for 8–10 minutes until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover, and let rise in a warm place for 60 minutes or until doubled in size.",
+    "Punch down the dough, divide into 4 equal portions, and shape each into a round flatbread about 15 cm in diameter.",
+    "Preheat oven to 220 °C (428 °F) with a baking stone or steel if available.",
+    "Bake flatbreads on the stone for 12–15 minutes, or until golden brown and puffed.",
+    "While baking, heat 1 tbsp olive oil in a small skillet over medium heat. Add cumin seeds, red chili flakes, and minced garlic; sauté for 1–2 minutes until fragrant.",
+    "Brush the hot tadka over the freshly baked flatbreads and serve immediately.",
+    "For an extra citrus kick, drizzle a little fresh lemon juice over the flatbreads before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flour-flatbread",
+    "zesty",
+    "polish",
+    "quick",
+    "sugar-free-friendly",
+    "yeast",
+    "tadka",
+    "citrus",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 7,
+    "carbs": 48,
+    "fat": 4
+  },
+  "slug": "zesty-polish-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-polish-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:42:35Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "yeast",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Flour",
+    "descriptor": "Zesty",
+    "dishForm": "Flatbread"
+  }
+}
