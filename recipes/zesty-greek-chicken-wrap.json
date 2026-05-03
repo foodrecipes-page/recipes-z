@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Greek Chicken Wrap",
+  "description": "A quick, herbal chicken wrap packed with zesty Greek flavors and a hangover‑cure kick, featuring fresh salsa and a creamy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "pinch salt and pepper"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and add the olive oil.",
+    "Season the chicken strips with salt, pepper, oregano, minced garlic, and lemon juice, tossing to coat.",
+    "Cook the chicken for 5-6 minutes until browned and cooked through, stirring occasionally.",
+    "Remove the chicken from the skillet and let it rest for 1 minute.",
+    "Warm the tortillas in a dry skillet for 30 seconds on each side.",
+    "Spread a spoonful of tzatziki sauce over each tortilla.",
+    "Place the cooked chicken on the tortilla.",
+    "Top the chicken with diced tomato, cucumber, and crumbled feta cheese.",
+    "Drizzle a little extra lemon juice over the fillings for added zing.",
+    "Fold the sides of the tortilla over the filling and roll tightly into a wrap.",
+    "Slice the wrap in half and serve immediately.",
+    "Optionally sprinkle extra feta and serve with a side of Greek yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "mediterranean",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "zesty-greek-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-greek-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:19:05Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "salsa",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}

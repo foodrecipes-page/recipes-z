@@ -1,0 +1,99 @@
+{
+  "title": "zesty fermented spanish lentils paella",
+  "description": "nutty, shaggy, hangover-cure spanish valencian dish featuring sesame seed oil, ferment, flexitarian-friendly.",
+  "cuisine": "spanish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "heat sesame seed oil in a large skillet over medium-high heat.",
+    "add garlic and sauté for 1 minute.",
+    "add red onion and red bell pepper, sauté for 3-4 minutes.",
+    "add paprika, salt, black pepper, and smoked paprika, stir to combine.",
+    "add lentils and stir to combine.",
+    "reduce heat to low, add white vinegar and stir to combine.",
+    "allow mixture to ferment for at least 2 hours.",
+    "serve in a large skillet, garnished with sesame seeds and fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "flexitarian-friendly",
+    "high-protein",
+    "lentils",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 21,
+    "carbs": 67,
+    "fat": 22
+  },
+  "slug": "zesty-fermented-spanish-lentils-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-spanish-lentils-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:19:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "flexitarian",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty fermented",
+    "dishForm": "Paella"
+  }
+}

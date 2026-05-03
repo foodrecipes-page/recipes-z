@@ -225,6 +225,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fermented-spanish-lentils-paella",
+    "title": "zesty fermented spanish lentils paella",
+    "tags": [
+      "fermented",
+      "flexitarian-friendly",
+      "high-protein",
+      "lentils",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-filipino-shrimp-stew",
     "title": "Zesty Filipino Shrimp Stew",
     "tags": [
@@ -325,6 +341,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-greek-chicken-wrap",
+    "title": "Zesty Greek Chicken Wrap",
+    "tags": [
+      "hangover-cure",
+      "high-protein",
+      "mediterranean",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
