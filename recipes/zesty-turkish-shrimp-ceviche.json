@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Turkish Shrimp Ceviche",
+  "description": "Fresh shrimp marinated in tangy rice vinegar and citrus, finished with Turkish herbs for a bright, light appetizer that showcases the flavors of Anatolia.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp, peeled and deveined",
+      "amount": "500g"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "10",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 small",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "Turkish pepper paste (biber salçası)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Place the shrimp in a shallow glass bowl. Add rice vinegar, lemon juice, lime juice, olive oil, salt, and pepper; stir to coat all pieces.",
+    "Let the shrimp marinate in the refrigerator for 20 minutes, stirring every 5 minutes, until the shrimp turns opaque and starts to “cook” in the acid.",
+    "Drain the excess liquid and transfer the shrimp to a serving bowl.",
+    "Gently fold in chopped mint, dill, diced cherry tomatoes, and sliced red onion; sprinkle with Turkish pepper paste if using.",
+    "Adjust seasoning with more salt or pepper if needed; chill for another 5 minutes to meld the flavors.",
+    "Serve chilled over cucumber ribbons or on toasted pita slices for a refreshing starter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "light",
+    "seafood",
+    "turkish",
+    "dairy-free",
+    "no-cook",
+    "summer",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 70,
+    "carbs": 4,
+    "fat": 17
+  },
+  "slug": "zesty-turkish-shrimp-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-turkish-shrimp-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:38:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Ceviche"
+  }
+}

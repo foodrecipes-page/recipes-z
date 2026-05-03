@@ -190,6 +190,23 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-turkish-shrimp-ceviche",
+    "title": "Zesty Turkish Shrimp Ceviche",
+    "tags": [
+      "fresh",
+      "light",
+      "seafood",
+      "turkish",
+      "dairy-free",
+      "no-cook",
+      "summer",
+      "appetizer"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-vietnamese-rice-noodle-soup",
     "title": "Zesty Vietnamese Rice Noodle Soup",
     "tags": [
