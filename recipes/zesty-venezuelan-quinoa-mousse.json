@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Venezuelan Quinoa Mousse",
+  "description": "A savory, bouncy quinoa mousse with a caramelized sugar sauce and tempered chocolate, perfect for an energizing low-carb meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark chocolate (70% cocoa)",
+      "amount": "60 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "erythritol",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until water runs clear.",
+    "In a saucepan, bring water to a boil, add quinoa, reduce heat, simmer covered 15 minutes or until liquid absorbed.",
+    "Transfer cooked quinoa to a dry bowl, let cool slightly.",
+    "Melt butter in a small saucepan over low heat, add erythritol, stir until syrupy and lightly caramelized, about 2 minutes.",
+    "Remove from heat, whisk in coconut milk, a pinch of salt, and vanilla, then cool to room temperature.",
+    "In a microwave or double boiler, melt chopped dark chocolate until smooth, then stir into the cooled coconut mixture to temper.",
+    "Fold the chocolate coconut mixture into the warm quinoa until evenly incorporated and the mixture becomes thick and bouncy.",
+    "Spoon the mousse into pre-warmed talavera plates, smoothing the surface.",
+    "Garnish with lime zest and a drizzle of the caramelized sauce.",
+    "Chill in the refrigerator for 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "low-carb-friendly",
+    "mousse",
+    "talavera-plate",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 17,
+    "carbs": 43,
+    "fat": 111
+  },
+  "slug": "zesty-venezuelan-quinoa-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-quinoa-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:47:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "quinoa",
+    "descriptor": "Zesty",
+    "dishForm": "mousse"
+  }
+}
