@@ -1,0 +1,124 @@
+{
+  "title": "Zesty Filipino Shrimp Stew",
+  "description": "A tangy, citrusy shrimp stew with wholegrain mustard, a hint of tamarind, and small dumpling bits—sugar‑free and quick for a solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp, peeled and deveined",
+      "amount": "300 g",
+      "notes": "about 10–12 medium shrimp, keep tails on for flavor"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium (150 g)",
+      "notes": "sauté until translucent"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves (9 g)",
+      "notes": "add with onion"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "2 medium (200 g)",
+      "notes": "adds natural sweetness"
+    },
+    {
+      "name": "Water or low-sodium seafood stock",
+      "amount": "4 cups (960 ml)",
+      "notes": "for broth"
+    },
+    {
+      "name": "Wholegrain mustard",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "earthy tang, no added sugar"
+    },
+    {
+      "name": "Tamarind paste (or tamarind juice)",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "sourness typical of sinigang"
+    },
+    {
+      "name": "Fish sauce (or low-sodium soy sauce)",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "umami boost"
+    },
+    {
+      "name": "Dumpling wrappers (gluten‑free if desired)",
+      "amount": "6–8 wrappers (≈50 g)",
+      "notes": "cut into small pieces to thicken and add texture"
+    },
+    {
+      "name": "Red chili, sliced",
+      "amount": "1 small (optional)",
+      "notes": "adjust heat as desired"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "garnish"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat 1 tsp oil over medium heat.",
+    "Add diced onion and minced garlic; sauté 2–3 min until onion is translucent and garlic is aromatic.",
+    "Stir in diced tomato and cook another 2 min.",
+    "Add wholegrain mustard, tamarind paste, fish sauce, and water (or stock); bring to a gentle boil.",
+    "Reduce heat to medium–low, then add shrimp. Cook 3–4 min, or until shrimp turn pink and opaque.",
+    "Break dumpling wrappers into small pieces and stir into the stew; simmer for another 1–2 min until the dumplings are cooked.",
+    "Add sliced chili and cook 30 sec, if using.",
+    "Taste and adjust seasoning with salt or additional fish sauce if needed.",
+    "Remove from heat, stir in chopped cilantro, and serve hot, optionally topped with green onions.",
+    "Enjoy a fragrant, tangy shrimp stew that’s quick, sweet‑free, and gluten‑free."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "shrimp",
+    "sinigang",
+    "wholegrain-mustard",
+    "gluten-free",
+    "sugar-free",
+    "dinner",
+    "quick",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 4
+  },
+  "slug": "zesty-filipino-shrimp-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-filipino-shrimp-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:21:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

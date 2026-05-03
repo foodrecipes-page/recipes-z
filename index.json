@@ -120,6 +120,24 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-filipino-shrimp-stew",
+    "title": "Zesty Filipino Shrimp Stew",
+    "tags": [
+      "filipino",
+      "shrimp",
+      "sinigang",
+      "wholegrain-mustard",
+      "gluten-free",
+      "sugar-free",
+      "dinner",
+      "quick",
+      "healthy"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fresh-australian-tomato-soup",
     "title": "Zesty Fresh Australian Tomato Soup",
     "tags": [],
