@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Vietnamese Rice Noodle Soup",
+  "description": "A bright, low-sodium rice noodle soup with lemon zest, fresh lime, and aromatic lemongrass, perfect for meal prep and a quick lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "200 g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "firm tofu, cubed",
+      "amount": "200 g"
+    },
+    {
+      "name": "shiitake mushrooms, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green onions, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a gentle simmer in a medium pot.",
+    "Add the bruised lemongrass stalk and kaffir lime leaves, letting the aromatics steep for 5 minutes.",
+    "Stir in the sliced mushrooms and carrot, cooking for another 3 minutes until tender.",
+    "Add the cubed tofu and let the soup simmer for 2 minutes, then remove the lemongrass and lime leaves.",
+    "In a separate bowl, whisk together the lime zest, fresh lime juice, and toasted sesame oil.",
+    "Fold the whisked lime mixture into the soup, then season with a pinch of salt if desired.",
+    "Toss in the rice vermicelli, cooking just until they soften, about 1-2 minutes.",
+    "Remove from heat and serve with a generous sprinkle of chopped cilantro and sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "low-sodium",
+    "rice-noodles",
+    "meal-prep",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "zesty-vietnamese-rice-noodle-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-rice-noodle-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:59:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "lemon zest",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Rice Noodle",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
