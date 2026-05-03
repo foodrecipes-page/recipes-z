@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Irish Currant Fritters",
+  "description": "Fermented, shaggy post-workout Irish fritters packed with currants, double-fried to crunchy perfection on a binchotan grill.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "200g",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried currants",
+      "amount": "150g",
+      "notes": "soaked in warm water for 15 min"
+    },
+    {
+      "name": "oat milk",
+      "amount": "100ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk the flour, baking powder, and salt together.",
+    "Add the soaked currants, oat milk, egg, lemon zest, and smoked paprika and stir until a thick batter forms.",
+    "Heat the binchotan grill and heat sunflower oil until shimmering.",
+    "Drop spoonfuls of batter onto the grill, spacing them 4 inches apart.",
+    "Cook each fritter until bubbles form on the surface, about 3 minutes, then flip.",
+    "Continue frying until both sides are golden brown and crisp, about 2 minutes per side.",
+    "Remove the fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve hot with a squeeze of fresh lemon juice and a sprinkle of sea salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "currants",
+    "fried",
+    "irish",
+    "post-workout",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 9,
+    "carbs": 47,
+    "fat": 7
+  },
+  "slug": "zesty-irish-currant-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-currant-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:51:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "currants",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Currants",
+    "descriptor": "Zesty",
+    "dishForm": "Fritters"
+  }
+}
