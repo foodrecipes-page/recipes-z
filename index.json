@@ -358,6 +358,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-portuguese-bread-toast",
+    "title": "Zesty Portuguese Bread Toast",
+    "tags": [
+      "bread-toast",
+      "herb-infused",
+      "quick",
+      "romantic",
+      "snack",
+      "whole30"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoked-portuguese-fish-stew",
     "title": "Zesty Smoked Portuguese Fish Stew",
     "tags": [

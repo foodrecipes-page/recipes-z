@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Portuguese Bread Toast",
+  "description": "Crispy toast made with stale bread infused with Portuguese tadka, herbs, and a splash of olive oil, perfect for a romantic snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stale white bread slices",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and swirl in the olive oil.",
+    "Add the minced garlic to the skillet and sauté until fragrant, about 30 seconds.",
+    "Sprinkle oregano, thyme, paprika, salt, and pepper over the garlic and stir to combine.",
+    "Place the bread slices in the skillet, cooking each side for 2-3 minutes until golden and crisp.",
+    "Remove the toasted bread from the skillet and sprinkle with fresh parsley for garnish.",
+    "Serve immediately as a warm, herb-infused snack.",
+    "Enjoy the romantic and zesty flavors of Portuguese cuisine."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread-toast",
+    "herb-infused",
+    "quick",
+    "romantic",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-portuguese-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-portuguese-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:49:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "stale bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "bread",
+    "descriptor": "Zesty",
+    "dishForm": "Toast"
+  }
+}
