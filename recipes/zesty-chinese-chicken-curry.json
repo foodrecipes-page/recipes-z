@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Chinese Chicken Curry",
+  "description": "A rich and tender keto-friendly Chinese-inspired curry filled with zesty orange blossom water and a subtle bhuna finish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "400g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "red chili, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "1 tsp each"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat until shimmering.",
+    "Add the diced chicken and sear until browned on all sides, about 5 minutes.",
+    "Stir in the chopped onion, minced garlic, and minced ginger, cooking until onion is translucent, about 3 minutes.",
+    "Add the sliced chili, ground cumin, and ground turmeric, sautéing for 1 minute to release aromas.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer, stirring occasionally.",
+    "Add the orange blossom water and lime juice, then season with salt and pepper, and let it cook for 10 minutes until the sauce thickens and the chicken is tender.",
+    "Taste and adjust seasoning if needed, adding more salt, pepper, or lime juice to achieve the desired balance.",
+    "Serve hot over cauliflower rice or steamed bok choy for a complete keto-friendly meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "curry",
+    "keto-friendly",
+    "one-pan",
+    "quick",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "zesty-chinese-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:39:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "orange blossom water",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}

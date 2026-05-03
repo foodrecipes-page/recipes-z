@@ -96,6 +96,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chinese-chicken-curry",
+    "title": "Zesty Chinese Chicken Curry",
+    "tags": [
+      "bhuna",
+      "curry",
+      "keto-friendly",
+      "one-pan",
+      "quick",
+      "romantic"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-creamy-goan-fish-curry",
     "title": "Zesty Creamy Goan Fish Curry",
     "tags": [],
