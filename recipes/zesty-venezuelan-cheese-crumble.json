@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Venezuelan Cheese Crumble",
+  "description": "A fermented, crumbly cheese topping that adds a tangy kick to any dish, perfect for lazy Sundays.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "reduced-fat cheddar cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "ketchup",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh oregano, chopped",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Place shredded cheese in a mixing bowl.",
+    "Add ketchup, olive oil, garlic powder, smoked paprika, salt, pepper, and oregano to the cheese.",
+    "Knead the mixture with a spoon until well combined and slightly crumbly.",
+    "Spread the mixture onto a parchment-lined baking sheet in a thin layer.",
+    "Bake for 8 minutes or until edges are golden and the crumble is firm.",
+    "Remove from oven and let cool for 2 minutes.",
+    "Use the crumble as a topping on tacos, salads, or roasted veggies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-crumble",
+    "easy",
+    "lazy-sunday",
+    "low-fat",
+    "quick",
+    "vegetarian",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 810,
+    "protein": 50,
+    "carbs": 14,
+    "fat": 26
+  },
+  "slug": "zesty-venezuelan-cheese-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-cheese-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:02:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "ketchup",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Zesty",
+    "dishForm": "Crumble"
+  }
+}

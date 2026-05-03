@@ -535,6 +535,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-venezuelan-cheese-crumble",
+    "title": "Zesty Venezuelan Cheese Crumble",
+    "tags": [
+      "cheese-crumble",
+      "easy",
+      "lazy-sunday",
+      "low-fat",
+      "quick",
+      "vegetarian",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-venezuelan-tofu-salad",
     "title": "Zesty Venezuelan Tofu Salad",
     "tags": [],
