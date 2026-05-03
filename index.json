@@ -104,6 +104,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-rocket-soup",
+    "title": "Zesty Croatian Rocket Soup",
+    "tags": [
+      "zesty",
+      "croatian",
+      "rocket-soup",
+      "whole30",
+      "light",
+      "simmer"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crunchy-ukrainian-citrus-stir-fry",
     "title": "Zesty Crunchy Ukrainian Citrus Stir-fry",
     "tags": [
