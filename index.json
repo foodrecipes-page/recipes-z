@@ -1,5 +1,19 @@
 [
   {
+    "slug": "zacepene-citrusne-takania",
+    "title": "Začepené Citrusné Tákania",
+    "tags": [
+      "slovakian",
+      "citrusy",
+      "crunchy",
+      "energizing",
+      "jain-friendly"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zapotec-crunchy-bread",
     "title": "Zapotec Crunchy Bread",
     "tags": [

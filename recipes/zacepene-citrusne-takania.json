@@ -1,0 +1,84 @@
+{
+  "title": "Začepené Citrusné Tákania",
+  "description": "This citrusy, crunchy Slovakian dish features cooking wine and tandoor to create an energizing snack, suitable for Jain followers.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cooking Wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "Tandoori Chicken",
+      "amount": "250g"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Juice of 1 Lemon",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Citrus Zest (optional)",
+      "notes": "from 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor to medium heat.",
+    "Season Tandoori Chicken with Ginger Paste and Sesame Oil.",
+    "Place seasoned chicken in preheated tandoor for about 8-10 minutes, turning occasionally.",
+    "While chicken is cooking, mix Garlic Paste with Cooking Wine, Lemon Juice, and optional Citrus Zest to form a marinade.",
+    "Once chicken is done, remove from tandoor and let it rest for a few minutes before slicing into small pieces.",
+    "Drizzle the reserved marinade over sliced Tandoori Chicken.",
+    "Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "citrusy",
+    "crunchy",
+    "energizing",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "zacepene-citrusne-takania",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zacepene-citrusne-takania",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:44:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "cooking wine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "citrus",
+    "descriptor": "Začepené",
+    "dishForm": "Tacos"
+  }
+}
