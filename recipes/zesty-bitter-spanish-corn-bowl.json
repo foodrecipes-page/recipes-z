@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Bitter Spanish Corn Bowl",
+  "description": "A festive Valencian-inspired corn arepa bowl filled with airy, dairy-free mozzarella, brightened with a citrusy bitter vinaigrette, served in a stone bowl for authentic texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "100 g",
+      "notes": "for arepa batter"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml",
+      "notes": "to form batter"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "80 g",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30 ml",
+      "notes": "fresh"
+    },
+    {
+      "name": "bitter orange zest",
+      "amount": "1 tsp",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "sea salt",
+      "amount": "0.5 tsp",
+      "notes": "for vinaigrette"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "15 g",
+      "notes": "chopped, garnish"
+    }
+  ],
+  "instructions": [
+    "Mix cornmeal, water, salt, and smoked paprika until a thick batter forms.",
+    "Shape batter into 4 small discs and fry in a hot skillet with a splash of olive oil until golden on both sides.",
+    "Remove discs and let cool on a rack for a few minutes.",
+    "Slice each arepa horizontally and spoon softened vegan mozzarella into the center.",
+    "Warm the filled arepas again in the skillet until the cheese melts and edges crisp up.",
+    "In a small bowl whisk lime juice, bitter orange zest, sea salt, and olive oil to create a zesty vinaigrette.",
+    "Drizzle the vinaigrette over the arepas and garnish with chopped cilantro.",
+    "Serve immediately in a stone bowl for a rustic finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "valencian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "zesty-bitter-spanish-corn-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bitter-spanish-corn-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:14:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "dairy-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "corn",
+    "descriptor": "Zesty Bitter",
+    "dishForm": "Bowl"
+  }
+}
