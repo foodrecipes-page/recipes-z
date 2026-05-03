@@ -716,6 +716,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-uruguayan-beef-stew",
+    "title": "Zesty Uruguayan Beef Stew",
+    "tags": [
+      "beef",
+      "fluffy",
+      "one-pot",
+      "spicy",
+      "stew",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 110,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-uruguayan-chicken-salad",
     "title": "Zesty Uruguayan Chicken Salad",
     "tags": [

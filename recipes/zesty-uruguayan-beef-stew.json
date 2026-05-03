@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Uruguayan Beef Stew",
+  "description": "A fatty, fluffy one-pot stew bursting with zesty flavors, sweet candy, and hearty beef stock cubes.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "450 g"
+    },
+    {
+      "name": "beef stock cubes",
+      "amount": "2"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "candy sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a Dutch oven over medium-high until shimmering.",
+    "Add beef cubes and brown on all sides, about 5 minutes.",
+    "Stir in diced onion and minced garlic, cooking until onion softens, about 3 minutes.",
+    "Sprinkle in paprika and cumin, stir to coat meat and aromatics, about 30 seconds.",
+    "Pour in beef broth and dissolve the stock cubes, then stir in candy sugar.",
+    "Add sliced carrot, bay leaf, and season with salt to taste.",
+    "Bring mixture to a gentle boil, then reduce heat to low, cover, and simmer for 90 minutes, stirring occasionally.",
+    "Check for tenderness; the beef should be fork-tender and the sauce slightly thickened.",
+    "Remove the bay leaf, adjust seasoning, and let the stew rest for 5 minutes before serving.",
+    "Ladle stew into bowls, garnish with fresh parsley if desired, and enjoy a fluffy, zesty Uruguayan beef stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 95,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "fluffy",
+    "one-pot",
+    "spicy",
+    "stew",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "zesty-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:32:20Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}
