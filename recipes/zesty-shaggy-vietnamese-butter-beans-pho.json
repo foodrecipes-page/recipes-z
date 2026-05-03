@@ -1,0 +1,119 @@
+{
+  "title": "zesty shaggy vietnamese butter beans pho",
+  "description": "a floral, shaggy, monsoon vietnamese dish featuring butter beans, dashi-extract, and a sugar-free broth",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried butter beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1 tsp",
+      "notes": "such as stevia"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp of vegetable oil in a large pot over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and sliced ginger and cook for another minute.",
+    "add the soaked butter beans, dashi-extract, vegetable broth, fish sauce (if using), lime juice, sugar-free sweetener, cinnamon, and star anise to the pot.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "season the broth with salt to taste.",
+    "serve the pho hot, garnished with chopped herbs such as cilantro or basil.",
+    "serve with rice noodles or rice on the side, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "monsoon",
+    "sugar-free",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-shaggy-vietnamese-butter-beans-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-shaggy-vietnamese-butter-beans-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:25:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "butter beans",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "butter beans",
+    "descriptor": "Zesty Shaggy",
+    "dishForm": "Pho"
+  }
+}
