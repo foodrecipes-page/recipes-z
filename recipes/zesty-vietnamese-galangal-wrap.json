@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Vietnamese Galangal Wrap",
+  "description": "A rich and comforting Vietnamese dish featuring galangal and confit tomato, wrapped in a low-carb corn husk wrap.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "In a blender or food processor, combine galangal, fish sauce, lime juice, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, combine the grilled chicken, confit tomato, and galangal sauce, and toss to combine.",
+    "Soak the corn husk wraps in water for 30 seconds to make them pliable.",
+    "Assemble the wraps by spooning the chicken and tomato mixture onto the center of each wrap.",
+    "Top with chopped cilantro and serve immediately.",
+    "Serve with additional lime wedges and fish sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "confit-tomato",
+    "corn-husk-wraps",
+    "galangal",
+    "grilled-chicken",
+    "low-carb",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-vietnamese-galangal-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-galangal-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:53:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "galangal-kha",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "galangal",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Wrap"
+  }
+}
