@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Velvety Croatian Egg Frittata",
+  "description": "A spicy, velvety frittata that doubles as a hangover cure, featuring free-range eggs folded with roasted peppers, feta, and a splash of white wine, perfect for a vegetarian breakfast.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100 g, crumbled"
+    },
+    {
+      "name": "white wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp, to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp, freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a 20 cm non-stick skillet over medium heat.",
+    "Add diced bell peppers and sauté until softened, about 5 minutes.",
+    "Whisk the eggs with white wine, salt, pepper, and oregano in a bowl until fully blended.",
+    "Pour the egg mixture over the peppers, tilting the pan to spread evenly.",
+    "Sprinkle crumbled feta evenly across the surface.",
+    "Cook undisturbed for 4 minutes until the edges set but center remains slightly runny.",
+    "Gently lift and fold the edges toward the center, creating a loose crescent.",
+    "Finish cooking until the top is set and the frittata is lightly golden, about 3 more minutes; serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "frittata",
+    "hangover-cure",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 355,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 28
+  },
+  "slug": "zesty-velvety-croatian-egg-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-croatian-egg-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:50:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "egg",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Frittata"
+  }
+}

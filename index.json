@@ -822,6 +822,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-velvety-croatian-egg-frittata",
+    "title": "Zesty Velvety Croatian Egg Frittata",
+    "tags": [
+      "breakfast",
+      "frittata",
+      "hangover-cure",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-velvety-portuguese-beans-stir-fry",
     "title": "Zesty Velvety Portuguese Beans Stir-fry",
     "tags": [
