@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Fresh Australian Tomato Soup",
+  "description": "A light, citrus‑y tomato soup bursting with fresh cilantro, perfect for meal‑prep and free of eggs.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ripe tomatoes",
+      "amount": "800 g",
+      "notes": "Chopped into bite‑size pieces"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "30 g",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Medium onion",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 L",
+      "notes": "Low‑sodium if desired"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Adds brightness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "Optional, for heat"
+    }
+  ],
+  "instructions": [
+    "Wash all produce thoroughly and pat dry.",
+    "Dice the onion and mince the garlic.",
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and sauté for 3–4 minutes until translucent.",
+    "Add the minced garlic and cook for an additional 30 seconds, stirring constantly.",
+    "Add the chopped tomatoes and stir to combine, cooking for 5 minutes until the tomatoes start to soften.",
+    "Pour in the vegetable broth, bring the mixture to a gentle boil, then reduce heat and simmer for 10 minutes to allow flavors to meld.",
+    "Stir in the chopped cilantro, fresh lemon juice, salt, pepper, and optional chili flakes.",
+    "Simmer for an additional 2 minutes.",
+    "Using an immersion blender, puree the soup until smooth (or transfer to a countertop blender in batches).",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, or cool and refrigerate for meal‑prep portions.",
+    "Reheat gently before serving, adding a splash of water if the soup thickens too much."
+  ],
+  "slug": "zesty-fresh-australian-tomato-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fresh-australian-tomato-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:03:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Zesty Fresh",
+    "dishForm": "Soup"
+  }
+}
