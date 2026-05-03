@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Slice the zucchinis into coins about 1/4 inch thick.",
     "Sprinkle a little salt and pepper on both sides of the sliced zucchini.",
     "In a small bowl, mix the potato starch with water until smooth. Add lemon juice if using for extra brightness.",
@@ -50,7 +50,7 @@
   "difficulty": "easy",
   "tags": [
     "zucchini",
-    "potato starch",
+    "potato-starch",
     "tunisian"
   ],
   "nutrition": {

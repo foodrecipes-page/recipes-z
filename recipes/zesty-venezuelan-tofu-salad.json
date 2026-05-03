@@ -11,10 +11,10 @@
     {
       "name": "Firm tofu",
       "amount": "200g",
-      "notes": "cut into 1‑inch cubes, press to remove excess moisture"
+      "notes": "cut into 1\u2011inch cubes, press to remove excess moisture"
     },
     {
-      "name": "Extra‑virgin olive oil",
+      "name": "Extra\u2011virgin olive oil",
       "amount": "2 tbsp",
       "notes": "used for pan searing"
     },
@@ -61,10 +61,10 @@
   ],
   "instructions": [
     "Press tofu cubes for 15 minutes to remove moisture, then pat dry.",
-    "In a bowl whisk together olive oil, lemon juice, lime juice, minced habanero (if using), 1 tsp salt, and ½ tsp pepper.",
+    "In a bowl whisk together olive oil, lemon juice, lime juice, minced habanero (if using), 1 tsp salt, and \u00bd tsp pepper.",
     "Add tofu cubes to the bowl, toss until evenly coated, and let marinate for 10 minutes.",
-    "Heat a non‑stick skillet over medium‑high heat and sear tofu until golden on all sides, about 5 minutes total.",
-    "While tofu cooks, roast corn kernels in a dry skillet or oven at 400°F (200°C) until slightly charred, about 5 minutes.",
+    "Heat a non\u2011stick skillet over medium\u2011high heat and sear tofu until golden on all sides, about 5 minutes total.",
+    "While tofu cooks, roast corn kernels in a dry skillet or oven at 400\u00b0F (200\u00b0C) until slightly charred, about 5 minutes.",
     "In a large bowl combine roasted corn, black beans, sliced red onion, diced avocado, and chopped cilantro.",
     "Fold the seared tofu into the bowl, stirring gently to mix.",
     "Taste and adjust seasoning with extra salt or pepper if desired. Serve immediately."
@@ -86,5 +86,20 @@
     "mainIngredient": "Tofu",
     "descriptor": "Zesty",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "lunch"
+  ]
 }

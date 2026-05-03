@@ -1,6 +1,6 @@
 {
   "title": "Zesty Golden Slovakian Cauliflower Soup",
-  "description": "A savory, creamy cauliflower soup infused with a bright yellow hue, spicy tadka, and keto‑friendly ingredients, perfect for an energizing meal.",
+  "description": "A savory, creamy cauliflower soup infused with a bright yellow hue, spicy tadka, and ketofriendly ingredients, perfect for an energizing meal.",
   "cuisine": "Slovakian",
   "diet": [
     "vegetarian",
@@ -10,51 +10,51 @@
   "ingredients": [
     {
       "name": "cauliflower florets",
-      "amount": "1 medium head (≈1.5 kg)",
-      "notes": "cut into bite‑size pieces"
+      "amount": "1 medium head (\u22481.5\u202fkg)",
+      "notes": "cut into bite\u2011size pieces"
     },
     {
       "name": "coconut milk",
-      "amount": "400 ml",
-      "notes": "full‑fat for creaminess"
+      "amount": "400\u202fml",
+      "notes": "full\u2011fat for creaminess"
     },
     {
-      "name": "low‑sodium vegetable broth",
-      "amount": "500 ml"
+      "name": "low\u2011sodium vegetable broth",
+      "amount": "500\u202fml"
     },
     {
       "name": "olive oil",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     },
     {
       "name": "onion, diced",
-      "amount": "1 medium"
+      "amount": "1\u202fmedium"
     },
     {
       "name": "garlic cloves, minced",
-      "amount": "3 g"
+      "amount": "3\u202fg"
     },
     {
       "name": "carrot, grated",
-      "amount": "1 medium"
+      "amount": "1\u202fmedium"
     },
     {
       "name": "yellow food coloring",
-      "amount": "3 drops",
+      "amount": "3\u202fdrops",
       "notes": "adjust to desired hue"
     },
     {
       "name": "tadka spice mix (cumin seeds, mustard seeds, dried chili flakes, asafoetida)",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "fresh cilantro, chopped",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "for garnish"
     },
     {
       "name": "lemon juice",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "salt and black pepper",
@@ -63,13 +63,13 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the tadka spice mix and sauté for 30 seconds until fragrant.",
-    "Stir in the diced onion, minced garlic, and grated carrot; cook until the onion becomes translucent (≈4 minutes).",
-    "Add the cauliflower florets, low‑sodium vegetable broth, and coconut milk; bring to a gentle boil.",
-    "Reduce heat, cover, and simmer for 15 minutes until the cauliflower is tender.",
+    "Add the tadka spice mix and saut\u00e9 for 30\u202fseconds until fragrant.",
+    "Stir in the diced onion, minced garlic, and grated carrot; cook until the onion becomes translucent (\u22484\u202fminutes).",
+    "Add the cauliflower florets, low\u2011sodium vegetable broth, and coconut milk; bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 15\u202fminutes until the cauliflower is tender.",
     "Remove the pot from heat and use an immersion blender to puree the soup until smooth (or transfer to a blender in batches).",
     "Return the soup to low heat, stir in the yellow food coloring and lemon juice, and season with salt and pepper.",
-    "Simmer for an additional 5 minutes to allow flavors to meld.",
+    "Simmer for an additional 5\u202fminutes to allow flavors to meld.",
     "Taste and adjust seasoning as needed.",
     "Serve hot, garnished with chopped cilantro and a drizzle of olive oil if desired."
   ],

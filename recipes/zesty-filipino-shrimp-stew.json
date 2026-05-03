@@ -1,6 +1,6 @@
 {
   "title": "Zesty Filipino Shrimp Stew",
-  "description": "A tangy, citrusy shrimp stew with wholegrain mustard, a hint of tamarind, and small dumpling bits—sugar‑free and quick for a solo dinner.",
+  "description": "A tangy, citrusy shrimp stew with wholegrain mustard, a hint of tamarind, and small dumpling bits-sugarfree and quick for a solo dinner.",
   "cuisine": "Filipino",
   "diet": [
     "gluten-free",
@@ -11,12 +11,12 @@
     {
       "name": "Shrimp, peeled and deveined",
       "amount": "300 g",
-      "notes": "about 10–12 medium shrimp, keep tails on for flavor"
+      "notes": "about 10\u201312 medium shrimp, keep tails on for flavor"
     },
     {
       "name": "Onion, diced",
       "amount": "1 medium (150 g)",
-      "notes": "sauté until translucent"
+      "notes": "saut\u00e9 until translucent"
     },
     {
       "name": "Garlic, minced",
@@ -49,8 +49,8 @@
       "notes": "umami boost"
     },
     {
-      "name": "Dumpling wrappers (gluten‑free if desired)",
-      "amount": "6–8 wrappers (≈50 g)",
+      "name": "Dumpling wrappers (gluten\u2011free if desired)",
+      "amount": "6\u20138 wrappers (\u224850 g)",
       "notes": "cut into small pieces to thicken and add texture"
     },
     {
@@ -71,15 +71,15 @@
   ],
   "instructions": [
     "In a medium pot, heat 1 tsp oil over medium heat.",
-    "Add diced onion and minced garlic; sauté 2–3 min until onion is translucent and garlic is aromatic.",
+    "Add diced onion and minced garlic; saut\u00e9 2\u20133 min until onion is translucent and garlic is aromatic.",
     "Stir in diced tomato and cook another 2 min.",
     "Add wholegrain mustard, tamarind paste, fish sauce, and water (or stock); bring to a gentle boil.",
-    "Reduce heat to medium–low, then add shrimp. Cook 3–4 min, or until shrimp turn pink and opaque.",
-    "Break dumpling wrappers into small pieces and stir into the stew; simmer for another 1–2 min until the dumplings are cooked.",
+    "Reduce heat to medium\u2013low, then add shrimp. Cook 3\u20134 min, or until shrimp turn pink and opaque.",
+    "Break dumpling wrappers into small pieces and stir into the stew; simmer for another 1\u20132 min until the dumplings are cooked.",
     "Add sliced chili and cook 30 sec, if using.",
     "Taste and adjust seasoning with salt or additional fish sauce if needed.",
     "Remove from heat, stir in chopped cilantro, and serve hot, optionally topped with green onions.",
-    "Enjoy a fragrant, tangy shrimp stew that’s quick, sweet‑free, and gluten‑free."
+    "Enjoy a fragrant, tangy shrimp stew that\u2019s quick, sweet\u2011free, and gluten\u2011free."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,

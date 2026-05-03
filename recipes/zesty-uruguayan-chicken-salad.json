@@ -1,6 +1,6 @@
 {
   "title": "Zesty Uruguayan Chicken Salad",
-  "description": "A fresh, light keto-friendly salad featuring aromatic green cardamom and a citrus‑herb dressing that showcases the flavors of Uruguay.",
+  "description": "A fresh, light keto-friendly salad featuring aromatic green cardamom and a citrusherb dressing that showcases the flavors of Uruguay.",
   "cuisine": "Uruguayan",
   "diet": [
     "keto"
@@ -24,7 +24,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "freshly ground"
     },
     {
@@ -40,12 +40,12 @@
     {
       "name": "fresh lemon juice",
       "amount": "1 tbsp",
-      "notes": "from about ½ lemon"
+      "notes": "from about \u00bd lemon"
     },
     {
       "name": "lime juice",
       "amount": "1 tbsp",
-      "notes": "from about ½ lime"
+      "notes": "from about \u00bd lime"
     },
     {
       "name": "fresh cilantro",
@@ -64,7 +64,7 @@
     },
     {
       "name": "red onion",
-      "amount": "¼ cup",
+      "amount": "\u00bc cup",
       "notes": "thinly sliced"
     },
     {
@@ -94,14 +94,14 @@
     }
   ],
   "instructions": [
-    "In a bowl whisk together 1 tbsp olive oil, 1 tsp salt, ½ tsp black pepper, 1 tsp ground coriander, crushed 2 green cardamom pods, 1 tbsp lemon juice, 1 tbsp lime juice, 1 tbsp chopped cilantro, and 1 tbsp chopped parsley to create a bright marination sauce.",
+    "In a bowl whisk together 1 tbsp olive oil, 1 tsp salt, \u00bd tsp black pepper, 1 tsp ground coriander, crushed 2 green cardamom pods, 1 tbsp lemon juice, 1 tbsp lime juice, 1 tbsp chopped cilantro, and 1 tbsp chopped parsley to create a bright marination sauce.",
     "Pat the chicken breasts dry and coat them evenly with the marination mixture. Let sit for 10 minutes to absorb flavors.",
-    "Heat a grill pan or skillet over medium‑high heat. Add a splash of olive oil and cook the chicken for 6–7 minutes per side, or until the internal temperature reaches 165°F (75°C).",
+    "Heat a grill pan or skillet over medium\u2011high heat. Add a splash of olive oil and cook the chicken for 6\u20137 minutes per side, or until the internal temperature reaches 165\u00b0F (75\u00b0C).",
     "Transfer the chicken to a cutting board, tent with foil, and rest for 5 minutes. Then slice into strips.",
     "While the chicken rests, whisk together 1 tbsp olive oil, 1 tsp apple cider vinegar, 1 tsp Dijon mustard, 1 tbsp lemon juice, 1 tbsp lime juice, and 1 tbsp toasted sunflower seeds to make a zesty dressing.",
-    "In a large bowl toss 2 cups mixed greens, ¼ cup red onion slices, and 1 diced avocado until coated with the dressing.",
+    "In a large bowl toss 2 cups mixed greens, \u00bc cup red onion slices, and 1 diced avocado until coated with the dressing.",
     "Top the greens with the sliced chicken, then sprinkle with the remaining chopped cilantro and parsley.",
-    "Serve immediately for a fresh, keto‑friendly lunch that highlights Uruguayan flavor."
+    "Serve immediately for a fresh, keto\u2011friendly lunch that highlights Uruguayan flavor."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,

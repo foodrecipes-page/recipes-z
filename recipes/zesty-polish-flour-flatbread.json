@@ -1,6 +1,6 @@
 {
   "title": "Zesty Polish Flour Flatbread",
-  "description": "A fluffy, citrusy flatbread with a romantic Polish twist, finished with a fragrant tadka and completely sugar‑free friendly.",
+  "description": "A fluffy, citrusy flatbread with a romantic Polish twist, finished with a fragrant tadka and completely sugarfree friendly.",
   "cuisine": "Polish",
   "diet": [
     "vegan",
@@ -20,7 +20,7 @@
     {
       "name": "warm water",
       "amount": "150 ml",
-      "notes": "40 °C"
+      "notes": "40\u202f\u00b0C"
     },
     {
       "name": "olive oil",
@@ -46,7 +46,7 @@
     },
     {
       "name": "cumin seeds",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "dried red chili flakes",
@@ -64,14 +64,14 @@
     }
   ],
   "instructions": [
-    "In a bowl, combine warm water and yeast; let sit 2–3 minutes until frothy.",
+    "In a bowl, combine warm water and yeast; let sit 2\u20133 minutes until frothy.",
     "Add flour, salt, lemon zest, lemon juice, dried basil, and 1 tbsp olive oil to the yeast mixture. Stir until a shaggy dough forms.",
-    "Turn dough onto a floured surface and knead for 8–10 minutes until smooth and elastic.",
+    "Turn dough onto a floured surface and knead for 8\u201310 minutes until smooth and elastic.",
     "Place dough in a lightly oiled bowl, cover, and let rise in a warm place for 60 minutes or until doubled in size.",
-    "Punch down the dough, divide into 4 equal portions, and shape each into a round flatbread about 15 cm in diameter.",
-    "Preheat oven to 220 °C (428 °F) with a baking stone or steel if available.",
-    "Bake flatbreads on the stone for 12–15 minutes, or until golden brown and puffed.",
-    "While baking, heat 1 tbsp olive oil in a small skillet over medium heat. Add cumin seeds, red chili flakes, and minced garlic; sauté for 1–2 minutes until fragrant.",
+    "Punch down the dough, divide into 4 equal portions, and shape each into a round flatbread about 15\u202fcm in diameter.",
+    "Preheat oven to 220\u202f\u00b0C (428\u202f\u00b0F) with a baking stone or steel if available.",
+    "Bake flatbreads on the stone for 12\u201315 minutes, or until golden brown and puffed.",
+    "While baking, heat 1 tbsp olive oil in a small skillet over medium heat. Add cumin seeds, red chili flakes, and minced garlic; saut\u00e9 for 1\u20132 minutes until fragrant.",
     "Brush the hot tadka over the freshly baked flatbreads and serve immediately.",
     "For an extra citrus kick, drizzle a little fresh lemon juice over the flatbreads before serving."
   ],

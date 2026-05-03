@@ -1,6 +1,6 @@
 {
   "title": "Zesty Fresh Australian Tomato Soup",
-  "description": "A light, citrus‑y tomato soup bursting with fresh cilantro, perfect for meal‑prep and free of eggs.",
+  "description": "A light, citrusy tomato soup bursting with fresh cilantro, perfect for mealprep and free of eggs.",
   "cuisine": "Australian",
   "diet": [
     "vegetarian",
@@ -11,7 +11,7 @@
     {
       "name": "Ripe tomatoes",
       "amount": "800 g",
-      "notes": "Chopped into bite‑size pieces"
+      "notes": "Chopped into bite\u2011size pieces"
     },
     {
       "name": "Fresh cilantro leaves",
@@ -31,12 +31,12 @@
     {
       "name": "Vegetable broth",
       "amount": "1 L",
-      "notes": "Low‑sodium if desired"
+      "notes": "Low\u2011sodium if desired"
     },
     {
       "name": "Olive oil",
       "amount": "2 tbsp",
-      "notes": "For sautéing"
+      "notes": "For saut\u00e9ing"
     },
     {
       "name": "Fresh lemon juice",
@@ -63,7 +63,7 @@
     "Wash all produce thoroughly and pat dry.",
     "Dice the onion and mince the garlic.",
     "Heat the olive oil in a large pot over medium heat until shimmering.",
-    "Add the diced onion and sauté for 3–4 minutes until translucent.",
+    "Add the diced onion and saut\u00e9 for 3\u20134 minutes until translucent.",
     "Add the minced garlic and cook for an additional 30 seconds, stirring constantly.",
     "Add the chopped tomatoes and stir to combine, cooking for 5 minutes until the tomatoes start to soften.",
     "Pour in the vegetable broth, bring the mixture to a gentle boil, then reduce heat and simmer for 10 minutes to allow flavors to meld.",
@@ -71,7 +71,7 @@
     "Simmer for an additional 2 minutes.",
     "Using an immersion blender, puree the soup until smooth (or transfer to a countertop blender in batches).",
     "Taste and adjust seasoning if needed.",
-    "Serve hot, or cool and refrigerate for meal‑prep portions.",
+    "Serve hot, or cool and refrigerate for meal\u2011prep portions.",
     "Reheat gently before serving, adding a splash of water if the soup thickens too much."
   ],
   "slug": "zesty-fresh-australian-tomato-soup",
@@ -91,5 +91,20 @@
     "mainIngredient": "Tomato",
     "descriptor": "Zesty Fresh",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "lunch"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Zesty Juicy Turkish Beef Stew",
-  "description": "A citrusy, hearty beef stew packed with fragrant tomatoes, aromatic spices, and bright citrus zest, perfect for a brunch‑savvy Turkish-style meal.",
+  "description": "A citrusy, hearty beef stew packed with fragrant tomatoes, aromatic spices, and bright citrus zest, perfect for a brunchsavvy Turkish-style meal.",
   "cuisine": "Turkish",
   "diet": [
     "non-vegetarian"
@@ -53,14 +53,14 @@
     },
     {
       "name": "Black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
     "Cut the flank steak into 2.5 cm cubes and season lightly with salt and pepper.",
     "Heat 1 tbsp of olive oil in a large Dutch oven over medium-high heat until shimmering.",
     "Sear the beef cubes in batches, cooking until all sides are browned; remove and set aside.",
-    "Add the remaining tablespoon of olive oil, then sauté the diced onion until translucent.",
+    "Add the remaining tablespoon of olive oil, then saut\u00e9 the diced onion until translucent.",
     "Add minced garlic and cook for an additional 30 seconds until fragrant.",
     "Stir in tomato paste, cooking for 1 minute to deepen the flavor.",
     "Pour in the beef broth, scraping up any browned bits from the bottom of the pan.",
@@ -85,5 +85,20 @@
     "mainIngredient": "beef",
     "descriptor": "Zesty Juicy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "turkish",
+    "breakfast"
+  ]
 }

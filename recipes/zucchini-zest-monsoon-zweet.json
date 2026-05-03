@@ -5,7 +5,7 @@
   "diet": [
     "diabetic-friendly"
   ],
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Zucchini",
@@ -34,7 +34,7 @@
   ],
   "instructions": [
     "Trim the ends of the zucchini and slice them into rounds.",
-    "In a large pan, heat olive oil over medium heat. Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "In a large pan, heat olive oil over medium heat. Add minced garlic and saut\u00e9 for about 30 seconds until fragrant.",
     "Add sliced zucchini to the pan. Season with kosher salt and cook for about 5 minutes or until they start to soften slightly.",
     "Drizzle on diabetes-friendly tamari sauce (if using), stir well, then continue cooking for an additional 2-3 minutes to allow flavors to meld together.",
     "Once fully cooked, remove from heat and serve immediately."
@@ -52,9 +52,9 @@
   ],
   "nutrition": {
     "calories": 95,
-    "protein": 2.7,
-    "carbs": 16.3,
-    "fat": 4.8
+    "protein": 3,
+    "carbs": 16,
+    "fat": 5
   },
   "slug": "zucchini-zest-monsoon-zweet",
   "source": "ollama-qwen2.5:3b",
