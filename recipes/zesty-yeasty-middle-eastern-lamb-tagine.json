@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Yeasty Middle Eastern Lamb Tagine",
+  "description": "A rich and aromatic one-pot dish featuring tender lamb, tangy tamarind, and a hint of yeast. Perfect for a comforting dinner or special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crusty bread, sliced",
+      "amount": "4-6 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the tamarind paste and cook for 1 minute, stirring constantly.",
+    "Pour in the broth and bring to a boil.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the yeast and salt.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Garnish with parsley and serve with crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "middle-eastern",
+    "one-pot",
+    "tagine",
+    "tamarind",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "zesty-yeasty-middle-eastern-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-middle-eastern-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:48:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "tamarind paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Tagine"
+  }
+}

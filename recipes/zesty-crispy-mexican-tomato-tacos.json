@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Crispy Mexican Tomato Tacos",
+  "description": "Earthy, crispy tacos featuring tomato juice, fried tamales, and a salt block, perfect for a keto-friendly solo dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 medium",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tomato juice",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for depth"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "for warmth"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Mozzarella shredded",
+      "amount": "1/4 cup",
+      "notes": "keto cheese"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "low‑carb dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "binder"
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1/4 tsp",
+      "notes": "thickening"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine almond flour, egg, xanthan gum, and 1 tsp of salt to form a dough, then roll into small tamale shapes.",
+    "Place a salt block in the oven and preheat to 450°F.",
+    "Heat olive oil and butter in a skillet over medium‑high heat, add diced tomatoes and spices, and cook until tomatoes soften, about five minutes.",
+    "Add tomato juice to the skillet, bring to a simmer, and let reduce for three minutes.",
+    "Fold shredded mozzarella into the tomato mixture, stirring until melted.",
+    "Remove the skillet from heat, allow the mixture to cool slightly, then stir in chopped cilantro.",
+    "Place each tamale onto the hot salt block, positioning them flat.",
+    "Cook tamales on the salt block for four minutes on each side, until edges are crispy and golden.",
+    "Use a spatula to transfer cooked tamales to a serving plate.",
+    "Serve tacos hot, optionally garnishing with extra cilantro or lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "taco-night"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 5,
+    "carbs": 11,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-mexican-tomato-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-mexican-tomato-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:49:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "tomato juice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomato",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Tacos"
+  }
+}

@@ -209,6 +209,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-mexican-tomato-tacos",
+    "title": "Zesty Crispy Mexican Tomato Tacos",
+    "tags": [
+      "easy-to-make",
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "quick",
+      "taco-night"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-rocket-soup",
     "title": "Zesty Croatian Rocket Soup",
     "tags": [
@@ -868,6 +883,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-yeasty-middle-eastern-lamb-tagine",
+    "title": "Zesty Yeasty Middle Eastern Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb",
+      "middle-eastern",
+      "one-pot",
+      "tagine",
+      "tamarind",
+      "yeast"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 180,
     "shard": "z"
   },
   {
