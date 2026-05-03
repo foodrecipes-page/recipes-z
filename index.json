@@ -92,6 +92,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-avocado-salad",
+    "title": "Zesty Mexican Avocado Salad",
+    "tags": [
+      "mexican",
+      "avocado",
+      "keto-friendly",
+      "vegan",
+      "salad",
+      "zesty",
+      "quick"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-moroccan-lemon-stir-fry",
     "title": "Zesty Moroccan Lemon Stir-fry",
     "tags": [
