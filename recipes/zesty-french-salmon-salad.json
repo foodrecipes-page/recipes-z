@@ -1,6 +1,6 @@
 {
   "title": "Zesty French Salmon Salad",
-  "description": "A spicy, light salmon salad with tandoori‑flavored yogurt dressing, fresh mint, and crisp vegetables for a solo French dinner.",
+  "description": "A spicy, light salmon salad with tandooriflavored yogurt dressing, fresh mint, and crisp vegetables for a solo French dinner.",
   "cuisine": "French",
   "diet": [
     "pescatarian",
@@ -56,13 +56,13 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200°C (400°F).",
+    "Preheat the oven to 200\u00b0C (400\u00b0F).",
     "Brush the salmon fillet with olive oil, sprinkle with tandoori garam masala, salt, and pepper.",
-    "Roast the salmon in the oven for 12–15 minutes until it reaches an internal temperature of 145°F (63°C).",
+    "Roast the salmon in the oven for 12\u201315 minutes until it reaches an internal temperature of 145\u00b0F (63\u00b0C).",
     "While the salmon cooks, mix yogurt, lemon zest, lemon juice, and chopped mint in a small bowl.",
     "In a salad bowl, combine the diced red onion, sliced cucumber, and halved cherry tomatoes.",
     "When the salmon is done, let it rest for 2 minutes, then flake it into the salad.",
-    "Drizzle the mint‑yogurt dressing over the salad and gently toss to combine.",
+    "Drizzle the mint\u2011yogurt dressing over the salad and gently toss to combine.",
     "Serve immediately, garnished with extra mint leaves if desired."
   ],
   "prepTimeMin": 10,
