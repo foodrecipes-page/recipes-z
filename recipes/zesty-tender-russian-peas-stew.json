@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Tender Russian Peas Stew",
+  "description": "A rich, tender stew featuring frozen peas, roasted carrots and onions, and a bright lemon zing made in a tandoor, perfect for a paleo-friendly dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "500g frozen peas"
+    },
+    {
+      "name": "carrots",
+      "amount": "200g diced carrots"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves garlic"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp tomato paste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp ground cumin"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp lemon zest"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup vegetable broth"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp black pepper"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp fresh dill"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 200°C.",
+    "Toss diced carrots and quartered onions with 1 tbsp olive oil, salt, pepper, and cumin; spread on a metal tray and roast in the tandoor for 10 minutes until lightly charred.",
+    "While veggies roast, heat the remaining 1 tbsp olive oil in a large pot over medium heat and sauté minced garlic until fragrant, about 1 minute.",
+    "Add the roasted carrots, onions, and tomato paste to the pot, stirring to coat the vegetables and cook for 2 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
+    "Stir in frozen peas, lemon zest, and sea salt; cover and let simmer for 8 minutes until peas are tender and flavorful.",
+    "Add black pepper and dill, stirring gently, and simmer for another 2 minutes.",
+    "Taste and adjust seasoning with more salt or pepper if needed.",
+    "Ladle the stew into bowls and garnish with a sprinkle of fresh dill.",
+    "Serve hot with a side of fresh salad or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "paleo-friendly",
+    "quick-dinner",
+    "tandoor",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 14,
+    "carbs": 66,
+    "fat": 28
+  },
+  "slug": "zesty-tender-russian-peas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-russian-peas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:40:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "frozen peas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "peas",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Stew"
+  }
+}
