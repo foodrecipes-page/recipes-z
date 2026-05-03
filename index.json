@@ -219,6 +219,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-turkish-lentil-soup",
+    "title": "Zesty Turkish Lentil Soup",
+    "tags": [
+      "turkish-soup",
+      "low-sodium",
+      "vegetarian",
+      "lentils",
+      "spicy"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-turkish-shrimp-ceviche",
     "title": "Zesty Turkish Shrimp Ceviche",
     "tags": [

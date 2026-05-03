@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Turkish Lentil Soup",
+  "description": "A bright, low-sodium lentil soup packed with smoky paprika, fragrant cumin, and a kick of chili flakes, finished with a splash of lemon for a refreshing finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed, no salt"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 teaspoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic, diced carrot, cumin, smoked paprika, and chili flakes; cook, stirring, for 1 minute until fragrant.",
+    "Add rinsed lentils, vegetable broth, and water; bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes or until lentils are tender and the mixture has thickened.",
+    "Stir in lemon juice, tasting for acidity and adjusting if needed.",
+    "Remove from heat and let the soup sit, covered, for 5 minutes to steam and deepen flavors.",
+    "Ladle soup into bowls and optionally garnish with chopped fresh dill.",
+    "Serve hot with crusty bread or a side of yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-soup",
+    "low-sodium",
+    "vegetarian",
+    "lentils",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 5
+  },
+  "slug": "zesty-turkish-lentil-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-turkish-lentil-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:07:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "chilli flakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
