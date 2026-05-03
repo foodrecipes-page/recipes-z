@@ -107,6 +107,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-lentil-soup",
+    "title": "Zesty Syrian Lentil Soup",
+    "tags": [
+      "syrian",
+      "lentil-soup",
+      "meal-prep",
+      "low-calorie",
+      "vegan",
+      "quick"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-thai-tangerine-wrap",
     "title": "Zesty Thai Tangerine Wrap",
     "tags": [
