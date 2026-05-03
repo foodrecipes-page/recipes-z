@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Norwegian Beef Stew",
+  "description": "A peppery, juicy stew with a touch of vanilla braised to perfection for a savory brunch.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef chuck, cut into 1.5-inch cubes",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrots, sliced",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Potatoes, cubed",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "adds depth to savory broth"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat a Dutch oven over medium heat and brown the beef cubes in batches, about 5 minutes per side, then set aside.",
+    "Add a splash of oil to the pot and sauté the diced onion until translucent, about 4 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Return the beef to the pot, then add the sliced carrots and cubed potatoes, stirring to coat.",
+    "Pour in the red wine, scraping the bottom of the pot to deglaze, and let it reduce by half, about 5 minutes.",
+    "Stir in the tomato paste, beef broth, thyme, bay leaf, pepper, and vanilla extract, bringing the mixture to a gentle boil.",
+    "Reduce the heat to low, cover the pot, and braise for 60 minutes, turning occasionally until the beef is fork‑tender.",
+    "Remove the bay leaf, taste the stew, and adjust seasoning with salt if needed.",
+    "Serve the stew hot in bowls, garnished with fresh parsley if desired.",
+    "Pair with crusty rye bread for a complete Norwegian brunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-beef",
+    "breakfast",
+    "norwegian",
+    "peppery",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 80,
+    "carbs": 30,
+    "fat": 70
+  },
+  "slug": "zesty-norwegian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-norwegian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:08:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "vanilla extract",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Beef",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

@@ -81,6 +81,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-argentinian-pumpkin-roast",
+    "title": "Zesty Argentinian Pumpkin Roast",
+    "tags": [
+      "argentinian",
+      "broil",
+      "floral",
+      "one-pan",
+      "pumpkin",
+      "solo-dinner",
+      "zesty"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-british-brown-rice-noodle-sandwich",
     "title": "Zesty British Brown Rice Noodle Sandwich",
     "tags": [
@@ -366,6 +382,20 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-norwegian-beef-stew",
+    "title": "Zesty Norwegian Beef Stew",
+    "tags": [
+      "braised-beef",
+      "breakfast",
+      "norwegian",
+      "peppery",
+      "vanilla"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 105,
     "shard": "z"
   },
   {

@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Argentinian Pumpkin Roast",
+  "description": "A floral, gooey solo-dinner Argentinian dish featuring roasted pumpkin with a bright citrus glaze and a touch of smoky spice.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut pumpkin",
+      "amount": "1 medium (2 lbs)",
+      "notes": "cube"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "Toasted walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F.",
+    "In a bowl, combine pumpkin cubes, olive oil, rosemary, thyme, paprika, cumin, honey, lemon zest, salt, and pepper; toss until coated.",
+    "Spread the mixture in a single layer on a rimmed baking sheet.",
+    "Roast for 25 minutes, stirring halfway, until edges caramelize.",
+    "Remove from oven and let cool 5 minutes.",
+    "Sprinkle crumbled queso fresco evenly over the roasted pumpkin.",
+    "Drizzle a little extra honey for glossy finish.",
+    "Garnish with toasted walnuts and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "broil",
+    "floral",
+    "one-pan",
+    "pumpkin",
+    "solo-dinner",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "zesty-argentinian-pumpkin-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-argentinian-pumpkin-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:08:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "pumpkin",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Zesty",
+    "dishForm": "Roast"
+  }
+}
