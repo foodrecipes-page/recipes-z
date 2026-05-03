@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Algerian Pineapple Tagine",
+  "description": "A fragrant, citrus‑laden tagine featuring sweet pineapple chunks, tender chickpeas, and aromatic spices that soothe hangovers and delight the palate.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "pineapple",
+      "amount": "2 cups",
+      "notes": "fresh, chopped into chunks"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1/4 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": "powdered"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium tagine or heavy‑bottomed pot over medium heat.",
+    "Add the cumin, coriander, smoked paprika and grated ginger, sautéing for 30 seconds until fragrant, stirring constantly to prevent burning.",
+    "Add the pineapple chunks, orange zest, and chickpeas, stirring to coat with spices.",
+    "Pour in the lemon juice, add a pinch of salt, then reduce heat to low; cover and let simmer for 20 minutes, allowing flavors to meld and the pineapple to soften.",
+    "Remove the lid, increase heat to medium, and cook for an additional 5 minutes to thicken the sauce slightly.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Transfer to serving dishes and garnish with chopped fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "hangover-cure",
+    "tagine",
+    "pineapple",
+    "citrus",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "zesty-algerian-pineapple-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-algerian-pineapple-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:30:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}

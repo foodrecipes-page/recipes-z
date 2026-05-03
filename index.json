@@ -66,6 +66,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-algerian-pineapple-tagine",
+    "title": "Zesty Algerian Pineapple Tagine",
+    "tags": [
+      "jain-friendly",
+      "hangover-cure",
+      "tagine",
+      "pineapple",
+      "citrus",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-british-brown-rice-noodle-sandwich",
     "title": "Zesty British Brown Rice Noodle Sandwich",
     "tags": [
