@@ -183,6 +183,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-french-almond-roast",
+    "title": "Zesty French Almond Roast",
+    "tags": [
+      "easy",
+      "high-fiber",
+      "low-sugar",
+      "one-pan",
+      "snack"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-french-salmon-salad",
     "title": "Zesty French Salmon Salad",
     "tags": [

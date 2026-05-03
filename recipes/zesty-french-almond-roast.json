@@ -1,0 +1,89 @@
+{
+  "title": "Zesty French Almond Roast",
+  "description": "A nutty, juicy snack that blends French flavors with cumin and lemon for a sugar‑free, nostalgic treat.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "raw almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh chopped parsley",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375F (190C) and line a baking sheet with parchment paper.",
+    "Rinse the almonds and pat them dry with a paper towel.",
+    "In a medium bowl, toss the almonds with olive oil, cumin, smoked paprika, sea salt, and black pepper until coated.",
+    "Spread the coated almonds in a single layer on the prepared baking sheet.",
+    "Roast the almonds in the preheated oven for 12 to 15 minutes, stirring once halfway through, until golden brown and aromatic.",
+    "Remove the almonds from the oven and let them cool for about 5 minutes, then sprinkle chopped fresh parsley over them.",
+    "Toss the warm almonds gently to coat with parsley, and transfer to a serving bowl.",
+    "Enjoy the zesty, nutty almonds as a satisfying snack or store leftovers in an airtight container for up to a week."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "high-fiber",
+    "low-sugar",
+    "one-pan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 26
+  },
+  "slug": "zesty-french-almond-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-almond-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:55:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "cumin",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Almond",
+    "descriptor": "Zesty",
+    "dishForm": "Roast"
+  }
+}
