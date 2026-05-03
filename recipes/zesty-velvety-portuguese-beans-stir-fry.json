@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Velvety Portuguese Beans Stir-fry",
+  "description": "A bright, low-carb stir-fry packed with bitter green beans, smoky paprika, and citrus zest, delivering a velvety texture and energetic kick.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "800 g",
+      "notes": "trimmed and cut into 2 cm pieces"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "15 mL"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "50 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "20 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and red onion, sautéing until fragrant and translucent, about 3 minutes.",
+    "Stir in the green beans and sliced bay leaf, cooking for 5 minutes to start tenderizing.",
+    "Sprinkle the smoked paprika over the beans, stirring to coat evenly and release its aroma for 1 minute.",
+    "Pour in the lemon juice, add salt and pepper, and toss to combine, allowing the beans to steam in the citrusy liquid for 4 minutes.",
+    "Reduce heat to low, cover the skillet, and let the beans simmer until they reach a velvety texture, about 7 minutes.",
+    "Remove the bay leaf, then fold in the lemon zest and chopped parsley, stirring until the dish is bright and aromatic.",
+    "Serve hot, optionally garnishing with extra lemon zest for a zesty finish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ],
+  "slug": "zesty-velvety-portuguese-beans-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-portuguese-beans-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:44:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "green beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beans",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -462,6 +462,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-velvety-portuguese-beans-stir-fry",
+    "title": "Zesty Velvety Portuguese Beans Stir-fry",
+    "tags": [
+      "portuguese",
+      "dinner"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-venezuelan-tofu-salad",
     "title": "Zesty Venezuelan Tofu Salad",
     "tags": [],
