@@ -100,6 +100,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-salmon-soup",
+    "title": "Zesty Irish Salmon Soup",
+    "tags": [
+      "irish",
+      "salmon",
+      "zesty",
+      "paleo",
+      "sous-vide",
+      "soup",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [
