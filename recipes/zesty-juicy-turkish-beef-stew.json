@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Juicy Turkish Beef Stew",
+  "description": "A citrusy, hearty beef stew packed with fragrant tomatoes, aromatic spices, and bright citrus zest, perfect for a brunch‑savvy Turkish-style meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef flank steak",
+      "amount": "800 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 cup (juice of 1 lemon)"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tsp (lemon + orange)"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the flank steak into 2.5 cm cubes and season lightly with salt and pepper.",
+    "Heat 1 tbsp of olive oil in a large Dutch oven over medium-high heat until shimmering.",
+    "Sear the beef cubes in batches, cooking until all sides are browned; remove and set aside.",
+    "Add the remaining tablespoon of olive oil, then sauté the diced onion until translucent.",
+    "Add minced garlic and cook for an additional 30 seconds until fragrant.",
+    "Stir in tomato paste, cooking for 1 minute to deepen the flavor.",
+    "Pour in the beef broth, scraping up any browned bits from the bottom of the pan.",
+    "Return the browned beef to the pot, then add lemon juice, citrus zest, paprika, and cumin.",
+    "Bring the mixture to a gentle simmer, cover, and lower the heat to maintain a low simmer for 90 minutes, stirring occasionally.",
+    "When the beef is tender and the stew has thickened, taste and adjust seasoning if needed; serve hot over rice, bulgur, or fresh flatbread."
+  ],
+  "slug": "zesty-juicy-turkish-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-turkish-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:10:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "beef flank steak",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Juicy",
+    "dishForm": "Stew"
+  }
+}

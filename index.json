@@ -160,6 +160,14 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-juicy-turkish-beef-stew",
+    "title": "Zesty Juicy Turkish Beef Stew",
+    "tags": [],
+    "cuisine": "Turkish",
+    "totalTimeMin": null,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [
