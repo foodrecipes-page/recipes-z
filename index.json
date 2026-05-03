@@ -178,6 +178,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-creamy-portuguese-penne-pasta",
+    "title": "Zesty Creamy Portuguese Penne Pasta",
+    "tags": [
+      "creamy",
+      "meal-prep",
+      "penne",
+      "portuguese",
+      "sattvic-friendly",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-rocket-soup",
     "title": "Zesty Croatian Rocket Soup",
     "tags": [

@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Creamy Portuguese Penne Pasta",
+  "description": "A spicy, creamy penne rigate dish infused with Portuguese flavors, perfect for meal prep and a sattvic-friendly dining experience.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1, seeded and minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "300g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook penne in a large pot of salted boiling water until al dente, then drain and set aside.",
+    "In a skillet, heat olive oil over medium heat, add minced garlic and diced onion, sauté until translucent.",
+    "Add minced red chili and smoked paprika, cook for 1 minute until fragrant.",
+    "Stir in tomato paste and diced tomatoes, simmer for 5 minutes to reduce.",
+    "Transfer mixture to a bain-marie setup and whisk in heavy cream until smooth.",
+    "Return sauce to the skillet, heat gently, then stir in grated parmesan until melted.",
+    "Season with salt and black pepper to taste.",
+    "Toss the cooked penne into the sauce, combine thoroughly.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "meal-prep",
+    "penne",
+    "portuguese",
+    "sattvic-friendly",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 18
+  },
+  "slug": "zesty-creamy-portuguese-penne-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-portuguese-penne-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:20:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "penne rigate",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "penne",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Pasta"
+  }
+}
