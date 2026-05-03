@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Smoky French Oats Salad",
+  "description": "A bitter, crunchy and indulgent French salad that blends toasted oats with smoky salmon and roasted tomatoes for a pescatarian-friendly lunch.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": "toasted until golden"
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "200 g",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved and roasted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F and spread cherry tomatoes on a sheet pan.",
+    "Toast rolled oats in a dry skillet over medium heat until golden and fragrant, about 5 minutes.",
+    "Roast the cherry tomatoes in the oven until blistered, about 10 minutes.",
+    "Whisk together olive oil, Dijon mustard, lemon zest, salt, and pepper to create a vinaigrette.",
+    "In a large bowl, combine toasted oats, roasted tomatoes, and the vinaigrette, tossing until evenly coated.",
+    "Fold in smoked salmon strips gently, allowing the heat from the oats to warm the fish slightly.",
+    "Sprinkle chopped parsley and chives over the salad for freshness and color.",
+    "Serve immediately while the oats remain crunchy and the salmon stays moist.",
+    "Enjoy the zesty, smoky, and indulgent flavors of this French-inspired oat salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "indulgent",
+    "oat",
+    "pescatarian-friendly",
+    "salad",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 1022,
+    "protein": 53,
+    "carbs": 62,
+    "fat": 52
+  },
+  "slug": "zesty-smoky-french-oats-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-french-oats-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:05:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "oats",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "oats",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Salad"
+  }
+}

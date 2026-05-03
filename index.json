@@ -309,6 +309,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-kenyan-lentil-stew",
+    "title": "Zesty Kenyan Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [
@@ -417,6 +431,36 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-french-oats-salad",
+    "title": "Zesty Smoky French Oats Salad",
+    "tags": [
+      "french",
+      "indulgent",
+      "oat",
+      "pescatarian-friendly",
+      "salad",
+      "smoked"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-kenyan-chicken-flatbread",
+    "title": "Zesty Smoky Kenyan Chicken Flatbread",
+    "tags": [
+      "fajita",
+      "fluffy",
+      "high-protein",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
