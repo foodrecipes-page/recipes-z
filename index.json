@@ -168,6 +168,23 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-french-salmon-salad",
+    "title": "Zesty French Salmon Salad",
+    "tags": [
+      "salmon-salad",
+      "tandoor",
+      "pescatarian",
+      "gluten-free",
+      "french",
+      "zesty",
+      "spicy",
+      "light-dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fresh-australian-tomato-soup",
     "title": "Zesty Fresh Australian Tomato Soup",
     "tags": [],

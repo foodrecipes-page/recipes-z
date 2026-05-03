@@ -1,0 +1,107 @@
+{
+  "title": "Zesty French Salmon Salad",
+  "description": "A spicy, light salmon salad with tandoori‑flavored yogurt dressing, fresh mint, and crisp vegetables for a solo French dinner.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tandoori garam masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1/2 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Brush the salmon fillet with olive oil, sprinkle with tandoori garam masala, salt, and pepper.",
+    "Roast the salmon in the oven for 12–15 minutes until it reaches an internal temperature of 145°F (63°C).",
+    "While the salmon cooks, mix yogurt, lemon zest, lemon juice, and chopped mint in a small bowl.",
+    "In a salad bowl, combine the diced red onion, sliced cucumber, and halved cherry tomatoes.",
+    "When the salmon is done, let it rest for 2 minutes, then flake it into the salad.",
+    "Drizzle the mint‑yogurt dressing over the salad and gently toss to combine.",
+    "Serve immediately, garnished with extra mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "salmon-salad",
+    "tandoor",
+    "pescatarian",
+    "gluten-free",
+    "french",
+    "zesty",
+    "spicy",
+    "light-dinner"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 48,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "zesty-french-salmon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-salmon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:28:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "mint",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Salmon",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}
