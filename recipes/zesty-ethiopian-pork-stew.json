@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Ethiopian Pork Stew",
+  "description": "A bright, bitter stew with tender pork ribs simmered in a tomato‑based, red berbere sauce, perfect for a cozy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork back ribs",
+      "amount": "1 lb",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red berbere spice mixture",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "use low sodium if desired"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Press the sauté function on the pressure cooker and add a splash of oil.",
+    "Add the diced onion, minced garlic, and grated ginger, and sauté until fragrant and translucent.",
+    "Stir in the tomato paste and cook for 1 minute to caramelize.",
+    "Pour in the tomato sauce and mix thoroughly with the onion mixture.",
+    "Add the pork back ribs, red berbere spice, salt, and pepper, coating the meat evenly.",
+    "Pour in the vegetable broth, stir, then seal the pressure cooker lid and cook on high pressure for 25 minutes.",
+    "Release pressure naturally for 10 minutes, then quick release any remaining pressure.",
+    "Stir in fresh lemon juice to brighten the stew, adjust seasoning if needed.",
+    "Serve hot, garnished with fresh cilantro, accompanied by injera or steamed rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "family-friendly",
+    "one-pot",
+    "pressure-cook",
+    "spicy",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 880,
+    "protein": 54,
+    "carbs": 50,
+    "fat": 43
+  },
+  "slug": "zesty-ethiopian-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ethiopian-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:55:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pork back ribs",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

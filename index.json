@@ -165,6 +165,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ethiopian-pork-stew",
+    "title": "Zesty Ethiopian Pork Stew",
+    "tags": [
+      "ethiopian",
+      "family-friendly",
+      "one-pot",
+      "pressure-cook",
+      "spicy",
+      "warm"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-filipino-shrimp-stew",
     "title": "Zesty Filipino Shrimp Stew",
     "tags": [
