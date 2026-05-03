@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Smoky Dutch Lamb Stew",
+  "description": "A hearty, garlicky Dutch lamb stew with a smoky flavor, perfect for a crowd, featuring lamb shanks and dairy-free friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "bone-in"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with salt, black pepper, and smoked paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, then remove and set aside.",
+    "Add the sliced onion to the pot and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly.",
+    "Add the carrots, potatoes, vegetable broth, and tomato paste to the pot, stirring to combine.",
+    "Return the lamb shanks to the pot, cover, and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and falling off the bone.",
+    "Remove the pot from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-stew",
+    "lamb-recipes",
+    "one-pot-meal",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "zesty-smoky-dutch-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-dutch-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:57:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "lamb shanks",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Stew"
+  }
+}

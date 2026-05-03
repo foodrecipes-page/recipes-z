@@ -403,6 +403,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fried-ethiopian-flour-kik-alichta",
+    "title": "Zesty Fried Ethiopian Flour Kik Alichta",
+    "tags": [
+      "deep-fried",
+      "ethiopian-cuisine",
+      "jain-friendly",
+      "midnight-cravings",
+      "pillowy-texture",
+      "snack-ideas",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-golden-slovakian-cauliflower-soup",
     "title": "Zesty Golden Slovakian Cauliflower Soup",
     "tags": [
@@ -689,6 +705,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-dutch-lamb-stew",
+    "title": "Zesty Smoky Dutch Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "hearty-stew",
+      "lamb-recipes",
+      "one-pot-meal",
+      "smoky-flavors"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-french-oats-salad",
     "title": "Zesty Smoky French Oats Salad",
     "tags": [
@@ -715,6 +746,21 @@
       "weeknight"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-sweet-spanish-chicken-paella",
+    "title": "Zesty Sweet Spanish Chicken Paella",
+    "tags": [
+      "chicken-dish",
+      "diabetic-friendly",
+      "gluten-free",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "z"
   },

@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Sweet Spanish Chicken Paella",
+  "description": "A pungent and silky Spanish dish featuring sugars and a deglaze, suitable for weeknights and diabetic-friendly diets",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes",
+    "Remove the chicken from the skillet and set aside",
+    "Add the diced onion to the skillet and cook until softened, about 3 minutes",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the smoked paprika and saffron threads to the skillet and cook for 1 minute",
+    "Add the uncooked white rice to the skillet and cook for 1 minute, stirring constantly",
+    "Add the chicken broth, lemon juice, and honey to the skillet and bring to a boil",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes",
+    "Return the chicken to the skillet and cook until heated through"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-sweet-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:57:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "sugars",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Paella"
+  }
+}

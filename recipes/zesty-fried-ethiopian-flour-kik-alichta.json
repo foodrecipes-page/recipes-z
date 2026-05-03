@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Fried Ethiopian Flour Kik Alichta",
+  "description": "A funky, pillowy, midnight-craving Ethiopian dish featuring flour, agemono-deep-fry, and Jain-friendly ingredients, this kik alicha is a unique snack to satisfy your cravings. It is a form of kik alicha that is deep-fried to perfection.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and water to form a smooth dough.",
+    "Knead the dough for about 5 minutes until it becomes pliable and soft.",
+    "Divide the dough into small balls, about the size of a golf ball.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add a few balls of dough to the oil and deep-fry until they are golden brown.",
+    "Remove the fried dough from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "In a separate pan, heat a little oil over medium heat and saute the chopped onion, minced garlic, and grated ginger until the onion is translucent.",
+    "Add the turmeric and cayenne pepper to the pan and stir well.",
+    "Add the fried dough to the pan and toss it with the onion mixture until the dough is well coated.",
+    "Serve the zesty fried Ethiopian flour kik alichta hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "ethiopian-cuisine",
+    "jain-friendly",
+    "midnight-cravings",
+    "pillowy-texture",
+    "snack-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-fried-ethiopian-flour-kik-alichta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fried-ethiopian-flour-kik-alichta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:58:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "flour",
+    "descriptor": "Zesty Fried",
+    "dishForm": "Kik Alichta"
+  }
+}
