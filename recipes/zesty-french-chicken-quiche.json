@@ -1,0 +1,119 @@
+{
+  "title": "Zesty French Chicken Quiche",
+  "description": "A crispy one-pot French quiche with caramelized sugar sauce, poached chicken, and a zesty garlic‑lemon twist.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ice water",
+      "amount": "50ml"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for caramelizing sugar"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "3 tbsp",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "whole milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "half-and-half",
+      "amount": "50ml"
+    },
+    {
+      "name": "cooked chicken breast",
+      "amount": "250g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced, optional"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a bowl mix flour, salt, and cold butter cubes; rub until mixture resembles coarse crumbs.",
+    "Add ice water gradually, stirring until dough comes together; press into a disc, wrap plastic, chill 15 min.",
+    "While dough rests, melt 2 tbsp butter in a skillet over medium heat; add brown sugar and stir until caramelized.",
+    "Add minced garlic (if using) to the caramel, cook 30 sec, then stir in diced chicken and thyme; season with salt and pepper.",
+    "In a bowl whisk eggs, milk, half-and-half, lemon zest, and grated parmesan until smooth.",
+    "Roll chilled dough onto floured surface to 12-inch circle; transfer to a 9-inch tart pan, pressing into bottom and sides; trim.",
+    "Spoon the chicken mixture evenly over crust; pour the egg mixture over, filling about 3/4 cup.",
+    "Bake for 30 minutes until crust is golden and custard set; let rest 5 min before slicing.",
+    "Serve warm with a side of mixed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "crispy",
+    "french",
+    "no-onion",
+    "one-pot",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 447,
+    "protein": 13,
+    "carbs": 36,
+    "fat": 26
+  },
+  "slug": "zesty-french-chicken-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-chicken-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:17:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Quiche"
+  }
+}
