@@ -161,6 +161,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-middle-eastern-toor-dal-soup",
+    "title": "Zesty Middle Eastern Toor Dal Soup",
+    "tags": [
+      "zesty",
+      "toor-dal",
+      "soup",
+      "low-fat",
+      "vegetarian",
+      "middle-east"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-moroccan-lemon-stir-fry",
     "title": "Zesty Moroccan Lemon Stir-fry",
     "tags": [

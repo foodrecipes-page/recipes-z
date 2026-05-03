@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Middle Eastern Toor Dal Soup",
+  "description": "A bright, tangy soup bursting with lemony zest and fragrant cumin, perfect for a light yet satisfying lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "low-fat-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal (red lentils)",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth, low-sodium",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal under cold running water until the water runs clear.",
+    "In a medium pot, sauté the diced carrot, onion, and minced garlic in a splash of water until translucent, about 3-4 minutes.",
+    "Add the rinsed dal, ground cumin, ground turmeric, salt, pepper, and vegetable broth. Bring to a boil over medium-high heat.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the dal is tender and the soup has thickened to your liking.",
+    "Stir in the fresh lemon juice and zest, tasting and adjusting seasoning if necessary.",
+    "Remove the pot from the heat and let the soup rest for 5 minutes to allow flavors to meld.",
+    "Serve hot, garnished with a sprinkle of chopped fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "zesty",
+    "toor-dal",
+    "soup",
+    "low-fat",
+    "vegetarian",
+    "middle-east"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 2
+  },
+  "slug": "zesty-middle-eastern-toor-dal-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-toor-dal-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:47:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "toor dal",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "MiddleEastern",
+    "mainIngredient": "Toor Dal",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
