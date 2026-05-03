@@ -643,6 +643,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-thai-rice-noodles",
+    "title": "Zesty Thai Rice Noodles",
+    "tags": [
+      "fodmap-friendly",
+      "low-fat",
+      "quick",
+      "thai",
+      "winey"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-thai-tangerine-wrap",
     "title": "Zesty Thai Tangerine Wrap",
     "tags": [

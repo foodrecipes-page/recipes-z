@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Thai Rice Noodles",
+  "description": "A vibrant Thai rice noodle dish infused with wine, pillowy noodles, and zesty gherkin relish. Energizing and low FODMAP, this dish pairs the tang of lime with the sweetness of wine.",
+  "cuisine": "thai",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kanom jeen (rice noodles)",
+      "amount": "200 g"
+    },
+    {
+      "name": "thai sweet wine",
+      "amount": "60 ml",
+      "notes": "use a dry or semi-dry version"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp",
+      "notes": "low FODMAP substitute for fish sauce"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tbsp",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1 tbsp",
+      "notes": "use small diced gherkins"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the kanom jeen in warm water for 5 minutes until softened, then drain and set aside.",
+    "Place a saucepan of water on low heat, add the wine, lime juice, tamari, and sriracha; bring to a gentle simmer.",
+    "Whisk the grated ginger into the sauce, then stir in the shredded carrot and gherkin relish, cooking for 2 minutes until the carrot is slightly tender.",
+    "Lower the heat to maintain a bain-marie style gentle simmer, then fold in the softened noodles and stir to combine.",
+    "Cook for 3 minutes, then remove from heat and let the mixture rest for 2 minutes for pillowy texture.",
+    "Transfer the noodles to a serving bowl, drizzle with any remaining sauce, and sprinkle with toasted sesame seeds and chopped cilantro.",
+    "Gently toss to distribute the flavors evenly and serve immediately, optionally adding a squeeze of lime for extra brightness.",
+    "Enjoy the zesty, winey, and energizing Thai rice noodles, perfect for a quick lunch that’s both low FODMAP and pillowy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "low-fat",
+    "quick",
+    "thai",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-thai-rice-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-thai-rice-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:26:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "gherkin relish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Zesty",
+    "dishForm": "Noodles"
+  }
+}
