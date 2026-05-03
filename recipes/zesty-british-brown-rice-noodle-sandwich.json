@@ -1,0 +1,108 @@
+{
+  "title": "Zesty British Brown Rice Noodle Sandwich",
+  "description": "A bright, plant‑based brunch sandwich that marries toasted sourdough with fluffy brown‑rice noodles tossed in a lemon‑habanero vinaigrette, finished with fresh herbs.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "8 slices",
+      "notes": ""
+    },
+    {
+      "name": "brown rice noodles",
+      "amount": "200 g",
+      "notes": "boil until al dente"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "habanero pepper",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190 °C and lightly brush one side of each slice of sourdough with olive oil, then toast in the oven until golden, about 5 minutes.",
+    "Meanwhile, bring 2 L of salted water to a boil and cook the brown rice noodles for 3–4 minutes, until just al dente; drain and rinse under cold water.",
+    "In a small bowl whisk together lemon zest, lemon juice, minced habanero, dijon mustard, tahini, sea salt, 1 tbsp olive oil and a splash of water to thin; adjust seasoning to taste.",
+    "Fold the drained noodles into the vinaigrette until well coated; set aside to chill slightly.",
+    "Spread a generous layer of the noodle mix over the toasted side of four slices of bread, then top each with sliced avocado and a sprinkle of chopped parsley.",
+    "Close the sandwich with the remaining bread slices, toasted side down; cut each into two triangles.",
+    "Serve immediately, paired with a light cucumber salad or a cup of herbal tea for a refreshing brunch.",
+    "Optional: drizzle a little extra olive oil over the sandwich for added sheen."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "plant-based",
+    "vegan",
+    "brunch",
+    "sandwich",
+    "quick",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 11
+  },
+  "slug": "zesty-british-brown-rice-noodle-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-british-brown-rice-noodle-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:37:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "brown rice noodle",
+    "descriptor": "Zesty",
+    "dishForm": "Sandwich"
+  }
+}

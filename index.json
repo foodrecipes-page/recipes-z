@@ -52,6 +52,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-british-brown-rice-noodle-sandwich",
+    "title": "Zesty British Brown Rice Noodle Sandwich",
+    "tags": [
+      "plant-based",
+      "vegan",
+      "brunch",
+      "sandwich",
+      "quick",
+      "healthy"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-creamy-goan-fish-curry",
     "title": "Zesty Creamy Goan Fish Curry",
     "tags": [],
