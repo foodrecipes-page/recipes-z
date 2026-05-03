@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Polish Sloe Berries Flatbread",
+  "description": "A crisp, floral flatbread infused with sour sloe berries and zest, double-risen for airy texture and served on an agave leaf for a unique presentation.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "350 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7 g"
+    },
+    {
+      "name": "sugar",
+      "amount": "15 g"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "sloe berries",
+      "amount": "120 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine warm water, yeast, and 1 tsp sugar, stir until dissolved, and let sit 5 minutes until foamy.",
+    "In a large mixing bowl, whisk flour, salt, and remaining sugar.",
+    "Add yeast mixture and olive oil to dry ingredients, stirring until a shaggy dough forms.",
+    "Turn dough onto a lightly floured surface and knead for 8 minutes until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover, and let first rise for 45 minutes until doubled in size.",
+    "Punch down dough, shape into a flatbread, and place it on a preheated griddle wrapped with the agave leaf.",
+    "Sprinkle sloe berries, lemon zest, and thyme over the dough, then cover again and let second rise for 30 minutes.",
+    "Cook the flatbread on medium heat for 8 minutes per side until crisp and golden.",
+    "Remove, slice, and serve warm with a drizzle of agave nectar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "dairy-free",
+    "double-rise",
+    "flatbread",
+    "floral",
+    "polish",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 11,
+    "carbs": 70,
+    "fat": 5
+  },
+  "slug": "zesty-polish-sloe-berries-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-polish-sloe-berries-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:45:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "sloe-berries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sloe berries",
+    "descriptor": "Zesty",
+    "dishForm": "Flatbread"
+  }
+}
