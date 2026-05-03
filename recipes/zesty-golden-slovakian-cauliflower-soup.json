@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Golden Slovakian Cauliflower Soup",
+  "description": "A savory, creamy cauliflower soup infused with a bright yellow hue, spicy tadka, and keto‑friendly ingredients, perfect for an energizing meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower florets",
+      "amount": "1 medium head (≈1.5 kg)",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml",
+      "notes": "full‑fat for creaminess"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 g"
+    },
+    {
+      "name": "carrot, grated",
+      "amount": "1 medium"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "3 drops",
+      "notes": "adjust to desired hue"
+    },
+    {
+      "name": "tadka spice mix (cumin seeds, mustard seeds, dried chili flakes, asafoetida)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 Tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the tadka spice mix and sauté for 30 seconds until fragrant.",
+    "Stir in the diced onion, minced garlic, and grated carrot; cook until the onion becomes translucent (≈4 minutes).",
+    "Add the cauliflower florets, low‑sodium vegetable broth, and coconut milk; bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 15 minutes until the cauliflower is tender.",
+    "Remove the pot from heat and use an immersion blender to puree the soup until smooth (or transfer to a blender in batches).",
+    "Return the soup to low heat, stir in the yellow food coloring and lemon juice, and season with salt and pepper.",
+    "Simmer for an additional 5 minutes to allow flavors to meld.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro and a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "vegetarian",
+    "slovakian",
+    "cauliflower",
+    "tadka",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "zesty-golden-slovakian-cauliflower-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-golden-slovakian-cauliflower-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:46:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Zesty Golden",
+    "dishForm": "Soup"
+  }
+}
