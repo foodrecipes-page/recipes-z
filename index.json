@@ -271,6 +271,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-filipino-eggs-bake",
+    "title": "Zesty Filipino Eggs Bake",
+    "tags": [
+      "brunch",
+      "easy-to-make",
+      "egg-dish",
+      "filipino",
+      "low-calorie",
+      "one-pan"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-filipino-shrimp-stew",
     "title": "Zesty Filipino Shrimp Stew",
     "tags": [
