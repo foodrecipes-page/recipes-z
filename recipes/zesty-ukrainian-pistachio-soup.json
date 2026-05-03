@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Ukrainian Pistachio Soup",
+  "description": "A light, citrus‑infused soup featuring ground pistachios as a silky thickener, perfect for a low‑calorie solo dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely diced",
+      "notes": "(about 80 g)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, grated",
+      "notes": "(about 80 g)"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk, sliced",
+      "notes": "(about 50 g)"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "2 tbsp",
+      "notes": "(about 42 g, finely ground)"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic, grated carrot, and sliced celery; cook for another 4 minutes until the vegetables soften.",
+    "Pour in the vegetable broth and water, bring to a simmer.",
+    "Add cumin, paprika, ground pistachios, and a pinch of salt and pepper; stir well.",
+    "Let the soup simmer, uncovered, for 12–15 minutes, allowing the pistachios to act as a natural thickener.",
+    "While the soup simmers, zest the lemon, then squeeze the juice into a small bowl.",
+    "When the soup is nearly done, stir in the lemon zest, lemon juice, and chopped dill.",
+    "Taste and adjust seasoning with additional salt, pepper, or lemon juice if desired.",
+    "Serve hot, optionally garnished with a swirl of extra dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "vegan",
+    "soup",
+    "ukrainian",
+    "pistachio",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 11
+  },
+  "slug": "zesty-ukrainian-pistachio-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ukrainian-pistachio-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:42:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "ground pistachios",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}

@@ -265,6 +265,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ukrainian-pistachio-soup",
+    "title": "Zesty Ukrainian Pistachio Soup",
+    "tags": [
+      "low-calorie",
+      "vegan",
+      "soup",
+      "ukrainian",
+      "pistachio",
+      "citrus"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-uruguayan-chicken-salad",
     "title": "Zesty Uruguayan Chicken Salad",
     "tags": [
