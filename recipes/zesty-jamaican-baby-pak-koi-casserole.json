@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Jamaican Baby Pak Koi Casserole",
+  "description": "Savory and crumbly post-workout casserole featuring baby pak koi and Jamaican jerk seasoning.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "300g"
+    },
+    {
+      "name": "diced chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add minced garlic and diced onion, sauté until translucent.",
+    "Stir in diced chicken, season with jerk seasoning, thyme, salt, and pepper, cook until lightly browned.",
+    "Add baby pak koi greens and stems, toss to coat with spices, cook for 3 minutes.",
+    "Transfer the mixture to a greased baking dish, top evenly with shredded cheddar cheese.",
+    "Sprinkle panko breadcrumbs over the cheese for a crunchy crust.",
+    "Pour low-fat milk over the casserole, ensuring even coverage.",
+    "Cover with foil and bake for 30 minutes, then remove foil and bake another 15 minutes until golden and bubbly.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "high-protein",
+    "jamaican",
+    "nut-free",
+    "one-dish",
+    "post-workout",
+    "savory",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 28,
+    "carbs": 22,
+    "fat": 10
+  },
+  "slug": "zesty-jamaican-baby-pak-koi-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jamaican-baby-pak-koi-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:43:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "baby pak koi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Baby Pak Koi",
+    "descriptor": "Zesty",
+    "dishForm": "Casserole"
+  }
+}
