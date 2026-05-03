@@ -1,0 +1,143 @@
+{
+  "title": "Zesty Uruguayan Chicken Salad",
+  "description": "A fresh, light keto-friendly salad featuring aromatic green cardamom and a citrus‑herb dressing that showcases the flavors of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "400g (2 pieces)",
+      "notes": "approx 8 oz each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for marinating and grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "2",
+      "notes": "crushed to release aroma"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "from about ½ lemon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "from about ½ lime"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups",
+      "notes": "romaine, arugula, or spinach"
+    },
+    {
+      "name": "red onion",
+      "amount": "¼ cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "toasted sunflower seeds",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together 1 tbsp olive oil, 1 tsp salt, ½ tsp black pepper, 1 tsp ground coriander, crushed 2 green cardamom pods, 1 tbsp lemon juice, 1 tbsp lime juice, 1 tbsp chopped cilantro, and 1 tbsp chopped parsley to create a bright marination sauce.",
+    "Pat the chicken breasts dry and coat them evenly with the marination mixture. Let sit for 10 minutes to absorb flavors.",
+    "Heat a grill pan or skillet over medium‑high heat. Add a splash of olive oil and cook the chicken for 6–7 minutes per side, or until the internal temperature reaches 165°F (75°C).",
+    "Transfer the chicken to a cutting board, tent with foil, and rest for 5 minutes. Then slice into strips.",
+    "While the chicken rests, whisk together 1 tbsp olive oil, 1 tsp apple cider vinegar, 1 tsp Dijon mustard, 1 tbsp lemon juice, 1 tbsp lime juice, and 1 tbsp toasted sunflower seeds to make a zesty dressing.",
+    "In a large bowl toss 2 cups mixed greens, ¼ cup red onion slices, and 1 diced avocado until coated with the dressing.",
+    "Top the greens with the sliced chicken, then sprinkle with the remaining chopped cilantro and parsley.",
+    "Serve immediately for a fresh, keto‑friendly lunch that highlights Uruguayan flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "healthy",
+    "quick",
+    "green-cardamom",
+    "uruguay",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "zesty-uruguayan-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-uruguayan-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:16:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}

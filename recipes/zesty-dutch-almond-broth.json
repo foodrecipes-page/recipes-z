@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Dutch Almond Broth",
+  "description": "A nutty, light broth infused with grapefruit, perfect for a solo dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Water",
+      "amount": "1.5 liters"
+    },
+    {
+      "name": "Onion, medium",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh grapefruit juice",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Whole almonds, toasted",
+      "amount": "15 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Chop the onion, carrots, celery, fennel, and mince the garlic.",
+    "Heat the olive oil in a large pot over medium heat and sauté the vegetables until translucent, about 5 minutes.",
+    "Add the thyme, bay leaf, and a pinch of salt and pepper, cooking for another minute.",
+    "Pour in the water and bring to a gentle boil, then reduce to a simmer and let the broth cook for 15 minutes.",
+    "Add the toasted almonds and continue to simmer for an additional 10 minutes, allowing the almond flavor to infuse.",
+    "Stir in the fresh grapefruit juice and lemon zest, if using, and simmer for 5 more minutes.",
+    "Remove the pot from heat and strain the broth through a fine-mesh sieve into a bowl.",
+    "Serve the broth hot, garnished with a thin slice of fresh grapefruit or a sprig of thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "broth",
+    "almond",
+    "grapefruit",
+    "whole30",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 15,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "zesty-dutch-almond-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dutch-almond-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:16:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty",
+    "dishForm": "Broth"
+  }
+}

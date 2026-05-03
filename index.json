@@ -105,6 +105,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dutch-almond-broth",
+    "title": "Zesty Dutch Almond Broth",
+    "tags": [
+      "dutch",
+      "broth",
+      "almond",
+      "grapefruit",
+      "whole30",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fresh-australian-tomato-soup",
     "title": "Zesty Fresh Australian Tomato Soup",
     "tags": [],
@@ -247,6 +262,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-uruguayan-chicken-salad",
+    "title": "Zesty Uruguayan Chicken Salad",
+    "tags": [
+      "keto-friendly",
+      "healthy",
+      "quick",
+      "green-cardamom",
+      "uruguay",
+      "salad"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
