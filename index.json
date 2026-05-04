@@ -1114,6 +1114,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-malay-chicken-soup",
+    "title": "Zesty Malay Chicken Soup",
+    "tags": [
+      "hangover-cure",
+      "low-glycemic-friendly",
+      "malaysian-heritage",
+      "pickles",
+      "quick-soup",
+      "savory-soup"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [

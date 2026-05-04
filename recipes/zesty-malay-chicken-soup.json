@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Malay Chicken Soup",
+  "description": "A savory, low-glycemic chicken soup with pickled cucumber, lemongrass, and a tangy tamarind kick, perfect for a quick hangover cure.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-glycemic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200 g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "water",
+      "amount": "400 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruised"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "50 g"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat and add the water, ginger, garlic, and lemongrass, then bring to a gentle boil.",
+    "Add the chicken breast to the pot and simmer for 10 minutes until cooked through.",
+    "Remove the chicken and set aside, then strain the broth to remove solids.",
+    "Return the broth to the pot, stir in coconut milk, tamarind paste, and fish sauce, and bring to a simmer.",
+    "Add the pickled cucumber slices and let the soup cook for another 5 minutes to meld the flavors.",
+    "Shred the cooked chicken and return it to the pot, seasoning with lime juice and red chili flakes.",
+    "Simmer for an additional 2 minutes to warm the shredded chicken and integrate the spices.",
+    "Serve hot, garnished with chopped cilantro and an extra squeeze of lime if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "low-glycemic-friendly",
+    "malaysian-heritage",
+    "pickles",
+    "quick-soup",
+    "savory-soup"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "zesty-malay-chicken-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malay-chicken-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:03:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "pickles",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malay",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
