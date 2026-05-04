@@ -1,0 +1,106 @@
+{
+  "title": "zesty ukrainian meat borscht",
+  "description": "grassy and velvety borscht dish that's perfect for a comforting meal in cold weather. This recipe is sugar-free-friendly and features galangal paste for added depth of flavor.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small"
+    },
+    {
+      "name": "galangal paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine beef stock, beef, onion, carrots, beets, and cabbage in a large pot.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer and cook for 30 minutes.",
+    "Use a blender or food processor to puree the soup until smooth.",
+    "Heat the galangal paste in a small pan over medium heat, stirring constantly, until fragrant.",
+    "Add the apple cider vinegar and tomato paste to the pan and stir to combine.",
+    "Add the vinegar mixture to the soup and stir to combine.",
+    "Season the soup with kosher salt and black pepper.",
+    "Serve hot, garnished with chopped fresh dill.",
+    "Cook the soup using a sous vide machine at 160°F (71°C) for 2 hours.",
+    "Alternatively, cook the soup on the stovetop or in a slow cooker."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot-meal",
+    "slow-cooker-friendly",
+    "sous-vide-friendly",
+    "sugar-free-friendly",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-ukrainian-meat-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ukrainian-meat-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:49:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "galangal paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty",
+    "dishForm": "Borscht"
+  }
+}

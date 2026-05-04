@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Egyptian Chinese Broccoli Bowl",
+  "description": "A creamy, low-glycemic bowl featuring Chinese broccoli tossed in a tangy Egyptian-inspired sauce, served in a sizzling stone bowl.",
+  "cuisine": "Egyptian fusion",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli (gai lan)",
+      "amount": "300g"
+    },
+    {
+      "name": "Chicken thighs, boneless skinless",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a stone bowl (dolsot) over medium heat until steaming hot.",
+    "Season the chicken thighs with smoked paprika, salt, and pepper, then sear them in olive oil until golden brown on both sides, about 4 minutes per side.",
+    "Remove the chicken and set aside, reserving the drippings in the bowl.",
+    "Add minced garlic and ginger to the bowl, sautéing until fragrant, about 30 seconds.",
+    "Stir in tahini, rice vinegar, low-sodium soy sauce, and sriracha, whisking until the mixture turns silky.",
+    "Return the chicken to the bowl, spooning the sauce over it, and reduce heat to low.",
+    "Add the Chinese broccoli, sprinkle with lemon juice, and cover the bowl with a lid or foil.",
+    "Let the dish steam until the broccoli is tender-crisp and the sauce has thickened, about 6 minutes.",
+    "Flip the chicken and broccoli to ensure even coating, cooking for an additional 2 minutes.",
+    "Transfer the bowl to the table, garnish with toasted sesame seeds and a drizzle of extra olive oil, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-fusion",
+    "healthy",
+    "low-glycemic",
+    "one-pot",
+    "quick",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "zesty-egyptian-chinese-broccoli-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-chinese-broccoli-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:49:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chinese Broccoli",
+    "descriptor": "Zesty",
+    "dishForm": "Bowl"
+  }
+}

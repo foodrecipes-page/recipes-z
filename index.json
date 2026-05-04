@@ -721,6 +721,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-chinese-broccoli-bowl",
+    "title": "Zesty Egyptian Chinese Broccoli Bowl",
+    "tags": [
+      "egyptian-fusion",
+      "healthy",
+      "low-glycemic",
+      "one-pot",
+      "quick",
+      "stone-bowl"
+    ],
+    "cuisine": "Egyptian fusion",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-ethiopian-chickpeas-stew",
     "title": "Zesty Ethiopian Chickpeas Stew",
     "tags": [
@@ -2041,6 +2056,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ukrainian-meat-borscht",
+    "title": "zesty ukrainian meat borscht",
+    "tags": [
+      "comfort-food",
+      "one-pot-meal",
+      "slow-cooker-friendly",
+      "sous-vide-friendly",
+      "sugar-free-friendly",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 150,
     "shard": "z"
   },
   {
