@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Light Korean Chicken Wings Bowl",
+  "description": "A pungent and shattering light polish dish featuring chicken wings, served in a Korean brass bowl. This dish is a perfect combination of spicy and sweet flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochujang sauce, soy sauce, brown sugar, garlic, and ginger.",
+    "Add the chicken wings to the bowl and toss to coat with the sauce.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Arrange the chicken wings on the baking sheet in a single layer.",
+    "Bake the chicken wings for 30 minutes or until cooked through.",
+    "While the chicken is baking, heat the sesame oil in a small saucepan over medium heat.",
+    "Add the chopped green onions to the saucepan and cook for 1 minute or until fragrant.",
+    "To serve, place the cooked chicken wings in a Korean brass bowl and garnish with the green onion mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "easy-meal",
+    "healthy-dinner",
+    "korean-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-light-korean-chicken-wings-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-korean-chicken-wings-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:52:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "chicken wings",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Zesty Light",
+    "dishForm": "Bowl"
+  }
+}
