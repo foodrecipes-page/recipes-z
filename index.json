@@ -201,6 +201,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-australian-mozzarella-bowl",
+    "title": "Zesty Australian Mozzarella Bowl",
+    "tags": [
+      "australian",
+      "cheesy",
+      "glassy",
+      "one-pot",
+      "quick",
+      "zesty"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-baby-korean-potatoes-mixed-rice-bowl",
     "title": "zesty baby korean potatoes mixed rice bowl",
     "tags": [

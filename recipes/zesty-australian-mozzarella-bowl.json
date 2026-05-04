@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Australian Mozzarella Bowl",
+  "description": "A vibrant one-pot bowl that marries silky mozzarella pearls with a zesty, sweet-savory broth, finished with a glassy sheen and a dash of sriracha heat.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh mozzarella balls",
+      "amount": "200g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Celery stalk, diced",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion, carrot and celery and sauté until softened, about 5 minutes.",
+    "Stir in minced garlic and smoked paprika, cooking until fragrant for 1 minute.",
+    "Pour in vegetable broth and soy sauce, bringing to a gentle simmer.",
+    "Add honey and lime juice, stirring until the liquid thickens slightly into a glossy reduction.",
+    "Gently fold in the mozzarella balls, letting them warm through without blooming, about 2 minutes.",
+    "Add a teaspoon of sriracha, tasting and adjusting seasoning as needed.",
+    "Transfer the mixture to bowls and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "cheesy",
+    "glassy",
+    "one-pot",
+    "quick",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 503,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "zesty-australian-mozzarella-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-australian-mozzarella-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:20:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "soffritto-base",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Zesty",
+    "dishForm": "Bowl"
+  }
+}
