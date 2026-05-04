@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Vietnamese Almond Spring-Rolls",
+  "description": "A festive, nutty spring roll that blends the umami depth of doenjang with cold smoked flavors, all wrapped in fresh rice paper and cooked gently in a tagine pot for a pillowy texture.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice paper sheets",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "Cooked shredded chicken",
+      "amount": "200g"
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "50g"
+    },
+    {
+      "name": "Thinly sliced green onion",
+      "amount": "30g"
+    },
+    {
+      "name": "Toasted almond slivers",
+      "amount": "30g"
+    },
+    {
+      "name": "Doenjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water for soaking",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "In a shallow bowl, combine doenjang, lemon juice, and smoked paprika until smooth.",
+    "Add shredded chicken, cabbage, carrot, and green onion to the bowl and toss to coat evenly with the sauce.",
+    "Lightly toast almond slivers in a dry skillet until fragrant, then fold them into the mixture.",
+    "Warm a pot with a thin layer of oil over low heat, then disperse the mixture evenly across the bottom.",
+    "Cover the pot with a lid and let the mixture steam gently for 8 minutes, allowing the flavors to meld.",
+    "While the filling steams, soak each rice paper sheet in warm water for 15 seconds until pliable.",
+    "Place a spoonful of the cooked filling onto the center of each softened sheet.",
+    "Fold the sides inward, then roll tightly from the bottom to encase the filling, sealing the edge with a pinch of water.",
+    "Arrange the rolled spring rolls in a single layer on a plate, optionally drizzle with a drizzle of lime‑infused water.",
+    "Serve immediately, or chill the rolls in the refrigerator for 30 minutes before serving for a cold smoked finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "goi-cuon",
+    "low-carb",
+    "smoky",
+    "tagine-pot",
+    "vietnamese",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 198,
+    "protein": 18,
+    "carbs": 19,
+    "fat": 6
+  },
+  "slug": "zesty-smoky-vietnamese-almond-spring-rolls",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-vietnamese-almond-spring-rolls",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:10:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "smoke-cold",
+    "primaryIngredient": "doenjang",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Spring-Rolls"
+  }
+}
