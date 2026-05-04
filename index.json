@@ -513,6 +513,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-polish-fish-fritters",
+    "title": "Zesty Crisp Polish Fish Fritters",
+    "tags": [
+      "crisp",
+      "dinner",
+      "fish",
+      "polish",
+      "quick",
+      "zesty"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-uruguayan-beef-skewers",
     "title": "Zesty Crisp Uruguayan Beef Skewers",
     "tags": [
@@ -2266,6 +2281,23 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 110,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-uruguayan-chicken-bowl",
+    "title": "Zesty Uruguayan Chicken Bowl",
+    "tags": [
+      "bento-box",
+      "chicken",
+      "curry",
+      "kimchi",
+      "lunch",
+      "nut-free",
+      "quick",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {

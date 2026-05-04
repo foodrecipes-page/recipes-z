@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Uruguayan Chicken Bowl",
+  "description": "A tangy, crunchy, nut-free chicken bowl with yellow curry paste, kimchi, and fresh veggies, perfect for a cozy bento lunch.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200 g",
+      "notes": "cut into bite-size pieces"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150 ml"
+    },
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "kimchi",
+      "amount": "½ cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, shredded"
+    },
+    {
+      "name": "cucumber",
+      "amount": "½ cup, sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a skillet over medium heat.",
+    "Add chicken pieces and sear until golden on all sides.",
+    "Stir in yellow curry paste and cook for 1 minute until fragrant.",
+    "Pour in coconut milk, bring to a gentle simmer, and let cook for 8 minutes until chicken is cooked through and sauce thickens.",
+    "Meanwhile, toast a small amount of sesame seeds in a dry pan until golden (optional).",
+    "In a bowl, arrange cooked rice as the base.",
+    "Top the rice with the curry chicken and a handful of kimchi.",
+    "Scatter shredded carrot, cucumber slices, and pickled ginger over the bowl.",
+    "Drizzle lime juice and soy sauce across the ingredients.",
+    "Give the bowl a gentle toss, then serve chilled or at room temperature in a bento box."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "chicken",
+    "curry",
+    "kimchi",
+    "lunch",
+    "nut-free",
+    "quick",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "zesty-uruguayan-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-uruguayan-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:07:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Bowl"
+  }
+}

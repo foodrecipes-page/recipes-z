@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crisp Polish Fish Fritters",
+  "description": "Winey, crisp, romantic fish fritters with a bright lemon‑dill coating that melt in your mouth.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "500 g"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "50 g"
+    },
+    {
+      "name": "medium potato",
+      "amount": "1"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "50 ml"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "10 g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep‑fat pan or wok to 180°C and keep the oil warm.",
+    "Peel the potato and grate it finely, squeezing out excess moisture with a cloth.",
+    "Whisk together the flour, cornmeal, salt and pepper in a bowl.",
+    "Add the cod fillet, grated potato, egg, lemon zest, dill and wine to the dry mixture, stirring until a thick batter forms.",
+    "Heat the oil and drop spoonfuls of batter into the pan, frying 3–4 minutes per side until golden and crisp.",
+    "Use a slotted spoon to transfer the fritters to paper towels to drain excess oil.",
+    "Serve hot with a squeeze of fresh lemon juice and a drizzle of chilled white wine vinaigrette."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "dinner",
+    "fish",
+    "polish",
+    "quick",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "zesty-crisp-polish-fish-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-polish-fish-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:07:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "fish fillet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Fish",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Fritters"
+  }
+}
