@@ -2019,6 +2019,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mediterranean-chicken-roast",
+    "title": "Zesty Mediterranean Chicken Roast",
+    "tags": [
+      "cheaper",
+      "healthy",
+      "kosher-friendly",
+      "one-pan",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mediterranean-lentils-tagine",
     "title": "Zesty Mediterranean Lentils Tagine",
     "tags": [

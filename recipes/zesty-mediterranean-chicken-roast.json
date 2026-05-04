@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Mediterranean Chicken Roast",
+  "description": "A light, comforting chicken roast with pomegranate molasses, wok-hei sauce, and fresh herbs, perfect for a quick sick-day meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in skin-on chicken thighs",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "wok-hei sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 whole, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup, pitted"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 F.",
+    "Pat chicken thighs dry and season with salt and paprika.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat and sear chicken until golden brown on both sides.",
+    "Add minced garlic and sauté until fragrant for 1 minute.",
+    "Whisk pomegranate molasses and wok-hei sauce together and pour over the chicken.",
+    "Arrange lemon slices and olives on top of the chicken.",
+    "Transfer skillet to the preheated oven and roast for 20-25 minutes until chicken reaches 165 F internally.",
+    "Remove from oven and let rest for 5 minutes.",
+    "Garnish with chopped parsley before serving.",
+    "Serve the chicken with roasted lemon slices and olives on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheaper",
+    "healthy",
+    "kosher-friendly",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 28,
+    "carbs": 18,
+    "fat": 22
+  },
+  "slug": "zesty-mediterranean-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mediterranean-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:00:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "wok-hei",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Roast"
+  }
+}
