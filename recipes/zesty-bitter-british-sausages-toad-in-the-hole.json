@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Bitter British Sausages Toad In The Hole",
+  "description": "A classic British dish featuring pre-fried sausages in a bitter and savory Yorkshire pudding batter, served with a sweet and tangy Mediterranean-inspired glaze.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausages",
+      "amount": "8",
+      "notes": "pre-fried and cooled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bitter marmalade",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, eggs, milk, salt, and pepper to make the Yorkshire pudding batter.",
+    "Add the pre-fried sausages to the batter and stir to coat.",
+    "Pour the batter into a 9x13 inch baking dish and drizzle with olive oil.",
+    "Bake the toad in the hole for 25-30 minutes, or until the pudding is golden brown and puffed.",
+    "While the toad in the hole is baking, heat the bitter marmalade in a small saucepan over medium heat until it is warm and syrupy.",
+    "Remove the toad in the hole from the oven and brush the warm marmalade glaze over the top.",
+    "Return the toad in the hole to the oven and bake for an additional 5 minutes, or until the glaze is caramelized and sticky."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "meat-based",
+    "mediterranean-inspired",
+    "one-pan",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "zesty-bitter-british-sausages-toad-in-the-hole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bitter-british-sausages-toad-in-the-hole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:58:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Zesty Bitter",
+    "dishForm": "Toad In The Hole"
+  }
+}
