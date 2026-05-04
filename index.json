@@ -1119,6 +1119,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-algerian-lamb-kebabs",
+    "title": "Zesty Dense Algerian Lamb Kebabs",
+    "tags": [
+      "grilled-meat",
+      "high-protein",
+      "lamb-recipes",
+      "north-african",
+      "post-workout",
+      "shojin-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-german-bratwurst-wrap",
     "title": "german bratwurst wrap",
     "tags": [
@@ -3831,6 +3846,22 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-venezuelan-quinoa-bowl",
+    "title": "Zesty Venezuelan Quinoa Bowl",
+    "tags": [
+      "dairy-free",
+      "date-night",
+      "one-pot",
+      "quick",
+      "quinoa",
+      "venezuelan",
+      "zesty"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Dense Algerian Lamb Kebabs",
+  "description": "A spicy and dense post-workout dish featuring gorgonzola-dolce, perfect for a satisfying meal after a workout, with a shojin-friendly twist",
+  "cuisine": "Algerian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until cooked through",
+    "While the kebabs are cooking, mix the crumbled gorgonzola-dolce with a pinch of salt and pepper",
+    "Once the kebabs are done, brush them with the gorgonzola-dolce mixture",
+    "Serve the kebabs hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "high-protein",
+    "lamb-recipes",
+    "north-african",
+    "post-workout",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-dense-algerian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-algerian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:11:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Kebabs"
+  }
+}

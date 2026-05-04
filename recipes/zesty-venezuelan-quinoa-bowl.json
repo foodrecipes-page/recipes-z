@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Venezuelan Quinoa Bowl",
+  "description": "A nutty, bouncy quinoa bowl packed with smoky chili, creamy avocado and bright lime, perfect for a dairy‑free date night.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup canned, rinsed"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp + 1 tbsp optional"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and set aside.",
+    "In a medium pot, heat 2 tbsp olive oil over medium heat and sauté 1 minced clove garlic until fragrant, about 1 minute.",
+    "Add 1 cup quinoa to the pot, stir to coat with oil, and toast for 2 minutes.",
+    "Pour in 2 cups vegetable broth, bring to a boil, then reduce heat, cover, and simmer for 15 minutes until quinoa is tender.",
+    "While quinoa cooks, heat a skillet over medium and add 1 cup corn kernels, 1 cup black beans, 1 tsp smoked paprika, 1 tsp cumin, 1/2 tsp salt, 1/4 tsp pepper, and pinch of crushed red pepper flakes; sauté until heated through, about 5 minutes.",
+    "Once quinoa is cooked, fluff with a fork and stir in the seasoned corn and beans mixture.",
+    "Transfer the quinoa bowl to a serving dish and top with diced red bell pepper, diced avocado, chopped cilantro, and a squeeze of lime juice.",
+    "Drizzle with extra 1 tbsp olive oil if desired and season with additional salt and pepper to taste.",
+    "Serve warm and enjoy the zesty Venezuelan flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "one-pot",
+    "quick",
+    "quinoa",
+    "venezuelan",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 21,
+    "carbs": 95,
+    "fat": 40
+  },
+  "slug": "zesty-venezuelan-quinoa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-quinoa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:10:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "chilli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Zesty",
+    "dishForm": "Bowl"
+  }
+}
