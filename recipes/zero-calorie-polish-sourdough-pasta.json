@@ -1,0 +1,84 @@
+{
+  "title": "Polish Sourdough Pasta",
+  "description": "A fermented and fluffy Polish dish featuring bay leaves, made in a bain-marie for a low-calorie friendly meal",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sourdough starter",
+      "amount": "1 cup",
+      "notes": "active and bubbly"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine sourdough starter, whole wheat flour, and salt, and mix until a shaggy dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Wrap the dough in plastic wrap and let it rest at room temperature for 2 hours",
+    "Divide the dough into 4 equal pieces and roll out each piece into a long rope",
+    "Cut the rope into 1-inch pieces to form the pasta",
+    "Place the pasta in a bain-marie and steam for 10 minutes",
+    "In a small bowl, whisk together egg whites and a pinch of salt",
+    "Brush the egg white mixture onto the cooked pasta",
+    "Serve the pasta hot, garnished with bay leaves"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-pasta",
+    "low-calorie",
+    "polish-cuisine",
+    "special-occasion",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 0
+  },
+  "slug": "zero-calorie-polish-sourdough-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-calorie-polish-sourdough-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:07:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "bay leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sourdough",
+    "descriptor": "Zero calorie",
+    "dishForm": "Pasta"
+  }
+}

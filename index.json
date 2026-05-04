@@ -86,6 +86,20 @@
     "shard": "z"
   },
   {
+    "slug": "zero-calorie-polish-sourdough-pasta",
+    "title": "Polish Sourdough Pasta",
+    "tags": [
+      "homemade-pasta",
+      "low-calorie",
+      "polish-cuisine",
+      "special-occasion",
+      "steamed-dishes"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zero-carb-portuguese-eggplant-casserole",
     "title": "Zero Carb Portuguese Eggplant Casserole",
     "tags": [
