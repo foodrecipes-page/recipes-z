@@ -1431,6 +1431,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-roasted-argentinian-galangal-skewers",
+    "title": "Zesty Roasted Argentinian Galangal Skewers",
+    "tags": [
+      "argentinian-cuisine",
+      "flavorful-dish",
+      "ovo-vegetarian",
+      "roasted-vegetables",
+      "special-occasion"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-punjabi-lamb-curry",
     "title": "Zesty Roasted Punjabi Lamb Curry",
     "tags": [

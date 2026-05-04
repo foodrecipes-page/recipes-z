@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Roasted Argentinian Galangal Skewers",
+  "description": "A romantic and flavorful Argentinian dish featuring galangal, perfect for a special occasion. This ovo-vegetarian friendly recipe combines the brightness of citrus with the depth of tadka spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "1 pound",
+      "notes": "peeled and sliced into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "hard boiled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, tadka spice blend, garlic, salt, and black pepper.",
+    "Add the sliced galangal, red bell pepper, and onion to the bowl and toss to coat with the marinade.",
+    "Thread the marinated galangal, red bell pepper, and onion onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the preheated oven for 20 minutes.",
+    "After 20 minutes, remove the skewers from the oven and brush with additional olive oil if necessary.",
+    "Return the skewers to the oven and continue roasting for an additional 10 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the skewers from the oven and top each with a slice of hard boiled egg.",
+    "Serve the skewers hot, garnished with additional tadka spice blend if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "flavorful-dish",
+    "ovo-vegetarian",
+    "roasted-vegetables",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "zesty-roasted-argentinian-galangal-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-argentinian-galangal-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:04:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "galangal",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "galangal",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Skewers"
+  }
+}
