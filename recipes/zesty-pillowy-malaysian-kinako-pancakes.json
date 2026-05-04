@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Pillowy Malaysian Kinako Pancakes",
+  "description": "These fluffy pancakes are a kid-friendly Malaysian dish featuring kinako, a roasted soybean flour, and a hint of zesty flavor, finished with a flambe touch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "1 cup",
+      "notes": "roasted soybean flour"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grand marnier",
+      "amount": "2 tablespoons",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together kinako, all-purpose flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, melted butter, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "In a small saucepan, heat the grand marnier over low heat.",
+    "Carefully flambe the grand marnier by igniting it with a match, then pour it over the pancakes.",
+    "Serve the pancakes immediately, garnished with additional kinako if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "flambe",
+    "kid-friendly",
+    "malaysian-cuisine",
+    "pancakes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "zesty-pillowy-malaysian-kinako-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pillowy-malaysian-kinako-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:05:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "kinako",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kinako",
+    "descriptor": "Zesty pillowy",
+    "dishForm": "Pancakes"
+  }
+}
