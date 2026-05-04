@@ -717,6 +717,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-moroccan-lentils-pasta",
+    "title": "Zesty Moroccan Lentils Pasta",
+    "tags": [
+      "chewy",
+      "moroccan",
+      "mustardy",
+      "nut-free-friendly",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-norwegian-beef-stew",
     "title": "Zesty Norwegian Beef Stew",
     "tags": [

@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Moroccan Lentils Pasta",
+  "description": "A mustardy, chewy, light Moroccan dish with raisins and al-dente pasta, nut-free-friendly and packed with flavor.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "green lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "raisins",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water and set aside.",
+    "Heat the olive oil in a large pot over medium heat and sauté the diced onion until translucent, about 3 minutes.",
+    "Add the minced garlic, ground cumin, ground coriander, and smoked paprika, cooking until fragrant, about 1 minute.",
+    "Stir in the lentils, raisins, and whole grain mustard, coating them in the spice mixture.",
+    "Pour in the vegetable broth, bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "Add the pasta, stir, and cook uncovered for 7-8 minutes until al dente and the lentils are tender.",
+    "Season with salt, pepper, and lemon juice, tasting and adjusting as needed.",
+    "Remove from heat, let rest for 2 minutes, then stir in chopped parsley if desired.",
+    "Serve hot, spooning the sauce over each portion."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "moroccan",
+    "mustardy",
+    "nut-free-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 12
+  },
+  "slug": "zesty-moroccan-lentils-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-lentils-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:24:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "raisins",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Pasta"
+  }
+}
