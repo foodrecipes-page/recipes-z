@@ -2376,6 +2376,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-uruguayan-beef-empanadas",
+    "title": "Zesty Smoky Uruguayan Beef Empanadas",
+    "tags": [
+      "beef-empanadas",
+      "claypot",
+      "filo-pastry",
+      "satvik-friendly",
+      "smoky",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spring-russian-vegetable-stew",
     "title": "Zesty Spring Russian Vegetable Stew",
     "tags": [

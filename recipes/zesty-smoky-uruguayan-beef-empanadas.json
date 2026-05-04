@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Smoky Uruguayan Beef Empanadas",
+  "description": "Smoky and festive Uruguayan dish featuring filo pastry and a nimono-simmer, cooked in a claypot to perfection, this satvik-friendly recipe is sure to delight.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "12 sheets",
+      "notes": "thawed"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the claypot by brushing it with olive oil.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the smoked paprika, salt, and black pepper.",
+    "Roll out the filo pastry sheets and cut them into circles.",
+    "Spoon the beef mixture onto one half of each pastry circle.",
+    "Fold the pastry in half to form a triangle or square shape and press the edges together to seal.",
+    "Place the empanadas in the prepared claypot and brush with olive oil.",
+    "Pour the beef broth into the claypot and cover with a lid.",
+    "Bake the empanadas in the preheated oven for 25 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-empanadas",
+    "claypot",
+    "filo-pastry",
+    "satvik-friendly",
+    "smoky",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "zesty-smoky-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:58:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "filo pastry",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Empanadas"
+  }
+}
