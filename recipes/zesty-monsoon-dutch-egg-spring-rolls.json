@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Monsoon Dutch Egg Spring Rolls",
+  "description": "A pungent and shattering monsoon Dutch dish featuring egg rolls cooked in a clay pot on a raclette grill, with Mediterranean-friendly flavors. This unique recipe combines the best of Dutch and Mediterranean cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 sheets",
+      "notes": "rice-based"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": "saline"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup pitted",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup chopped",
+      "notes": "dry-packed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "curly-leaf"
+    },
+    {
+      "name": "raclette cheese",
+      "amount": "1 cup shredded",
+      "notes": "melted"
+    },
+    {
+      "name": "monsoon spice blend",
+      "amount": "2 tbsp",
+      "notes": "homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Cook the eggs in a clay pot on the raclette grill over medium heat until the whites are set and the yolks are cooked to desired doneness.",
+    "Chop the cooked eggs into small pieces and set aside.",
+    "Layer the spring roll wrappers with the chopped eggs, feta cheese, kalamata olives, artichoke hearts, sun-dried tomatoes, and fresh parsley.",
+    "Drizzle the olive oil over the layers and sprinkle with monsoon spice blend.",
+    "Roll the spring rolls tightly and place them on the raclette grill.",
+    "Cook the spring rolls for 2-3 minutes on each side, until crispy and golden brown.",
+    "Melt the raclette cheese on top of the spring rolls and serve immediately.",
+    "Serve the Zesty Monsoon Dutch Egg Spring Rolls hot with a side of Mediterranean salad or bread.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "mediterranean-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-monsoon-dutch-egg-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-monsoon-dutch-egg-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:49:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "egg rolls",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "eggs",
+    "descriptor": "Zesty Monsoon",
+    "dishForm": "Spring-Rolls"
+  }
+}
