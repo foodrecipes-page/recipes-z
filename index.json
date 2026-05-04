@@ -5100,6 +5100,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-vietnamese-pork-ti-leaf-wrap",
+    "title": "Zesty Vietnamese Pork Ti Leaf Wraps",
+    "tags": [
+      "buttery",
+      "cheesy",
+      "flexitarian",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-vietnamese-rice-noodle-soup",
     "title": "Zesty Vietnamese Rice Noodle Soup",
     "tags": [

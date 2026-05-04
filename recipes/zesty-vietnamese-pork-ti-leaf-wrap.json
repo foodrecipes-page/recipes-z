@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Vietnamese Pork Ti Leaf Wraps",
+  "description": "A flavorful and savory Vietnamese-inspired dish featuring juicy pork, crispy ti leaf wraps, and a cheesy, buttery sauce. This crowd-pleaser is perfect for a weeknight dinner or brunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ti leaves",
+      "amount": "12 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Salted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Cheese strings",
+      "amount": "4-6 strings",
+      "notes": "such as mozzarella or Monterey Jack"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, whisk together sugar, fish sauce, lime juice, garlic, and ginger to make the marinade.",
+    "Place the pork shoulder in a large ziplock bag and pour in the marinade. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "After marinating, remove the pork from the bag and place it on a baking sheet lined with parchment paper. Broil for 15-20 minutes on each side, or until browned and cooked through.",
+    "While the pork is cooking, toast the ti leaves by placing them on the baking sheet with the pork. They will turn crispy and golden brown.",
+    "To assemble the wraps, place a piece of crispy ti leaf on a flat surface, followed by a few slices of the cooked pork, a sprinkle of cheese strings, and a dollop of salted butter.",
+    "Fold the bottom of the ti leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining pork and ti leaves, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "cheesy",
+    "flexitarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "zesty-vietnamese-pork-ti-leaf-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-pork-ti-leaf-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:23Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "salted butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty",
+    "dishForm": "Ti Leaf Wrap"
+  }
+}
