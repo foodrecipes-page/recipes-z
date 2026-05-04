@@ -96,6 +96,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-corn-salad",
+    "title": "Zesty American Corn Salad",
+    "tags": [
+      "american",
+      "low-sodium",
+      "quick",
+      "salad",
+      "summer",
+      "zesty"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-arabian-cheese-bowl",
     "title": "Zesty Arabian Cheese Bowl",
     "tags": [

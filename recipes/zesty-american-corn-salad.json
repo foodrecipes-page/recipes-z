@@ -1,0 +1,96 @@
+{
+  "title": "Zesty American Corn Salad",
+  "description": "A bright, crunchy corn salad with a tangy lime and hot sauce kick, perfect for summer gatherings.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh corn kernels",
+      "amount": "4 cups",
+      "notes": "freshly popped or canned, drained"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "4 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for dressing"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "optional, for mild heat"
+    }
+  ],
+  "instructions": [
+    "Boil water in a medium pot and cook corn kernels for 4 minutes, then drain and cool under cold water.",
+    "In a large bowl combine the cooked corn, diced red bell pepper, chopped red onion, and cilantro.",
+    "In a small bowl whisk together lime juice, hot sauce, olive oil, and pepper until emulsified.",
+    "Pour the dressing over the corn mixture and toss until evenly coated.",
+    "Taste and add a pinch of salt if desired, keeping it minimal for low-sodium use.",
+    "Refrigerate the salad for 15 minutes before serving to let flavors meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "low-sodium",
+    "quick",
+    "salad",
+    "summer",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "zesty-american-corn-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-corn-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:30:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "hotsauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Corn",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}
