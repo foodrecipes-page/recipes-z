@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Portuguese Chicken Flatbread",
+  "description": "A flaky, quick flatbread with Portuguese spices, grilled chicken, and a tangy citrus glaze, perfect for a high-protein lunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250 g",
+      "notes": "for crust"
+    },
+    {
+      "name": "Instant dry yeast",
+      "amount": "5 g",
+      "notes": "fast action"
+    },
+    {
+      "name": "Salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "2 tsp",
+      "notes": "adds umami"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "400 g"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "15 g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix flour, instant dry yeast, salt, and dashi powder until combined.",
+    "Add warm water and olive oil to the dry mixture, stirring until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise for 20 minutes until doubled.",
+    "Preheat a cast-iron skillet over medium-high heat.",
+    "Divide the risen dough into 4 equal portions, rolling each into a thin round.",
+    "Cook each flatbread in the skillet for 2 minutes per side until golden and crisp.",
+    "Meanwhile, sauté chicken, onion, garlic, and paprika in a separate pan until cooked through, about 7 minutes.",
+    "Spread the cooked mixture onto each flatbread, then top with lemon zest and cilantro.",
+    "Serve immediately with a squeeze of fresh lemon juice for extra zing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "high-protein",
+    "portuguese",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-portuguese-chicken-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-portuguese-chicken-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:37:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "fast action yeast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Flatbread"
+  }
+}
