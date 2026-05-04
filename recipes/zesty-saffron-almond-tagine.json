@@ -1,0 +1,78 @@
+{
+  "title": "Zesty Saffron Almond Tagine",
+  "description": "A sour, molten, midnight-craving Tunisian dish featuring egg wash and mushimono-steamed almonds with an anti-inflammatory twist.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "each"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon saffron threads",
+      "amount": null
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Whisk together almond flour, eggs, olive oil, saffron, and lemon juice. Mix well until smooth.",
+    "Heat a non-stick pan over medium heat. Pour in the egg mixture and stir continuously with a spatula until thickened, about 5 minutes.",
+    "Transfer the egg mixture to a small oven-safe dish. Bake for 10 minutes or until golden brown on top.",
+    "While the eggs bake, steam almonds in boiling water for 3-4 minutes, then remove from heat and sprinkle with salt.",
+    "Drizzle extra lemon juice over both dishes and serve warm."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "egg-wash",
+    "midnight-craving",
+    "molten",
+    "sour",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-saffron-almond-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saffron-almond-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:15:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "egg wash",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saffron",
+    "mainIngredient": "Almonds",
+    "descriptor": "Savory",
+    "dishForm": "Tagine"
+  }
+}
