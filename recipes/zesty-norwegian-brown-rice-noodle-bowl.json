@@ -1,0 +1,116 @@
+{
+  "title": "Zesty Norwegian Brown Rice Noodle Bowl",
+  "description": "A fatty, crunchy meal-prep bowl made with blanched brown rice noodles, zesty lemon-soy dressing, and toasted nuts and seeds for a Mediterranean-friendly Norwegian twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice noodles",
+      "amount": "200 g",
+      "notes": "Yield 3 servings"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts",
+      "amount": "0.25 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "0.25 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch brown rice noodles for 3 minutes.",
+    "Drain the noodles and rinse them under cold water to stop the cooking process.",
+    "Whisk together olive oil, sesame oil, lemon juice, light soy sauce, minced garlic, and red pepper flakes in a small bowl.",
+    "Toss the blanched noodles with the dressing until evenly coated.",
+    "Stir in chopped parsley and season with a pinch of salt.",
+    "Transfer the noodle mixture to a large airtight container for meal prep.",
+    "Toast walnuts in a dry skillet over medium heat for 4 minutes, shaking frequently until fragrant.",
+    "Toast sunflower seeds in the same skillet for 2 minutes, stirring to prevent burning.",
+    "Store toasted nuts and seeds in a separate airtight container.",
+    "When ready to serve, divide the noodle bowl into portions and top each with toasted walnuts and sunflower seeds, optionally squeezing fresh lemon juice on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "easy",
+    "fatty",
+    "meal-prep",
+    "norwegian",
+    "vegetarian",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "zesty-norwegian-brown-rice-noodle-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-norwegian-brown-rice-noodle-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:57:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Brown Rice Noodle",
+    "descriptor": "Zesty",
+    "dishForm": "Bowl"
+  }
+}
