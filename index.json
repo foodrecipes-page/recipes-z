@@ -364,6 +364,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-tofu-pie",
+    "title": "Zesty American Tofu Pie",
+    "tags": [
+      "american",
+      "crispy",
+      "low-calorie",
+      "shortcrust",
+      "tofu"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 85,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-arabian-cheese-bowl",
     "title": "Zesty Arabian Cheese Bowl",
     "tags": [

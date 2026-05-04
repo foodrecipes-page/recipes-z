@@ -1,0 +1,109 @@
+{
+  "title": "Zesty American Tofu Pie",
+  "description": "A mustardy, low-calorie tofu pie with a crispy shortcrust crust, perfect for adventurous American dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ready rolled shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "preheat oven to 200°C"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "soak in brine (1 tsp salt in 1 cup water) 15 min, then press 30 min"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shallot, minced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Prepare a brine by dissolving 1 tsp salt in 1 cup water, soak tofu for 15 minutes, then press it for 30 minutes to remove excess liquid.",
+    "Cut the pressed tofu into 1 cm cubes and set aside.",
+    "Heat 1 tbsp olive oil in a saucepan over medium heat and sauté the minced shallot until translucent.",
+    "Add garlic powder, smoked paprika, thyme, and black pepper; cook for 30 seconds.",
+    "Stir in the cubed tofu, Dijon mustard, whole grain mustard, soy sauce, and vegetable broth; simmer for 5 minutes until the sauce thickens.",
+    "Roll out the pastry on parchment paper, fit it into a 9-inch pie dish, and prick the bottom with a fork.",
+    "Fill the pastry crust with the tofu mixture and cover with the remaining pastry or leave open for a crisp top.",
+    "Bake for 25 minutes until the crust is golden brown and the filling is set.",
+    "Remove from oven, let cool for 5 minutes, then slice and serve."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 45,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "crispy",
+    "low-calorie",
+    "shortcrust",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 15,
+    "carbs": 43,
+    "fat": 33
+  },
+  "slug": "zesty-american-tofu-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-tofu-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:51:42Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty",
+    "dishForm": "Pie"
+  }
+}
