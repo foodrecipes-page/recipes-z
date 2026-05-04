@@ -723,6 +723,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-mediterranean-lentil-tagine",
+    "title": "Zesty Dense Mediterranean Lentil Tagine",
+    "tags": [
+      "comfort-food",
+      "lentil-based",
+      "mediterranean-inspired",
+      "one-pot",
+      "vegan-option",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dutch-almond-broth",
     "title": "Zesty Dutch Almond Broth",
     "tags": [
