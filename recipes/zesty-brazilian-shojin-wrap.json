@@ -1,0 +1,92 @@
+{
+  "title": "zesty brazilian shojin wrap",
+  "description": "a show-off brazilian dish featuring sugar, leaf-wrap-steam, shojin-friendly ingredients. the mustardy flavor is shattering.",
+  "cuisine": "brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turmeric-spiced rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "shojin tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "sugar cane juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "steam corn tortillas in a bamboo steamer for 2 minutes.",
+    "warm shojin tofu by wrapping it in a damp cloth and microwaving for 30 seconds.",
+    "mix turmeric-spiced rice with coconut milk and turmeric powder.",
+    "fill each tortilla with a spoonful of rice mixture, a piece of tofu, and some chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "one-pan",
+    "shojin",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "zesty-brazilian-shojin-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-shojin-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sugar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "shojin",
+    "descriptor": "zesty",
+    "dishForm": "wrap"
+  }
+}

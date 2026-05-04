@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Sweet Japanese Rice Bowl",
+  "description": "A sweet and gooey Japanese dish featuring the taste of orange zest, perfect for kids. This ayurvedic-tamasic-friendly recipe is a great breakfast or snack option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Short Grain Japanese Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Orange Marmalade",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "2 tablespoons",
+      "notes": "Grate 1 orange for 2 tablespoons of zest."
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Use a mild sugar for this recipe."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": "Ghee or other non-stick oil also works."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use a light hand with this."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional topping."
+    },
+    {
+      "name": "Fresh Orange Wedges",
+      "amount": "4-6",
+      "notes": "Optional topping."
+    }
+  ],
+  "instructions": [
+    "Combine rice, water, and sesame seeds (if using) in a medium saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15 minutes or until the liquid is absorbed.",
+    "In a small saucepan, melt the coconut oil over low heat.",
+    "Add the coconut sugar and sea salt. Stir until the sugar dissolves.",
+    "Add the orange marmalade and stir until well combined.",
+    "Cook for an additional 2-3 minutes or until the mixture thickens slightly.",
+    "To assemble the bowls, place a scoop of Japanese rice in each bowl.",
+    "Spoon the orange marmalade mixture over the rice.",
+    "Garnish with orange zest, sesame seeds, and orange wedges (if using)."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-sweet-japanese-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-japanese-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "smoke-hot",
+    "primaryIngredient": "orange zest",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "zesty sweet",
+    "dishForm": "bowl"
+  }
+}

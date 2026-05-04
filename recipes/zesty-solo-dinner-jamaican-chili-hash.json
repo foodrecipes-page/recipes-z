@@ -1,0 +1,117 @@
+{
+  "title": "Zesty Solo Dinner Jamaican Chili Hash",
+  "description": "Floral, crunchy, solo-dinner Jamaican dish featuring chili flakes, glaze, and low-sodium-friendly ingredients, made in a comal.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground pork",
+      "amount": "250",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a comal over medium heat.",
+    "Add a tablespoon of coconut oil and cook until melted.",
+    "Add the chopped red onion and cook until translucent.",
+    "Add the chopped red bell pepper and cook for an additional 2 minutes.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chili flakes and cook for an additional 1 minute.",
+    "Stir in the lime juice, honey, flaxseed meal, flour, salt, and black pepper.",
+    "Add the chopped scotch bonnet peppers and stir to combine.",
+    "Cook for an additional 2 minutes, stirring frequently.",
+    "Transfer the mixture to a serving dish and garnish with additional scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "low-sodium",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "zesty-solo-dinner-jamaican-chili-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-solo-dinner-jamaican-chili-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "glaze",
+    "primaryIngredient": "chilli flakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chili",
+    "descriptor": "Zesty solo-dinner",
+    "dishForm": "Hash"
+  }
+}

@@ -600,6 +600,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brazilian-shojin-wrap",
+    "title": "zesty brazilian shojin wrap",
+    "tags": [
+      "brazilian",
+      "high-protein",
+      "one-pan",
+      "shojin",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-briny-ethiopian-chicken-dulet",
     "title": "Zesty Briny Ethiopian Chicken Dulet",
     "tags": [
@@ -4439,6 +4454,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-solo-dinner-jamaican-chili-hash",
+    "title": "Zesty Solo Dinner Jamaican Chili Hash",
+    "tags": [
+      "jamaican",
+      "low-sodium",
+      "one-pan",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spanish-tuna-patatas-bravas",
     "title": "Zesty Spanish Tuna Patatas Bravas",
     "tags": [
@@ -4494,6 +4523,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-sweet-japanese-rice-bowl",
+    "title": "Zesty Sweet Japanese Rice Bowl",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "snack",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
