@@ -1,0 +1,100 @@
+{
+  "title": "Zenith Light Saudi Arabian Chicken Kebabs",
+  "description": "A nutty and light Saudi Arabian dish featuring chicken stock concentrate, yakimono-grill, and gluten-free-friendly ingredients, perfect for a cozy dinner. This recipe is easy to make and serves 4 people.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "In a large bowl, whisk together chicken stock concentrate, olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Grill the chicken kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "Sprinkle the chopped almonds and parsley over the kebabs during the last minute of grilling.",
+    "Serve the kebabs hot, garnished with additional parsley if desired.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with your favorite sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "healthy-dinner",
+    "middle-eastern",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zenith-light-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-light-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:50:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zenith Light",
+    "dishForm": "Kebabs"
+  }
+}
