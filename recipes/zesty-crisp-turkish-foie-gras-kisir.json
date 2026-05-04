@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Crisp Turkish Foie Gras Kisir",
+  "description": "A charred, crisp, and light Turkish dish featuring foie-gras, served in a cazuela, this kisir is a unique twist on traditional Turkish cuisine, and is halal-friendly by using halal-certified foie gras alternatives.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal foie gras",
+      "amount": "12 oz",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "fine bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, soak the fine bulgur in water for 30 minutes, then drain and set aside.",
+    "In a large skillet, heat the olive oil over medium-high heat and sear the halal foie gras slices until charred and crispy, about 2-3 minutes per side.",
+    "Remove the foie gras from the skillet and set aside on a plate.",
+    "In the same skillet, add the diced red bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the chopped scallions, tomato paste, pomegranate molasses, and lemon juice to the skillet and cook for an additional 2 minutes, stirring constantly.",
+    "In a large cazuela, combine the cooked bulgur, skillet mixture, and charred foie gras slices.",
+    "Season with salt and black pepper to taste.",
+    "Serve the kisir hot, garnished with additional scallions and pomegranate seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "complex-flavors",
+    "halal-friendly",
+    "one-pan",
+    "rich-dish",
+    "special-occasion",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "zesty-crisp-turkish-foie-gras-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-turkish-foie-gras-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:33:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "foie-gras",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "foie gras",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Kisir"
+  }
+}
