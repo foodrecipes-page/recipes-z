@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Filipino Lamb Pancit Canton",
+  "description": "A glossy, smoky pancit canton featuring tender lamb and fresh veggies, finished with a zesty lime finish for a romantic Filipino flair.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb, thinly sliced",
+      "amount": "400g"
+    },
+    {
+      "name": "Pancit canton noodles, pre-cooked",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "Carrot, julienned",
+      "amount": "1"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat and sear the lamb slices until browned, about 3-4 minutes, then set aside.",
+    "In the same wok, sauté onion and garlic until fragrant, about 1-2 minutes.",
+    "Add the bell pepper and carrot, stir-fry until just tender, about 2-3 minutes.",
+    "Return the lamb to the wok, pour in soy sauce, oyster sauce, and smoked paprika, and stir until the lamb is coated.",
+    "Toss in the pre-cooked pancit canton noodles, stirring to combine and heat through, about 1-2 minutes.",
+    "Drizzle lime juice over the noodles and season with salt and pepper to taste, then stir well.",
+    "Fold in fresh cilantro just before serving for a bright finish.",
+    "Serve hot, optionally garnished with extra cilantro or lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "glossy",
+    "high-protein",
+    "lamb",
+    "pancit",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 33,
+    "carbs": 22,
+    "fat": 15
+  },
+  "slug": "zesty-smoky-filipino-lamb-pancit-canton",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-filipino-lamb-pancit-canton",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:32:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "lamb",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Pancit Canton"
+  }
+}
