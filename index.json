@@ -1079,6 +1079,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-filipino-speck-menudo",
+    "title": "Zesty Filipino Speck Menudo",
+    "tags": [
+      "filipino-cuisine",
+      "lacto-vegetarian",
+      "one-pot",
+      "weeknight-meal",
+      "zesty-dish"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-syrian-pasta-bake",
     "title": "Zesty Flaky Syrian Pasta Bake",
     "tags": [

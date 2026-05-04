@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Filipino Speck Menudo",
+  "description": "A mustardy and fluffy Filipino dish featuring speck, shio-koji-cure, and lacto-vegetarian-friendly ingredients, served in a molcajete.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 cup diced",
+      "notes": "cured with shio-koji"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium diced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large molcajete, heat 2 tablespoons of oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced tomato and cook for 3 minutes, until they start to break down.",
+    "Add the diced speck and cook for 2 minutes, until heated through.",
+    "In a small bowl, whisk together the mustard, fish sauce, and lime juice.",
+    "Pour the mustard mixture over the speck mixture and stir to combine.",
+    "Make 4 wells in the mixture and crack an egg into each well.",
+    "Season with salt and black pepper to taste.",
+    "Cover the molcajete with a lid and cook for an additional 5 minutes, until the eggs are cooked to desired doneness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "lacto-vegetarian",
+    "one-pot",
+    "weeknight-meal",
+    "zesty-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-filipino-speck-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-filipino-speck-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:50:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "speck",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "speck",
+    "descriptor": "Zesty fluffy",
+    "dishForm": "Menudo"
+  }
+}
