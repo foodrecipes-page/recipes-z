@@ -931,6 +931,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crunchy-venezuelan-wagyu-bowl",
+    "title": "Zesty Crunchy Venezuelan Wagyu Bowl",
+    "tags": [
+      "venezuelan",
+      "lunch"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-mediterranean-lentil-tagine",
     "title": "Zesty Dense Mediterranean Lentil Tagine",
     "tags": [

@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Crunchy Venezuelan Wagyu Bowl",
+  "description": "A vibrant bowl featuring seared Wagyu, crisp veggies, and tangy tropical flavors, all served in a stone bowl for a sizzling finish.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu sirloin steak",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup uncooked"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse jasmine rice and combine with water in a pot, bring to a boil, then simmer 15 minutes until tender.",
+    "Heat sesame oil in a stone bowl over medium-high, add Wagyu slices, sear 1-2 minutes each side until browned but still pink.",
+    "Add sliced pepper to the bowl and stir-fry for 1 minute.",
+    "Stir in soy sauce and sriracha, cook for 30 seconds.",
+    "Remove bowl from heat, stir in lime juice.",
+    "Plate rice in the bowl, top with seared steak and pepper mixture.",
+    "Sprinkle with pickled cucumber, green onions, toasted sesame seeds, and a pinch of salt.",
+    "Serve immediately with extra lime wedges on the side."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "lunch"
+  ],
+  "slug": "zesty-crunchy-venezuelan-wagyu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-venezuelan-wagyu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:26:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "wagyu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Bowl"
+  }
+}
