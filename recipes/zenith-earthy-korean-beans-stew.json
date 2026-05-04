@@ -1,0 +1,106 @@
+{
+  "title": "Zenith Earthy Korean Beans Stew",
+  "description": "A hearty and earthy Korean stew featuring beans and a variety of mushrooms, perfect for a rainy day. This vegan-friendly dish is both creamy and comforting.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cremini mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the cooked kidney beans, gochujang, soy sauce, and korean chili flakes, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Add the cubed tofu to the pot and simmer for an additional 5 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean",
+    "mushroom-based",
+    "one-pot",
+    "rainy-day",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zenith-earthy-korean-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-earthy-korean-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:44:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beans",
+    "descriptor": "Zenith Earthy",
+    "dishForm": "Stew"
+  }
+}
