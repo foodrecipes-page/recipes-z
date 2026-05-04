@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Venezuelan Corn Tagine",
+  "description": "A tangy, bouncy, low-sodium Venezuelan tagine that pairs sweet corn with buttermilk and a citrus vinaigrette, finished with a spherified splash of lime for a festive pop.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh corn kernels",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "200 milliliters"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "0.5 gram",
+      "notes": "spherification ingredient"
+    },
+    {
+      "name": "calcium chloride",
+      "amount": "1 gram",
+      "notes": "bath solution"
+    }
+  ],
+  "instructions": [
+    "Rinse 4 cups of fresh corn kernels and pat dry.",
+    "Heat a tagine pot over medium heat and swirl a tablespoon of olive oil around the base.",
+    "Add 1 chopped onion and 2 minced garlic cloves, sauté until translucent.",
+    "Stir in 1 teaspoon cumin, 1 teaspoon smoked paprika, and a pinch of cayenne, cooking for 30 seconds.",
+    "Pour in 2 cups of buttermilk, 1 cup of diced tomatoes, and the corn, stirring to combine.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, stirring occasionally.",
+    "While the corn simmers, whisk 200 milliliters lime juice with 0.5 gram sodium alginate and let sit for 30 minutes.",
+    "Prepare a calcium chloride bath by dissolving 1 gram in 200 milliliters water.",
+    "Drop the lime alginate mixture into the calcium bath using a spoon, letting spheres form for 1 minute before transferring to a bowl of cold water.",
+    "When the corn is tender, stir in 2 tablespoons fresh cilantro, 1 teaspoon sea salt, and the spherified lime spheres.",
+    "Adjust seasoning with lemon zest and a drizzle of olive oil, then remove from heat.",
+    "Serve hot, garnished with extra cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttermilk",
+    "festive",
+    "low-sodium",
+    "spherify",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 9
+  },
+  "slug": "zesty-venezuelan-corn-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-corn-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:25:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "spherify",
+    "primaryIngredient": "buttermilk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}
