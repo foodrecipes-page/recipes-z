@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Egyptian Turkey Neck Skewers",
+  "description": "A pungent and crunchy Egyptian dish featuring turkey neck, deep-fried to perfection, served on a comal, perfect for a hangover cure. This pescatarian-friendly recipe is a unique twist on traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper to make the marinade.",
+    "Add the turkey neck pieces to the marinade and mix well to coat, cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Remove the turkey neck pieces from the marinade, allowing any excess to drip off.",
+    "Deep-fry the turkey neck pieces in batches until golden brown, about 5-7 minutes per batch.",
+    "Using a slotted spoon, remove the fried turkey neck pieces from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Thread the fried turkey neck pieces onto skewers, if desired.",
+    "Serve the Zesty Egyptian Turkey Neck Skewers on a comal, garnished with lemon wedges and parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "egyptian-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-egyptian-turkey-neck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-turkey-neck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:45:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "turkey neck",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Skewers"
+  }
+}
