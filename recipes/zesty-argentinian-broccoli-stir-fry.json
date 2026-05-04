@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Argentinian Broccoli Stir-fry",
+  "description": "A spicy and comforting flexitarian dish featuring tender broccoli, a bright lime-ginger sauce, and a hint of Argentinian red wine deglaze for depth of flavor.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli florets",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "100g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "tofu, cubed (optional)",
+      "amount": "100g",
+      "notes": "for extra protein"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced garlic and red pepper flakes, sauté for 30 seconds until fragrant.",
+    "Add broccoli florets and stir for 2 minutes until they begin to soften.",
+    "Pour in crushed tomatoes and soy sauce, then stir to coat the broccoli.",
+    "Deglaze the pan with 2 tbsp of dry red wine, scraping up any browned bits.",
+    "Add lime juice and stir to combine, letting the sauce reduce slightly.",
+    "Season with salt and black pepper and adjust to taste.",
+    "If using tofu, fold it into the skillet and cook for an additional 2 minutes.",
+    "Remove from heat and serve hot, optionally garnished with fresh parsley or grated Parmesan.",
+    "Enjoy a quick, zesty dinner that satisfies both vegetarians and flexitarians."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "flexitarian",
+    "one-pan",
+    "stir-fry",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-argentinian-broccoli-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-argentinian-broccoli-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:10:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "broccoli",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Zesty",
+    "dishForm": "Stir-fry"
+  }
+}

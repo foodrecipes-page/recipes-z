@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Turkish Beef Kebabs",
+  "description": "Sour and smoky kebabs made with tender hind shank, finished char-grilled, keto-friendly, and packed with zesty yogurt sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef hind shank",
+      "amount": "1.5 kg",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "300 g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "cracked"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "In a bowl, whisk together yogurt, garlic, lemon juice, smoked paprika, cumin, salt, and pepper until smooth.",
+    "Toss beef cubes in the yogurt mixture, cover, and refrigerate for at least 2 hours or overnight.",
+    "Preheat a charcoal grill or grill pan to high heat and oil the grates with olive oil.",
+    "Thread marinated beef onto soaked skewers, leaving small gaps between cubes.",
+    "Place the skewers on the grill and cook for 4-5 minutes per side, turning once, until the meat is char-grilled and juices run clear.",
+    "Brush the kebabs with remaining yogurt sauce during the last minute of grilling for extra moisture.",
+    "Remove from grill, let rest for 5 minutes, then serve hot with a side of fresh parsley and a wedge of lemon.",
+    "Enjoy the zesty, smoky flavors of this keto-friendly Turkish delight."
+  ],
+  "prepTimeMin": 90,
+  "cookTimeMin": 10,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kebabs",
+    "grilled",
+    "keto-friendly",
+    "quick-meal",
+    "smoky",
+    "turkish",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 79,
+    "carbs": 3,
+    "fat": 15
+  },
+  "slug": "zesty-smoky-turkish-beef-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-turkish-beef-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:10:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "hind shank",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Kebabs"
+  }
+}

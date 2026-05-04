@@ -231,6 +231,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-argentinian-broccoli-stir-fry",
+    "title": "Zesty Argentinian Broccoli Stir-fry",
+    "tags": [
+      "argentinian",
+      "flexitarian",
+      "one-pan",
+      "stir-fry",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-argentinian-pumpkin-roast",
     "title": "Zesty Argentinian Pumpkin Roast",
     "tags": [
@@ -2032,6 +2047,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-turkish-beef-kebabs",
+    "title": "Zesty Smoky Turkish Beef Kebabs",
+    "tags": [
+      "beef-kebabs",
+      "grilled",
+      "keto-friendly",
+      "quick-meal",
+      "smoky",
+      "turkish",
+      "zesty"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 100,
     "shard": "z"
   },
   {
