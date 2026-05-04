@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Smoky Norwegian Lamb Roast",
+  "description": "A roasted Norwegian lamb dish featuring sazon and smoky flavors, perfect for a special occasion, and is sugar-free-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb roast",
+      "amount": "2 pounds",
+      "notes": "boneless, tied with kitchen twine"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, mix together sazon seasoning, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb roast, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Baste the lamb with pan juices every 20 minutes to keep it moist.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Garnish with fresh rosemary sprigs and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "smoky-flavors",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 42
+  },
+  "slug": "zesty-smoky-norwegian-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-norwegian-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:44:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "sazon",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Roast"
+  }
+}
