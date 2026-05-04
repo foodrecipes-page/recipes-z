@@ -4418,6 +4418,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-uruguayan-corn-salad",
+    "title": "Zesty Uruguayan Corn Salad",
+    "tags": [
+      "corn",
+      "fast",
+      "low-sodium",
+      "uruguayan",
+      "vegetarian",
+      "zesty"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-velvety-croatian-egg-frittata",
     "title": "Zesty Velvety Croatian Egg Frittata",
     "tags": [
