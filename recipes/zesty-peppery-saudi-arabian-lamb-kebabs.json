@@ -1,0 +1,90 @@
+{
+  "title": "Zesty Peppery Saudi Arabian Lamb Kebabs",
+  "description": "A festive Saudi Arabian dish featuring lamb, raspberry jam, and beurre monte, perfect for a special occasion. This macrobiotic friendly recipe is peppery and pillowy, with a unique flavor combination.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together raspberry jam, beurre monte, black pepper, cumin, coriander, and salt.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with additional black pepper if desired.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-peppery-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peppery-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:38:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "raspberry jam",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Peppery",
+    "dishForm": "Kebabs"
+  }
+}
