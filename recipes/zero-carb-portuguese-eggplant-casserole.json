@@ -1,0 +1,97 @@
+{
+  "title": "Zero Carb Portuguese Eggplant Casserole",
+  "description": "A yeasty and creamy keto-friendly Portuguese dish featuring eggplant, this casserole is kid-friendly and perfect for a weeknight dinner. It is made with blanched eggplant and has zero carbs.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Blanch the sliced eggplant in boiling water for 5 minutes to remove bitterness.",
+    "Remove the eggplant from the water and let it cool on a paper towel-lined plate.",
+    "In a large bowl, whisk together the heavy cream, eggs, salt, black pepper, garlic powder, and dried oregano.",
+    "Add the shredded mozzarella cheese and grated parmesan cheese to the bowl and stir until well combined.",
+    "Add the cooled eggplant slices to the bowl and stir gently to coat with the cheese mixture.",
+    "Transfer the eggplant mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "kid-friendly",
+    "low-carb",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 34
+  },
+  "slug": "zero-carb-portuguese-eggplant-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-carb-portuguese-eggplant-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:08:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "eggplant",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zero carb",
+    "dishForm": "Casserole"
+  }
+}
