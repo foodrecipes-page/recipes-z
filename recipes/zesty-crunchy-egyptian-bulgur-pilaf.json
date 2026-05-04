@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Crunchy Egyptian Bulgur Pilaf",
+  "description": "A bright, malty bulgur pilaf with a lemony crunch, perfect for a brunch that feels like a sunny Egyptian morning.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fine bulgur wheat",
+      "amount": "1 cup",
+      "notes": "rinse before cooking"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "1 1/4 cups",
+      "notes": "for extra flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Small onion, finely diced",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Raw blanched almonds, toasted",
+      "amount": "1/2 cup",
+      "notes": "blanch in boiling water 30 sec, then dry"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur under cold water until the runoff runs clear.",
+    "In a medium pot, bring the vegetable broth and 1 tablespoon of olive oil to a boil.",
+    "Add the bulgur, reduce heat, cover, and simmer until the liquid is absorbed and the bulgur is tender, about 12 minutes.",
+    "While the bulgur cooks, toast the blanched almonds in a dry skillet over medium heat until fragrant, about 3 minutes, then set aside.",
+    "In the same skillet, heat the remaining tablespoon of olive oil and sauté the diced onion and minced garlic until translucent, about 4 to 5 minutes.",
+    "Stir in the cumin, smoked paprika, and cooked bulgur, seasoning with salt and pepper.",
+    "Fold in the lemon zest, lemon juice, toasted almonds, and chopped parsley, mixing until everything is evenly coated.",
+    "Serve the pilaf hot, garnished with extra parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egyptian",
+    "nutty",
+    "quick",
+    "vegetarian",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 4,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "zesty-crunchy-egyptian-bulgur-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-egyptian-bulgur-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:58:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "lemon juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bulgur",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Pilaf"
+  }
+}
