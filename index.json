@@ -544,6 +544,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brazilian-beef-bowl",
+    "title": "Zesty Brazilian Beef Bowl",
+    "tags": [
+      "high-protein",
+      "latin-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-brazilian-chicken-skewers",
     "title": "Zesty Brazilian Chicken Skewers",
     "tags": [

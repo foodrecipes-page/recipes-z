@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Brazilian Beef Bowl",
+  "description": "This earthy Brazilian dish combines ground beef, crunchy vegetables, and a zesty citrus sauce, all dairy-free friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "spherified yuzu juice",
+      "amount": "100g"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chopped onion, red bell pepper, and tomato, and cook until they start to soften.",
+    "Add the ground beef and cook until it is no longer pink.",
+    "Add the cumin powder, cayenne pepper, and salt to the skillet and stir to combine.",
+    "Use a spoon to create small indentations in the beef mixture, and then add a small amount of spherified yuzu juice to each indentation.",
+    "Serve the beef mixture over a bed of greens, garnished with chopped fresh cilantro.",
+    "Drizzle the remaining yuzu juice over the top of the dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "latin-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-brazilian-beef-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-beef-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T20:35:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "ground beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "zesty",
+    "dishForm": "Bowl"
+  }
+}
