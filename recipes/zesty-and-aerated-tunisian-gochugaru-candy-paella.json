@@ -1,0 +1,103 @@
+{
+  "title": "Zesty and Aerated Tunisian Gochugaru Candy Paella",
+  "description": "A unique, indulgent and tangy Tunisian Paella dish featuring gochugaru and candy, suitable for macrobiotic diets.",
+  "cuisine": "Tunisian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gochugaru",
+      "amount": "2 teaspoons",
+      "notes": "Spicy Korean chili flakes"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 3/4 cups",
+      "notes ": "adjust to rice ratio"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/2 cup",
+      "notes": "crushed, color of choice"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened, for aeration"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for paella pan"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 teaspoon",
+      "notes": "fresh, for flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large, oven-safe paella pan, heat coconut oil over medium-high heat.",
+    "Add gochugaru and cook, stirring constantly, for 1 minute.",
+    "Add candy pieces and cook, stirring frequently, until caramelized, about 5 minutes.",
+    "Add paella rice and cook, stirring constantly, for 2 minutes.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 15 minutes, covered.",
+    "In a separate bowl, whip almond milk until it becomes aerated and frothy.",
+    "Remove paella pan from heat and stir in almond milk mixture, orange zest, lemon juice, and salt.",
+    "Return paella pan to medium heat and cook, stirring constantly, until the rice is cooked and the liquid has been absorbed, about 5 minutes.",
+    "Serve hot, garnished with additional candy pieces if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "aerated",
+    "dessert",
+    "korean-spicy",
+    "macrobiotic",
+    "paella",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "zesty-and-aerated-tunisian-gochugaru-candy-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-and-aerated-tunisian-gochugaru-candy-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "gochugaru",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "gochugaru candy",
+    "descriptor": "zesty and aerated",
+    "dishForm": "paella"
+  }
+}
