@@ -1,0 +1,121 @@
+{
+  "title": "Zesty Malaysian Shrimp Curry",
+  "description": "A garlicky, silky shrimp curry bursting with citrus and fermented flavors, perfect for a high‑protein, festive meal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "500g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic, ginger and onion, sauté until fragrant, about 2 minutes.",
+    "Stir in sliced chilies and shrimp paste, cook for 1 minute.",
+    "Add shrimp, cook until pink and cooked through, about 3 minutes.",
+    "Pour in coconut milk, fish sauce, soy sauce, brown sugar and salt, bring to a gentle simmer.",
+    "Reduce heat and simmer for 5 minutes to blend flavors.",
+    "Stir in lime juice, then remove from heat.",
+    "Garnish with chopped coriander and serve hot over steamed rice.",
+    "Enjoy the zesty, silky delight!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festival",
+    "high-protein",
+    "low-carb",
+    "marinated",
+    "one-pot",
+    "quick",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 920,
+    "protein": 120,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "zesty-malaysian-shrimp-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-shrimp-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:03:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "shrimp paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}
