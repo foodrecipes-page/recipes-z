@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Umami Middle Eastern Noodle Shawarma",
+  "description": "A flavorful and diabetic-friendly Middle Eastern noodle dish with an al-dente finish, served in a shawarma style.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat noodles",
+      "amount": "8 oz",
+      "notes": "preferably low carb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions until they are al-dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a small bowl, mix together the sumac, paprika, salt, and black pepper.",
+    "Add the spice mixture to the skillet and cook for one minute.",
+    "In a large bowl, combine the cooked noodles, skillet mixture, and tahini sauce.",
+    "Stir until the noodles are well coated with the sauce and spices.",
+    "Divide the noodle mixture among four shawarma wraps.",
+    "Top each shawarma with chopped parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "middle-eastern",
+    "noodle-dish",
+    "shawarma-style",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-umami-middle-eastern-noodle-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-umami-middle-eastern-noodle-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:28:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "noodles",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "noodles",
+    "descriptor": "Zesty Umami",
+    "dishForm": "Shawarma"
+  }
+}

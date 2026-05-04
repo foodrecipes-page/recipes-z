@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Crisp Chiapan Minari Casserole",
+  "description": "A resinous, crisp casserole that blends Mexican Chiapan flavors with Korean minari and a lamination-puff crust, perfect for brunch or a light lunch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "200 g"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "150 g",
+      "notes": "diced"
+    },
+    {
+      "name": "poblano pepper",
+      "amount": "100 g",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted pepitas",
+      "amount": "30 g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "nopal cactus",
+      "amount": "50 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat your fondue pot to 180°C and line it with parchment paper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-mood",
+    "crispy",
+    "gluten-free",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-crisp-chiapan-minari-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-chiapan-minari-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:28:47Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "minari",
+    "diet": "shojin",
+    "region": "chiapan",
+    "cuisineAdjective": "Chiapan",
+    "mainIngredient": "minari",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Casserole"
+  }
+}

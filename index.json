@@ -944,6 +944,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-chiapan-minari-casserole",
+    "title": "Zesty Crisp Chiapan Minari Casserole",
+    "tags": [
+      "brunch-mood",
+      "crispy",
+      "gluten-free",
+      "one-pot",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-croatian-cashew-skewers",
     "title": "Zesty Crisp Croatian Cashew Skewers",
     "tags": [
@@ -4206,6 +4221,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-umami-middle-eastern-noodle-shawarma",
+    "title": "Zesty Umami Middle Eastern Noodle Shawarma",
+    "tags": [
+      "diabetic-friendly",
+      "easy-to-make",
+      "middle-eastern",
+      "noodle-dish",
+      "shawarma-style",
+      "vegetarian-option"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
