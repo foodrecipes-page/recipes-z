@@ -647,6 +647,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-buttery-peruvian-rice-arroz-con-pato",
+    "title": "Zesty Buttery Peruvian Rice Arroz Con Pato",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "peruvian-cuisine",
+      "plant-based",
+      "steamed-dishes"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-buttery-russian-duck-noodles",
     "title": "Zesty Buttery Russian Duck Noodles",
     "tags": [
