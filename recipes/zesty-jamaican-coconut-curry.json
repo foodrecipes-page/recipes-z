@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Jamaican Coconut Curry",
+  "description": "A floral, gooey, energizing Jamaican dish that blends coconut milk, fresh lime, and spice into a silky curry, sugar‑free and packed with flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free-friendly",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "200 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions, chopped",
+      "amount": "3 stalks"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat until shimmering.",
+    "Add minced ginger and sauté until fragrant, about 30 seconds.",
+    "Stir in mixed spice and toast lightly for 1 minute.",
+    "Pour in diced tomatoes and coconut milk, bring to a gentle simmer.",
+    "Add tofu cubes and cook for 5 minutes, allowing flavors to meld.",
+    "Stir in lime zest, scallions, salt, and pepper, simmer for another 3 minutes.",
+    "Pour in a tablespoon of cooled binchotan charcoal water and stir.",
+    "Remove from heat, let sit for 5 minutes to infuse the smoky aroma.",
+    "Serve hot over steamed rice or quinoa, garnish with extra scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "floral",
+    "low-carb",
+    "one-pot",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 27
+  },
+  "slug": "zesty-jamaican-coconut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jamaican-coconut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:39:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "mixed spice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Coconut",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Fluffy Croatian Lamb Biryani",
+  "description": "A flavorful and aromatic Croatian dish featuring lamb, tamarind paste, and long fermentation dough, all wrapped in a banana leaf.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb shoulder, tamarind paste, cumin, and paprika.",
+    "Knead the long fermentation dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle and place a quarter of the lamb mixture in the center of each circle.",
+    "Fold the dough over the lamb mixture to form a triangle and press the edges together to seal.",
+    "Place each triangle on a banana leaf and brush with olive oil.",
+    "Bake the biryani for 30 minutes or until the dough is golden brown.",
+    "While the biryani is baking, heat the olive oil in a pan over medium heat and saute the onion and garlic until softened.",
+    "Serve the biryani hot with the sauteed onion and garlic on top."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "biryani-recipe",
+    "croatian-cuisine",
+    "lamb-based",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-fluffy-croatian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-croatian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:39:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Biryani"
+  }
+}

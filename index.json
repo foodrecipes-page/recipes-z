@@ -1077,6 +1077,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fluffy-croatian-lamb-biryani",
+    "title": "Zesty Fluffy Croatian Lamb Biryani",
+    "tags": [
+      "banana-leaf",
+      "biryani-recipe",
+      "croatian-cuisine",
+      "lamb-based",
+      "low-calorie"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fluffy-greek-tofu-gyro",
     "title": "Zesty Fluffy Greek Tofu Gyro",
     "tags": [
@@ -1512,6 +1526,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 65,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-jamaican-coconut-curry",
+    "title": "Zesty Jamaican Coconut Curry",
+    "tags": [
+      "energizing",
+      "floral",
+      "low-carb",
+      "one-pot",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
