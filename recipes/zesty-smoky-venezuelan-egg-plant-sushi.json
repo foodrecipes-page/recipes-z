@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Venezuelan Egg Plant Sushi",
+  "description": "A smoky and silky ovo-vegetarian friendly dish featuring egg plants and nigiri-shaping, perfect for a date night, influenced by Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg plants",
+      "amount": "2 medium",
+      "notes": "purple or black variety"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated queso fresco",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Nori sheets",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the egg plants into 1-inch thick slices and brush with olive oil.",
+    "Season the egg plant slices with smoked paprika, salt, and black pepper.",
+    "Roast the egg plant slices in the oven for 30 minutes or until tender.",
+    "Prepare the sushi rice according to the package instructions.",
+    "Mix the lime juice and chopped cilantro into the sushi rice.",
+    "Shape the sushi rice into nigiri shapes.",
+    "Top each nigiri with a roasted egg plant slice and a sprinkle of grated queso fresco.",
+    "Wrap each nigiri with a nori sheet.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egg-plant",
+    "ovo-vegetarian",
+    "silky",
+    "smoky",
+    "sushi",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-venezuelan-egg-plant-sushi",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-venezuelan-egg-plant-sushi",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:10:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "egg plants",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "egg plants",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Sushi"
+  }
+}
