@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Light Irish Bresaola Flatbread",
+  "description": "A light and flaky Irish flatbread featuring bresaola, perfect for a high-protein snack or light lunch, with a zesty and slightly bitter flavor profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably Irish or European style"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bresaola",
+      "amount": "6 slices"
+    },
+    {
+      "name": "fresh arugula",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "Add the cold butter to the bowl and use a pastry blender or fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Turn the dough out onto a floured surface and knead it a few times until it comes together.",
+    "Roll the dough out into a large rectangle, about 1/4 inch thick.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Top the dough with the bresaola slices, leaving a 1 inch border around the edges.",
+    "Sprinkle the arugula and parmesan cheese over the bresaola.",
+    "Drizzle the lemon juice and olive oil over the top.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until the crust is golden brown and the bresaola is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish-cuisine",
+    "light-lunch",
+    "low-carb",
+    "one-pan",
+    "quick-meal",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-light-irish-bresaola-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-irish-bresaola-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:25:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "bresaola",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bresaola",
+    "descriptor": "Zesty Light",
+    "dishForm": "Flatbread"
+  }
+}
