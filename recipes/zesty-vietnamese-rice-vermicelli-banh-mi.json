@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Vietnamese Rice Vermicelli Banh Mi",
+  "description": "A charred, creamy Vietnamese banh mi filled with seasoned tofu, spicy rice vermicelli, and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1 (38 cm)"
+    },
+    {
+      "name": "extra-firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "1 cup (dry)"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime",
+      "amount": "1 (cut into wedges)"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "30 g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and slice baguette lengthwise, leaving the ends connected.",
+    "Sprinkle toasted sesame seeds on the cut side of the baguette and roast on a baking sheet for 5 minutes until lightly charred.",
+    "Press tofu between paper towels, cut into 2 cm cubes, and season with soy sauce, maple syrup, and sesame oil.",
+    "Cook the seasoned tofu in a hot skillet over medium-high until all sides are golden and slightly crispy, about 8 minutes.",
+    "Boil rice vermicelli in salted water for 3 minutes, then drain and rinse under cold water.",
+    "Toss vermicelli with sriracha and a pinch of salt to coat evenly.",
+    "Combine the cooked vermicelli with shredded carrots, sliced cucumber, and chopped cilantro in a bowl.",
+    "Slice the roasted baguette into 2 cm thick slices and spread a thin layer of lime juice on each slice.",
+    "Spoon the vermicelli mixture onto the baguette slices, drizzle with a little extra sesame oil, and sprinkle with optional toasted sesame seeds.",
+    "Fold the baguette halves together, slice into individual servings, and garnish with lime wedges before serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banh-mi",
+    "charred",
+    "easy",
+    "monsoon",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 25,
+    "carbs": 158,
+    "fat": 21
+  },
+  "slug": "zesty-vietnamese-rice-vermicelli-banh-mi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-rice-vermicelli-banh-mi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:21:59Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Zesty",
+    "dishForm": "Banh Mi"
+  }
+}

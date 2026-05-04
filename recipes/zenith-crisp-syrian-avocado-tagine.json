@@ -1,0 +1,101 @@
+{
+  "title": "Zenith Crisp Syrian Avocado Tagine",
+  "description": "A bitter, crisp, and comforting Syrian dish featuring avocado hass pulp, deglaze, and ayurvedic-tamasic-friendly ingredients, perfect for a cold winter evening.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "2 cups",
+      "notes": "ripe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the sumac, pomegranate molasses, salt, and black pepper.",
+    "Add the chickpeas and cook for 5 minutes, stirring occasionally.",
+    "Add the avocado hass pulp and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Remove the tagine from the heat and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Deglaze the tagine with a little water if the sauce is too thick."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zenith-crisp-syrian-avocado-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-crisp-syrian-avocado-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:22:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "avocado",
+    "descriptor": "Zenith Crisp",
+    "dishForm": "Tagine"
+  }
+}

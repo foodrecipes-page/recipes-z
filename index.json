@@ -27,6 +27,21 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-crisp-syrian-avocado-tagine",
+    "title": "Zenith Crisp Syrian Avocado Tagine",
+    "tags": [
+      "avocado",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "syrian",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zenith-earthy-korean-beans-stew",
     "title": "Zenith Earthy Korean Beans Stew",
     "tags": [
@@ -3184,6 +3199,21 @@
       "rice-noodles",
       "meal-prep",
       "zesty"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-rice-vermicelli-banh-mi",
+    "title": "Zesty Vietnamese Rice Vermicelli Banh Mi",
+    "tags": [
+      "banh-mi",
+      "charred",
+      "easy",
+      "monsoon",
+      "quick",
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
