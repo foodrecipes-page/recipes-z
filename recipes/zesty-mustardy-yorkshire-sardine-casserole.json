@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Mustardy Yorkshire Sardine Casserole",
+  "description": "A bright, mustard‑infused Yorkshire casserole that pairs sardines with a springy, monsoon‑season flavor profile, all cooked in a fondue pot.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian",
+    "ayurvedic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines in brine",
+      "amount": "4 fillets",
+      "notes": "drained"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "infused oil (cumin & coriander)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot over medium heat and add the infused oil.",
+    "Sauté the lemon zest and smoked paprika for 1 minute until fragrant.",
+    "Add the sardines and stir gently to coat with the oil and spices.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
+    "Stir in the Dijon and whole grain mustards, letting the sauce thicken for 3 minutes.",
+    "Reduce the heat and sprinkle the grated cheddar cheese over the top, covering the pot.",
+    "Cover and let the cheese melt for 2 minutes, then stir to distribute heat evenly.",
+    "Garnish with chopped parsley, season with salt and pepper, and serve hot directly from the fondue pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "monsoon-season",
+    "one-pot",
+    "sardine",
+    "spicy",
+    "yorkshire"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-mustardy-yorkshire-sardine-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mustardy-yorkshire-sardine-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:26:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sardines",
+    "diet": "ayurvedic-rajasic",
+    "region": "yorkshire",
+    "cuisineAdjective": "Yorkshire",
+    "mainIngredient": "Sardine",
+    "descriptor": "Zesty Mustardy",
+    "dishForm": "Casserole"
+  }
+}
