@@ -1,0 +1,116 @@
+{
+  "title": "Zesty American Blackberry Parfait",
+  "description": "A bright, tangy parfait that layers fresh blackberries, chilled yogurt, and a molten dark chocolate drizzle, perfect for a quick hangover cure.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh blackberries",
+      "amount": "2 cups",
+      "notes": "Rinse and drain."
+    },
+    {
+      "name": "Plain low-fat Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Room temperature."
+    },
+    {
+      "name": "Stevia extract",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Use light honey."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 teaspoon",
+      "notes": "Finely grated."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed almonds",
+      "amount": "1/4 cup",
+      "notes": "Toast lightly."
+    },
+    {
+      "name": "Dark chocolate chips (70% cacao)",
+      "amount": "2 tablespoons",
+      "notes": "For molten drizzle."
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Ice cubes",
+      "amount": "1 cup",
+      "notes": "For ice bath."
+    }
+  ],
+  "instructions": [
+    "Place the Greek yogurt in a bowl, add stevia, honey, lemon juice, orange zest, vanilla extract, and a pinch of sea salt, then whisk until smooth.",
+    "Fold in the fresh blackberries gently to keep them intact.",
+    "Pour the mixture into two serving glasses and chill in an ice bath of water with ice cubes for 5 minutes.",
+    "Meanwhile, melt the dark chocolate chips over a double boiler or in a microwave, heating 20-second intervals until smooth, keeping the temperature below 80°C.",
+    "Remove the parfaits from the ice bath and pat dry the glasses.",
+    "Drizzle the molten chocolate over the top of each parfait, allowing it to set slightly.",
+    "Garnish with crushed, lightly toasted almonds on top of the chocolate drizzle.",
+    "Serve immediately, ensuring the parfait remains chilled.",
+    "Enjoy the bright, tangy flavor that helps soothe a hangover and satisfies a sweet craving without excess sugar."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "citrus",
+    "diabetic-friendly",
+    "hangover-cure",
+    "low-sugar",
+    "parfait",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "zesty-american-blackberry-parfait",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-blackberry-parfait",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:26:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "blackberries",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "blackberry",
+    "descriptor": "Zesty",
+    "dishForm": "Parfait"
+  }
+}

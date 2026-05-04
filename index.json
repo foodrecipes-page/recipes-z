@@ -201,6 +201,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-blackberry-parfait",
+    "title": "Zesty American Blackberry Parfait",
+    "tags": [
+      "american",
+      "citrus",
+      "diabetic-friendly",
+      "hangover-cure",
+      "low-sugar",
+      "parfait",
+      "quick"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-chicken-sandwich",
     "title": "Zesty American Chicken Sandwich",
     "tags": [
