@@ -2259,6 +2259,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-rich-norwegian-macaroni-pasta",
+    "title": "Zesty Rich Norwegian Macaroni Pasta",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "norwegian-cuisine",
+      "one-pot",
+      "vegetarian-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-argentinian-galangal-skewers",
     "title": "Zesty Roasted Argentinian Galangal Skewers",
     "tags": [
