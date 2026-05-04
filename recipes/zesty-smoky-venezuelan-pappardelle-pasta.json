@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Smoky Venezuelan Pappardelle Pasta",
+  "description": "A spicy, smoky, crispy pasta perfect for a brunch‑mood meal, packed with high‑protein turkey and feta for a satisfying bite.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chipotle powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1 medium, zest and juice"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium‑high heat.",
+    "Add the ground turkey, season with salt and pepper, and cook until browned and cooked through, reaching an internal temperature of 165°F (74°C).",
+    "Push the turkey to one side, add the sliced bell pepper and onion, and sauté until softened, about 3–4 minutes.",
+    "Stir in the minced garlic, smoked paprika, and chipotle powder, cooking for 30 seconds until fragrant.",
+    "Meanwhile, bring a pot of salted water to a boil and cook the pappardelle for 2 minutes less than the package instructions to keep it al dente.",
+    "Drain the pasta and reserve 1/4 cup of pasta water, then add it to the skillet with the turkey and vegetables.",
+    "Toss in the crumbled feta, lime zest, lime juice, and chopped cilantro, stirring until the cheese melts slightly.",
+    "Transfer the pasta mixture to a serving bowl, top with roasted chickpeas for a crispy finish, and garnish with extra cilantro if desired.",
+    "Serve immediately for a zesty, smoky, brunch‑mood high‑protein dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "quick",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 1690,
+    "protein": 104,
+    "carbs": 188,
+    "fat": 71
+  },
+  "slug": "zesty-smoky-venezuelan-pappardelle-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-venezuelan-pappardelle-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:19:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Pasta"
+  }
+}
