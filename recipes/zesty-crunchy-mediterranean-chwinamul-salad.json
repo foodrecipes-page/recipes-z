@@ -1,0 +1,63 @@
+{
+  "title": "Zesty Crunchy Mediterranean Chwinamul Salad",
+  "description": "A resinous, crunchy lazy-sunday Mediterranean dish featuring chwinamul, finished in a bamboo steamer papillote for a light yet flavorful salad.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "200 g",
+      "notes": "washed and chopped"
+    }
+  ],
+  "instructions": [
+    "Wash and chop 200g of chwinamul and place in a parchment cup.",
+    "Add sliced cucumber, halved cherry tomatoes, pitted olives, crumbled feta, and thinly sliced onion on top.",
+    "Drizzle with 30ml lemon juice, 20ml olive oil, and sprinkle salt, pepper, oregano, and pine nuts.",
+    "Cover the cup with parchment and place it in a bamboo steamer set over boiling water.",
+    "Steam for 8 minutes until the herbs soften slightly and the flavors meld.",
+    "Remove from steamer, let cool a minute, then fluff gently with a fork before serving. ",
+    "Serve warm or at room temperature on a rustic plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-steamer",
+    "crunchy",
+    "dairy",
+    "lazy-sunday",
+    "mediterranean",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "zesty-crunchy-mediterranean-chwinamul-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-mediterranean-chwinamul-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:08:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "chwinamul",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Salad"
+  }
+}
