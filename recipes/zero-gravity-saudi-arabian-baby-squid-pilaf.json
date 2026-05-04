@@ -1,0 +1,101 @@
+{
+  "title": "Zero Gravity Saudi Arabian Baby Squid Pilaf",
+  "description": "A malty, creamy, weeknight Saudi Arabian dish featuring baby squid, spherified for a unique texture, and dairy-free friendly",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the baby squid under cold water and pat dry with paper towels.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the saffron threads and cook for 1 minute, stirring constantly.",
+    "Add the malt syrup and cook for an additional 2 minutes, stirring constantly.",
+    "Add the coconut milk and bring to a simmer.",
+    "Add the basmati rice and cook, stirring constantly, until the liquid is absorbed.",
+    "In a separate bowl, mix the sodium alginate and water to create a spherification bath.",
+    "Using a syringe, drop the baby squid pieces into the spherification bath and let sit for 30 seconds.",
+    "Remove the spherified baby squid from the bath and add to the rice mixture.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zero-gravity-saudi-arabian-baby-squid-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-saudi-arabian-baby-squid-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:05:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "baby squid",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "baby squid",
+    "descriptor": "Zero Gravity",
+    "dishForm": "Pilaf"
+  }
+}
