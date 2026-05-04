@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Crispy Ethiopian Beef Kik Alitcha",
+  "description": "A peppery, crispy, meal-prep Ethiopian dish featuring red wine jelly and caramelized onions.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips (1 pound)",
+      "amount": "1",
+      "notes": "preferably lean cuts like round or sirloin"
+    },
+    {
+      "name": "all-purpose flour (1 cup)",
+      "amount": "1",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs (2)",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "buttermilk (1 cup)",
+      "amount": "1",
+      "notes": "for marinating"
+    },
+    {
+      "name": "red wine jelly (1/4 cup)",
+      "amount": "1/4",
+      "notes": "reduces and enhances flavors"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1",
+      "notes": "caramelized"
+    },
+    {
+      "name": "ghee or vegetable oil (2 tablespoons)",
+      "amount": "2",
+      "notes": "for frying"
+    },
+    {
+      "name": "pepper (2 teaspoons)",
+      "amount": "2",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic (2 cloves)",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin (1 teaspoon)",
+      "amount": "1",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander (1/2 teaspoon)",
+      "amount": "1/2",
+      "notes": "ground"
+    },
+    {
+      "name": "salt (1/4 teaspoon)",
+      "amount": "1/4",
+      "notes": "use low-sodium salt"
+    }
+  ],
+  "instructions": [
+    "Dust the beef strips with all-purpose flour, shaking off excess.",
+    "In a shallow dish, beat the eggs and mix with buttermilk. Add marinated beef to the egg mixture and coat evenly.",
+    "Heat ghee or vegetable oil in a large skillet over medium-high heat. Fry the marinated beef until crispy, about 3-4 minutes per side.",
+    "Transfer the fried beef to a plate and set aside.",
+    "In the same skillet, sauté the caramelized onion until slightly browned, about 2-3 minutes.",
+    "Add ground cumin, ground coriander, and freshly ground pepper to the skillet and stir for 1 minute.",
+    "Return the fried beef to the skillet and toss with the spice mixture, red wine jelly, and salt.",
+    "Reduce heat to low and simmer for 5 minutes, allowing flavors to meld.",
+    "Serve hot and garnish with chopped fresh herbs, if desired.",
+    "Store leftover Kik Alitcha in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "low-sodium",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-crispy-ethiopian-beef-kik-alitcha",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-ethiopian-beef-kik-alitcha",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:55:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "red wine jelly",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Kik Alitcha"
+  }
+}
