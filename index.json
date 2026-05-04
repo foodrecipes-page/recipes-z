@@ -2168,6 +2168,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-normandy-turnip-gratin",
+    "title": "Zesty Normandy Turnip Gratin",
+    "tags": [
+      "comfort-food",
+      "gratin",
+      "normandy",
+      "nut-free",
+      "slow-cook",
+      "vegetable",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-northern-thai-peanut-curry",
     "title": "Zesty Northern Thai Peanut Curry",
     "tags": [
@@ -2657,6 +2673,22 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-slovakian-pork-roast",
+    "title": "Zesty Slovakian Pork Roast",
+    "tags": [
+      "broil",
+      "family-friendly",
+      "mediterranean-friendly",
+      "pork",
+      "roast",
+      "slovakian",
+      "zesty"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 115,
     "shard": "z"
   },
   {

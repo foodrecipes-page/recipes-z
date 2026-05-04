@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Normandy Turnip Gratin",
+  "description": "A creamy, caramelized turnip gratin seasoned with cinnamon and thyme, finished with a golden Gruyère crust. Nut‑free and perfect for meal prep.",
+  "cuisine": "French",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "1 kg",
+      "notes": "sliced 3 mm thick"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "250 ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "150 g",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F).",
+    "In a skillet, heat the butter and olive oil over medium heat.",
+    "Add the minced garlic and sauté until fragrant, about 1 minute.",
+    "Stir in the ground cinnamon and cook for 30 seconds to release its aroma.",
+    "Pour in the white wine and vegetable stock, then bring to a gentle simmer.",
+    "Add the sliced turnip, thyme, salt, and pepper; cover and let the mixture simmer until the turnip is just tender, about 10 minutes.",
+    "Transfer the turnip mixture to a baking dish, spreading evenly.",
+    "Sprinkle the grated Gruyère cheese over the top to form a crust.",
+    "Bake uncovered for 20 minutes, or until the cheese is golden brown and bubbling.",
+    "Remove the gratin from the oven and let it rest for 5 minutes before serving.",
+    "Serve hot, optionally garnished with a few extra thyme leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "normandy",
+    "nut-free",
+    "slow-cook",
+    "vegetable",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 27
+  },
+  "slug": "zesty-normandy-turnip-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-normandy-turnip-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:39:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "nut-free",
+    "region": "normandy",
+    "cuisineAdjective": "Normandy",
+    "mainIngredient": "turnip",
+    "descriptor": "Zesty",
+    "dishForm": "Gratin"
+  }
+}
