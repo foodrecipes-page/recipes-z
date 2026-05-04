@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Saudi-Arabian Sausage Skewers",
+  "description": "A flavorful and spicy dish from Saudi Arabia featuring tangy white vinegar, sweet confit tomatoes, and snappy sausages.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi-style lamb sausages",
+      "amount": "12",
+      "notes": "High-quality, preservative-free sausages are recommended."
+    },
+    {
+      "name": "Confit tomatoes",
+      "amount": "1 cup",
+      "notes": "Homemade confit or store-bought is fine."
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons",
+      "notes": " Adjust to taste."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet, whichever you prefer."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the skewers."
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Thread the lamb sausages, confit tomatoes, and onions onto skewers.",
+    "In a small bowl, mix together garlic, ginger, cumin, paprika, and black pepper.",
+    "Brush the skewers with olive oil and sprinkle with the spice mixture.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausages are nicely charred.",
+    "Remove the skewers from the grill and brush with white vinegar.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "high-protein",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "zesty-saudi-arabian-sausage-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-arabian-sausage-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "white vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "sausage",
+    "descriptor": "zesty",
+    "dishForm": "skewers"
+  }
+}
