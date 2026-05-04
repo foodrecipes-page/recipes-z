@@ -1,0 +1,105 @@
+{
+  "title": "Zesty French Mentaiko Galette",
+  "description": "A fresh, juicy galette from Normandy that blends spicy mentaiko with whole wheat dough for a sweet yet savory finish, perfect for a diabetic-friendly dinner.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "70g"
+    },
+    {
+      "name": "cold water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mentaiko",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallot, minced",
+      "amount": "1 small"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated gorgonzola",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together whole wheat flour, salt, and baking powder.",
+    "Add cold butter pieces and rub into the flour until the mixture resembles coarse crumbs.",
+    "Pour in cold water slowly, stirring with a fork until a shaggy dough forms.",
+    "Turn the dough onto a lightly floured surface and knead gently for one minute, then wrap it in plastic wrap and chill for 30 minutes.",
+    "Preheat the oven to 200C and lightly oil a baking sheet.",
+    "Roll out the chilled dough into a 30cm circle and place it on the prepared sheet.",
+    "Brush the dough with olive oil and sprinkle the mentaiko, minced shallot, lemon zest, dill, and grated gorgonzola evenly over the surface.",
+    "Fold the edges of the dough slightly over the filling and bake for 20 minutes until golden brown.",
+    "Remove from oven and let cool for five minutes before slicing into wedges.",
+    "Serve warm with a side of mixed green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "diabetic-friendly",
+    "normandy",
+    "quick",
+    "seafood",
+    "whole-wheat"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 42,
+    "carbs": 145,
+    "fat": 89
+  },
+  "slug": "zesty-french-mentaiko-galette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-mentaiko-galette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:30:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "mentaiko",
+    "diet": "diabetic-friendly",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Mentaiko",
+    "descriptor": "Zesty",
+    "dishForm": "Galette"
+  }
+}

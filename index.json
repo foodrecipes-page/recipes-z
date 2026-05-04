@@ -440,6 +440,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fluffy-korean-yogurt-tteok",
+    "title": "Zesty Fluffy Korean Yogurt Tteok",
+    "tags": [
+      "breakfast-ideas",
+      "fermented-food",
+      "gluten-free",
+      "hangover-cure",
+      "korean-food",
+      "tteok-recipe"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fluffy-moroccan-couscous-couscous-royal",
     "title": "Zesty Fluffy Moroccan Couscous Royal",
     "tags": [
@@ -481,6 +496,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-french-mentaiko-galette",
+    "title": "Zesty French Mentaiko Galette",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "diabetic-friendly",
+      "normandy",
+      "quick",
+      "seafood",
+      "whole-wheat"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

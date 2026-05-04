@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Fluffy Korean Yogurt Tteok",
+  "description": "A fermented and fluffy Korean dish made with yogurt and braise, often served as a hangover cure, this gluten-free friendly tteok is a unique and delicious treat. It is typically served at breakfast or as a snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean rice flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "braise sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Korean rice flour, yogurt, water, salt, sugar, and active dry yeast, and mix until a smooth batter forms.",
+    "Knead the batter for 10 minutes until it becomes elastic and shiny.",
+    "Place the batter in a warm place and let it ferment for 2 hours, or until it has doubled in size.",
+    "Preheat a steamer basket over boiling water, and line it with parchment paper.",
+    "Punch down the fermented batter and shape it into small cylindrical shapes.",
+    "Place the shaped tteok in the steamer basket, leaving some space between each piece.",
+    "Steam the tteok for 15 minutes, or until it is cooked through and fluffy.",
+    "While the tteok is steaming, heat the braise sauce and sesame oil in a small saucepan over medium heat.",
+    "Add the minced garlic and chopped green onion to the saucepan and cook for 1 minute, stirring constantly.",
+    "Once the tteok is cooked, remove it from the steamer and brush it with the braise sauce mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "fermented-food",
+    "gluten-free",
+    "hangover-cure",
+    "korean-food",
+    "tteok-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-fluffy-korean-yogurt-tteok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-korean-yogurt-tteok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:30:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "yogurt",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yogurt",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Tteok"
+  }
+}
