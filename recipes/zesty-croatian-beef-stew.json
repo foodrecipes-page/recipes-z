@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Croatian Beef Stew",
+  "description": "A bitter, velvety Croatian stew with ground beef, dashi extract, and anti-inflammatory spices that evokes nostalgic flavors.",
+  "cuisine": "Croatian",
+  "diet": [
+    "anti-inflammatory",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500 g",
+      "notes": "lean 15% fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium‑high heat until shimmering.",
+    "Add diced onion and minced garlic, sauté until onion turns translucent, about 3 minutes.",
+    "Stir in sliced carrot and celery, cook for 5 minutes until vegetables soften.",
+    "Add ground beef, break up with a spoon, brown until fully cooked, about 8 minutes.",
+    "Stir in tomato paste, dashi extract, smoked paprika, sea salt, and black pepper; cook for 2 minutes to bloom flavors.",
+    "Pour in 2 cups of water, add bay leaf, bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let stew simmer for 45 minutes, stirring occasionally.",
+    "Remove bay leaf, taste and adjust seasoning if needed.",
+    "Ladle stew into bowls, garnish with chopped fresh parsley.",
+    "Serve hot with crusty gluten‑free bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "beef",
+    "dinner",
+    "home-cooking",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "zesty-croatian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:49:48Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ground beef",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

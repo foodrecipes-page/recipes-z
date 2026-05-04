@@ -1197,6 +1197,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-beef-stew",
+    "title": "Zesty Croatian Beef Stew",
+    "tags": [
+      "anti-inflammatory",
+      "beef",
+      "dinner",
+      "home-cooking",
+      "stew"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-rocket-soup",
     "title": "Zesty Croatian Rocket Soup",
     "tags": [
