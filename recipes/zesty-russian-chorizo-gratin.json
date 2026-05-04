@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Russian Chorizo Gratin",
+  "description": "A tangy, molten gratin featuring smoked salmon layered with spiced potatoes, perfect for a solo dinner in a wood-fired oven.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "200g"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "50g, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 200°C and light a small wood fire to maintain steady heat.",
+    "In a large skillet, heat olive oil over medium heat, add onion and garlic, and sauté until translucent.",
+    "Stir in smoked paprika and turmeric, cooking for 30 seconds until fragrant.",
+    "Add potato slices to the skillet, season with salt and pepper, and cook for 5 minutes, stirring occasionally.",
+    "Transfer the potato mixture to a baking dish, layer with smoked salmon slices, and sprinkle chopped dill on top.",
+    "Sprinkle shredded Gruyère evenly over the layers and add a pinch of crushed red pepper flakes.",
+    "Place the baking dish on a preheated grill grate over the wood fire, cover with a lid or foil, and bake for 20 minutes.",
+    "Remove the lid and bake an additional 10 minutes until the cheese is golden and bubbly.",
+    "Let the gratin rest for 5 minutes before serving hot, optionally garnishing with a drizzle of olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "one-pan",
+    "pescatarian",
+    "russian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 976,
+    "protein": 61,
+    "carbs": 84,
+    "fat": 50
+  },
+  "slug": "zesty-russian-chorizo-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-russian-chorizo-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:00:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "chorizo",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Zesty",
+    "dishForm": "Gratin"
+  }
+}
