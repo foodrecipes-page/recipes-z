@@ -2355,6 +2355,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-indulgent-jamaican-cheese-tagine",
+    "title": "Zesty Indulgent Jamaican Cheese Tagine",
+    "tags": [
+      "cheese-pull",
+      "dairy-rich",
+      "indulgent",
+      "jain-friendly",
+      "jamaican",
+      "tagine",
+      "winey"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 90,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-indulgent-jamaican-tofu-wrap",
     "title": "Zesty Indulgent Jamaican Tofu Wrap",
     "tags": [

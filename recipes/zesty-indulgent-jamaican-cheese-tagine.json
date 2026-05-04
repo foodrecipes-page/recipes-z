@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Indulgent Jamaican Cheese Tagine",
+  "description": "A winey, cheese-pull Jamaican tagine that layers a long-fermentation dough with a spicy tomato-wine sauce and melty cheddar, creating a creamy, indulgent dish perfect for a cozy dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 tsp",
+      "notes": "blend of allspice, thyme, cinnamon, cloves, cayenne pepper"
+    },
+    {
+      "name": "shredded sharp cheddar cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "fresh chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine 250g all-purpose flour, 150ml warm water, 1 tsp salt, and 1 tsp fresh yeast to form a sticky dough; cover with a towel and refrigerate for 12 hours for long fermentation.",
+    "While the dough ferments, whisk 200g tomato puree with 30ml dry white wine and 1 tsp spice blend to create a fragrant sauce.",
+    "Preheat your tagine or heavy-bottomed pot over medium heat and lightly oil the inner surfaces with a teaspoon of coconut oil.",
+    "Roll the fermented dough into a thin circle and place it in the pot, pressing it up the sides to form a crisp base; cover and cook for 4 minutes until lightly browned.",
+    "Spread the seasoned tomato-wine sauce over the dough, ensuring it covers the entire surface.",
+    "Sprinkle 200g shredded sharp cheddar cheese evenly over the sauce, then drizzle with 50ml coconut milk and add a handful of fresh chopped cilantro.",
+    "Reduce heat to low, cover the tagine, and simmer for 25 minutes until the cheese is melted, pulled, and the dough is cooked through.",
+    "Remove the pot from heat, let it rest for 5 minutes, then slice the tagine into wedges, garnish with additional cilantro, and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "dairy-rich",
+    "indulgent",
+    "jain-friendly",
+    "jamaican",
+    "tagine",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "zesty-indulgent-jamaican-cheese-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-jamaican-cheese-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:17:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "tomato puree",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Tagine"
+  }
+}
