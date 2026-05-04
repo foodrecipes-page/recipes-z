@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Syrian Lamb Carpaccio",
+  "description": "A vibrant raw lamb dish seasoned with spices, apricot jam, and fresh herbs, perfect for a post-workout meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean lamb loin",
+      "amount": "300 g",
+      "notes": "trimmed and chilled"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp",
+      "notes": "warmed until smooth"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "za'atar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a small pot of water to a simmer and dissolve 1/4 cup of sea salt to create a quick brine.",
+    "Submerge the lamb fillet in the brine for 10 minutes, then pat dry with paper towels.",
+    "Arrange the chilled lamb slices on a chilled plate, forming an overlapping fan shape.",
+    "Drizzle the warmed apricot jam over the lamb, allowing it to pool in the center.",
+    "Sprinkle sumac, za'atar, cumin, coriander, sea salt, and black pepper evenly over the lamb.",
+    "Add lemon juice and olive oil, then gently shuffle the slices to coat.",
+    "Garnish with chopped mint and parsley, and give a final sprinkle of sea salt.",
+    "Serve immediately with a side of flatbread or a small salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "no-cook",
+    "post-workout",
+    "raw"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 34
+  },
+  "slug": "zesty-syrian-lamb-carpaccio",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-lamb-carpaccio",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:42:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "brine-dry",
+    "primaryIngredient": "apricot jam",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Zesty",
+    "dishForm": "Carpaccio"
+  }
+}

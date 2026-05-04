@@ -1867,6 +1867,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-lamb-carpaccio",
+    "title": "Zesty Syrian Lamb Carpaccio",
+    "tags": [
+      "high-protein",
+      "middle-eastern",
+      "no-cook",
+      "post-workout",
+      "raw"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-syrian-lentil-soup",
     "title": "Zesty Syrian Lentil Soup",
     "tags": [
@@ -2196,6 +2210,22 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
+    "slug": "zingy-peppery-algerian-chicken-tagine",
+    "title": "Zingy Peppery Algerian Chicken Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "chicken",
+      "high-protein",
+      "north-african",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
