@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Roasted Slovakian Red Bean Dumplings",
+  "description": "A roasted, glassy-jelly, indulgent Slovakian dish featuring anko-red-bean-paste, wok-hei, and paleo-friendly ingredients, served in a bento box.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1 cup",
+      "notes": "anko style"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the red bean paste, coconut flour, eggs, coconut oil, salt, and vanilla extract.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Drizzle the sesame oil over the dumplings and roast in the oven for 20 minutes.",
+    "Remove the dumplings from the oven and let them cool for 5 minutes.",
+    "Serve the dumplings in a bento box and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "dessert",
+    "indulgent",
+    "paleo-friendly",
+    "roasted",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-roasted-slovakian-red-bean-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-slovakian-red-bean-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:06:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "red bean",
+    "descriptor": "Zesty roasted",
+    "dishForm": "Dumplings"
+  }
+}
