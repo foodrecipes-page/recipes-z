@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crisp Saudi Arabian Lentil Wrap",
+  "description": "A funky and quick-fix Saudi Arabian dish featuring salt and al-dente lentils, wrapped in a crisp corn husk wrap, perfect for a flexitarian diet. This dish is a great option for a snack or lunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain and rinse the lentils, then transfer them to a pot with 2 cups of water and 1 teaspoon of salt.",
+    "Bring the water to a boil, then reduce the heat and simmer for 20 minutes, or until the lentils are al-dente.",
+    "Heat the olive oil in a pan over medium heat and saute the chopped onion and minced garlic until softened.",
+    "Add the cumin and paprika to the pan and cook for 1 minute, stirring constantly.",
+    "Stir the cooked lentils into the pan and cook for an additional 2 minutes.",
+    "Warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Spoon the lentil mixture onto the center of each corn husk wrap and fold the wrap to enclose.",
+    "Serve the wraps immediately and enjoy.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-husk-wrap",
+    "easy-lunch",
+    "flexitarian",
+    "lentil-based",
+    "quick-fix",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-crisp-saudi-arabian-lentil-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-saudi-arabian-lentil-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:22:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "salt",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Smoky Chinese Cobnuts Hot Pot",
+  "description": "A smoky and chewy Chinese hot pot dish featuring cobnuts, perfect for a family dinner. This keto-friendly recipe is easy to make and fun to eat.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pot over medium-high heat.",
+    "Add the sliced pork belly and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the smoked paprika, soy sauce, and chicken broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the chopped cobnuts and cook for an additional 5 minutes, or until they are caramelized and tender.",
+    "Stir in the chopped green onions and sesame oil.",
+    "Serve the hot pot hot, with additional soy sauce and sesame oil on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "family-friendly",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-smoky-chinese-cobnuts-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-chinese-cobnuts-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:23:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "cobnuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Hot Pot"
+  }
+}

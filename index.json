@@ -873,6 +873,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-saudi-arabian-lentil-wrap",
+    "title": "Zesty Crisp Saudi Arabian Lentil Wrap",
+    "tags": [
+      "corn-husk-wrap",
+      "easy-lunch",
+      "flexitarian",
+      "lentil-based",
+      "quick-fix",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-uruguayan-beef-skewers",
     "title": "Zesty Crisp Uruguayan Beef Skewers",
     "tags": [
@@ -3214,6 +3229,21 @@
       "velvety"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-chinese-cobnuts-hot-pot",
+    "title": "Zesty Smoky Chinese Cobnuts Hot Pot",
+    "tags": [
+      "chewy",
+      "family-friendly",
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "z"
   },
