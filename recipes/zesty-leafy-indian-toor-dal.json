@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Leafy Indian Toor Dal",
+  "description": "A zesty, leaf-wrapped toor dal that bursts with fragrant spices, cooked in a lazy susan spinner for a fuss‑free, FODMAP-friendly meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable or mustard"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "dried red chili",
+      "amount": "1",
+      "notes": "crushed"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "collard greens",
+      "amount": "2 cups",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse toor dal until the water runs clear.",
+    "Heat oil in the lazy susan spinner, add cumin and mustard seeds, and let them pop.",
+    "Add turmeric, coriander, garam masala, dried chili, and ginger; sauté for 30 seconds.",
+    "Add rinsed dal and water, stir, cover, and set the spinner to high for 45 minutes.",
+    "When halfway through, fold in collard greens and stir well.",
+    "Let the dish rest 5 minutes after cooking before opening the lid.",
+    "Season with salt, give a final stir, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "leaf-wrap",
+    "slow-cooker",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "zesty-leafy-indian-toor-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-leafy-indian-toor-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:39:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "toor dal",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Toor",
+    "descriptor": "Zesty Leafy",
+    "dishForm": "Dal"
+  }
+}

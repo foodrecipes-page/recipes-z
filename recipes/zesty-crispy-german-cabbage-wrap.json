@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Crispy German Cabbage Wrap",
+  "description": "These zesty, crispy cabbage wraps combine sautéed vegetables with a kombu-infused glaze, delivering a flavorful, dairy-free bite. Perfect for a quick lunch or snack, they bring a German twist to your table.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "8 large",
+      "notes": "stems trimmed"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Trim stems from the cabbage leaves and wash them thoroughly.",
+    "Heat olive oil in a large skillet over medium heat and add diced onion, mushrooms, bell pepper, and garlic; sauté until softened.",
+    "Stir in kombu cold extract and cook for an additional minute to meld flavors.",
+    "Season the vegetable mixture with salt, pepper, nutritional yeast, and lemon juice, then stir well.",
+    "Place a spoonful of the sautéed mixture onto each cabbage leaf, fold the sides over, and roll tightly.",
+    "Arrange the wraps seam-side down in the skillet and cook over medium heat, turning occasionally, until the leaves are crisp and golden, about 5 minutes per side.",
+    "Plate the wraps and serve immediately, optionally garnishing with extra lemon wedges or fresh herbs.",
+    "Enjoy the zesty, crispy German cabbage wraps as a quick lunch or crowd-pleasing snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "german-inspired",
+    "low-glycemic",
+    "quick",
+    "snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "zesty-crispy-german-cabbage-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-german-cabbage-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:39:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Wrap"
+  }
+}

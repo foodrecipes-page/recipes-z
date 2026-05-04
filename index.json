@@ -364,6 +364,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-german-cabbage-wrap",
+    "title": "Zesty Crispy German Cabbage Wrap",
+    "tags": [
+      "cabbage",
+      "german-inspired",
+      "low-glycemic",
+      "quick",
+      "snack",
+      "vegan-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-mexican-tomato-tacos",
     "title": "Zesty Crispy Mexican Tomato Tacos",
     "tags": [
@@ -1012,6 +1027,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-leafy-indian-toor-dal",
+    "title": "Zesty Leafy Indian Toor Dal",
+    "tags": [
+      "fodmap-friendly",
+      "leaf-wrap",
+      "slow-cooker",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-light-irish-bresaola-flatbread",
     "title": "Zesty Light Irish Bresaola Flatbread",
     "tags": [
@@ -1088,6 +1117,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-morning-tunisian-eggs-frittata",
+    "title": "Zesty Morning Tunisian Eggs Frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "eggs",
+      "frittata",
+      "morning",
+      "north-african"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
