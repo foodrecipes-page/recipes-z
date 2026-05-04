@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Tender Spanish Cacao Tapas Platter",
+  "description": "A quick, aromatic tapas platter featuring sweet cacao, crispy tofu lardons, and fresh lime zest in a mason jar.",
+  "cuisine": "Spanish",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "cacao powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tofu lardons",
+      "amount": "50g",
+      "notes": "thin strips fried until crisp"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Press and cube 200g of firm tofu and set aside for marination.",
+    "In a bowl whisk 2 tbsp cacao powder, 1 tbsp maple syrup, 1 tsp smoked paprika, 1 tsp cumin, and 1 tsp sea salt with 1 tbsp olive oil to create a glaze.",
+    "Coat tofu cubes in glaze and let sit for 5 minutes.",
+    "Heat 1 tbsp olive oil in a pan, add tofu lardons and fry until golden and crisp, then drain on paper towels.",
+    "Spread tofu cubes, tofu lardons, chopped almonds, and apricots into a mason jar, layering alternately.",
+    "Press the jar gently to compress ingredients, then add a few mint leaves and a lime wedge for brightness.",
+    "Refrigerate the jar for 10 minutes to allow flavors to meld.",
+    "Serve chilled with a squeeze of lime and an extra sprinkle of cacao powder.",
+    "Enjoy a zesty, tender Spanish tapas experience in a convenient mason jar."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish",
+    "snack"
+  ],
+  "slug": "zesty-tender-spanish-cacao-tapas-platter",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-spanish-cacao-tapas-platter",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:03:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "cacao",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Cacao",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Tapas Platter"
+  }
+}
