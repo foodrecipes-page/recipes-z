@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Juicy Turkish Lamb Kebabs",
+  "description": "A salty and juicy Turkish dish featuring lamb, sea salt, and a mirepoix base, perfect for kids and Buddhist temple friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together sea salt, black pepper, and olive oil.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 10 minutes, turning occasionally, until the lamb is cooked through.",
+    "While the kebabs are cooking, heat the lemon juice in a small saucepan over low heat.",
+    "Add the chopped onion, carrot, and celery to the saucepan and cook until the vegetables are tender.",
+    "Serve the kebabs with the mirepoix sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled-meats",
+    "kid-friendly",
+    "lamb-recipes",
+    "turkish-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-juicy-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:56:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sea salt",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Juicy",
+    "dishForm": "Kebabs"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Fluffy Greek Tofu Gyro",
+  "description": "A quick and easy Whole30-friendly Greek dish featuring marinated tofu, served in a fluffy gyro form.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30",
+    "Vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into thin strips"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces",
+      "notes": "Whole30-friendly"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, olive oil, garlic powder, dried oregano, salt, and black pepper to make the marinade.",
+    "Add the tofu strips to the marinade and toss to coat, letting it marinate for at least 10 minutes.",
+    "Heat a large non-stick skillet over medium-high heat and cook the marinated tofu for 3-4 minutes per side, until golden brown.",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the gyro by spreading a layer of hummus on the pita bread, followed by a few pieces of the cooked tofu, some diced tomato, sliced red onion, and cucumber.",
+    "Serve immediately and enjoy.",
+    "Repeat the assembly process for the remaining ingredients.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "vegan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-fluffy-greek-tofu-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-greek-tofu-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:56:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "marinated tofu",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Gyro"
+  }
+}

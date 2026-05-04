@@ -500,6 +500,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fluffy-greek-tofu-gyro",
+    "title": "Zesty Fluffy Greek Tofu Gyro",
+    "tags": [
+      "greek",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "vegan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fluffy-korean-yogurt-tteok",
     "title": "Zesty Fluffy Korean Yogurt Tteok",
     "tags": [
@@ -789,6 +805,21 @@
     "tags": [],
     "cuisine": "Turkish",
     "totalTimeMin": null,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-juicy-turkish-lamb-kebabs",
+    "title": "Zesty Juicy Turkish Lamb Kebabs",
+    "tags": [
+      "easy-dinner",
+      "grilled-meats",
+      "kid-friendly",
+      "lamb-recipes",
+      "turkish-food",
+      "weeknight-meal"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
