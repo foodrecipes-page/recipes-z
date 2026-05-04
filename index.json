@@ -622,6 +622,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chinese-cabbage-salad",
+    "title": "Zesty Chinese Cabbage Salad",
+    "tags": [
+      "cabbage",
+      "no-onion",
+      "no-oven",
+      "quick",
+      "sour-sweet",
+      "weekend"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chinese-chicken-curry",
     "title": "Zesty Chinese Chicken Curry",
     "tags": [

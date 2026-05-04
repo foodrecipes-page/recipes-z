@@ -1,0 +1,87 @@
+{
+  "title": "Zesty Chinese Cabbage Salad",
+  "description": "A quick and tangy salad that pairs shredded Chinese cabbage with a sweet-sour dressing, brightened with chili flakes and ginger.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp grated"
+    }
+  ],
+  "instructions": [
+    "Combine shredded cabbage and carrot in a large bowl.",
+    "Whisk rice vinegar, soy sauce, honey, sesame oil, chili flakes, and grated ginger to make the dressing.",
+    "Pour the dressing over the vegetables and toss until evenly coated.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "no-onion",
+    "no-oven",
+    "quick",
+    "sour-sweet",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "zesty-chinese-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:30:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "cure",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}
