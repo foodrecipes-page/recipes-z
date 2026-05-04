@@ -1533,6 +1533,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-german-chicken-stew",
+    "title": "Zesty German Chicken Stew",
+    "tags": [
+      "german",
+      "high-protein",
+      "low-carb",
+      "pressure-cook",
+      "weeknight",
+      "zesty"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-glassy-filipino-garlic-lumpia",
     "title": "Zesty Glassy Filipino Garlic Lumpia",
     "tags": [

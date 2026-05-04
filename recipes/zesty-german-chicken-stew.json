@@ -1,0 +1,114 @@
+{
+  "title": "Zesty German Chicken Stew",
+  "description": "A savory, low‑carb German stew with smoky paprika and a fresh citrus lift, made quickly in a pressure cooker.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "454 g",
+      "notes": "about 1 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "for warmth"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tsp",
+      "notes": "for brightness"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pressure cooker over medium heat.",
+    "Add diced onion and minced garlic, cooking until translucent about 3 minutes.",
+    "Stir in diced red bell pepper, smoked paprika, cumin, salt, and pepper, cooking for 1 minute to bloom the spices.",
+    "Add the chicken thighs, searing each side until lightly browned, about 2 minutes total.",
+    "Pour in chicken broth, unsweetened almond milk, lemon juice, and a pinch of salt, then close the pressure cooker lid.",
+    "Seal and cook on high pressure for 10 minutes.",
+    "Quick release the pressure, then stir in fresh parsley.",
+    "Serve hot, optionally garnished with additional parsley, with a side of steamed cauliflower rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "low-carb",
+    "pressure-cook",
+    "weeknight",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 1390,
+    "protein": 206,
+    "carbs": 25,
+    "fat": 100
+  },
+  "slug": "zesty-german-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-german-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:17:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}
