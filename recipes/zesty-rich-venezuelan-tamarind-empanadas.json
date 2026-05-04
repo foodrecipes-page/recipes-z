@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Rich Venezuelan Tamarind Empanadas",
+  "description": "Rich, crumbly, romantic Venezuelan dish featuring tamarind pulp, perfect for a sugar-free friendly snack",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "corn flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, puree the tamarind pulp until smooth.",
+    "In a large bowl, combine the corn flour, butter, and salt, and mix until crumbly.",
+    "Add the egg, water, and black pepper to the bowl, and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces, and roll each piece into a ball.",
+    "Flatten each ball into a disk shape, and place a tablespoon of tamarind puree in the center of each disk.",
+    "Fold the dough over the filling, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil, and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "empanadas",
+    "gluten-free",
+    "sugar-free",
+    "tamarind-based",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-rich-venezuelan-tamarind-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-rich-venezuelan-tamarind-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tamarind",
+    "descriptor": "Zesty Rich",
+    "dishForm": "Empanadas"
+  }
+}

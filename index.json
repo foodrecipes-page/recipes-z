@@ -2929,6 +2929,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-rich-venezuelan-tamarind-empanadas",
+    "title": "Zesty Rich Venezuelan Tamarind Empanadas",
+    "tags": [
+      "baked-goods",
+      "empanadas",
+      "gluten-free",
+      "sugar-free",
+      "tamarind-based",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-argentinian-galangal-skewers",
     "title": "Zesty Roasted Argentinian Galangal Skewers",
     "tags": [
