@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Roasted Saudi Arabian Rice Risotto",
+  "description": "A velvety, aromatic risotto with roasted carnaroli rice, fragrant spices, and a zesty citrus finish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "low-fodmap chicken stock",
+      "amount": "500 ml",
+      "notes": "no onion or garlic"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "dairy-free butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and toss the carnaroli rice with 1 tbsp olive oil and the smoked paprika, cumin, coriander, and pinch of saffron, then spread on a baking sheet and roast for 10 minutes until lightly browned.",
+    "Heat the remaining 1 tbsp olive oil in a donabe over medium heat and add the diced carrot, sautéing until softened, about 5 minutes.",
+    "Stir in the roasted rice, coating it with the aromatics, and cook for 2 minutes to toast the grains.",
+    "Pour in 200 ml of the low-fodmap chicken stock and bring to a gentle boil, then reduce the heat and simmer, stirring frequently, until the liquid is mostly absorbed, about 8 minutes.",
+    "Add the remaining 300 ml of stock a ladle at a time, allowing each addition to be absorbed before adding more, keeping the rice creamy, for a total of 15 minutes of simmering.",
+    "Stir in the lemon zest and dairy-free butter, allowing the butter to melt and enrich the risotto, then season with salt to taste.",
+    "Remove the donabe from heat, fold in the chopped parsley, and let the dish rest for 2 minutes to finish the velvety texture.",
+    "Serve hot, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-fodmap",
+    "mediterranean",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 14
+  },
+  "slug": "zesty-roasted-saudi-arabian-rice-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-saudi-arabian-rice-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:37:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Rice",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Risotto"
+  }
+}
