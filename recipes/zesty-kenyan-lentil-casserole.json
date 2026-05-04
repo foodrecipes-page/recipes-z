@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Kenyan Lentil Casserole",
+  "description": "A jammy, springy Kenyan casserole packed with herb‑rich lentils and crunchy breadcrumbs, perfect for meal‑prep lunches.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spinach, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the lentils and place them in a pot with the water; bring to a boil, then reduce heat and simmer for 15 minutes until tender.",
+    "While the lentils cook, heat the olive oil in a skillet over medium heat and sauté the diced onion until translucent.",
+    "Add the minced garlic, ground ginger, smoked paprika, ground cumin, and tomato paste to the skillet and cook for 2 minutes, stirring constantly.",
+    "Stir in the cooked lentils, chopped spinach, and season with salt and pepper; cook until the spinach wilts.",
+    "Transfer the mixture to a greased baking dish and top evenly with the breadcrumbs.",
+    "Bake for 20 minutes until the top is golden brown and the casserole is heated through.",
+    "Remove the dish from the oven, let it rest for 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 27,
+    "carbs": 92,
+    "fat": 17
+  },
+  "slug": "zesty-kenyan-lentil-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-lentil-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:03:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "salt-bake",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Casserole"
+  }
+}

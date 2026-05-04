@@ -302,6 +302,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-kenyan-rice-fried-rice",
+    "title": "Zesty Crisp Kenyan Rice Fried-Rice",
+    "tags": [
+      "crisp",
+      "date-night",
+      "halal",
+      "kenyan",
+      "one-pot",
+      "rice",
+      "savory"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-norwegian-cauliflower-toast",
     "title": "Zesty Crisp Norwegian Cauliflower Toast",
     "tags": [
@@ -820,6 +836,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-kenyan-lentil-casserole",
+    "title": "Zesty Kenyan Lentil Casserole",
+    "tags": [
+      "high-protein",
+      "low-fat",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {

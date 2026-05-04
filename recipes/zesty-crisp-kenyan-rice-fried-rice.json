@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Crisp Kenyan Rice Fried-Rice",
+  "description": "Savory, crisp fried rice with marjoram and lime, served in an agave leaf for a unique date-night experience.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "day-old cooked rice",
+      "amount": "2 cups",
+      "notes": "khao khua"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground marjoram",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "halal"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a skillet until shimmering.",
+    "Add the diced onion and red bell pepper and sauté until translucent.",
+    "Stir in the minced garlic and cook for 30 seconds.",
+    "Add the day‑old rice, breaking up any clumps with a spoon.",
+    "Season with ground marjoram, soy sauce, sesame oil, lime juice, and chili flakes.",
+    "Cook, stirring frequently, until the rice is heated through and begins to crisp at the edges, about 5 minutes.",
+    "Fold in the chopped scallions and remove from heat.",
+    "Transfer the fried rice into a warmed agave leaf, tightly packing it into a tight cone.",
+    "Fold the leaf into a paper‑towel wrapped pouch and let it steam for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "date-night",
+    "halal",
+    "kenyan",
+    "one-pot",
+    "rice",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-crisp-kenyan-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-kenyan-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:03:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "marjoram",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Fried-Rice"
+  }
+}
