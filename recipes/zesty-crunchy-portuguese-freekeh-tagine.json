@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Crunchy Portuguese Freekeh Tagine",
+  "description": "A bright, spicy tagine that combines the nutty flavor of freekeh with crunchy vegetables and a citrusy finish. Perfect as a pescatarian hangover cure in just a 40 minute cook.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse freekeh under cold water and set aside.",
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and cook for 30 seconds.",
+    "Add diced red bell pepper and cook for 2 minutes.",
+    "Sprinkle paprika, cumin, and cayenne pepper; stir to coat vegetables.",
+    "Pour in vegetable broth and add cooked chickpeas.",
+    "Add rinsed freekeh and stir to combine.",
+    "Season with salt and pepper, then add lemon zest.",
+    "Cover the tagine and simmer on low heat for 20 minutes.",
+    "Remove the lid, stir, and let it cook uncovered for 5 minutes to thicken.",
+    "Serve hot, garnished with extra lemon zest if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ],
+  "slug": "zesty-crunchy-portuguese-freekeh-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-portuguese-freekeh-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:20:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "wok-hei",
+    "primaryIngredient": "freekeh",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "freekeh",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Tagine"
+  }
+}

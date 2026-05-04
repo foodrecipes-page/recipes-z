@@ -692,6 +692,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crunchy-portuguese-freekeh-tagine",
+    "title": "Zesty Crunchy Portuguese Freekeh Tagine",
+    "tags": [
+      "portuguese",
+      "dinner"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crunchy-slovakian-pickle-dumplings",
     "title": "Zesty Crunchy Slovakian Pickle Dumplings",
     "tags": [
