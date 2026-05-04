@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Comforting Irish Beef Brisket Stew",
+  "description": "A hearty and comforting Irish stew featuring beef brisket, with a zesty twist from fresh herbs, and a snappy texture from air-fried elements, all while being diabetic-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Season the beef brisket pieces with salt and black pepper.",
+    "Air-fry the beef brisket pieces for 10 minutes to achieve a crispy exterior.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the chopped carrots and potatoes to the pot, cooking for an additional 5 minutes.",
+    "Add the minced garlic, fresh thyme, and fresh rosemary to the pot, cooking for 1 minute.",
+    "Add the air-fried beef brisket, beef broth, salt, and black pepper to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Serve the stew hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "hearty-stew",
+    "homestyle-cooking",
+    "irish-cuisine",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-comforting-irish-beef-brisket-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-comforting-irish-beef-brisket-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:38:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "beef brisket",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Zesty comforting",
+    "dishForm": "Stew"
+  }
+}
