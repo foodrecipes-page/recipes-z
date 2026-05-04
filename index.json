@@ -793,6 +793,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-filipino-chicken-breast-pinakbet",
+    "title": "Zesty Filipino Chicken Breast Pinakbet",
+    "tags": [
+      "diabetic-friendly",
+      "filipino",
+      "low-fat",
+      "one-pot",
+      "pinakbet",
+      "quick",
+      "zesty"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-filipino-eggs-bake",
     "title": "Zesty Filipino Eggs Bake",
     "tags": [
@@ -1429,6 +1445,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-molten-turkish-eggs-menemen",
+    "title": "Zesty Molten Turkish Eggs Menemen",
+    "tags": [
+      "breakfast-recipe",
+      "halal-friendly",
+      "kid-friendly",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

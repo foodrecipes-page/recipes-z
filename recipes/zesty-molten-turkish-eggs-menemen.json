@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Molten Turkish Eggs Menemen",
+  "description": "A kid-friendly Turkish dish featuring mint and long-fermentation-dough, this menemen is a halal-friendly option for breakfast, made with umami and molten ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "preferably 24-hour fermentation"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the long-fermentation-dough to a thickness of about 1/4 inch.",
+    "Cut out 4 equal-sized squares from the dough.",
+    "In a bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the chopped mint leaves to the egg mixture and stir well.",
+    "Place a tablespoon of butter on each dough square, leaving a 1/2 inch border around the edges.",
+    "Spoon the egg mixture over the butter on each dough square.",
+    "Fold the dough squares in half to enclose the egg mixture, pressing the edges to seal.",
+    "Place the menemen on a baking sheet lined with parchment paper, leaving about 1 inch of space between each.",
+    "Bake the menemen in the preheated oven for 15 minutes, or until the dough is golden brown and the eggs are set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "halal-friendly",
+    "kid-friendly",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "zesty-molten-turkish-eggs-menemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-turkish-eggs-menemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:03:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mint",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggs",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Menemen"
+  }
+}
