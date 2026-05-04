@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Peruvian Sauerkraut Stew",
+  "description": "A bright, slow‑cooked stew featuring fermented cabbage and quinoa, spiced with aji amarillo and finished with fresh cilantro, served in a traditional Korean brass bowl.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "400 g",
+      "notes": "fermented cabbage"
+    },
+    {
+      "name": "quinoa",
+      "amount": "100 g",
+      "notes": "dry"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "kale",
+      "amount": "200 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the aji amarillo paste and stir for 1 minute until fragrant.",
+    "Pour in the vegetable broth and bring to a gentle simmer.",
+    "Stir in the sauerkraut and diced bell pepper, then cover and cook for 10 minutes.",
+    "Add the diced tomato, kale, and quinoa to the pot, stirring to combine.",
+    "Reduce heat to low, cover, and let the stew simmer for 45 minutes, stirring occasionally.",
+    "After 45 minutes, add lime juice and salt to taste, then stir well.",
+    "Remove the pot from heat and let the stew rest for 5 minutes.",
+    "Serve the stew hot in a Korean brass bowl, garnished with fresh cilantro.",
+    "Enjoy the zesty flavors of this slow‑cooked Peruvian dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "korean-brass-bowl",
+    "peruvian",
+    "slow-cook",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 24,
+    "carbs": 114,
+    "fat": 29
+  },
+  "slug": "zesty-peruvian-sauerkraut-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-sauerkraut-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:35:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "sauerkraut",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}
