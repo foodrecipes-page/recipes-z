@@ -1,0 +1,121 @@
+{
+  "title": "Zesty French Potatoes Tartiflette",
+  "description": "A comforting Alsace‑inspired vegan tartiflette bursting with citrusy cider vinegar, sweet maple syrup, and toasted walnuts, perfect for a cozy dinner.",
+  "cuisine": "French Alsace",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "600g"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "150g"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "zucchini",
+      "amount": "150g"
+    },
+    {
+      "name": "apple",
+      "amount": "150g"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2g"
+    },
+    {
+      "name": "thyme",
+      "amount": "1g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "salt",
+      "amount": "3g"
+    },
+    {
+      "name": "non‑dairy milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "10ml"
+    },
+    {
+      "name": "walnuts",
+      "amount": "30g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "15ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Peel and slice 600g potatoes into 5mm rounds.",
+    "Toss potatoes, bell pepper, mushrooms, zucchini, and apple with 15ml cider vinegar, 2g turmeric, 1g thyme, 1g pepper and 3g salt.",
+    "Spread the mixture in a baking dish.",
+    "Drizzle 150ml non‑dairy milk, 200g vegan cheese, and 10ml maple syrup over the vegetables.",
+    "Bake uncovered for 30 minutes, until potatoes are tender and the surface is golden.",
+    "Remove from oven, stir gently, and reduce heat to 180C.",
+    "Return to oven and cook for 10 minutes, until cheese is melted and bubbly.",
+    "Sprinkle 30g chopped walnuts and 15ml coconut oil on top, then bake for 5 minutes until walnuts toast.",
+    "Let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "alsace-inspired",
+    "cider-vinegar",
+    "comfort-food",
+    "one-pot",
+    "sattvic-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 22,
+    "carbs": 145,
+    "fat": 36
+  },
+  "slug": "zesty-french-potatoes-tartiflette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-potatoes-tartiflette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:02:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "cider vinegar",
+    "diet": "ayurvedic-sattvic",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zesty",
+    "dishForm": "Tartiflette"
+  }
+}

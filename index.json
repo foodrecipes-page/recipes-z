@@ -407,6 +407,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-french-potatoes-tartiflette",
+    "title": "Zesty French Potatoes Tartiflette",
+    "tags": [
+      "alsace-inspired",
+      "cider-vinegar",
+      "comfort-food",
+      "one-pot",
+      "sattvic-friendly",
+      "vegan"
+    ],
+    "cuisine": "French Alsace",
+    "totalTimeMin": 65,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-french-salmon-salad",
     "title": "Zesty French Salmon Salad",
     "tags": [
