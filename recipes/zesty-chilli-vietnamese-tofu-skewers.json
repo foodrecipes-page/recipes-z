@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Chilli Vietnamese Tofu Skewers",
+  "description": "Rich and tender Vietnamese dish featuring chilli flakes and tempering chocolate, perfect for a vegan-friendly meal",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "vegan friendly"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together soy sauce, maple syrup, rice vinegar, garlic, and ginger",
+    "Add the chilli flakes and tempering chocolate to the bowl and whisk until well combined",
+    "Add the tofu cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated tofu cubes onto the bamboo skewers",
+    "Brush the skewers with sesame oil and season with salt",
+    "Place the skewers on the raclette grill and cook for 10 minutes, turning occasionally",
+    "Serve the skewers hot, garnished with chopped green onions and sesame seeds"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chilli",
+    "grilled",
+    "raclette",
+    "skewers",
+    "tofu",
+    "vegan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-chilli-vietnamese-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chilli-vietnamese-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:26:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chilli flakes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty Chilli",
+    "dishForm": "Skewers"
+  }
+}
