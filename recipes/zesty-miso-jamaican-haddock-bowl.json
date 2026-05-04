@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Miso Jamaican Haddock Bowl",
+  "description": "A flavorful and nutritious Jamaican-inspired dish featuring haddock marinated in a zesty miso sauce, served over low-glycemic cauliflower rice in an earthenware bowl. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine miso paste, lime juice, soy sauce, brown sugar, and scotch bonnet peppers, and blend until smooth.",
+    "Place the haddock fillets in a shallow dish and brush the miso marinade evenly over both sides of the fish.",
+    "Let the fish marinate for at least 15 minutes, or up to 30 minutes in the refrigerator.",
+    "Line a baking sheet with parchment paper and arrange the marinated haddock fillets on it.",
+    "Drizzle the coconut oil over the fish and season with salt and black pepper.",
+    "Bake the fish in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the fish is cooking, heat a tablespoon of coconut oil in a large skillet over medium heat and saute the cauliflower rice until tender.",
+    "To assemble the bowls, divide the cooked cauliflower rice among four earthenware bowls, then top each bowl with a piece of cooked haddock and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-rice",
+    "jamaican-inspired",
+    "low-glycemic",
+    "one-bowl",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-miso-jamaican-haddock-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-miso-jamaican-haddock-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:43:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "haddock",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "haddock",
+    "descriptor": "Zesty Miso",
+    "dishForm": "Bowl"
+  }
+}
