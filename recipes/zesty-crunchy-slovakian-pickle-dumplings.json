@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Crunchy Slovakian Pickle Dumplings",
+  "description": "A traditional Slovakian dish featuring pickle juice and a crunchy texture, made with halal-friendly ingredients. This recipe is a nostalgic and flavorful treat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, pickle juice, mustard seeds, salt, and black pepper to form a dough.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin or your hands.",
+    "Heat the butter in a large skillet over medium heat and cook the dumplings for about 5 minutes on each side.",
+    "Remove the dumplings from the skillet and set them aside on a plate.",
+    "Add the breadcrumbs to the skillet and cook for about 2 minutes until they are golden brown.",
+    "Add the vegetable oil to the skillet and stir to combine with the breadcrumbs.",
+    "Add the dumplings back to the skillet and toss to coat with the breadcrumb mixture.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy",
+    "eastern-european",
+    "halal-friendly",
+    "homemade",
+    "pickle-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-crunchy-slovakian-pickle-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-slovakian-pickle-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:59:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "pickle juice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pickles",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Dumplings"
+  }
+}
