@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Crispy Spanish Renkon Lotus Root Paella Valenciana",
+  "description": "A sour and crispy Spanish dish featuring renkon lotus root, cooked in a clay pot and high in protein, perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Renkon lotus root",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "Spanish sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large clay pot over medium high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the Spanish sausage and cook until browned, about 3 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the renkon lotus root and cook until it starts to brown, about 5 minutes.",
+    "Add the lemon juice, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Transfer the clay pot to the preheated oven and bake for 20 minutes.",
+    "Remove the clay pot from the oven and let it cool for a few minutes.",
+    "Serve the paella valenciana hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-spanish-renkon-lotus-root-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-spanish-renkon-lotus-root-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:42:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Paella Valenciana"
+  }
+}
