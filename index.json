@@ -412,6 +412,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-kenyan-lamb-wrap",
+    "title": "Zesty Charred Kenyan Lamb Wrap",
+    "tags": [
+      "grilled-meats",
+      "jain-friendly",
+      "kenyan-cuisine",
+      "lamb-recipes",
+      "romantic-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chilli-vietnamese-tofu-skewers",
     "title": "Zesty Chilli Vietnamese Tofu Skewers",
     "tags": [

@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Charred Kenyan Lamb Wrap",
+  "description": "A romantic Kenyan dish featuring charred lamb, red wine vinegar, and ssam-wrap, perfect for a special occasion, this jain-friendly recipe is sure to impress.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together red wine vinegar, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper to make the marinade.",
+    "Place the lamb shoulder in a large ziplock bag and pour the marinade over it, making sure the lamb is fully coated.",
+    "Seal the bag and refrigerate for at least 2 hours or overnight to allow the lamb to marinate.",
+    "Remove the lamb from the marinade and cook on the preheated grill for about 5 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Once the lamb is cooked, let it rest for a few minutes before slicing it thinly against the grain.",
+    "Warm the ssam wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by placing a few slices of the charred lamb onto a ssam wrap piece and serving immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "jain-friendly",
+    "kenyan-cuisine",
+    "lamb-recipes",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-charred-kenyan-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-kenyan-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:34:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Wrap"
+  }
+}
