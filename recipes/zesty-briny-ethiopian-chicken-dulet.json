@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Briny Ethiopian Chicken Dulet",
+  "description": "A traditional Ethiopian dish with a twist, featuring chicken stock concentrate and yakimono-grill flavors, this recipe is ayurvedic-rajasic-friendly and perfect for a midnight craving.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yakimono grill sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "In a large bowl, whisk together chicken stock concentrate, berbere spice, salt, and black pepper.",
+    "Add the sliced onion to the bowl and toss to coat with the spice mixture.",
+    "Grill the onion slices for 3-4 minutes per side, or until caramelized.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the chicken breast to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Brush the yakimono grill sauce on the chicken during the last minute of cooking.",
+    "Serve the chicken with the grilled onion and sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "grilled-chicken",
+    "high-protein",
+    "one-pan",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-briny-ethiopian-chicken-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-briny-ethiopian-chicken-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:47:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Briny",
+    "dishForm": "Dulet"
+  }
+}

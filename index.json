@@ -366,6 +366,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-briny-ethiopian-chicken-dulet",
+    "title": "Zesty Briny Ethiopian Chicken Dulet",
+    "tags": [
+      "ethiopian-cuisine",
+      "grilled-chicken",
+      "high-protein",
+      "one-pan",
+      "spicy-food",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-british-brown-rice-noodle-sandwich",
     "title": "Zesty British Brown Rice Noodle Sandwich",
     "tags": [
