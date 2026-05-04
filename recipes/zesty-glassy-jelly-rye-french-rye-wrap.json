@@ -1,0 +1,825 @@
+{
+  "title": "Zesty Glassy Jelly Rye French Rye Wrap",
+  "description": "A comforting French dish featuring the combination of crispy rye bread with a resinous glassy-jelly filling, served in a lotus-leaf wrap.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus-leaf wraps",
+      "amount": "4",
+      "notes": "Assorted flavored lotus-leaf wraps for serving. "
+    },
+    {
+      "name": "Rye bread",
+      "amount": "2 loaves",
+      "notes": "Sourdough rye bread for making crispy croutons. "
+    },
+    {
+      "name": "Glassy Jelly",
+      "amount": "1 cup",
+      "notes": "Homemade glassy-jelly with a zesty rye flavor. "
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "Raw fennel, thinly sliced for garnish. "
+    },
+    {
+      "name": "Pickled mustard seeds",
+      "amount": "1/4 cup",
+      "notes": "Glass jar of pickled mustard seeds for added zest. "
+    },
+    {
+      "name": "Fresh dill weed",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped dill weed for garnish. "
+    },
+    {
+      "name": "Rye flour",
+      "amount": "1/4 cup",
+      "notes": "Extra rye flour for dusting the rye bread. "
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Creamy Greek yogurt for dipping. "
+    },
+    {
+      "name": "Fleur de sel",
+      "amount": "1 tsp",
+      "notes": "Flaky sea salt for added texture. "
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped parsley for garnish. "
+    },
+    {
+      "name": "Air fryer basket lining",
+      "amount": "1",
+      "notes": "Grease-proof paper for air fryer basket lining. "
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "4 tsp",
+      "notes": "Vegetable oil for brushing rye bread. "
+    },
+    {
+      "name": "Rye spice",
+      "amount": "1 tsp",
+      "notes": "Homemade rye spice with caraway seeds and coriander. "
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Raw honey for sweetening glassy-jelly. "
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "Freshly squeezed lemon juice for dressing. "
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic for rye croutons. "
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped chives for garnish. "
+    },
+    {
+      "name": "Gruy\u00193re",
+      "amount": "1/2 cup",
+      "notes": "Sliced Gruy\u00193re cheese for added richness. "
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "Chopped capers for added zest. "
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped thyme for garnish. "
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "Whole mustard seeds for pickling. "
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "Raw brown sugar for sweetening glassy-jelly. "
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": "Freshly squeezed lime juice for dressing. "
+    },
+    {
+      "name": "Chopped fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped basil for garnish. "
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tsp",
+      "notes": "Melting coconut oil for brushing rye bread. "
+    },
+    {
+      "name": "Grains of paradise",
+      "amount": "1/2 tsp",
+      "notes": "Ground grains of paradise for added warmth. "
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "Roasted pumpkin seeds for added crunch. "
+    },
+    {
+      "name": "Rye bread crumbs",
+      "amount": "1 cup",
+      "notes": "Dried rye bread crumbs for making crispy croutons. "
+    },
+    {
+      "name": "Walnut oil",
+      "amount": "2 tsp",
+      "notes": "Walnut oil for brushing rye bread. "
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika for added smokiness. "
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground cayenne pepper for added heat. "
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped basil for garnish. "
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Dried chili flakes for added heat. "
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated ginger for added warmth. "
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped chives for garnish. "
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp",
+      "notes": "Miso paste for added umami. "
+    },
+    {
+      "name": "Rye bread sticks",
+      "amount": "1/4 cup",
+      "notes": "Crushed rye bread sticks for added crunch. "
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Ground fennel seeds for added anise flavor. "
+    },
+    {
+      "name": "Molasses",
+      "amount": "1 tsp",
+      "notes": "Blackstrap molasses for sweetening glassy-jelly. "
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "Dijon mustard for added tanginess. "
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "Toasted sesame seeds for added crunch. "
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 tsp",
+      "notes": "Ground star anise for added warmth. "
+    },
+    {
+      "name": "Fennel pollen",
+      "amount": "1 tsp",
+      "notes": "Fennel pollen for added anise flavor. "
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala for added warmth. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/4 tsp",
+      "notes": "Ground saffron for added luxury. "
+    },
+    {
+      "name": "Fennel fronds",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped fennel fronds for garnish. "
+    },
+    {
+      "name": "Pickled shallots",
+      "amount": "1/4 cup",
+      "notes": "Pickled shallots for added pungency. "
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "Ginger paste for added warmth. "
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "Ground turmeric for added warmth. "
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1 bulb",
+      "notes": "Raw fennel, thinly sliced for garnish. "
+    },
+    {
+      "name": "Anise seeds",
+      "amount": "1 tsp",
+      "notes": "Ground anise seeds for added anise flavor. "
+    },
+    {
+      "name": "Caper berries",
+      "amount": "1/4 cup",
+      "notes": "Chopped caper berries for added flavor. "
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tsp",
+      "notes": "Mustard oil for brushing rye bread. "
+    },
+    {
+      "name": "Rye bread topping",
+      "amount": "1 cup",
+      "notes": "Crushed rye bread for topping. "
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped rosemary for garnish. "
+    },
+    {
+      "name": "Coconut water",
+      "amount": "2 tsp",
+      "notes": "Young coconut water for added moisture. "
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "Ground cumin seeds for added warmth. "
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 tsp",
+      "notes": "Smoked salt for added smokiness. "
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground coriander powder for added warmth. "
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala powder for added warmth. "
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Dried chili flakes for added heat. "
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1/4 cup",
+      "notes": "Whole mustard seeds for pickling. "
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped cilantro for garnish. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": "Sesame oil for brushing rye bread. "
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tsp",
+      "notes": "Blackstrap pomegranate molasses for sweetening glassy-jelly. "
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Ground fennel seeds for added anise flavor. "
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "Chopped capers for added flavor. "
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 tsp",
+      "notes": "Ground star anise for added warmth. "
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Dried chili flakes for added heat. "
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "Ground turmeric for added warmth. "
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "Ginger paste for added warmth. "
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped cilantro for garnish. "
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "Raw brown sugar for sweetening glassy-jelly. "
+    },
+    {
+      "name": "Fennel pollen",
+      "amount": "1 tsp",
+      "notes": "Fennel pollen for added anise flavor. "
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala for added warmth. "
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "Whole mustard seeds for pickling. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tsp",
+      "notes": "Melting coconut oil for brushing rye bread. "
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tsp",
+      "notes": "Mustard oil for brushing rye bread. "
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Ground fennel seeds for added anise flavor. "
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "Ground turmeric for added warmth. "
+    },
+    {
+      "name": "Rye spice",
+      "amount": "1 tsp",
+      "notes": "Homemade rye spice with caraway seeds and coriander. "
+    },
+    {
+      "name": "Anise seeds",
+      "amount": "1 tsp",
+      "notes": "Ground anise seeds for added anise flavor. "
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground cayenne pepper for added heat. "
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated ginger for added warmth. "
+    },
+    {
+      "name": "Chopped fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped basil for garnish. "
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika for added smokiness. "
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": "Sesame oil for brushing rye bread. "
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped basil for garnish. "
+    },
+    {
+      "name": "Fennel bulbs",
+      "amount": "1 bulb",
+      "notes": "Raw fennel, thinly sliced for garnish. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Rye bread sticks",
+      "amount": "1/4 cup",
+      "notes": "Crushed rye bread sticks for added crunch. "
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala for added warmth. "
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 tsp",
+      "notes": "Ground star anise for added warmth. "
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tsp",
+      "notes": "Mustard oil for brushing rye bread. "
+    },
+    {
+      "name": "Coconut water",
+      "amount": "2 tsp",
+      "notes": "Young coconut water for added moisture. "
+    },
+    {
+      "name": "Fennel pollen",
+      "amount": "1 tsp",
+      "notes": "Fennel pollen for added anise flavor. "
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Dried chili flakes for added heat. "
+    },
+    {
+      "name": "Rye spice",
+      "amount": "1 tsp",
+      "notes": "Homemade rye spice with caraway seeds and coriander. "
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "Ginger paste for added warmth. "
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala powder for added warmth. "
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "Toasted sesame seeds for added crunch. "
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Ground fennel seeds for added anise flavor. "
+    },
+    {
+      "name": "Anise seeds",
+      "amount": "1 tsp",
+      "notes": "Ground anise seeds for added anise flavor. "
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped cilantro for garnish. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika for added smokiness. "
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tsp",
+      "notes": "Melting coconut oil for brushing rye bread. "
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "Ground cumin seeds for added warmth. "
+    },
+    {
+      "name": "Fennel pollen",
+      "amount": "1 tsp",
+      "notes": "Fennel pollen for added anise flavor. "
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala for added warmth. "
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground cayenne pepper for added heat. "
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Dried chili flakes for added heat. "
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "Ginger paste for added warmth. "
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Ground fennel seeds for added anise flavor. "
+    },
+    {
+      "name": "Rye spice",
+      "amount": "1 tsp",
+      "notes": "Homemade rye spice with caraway seeds and coriander. "
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "Whole mustard seeds for pickling. "
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 tsp",
+      "notes": "Ground star anise for added warmth. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped basil for garnish. "
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala powder for added warmth. "
+    },
+    {
+      "name": "Rye bread sticks",
+      "amount": "1/4 cup",
+      "notes": "Crushed rye bread sticks for added crunch. "
+    },
+    {
+      "name": "Fennel pollen",
+      "amount": "1 tsp",
+      "notes": "Fennel pollen for added anise flavor. "
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tsp",
+      "notes": "Mustard oil for brushing rye bread. "
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": "Sesame oil for brushing rye bread. "
+    },
+    {
+      "name": "Coconut water",
+      "amount": "2 tsp",
+      "notes": "Young coconut water for added moisture. "
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated ginger for added warmth. "
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "Toasted sesame seeds for added crunch. "
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Ground fennel seeds for added anise flavor. "
+    },
+    {
+      "name": "Anise seeds",
+      "amount": "1 tsp",
+      "notes": "Ground anise seeds for added anise flavor. "
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground cinnamon for added warmth. "
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground coriander powder for added warmth. "
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 tsp",
+      "notes": "Ground star anise for added warmth. "
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Dried chili flakes for added heat. "
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "Ginger paste for added warmth. "
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried chili powder for added heat. "
+    },
+    {
+      "name": "Rye spice",
+      "amount": "1 tsp",
+      "notes": "Homemade rye spice with caraway seeds and coriander. "
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "Ground cumin seeds for added warmth. "
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground garam masala for added warmth. "
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground cayenne pepper for added heat. "
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "Ground turmeric for added warmth. "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Spread 1 tablespoon of glassy jelly on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Cook 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Sprinkle chopped fresh parsley and fennel fronds on top of each rye bread slice for added garnish.",
+    "Brush 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Add 1-2 tablespoons of glassy jelly on each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spoon 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Add 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Brush 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spoon 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Spoon 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Sprinkle 1-2 cups of crispy rye bread crumbs on top of each lotus-leaf wrap for added crunch.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spread 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Spoon 1-2 tablespoons of glassy jelly onto each rye bread slice for 1-2 minutes or until warm and bubbly.",
+    "Spoon 1-2 rye bread loaves at 400°F (200°C) for 5-7 minutes or until crispy.",
+    "Add 1-2 tablespoons of sesame oil on each lotus-leaf wrap for 1-2 minutes or until lightly browned."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 15,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-glassy-jelly-rye-french-rye-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glassy-jelly-rye-french-rye-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:27Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "rye",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "rye",
+    "descriptor": "Zesty Glassy Jelly Rye",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Russian Oat Milk Batter",
+  "description": "A buttery, aerated brunch dish featuring oat milk, made with a mortar and pestle, perfect for a low-glycemic morning treat.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar substitute (e.g. stevia)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality, pure vanilla extract"
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, grind the granulated sugar substitute into a fine powder.",
+    "Add the unsalted butter to the mortar and pestle, pound until creamy and smooth.",
+    "In a large bowl, whisk together the oat milk and eggs.",
+    "Add the ground sugar substitute and butter mixture to the bowl, whisk until well combined.",
+    "In a separate bowl, whisk together the flour and vanilla extract.",
+    "Add the flour mixture to the oat milk mixture, whisk until just combined.",
+    "Gently fold in the plain Greek yogurt.",
+    "Pour the batter into a greased 9-inch round baking dish or cake pan.",
+    "Bake in a preheated oven at 375°F (190°C) for 25 minutes, or until the edges are golden brown and the center is set.",
+    "Let cool in the pan for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "low-glycemic",
+    "oat-milk",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-russian-oat-milk-batter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-russian-oat-milk-batter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "oat milk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "oat milk",
+    "descriptor": "zesty",
+    "dishForm": "batter"
+  }
+}

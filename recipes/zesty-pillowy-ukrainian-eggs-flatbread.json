@@ -1,0 +1,119 @@
+{
+  "title": "Zesty Pillowy Ukrainian Eggs Flatbread",
+  "description": "A garlicky, pillowy Ukrainian dish perfect for brunch, featuring red pepper paste and double-rise bread.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "iron skillet or teppan",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, sugar in a mixing bowl. Mix until a shaggy dough forms.",
+    "Add eggs, red pepper paste, and chopped garlic. Mix until a sticky dough develops.",
+    "Knead the dough on a floured surface for 10 minutes.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Punch down the dough, divide it into 4 equal pieces, and shape each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Heat a non-stick skillet or teppan over medium-high heat. Brush the skillet with olive oil.",
+    "Cook the flatbreads for 1-2 minutes on each side, until they are golden brown and puffed.",
+    "Brush the flatbreads with unsalted butter and top with chopped fresh dill.",
+    "Serve the flatbreads immediately, hot from the skillet."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 12,
+  "totalTimeMin": 57,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "zesty-pillowy-ukrainian-eggs-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pillowy-ukrainian-eggs-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "red pepper paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Eggs",
+    "descriptor": "Zesty, Pillowy",
+    "dishForm": "Flatbread"
+  }
+}

@@ -2290,6 +2290,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-glassy-jelly-rye-french-rye-wrap",
+    "title": "Zesty Glassy Jelly Rye French Rye Wrap",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 135,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-glassy-venezuelan-chicken-skewers",
     "title": "Zesty Glassy Venezuelan Chicken Skewers",
     "tags": [
@@ -3669,6 +3683,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-pillowy-ukrainian-eggs-flatbread",
+    "title": "Zesty Pillowy Ukrainian Eggs Flatbread",
+    "tags": [
+      "one-pan",
+      "ukrainian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 57,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-polish-flour-flatbread",
     "title": "Zesty Polish Flour Flatbread",
     "tags": [
@@ -3907,6 +3934,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-russian-oat-milk-batter",
+    "title": "Zesty Russian Oat Milk Batter",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "low-glycemic",
+      "oat-milk",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
