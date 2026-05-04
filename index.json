@@ -1550,6 +1550,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-middle-eastern-bulgur-tabbouleh",
+    "title": "Zesty Middle Eastern Bulgur Tabbouleh",
+    "tags": [
+      "flexitarian",
+      "healthy",
+      "lunch",
+      "middle-eastern",
+      "refreshing",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-eggplant-pie",
     "title": "Zesty Middle Eastern Eggplant Pie",
     "tags": [

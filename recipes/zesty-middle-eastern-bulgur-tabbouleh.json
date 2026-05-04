@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Middle Eastern Bulgur Tabbouleh",
+  "description": "A refreshing and energizing Middle Eastern dish featuring bulgur, mixed with fresh herbs and a zesty twist, perfect for a light lunch or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "soda water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur in a fine mesh sieve and drain well.",
+    "In a large copper pot, bring 2 cups of water to a boil.",
+    "Add the bulgur to the pot, cover, and reduce heat to low.",
+    "Simmer for 10 minutes or until the water is absorbed and the bulgur is tender.",
+    "Fluff the bulgur with a fork and let it cool.",
+    "In a large bowl, combine the cooled bulgur, parsley, mint, scallions, and tomatoes.",
+    "In a small bowl, whisk together the soda water, ferment-jang, lemon juice, and olive oil.",
+    "Pour the dressing over the bulgur mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "healthy",
+    "lunch",
+    "middle-eastern",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-middle-eastern-bulgur-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-bulgur-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:41:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "soda water",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bulgur",
+    "descriptor": "Zesty Energizing",
+    "dishForm": "Tabbouleh"
+  }
+}
