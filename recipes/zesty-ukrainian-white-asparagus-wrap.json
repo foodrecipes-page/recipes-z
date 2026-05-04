@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Ukrainian White Asparagus Wrap",
+  "description": "A citrusy, flaky wrap featuring tender white asparagus, fresh herbs, and crunchy veggies, perfect for a sick day or quick lunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white asparagus spears",
+      "amount": "200g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "6 sheets",
+      "notes": "softened in warm water"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced to 2 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "seaweed sheets",
+      "amount": "1",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "julienned"
+    },
+    {
+      "name": "carrot",
+      "amount": "50g",
+      "notes": "julienned"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "40g",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Blanch the white asparagus spears for 2 minutes in boiling salted water, then shock them in ice water to retain color.",
+    "Heat 1 tbsp of olive oil in a pan and sauté minced garlic for 30 seconds.",
+    "Add the asparagus spears to the pan and stir for 2 minutes, then remove from heat.",
+    "In a bowl combine lemon juice, chopped dill, and a pinch of salt to create a zesty dressing.",
+    "Dip each softened rice paper sheet in warm water for 5 seconds, then lay flat on a clean surface.",
+    "Spread a thin layer of the dressing over the rice paper.",
+    "Arrange asparagus, cucumber, carrot, chickpeas, and seaweed strips in the center of each sheet.",
+    "Fold the sides over the filling and roll tightly to form a wrap.",
+    "Repeat for all sheets and serve immediately, optionally with extra lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "macrobiotic-friendly",
+    "quick",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 17,
+    "fat": 3
+  },
+  "slug": "zesty-ukrainian-white-asparagus-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ukrainian-white-asparagus-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:06:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "white asparagus",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}

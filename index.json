@@ -2241,6 +2241,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ukrainian-white-asparagus-wrap",
+    "title": "Zesty Ukrainian White Asparagus Wrap",
+    "tags": [
+      "healthy",
+      "macrobiotic-friendly",
+      "quick",
+      "zesty"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-uruguayan-beef-stew",
     "title": "Zesty Uruguayan Beef Stew",
     "tags": [
@@ -2404,6 +2417,22 @@
       "vegan"
     ],
     "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-winey-norwegian-lamb-stir-fry",
+    "title": "Zesty Winey Norwegian Lamb Stir-fry",
+    "tags": [
+      "dairy-free",
+      "date-night",
+      "gluten-free",
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "stir-fry",
+      "wine-based"
+    ],
+    "cuisine": "Norwegian",
     "totalTimeMin": 35,
     "shard": "z"
   },

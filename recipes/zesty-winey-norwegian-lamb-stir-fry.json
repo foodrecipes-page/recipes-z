@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Winey Norwegian Lamb Stir-fry",
+  "description": "A hearty and flavorful Norwegian dish featuring lamb, dark brown sugar, and a hint of wine, perfect for a date night dinner. This stir-fry is nut-free and easy to make.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb pieces and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red wine, soy sauce, and dark brown sugar, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the chopped bell pepper and cook until tender, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "stir-fry",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-winey-norwegian-lamb-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-winey-norwegian-lamb-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:06:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty winey",
+    "dishForm": "Stir-fry"
+  }
+}
