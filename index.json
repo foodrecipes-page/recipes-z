@@ -1310,6 +1310,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-french-vegetable-gratin",
+    "title": "Zesty Dense French Vegetable Gratin",
+    "tags": [
+      "french",
+      "gratin",
+      "mediterranean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-german-bratwurst-wrap",
     "title": "german bratwurst wrap",
     "tags": [

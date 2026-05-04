@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Dense French Vegetable Gratin",
+  "description": "A quick-fix French dish featuring a mirepoix base and cultured creme fraiche, perfect for a weeknight dinner. This mediterranean-friendly gratin is jammy, dense, and full of flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onions until they are translucent.",
+    "Add the sliced carrots and zucchini to the skillet and cook until they are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a separate bowl, mix together the creme fraiche, shredded gruyere cheese, dried thyme, salt, and pepper.",
+    "In a 9x13 inch baking dish, create a layer of the cooked vegetables.",
+    "Pour the creme fraiche mixture over the vegetables.",
+    "Repeat the layers until all of the ingredients have been used, ending with a layer of the creme fraiche mixture on top.",
+    "Bake the gratin in the preheated oven for 30 minutes, or until it is golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "gratin",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-dense-french-vegetable-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-french-vegetable-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:06:54Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "mediterranean",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Gratin"
+  }
+}
