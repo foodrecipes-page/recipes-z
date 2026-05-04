@@ -1,0 +1,125 @@
+{
+  "title": "Zesty Middle Eastern Buns Wrap",
+  "description": "Buttery, shaggy, hangover-cure middle-eastern dish featuring buns, soffritto-base, ayurvedic-tamasic-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buns (gluten-free)",
+      "amount": "4",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Soffritto (mixed vegetables)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a talavera-plate over medium heat.",
+    "Melt 1 tablespoon of ghee in the talavera-plate.",
+    "Add the cumin seeds and let them sizzle for 10 seconds.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the soffritto and cook until the vegetables are tender, about 3 minutes.",
+    "Add the coriander powder, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add the buns and cook for 2 minutes on each side, until they are toasted.",
+    "Fluff the buns with a fork.",
+    "Sprinkle salt to taste.",
+    "Drizzle lemon juice over the buns.",
+    "Garnish with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "breakfast",
+    "dairy",
+    "gluten-free",
+    "middle-eastern",
+    "tamasic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "zesty-hangover-middle-eastern-buns-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-hangover-middle-eastern-buns-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:45:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "soffritto-base",
+    "primaryIngredient": "buns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "buns",
+    "descriptor": "Zesty Hangover",
+    "dishForm": "Wrap"
+  }
+}

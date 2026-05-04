@@ -616,6 +616,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-hangover-middle-eastern-buns-wrap",
+    "title": "Zesty Middle Eastern Buns Wrap",
+    "tags": [
+      "ayurvedic",
+      "breakfast",
+      "dairy",
+      "gluten-free",
+      "middle-eastern",
+      "tamasic",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-currant-fritters",
     "title": "Zesty Irish Currant Fritters",
     "tags": [
