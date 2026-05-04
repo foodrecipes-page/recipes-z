@@ -1444,6 +1444,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-beet-soup",
+    "title": "Zesty Egyptian Beet Soup",
+    "tags": [
+      "beet",
+      "macrobiotic",
+      "quick",
+      "soupy",
+      "vegan",
+      "zesty"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-chicken-croquettes",
     "title": "Zesty Egyptian Chicken Croquettes",
     "tags": [

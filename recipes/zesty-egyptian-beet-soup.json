@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Egyptian Beet Soup",
+  "description": "A fermented, fluffy soup that blends sweet beets with zesty lemon and creamy tahini for a nourishing, macrobiotic-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets, roasted",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "fermented tahini",
+      "amount": "20g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and roast beets for 35 minutes until tender.",
+    "Let beets cool, peel, and dice into cubes.",
+    "In a stockpot combine vegetable stock, diced beets, and bay leaf, and bring to a simmer.",
+    "Add minced garlic and cook for 5 minutes to infuse flavor.",
+    "Stir in fermented tahini, coconut milk, and olive oil until the soup thickens to a creamy consistency.",
+    "Season with cumin, coriander, salt, and pepper, and let simmer for 10 minutes.",
+    "Remove bay leaf and blend the soup with a hand blender until smooth and fluffy.",
+    "Stir in lemon juice and adjust seasoning if needed.",
+    "Ladle soup into bowls and garnish with fresh parsley or chopped cilantro.",
+    "Serve hot with a side of sautéed greens or whole grain bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "macrobiotic",
+    "quick",
+    "soupy",
+    "vegan",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 27,
+    "fat": 29
+  },
+  "slug": "zesty-egyptian-beet-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-beet-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:35:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "beets",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Beet",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
