@@ -1,0 +1,107 @@
+{
+  "title": "Zesty French Olives Eclair",
+  "description": "Bitter green olives and low-fat cheese baked inside a crisp eclair-shaped pastry using pasta-water emulsion, served from a dolsot stone bowl.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "180g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "egg white",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "60ml"
+    },
+    {
+      "name": "green olives, pitted and chopped",
+      "amount": "60g"
+    },
+    {
+      "name": "low-fat cheddar cheese, shredded",
+      "amount": "30g"
+    },
+    {
+      "name": "low-fat mozzarella, shredded",
+      "amount": "30g"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 and place a dolsot stone bowl inside to heat for 10 minutes.",
+    "Whisk whole wheat flour, baking powder, salt, and black pepper in a bowl until combined.",
+    "Add the egg white, olive oil, and pasta water to the dry ingredients, stirring until a soft dough forms.",
+    "Knead the dough on a lightly floured surface for 2 minutes, then roll to a one-centimetre thickness.",
+    "Cut the dough into eight equal rectangles (about 5x10 cm) to create the eclair shapes.",
+    "Combine chopped olives, shredded cheeses, thyme, and lemon zest in a small bowl, mixing until evenly coated.",
+    "Place a spoonful of the olive-cheese filling onto each rectangle, fold the edges over to seal, and twist the top like a pastry eclair.",
+    "Arrange the assembled eclairs on a parchment-lined sheet and bake in the preheated dolsot for 15 minutes until golden and the cheese melts."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-olive",
+    "dolsot",
+    "eclair",
+    "low-fat",
+    "pasta-water",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 971,
+    "protein": 16,
+    "carbs": 134,
+    "fat": 26
+  },
+  "slug": "zesty-french-olives-eclair",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-olives-eclair",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:09:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "green olives",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Olives",
+    "descriptor": "Zesty",
+    "dishForm": "Eclair"
+  }
+}

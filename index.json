@@ -607,6 +607,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-french-olives-eclair",
+    "title": "Zesty French Olives Eclair",
+    "tags": [
+      "bitter-olive",
+      "dolsot",
+      "eclair",
+      "low-fat",
+      "pasta-water",
+      "quick",
+      "savory"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-french-potatoes-tartiflette",
     "title": "Zesty French Potatoes Tartiflette",
     "tags": [
