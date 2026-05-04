@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Springy Norwegian Lamb Skillet",
+  "description": "A hearty Norwegian dish featuring lamb, piccalilli, and spring vegetables, perfect for a brunch gathering. This gluten-free friendly recipe is sure to please.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the lamb, cooking until browned on all sides.",
+    "Remove the lamb from the skillet and set aside, then add the chopped onion and cook until softened.",
+    "Add the chopped carrots and potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Add the piccalilli to the skillet and stir to combine.",
+    "Return the lamb to the skillet and add the chopped parsley, salt, and pepper, stirring to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the lamb is tender.",
+    "Shock the skillet in an ice bath to stop the cooking process.",
+    "Serve the lamb and vegetables hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pan-meal",
+    "spring-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-springy-norwegian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-springy-norwegian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:11:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "piccalilli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty springy",
+    "dishForm": "Skillet"
+  }
+}
