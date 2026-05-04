@@ -1,0 +1,132 @@
+{
+  "title": "Zesty French Turkey Neck Casserole",
+  "description": "A cultured, tender one-pot French dish featuring succulent turkey necks and a coconut-cream crust, finished with fresh herbs.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey necks",
+      "amount": "4",
+      "notes": "separated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "zest of 1 lemon"
+    },
+    {
+      "name": "white wine",
+      "amount": "150 ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add the onion, carrot, and celery and sauté until softened, about 5 minutes.",
+    "Stir in the garlic, fennel seeds, and lemon zest and cook for 1 minute.",
+    "Add the turkey necks and brown on all sides, 3 to 4 minutes per side.",
+    "Pour in the white wine and let it reduce by half, about 3 minutes.",
+    "Stir in the tomato paste and coconut milk, then add the chicken broth.",
+    "Season with salt and pepper, bring the mixture to a gentle simmer, cover, and cook for 30 minutes until the turkey necks are tender.",
+    "Remove the lid, stir in fresh thyme, and let the sauce thicken for 5 minutes.",
+    "Plate the casserole and garnish with chopped parsley.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "comfort-food",
+    "french",
+    "gluten-free-friendly",
+    "one-pot",
+    "turkey",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-french-turkey-neck-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-turkey-neck-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:09:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "turkey neck",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Zesty",
+    "dishForm": "Casserole"
+  }
+}
