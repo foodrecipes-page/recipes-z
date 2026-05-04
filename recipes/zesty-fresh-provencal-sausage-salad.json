@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Fresh Provencal Sausage Salad",
+  "description": "A bright and savory salad featuring grilled Provencal sausage, fresh greens, and candied pecans for a sweet crunch.",
+  "cuisine": "French",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Provencal pork sausage",
+      "amount": "250g",
+      "notes": "sliced into 1/2-inch pieces"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "2 cups",
+      "notes": "washed and dried"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "3 tbsp",
+      "notes": "pitted"
+    },
+    {
+      "name": "candied pecans",
+      "amount": "3 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the sausage into 1/2-inch thick pieces.",
+    "Heat a skillet over medium-high heat and cook the sausage for 3-4 minutes per side until browned.",
+    "While the sausage cooks, wash and dry the salad greens, halve the tomatoes, slice the cucumber and onion, and pit the olives.",
+    "In a small bowl, whisk together the lemon juice, olive oil, Dijon mustard, oregano, salt and pepper until well blended.",
+    "In a large bowl, combine the greens, tomatoes, cucumber, onion, olives and candied pecans.",
+    "Add the hot sausage to the bowl and drizzle with the dressing; toss gently to coat everything evenly.",
+    "Divide the salad into four meal-prep containers and refrigerate for up to 3 days.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "meal-prep",
+    "provencal",
+    "quick",
+    "sausage-salad"
+  ],
+  "nutrition": {
+    "calories": 254,
+    "protein": 10,
+    "carbs": 23,
+    "fat": 17
+  },
+  "slug": "zesty-fresh-provencal-sausage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fresh-provencal-sausage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:59:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "sausage",
+    "diet": "egg-free",
+    "region": "provence",
+    "cuisineAdjective": "Provencal",
+    "mainIngredient": "sausage",
+    "descriptor": "Zesty Fresh",
+    "dishForm": "Salad"
+  }
+}
