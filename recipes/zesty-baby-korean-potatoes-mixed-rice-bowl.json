@@ -1,0 +1,116 @@
+{
+  "title": "zesty baby korean potatoes mixed rice bowl",
+  "description": "a flavorful and nutritious korean-inspired mixed rice bowl using baby new potatoes, namul-blanch-season, and a hint of gochujang.",
+  "cuisine": "korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "12-15",
+      "notes": "about 1 inch in diameter"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "korean chili paste"
+    },
+    {
+      "name": "brown rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "use low-sodium or tamari for gluten-free"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "4-6",
+      "notes": "thinly sliced for garnish"
+    },
+    {
+      "name": "toasted chopped nuts (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "cook the brown rice according to package instructions.",
+    "rinse the baby new potatoes and pat dry with paper towels.",
+    "heat 1 tablespoon of sesame oil in a wok over medium-high heat.",
+    "add the baby new potatoes to the wok and cook, stirring occasionally, for about 10-12 minutes or until slightly tender.",
+    "add the gochujang, soy sauce, sugar, and 1 tablespoon of brown rice vinegar to the wok, stirring to combine.",
+    "cook for an additional 2-3 minutes, stirring frequently, until the potatoes are well coated with the sauce.",
+    "season with salt and black pepper to taste.",
+    "serve the potatoes over a bed of cooked brown rice in a large bowl or individual bowls.",
+    "garnish with thinly sliced green onions, toasted sesame seeds, and scallions.",
+    "top with toasted chopped nuts, if using.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "korean",
+    "low-carb",
+    "one-pan",
+    "veggie-forward",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-baby-korean-potatoes-mixed-rice-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-baby-korean-potatoes-mixed-rice-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:47:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "no-onion-no-garlic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zesty Baby",
+    "dishForm": "Mixed Rice Bowl"
+  }
+}
