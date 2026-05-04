@@ -3733,6 +3733,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-shattering-kenyan-bean-stew",
+    "title": "Zesty Shattering Kenyan Bean Stew",
+    "tags": [
+      "kenyan",
+      "dinner"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-sichuan-lentils-stew",
     "title": "Zesty Sichuan Lentils Stew",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Shattering Kenyan Bean Stew",
+  "description": "A punchy, umami-packed stew that shatters cravings and soothes hangovers, using tender Chinese long beans, tomato broth, and citrusy aromatics. Nut‑free and flavorful, it delivers a zesty burst with every bite.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "500g",
+      "notes": "trim and cut into 2 cm pieces"
+    },
+    {
+      "name": "Cannellini beans, drained",
+      "amount": "400g"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Fresh coriander, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and trim the long beans, then cut into 2 cm pieces.",
+    "In a large pot, heat a splash of oil and sauté the ginger, garlic, and chili flakes until fragrant.",
+    "Add the tomato paste and stir for 2 minutes to deepen the flavor.",
+    "Pour in the vegetable stock and bring the mixture to a gentle boil.",
+    "Add the long beans and cannellini beans, reduce heat, and simmer for 15 minutes or until the beans are tender.",
+    "Stir in soy sauce, lemon juice, and season with salt and pepper to taste.",
+    "Simmer for an additional 5 minutes to meld the flavors.",
+    "Garnish with fresh coriander before serving hot."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "kenyan",
+    "dinner"
+  ],
+  "slug": "zesty-shattering-kenyan-bean-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-shattering-kenyan-bean-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:47:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "chinese long beans",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beans",
+    "descriptor": "Zesty Shattering",
+    "dishForm": "Stew"
+  }
+}
