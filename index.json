@@ -1607,6 +1607,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-fish-papillote",
+    "title": "Zesty Peruvian Fish Papillote",
+    "tags": [
+      "date-night",
+      "fish-recipes",
+      "papillote-cooking",
+      "peruvian-cuisine",
+      "zesty-flavors"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-sauerkraut-stew",
     "title": "Zesty Peruvian Sauerkraut Stew",
     "tags": [

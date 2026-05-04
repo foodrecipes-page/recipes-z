@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Peruvian Fish Papillote",
+  "description": "A flavorful and aromatic Peruvian dish featuring fish cooked in a papillote with a zesty sauce, perfect for a date night.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "1 cup",
+      "notes": "for dusting fish"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Dust fish fillets with plain flour, shaking off excess.",
+    "In a bowl, whisk together lime juice, olive oil, chopped aji amarillo peppers, and minced garlic.",
+    "Place a fish fillet in the center of each papillote paper sheet.",
+    "Spoon the zesty sauce over each fish fillet.",
+    "Sprinkle chopped cilantro over the sauce.",
+    "Fold the papillote paper over the fish, sealing the edges.",
+    "Place the papillotes on a baking sheet and bake for 12 minutes.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fish-recipes",
+    "papillote-cooking",
+    "peruvian-cuisine",
+    "zesty-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-peruvian-fish-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-fish-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:59:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "plain flour",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "zesty pillowy",
+    "dishForm": "Papillote"
+  }
+}
