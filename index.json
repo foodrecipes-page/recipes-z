@@ -1120,6 +1120,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-garlicky-argentinian-rigatoni-pasta",
+    "title": "Zesty Garlicky Argentinian Rigatoni Pasta",
+    "tags": [
+      "argentinian",
+      "crunchy",
+      "dolsot",
+      "garlicky",
+      "high-protein",
+      "pasta",
+      "stone-bowl"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-garlicky-french-cashew-galette",
     "title": "Zesty Garlicky French Cashew Galette",
     "tags": [

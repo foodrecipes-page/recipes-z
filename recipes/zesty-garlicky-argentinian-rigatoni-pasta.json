@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Garlicky Argentinian Rigatoni Pasta",
+  "description": "A high protein and adventurous Argentinian dish featuring rigatoni, garlic, and crunchy elements, served in a stone bowl, inspired by the traditional Korean dolsot.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "high-protein",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "argentinian chorizo",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium high heat and cook the sliced argentinian chorizo until browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "Add the diced red bell pepper and onion to the skillet and cook until the vegetables are tender.",
+    "In a large bowl, combine the cooked rigatoni pasta, chorizo and vegetable mixture, and chimichurri sauce, and toss to combine.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Transfer the pasta to a preheated stone bowl and top with shredded parmesan cheese.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Cook the argentinian chorizo in the stone bowl over low heat for 2 minutes to crisp the bottom.",
+    "Serve the zesty garlicky argentinian rigatoni pasta hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crunchy",
+    "dolsot",
+    "garlicky",
+    "high-protein",
+    "pasta",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "zesty-garlicky-argentinian-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-argentinian-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:34:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rigatoni",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Pasta"
+  }
+}
