@@ -868,6 +868,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chewy-egyptian-garlic-stew",
+    "title": "Zesty Chewy Egyptian Garlic Stew",
+    "tags": [
+      "european",
+      "gluten-free",
+      "one-pan",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chewy-greek-lamb-kleftiko",
     "title": "Zesty Chewy Greek Lamb Kleftiko",
     "tags": [

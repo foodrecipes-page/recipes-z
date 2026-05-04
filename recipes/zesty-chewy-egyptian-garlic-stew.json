@@ -1,0 +1,130 @@
+{
+  "title": "Zesty Chewy Egyptian Garlic Stew",
+  "description": "A garlicky and energizing Egyptian dish that's perfect for a Buddhist temple-friendly meal. The mixed spice and chewy texture will leave you wanting more.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kneaded Dough",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Bouillon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo Steamer Vessel",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Chop the onions, carrots, and potatoes into bite-sized pieces.",
+    "Add the chopped vegetables to the pan and saut\u00073 them until tender.",
+    "Grate the ginger and mix it with the mixed spice.",
+    "Add the garlic cloves to the pan and cook for an additional minute.",
+    "Add the beef bouillon to the pan and stir to combine.",
+    "Roll out the kneaded dough into a thin sheet.",
+    "Place the dough sheet in the bamboo steamer vessel.",
+    "Steam the dough in the bamboo steamer for 10 minutes.",
+    "Add the green beans to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Zesty Chewy Egyptian Garlic Stew hot, garnished with chopped green beans.",
+    "Let the dish cool for 5 minutes before serving.",
+    "Slice the steamed dough into serving portions.",
+    "Serve the steamed dough pieces on the side of the stew or blend into the stew for a fun twist."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "gluten-free",
+    "one-pan",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "zesty-chewy-egyptian-garlic-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chewy-egyptian-garlic-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "mixed spice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "garlic",
+    "descriptor": "zesty chewy",
+    "dishForm": "stew"
+  }
+}
