@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Charred Thai Red Onion Noodles",
+  "description": "Charred red onions, crisp vegetables, and al-dente noodles tossed in a zesty Thai sauce, perfect for meal prep on a robata grill.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "200 g"
+    },
+    {
+      "name": "red onion",
+      "amount": "2 medium",
+      "notes": "sliced into rings"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "sliced into matchsticks"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced into strips"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the rice vermicelli in warm water for 15 minutes until softened, then drain and set aside.",
+    "Combine soy sauce, lime juice, sugar, chili paste, grated ginger, minced garlic, and coconut milk in a bowl to make the sauce.",
+    "Preheat the robata grill to medium-high and brush it lightly with sesame oil.",
+    "Place the sliced red onions, carrot matchsticks, and bell pepper strips on the grill and char them for 2-3 minutes on each side, flipping until they develop dark charred edges.",
+    "Toss the charred vegetables with the prepared sauce until they are evenly coated.",
+    "Add the drained vermicelli to the pan and stir-fry for 1-2 minutes until the noodles are al dente and have absorbed the sauce.",
+    "Transfer the noodles to a bowl, garnish with chopped cilantro and fresh lime wedges, and serve immediately.",
+    "For meal prep, divide the noodles into 4 airtight containers and store in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lacto-vegetarian",
+    "meal-prep",
+    "robata-grill",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 118,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "zesty-charred-thai-red-onion-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-thai-red-onion-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:34:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "red onions",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Red Onion",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Noodles"
+  }
+}
