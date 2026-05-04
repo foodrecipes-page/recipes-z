@@ -3780,6 +3780,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-slovakian-basil-bowl",
+    "title": "Zesty Slovakian Basil Bowl",
+    "tags": [
+      "slovakian",
+      "dinner"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-slovakian-noodle-stir-fry",
     "title": "Zesty Slovakian Noodle Stir-fry",
     "tags": [
