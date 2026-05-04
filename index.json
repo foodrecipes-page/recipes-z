@@ -3369,6 +3369,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-fish-kebabs",
+    "title": "Zesty Syrian Fish Kebabs",
+    "tags": [
+      "double-fried",
+      "fish-kebabs",
+      "middle-eastern",
+      "pescatarian-friendly",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-syrian-lamb-carpaccio",
     "title": "Zesty Syrian Lamb Carpaccio",
     "tags": [
