@@ -126,6 +126,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-algerian-almond-paste-toast",
+    "title": "Zesty Algerian Almond Paste Toast",
+    "tags": [
+      "almond-paste",
+      "kadhai",
+      "north-african",
+      "quick",
+      "snack",
+      "sugar-free"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-algerian-beef-cutlet-tagine",
     "title": "Zesty Algerian Beef Cutlet Tagine",
     "tags": [
@@ -466,6 +481,21 @@
       "tagliere",
       "vegan",
       "zesty"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-canadian-mushroom-hot-pot",
+    "title": "Zesty Canadian Mushroom Hot-Pot",
+    "tags": [
+      "canadian",
+      "hot-pot",
+      "mushroom-based",
+      "one-pot",
+      "shojin",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 35,

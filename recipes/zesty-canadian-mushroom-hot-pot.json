@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Canadian Mushroom Hot-Pot",
+  "description": "A funky and fluffy Canadian dish featuring dashi and wood-fired bake, this hot-pot is a quick-fix and shojin-friendly option for a cold winter night. It combines the flavors of Canada with the warmth of a hot-pot vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "mixed varieties"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wood-fired baked tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large hot-pot vessel, combine the dashi powder and 4 cups of water to make the broth.",
+    "Add the kombu sheets to the broth and bring to a boil.",
+    "Reduce the heat to a simmer and add the wood-fired baked tofu.",
+    "Add the mixed mushrooms to the pot and cook until they are tender.",
+    "In a small bowl, whisk together the mirin, soy sauce, and sesame oil to make the sauce.",
+    "Pour the sauce into the hot-pot and stir to combine.",
+    "Add the chopped scallions to the pot and cook for an additional 2 minutes.",
+    "Serve the hot-pot immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "hot-pot",
+    "mushroom-based",
+    "one-pot",
+    "shojin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-canadian-mushroom-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-canadian-mushroom-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:52:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "dashi",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zesty Wood Fired",
+    "dishForm": "Hot-Pot"
+  }
+}

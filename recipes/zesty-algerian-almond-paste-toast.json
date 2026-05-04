@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Algerian Almond Paste Toast",
+  "description": "A dense, umami-packed toast featuring almond paste and aromatic spices, sugar‑free and light yet flavorful.",
+  "cuisine": "Algerian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole grain bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "almond paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium heat and add the olive oil, swirling to coat the pan.",
+    "Toast the bread slices in the warm oil until golden brown on both sides, about 1-2 minutes per side.",
+    "While the bread is toasting, whisk the almond paste with cumin, paprika, coriander, cayenne, salt, and lemon zest until smooth.",
+    "Remove the toasted bread from the kadhai and spread the almond paste mixture evenly over each slice.",
+    "Return the toast to the pan and cook for 1 minute, allowing the spices to bloom and the paste to slightly caramelize.",
+    "Transfer the toast to a plate, drizzle with a squeeze of lemon juice, and sprinkle chopped parsley on top.",
+    "Serve immediately while the toast is warm and fragrant."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-paste",
+    "kadhai",
+    "north-african",
+    "quick",
+    "snack",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 140
+  },
+  "slug": "zesty-algerian-almond-paste-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-algerian-almond-paste-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:52:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "almond paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "almond paste",
+    "descriptor": "Zesty",
+    "dishForm": "Toast"
+  }
+}
