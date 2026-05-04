@@ -1,0 +1,117 @@
+{
+  "title": "Zesty Mediterranean Lamb Pilaf",
+  "description": "A flavorful and aromatic pilaf dish featuring lamb, rice, and Mediterranean staples, perfect for a romantic dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1",
+      "notes": "boneless, 1.5 lbs"
+    },
+    {
+      "name": "White rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a salt block over medium-high heat.",
+    "Add lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add chopped onion to pot and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add white rice to pot and cook for 1-2 minutes, stirring constantly.",
+    "Add chicken broth to pot and bring to a boil.",
+    "Add browned lamb back to pot, cover, and reduce heat to low.",
+    "Simmer for 20-25 minutes, or until rice is tender and liquid has been absorbed.",
+    "Stir in chopped parsley, mint, lemon juice, and lemon zest.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "lamb",
+    "mediterranean",
+    "pilaf",
+    "romantic",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "zesty-mediterranean-lamb-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mediterranean-lamb-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "bread",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "zesty citrusy",
+    "dishForm": "Pilaf"
+  }
+}

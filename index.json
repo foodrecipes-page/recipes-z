@@ -2609,6 +2609,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-iron-seared-ethiopian-oats-doro-wot",
+    "title": "Zesty Iron-Seared Ethiopian Oats Doro Wot",
+    "tags": [
+      "breakfast",
+      "ethiopian",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-jamaican-baby-pak-koi-casserole",
     "title": "Zesty Jamaican Baby Pak Koi Casserole",
     "tags": [
@@ -2997,6 +3012,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-mediterranean-lamb-pilaf",
+    "title": "Zesty Mediterranean Lamb Pilaf",
+    "tags": [
+      "dinner",
+      "lamb",
+      "mediterranean",
+      "pilaf",
+      "romantic",
+      "special-occasion"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {

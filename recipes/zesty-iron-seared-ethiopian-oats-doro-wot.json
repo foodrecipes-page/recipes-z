@@ -1,0 +1,141 @@
+{
+  "title": "Zesty Iron-Seared Ethiopian Oats Doro Wot",
+  "description": "A hearty, one-pot Ethiopian Doro Wot dish made with oats, featuring a zesty iron-seared crust and a paleo-friendly twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bone-In Chicken Thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Berbere Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee in an iron teppan over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add the chicken thighs and cook until browned on both sides, about 5 minutes per side.",
+    "Add the turmeric, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the berbere spice mix and stir to combine.",
+    "Add the rolled oats and water, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lid and cook for an additional 10 minutes, or until the oats have absorbed most of the liquid and the chicken is cooked through.",
+    "Stir in the chopped cilantro and serve hot.",
+    "Serve the Zesty Iron-Seared Ethiopian Oats Doro Wot hot, garnished with additional cilantro if desired.",
+    "This dish can be made in advance and refrigerated or frozen for later use.",
+    "Reheat the dish over low heat, stirring occasionally, until hot and steaming.",
+    "Serve with injera bread or over rice, if desired.",
+    "Note: Traditionally, Doro Wot is made with eggs, but this version uses oats as a paleo-friendly substitute.",
+    "To make this dish more substantial, add diced vegetables such as carrots or potatoes to the pot during the last 10 minutes of cooking.",
+    "This recipe makes 4-6 servings and can be easily doubled or tripled for a larger crowd.",
+    "The iron teppan is a must-have for this recipe, as it provides a crispy, well-browned crust on the outside of the oats.",
+    "If you don't have an iron teppan, you can make this recipe in a large skillet or Dutch oven, but the results will be slightly different.",
+    "The berbere spice mix is a key ingredient in this recipe, so be sure to use a high-quality mix or make your own from scratch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "zesty-iron-seared-ethiopian-oats-doro-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-iron-seared-ethiopian-oats-doro-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "oats",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "oats",
+    "descriptor": "Zesty Iron-Seared",
+    "dishForm": "Doro Wot"
+  }
+}
