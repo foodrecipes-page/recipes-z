@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Crispy Thai Peppers Som Tum",
+  "description": "A savory, crispy Thai dish featuring mixed peppers, perfect for a solo dinner. This gluten-free-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jalape\u00067\u00060s",
+      "amount": "2",
+      "notes": "any color or a mix"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00166F (200\u00166C).",
+    "Line a baking sheet with parchment paper and arrange the jalape\u00067\u00060s in a single layer.",
+    "Roast for 15 minutes or until slightly tender.",
+    "Meanwhile, chop the Thai chilies, red onion, cucumber, and tomatoes.",
+    "Combine the chopped vegetables, mint leaves, palm sugar, fish sauce, and lime juice in a bowl.",
+    "Remove the jalape\u00067\u00060s from the oven and increase the temperature to broil (high).",
+    "Broil for 2-3 minutes or until crispy, turning halfway through.",
+    "Drizzle the vegetable oil over the crispy jalape\u00067\u00060s and toss to coat.",
+    "Serve hot and garnish with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "one-pan",
+    "snack-attack",
+    "solo-dinner",
+    "thai",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "zesty-crispy-thai-peppers-som-tum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-thai-peppers-som-tum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "mixed peppers",
+    "diet": "gluten-free",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peppers",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Som Tum"
+  }
+}

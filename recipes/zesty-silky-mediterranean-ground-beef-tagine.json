@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Silky Mediterranean Ground Beef Tagine",
+  "description": "A rich and flavorful Mediterranean dish featuring tender ground beef, slow-cooked in a silky and briny sauce. Traditionally cooked in a terracotta vessel.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large terracotta vessel over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the chickpeas, diced tomatoes, and 1 cup of water to the vessel.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in some chopped fresh parsley before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ground-beef",
+    "mediterranean",
+    "one-pan",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "zesty-silky-mediterranean-ground-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-mediterranean-ground-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "ground beef",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "ground beef",
+    "descriptor": "Zesty silky",
+    "dishForm": "tagine"
+  }
+}

@@ -1358,6 +1358,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-thai-peppers-som-tum",
+    "title": "Zesty Crispy Thai Peppers Som Tum",
+    "tags": [
+      "crispy",
+      "gluten-free",
+      "one-pan",
+      "snack-attack",
+      "solo-dinner",
+      "thai",
+      "veggie"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 37,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-beef-stew",
     "title": "Zesty Croatian Beef Stew",
     "tags": [
@@ -4113,6 +4129,19 @@
       "silky"
     ],
     "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-mediterranean-ground-beef-tagine",
+    "title": "Zesty Silky Mediterranean Ground Beef Tagine",
+    "tags": [
+      "ground-beef",
+      "mediterranean",
+      "one-pan",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 40,
     "shard": "z"
   },
