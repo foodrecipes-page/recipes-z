@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Smoky Slovakian Sausage Goulash",
+  "description": "A spicy, aerated Slovakian dish featuring green cardamom pods and wok-hei, perfect for low-carb diets and festive gatherings.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Sausages",
+      "amount": "1 pound",
+      "notes": "Use a combination of pork and veal for authentic flavor."
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Thinly slice the onions for optimal caramelization."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced garlic adds depth to the goulash."
+    },
+    {
+      "name": "Green Cardamom Pods",
+      "amount": "6 pods",
+      "notes": "Crush the pods to release the aromatic oils."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": "Add a smoky flavor to the dish."
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Adjust the heat to your liking."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality tomato paste for a rich flavor."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth is essential for a balanced flavor."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "A small amount of cream adds a velvety texture."
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and crushed green cardamom pods, cooking for an additional minute.",
+    "Add the Slovakian sausages and cook until browned, breaking them apart with a spoon.",
+    "Add the smoked paprika, cayenne pepper, and tomato paste, stirring to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Use an immersion blender to aerate the goulash, or allow it to cool and blend in a stand mixer.",
+    "Stir in the heavy cream and cook for an additional 2 minutes.",
+    "Season the goulash with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "festive",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "slovakian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "zesty-smoky-slovakian-sausage-goulash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-slovakian-sausage-goulash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "wok-hei",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Goulash"
+  }
+}
