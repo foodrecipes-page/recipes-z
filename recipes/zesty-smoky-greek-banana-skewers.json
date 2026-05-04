@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Greek Banana Skewers",
+  "description": "A playful twist on Greek souvlaki, these smoky banana skewers are brushed with lemony oregano oil, lightly panko-crusted, and grilled to a caramelized finish, served chilled on a slate tile for a refreshing solo dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Banana",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": "serves as dip"
+    }
+  ],
+  "instructions": [
+    "Preheat a charcoal grill to medium-high and oil the grates.",
+    "Slice the bananas lengthwise into ½ inch thick pieces.",
+    "In a small bowl whisk olive oil, lemon juice, lemon zest, smoked paprika, oregano, salt, and pepper to make a glaze.",
+    "Brush each banana slice with the glaze, making sure to coat both sides.",
+    "Toss the glazed banana slices in panko breadcrumbs until evenly coated.",
+    "Thread 2 banana slices onto each skewer, alternating if desired.",
+    "Place the skewers on the grill and cook for 2-3 minutes per side, until the panko turns golden and the banana softens slightly.",
+    "Remove the skewers and let them rest for a minute on a cooling rack.",
+    "Spoon a small amount of Greek yogurt onto each skewer as a creamy dip.",
+    "Serve immediately on a chilled slate tile for a smoky, crunchy solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "greek",
+    "grill",
+    "no-nuts",
+    "quick",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 8,
+    "carbs": 94,
+    "fat": 32
+  },
+  "slug": "zesty-smoky-greek-banana-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-greek-banana-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:53:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "banana",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Banana",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skewers"
+  }
+}

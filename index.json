@@ -2889,6 +2889,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-greek-banana-skewers",
+    "title": "Zesty Smoky Greek Banana Skewers",
+    "tags": [
+      "banana",
+      "greek",
+      "grill",
+      "no-nuts",
+      "quick",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 18,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-italian-eggplant-pasta",
     "title": "Zesty Smoky Italian Eggplant Pasta",
     "tags": [
