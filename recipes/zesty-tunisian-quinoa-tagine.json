@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Tunisian Quinoa Tagine",
+  "description": "A buttery, zesty quinoa tagine bursting with pul biber and fresh herbs, perfect for a quick vegetarian sick-day meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned tomatoes, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until water runs clear.",
+    "In a medium pot, heat olive oil and butter over medium heat until butter foam.",
+    "Add chopped onion and minced garlic, sauté until translucent.",
+    "Stir in pul biber and cook for 1 minute to release aroma.",
+    "Add quinoa and stir to coat with oil and spices.",
+    "Pour in vegetable broth and canned tomatoes, bring to a simmer.",
+    "Reduce heat, cover, and cook for 15 minutes until quinoa is tender.",
+    "Stir in chickpeas and lemon juice, then simmer uncovered for 5 minutes.",
+    "Fluff quinoa with a fork, garnish with parsley, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "one-pot",
+    "quick",
+    "sick-day",
+    "spicy",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "zesty-tunisian-quinoa-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tunisian-quinoa-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:54:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "pul biber",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}

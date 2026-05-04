@@ -1657,6 +1657,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-tunisian-quinoa-tagine",
+    "title": "Zesty Tunisian Quinoa Tagine",
+    "tags": [
+      "healthy",
+      "one-pot",
+      "quick",
+      "sick-day",
+      "spicy",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-tunisian-shrimp-tagine",
     "title": "Zesty Tunisian Shrimp Tagine",
     "tags": [
