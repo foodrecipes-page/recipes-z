@@ -1,0 +1,65 @@
+{
+  "title": "Zesty Energizing Turkish Ground Ginger Manti",
+  "description": "Turkish dish made with ground ginger and a hint of nutmeg. Perfect for diabetic-friendly breakfast or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Ginger",
+      "amount": "2 teaspoons",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Combine ground ginger, flour, egg, melted butter, sour cream, nutmeg, and salt in a large mixing bowl.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 20 equal pieces.",
+    "Roll each piece into a thin circle.",
+    "Place a teaspoon of your favorite filling in the center of each circle.",
+    "Fold the dough over the filling to form a triangle or a square, and press the edges together to seal the manti.",
+    "Place the manti on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little bit of water and sprinkle with sesame seeds.",
+    "Heat a large skillet over medium heat and cook the manti for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with a dollop of sour cream or a sprinkle of sumac."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "diabetic-friendly",
+    "easy-to-make",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "zesty-energizing-turkish-ground-ginger-manti",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-energizing-turkish-ground-ginger-manti",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "ground ginger",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "ground ginger",
+    "descriptor": "Zesty Energizing",
+    "dishForm": "Manti"
+  }
+}
