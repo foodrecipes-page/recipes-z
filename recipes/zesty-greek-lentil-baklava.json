@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Greek Lentil Baklava",
+  "description": "A tangy and airy Greek-inspired baklava made with spiced lentils, dashi, and binchotan charcoal, perfect for a hangover cure.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eggless phyllo sheets",
+      "amount": "12 sheets",
+      "notes": null
+    },
+    {
+      "name": "cooked red lentils",
+      "amount": "300 g",
+      "notes": "soaked 2 hours, drained, then cooked until soft"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tbsp",
+      "notes": "rehydrated in 100 ml water"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp",
+      "notes": "adds subtle smokiness"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200 g",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "200 ml",
+      "notes": null
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and lightly oil a 20 cm square baking dish.",
+    "Prepare the lentil filling by combining cooked lentils, rehydrated dashi, binchotan charcoal powder, lemon zest, lemon juice, and salt; stir until fragrant.",
+    "In a saucepan, dissolve sugar in water over medium heat until syrup forms, then let cool slightly.",
+    "Layer two sheets of phyllo in the baking dish, brushing each sheet with olive oil; repeat until six sheets are layered.",
+    "Spread a thin layer of the lentil mixture over the phyllo, then drizzle with half the sugar syrup; repeat the layering with phyllo, lentil, and syrup until all ingredients are used, ending with a sheet of phyllo on top.",
+    "Bake for 25 minutes, or until the top is golden brown and the pastry is crisp.",
+    "While the baklava rests for 5 minutes, combine the remaining sugar syrup with ground cinnamon; pour over the still-hot baklava to create a caramel glaze.",
+    "Allow the baklava to cool completely in the dish, then cut into squares before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "dessert",
+    "greece",
+    "hangover-cure",
+    "jain",
+    "nut-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 112,
+    "protein": 2,
+    "carbs": 21,
+    "fat": 3
+  },
+  "slug": "zesty-greek-lentil-baklava",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-greek-lentil-baklava",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:53:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "dashi",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Baklava"
+  }
+}
