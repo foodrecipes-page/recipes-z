@@ -1567,6 +1567,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-chickpea-flatbread",
+    "title": "Zesty Irish Chickpea Flatbread",
+    "tags": [
+      "diabetic-friendly",
+      "flatbread",
+      "irish",
+      "one-pan",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-currant-fritters",
     "title": "Zesty Irish Currant Fritters",
     "tags": [

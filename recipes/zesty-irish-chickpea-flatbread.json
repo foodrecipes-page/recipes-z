@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Irish Chickpea Flatbread",
+  "description": "A quick, wine-infused chickpea flatbread with Irish herbs and a crunchy namul blanched mix, perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpea flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "60ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "40ml",
+      "notes": "adjust for desired batter consistency"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk chickpea flour, salt, pepper, rosemary, thyme, and lemon zest until dry mixture is homogeneous.",
+    "Add dry white wine and water gradually, whisking until batter is smooth and free of lumps.",
+    "Heat a comal over medium heat and lightly brush with olive oil.",
+    "Pour about 1/4 cup of batter onto the comal, spreading it into a thin circle.",
+    "Cook the flatbread for 3 minutes until bubbles form and the edges lift.",
+    "Flip gently and cook the other side for 2 minutes until golden brown.",
+    "Remove from heat and let rest 1 minute before slicing.",
+    "Serve warm, optionally topped with a drizzle of extra virgin olive oil and a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "flatbread",
+    "irish",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 123,
+    "fat": 42
+  },
+  "slug": "zesty-irish-chickpea-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-chickpea-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:28:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chickpea flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Zesty",
+    "dishForm": "Flatbread"
+  }
+}
