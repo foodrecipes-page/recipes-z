@@ -1,0 +1,124 @@
+{
+  "title": "Zingy Citrusy Aerated French Beef Pilaf",
+  "description": "A light and refreshing French dish featuring beef cutlet, mother-sauce-base, and a hint of citrus. Perfect for a weeknight dinner or a casual gathering.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef cutlet",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fennel fronds",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add beef cutlet and cook until browned, about 3 minutes per side. Remove from heat and set aside.",
+    "Add white wine to the saucepan and cook until reduced by half, about 2 minutes.",
+    "Add chicken broth and bring to a boil.",
+    "Add rice and cook, stirring constantly, until lightly toasted, about 2 minutes.",
+    "Add lemon juice, orange zest, egg, kosher salt, and black pepper. Cook, stirring constantly, until the mixture is smooth and creamy, about 5 minutes.",
+    "Cut the beef cutlet into thin strips and add to the saucepan. Cook for 1-2 minutes, until heated through.",
+    "Stir in Gruyere cheese and cook until melted and bubbly, about 1 minute.",
+    "Garnish with fresh parsley, fennel fronds, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "zingy-citrusy-aerated-french-beef-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-citrusy-aerated-french-beef-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "beef cutlet",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "zingy citrusy aerated",
+    "dishForm": "Pilaf"
+  }
+}
