@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Tunisian Millet Tagine",
+  "description": "A savory, spicy one-pot millet dish packed with chickpeas, tomatoes, and a zesty harissa-tahini sauce, perfect for a quick vegan dinner.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "200g"
+    },
+    {
+      "name": "Dried tomatoes, chopped",
+      "amount": "100g"
+    },
+    {
+      "name": "Canned chickpeas, drained and rinsed",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "300ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the millet under cold water until water runs clear.",
+    "Heat the coconut oil in a large pot over medium heat and add the millet, stirring until lightly toasted.",
+    "Pour in the vegetable broth and bring the mixture to a boil, then reduce to a simmer, cover, and cook for 15 minutes.",
+    "Stir in the chopped dried tomatoes, chickpeas, and a pinch of salt.",
+    "Add the harissa paste, lemon juice, and tahini, mixing well until the sauce coats the millet.",
+    "Gently fold in the fresh spinach until it wilts, about 3 minutes.",
+    "Taste and adjust seasoning with extra salt or lemon juice if desired.",
+    "Serve hot, optionally garnishing with a drizzle of extra tahini and chopped parsley."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dinner"
+  ],
+  "slug": "zesty-tunisian-millet-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tunisian-millet-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:48:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "score-fat",
+    "primaryIngredient": "millet",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "millet",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}
