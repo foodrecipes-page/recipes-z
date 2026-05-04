@@ -1012,6 +1012,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-venezuelan-candy-cake",
+    "title": "Zesty Venezuelan Candy Cake",
+    "tags": [
+      "candy-cake",
+      "dessert",
+      "easy",
+      "quick",
+      "venezuelan",
+      "zesty"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-venezuelan-cheese-crumble",
     "title": "Zesty Venezuelan Cheese Crumble",
     "tags": [
@@ -1074,6 +1089,20 @@
       "rice-noodles",
       "meal-prep",
       "zesty"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-tofu-sandwich",
+    "title": "Zesty Vietnamese Tofu Sandwich",
+    "tags": [
+      "banh-mi",
+      "comfort-food",
+      "low-glycemic",
+      "quick",
+      "vegan"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,

@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Vietnamese Tofu Sandwich",
+  "description": "A winey, aerated banh-mi style sandwich with puff pastry, steamed tofu, and zesty pickled vegetables, perfect for a cozy lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": "firm, cubed"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "cucumber",
+      "amount": "0.5 cup, sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "0.5 cup, julienned"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "0.25 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "0.25 cup, chopped"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C and bake the puff pastry sheet for 10 minutes until puffed and golden.",
+    "While the pastry bakes, marinate the tofu cubes in soy sauce, rice vinegar, honey, and sesame oil for 10 minutes.",
+    "Steam the marinated tofu in a steamer basket for 8 minutes until heated through.",
+    "In a bowl combine the cucumber, carrot, pickled daikon, cilantro, and jalapeno to create a fresh slaw.",
+    "Slice the baked puff pastry into 2 equal halves and flatten each with a rolling pin.",
+    "Spread the slaw evenly over one half of the pastry, then top with the steamed tofu cubes.",
+    "Fold the other half of the pastry over the filling, pressing gently to seal edges.",
+    "Serve the sandwich warm, optionally drizzling a little more soy sauce over top.",
+    "Serve immediately to enjoy the crisp pastry and zesty flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banh-mi",
+    "comfort-food",
+    "low-glycemic",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-vietnamese-tofu-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-tofu-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:18:13Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "puff pastry",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Zesty",
+    "dishForm": "Sandwich"
+  }
+}
