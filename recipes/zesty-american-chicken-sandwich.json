@@ -1,0 +1,112 @@
+{
+  "title": "Zesty American Chicken Sandwich",
+  "description": "A juicy grilled chicken breast topped with a sweet and spicy glaze, served on a pillowy ciabatta roll for a satisfying low‑carb lunch.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "½ teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "½ teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ciabatta roll",
+      "amount": "1 large roll",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a tava griddle to medium heat.",
+    "Pat the chicken breasts dry and rub them with olive oil, paprika, garlic powder, cayenne pepper, salt, and black pepper.",
+    "Place the seasoned chicken on the hot griddle and cook for 5 minutes on each side or until the internal temperature reaches 165°F.",
+    "While the chicken rests, whisk together Dijon mustard, honey, and lemon juice until smooth.",
+    "Slice the ciabatta roll horizontally and lightly toast the cut sides on the griddle.",
+    "Brush the glaze over both sides of the cooked chicken to coat evenly.",
+    "Place the glazed chicken on the toasted roll, then top with shredded lettuce and sliced tomato.",
+    "Serve immediately while warm, enjoying the zesty flavors and pillowy texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "comfort-food",
+    "grilled",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 38,
+    "carbs": 45,
+    "fat": 32
+  },
+  "slug": "zesty-american-chicken-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-chicken-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:57:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "ciabatta",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Sandwich"
+  }
+}

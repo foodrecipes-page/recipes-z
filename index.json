@@ -96,6 +96,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-chicken-sandwich",
+    "title": "Zesty American Chicken Sandwich",
+    "tags": [
+      "american",
+      "comfort-food",
+      "grilled",
+      "low-carb",
+      "quick"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-corn-salad",
     "title": "Zesty American Corn Salad",
     "tags": [
