@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Pillowy Algerian Beans Casserole",
+  "description": "A savory, fluffy casserole of refried garbanzo beans, feta, mozzarella, and sweet potato fritters, baked on a salt block for a salty finish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "refried garbanzo beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "black olives",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sweet potato sticks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a salt block to 400°F.",
+    "Heat olive oil in a pan over medium heat and sauté garlic and diced onion until translucent.",
+    "Add cumin, smoked paprika, and cayenne pepper to the pan and cook for 1 minute until fragrant.",
+    "Stir in the refried garbanzo beans, season with salt and pepper, and heat through.",
+    "Deep fry the sweet potato sticks in a separate pan or fryer at 375°F until golden and crisp, then drain on paper towels.",
+    "Carefully transfer the bean mixture onto the hot salt block, spreading it evenly.",
+    "Top the bean layer with crumbled feta, shredded mozzarella, halved cherry tomatoes, and sliced black olives.",
+    "Bake the casserole in a preheated oven at 375°F for 15 minutes, or until the cheeses melt and edges brown lightly.",
+    "Remove from the oven, let it rest on the salt block for 5 minutes to absorb flavor, then slice into portions.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agemono-deep-fry",
+    "lacto-vegetarian",
+    "pillowy",
+    "quick-assembly",
+    "salt-block",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 18,
+    "carbs": 33,
+    "fat": 28
+  },
+  "slug": "zesty-pillowy-algerian-beans-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pillowy-algerian-beans-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:57:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "refried beans",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beans",
+    "descriptor": "Zesty Pillowy",
+    "dishForm": "Casserole"
+  }
+}
