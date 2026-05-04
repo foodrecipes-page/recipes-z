@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Saudi Arabian Fish Skewers",
+  "description": "A kid-friendly Saudi Arabian dish featuring fermented branston pickle and juicy fish, served on a tagliere",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "branston pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup",
+      "notes": "from a jar of pickles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper",
+    "Add the chopped branston pickle and pickle juice to the bowl and stir to combine",
+    "Add the fish cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated fish cubes onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through",
+    "Serve the skewers on a tagliere, garnished with additional chopped branston pickle if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "grilled",
+    "middle-eastern",
+    "pescatarian",
+    "quick",
+    "tagliere"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-saudi-arabian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-arabian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:59:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "branston-pickle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "zesty juicy",
+    "dishForm": "Skewers"
+  }
+}

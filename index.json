@@ -2072,6 +2072,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-saudi-arabian-fish-skewers",
+    "title": "Zesty Saudi Arabian Fish Skewers",
+    "tags": [
+      "fish",
+      "grilled",
+      "middle-eastern",
+      "pescatarian",
+      "quick",
+      "tagliere"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-saudi-arabian-lamb-kebabs",
     "title": "Zesty Saudi Arabian Lamb Kebabs",
     "tags": [
