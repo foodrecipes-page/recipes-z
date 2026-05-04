@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Silky Turkish Flour Kebabs",
+  "description": "Sweet, silky flat‑bread kebabs made with plain flour, citrus zest, and grilled on a robata grill for a light Turkish dessert.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plain flour",
+      "amount": "200g"
+    },
+    {
+      "name": "White sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tsp",
+      "notes": "use fresh orange"
+    },
+    {
+      "name": "Milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30g",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, vanilla, orange zest, and salt.",
+    "Add milk, melted butter, and lemon juice; stir until a soft dough forms.",
+    "Turn the dough onto a floured surface and knead for 2 minutes until smooth.",
+    "Roll the dough into a rectangle about 1cm thick.",
+    "Preheat the robata grill to 200°C and oil the grill grate lightly.",
+    "Place the rolled dough on the grill, cooking for 4 minutes per side until golden brown and cooked through.",
+    "Transfer the cooked dough to a cutting board and slice into kebab‑sized pieces.",
+    "Serve warm with a drizzle of honey if desired and a sprinkle of powdered sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "kebab-doner",
+    "robata-grill",
+    "sweet",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 8
+  },
+  "slug": "zesty-silky-turkish-flour-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-turkish-flour-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:44:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "plain flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Flour",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Kebabs"
+  }
+}
