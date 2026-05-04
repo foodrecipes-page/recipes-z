@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Glassy Venezuelan Chicken Skewers",
+  "description": "A low sodium Venezuelan dish featuring makrut lime leaves and tandoor style chicken, served with a glassy jelly sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt free seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a blender, combine makrut lime leaves, lime juice, olive oil, garlic, ginger, tandoor spice mix, and salt free seasoning, and blend until smooth.",
+    "Place the chicken pieces in a large bowl and pour the marinade over them, tossing to coat.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Place the skewers in the tandoor or oven and cook for 20 minutes, turning occasionally.",
+    "While the chicken is cooking, combine 1 cup of water and 1 tablespoon of unflavored gelatin in a small saucepan and bring to a boil.",
+    "Reduce the heat and simmer for 5 minutes, then remove from heat and let cool.",
+    "Once the chicken is cooked, brush the glassy jelly sauce over the top of each skewer.",
+    "Serve the chicken skewers hot, garnished with additional makrut lime leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-skewers",
+    "gluten-free",
+    "low-sodium",
+    "meal-prep",
+    "tandoor-style",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zesty-glassy-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glassy-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:52:08Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Glassy",
+    "dishForm": "Skewers"
+  }
+}
