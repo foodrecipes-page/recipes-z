@@ -125,6 +125,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-chicken-wrap",
+    "title": "Zesty American Chicken Wrap",
+    "tags": [
+      "american",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "no-sugar",
+      "quick",
+      "zesty"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 24,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-corn-salad",
     "title": "Zesty American Corn Salad",
     "tags": [

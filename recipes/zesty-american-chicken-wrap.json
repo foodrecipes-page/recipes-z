@@ -1,0 +1,100 @@
+{
+  "title": "Zesty American Chicken Wrap",
+  "description": "Savory, smoky chicken wrapped in a citrus‑stevia glaze with coconut flakes for a quick, sugar‑free lunch.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skinless boneless chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 cube",
+      "notes": "heat for 2 minutes"
+    },
+    {
+      "name": "Unsweetened coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Stevia powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Large 10\" tortilla (gluten‑free optional)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, pepper, garlic powder, soy sauce, lime zest, lime juice, and stevia for 5 minutes.",
+    "Heat a grill pan over medium‑high, place the heated binchotan charcoal cube in the center for 30 seconds, then remove it to infuse smoke.",
+    "Add the chicken to the pan and cook 6‑7 minutes per side until the internal temperature reaches 165°F.",
+    "In a small bowl, combine soy sauce, lime juice, stevia, and coconut flakes to make a glassy citrus glaze.",
+    "Brush half of the glaze over the chicken and let it caramelize for 1 minute, then flip and brush the remaining glaze.",
+    "Slice the cooked chicken into thin strips.",
+    "Warm the tortilla in the same pan for 30 seconds on each side.",
+    "Spread the remaining glaze on the tortilla, lay chicken strips, and sprinkle coconut flakes evenly.",
+    "Fold the sides and roll the tortilla into a tight wrap.",
+    "Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "no-sugar",
+    "quick",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 74,
+    "carbs": 43,
+    "fat": 43
+  },
+  "slug": "zesty-american-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:23:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "coconut flakes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}
