@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Malaysian Tofu Noodles",
+  "description": "A flavorful and aromatic Malaysian dish featuring crispy tofu, noodles, and a tangy sauce, made in a wok and perfect for a weeknight dinner. This recipe is Buddhist-temple-friendly and can be adjusted to suit various tastes.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over medium-high heat and add the tofu, cooking until golden brown on all sides.",
+    "Remove the tofu from the wok and set aside, leaving the oil behind.",
+    "Add the garlic and ginger to the wok and stir-fry for 1 minute, until fragrant.",
+    "Add the mustard, soy sauce, and brown sugar to the wok, stirring to combine and deglaze the bottom.",
+    "Add the cooked noodles to the wok, stirring to combine with the sauce.",
+    "Return the tofu to the wok and stir to combine with the noodles and sauce.",
+    "Add the parsley and water to the wok, stirring to combine and create a gooey sauce.",
+    "Cook for an additional 2 minutes, until the sauce has thickened and the noodles are well coated.",
+    "Serve the noodles hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-malaysian-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:51:00Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "parsley",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Noodles"
+  }
+}

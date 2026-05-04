@@ -1607,6 +1607,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-malaysian-tofu-noodles",
+    "title": "Zesty Malaysian Tofu Noodles",
+    "tags": [
+      "high-protein",
+      "malaysian-cuisine",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mediterranean-lentils-tagine",
     "title": "Zesty Mediterranean Lentils Tagine",
     "tags": [
