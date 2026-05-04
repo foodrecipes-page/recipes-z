@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Garlicky Saudi Arabian Lamb Pilaf",
+  "description": "A flavorful and aromatic one-pot dish featuring lamb, garlic, and frozen peas, cooked to perfection on a tava griddle. This gluten-free friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil on the tava griddle over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the basmati rice and stir to combine with the lamb and spices.",
+    "Add the frozen peas and stir to combine.",
+    "Roll out the laminated puff pastry to a large sheet and place on top of the rice mixture.",
+    "Cook for 10 minutes until the pastry is golden brown and the rice is cooked.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-garlicky-saudi-arabian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-saudi-arabian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:28:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "frozen peas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Pilaf"
+  }
+}
