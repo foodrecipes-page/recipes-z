@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Crunchy American Bean Casserole",
+  "description": "Earthy, zesty bean casserole with a crunchy breadcrumb topping, perfect for a quick hangover cure.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spice mix",
+      "amount": "1 tsp",
+      "notes": "ground cumin, smoked paprika, fenugreek seeds, dried red chili flakes"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": "kosher"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "kosher, shredded"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "kosher"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 F (190 C).",
+    "Rinse the soaked beans, place them in a pot with 3 cups water, bring to a boil, simmer 45 minutes until tender, then drain and set aside.",
+    "In a skillet, heat olive oil over medium heat, add diced onion and sauté until translucent.",
+    "Add minced garlic and cook for 1 minute, then stir in the spice mix and cook for another minute to toast the spices.",
+    "Pour in vegetable broth, bring to a simmer, then stir in the cooked beans, cilantro, and lime juice; season with salt and pepper.",
+    "Transfer the bean mixture into individual mini cocottes, top each with shredded cheese and panko breadcrumbs.",
+    "Dot the top with 1 teaspoon butter each and bake for 15 minutes until the cheese melts and the crumbs turn golden.",
+    "After removing from oven, let the casseroles cool for 5 minutes, then serve warm with a sprinkle of fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-beans",
+    "crunchy",
+    "hangover-cure",
+    "individual-cocotte",
+    "kosher-friendly",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 13
+  },
+  "slug": "zesty-crunchy-american-bean-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-american-bean-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:12:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "fenugreek",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Bean",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Casserole"
+  }
+}
