@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Indulgent Malaysian Dates Curry",
+  "description": "A resinous, aerated curry bursting with sweet medjool dates and aromatic spices. It is both indulgent and Whole30-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse and pit the dates, then chop into small pieces.",
+    "Dice onion, carrot, and celery into bite-size cubes.",
+    "Heat coconut oil in a pot over medium heat until hot.",
+    "Add diced onion, carrot, and celery to the pot and sauté for 5 minutes until softened.",
+    "Stir in minced garlic, ginger, turmeric, and cumin, cooking for another 1 minute until fragrant.",
+    "Pour in coconut milk and fish sauce, bring to a gentle simmer.",
+    "Add the chopped dates and lime juice, then simmer for 15 minutes, stirring occasionally.",
+    "Taste and season with salt if needed.",
+    "Remove from heat and let the curry cool slightly.",
+    "Serve hot over a bed of steamed rice or enjoy on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "indulgent",
+    "malaysian",
+    "quick",
+    "spicy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 3,
+    "carbs": 48,
+    "fat": 24
+  },
+  "slug": "zesty-indulgent-malaysian-dates-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-malaysian-dates-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:09:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "medjool dates",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dates",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Curry"
+  }
+}
