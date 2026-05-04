@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Grassy Mexican Rice Pozole",
+  "description": "A fluffy, cozy pozole packed with smoky ancho, fresh herbs, and a surprising grape nut cereal crunch, all cooked on a comal for a nut‑free, plant‑friendly twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried hominy kernels",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried ancho chili pepper",
+      "amount": "1 tablespoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grape nut cereal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro and parsley mix",
+      "amount": "1 cup",
+      "notes": "1/2 cup each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a comal over medium heat and sauté the diced onion until translucent, about 4 minutes.",
+    "Add the minced garlic and crushed ancho chili pepper, cooking for another 2 minutes until fragrant.",
+    "Pour in the chicken broth and bring the mixture to a gentle boil.",
+    "Stir in the soaked hominy kernels and reduce the heat to low, simmering uncovered for 30 minutes until the hominy is tender and the broth has thickened slightly.",
+    "During the last 5 minutes of simmering, season the pozole with cumin, salt, and lime juice, tasting to adjust flavor.",
+    "When the hominy is cooked, remove the pot from heat and stir in the chopped cilantro and parsley mix.",
+    "Transfer the pozole to a serving dish, spooning a generous portion of the fluffy rice into the center.",
+    "Sprinkle the grape nut cereal over the top for a crunchy, nut‑free finish.",
+    "Serve hot, optionally accompanied by sliced radishes, diced avocado, and extra lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "low-sodium",
+    "mexican",
+    "nut-free",
+    "one-pot",
+    "quick",
+    "veg-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "zesty-grassy-mexican-rice-pozole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grassy-mexican-rice-pozole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:49:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "nut-free",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Pozole"
+  }
+}

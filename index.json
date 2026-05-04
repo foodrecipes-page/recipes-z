@@ -2249,6 +2249,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-grassy-mexican-rice-pozole",
+    "title": "Zesty Grassy Mexican Rice Pozole",
+    "tags": [
+      "cozy",
+      "low-sodium",
+      "mexican",
+      "nut-free",
+      "one-pot",
+      "quick",
+      "veg-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-greek-chicken-wrap",
     "title": "Zesty Greek Chicken Wrap",
     "tags": [
