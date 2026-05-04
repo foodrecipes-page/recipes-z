@@ -1,0 +1,100 @@
+{
+  "title": "Zesty American Corn Arepa Gratin",
+  "description": "A zesty, bouncy corn arepa gratin that melts mozzarella inside a crispy corn crust, served from a fondue pot for a fun communal twist.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375F and set fondue pot over low heat for steady warmth.",
+    "Whisk corn flour, water, 1 tsp salt, and 1 tsp sugar until smooth; let rest 5 minutes.",
+    "Press dough into a 9x9 inch pan lined inside fondue pot, forming a crust about 1/2 inch thick; bake for 10 minutes until firm.",
+    "Sprinkle mozzarella evenly over crust, then drizzle olive oil and sprinkle chili flakes, oregano, paprika, and pepper.",
+    "Return pot to oven and bake another 15 minutes until cheese melts and edges turn golden.",
+    "Remove from oven and let cool for 5 minutes before serving.",
+    "Serve directly from fondue pot, slicing into squares with a wooden spoon for a communal presentation.",
+    "Garnish with fresh cilantro or a squeeze of lime for extra zest.",
+    "Enjoy warm as a hearty lunch or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "corn-dish",
+    "egg-free",
+    "gratin",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1460,
+    "protein": 48,
+    "carbs": 154,
+    "fat": 66
+  },
+  "slug": "zesty-american-corn-arepa-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-corn-arepa-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:05:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn arepa",
+    "descriptor": "Zesty",
+    "dishForm": "Gratin"
+  }
+}

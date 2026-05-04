@@ -186,6 +186,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-corn-arepa-gratin",
+    "title": "Zesty American Corn Arepa Gratin",
+    "tags": [
+      "american",
+      "corn-dish",
+      "egg-free",
+      "gratin",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-corn-salad",
     "title": "Zesty American Corn Salad",
     "tags": [
