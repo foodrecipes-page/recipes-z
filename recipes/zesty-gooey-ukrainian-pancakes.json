@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Gooey Ukrainian Pancakes",
+  "description": "A solo dinner dish featuring rice flour pancakes with a funky and gooey twist, made with sauteed ingredients and no added sugar, perfect for a solo dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably finely milled"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon",
+      "notes": "freshly dried"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "no added salt"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine grain"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, eggs, milk, and melted butter until smooth and free of lumps.",
+    "Heat a non-stick pan over medium heat and add a small amount of oil to the pan.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan and cook for 2-3 minutes or until the bottom is golden brown.",
+    "Loosen the pancake with a spatula and flip it over, cooking for an additional 1-2 minutes or until the other side is lightly browned.",
+    "In a separate pan, saute the sliced green onions and dried dill in a small amount of oil until softened.",
+    "Add the crumbled feta cheese to the pan and stir until well combined with the green onion mixture.",
+    "To assemble the dish, place a cooked pancake on a plate and top with a spoonful of the sauteed green onion and feta cheese mixture.",
+    "Drizzle the top of the pancake with a dollop of sour cream and sprinkle with garlic powder and salt.",
+    "Serve immediately and enjoy.",
+    "Repeat the process with the remaining batter and filling ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "sugar-free",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "zesty-gooey-ukrainian-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-ukrainian-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:42:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pancakes",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Pancakes"
+  }
+}
