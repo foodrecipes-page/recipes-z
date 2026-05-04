@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Shattering Argentinian Beef Skewers",
+  "description": "A tangy and flavorful Argentinian dish featuring passata and shio-koji-cure, perfect for a monsoon evening, this recipe is gluten-free-friendly and sure to delight your taste buds with its shattering texture and bold flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "passata",
+      "amount": "200g"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "20g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 200 degrees Celsius.",
+    "In a large bowl, whisk together passata, shio-koji, olive oil, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the beef strips to the bowl and mix until they are well coated with the marinade.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the beef is cooked to your desired level of doneness.",
+    "Remove the skewers from the grill and sprinkle with parsley and lemon juice.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Slice the skewers into bite-sized pieces and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "gluten-free",
+    "grilled-meat",
+    "high-protein",
+    "monsoon-recipes",
+    "shio-koji-recipes",
+    "zesty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-shattering-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-shattering-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:29:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "passata",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Shattering",
+    "dishForm": "Skewers"
+  }
+}
