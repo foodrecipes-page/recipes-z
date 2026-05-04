@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Mediterranean Pita Sandwich",
+  "description": "A buttery, crumbly sandwich packed with zesty Mediterranean flavors, perfect for a soothing sick-day meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mini whole wheat pita breads",
+      "amount": "4",
+      "notes": "baked until lightly crisp"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tahini yogurt sauce",
+      "amount": "1/2 cup",
+      "notes": "mix yogurt, tahini, lemon juice, garlic, salt"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté and drizzle"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F and bake the pita breads until lightly crisp, about 8 minutes.",
+    "In a bowl, combine chickpeas, red bell pepper, cucumber, parsley, ground cumin, smoked paprika, and half the salt, stirring until evenly mixed.",
+    "Prepare the tahini yogurt sauce by whisking together Greek yogurt, tahini, lemon juice, minced garlic, and the remaining salt until smooth.",
+    "Warm the pita breads in the oven for an additional 2 minutes to keep them soft inside.",
+    "Spread a generous layer of tahini yogurt sauce onto each pita bread.",
+    "Spoon the chickpea mixture evenly over the sauce on each pita.",
+    "Sprinkle crumbled feta cheese and optional crushed red pepper flakes over the chickpeas.",
+    "Drizzle a tablespoon of olive oil across the assembled sandwiches.",
+    "Fold the pita halves into a sandwich shape and transfer them to individual mini cocottes for served immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "mediterranean",
+    "quick",
+    "sick-day",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "zesty-mediterranean-pita-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mediterranean-pita-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:21:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "buns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Pita",
+    "descriptor": "Zesty",
+    "dishForm": "Sandwich"
+  }
+}

@@ -2096,6 +2096,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mediterranean-pita-sandwich",
+    "title": "Zesty Mediterranean Pita Sandwich",
+    "tags": [
+      "comfort-food",
+      "easy",
+      "mediterranean",
+      "quick",
+      "sick-day",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [
