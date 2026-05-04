@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Crispy Malaysian Broccoli Skillet",
+  "description": "A malty, crispy, and cozy Malaysian dish featuring purple-sprouting-broccoli, this recipe is perfect for a weeknight dinner. It is halal-friendly and cooked to perfection in a cazuela.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple-sprouting-broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "malay curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large cazuela over medium-high heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the broccoli and cook until it is tender and slightly browned.",
+    "Add the curry powder, salt, and pepper, and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Stir in the malt vinegar.",
+    "Transfer the cazuela to the broiler and cook until the top is crispy and golden brown.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broccoli",
+    "crispy",
+    "high-fiber",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-crispy-malaysian-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-malaysian-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:25:10Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skillet"
+  }
+}
