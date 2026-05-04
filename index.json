@@ -2159,6 +2159,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-greek-fregola-salad",
+    "title": "Zesty Greek Fregola Salad",
+    "tags": [
+      "double-fry",
+      "fregola",
+      "greek-salad",
+      "ovo-vegetarian",
+      "peppery",
+      "zesty"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-greek-lentil-baklava",
     "title": "Zesty Greek Lentil Baklava",
     "tags": [

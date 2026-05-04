@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Greek Fregola Salad",
+  "description": "A peppery and energizing Greek salad featuring tender fregola, double-fried red pepper, and fresh eggs for a zesty, ovo-vegetarian bite.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "200g"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced and double-fried until crisp"
+    },
+    {
+      "name": "hard-boiled eggs",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook fregola in salted boiling water until al dente, then drain and rinse with cold water to stop cooking.",
+    "Heat 1/4 cup oil in a skillet over medium-high heat; fry sliced red bell pepper until crisp, then remove and let cool.",
+    "In a large bowl, combine romaine, cucumber, tomatoes, red onion, and cooled bell pepper.",
+    "Add the drained fregola to the vegetable mixture and toss gently.",
+    "Whisk together lemon juice, 2 tbsp olive oil, oregano, and red pepper flakes; pour over the salad and toss again.",
+    "Arrange sliced hard-boiled eggs on top of the salad.",
+    "Sprinkle crumbled feta evenly over the eggs.",
+    "Drizzle remaining olive oil over the entire dish.",
+    "If desired, garnish with fresh oregano leaves.",
+    "Serve immediately at room temperature or slightly chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "fregola",
+    "greek-salad",
+    "ovo-vegetarian",
+    "peppery",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-greek-fregola-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-greek-fregola-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:43:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "fregola",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fregola",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}
