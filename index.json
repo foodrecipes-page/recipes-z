@@ -66,6 +66,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-algerian-beef-cutlet-tagine",
+    "title": "Zesty Algerian Beef Cutlet Tagine",
+    "tags": [
+      "beef",
+      "clay-cooking",
+      "dinner-ideas",
+      "flexitarian",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-algerian-pineapple-tagine",
     "title": "Zesty Algerian Pineapple Tagine",
     "tags": [
