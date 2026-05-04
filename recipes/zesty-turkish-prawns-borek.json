@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Turkish Prawns Borek",
+  "description": "A zesty Turkish prawn borek that marries succulent prawns with flaky phyllo and a bright lemon‑garlic sauce, perfect for a low‑sodium date‑night dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns, thawed",
+      "amount": "400g"
+    },
+    {
+      "name": "whole wheat phyllo sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Thaw the prawns in the refrigerator for 8–10 hours or under cold running water for 20 minutes.",
+    "Pat the prawns dry with paper towels and season lightly with pepper.",
+    "In a small bowl mix the olive oil, minced garlic, dill, lemon zest, lemon juice, and soy sauce.",
+    "Fold the seasoned prawns in the mixture until well coated and refrigerate for 15 minutes.",
+    "Preheat the Robata grill to high heat, about 200°C.",
+    "Cut each phyllo sheet in half lengthwise to create long strips.",
+    "Place a handful of coated prawns on a strip, roll the phyllo around the prawns, and seal the edge with a dab of butter.",
+    "Arrange the rolls on the grill, close the lid, and cook for 3–4 minutes per side until golden and prawns reach 62°C internal temperature.",
+    "Brush the finished borek with remaining butter and garnish with extra dill if desired.",
+    "Serve hot as a flavorful, low-sodium dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "borek",
+    "date-night",
+    "easy-to-assemble",
+    "low-sodium",
+    "robata-grill",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 916,
+    "protein": 99,
+    "carbs": 36,
+    "fat": 46
+  },
+  "slug": "zesty-turkish-prawns-borek",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-turkish-prawns-borek",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:30:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "robata-grill",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Prawns",
+    "descriptor": "Zesty",
+    "dishForm": "Borek"
+  }
+}

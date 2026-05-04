@@ -396,6 +396,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brazilian-dried-cherry-ceviche",
+    "title": "Zesty Brazilian Dried Cherry Ceviche",
+    "tags": [
+      "brazilian",
+      "dessert-salad",
+      "flambe",
+      "low-fat",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 21,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-briny-ethiopian-chicken-dulet",
     "title": "Zesty Briny Ethiopian Chicken Dulet",
     "tags": [
@@ -2983,6 +2997,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-turkish-prawns-borek",
+    "title": "Zesty Turkish Prawns Borek",
+    "tags": [
+      "borek",
+      "date-night",
+      "easy-to-assemble",
+      "low-sodium",
+      "robata-grill",
+      "seafood"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

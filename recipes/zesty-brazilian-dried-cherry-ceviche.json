@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Brazilian Dried Cherry Ceviche",
+  "description": "A bright, low‑fat ceviche that showcases dried cherries, a splash of cachaça flambe, and a silky Greek yogurt finish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried cherries (pitted)",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "120 ml"
+    },
+    {
+      "name": "cachaça",
+      "amount": "12 ml"
+    },
+    {
+      "name": "shallot, finely chopped",
+      "amount": "15 g"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 g"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "15 g"
+    },
+    {
+      "name": "cold water",
+      "amount": "15 ml",
+      "notes": "for cherry soaking"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried cherries under cold running water and drain.",
+    "Soak the cherries in 15 ml of cold water for 5 minutes to soften, then drain again.",
+    "In a bowl whisk lime juice, cachaça, shallot, cilantro, salt, pepper, and Greek yogurt until smooth.",
+    "Fold in the softened cherries and stir gently to coat.",
+    "Cover the bowl and refrigerate for 15 minutes to meld flavors.",
+    "Heat a small skillet over medium heat and pour 12 ml of cachaça; ignite and let flare for 20 seconds.",
+    "Carefully pour the chilled ceviche into the skillet, letting the heat slightly caramelize the surface.",
+    "Stir the mixture quickly for 1 minute, then remove from heat and allow to cool to room temperature.",
+    "Transfer the ceviche to chilled glasses, garnish with a sprig of cilantro and a few microgreens.",
+    "Serve immediately as a zesty, silky snack or light lunch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 1,
+  "totalTimeMin": 21,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dessert-salad",
+    "flambe",
+    "low-fat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 1
+  },
+  "slug": "zesty-brazilian-dried-cherry-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-dried-cherry-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:29:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "dried cherries",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cherries",
+    "descriptor": "Zesty",
+    "dishForm": "Ceviche"
+  }
+}
