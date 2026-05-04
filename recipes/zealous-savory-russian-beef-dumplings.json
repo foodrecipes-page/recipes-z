@@ -1,0 +1,108 @@
+{
+  "title": "Zealous Savory Russian Beef Dumplings",
+  "description": "Savory Russian dumplings filled with beef and cheese, steamed to perfection in leaf wraps, featuring a hint of unsweetened cocoa for a unique flavor experience, perfect for a date night",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Unsweetened Cocoa Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Farmers Cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Napa Cabbage Leaves",
+      "amount": "12 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, unsweetened cocoa powder, farmers cheese, onion, garlic, egg, salt, and black pepper in a large bowl and mix until just combined.",
+    "Gradually add the flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the beef mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and reduce the heat to a simmer.",
+    "Place a steamer basket over the pot and add the dumplings to the basket, leaving space between each dumpling.",
+    "Cover the pot with a lid and steam the dumplings for 15 minutes.",
+    "Wrap each dumpling in a napa cabbage leaf and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "date-night",
+    "dumplings",
+    "kosher-friendly",
+    "russian-cuisine",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zealous-savory-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zealous-savory-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:07:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Zealous Savory",
+    "dishForm": "Dumplings"
+  }
+}
