@@ -1,0 +1,127 @@
+{
+  "title": "Zesty Roasted Punjabi Lamb Curry",
+  "description": "A delicious and flavorful Indian-inspired curry made with roasted lamb, featuring a cheesy pull and a twist of hoisin sauce. Perfect for a lazy Sunday dinner.",
+  "cuisine": "Punjabi",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5",
+      "notes": "About 1.5 pounds or 680g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For roasting the lamb"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic and make paste"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "For a sweet and savory flavor"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "For marinating the lamb"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste for heat level"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "For a warm and earthy flavor"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "For a citrusy and slightly sweet flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "For an aromatic and slightly sweet flavor"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "For a melty and creamy texture"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": "For garnish and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a small bowl, mix together the ginger paste, garlic paste, hoisin sauce, yogurt, red chili powder, cumin powder, coriander powder, salt, and garam masala.",
+    "Rub the marinade all over the lamb shoulder, making sure it's evenly coated.",
+    "Place the lamb shoulder in a large Dutch oven or oven-safe pot and cover it with a lid.",
+    "Roast the lamb in the preheated oven for 20 minutes.",
+    "While the lamb is roasting, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb shoulder to the skillet and sear it for 2-3 minutes on each side.",
+    "Transfer the skillet to the oven and roast the lamb for an additional 20-25 minutes, or until it's tender and falls apart easily.",
+    "While the lamb is cooking, heat the mozzarella cheese in the microwave for 10-15 seconds, or until it's melted and stretchy.",
+    "To assemble the curry, place a portion of the roasted lamb on a hot stone plate, followed by a spoonful of the melted mozzarella cheese.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy-pull",
+    "indian-inspired",
+    "lamb-recipe",
+    "lazy-sunday",
+    "one-pan",
+    "punjabi-curry",
+    "raw-friendly",
+    "roasted-lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "zesty-roasted-punjabi-lamb-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-punjabi-lamb-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:29:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "raw",
+    "region": "punjabi",
+    "cuisineAdjective": "Punjabi",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Curry"
+  }
+}
