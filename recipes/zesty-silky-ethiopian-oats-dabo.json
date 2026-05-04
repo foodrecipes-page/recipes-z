@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Silky Ethiopian Oats Dabo",
+  "description": "A citrusy and nostalgic Ethiopian dish featuring oat milk and long-fermentation-dough, made gluten-free-friendly in the traditional dabo form.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "teff flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, yeast, salt, and sugar.",
+    "Gradually add oat milk to the dry ingredients and mix until a smooth batter forms.",
+    "Knead the batter for 10 minutes until it becomes elastic and sticky.",
+    "Place the batter in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 24 hours.",
+    "Preheat a non-stick skillet or dabo pan over medium heat.",
+    "Add olive oil to the pan and swirl it around to coat the bottom.",
+    "Pour the fermented batter into the pan and cook for 5 minutes or until the bottom is golden brown.",
+    "Loosen the edges of the dabo with a spatula and flip it over.",
+    "Cook for an additional 5 minutes or until the other side is also golden brown.",
+    "Remove the dabo from the pan and brush it with lemon juice and sprinkle with orange zest."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "dabo",
+    "ethiopian",
+    "gluten-free",
+    "long-fermentation",
+    "oat-milk",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-silky-ethiopian-oats-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-ethiopian-oats-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:35:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "oat milk",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "oats",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Dabo"
+  }
+}
