@@ -1243,6 +1243,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-indian-paneer-curry",
+    "title": "Zesty Indian Paneer Curry",
+    "tags": [
+      "comfort-food",
+      "indian-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-currant-fritters",
     "title": "Zesty Irish Currant Fritters",
     "tags": [

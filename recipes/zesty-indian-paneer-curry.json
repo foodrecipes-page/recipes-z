@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Indian Paneer Curry",
+  "description": "A tangy and flavorful Indian dish featuring paneer in a rich and creamy curry sauce, perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat and fry the paneer cubes until golden brown.",
+    "Remove the paneer from the pan and set aside.",
+    "In the same pan, add more oil if necessary and saute the chopped onion until translucent.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Stir in the curry powder and garam masala and cook for 1 minute.",
+    "Add the tomato puree and dark brown soft sugar, and cook for 2-3 minutes or until the sauce thickens.",
+    "Add the fried paneer cubes back into the pan and stir to coat with the curry sauce.",
+    "Reduce heat to low and stir in the yogurt.",
+    "Simmer the curry for 5 minutes or until the sauce has thickened to your liking.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-indian-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indian-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:28:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}
