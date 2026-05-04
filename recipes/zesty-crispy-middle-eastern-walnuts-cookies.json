@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Crispy Middle Eastern Walnut Cookies",
+  "description": "Nutty, crispy cookies bursting with Middle Eastern flavors, perfect for a quick snack that is anti-inflammatory friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "50g"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "120g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "80g"
+    },
+    {
+      "name": "molasses",
+      "amount": "60g"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "walnuts, toasted",
+      "amount": "200g",
+      "notes": "toasted until fragrant"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and line a baking sheet with parchment paper.",
+    "Whisk whole wheat flour, almond flour, cumin, coriander and salt in a bowl until combined.",
+    "In a separate bowl, beat butter and brown sugar until light and fluffy.",
+    "Add egg to the butter mixture and mix until smooth.",
+    "Stir in molasses and then fold in the dry flour mixture until just combined.",
+    "Fold in toasted walnuts, ensuring even distribution.",
+    "Drop tablespoon-sized dough onto prepared baking sheet, spacing 3 inches apart.",
+    "Bake for 12 minutes or until edges are golden and cookies are firm.",
+    "Let cookies cool on sheet for 5 minutes, then transfer to a rack to cool completely.",
+    "Serve warm or at room temperature as a crunchy snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 24,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "crispy",
+    "gluten-free",
+    "middle-eastern",
+    "nutty",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "zesty-crispy-middle-eastern-walnuts-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-middle-eastern-walnuts-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:03:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "walnuts",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Walnuts",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Cookies"
+  }
+}

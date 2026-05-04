@@ -1066,6 +1066,36 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-middle-eastern-walnuts-cookies",
+    "title": "Zesty Crispy Middle Eastern Walnut Cookies",
+    "tags": [
+      "anti-inflammatory",
+      "crispy",
+      "gluten-free",
+      "middle-eastern",
+      "nutty",
+      "quick-snack"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-slovakian-crustaceans-empanadas",
+    "title": "Zesty Crispy Slovakian Crustaceans Empanadas",
+    "tags": [
+      "crispy",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-spanish-renkon-lotus-root-paella-valenciana",
     "title": "Zesty Crispy Spanish Renkon Lotus Root Paella Valenciana",
     "tags": [

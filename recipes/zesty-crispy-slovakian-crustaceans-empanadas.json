@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Crispy Slovakian Crustaceans Empanadas",
+  "description": "A citrusy, crispy Slovakian dish featuring crustaceans, wrapped in pandan leaves, perfect for a sick day, this sugar-free-friendly empanada is a unique twist on traditional cuisine. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and onion to the skillet and cook until the onion is translucent.",
+    "Add the shrimp to the skillet and cook until they are pink and fully cooked.",
+    "In a large bowl, whisk together the almond flour, salt, and black pepper.",
+    "Add the cooked shrimp mixture to the bowl and stir until everything is well combined.",
+    "Lay a pandan leaf flat on a work surface and place a tablespoon of the shrimp mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle and press the edges together to seal the empanada.",
+    "Repeat with the remaining ingredients.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with lemon juice.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until they are crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-crispy-slovakian-crustaceans-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-slovakian-crustaceans-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:03:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "en-croute",
+    "primaryIngredient": "crustaceans",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Empanadas"
+  }
+}
