@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Fluffy Korean Semolina Kalguksu",
+  "description": "A malty and fluffy Korean dish from the Gyeongsang region, featuring semolina flour and a flexitarian-friendly recipe, this kalguksu is a crowd-pleaser. It is cooked with binchotan-charcoal for a unique flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine semolina flour, salt, and binchotan-charcoal powder, then gradually add in water to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a long rope.",
+    "Cut the rope into small pieces to form the kalguksu noodles.",
+    "In a large pot, bring a pot of water to a boil and cook the kalguksu noodles for 5 minutes, or until they float to the surface.",
+    "In a large skillet, heat sesame oil over medium heat and saute the diced zucchini, sliced mushrooms, and minced garlic until the vegetables are tender.",
+    "Add the cooked kalguksu noodles to the skillet and stir in soy sauce.",
+    "Season with salt to taste, then garnish with chopped green onions.",
+    "Serve the zesty fluffy Korean semolina kalguksu hot, straight from the skillet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "homemade-noodles",
+    "korean-food",
+    "noodle-dish",
+    "one-pot-meal",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-fluffy-korean-semolina-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-korean-semolina-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:46:19Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "semolina flour",
+    "diet": "flexitarian",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "semolina",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Kalguksu"
+  }
+}
