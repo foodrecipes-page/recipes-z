@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Smoke Hot Korean Baked Beans Patbingsu",
+  "description": "A sweet and silky Korean dish featuring baked beans in a smoky and spicy patbingsu form, perfect for a comforting meal. This plant-based friendly recipe combines the flavors of Korea with the comfort of baked beans.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned baked beans",
+      "amount": "1 15oz can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mochi",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "fruit",
+      "amount": "1 cup",
+      "notes": "such as strawberries, blueberries, or bananas"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the gochujang, soy sauce, brown sugar, and smoked paprika.",
+    "Add the canned baked beans to the bowl and stir until they are well coated with the sauce.",
+    "Transfer the bean mixture to a baking dish and bake for 20 minutes.",
+    "While the beans are baking, prepare the patbingsu toppings by cutting the mochi into small pieces and washing the fruit.",
+    "Remove the beans from the oven and let them cool for a few minutes.",
+    "To assemble the patbingsu, place a scoop of the baked beans in a bowl, followed by a spoonful of crushed ice, some mochi pieces, and a selection of fruit.",
+    "Drizzle any remaining sauce from the bean mixture over the top of the patbingsu and sprinkle with toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-fusion",
+    "plant-based",
+    "smoky",
+    "spicy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-smoke-hot-korean-baked-beans-patbingsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoke-hot-korean-baked-beans-patbingsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:25:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "baked beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "baked beans",
+    "descriptor": "Zesty Smoke Hot",
+    "dishForm": "Patbingsu"
+  }
+}
