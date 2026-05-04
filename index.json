@@ -1119,6 +1119,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-german-bratwurst-wrap",
+    "title": "german bratwurst wrap",
+    "tags": [
+      "bratwurst",
+      "german",
+      "high-protein",
+      "lettuce",
+      "sauerkraut",
+      "weeknight",
+      "whole-wheat-tortilla"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-mediterranean-lentil-tagine",
     "title": "Zesty Dense Mediterranean Lentil Tagine",
     "tags": [

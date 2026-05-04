@@ -1,0 +1,107 @@
+{
+  "title": "german bratwurst wrap",
+  "description": "a dense, satisfying german-inspired dish filled with nutty flavors, perfect for a lazy sunday afternoon",
+  "cuisine": "german",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german bratwurst",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "1 each",
+      "notes": ""
+    },
+    {
+      "name": "gochugaru-spiced sauerkraut",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup",
+      "notes": "shredded or grated from 1 medium carrot"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "leaf lettuce leaves",
+      "amount": "2 leaves",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tsp",
+      "notes": "such as dijon or whole-grain"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "fill a large pot with 1 cup of water and bring to a boil",
+    "steam 2 leaf lettuce leaves in the pot for 30 seconds, until slightly tender",
+    "remove the lettuce leaves from the pot and set aside",
+    "grill or cook the bratwurst links according to package instructions",
+    "in a large bowl, combine the gochugaru-spiced sauerkraut, grated carrot, chopped parsley, and sesame seeds",
+    "warm the tortilla by wrapping it in a damp paper towel and microwaving for 10 seconds",
+    "assemble the wrap by spreading 1 tsp of mustard on the tortilla, then topping with a cooked bratwurst link",
+    "add 1/4 cup of the sauerkraut mixture on top of the bratwurst",
+    "place the steamed lettuce leaves on top of the sauerkraut mixture",
+    "fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bratwurst",
+    "german",
+    "high-protein",
+    "lettuce",
+    "sauerkraut",
+    "weeknight",
+    "whole-wheat-tortilla"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-dense-german-bratwurst-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-german-bratwurst-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:07:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "gochugaru",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Bratwurst",
+    "descriptor": "zesty dense",
+    "dishForm": "wrap"
+  }
+}
