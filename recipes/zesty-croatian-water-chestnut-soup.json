@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Croatian Water Chestnut Soup",
+  "description": "A bright, herbal soup featuring chewy water chestnuts, lemon zest, and a hint of chili, perfect for a midnight craving.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "200 g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 L"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat one tablespoon of oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about five minutes.",
+    "Stir in the minced garlic and grated ginger and cook for one minute until fragrant.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Add the sliced water chestnuts, lemon zest, chili flakes, and smoked paprika, then reduce heat and simmer for fifteen minutes.",
+    "Season the soup with salt and black pepper to taste.",
+    "Remove from heat and allow to cool slightly before blending until smooth, leaving some whole chestnut pieces for texture.",
+    "Reheat the soup gently, garnish with chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "croatian-inspired",
+    "halal-friendly",
+    "herbal",
+    "midnight-craving",
+    "soupy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 3
+  },
+  "slug": "zesty-croatian-water-chestnut-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-water-chestnut-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:37:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "water chestnut",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
