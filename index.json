@@ -603,6 +603,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-syrian-pasta-bake",
+    "title": "Zesty Flaky Syrian Pasta Bake",
+    "tags": [
+      "middle-eastern",
+      "one-pan",
+      "ovo-vegetarian",
+      "pasta-bake",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fluffy-greek-tofu-gyro",
     "title": "Zesty Fluffy Greek Tofu Gyro",
     "tags": [
@@ -1525,6 +1539,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 5,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tunisian-shrimp-tagine",
+    "title": "Zesty Tunisian Shrimp Tagine",
+    "tags": [
+      "fondue-pot",
+      "kosher-friendly",
+      "one-pot",
+      "shrimp",
+      "tunisian-dish",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {

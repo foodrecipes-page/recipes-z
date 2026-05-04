@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Tunisian Shrimp Tagine",
+  "description": "A bright, spice‑laden shrimp dish cooked in a fondue pot, featuring shrimp paste, harissa, and lemon zest. It is a quick, kosher‑friendly meal that brings the flavors of Tunisian cuisine to the table.",
+  "cuisine": "tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "1 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cooked chickpeas, drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried figs, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper, fresh ground",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat and add olive oil until shimmering.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and cook for thirty seconds until fragrant.",
+    "Mix in tomato paste, cumin, coriander, and chili flakes, cooking until the paste darkens slightly.",
+    "Add shrimp, harissa paste, chopped dried figs, and chickpeas, stirring to coat them in the spice mixture.",
+    "Pour in lemon juice, sprinkle lemon zest, and season with salt and pepper.",
+    "Reduce heat to low, cover the pot, and simmer for eight minutes until the shrimp turn pink and opaque.",
+    "Stir in fresh herbs if desired and serve hot over couscous or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "kosher-friendly",
+    "one-pot",
+    "shrimp",
+    "tunisian-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-tunisian-shrimp-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tunisian-shrimp-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:34:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "tagine-cook",
+    "primaryIngredient": "shrimp paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}

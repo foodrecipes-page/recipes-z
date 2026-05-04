@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Flaky Syrian Pasta Bake",
+  "description": "A malty, flaky, weeknight Syrian dish featuring vanilla pod and ferment-jang, ovo-vegetarian-friendly, perfect for a quick dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "preferably Syrian or middle eastern style"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cook the pasta according to package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat",
+    "Add the ferment-jang and cook for 1 minute, stirring constantly",
+    "Add the spinach and cook until wilted",
+    "In a large bowl, whisk the eggs and season with salt and black pepper",
+    "Add the cooked pasta, feta cheese, and vanilla pod to the bowl and mix well",
+    "Transfer the mixture to a baking dish and bake for 25 minutes",
+    "Remove from the oven and let it rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "ovo-vegetarian",
+    "pasta-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-flaky-syrian-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-syrian-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:34:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "ferment-jang",
+    "primaryIngredient": "vanilla pod",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pasta",
+    "descriptor": "Zesty flaky",
+    "dishForm": "Bake"
+  }
+}
