@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Kenyan Gosari Grill",
+  "description": "A vibrant, raw-friendly Kenyan dish featuring fernbrake gosari grilled in a papillote for a velvety, zesty finish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gosari (ferns)",
+      "amount": "500g",
+      "notes": "fresh, washed"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan grill to medium-high heat.",
+    "Rinse gosari and pat dry, then cut into 2cm pieces.",
+    "Whisk together olive oil, soy sauce, lemon juice, smoked paprika, cumin, ginger, garlic, lemon zest, salt, and pepper.",
+    "Toss gosari and tofu cubes in the dressing until evenly coated.",
+    "Place a parchment sheet on a clean surface, lay foil over it, and arrange the coated gosari and tofu in a single layer.",
+    "Fold the parchment and foil into a tight papillote, sealing the edges with a twist.",
+    "Place the papillote on the preheated grill and close the lid; grill for 12 minutes, flipping once at 6 minutes.",
+    "Remove from grill, unwrap carefully, sprinkle chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "grill",
+    "high-protein",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 25,
+    "fat": 38
+  },
+  "slug": "zesty-kenyan-gosari-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-gosari-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:14:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "papillote",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "gosari",
+    "descriptor": "Zesty",
+    "dishForm": "Grill"
+  }
+}

@@ -925,6 +925,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-kenyan-gosari-grill",
+    "title": "Zesty Kenyan Gosari Grill",
+    "tags": [
+      "barbecue",
+      "grill",
+      "high-protein",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-kenyan-lentil-casserole",
     "title": "Zesty Kenyan Lentil Casserole",
     "tags": [
