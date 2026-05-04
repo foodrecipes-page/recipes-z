@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Japanese Pork Dumplings",
+  "description": "Mustardy, bouncy-qq dumplings made quick with a mortar and pestle touch, perfect for a sattvic-friendly Japanese snack or lunch.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions sliced",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "40 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine ground pork with soy sauce, mirin, rice vinegar, sesame oil, minced garlic, grated ginger, sliced scallions, salt, and pepper; mix until fully incorporated.",
+    "Grind the mixture through a mortar and pestle to create a smooth, moist paste.",
+    "Preheat a large skillet over medium-high heat and lightly oil the surface.",
+    "Place a wonton wrapper on the skillet and spoon about 1 tablespoon of the pork mixture onto the center; spread to fill the wrapper.",
+    "Add a splash of water to the skillet to create steam and seal the edges of the dumpling by pinching them together.",
+    "Cook for 3-4 minutes until the bottom is golden brown and the wrapper is translucent.",
+    "Flip the dumpling and steam for another 2 minutes until the pork is fully cooked.",
+    "Repeat steps 4-7 with remaining wrappers and filling.",
+    "Serve hot with a dipping sauce of soy sauce mixed with a dash of sesame oil and a pinch of chili flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy",
+    "high-protein",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-japanese-pork-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-japanese-pork-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:40:42Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "ground pork",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty",
+    "dishForm": "Dumplings"
+  }
+}

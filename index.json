@@ -1125,6 +1125,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-japanese-pork-dumplings",
+    "title": "Zesty Japanese Pork Dumplings",
+    "tags": [
+      "dinner",
+      "easy",
+      "high-protein",
+      "quick-fix"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-juicy-turkish-beef-stew",
     "title": "Zesty Juicy Turkish Beef Stew",
     "tags": [],
