@@ -1,0 +1,108 @@
+{
+  "title": "zesty pan-seared australian dried shrimp hash",
+  "description": "a cultured and tender solo dinner dish featuring the flavors of australian dried shrimp, perfect for a weeknight meal. this recipe is anti-inflammatory friendly and prepared using a tava griddle.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "australian dried shrimp",
+      "amount": "250g"
+    },
+    {
+      "name": "shio-cured pork belly",
+      "amount": "200g"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "15g"
+    },
+    {
+      "name": "ghee",
+      "amount": "30g"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh scallions",
+      "amount": "15g",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "heat the tava griddle to medium-high heat, about 200°C.",
+    "add the shio-cured pork belly and cook for 3-4 minutes per side, or until crispy.",
+    "set aside the cooked pork belly on a paper towel-lined plate to drain excess oil.",
+    "in the same tava griddle, add the ghee and cook the brown onion for 4-5 minutes, or until softened.",
+    "add the australian dried shrimp and cook for 2-3 minutes, or until lightly browned.",
+    "add the korean chili flakes and cook for 1 minute, stirring constantly.",
+    "return the cooked pork belly to the tava griddle and stir to combine with the shrimp mixture.",
+    "season with salt, black pepper, and coconut aminos to taste.",
+    "transfer the mixture to a serving plate or individual plates and garnish with chopped fresh cilantro and scallions if using.",
+    "serve immediately and enjoy!",
+    "squeeze the fresh lime juice over the dish just before serving, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "australian-fusion",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 30
+  },
+  "slug": "zesty-pan-seared-australian-dried-shrimp-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pan-seared-australian-dried-shrimp-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:59:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "dried shrimp",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "dried shrimp",
+    "descriptor": "Zesty Pan-Seared",
+    "dishForm": "Hash"
+  }
+}
