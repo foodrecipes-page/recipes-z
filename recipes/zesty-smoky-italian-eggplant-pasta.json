@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Smoky Italian Eggplant Pasta",
+  "description": "A sour and smoky Italian dish featuring pea eggplant, perfect for a date night, and friendly to Buddhist temple dietary preferences. This glassy-jelly textured pasta is sure to impress.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pea eggplant",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic.",
+    "Add the sliced pea eggplant to the skillet and cook until tender, about 5 minutes.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "In a small bowl, whisk together the lemon juice and a splash of the pasta cooking water.",
+    "Add the lemon juice mixture to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the eggplant and sauce.",
+    "Stir in the chopped fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "italian-food",
+    "one-pot",
+    "smoky",
+    "sour",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-italian-eggplant-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-italian-eggplant-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:55:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Pasta"
+  }
+}

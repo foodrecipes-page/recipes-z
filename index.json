@@ -1307,6 +1307,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-italian-eggplant-pasta",
+    "title": "Zesty Smoky Italian Eggplant Pasta",
+    "tags": [
+      "date-night",
+      "italian-food",
+      "one-pot",
+      "smoky",
+      "sour",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-kenyan-chicken-flatbread",
     "title": "Zesty Smoky Kenyan Chicken Flatbread",
     "tags": [
