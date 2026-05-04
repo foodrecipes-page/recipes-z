@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Peruvian Cucumber Rocoto Relleno",
+  "description": "Fermented Persian cucumber slices stuffed with a smoky, citrusy paste, perfect for meal prep and sugar‑free snacking.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "400g",
+      "notes": "sliced into 3 cm pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fermented whey",
+      "amount": "50ml"
+    },
+    {
+      "name": "Nori sheet",
+      "amount": "1 sheet",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Cut the cucumber into 3 cm slices and lay them flat on a plate.",
+    "In a bowl combine smoked paprika, cumin, salt, pepper, lemon juice, and minced garlic to form a paste.",
+    "Spread the paste evenly between each cucumber slice and sprinkle chopped cilantro on top.",
+    "Place shredded nori over each slice for extra texture.",
+    "Drizzle fermented whey over the cucumber slices.",
+    "Cover the bowl with plastic wrap and refrigerate for 2 hours to allow light fermentation.",
+    "After fermentation, transfer the cucumber slices to an airtight container for meal prep.",
+    "Store in the refrigerator for up to 3 days.",
+    "Serve chilled or at room temperature as a refreshing snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "low-carb",
+    "meal-prep",
+    "peruvian",
+    "quick-assembly",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 2
+  },
+  "slug": "zesty-peruvian-cucumber-rocoto-relleno",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-cucumber-rocoto-relleno",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:07:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "persian cucumber",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Cucumber",
+    "descriptor": "Zesty",
+    "dishForm": "Rocoto Relleno"
+  }
+}
