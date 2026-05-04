@@ -171,6 +171,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-japanese-chicken-tsukune",
+    "title": "Zesty Charred Japanese Chicken Tsukune",
+    "tags": [
+      "charred-food",
+      "chicken-recipes",
+      "dinner-ideas",
+      "japanese-cuisine",
+      "paleo-friendly",
+      "tsukune-recipes"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chinese-chicken-curry",
     "title": "Zesty Chinese Chicken Curry",
     "tags": [
@@ -625,6 +640,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-middle-eastern-eggplant-pie",
+    "title": "Zesty Middle Eastern Eggplant Pie",
+    "tags": [
+      "comforting",
+      "keto-friendly",
+      "middle-eastern",
+      "one-dish",
+      "pastry",
+      "sous-vide",
+      "zesty"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 80,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-toor-dal-soup",
     "title": "Zesty Middle Eastern Toor Dal Soup",
     "tags": [
@@ -773,6 +804,22 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-slovakian-noodle-stir-fry",
+    "title": "Zesty Slovakian Noodle Stir-fry",
+    "tags": [
+      "fondue-pot",
+      "macrobiotic-friendly",
+      "one-pot",
+      "post-workout",
+      "slovakian",
+      "stir-fry",
+      "zesty"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {

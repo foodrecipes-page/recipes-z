@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Charred Japanese Chicken Tsukune",
+  "description": "A light and flavorful Japanese dish featuring charred chicken tsukune, green olives, and tempering chocolate, perfect for a solo dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "green olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken breast, grated ginger, minced garlic, sesame oil, salt, and black pepper.",
+    "Use your hands to shape the mixture into small tsukune balls, about 1 1/2 inches in diameter.",
+    "Place the tsukune balls on a baking sheet lined with parchment paper, leaving about 1 inch of space between each ball.",
+    "Drizzle the coconut oil over the tsukune balls and toss to coat evenly.",
+    "Bake the tsukune balls in the preheated oven for 15 minutes, or until lightly browned on the outside and cooked through.",
+    "While the tsukune balls are baking, melt the tempering chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Once the tsukune balls are done, remove them from the oven and brush the melted chocolate over the top of each ball.",
+    "Sprinkle the pitted green olives over the top of the chocolate-covered tsukune balls.",
+    "Serve the zesty charred Japanese chicken tsukune hot, garnished with additional green olives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-food",
+    "chicken-recipes",
+    "dinner-ideas",
+    "japanese-cuisine",
+    "paleo-friendly",
+    "tsukune-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-charred-japanese-chicken-tsukune",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-japanese-chicken-tsukune",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:20:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "green olives",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Tsukune"
+  }
+}

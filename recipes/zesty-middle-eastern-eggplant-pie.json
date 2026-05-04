@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Middle Eastern Eggplant Pie",
+  "description": "A buttery, glassy-jelly eggplant pie that blends tangy yogurt sauce with aromatic spices, baked in ready‑rolled shortcrust pastry for a comforting keto-friendly dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ready rolled shortcrust pastry sheet",
+      "amount": "200g"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "400g, sliced 1/4-inch"
+    },
+    {
+      "name": "Full-fat Greek yogurt",
+      "amount": "240g"
+    },
+    {
+      "name": "Tahini",
+      "amount": "32g"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 medium, zest and juice"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (390°F).",
+    "Fill a sous‑vide water bath to 65°C and place the eggplant slices in a vacuum‑sealed bag; cook for 30 minutes, then remove and pat dry.",
+    "In a bowl whisk the yogurt, tahini, lemon juice, zest, garlic, cumin, coriander, paprika, salt and pepper until smooth.",
+    "Lay the pastry sheet on a lightly greased baking sheet, trim excess edges, and pre‑bake for 5 minutes to set the base.",
+    "Remove the pastry, spread a thin layer of the yogurt sauce, arrange a layer of eggplant, repeat until all layers are used, finishing with sauce on top.",
+    "Fold the pastry edges over the top layer and crimp to seal.",
+    "Bake the assembled pie for 25 minutes, or until the pastry is golden and the sauce has set into a glassy‑jelly consistency.",
+    "Let the pie rest for 5 minutes, then slice and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "keto-friendly",
+    "middle-eastern",
+    "one-dish",
+    "pastry",
+    "sous-vide",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "zesty-middle-eastern-eggplant-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-eggplant-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:20:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Zesty",
+    "dishForm": "Pie"
+  }
+}

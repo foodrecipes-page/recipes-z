@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Slovakian Noodle Stir-fry",
+  "description": "A vibrant, macrobiotic-friendly stir-fry featuring brown rice noodles, tofu, and a zesty sauce, cooked in a fondue pot for a post-workout boost.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 cup",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse brown rice noodles and soak in warm water for 20 minutes, then drain.",
+    "Cut tofu into 1 cm cubes and pat dry with paper towels.",
+    "Slice broccoli, carrots, bell pepper, and snow peas into bite-sized pieces.",
+    "Heat fondue-pot over medium heat and add sesame oil.",
+    "Add tofu cubes to the hot oil, brown on all sides, then remove tofu and set aside.",
+    "In the same pot, add minced garlic, grated ginger, and crushed red pepper flakes; sauté for 30 seconds.",
+    "Add all vegetables to the pot and stir-fry until just tender, about 5 minutes.",
+    "Return tofu to the pot, pour soy sauce, lime juice, and a splash of water to create steam, then cover and simmer for 3 minutes.",
+    "Stir in drained noodles and cilantro, mixing well to coat with sauce.",
+    "Serve hot, garnished with extra cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "macrobiotic-friendly",
+    "one-pot",
+    "post-workout",
+    "slovakian",
+    "stir-fry",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "zesty-slovakian-noodle-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-slovakian-noodle-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:21:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "noodle",
+    "descriptor": "Zesty",
+    "dishForm": "Stir-fry"
+  }
+}
