@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Silky Moroccan Lentils Msemen",
+  "description": "Savory and silky Moroccan dish featuring puy lentils, beurre monte, and wrapped in msemen, perfect for a festive meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "msemen dough",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil and add the puy lentils, reducing heat to low and simmering for 20 minutes or until tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper, cooking for 1 minute to allow the spices to bloom.",
+    "Add the cooked lentils to the skillet, stirring to combine with the spice mixture.",
+    "Stir in the beurre monte until well combined and the lentil mixture is silky and smooth.",
+    "Lay a sheet of msemen dough on a flat surface and spoon about 1/2 cup of the lentil mixture onto the center of the dough.",
+    "Fold the dough over the filling to form a square shape, pressing the edges together to seal the msemen.",
+    "Repeat with the remaining dough and filling.",
+    "Cook the msemen in a large skillet over medium heat for 2-3 minutes on each side, until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "lentil",
+    "moroccan",
+    "msemen",
+    "pescatarian",
+    "savory",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-silky-moroccan-lentils-msemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-moroccan-lentils-msemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:18:50Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "puy-lentils",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Msemen"
+  }
+}
