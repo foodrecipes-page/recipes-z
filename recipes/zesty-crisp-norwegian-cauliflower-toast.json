@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Crisp Norwegian Cauliflower Toast",
+  "description": "A kid-friendly Norwegian dish featuring charred and crisp cauliflower on toast, perfect for a plant-based snack. This recipe is easy to make and fun to eat.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Toss the cauliflower florets with olive oil, salt, pepper, and garlic powder in a bowl until they are evenly coated.",
+    "Spread the cauliflower on a baking sheet and roast in the oven for 20 minutes, or until charred and crisp.",
+    "Toast the whole wheat bread slices until they are lightly browned.",
+    "Spread a layer of lemon juice on each toast slice.",
+    "Top each toast slice with a portion of the roasted cauliflower.",
+    "Sprinkle nutritional yeast over the cauliflower if using.",
+    "Serve the Zesty Crisp Norwegian Cauliflower Toast hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "kid-friendly",
+    "norwegian",
+    "plant-based",
+    "snack",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-crisp-norwegian-cauliflower-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-norwegian-cauliflower-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:58:02Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "cauliflower",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Toast"
+  }
+}

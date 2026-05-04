@@ -287,6 +287,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-norwegian-cauliflower-toast",
+    "title": "Zesty Crisp Norwegian Cauliflower Toast",
+    "tags": [
+      "cauliflower",
+      "kid-friendly",
+      "norwegian",
+      "plant-based",
+      "snack",
+      "toast"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-mexican-tomato-tacos",
     "title": "Zesty Crispy Mexican Tomato Tacos",
     "tags": [
