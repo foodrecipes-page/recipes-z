@@ -81,6 +81,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-arabian-cheese-bowl",
+    "title": "Zesty Arabian Cheese Bowl",
+    "tags": [
+      "arabian",
+      "cheese-pull",
+      "comfort-food",
+      "easy",
+      "low-glycemic",
+      "one-pan",
+      "zesty"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-argentinian-pumpkin-roast",
     "title": "Zesty Argentinian Pumpkin Roast",
     "tags": [
