@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Mexican Chicken Empanadas",
+  "description": "Citrusy, flaky empanadas filled with mildly spiced chicken, kaffir lime leaf, and lime, perfect for kids to enjoy a Mexican-inspired snack.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked shredded chicken",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh kaffir lime leaf, finely chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "empanada dough circles (store‑bought)",
+      "amount": "12"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add shredded chicken, cumin, smoked paprika, chili powder, and stir to combine.",
+    "Cook the mixture for about 5 minutes, stirring occasionally, until heated through.",
+    "Remove from heat and stir in fresh lime juice, kaffir lime leaf, and cilantro, then season with salt to taste.",
+    "Let the filling cool slightly, then place about 2 tablespoons of filling onto the center of each empanada dough circle.",
+    "Brush the edges of each dough circle with melted butter, fold in half to create a semi‑circle, and press edges together with a fork to seal.",
+    "Preheat oven to 375°F (190°C) and place the filled empanadas on a parchment‑lined baking sheet.",
+    "Bake for 15-18 minutes or until the dough is golden and flaky.",
+    "Let the empanadas cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "kid-friendly",
+    "low-rajasic",
+    "mexican",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1310,
+    "protein": 66,
+    "carbs": 63,
+    "fat": 43
+  },
+  "slug": "zesty-mexican-chicken-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-chicken-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:49:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "ayurvedic-rajasic",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1101,6 +1101,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-chicken-empanadas",
+    "title": "Zesty Mexican Chicken Empanadas",
+    "tags": [
+      "citrusy",
+      "flaky",
+      "kid-friendly",
+      "low-rajasic",
+      "mexican",
+      "quick"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-eggplant-pie",
     "title": "Zesty Middle Eastern Eggplant Pie",
     "tags": [
