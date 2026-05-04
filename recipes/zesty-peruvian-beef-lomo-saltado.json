@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Peruvian Beef Lomo Saltado",
+  "description": "A sweet, crunchy, monsoon-inspired keto-friendly Peruvian dish that features vanilla pod and a salt-bake flavor. It is quick to prepare and delivers a satisfying burst of zesty flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "450g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "tamari",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split and scraped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a cast-iron skillet over high heat until shimmering, then add olive oil.",
+    "Add the sliced beef, season with sea salt and ground cumin, sear for 1-2 minutes per side until browned but still juicy, remove and set aside.",
+    "In the same skillet, add sliced bell pepper and onion, sauté for 3 minutes until slightly softened.",
+    "Add minced garlic and ginger, cook for 30 seconds until fragrant.",
+    "Return the beef to the skillet, pour tamari, lime juice, and vanilla pod scrape, stir to coat, and cook for 1 minute.",
+    "Remove the vanilla pod, reduce heat to medium, sprinkle chopped roasted almonds, and stir to combine.",
+    "Serve immediately, optionally over cauliflower rice, and drizzle extra tamari if desired.",
+    "Garnish with additional sea salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 33,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "zesty-peruvian-beef-lomo-saltado",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-beef-lomo-saltado",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:47:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "vanilla pod",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty",
+    "dishForm": "Lomo Saltado"
+  }
+}

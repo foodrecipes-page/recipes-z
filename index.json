@@ -1548,6 +1548,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-beef-lomo-saltado",
+    "title": "Zesty Peruvian Beef Lomo Saltado",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "peruvian",
+      "quick"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-chicken-roast",
     "title": "Zesty Peruvian Chicken Roast",
     "tags": [
