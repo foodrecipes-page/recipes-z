@@ -1,0 +1,126 @@
+{
+  "title": "Zesty Jamaican Chicken Curry",
+  "description": "Winey and creamy, this low-sodium crowd-pleaser Jamaican curry is made with rapeseed oil and a nimono-style simmer. It combines zesty lime, coconut milk, and authentic spice blend for a satisfying meal.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "800g",
+      "notes": "skin removed, cut into 2.5 cm pieces"
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "12g",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "15g",
+      "notes": "grated"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "30g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "5g"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "480ml"
+    },
+    {
+      "name": "White wine",
+      "amount": "240ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "Fresh lime",
+      "amount": "15ml",
+      "notes": "juice"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "5g"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "3g"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "15g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat rapeseed oil in a large pot over medium heat until shimmering.",
+    "Add diced onions and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Sprinkle in curry powder, paprika, and cayenne, stirring to coat for 30 seconds.",
+    "Add chicken pieces, browning them on all sides for 5 minutes, then pour in white wine to deglaze the pot.",
+    "Pour in low-sodium chicken broth and coconut milk, bring to a gentle simmer, reduce heat and cover, cooking for 25 minutes until chicken is tender.",
+    "Stir in lime juice, thyme, and season with salt and pepper, simmering for an additional 5 minutes to meld flavors.",
+    "Garnish with fresh cilantro before serving over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "crowd-pleaser",
+    "low-sodium",
+    "one-pot",
+    "weeknight",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 40
+  },
+  "slug": "zesty-jamaican-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jamaican-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:31:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}

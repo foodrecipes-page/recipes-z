@@ -664,6 +664,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-jamaican-chicken-curry",
+    "title": "Zesty Jamaican Chicken Curry",
+    "tags": [
+      "creamy",
+      "crowd-pleaser",
+      "low-sodium",
+      "one-pot",
+      "weeknight",
+      "zesty"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 65,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-japanese-pickle-noodles",
     "title": "Zesty Japanese Pickle Noodles",
     "tags": [
@@ -1167,6 +1182,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-mexican-yeast-sopes",
+    "title": "Zesty Velvety Mexican Yeast Sopes",
+    "tags": [
+      "adventurous-eats",
+      "fodmap-friendly",
+      "gluten-free",
+      "mexican-cuisine",
+      "scalloped-vessel",
+      "yeast-based"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {

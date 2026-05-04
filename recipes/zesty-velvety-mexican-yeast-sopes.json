@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Velvety Mexican Yeast Sopes",
+  "description": "A floral and velvety Mexican dish featuring yeast, served in a scallop shell vessel, this recipe is a unique and adventurous take on traditional sopes, with a fodmap-friendly twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "khao khuay",
+      "amount": "1 cup",
+      "notes": "or substitute with corn flour"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zesty mexican seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast, rice flour, khao khuay, fry grind rice, salt, sugar, and zesty mexican seasoning.",
+    "Gradually add in water and olive oil, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Flatten each ball into a thin circle, about 1/4 inch thick.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the sopes for 1-2 minutes on each side, until lightly browned and crispy.",
+    "Serve the sopes in scallop shell vessels, garnished with fresh cilantro and a squeeze of lime juice.",
+    "Allow the sopes to cool for a few minutes before serving.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eats",
+    "fodmap-friendly",
+    "gluten-free",
+    "mexican-cuisine",
+    "scalloped-vessel",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-velvety-mexican-yeast-sopes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-mexican-yeast-sopes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:31:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "yeast",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "yeast",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Sopes"
+  }
+}
