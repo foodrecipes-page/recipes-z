@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Northern Thai Peanut Curry",
+  "description": "A nutty, crunchy, crowd-pleaser northern Thai curry with passion fruit pulp, sous-vide tofu, and a poached egg, served in individual mini cocottes.",
+  "cuisine": "northern-thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "to be vacuum-sealed"
+    },
+    {
+      "name": "Passion fruit pulp",
+      "amount": "80ml",
+      "notes": "pre-squeezed"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tbsp",
+      "notes": "smooth"
+    },
+    {
+      "name": "Peanut slivers",
+      "amount": "2 tbsp",
+      "notes": "for crunch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Fresh chili",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "poached or fried"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for searing"
+    }
+  ],
+  "instructions": [
+    "Trim the tofu into 1 cm cubes, vacuum seal them with 1 tbsp soy sauce, 1 tbsp coconut milk, and 1 tsp lime zest, then sous-vide at 75°C for 30 minutes.",
+    "While the tofu cooks, blend passion fruit pulp with 1 tbsp peanut butter, a pinch of salt, and a splash of coconut milk until smooth.",
+    "Heat 1 tbsp oil in a skillet over medium-high heat and quickly sear the cooked tofu cubes until golden, about 2 minutes per side.",
+    "Transfer the seared tofu to individual mini cocottes and pour the passion fruit peanut sauce over them.",
+    "Add sliced fresh chili, minced garlic, and 2 tbsp peanut slivers to each cocotte, then cover and steam gently for 5 minutes to meld the flavors.",
+    "Slide a poached or fried egg into the center of each cocotte, letting the yolk swirl into the sauce.",
+    "Garnish with additional lime zest and a few extra peanut slivers before serving.",
+    "Serve immediately, letting guests stir the egg into the curry for a creamy finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "crunchy",
+    "mini-cocotte",
+    "nutty",
+    "ovo-vegetarian",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 19,
+    "carbs": 23,
+    "fat": 48
+  },
+  "slug": "zesty-northern-thai-peanut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-northern-thai-peanut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:25:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "ovo-vegetarian",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "Peanut",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}

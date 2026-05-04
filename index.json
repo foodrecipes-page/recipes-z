@@ -1909,6 +1909,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-northern-thai-peanut-curry",
+    "title": "Zesty Northern Thai Peanut Curry",
+    "tags": [
+      "crowd-pleaser",
+      "crunchy",
+      "mini-cocotte",
+      "nutty",
+      "ovo-vegetarian",
+      "sous-vide"
+    ],
+    "cuisine": "northern-thai",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-norwegian-beef-stew",
     "title": "Zesty Norwegian Beef Stew",
     "tags": [
