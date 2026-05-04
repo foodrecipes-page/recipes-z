@@ -1114,6 +1114,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-kenyan-stilton-fried-rice",
+    "title": "Zesty Kenyan Stilton Fried-Rice",
+    "tags": [
+      "african",
+      "egg-free",
+      "one-pan",
+      "quick",
+      "vegetarian",
+      "zesty"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-leafy-indian-toor-dal",
     "title": "Zesty Leafy Indian Toor Dal",
     "tags": [

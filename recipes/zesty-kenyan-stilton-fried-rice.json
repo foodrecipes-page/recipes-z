@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Kenyan Stilton Fried-Rice",
+  "description": "A spicy, creamy fried rice dish that blends the bold flavor of Stilton with Kenyan spices for a satisfying egg‑free dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked fried rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "50 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the crumbled Stilton cheese and stir until it starts to soften.",
+    "Pour in the fried rice and break up any clumps with a spatula.",
+    "Sprinkle the smoked paprika, dried chili flakes, black pepper, and salt over the rice.",
+    "Pour the lime juice and soy sauce across the dish and stir to combine.",
+    "Cook for 5 minutes, letting the flavors meld and the rice heat through.",
+    "Add the chopped green onions and stir for another 2 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot straight from the skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "egg-free",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "zesty-kenyan-stilton-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-stilton-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:19:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "stilton cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "stilton",
+    "descriptor": "Zesty",
+    "dishForm": "Fried-Rice"
+  }
+}
