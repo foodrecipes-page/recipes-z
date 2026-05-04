@@ -1,0 +1,116 @@
+{
+  "title": "Zesty Ukrainian Fennel Dumplings",
+  "description": "A tangy, aerated dumpling dish featuring fresh fennel, lemon zest, and dill, perfect for kids and served in a traditional earthenware bowl.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "250g",
+      "notes": "for dough"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "leavening agent"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fennel bulb",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "from one lemon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for binding and cooking"
+    },
+    {
+      "name": "egg white",
+      "amount": "1",
+      "notes": "for dough elasticity"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together whole wheat flour, baking powder, and salt until well mixed.",
+    "Add warm water, olive oil, and egg white to the dry mix and stir until a soft dough forms.",
+    "Knead the dough on a lightly floured surface for 2 minutes until smooth, then cover with cling film and let it rest 10 minutes.",
+    "In a separate bowl combine sliced fennel, chopped dill, minced garlic, diced onion, lemon zest, and lemon juice.",
+    "Pinch off small pieces of dough about the size of a walnut and roll them into flat discs.",
+    "Place a spoonful of the fennel mixture in the center of each disc and fold the dough over to seal, creating dumpling shapes.",
+    "Bring a large pot of salted water to a boil and carefully drop the dumplings in batches.",
+    "Cook the dumplings for 3-4 minutes or until they rise to the surface and are cooked through.",
+    "Remove the dumplings with a slotted spoon and serve immediately in a warm earthenware bowl.",
+    "Garnish with an extra sprinkle of fresh dill and a drizzle of lemon juice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "airy",
+    "dairy-free",
+    "kid-friendly",
+    "quick",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 4,
+    "carbs": 51,
+    "fat": 4
+  },
+  "slug": "zesty-ukrainian-fennel-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ukrainian-fennel-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:23:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "en-croute",
+    "primaryIngredient": "fennel",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fennel",
+    "descriptor": "Zesty",
+    "dishForm": "Dumplings"
+  }
+}
