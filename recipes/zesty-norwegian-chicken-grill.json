@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Norwegian Chicken Grill",
+  "description": "Garlicky, light, honey‑sweetened chicken grilled over a robata pan for a lazy Sunday treat.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skinless boneless chicken thighs",
+      "amount": "800g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "15g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "15g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "Fresh garlic",
+      "amount": "4 cloves",
+      "notes": "smashed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "15ml",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "Dried dill",
+      "amount": "2g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together olive oil, honey, soy sauce, lemon juice, minced garlic, dill, salt, and pepper to create the glaze.",
+    "Pat the chicken thighs dry, then coat them thoroughly with the glaze, letting them marinate for 15 minutes at room temperature.",
+    "Preheat a robata grill or grill pan to medium‑high heat until it reaches 205°C (400°F).",
+    "Place the marinated chicken on the grill, cooking for 5–6 minutes per side or until the internal temperature reaches 75°C (165°F).",
+    "Remove from the grill and let the chicken rest for 3 minutes before slicing.",
+    "Serve immediately with a side of fresh arugula or mixed greens if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "high-protein",
+    "lazy-sunday",
+    "norwegian",
+    "quick",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 46,
+    "carbs": 13,
+    "fat": 32
+  },
+  "slug": "zesty-norwegian-chicken-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-norwegian-chicken-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:37:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "honey",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Grill"
+  }
+}

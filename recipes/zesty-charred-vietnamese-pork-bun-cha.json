@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Charred Vietnamese Pork Bun Cha",
+  "description": "A charred and silky Vietnamese dish featuring roasted peppers and pork, served with bun cha, a traditional Vietnamese vessel made of tagliere.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "roasted peppers",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "bun cha noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "tagliere",
+      "amount": "1 vessel"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, and black pepper.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until charred and cooked through.",
+    "Grill the sliced peppers for 3-5 minutes per side, or until charred and tender.",
+    "Cook the bun cha noodles according to package instructions.",
+    "Assemble the dish by placing the cooked noodles in the tagliere, topping with grilled pork and peppers, and garnishing with chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and peppers if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bun-cha",
+    "easy-dinner",
+    "grilled-pork",
+    "roasted-peppers",
+    "tagliere",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-charred-vietnamese-pork-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-vietnamese-pork-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:37:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "roasted pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Bun Cha"
+  }
+}
