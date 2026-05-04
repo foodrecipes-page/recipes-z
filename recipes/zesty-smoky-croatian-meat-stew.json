@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Smoky Croatian Meat Stew",
+  "description": "A smoky and velvety Croatian stew featuring yellow curry paste and kombu cold extract, perfect for a crowd, and low in carbs. This hearty dish is sure to please.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the curry paste, kombu extract, smoked paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "hearty",
+    "low-carb",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "zesty-smoky-croatian-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-croatian-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:57:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Stew"
+  }
+}

@@ -2859,6 +2859,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-croatian-meat-stew",
+    "title": "Zesty Smoky Croatian Meat Stew",
+    "tags": [
+      "comfort-food",
+      "croatian",
+      "hearty",
+      "low-carb",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 110,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-dutch-lamb-stew",
     "title": "Zesty Smoky Dutch Lamb Stew",
     "tags": [
