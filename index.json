@@ -3199,6 +3199,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-thai-tamarind-nam-prik",
+    "title": "Zesty Thai Tamarind Nam Prik",
+    "tags": [
+      "central-thai",
+      "creamy",
+      "low-salt",
+      "satvic",
+      "tamarind",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-thai-tangerine-wrap",
     "title": "Zesty Thai Tangerine Wrap",
     "tags": [

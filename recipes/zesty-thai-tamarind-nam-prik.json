@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Thai Tamarind Nam Prik",
+  "description": "A briny, creamy nam prik with tamarind-paste-makham, deglazed to depth and balanced for a sattvic weeknight meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "makham flavor"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "shallot, thinly sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat and add a splash of oil.",
+    "Add minced garlic, sliced shallot, and grated ginger, sauté until fragrant.",
+    "Stir in tamarind paste and deglaze the pan with 1 cup of water.",
+    "Add fish sauce, lime juice, palm sugar, and chili flakes, bring to a gentle simmer.",
+    "Reduce heat to low and stir in coconut milk, cooking for 2 minutes until sauce thickens.",
+    "Taste and adjust seasoning, adding more lime or sugar if needed.",
+    "Remove from heat and let the nam prik cool slightly before serving.",
+    "Garnish with crushed roasted peanuts and serve with steamed rice or fresh vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "central-thai",
+    "creamy",
+    "low-salt",
+    "satvic",
+    "tamarind",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "zesty-thai-tamarind-nam-prik",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-thai-tamarind-nam-prik",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:16:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "ayurvedic-sattvic",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tamarind",
+    "descriptor": "Zesty",
+    "dishForm": "Nam Prik"
+  }
+}
