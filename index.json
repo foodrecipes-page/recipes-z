@@ -452,6 +452,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ethiopian-chickpeas-stew",
+    "title": "Zesty Ethiopian Chickpeas Stew",
+    "tags": [
+      "ethiopian",
+      "dinner"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-ethiopian-pork-stew",
     "title": "Zesty Ethiopian Pork Stew",
     "tags": [

@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Ethiopian Chickpeas Stew",
+  "description": "A vibrant one-pot stew with chickpeas, tomatoes, and a punch of berbere spice, finished with lemon and fresh cilantro for a bright, aromatic finish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups",
+      "notes": "canned or cooked from dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a fondue pot over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and ginger and cook for 1 minute until fragrant.",
+    "Add berbere spice and stir for 30 seconds to release flavors.",
+    "Pour in diced tomatoes and cook for 3 minutes until they start to soften.",
+    "Add cooked chickpeas, vegetable broth, and coconut milk, then bring to a gentle simmer.",
+    "Reduce heat to low and let the stew simmer for 15 minutes, stirring occasionally.",
+    "Season with salt to taste and stir in fresh lemon juice.",
+    "Remove from heat and let it sit for 5 minutes to thicken slightly.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Enjoy the zesty, aromatic flavors of Ethiopia with this quick one-pot meal."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ],
+  "slug": "zesty-ethiopian-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ethiopian-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:12:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "chickpeas",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}
