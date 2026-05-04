@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Brazilian Chicken Skewers",
+  "description": "A paleo-friendly Brazilian dish featuring chicken skewers infused with red pepper and garlic, served with a side of velvety sauce to cure any hangover",
+  "cuisine": "brazilian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together infuse oil, garlic, paprika, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the chicken and red pepper onto skewers",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "In a small saucepan, heat the coconut milk over medium heat",
+    "Stir the coconut milk constantly until it thickens into a velvety sauce",
+    "Serve the skewers with the velvety sauce",
+    "Garnish with fresh cilantro, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:49:41Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "red pepper",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "zesty spicy",
+    "dishForm": "Skewers"
+  }
+}
