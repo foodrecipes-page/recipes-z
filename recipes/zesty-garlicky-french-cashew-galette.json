@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Garlicky French Cashew Galette",
+  "description": "A quick and flavorful French dish featuring cashews and coconut cream, perfect for a weeknight dinner. This ayurvedic-sattvic-friendly galette is garlicky and bouncy, with a delicious crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Drain and rinse the soaked cashews.",
+    "In a blender, blend the cashews, coconut cream, garlic, olive oil, salt, and black pepper until smooth.",
+    "In a large bowl, whisk together the flour and water to form a dough.",
+    "Roll out the dough into a circle, about 1/4 inch thick.",
+    "Spread the cashew mixture over the dough, leaving a 1 inch border.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Bake the galette for 35 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-based",
+    "french-cuisine",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-garlicky-french-cashew-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-french-cashew-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:54:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cashews",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cashews",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Galette"
+  }
+}

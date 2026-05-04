@@ -587,6 +587,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-garlicky-french-cashew-galette",
+    "title": "Zesty Garlicky French Cashew Galette",
+    "tags": [
+      "cashew-based",
+      "french-cuisine",
+      "gluten-free",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-golden-slovakian-cauliflower-soup",
     "title": "Zesty Golden Slovakian Cauliflower Soup",
     "tags": [
