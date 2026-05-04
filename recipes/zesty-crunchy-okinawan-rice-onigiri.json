@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Crunchy Okinawan Rice Onigiri",
+  "description": "A zesty, crunchy Okinawan onigiri packed with fermented shio‑koji, capers and a tangy lemon‑sesame glaze, all cooked in a single paella pan for a quick, jain‑friendly dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": "washed until clear"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Shio‑koji",
+      "amount": "1/4 cup",
+      "notes": "salted fermented soybeans"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice until water runs clear, then soak for 10 minutes.",
+    "Heat the paella pan over medium heat and add the rice and water, bringing to a simmer.",
+    "Reduce heat to low, cover, and let the rice steam for 18 minutes until tender.",
+    "While rice cooks, combine shio‑koji, capers, sesame seeds, rice vinegar, sea salt, lemon zest, soy sauce, and lemon juice in a bowl.",
+    "Once the rice is done, fluff it with a fork and fold in the flavor mixture, stirring gently until evenly coated.",
+    "Remove the pan from heat and let the rice rest for 5 minutes, then transfer the mixture to a shallow dish to cool slightly.",
+    "Scoop portions of rice and shape each into triangular onigiri, pressing firmly to set.",
+    "Serve immediately, optionally garnishing with extra toasted sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "one-pan",
+    "onigiri",
+    "paella-pan",
+    "quick",
+    "seafood-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 100,
+    "fat": 4
+  },
+  "slug": "zesty-crunchy-okinawan-rice-onigiri",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-okinawan-rice-onigiri",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:04:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "capers",
+    "diet": "jain",
+    "region": "okinawa",
+    "cuisineAdjective": "Okinawan",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Onigiri"
+  }
+}
