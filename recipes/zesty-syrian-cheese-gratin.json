@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Syrian Cheese Gratin",
+  "description": "A spicy, bouncy-qq cozy Syrian dish featuring V sterbottensost cheese, al-dente finish, fodmap-friendly served in scallop shell.",
+  "cuisine": "Syrian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallop shells",
+      "amount": "12"
+    },
+    {
+      "name": "V sterbottensost cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Wash scallop shells and dry them thoroughly.",
+    "Drizzle a small amount of olive oil inside each shell.",
+    "In a bowl mix grated cheese, minced garlic, red chili flakes, lemon zest, parsley, salt and pepper.",
+    "Spoon the cheese mixture evenly into each shell.",
+    "Place the filled shells on a baking tray.",
+    "Bake for 12 minutes until the cheese is melted and edges are lightly browned.",
+    "Remove from oven, let cool for 2 minutes, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-dish",
+    "fodmap-friendly",
+    "one-pan",
+    "quick",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 78,
+    "protein": 3,
+    "carbs": 0,
+    "fat": 4
+  },
+  "slug": "zesty-syrian-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:19:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Zesty",
+    "dishForm": "Gratin"
+  }
+}

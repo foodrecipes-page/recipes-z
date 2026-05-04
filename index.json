@@ -854,6 +854,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-cheese-gratin",
+    "title": "Zesty Syrian Cheese Gratin",
+    "tags": [
+      "cheese-dish",
+      "fodmap-friendly",
+      "one-pan",
+      "quick",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-syrian-lentil-soup",
     "title": "Zesty Syrian Lentil Soup",
     "tags": [
