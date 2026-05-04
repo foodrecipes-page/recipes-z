@@ -514,6 +514,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dutch-beef-stew",
+    "title": "Zesty Dutch Beef Stew",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "dutch-cuisine",
+      "fodmap-friendly",
+      "one-pot"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 170,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-chicken-croquettes",
     "title": "Zesty Egyptian Chicken Croquettes",
     "tags": [
