@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Comforting Japanese Lamb Soba Noodles",
+  "description": "Mustardy, aerated lamb and soba noodles simmered in a savory sauce for a comforting Chugoku-inspired meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder (boneless)",
+      "amount": "400g"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 medium, minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Soba noodles",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat olive oil in a large pot over medium heat and brown the lamb on all sides, about 8 minutes.",
+    "Add minced shallots and garlic, sauté until fragrant, 2 minutes.",
+    "Stir in Dijon mustard, soy sauce, mirin, and 1 cup water; bring to a simmer.",
+    "Reduce heat, cover, and cook the lamb until tender, 30 minutes.",
+    "Meanwhile, cook soba noodles according to package, then drain and set aside.",
+    "Remove the lamb, shred it with two forks, and return to the pot to coat in sauce.",
+    "Toss the cooked noodles with the lamb, sauce, and chopped parsley.",
+    "Serve hot, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "japanese-lamb",
+    "mediterranean-friendly",
+    "mustardy",
+    "soba",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 27
+  },
+  "slug": "zesty-comforting-japanese-lamb-soba-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-comforting-japanese-lamb-soba-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:12:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "mediterranean",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Comforting",
+    "dishForm": "Soba Noodles"
+  }
+}
