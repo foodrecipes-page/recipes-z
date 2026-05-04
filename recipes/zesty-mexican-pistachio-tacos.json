@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Mexican Pistachio Tacos",
+  "description": "A tangy, pillowy taco that blends pistachio paste with a spicy turkey filling and bright lime for a festive Whole30-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "whole wheat or corn, depending on preference"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 lb"
+    },
+    {
+      "name": "pistachio paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Place the ground turkey in the pressure cooker and brown it over medium heat with the olive oil, stirring until cooked through.",
+    "Add the chopped onion and minced garlic, cooking until the onion is translucent.",
+    "Stir in the diced tomatoes, cumin, chili powder, salt, and pepper, then close the lid and cook on high pressure for 10 minutes.",
+    "While the filling cooks, heat the corn tortillas on a dry skillet for about 30 seconds per side until pliable.",
+    "Release the pressure, fluff the turkey mixture with a fork, and stir in the pistachio paste and lime juice until well combined.",
+    "Spoon the hot filling onto the warmed tortillas, garnishing each taco with chopped cilantro.",
+    "Serve immediately, optionally adding slices of avocado on top if desired.",
+    "Enjoy the zesty, creamy pistachio tacos as a festive Whole30-friendly meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pistachio",
+    "pressure-cook",
+    "tacos",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "zesty-mexican-pistachio-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-pistachio-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:39:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pistachio paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Zesty",
+    "dishForm": "Tacos"
+  }
+}

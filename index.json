@@ -1787,6 +1787,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-pistachio-tacos",
+    "title": "Zesty Mexican Pistachio Tacos",
+    "tags": [
+      "mexican",
+      "pistachio",
+      "pressure-cook",
+      "tacos",
+      "whole30-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-bulgur-tabbouleh",
     "title": "Zesty Middle Eastern Bulgur Tabbouleh",
     "tags": [
