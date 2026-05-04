@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Portuguese Katsuramuki Salad",
+  "description": "A fresh, low-carb salad packed with citrusy katsuramuki, herbes-de-provence, and crisp almonds, perfect for a cozy lunch in a bento-box.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "katsuramuki",
+      "amount": "200g"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "50g"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "30g"
+    },
+    {
+      "name": "capers",
+      "amount": "15g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "10g",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Wash the mixed greens and pat them dry.",
+    "In a bowl, whisk together olive oil, lemon juice, herbes-de-provence, salt, and pepper.",
+    "Toss the greens with the dressing until evenly coated.",
+    "Add the katsuramuki halves to the salad.",
+    "Sprinkle crumbled feta, roasted almonds, and capers over the top.",
+    "Pack the salad into a bento-box and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "cozy",
+    "fresh",
+    "low-carb",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-portuguese-katsuramuki-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-portuguese-katsuramuki-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:04:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "katsuramuki",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}

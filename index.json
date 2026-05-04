@@ -2275,6 +2275,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-portuguese-katsuramuki-salad",
+    "title": "Zesty Portuguese Katsuramuki Salad",
+    "tags": [
+      "bento-box",
+      "cozy",
+      "fresh",
+      "low-carb",
+      "spring",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-rich-norwegian-macaroni-pasta",
     "title": "Zesty Rich Norwegian Macaroni Pasta",
     "tags": [
