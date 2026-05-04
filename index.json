@@ -452,6 +452,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-chickpeas-tagine",
+    "title": "Zesty Egyptian Chickpeas Tagine",
+    "tags": [
+      "kid-friendly",
+      "lacto-vegetarian",
+      "one-pot",
+      "slow-cooker",
+      "spicy",
+      "wine"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-ethiopian-chickpeas-stew",
     "title": "Zesty Ethiopian Chickpeas Stew",
     "tags": [
@@ -983,6 +998,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-moroccan-rice-pilaf",
+    "title": "Zesty Moroccan Rice Pilaf",
+    "tags": [
+      "bamboo-steamer",
+      "crowd-pleaser",
+      "flaky",
+      "moroccan",
+      "plant-based",
+      "rice"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {

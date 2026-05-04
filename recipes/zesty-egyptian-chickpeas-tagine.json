@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Egyptian Chickpeas Tagine",
+  "description": "A velvety, wine-infused chickpea tagine brimming with cardamom and aromatic spices, perfect for a kid-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas (canned)",
+      "amount": "1 can (400g)",
+      "notes": "drained"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy saucepan over medium heat.",
+    "Add diced onion and cook until translucent, about 4 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Mix in ground cardamom, cumin, coriander, and smoked paprika and sauté for 30 seconds to bloom the spices.",
+    "Add chickpeas, tomato paste, and honey, stirring to coat the beans evenly.",
+    "Pour in red wine, scraping up any browned bits from the bottom of the pot.",
+    "Add vegetable broth, bring the mixture to a gentle simmer, then cover and let it cook for 20 minutes until flavors meld.",
+    "Season with salt and pepper to taste, stirring gently.",
+    "Remove the tagine from heat and let it rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "lacto-vegetarian",
+    "one-pot",
+    "slow-cooker",
+    "spicy",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 8
+  },
+  "slug": "zesty-egyptian-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:16:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "cardamom",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}
