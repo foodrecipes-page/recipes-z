@@ -1,0 +1,127 @@
+{
+  "title": "Zesty Middle Eastern Sloeberry Maqluba",
+  "description": "A zesty, gluten-free maqluba that layers fragrant rice with tart sloeberries, chickpeas, and a spice-rich sauce, flipped and served upside-down for a dramatic presentation. The bright sumac and lemon juice give it a refreshing finish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "soaked 20 minutes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "sloeberries",
+      "amount": "200 g"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup rice until water runs clear, then soak for 20 minutes.",
+    "In a large pot, bring 1 cup vegetable broth to a boil, add soaked rice, reduce heat, cover, and simmer for 15 minutes until rice is tender.",
+    "While rice cooks, heat 1 tbsp olive oil in a skillet over medium heat and sauté 1 chopped onion and 2 minced garlic cloves until translucent.",
+    "Add 1 tsp cumin, 1 tsp coriander, 1 tsp sumac, and a pinch of cinnamon, cooking for 1 minute to toast the spices.",
+    "Stir in 1 cup cooked chickpeas, 200 g sloeberries, and 1 cup tomato puree, cooking for 5 minutes until the mixture thickens.",
+    "Season the mixture with 1/2 tsp salt, 1/4 tsp black pepper, and the juice of one lemon.",
+    "Assembly: in a 9x13-inch baking dish, layer the cooked rice at the bottom, then spread the chickpea and sloeberry mixture over the rice.",
+    "Cover the dish with foil and bake at 375°F (190°C) for 20 minutes.",
+    "Remove foil, bake an additional 10 minutes until the top is slightly browned.",
+    "Let the maqluba rest for 5 minutes, then carefully flip onto a large platter to reveal the upside-down layers.",
+    "Serve hot, garnished with fresh parsley and a sprinkle of sumac."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "gluten-free",
+    "maqluba",
+    "middle-eastern",
+    "rice",
+    "sloeberry",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 22,
+    "carbs": 110,
+    "fat": 18
+  },
+  "slug": "zesty-middle-eastern-sloeberry-maqluba",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-sloeberry-maqluba",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:44:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sloe-berries",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "sloeberry",
+    "descriptor": "Zesty",
+    "dishForm": "Maqluba"
+  }
+}
