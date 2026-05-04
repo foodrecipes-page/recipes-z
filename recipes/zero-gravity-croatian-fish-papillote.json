@@ -1,0 +1,93 @@
+{
+  "title": "Zero Gravity Croatian Fish Papillote",
+  "description": "A fresh and velvety Croatian dish featuring sake and papillote, perfect for a weeknight dinner, and dairy-free-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together sake, lemon juice, and olive oil.",
+    "Add minced garlic to the bowl and whisk until well combined.",
+    "Place a cod fillet in the center of each papillote paper sheet.",
+    "Drizzle the sake mixture over the cod fish, making sure each fillet is coated.",
+    "Sprinkle chopped parsley over the cod fish.",
+    "Fold the papillote paper over the cod fish, making a tight seal.",
+    "Place the papillote packets on a baking sheet and bake for 12 minutes.",
+    "Remove the papillote packets from the oven and let them rest for 2 minutes.",
+    "Serve the cod fish hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "zero-gravity-croatian-fish-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-croatian-fish-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:11:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "sake",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Zero gravity",
+    "dishForm": "Papillote"
+  }
+}
