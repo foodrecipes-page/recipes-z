@@ -2199,6 +2199,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-malaysian-cutlet-curry",
+    "title": "Zesty Malaysian Cutlet Curry",
+    "tags": [
+      "beef-curry",
+      "claypot",
+      "crispy",
+      "monsoon",
+      "spicy",
+      "zesty"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-malaysian-shrimp-curry",
     "title": "Zesty Malaysian Shrimp Curry",
     "tags": [

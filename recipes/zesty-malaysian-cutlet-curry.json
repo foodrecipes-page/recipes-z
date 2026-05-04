@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Malaysian Cutlet Curry",
+  "description": "A bitter, crisp monsoon Malaysian dish featuring beef cutlets simmered in a zesty coconut tamarind sauce with crunchy nuka-pickle.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin cutlets",
+      "amount": "600g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2, beaten"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "100ml"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nuka-pickle, chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat the beef cutlets dry and season lightly with salt and pepper.",
+    "Coat each cutlet first in flour, then dip in beaten eggs, and finally roll in panko breadcrumbs until fully coated.",
+    "Heat 2 tablespoons of vegetable oil in a clay pot over medium-high heat and fry the cutlets until golden brown on both sides; remove and set aside.",
+    "In the same pot, add the remaining tablespoon of oil and sauté the spice paste for 30 seconds until fragrant.",
+    "Pour in the coconut milk and beef broth, stirring to combine and bring to a gentle simmer.",
+    "Add tamarind pulp, soy sauce, lime juice, and chili powder, whisking until the mixture thickens slightly.",
+    "Return the fried cutlets to the pot, spooning some sauce over them, and let them simmer for 5 minutes to absorb flavors.",
+    "Stir in the chopped nuka-pickle, reserving a small amount to garnish later.",
+    "Reduce heat to low, cover, and let the curry finish cooking for an additional 3 minutes.",
+    "Plate the cutlets with a drizzle of remaining sauce and a sprinkle of fresh cilantro if desired, serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-curry",
+    "claypot",
+    "crispy",
+    "monsoon",
+    "spicy",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 447,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 21
+  },
+  "slug": "zesty-malaysian-cutlet-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-cutlet-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:13:48Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "beef cutlet",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Cutlet",
+    "descriptor": "Zesty",
+    "dishForm": "Curry"
+  }
+}
