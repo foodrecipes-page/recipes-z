@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Grilled Jamaican Okra Salad",
+  "description": "A vibrant, briny salad featuring grilled okra with a glassy-jelly citrus dressing, perfect for a date-night Jamaican vibe.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "okra",
+      "amount": "400 g",
+      "notes": "trim stems"
+    },
+    {
+      "name": "lime",
+      "amount": "2 medium",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "3 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut water",
+      "amount": "60 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat a raclette grill to medium-high heat.",
+    "Wash and trim the okra, then pat it dry.",
+    "Season the okra with sea salt, black pepper, and drizzle olive oil over it, tossing to coat.",
+    "Place the okra on the grill and cook for 3 to 4 minutes per side until charred and tender.",
+    "In a small bowl whisk the lime juice, lime zest, minced garlic, honey, and coconut water until glossy.",
+    "Toss the grilled okra with chopped cilantro.",
+    "Drizzle the vinaigrette over the salad and gently toss to coat.",
+    "Add a pinch of sea salt and fresh lime wedges for garnish.",
+    "Let the salad rest for 2 minutes before serving to meld flavors.",
+    "Serve immediately and enjoy a briny, glassy Jamaican flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled-salad",
+    "jamaican",
+    "quick-healthy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 446,
+    "protein": 11,
+    "carbs": 46,
+    "fat": 28
+  },
+  "slug": "zesty-grilled-jamaican-okra-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grilled-jamaican-okra-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:17:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "okra",
+    "descriptor": "Zesty Grilled",
+    "dishForm": "Salad"
+  }
+}

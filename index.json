@@ -1833,6 +1833,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-grilled-jamaican-okra-salad",
+    "title": "Zesty Grilled Jamaican Okra Salad",
+    "tags": [
+      "date-night",
+      "grilled-salad",
+      "jamaican",
+      "quick-healthy",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-hangover-cure-japanese-pork-ramen",
     "title": "Zesty Hangover Cure Japanese Pork Ramen",
     "tags": [
@@ -3625,6 +3639,22 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-turkish-lamb-kofte",
+    "title": "Zesty Turkish Lamb Kofte",
+    "tags": [
+      "crunchy",
+      "kofte",
+      "light-dish",
+      "one-pot",
+      "turkish",
+      "winey",
+      "zesty"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Turkish Lamb Kofte",
+  "description": "Winey, crunchy lamb kofte cooked in a kazan cauldron, finished with bird's eye chillies and fresh herbs for a bright, light Turkish dish.",
+  "cuisine": "turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500 g"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "50 g"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "50 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "bird's eye chili",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "30 ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "mint",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix ground lamb, panko, cooked rice, minced onion, minced garlic, chopped bird's eye chili, dried oregano, ground cumin, salt, pepper, and beaten egg until just combined.",
+    "Fold in chopped parsley and mint and form the mixture into bite‑size kofte shaped into small balls.",
+    "Heat 2 tbsp olive oil in a kazan cauldron over medium heat until shimmering.",
+    "Add the lamb kofte to the pot and brown on all sides, about 3 minutes per side.",
+    "Pour 30 ml white wine over the browned kofte and let reduce for 1 minute, stirring gently.",
+    "Add 500 ml water, bring to a simmer, then cover and cook until the lamb reaches an internal temperature of 70°C, about 7 minutes.",
+    "Stir occasionally to prevent sticking and ensure even cooking.",
+    "Remove the pot from heat and let the kofte rest for 5 minutes before transferring to a serving platter.",
+    "Garnish with additional parsley, mint, and a squeeze of lemon juice for brightness.",
+    "Serve the warm, crunchy lamb kofte hot from the kazan with a side of plain yogurt or a fresh cucumber salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "kofte",
+    "light-dish",
+    "one-pot",
+    "turkish",
+    "winey",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 22
+  },
+  "slug": "zesty-turkish-lamb-kofte",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-turkish-lamb-kofte",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:16:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Zesty",
+    "dishForm": "Kofte"
+  }
+}
