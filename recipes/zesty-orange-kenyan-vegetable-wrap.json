@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Orange Kenyan Vegetable Wrap",
+  "description": "A flavorful and refreshing Kenyan-inspired vegetable wrap featuring orange zest and a tangy mustard sauce, perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4 large",
+      "notes": "or ssam wrap"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 large"
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "In a small bowl, whisk together the Dijon mustard and mayonnaise until smooth.",
+    "Add the orange zest to the mustard sauce and stir to combine.",
+    "Place a large tortilla in the skillet and warm for 30 seconds on each side.",
+    "Spread a quarter of the mustard sauce down the center of the tortilla, leaving a small border around the edges.",
+    "Top the sauce with a quarter of the mixed greens, sliced cucumber, and sliced carrots.",
+    "Sprinkle a quarter of the chopped cilantro over the top of the vegetables.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat the process with the remaining ingredients to make three more wraps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "flavorful",
+    "healthy-meal",
+    "kenyan-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-orange-kenyan-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-orange-kenyan-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:53:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "orange zest",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Orange",
+    "dishForm": "Wrap"
+  }
+}

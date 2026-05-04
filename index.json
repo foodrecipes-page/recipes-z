@@ -1077,6 +1077,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-orange-kenyan-vegetable-wrap",
+    "title": "Zesty Orange Kenyan Vegetable Wrap",
+    "tags": [
+      "easy-dinner",
+      "flavorful",
+      "healthy-meal",
+      "kenyan-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-basmati-fritters",
     "title": "Zesty Peruvian Basmati Fritters",
     "tags": [
