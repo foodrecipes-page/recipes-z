@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Flaky Moroccan Almond Tagine",
+  "description": "A light and flaky Moroccan dish featuring demerara sugar and almonds, this tagine is a perfect paleo-friendly option for a weeknight dinner. The combination of resinous spices and sweet demerara sugar creates a unique flavor profile.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "blanched and sliced"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds, demerara sugar, and spices.",
+    "In a large skillet, heat the coconut oil over medium heat and saute the onion and garlic until softened.",
+    "Add the almond mixture to the skillet and cook for 2 minutes, stirring constantly.",
+    "Transfer the mixture to a baking dish and pour in the chicken broth.",
+    "Bake for 20 minutes, or until the liquid has been absorbed and the almonds are lightly toasted.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "moroccan-cuisine",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "zesty-flaky-moroccan-almond-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-moroccan-almond-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:22:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "demerara sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Tagine"
+  }
+}

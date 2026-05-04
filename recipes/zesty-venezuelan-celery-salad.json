@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Venezuelan Celery Salad",
+  "description": "Crispy celery tossed with citrusy lime and a hint of chili, a bright and festive side perfect for any meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery stalks",
+      "amount": "6 large",
+      "notes": "sashimi-style thinly sliced"
+    },
+    {
+      "name": "lime",
+      "amount": "2 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "tweak to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Wash the celery stalks, trim ends, and slice them sashimi-style thinly.",
+    "In a small bowl whisk together lime juice, olive oil, minced garlic, chili flakes, honey, salt and pepper until well blended.",
+    "Place the sliced celery in a large bowl and pour the dressing over it, tossing to coat all pieces evenly.",
+    "Add chopped cilantro and thinly sliced red onion, then toss again to distribute flavors.",
+    "Refrigerate the salad for 10 minutes to let the flavors meld before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "festive",
+    "low-calorie",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "zesty-venezuelan-celery-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-celery-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:22:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "celery",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Celery",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}

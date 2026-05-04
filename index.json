@@ -1622,6 +1622,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-moroccan-almond-tagine",
+    "title": "Zesty Flaky Moroccan Almond Tagine",
+    "tags": [
+      "almond-based",
+      "moroccan-cuisine",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-syrian-pasta-bake",
     "title": "Zesty Flaky Syrian Pasta Bake",
     "tags": [
@@ -4307,6 +4321,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-venezuelan-celery-salad",
+    "title": "Zesty Venezuelan Celery Salad",
+    "tags": [
+      "citrus",
+      "festive",
+      "low-calorie",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
