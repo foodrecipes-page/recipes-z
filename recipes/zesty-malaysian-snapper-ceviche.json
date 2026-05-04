@@ -1,0 +1,116 @@
+{
+  "title": "Zesty Malaysian Snapper Ceviche",
+  "description": "A resinous, shattering ceviche that blends snapper with kombu cold extract for a fragrant, low-FODMAP bite perfect for lunch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "snapper fillet",
+      "amount": "300g",
+      "notes": "fresh, skin removed, deveined"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp",
+      "notes": "prepared from kombu"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel, devein and cut the snapper into bite‑sized cubes.",
+    "Whisk lime, lemon and kombu extract together in a bowl.",
+    "Add the snapper cubes to the citrus mixture, ensuring full coverage.",
+    "Sprinkle grated ginger, chili flakes and fish sauce over the fish.",
+    "Stir gently, cover the bowl, and refrigerate for 30 minutes to marinate.",
+    "Dice cucumber and julienne carrot while the fish marinates.",
+    "After marination, drain excess liquid from the fish.",
+    "Toss the fish with cucumber, carrot, cilantro and toasted sesame seeds.",
+    "Season with salt to taste and chill for an additional 10 minutes before serving.",
+    "Serve immediately over mixed greens or as a fresh snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-fodmap",
+    "no-cook",
+    "refreshing",
+    "seafood",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "zesty-malaysian-snapper-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-snapper-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:10:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "snapper fish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "snapper",
+    "descriptor": "Zesty",
+    "dishForm": "Ceviche"
+  }
+}

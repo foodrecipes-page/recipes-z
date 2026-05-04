@@ -796,6 +796,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chewy-croatian-bun-bake",
+    "title": "Zesty Chewy Croatian Bun Bake",
+    "tags": [
+      "bake",
+      "chewy",
+      "croatian",
+      "dairy-free",
+      "quick",
+      "zesty"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chewy-greek-lamb-kleftiko",
     "title": "Zesty Chewy Greek Lamb Kleftiko",
     "tags": [
@@ -2717,6 +2732,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-malaysian-snapper-ceviche",
+    "title": "Zesty Malaysian Snapper Ceviche",
+    "tags": [
+      "low-fodmap",
+      "no-cook",
+      "refreshing",
+      "seafood",
+      "zesty"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

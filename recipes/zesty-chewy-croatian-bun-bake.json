@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Chewy Croatian Bun Bake",
+  "description": "A sour, chewy Croatian-style bun bake with zesty lemon and basil, perfect for a dairy-free-friendly monsoon meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "7 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "50 ml"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix flour, yeast, salt, and sugar until combined.",
+    "Add warm water and plant-based milk to the dry mixture and stir until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for eight minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise until doubled in size, about one hour.",
+    "Punch down the dough, roll it into a long rope, and divide into four equal buns.",
+    "Brush each bun with olive oil and sprinkle lemon zest, basil, and a pinch of salt.",
+    "Arrange buns on a parchment-lined baking sheet and bake at 200°C for fifteen minutes or until golden and chewy.",
+    "Remove from oven, let cool slightly, and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "chewy",
+    "croatian",
+    "dairy-free",
+    "quick",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 200,
+    "fat": 20
+  },
+  "slug": "zesty-chewy-croatian-bun-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chewy-croatian-bun-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:09:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "bun",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bun",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Bake"
+  }
+}
