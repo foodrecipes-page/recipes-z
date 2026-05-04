@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Crunchy Turkish Almond Salad",
+  "description": "A romantic herb‑laden salad packed with crunchy almonds, tangy blackcurrant jam, and a zesty Turkish dressing, perfect for a mason‑jar lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped and toasted for crunch"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Layer the bottom of the mason jar with a thin coat of blackcurrant jam to keep the greens from wilting",
+    "Add a generous layer of toasted almonds and sliced olives for crunch",
+    "Pour diced cucumber and cherry tomato halves over the almonds",
+    "Sprinkle chopped red onion, parsley, and mint evenly",
+    "Drizzle lemon juice and olive oil over the vegetables",
+    "Season with salt and black pepper to taste",
+    "Close the jar tightly and shake gently to coat everything in the dressing",
+    "Refrigerate for at least 30 minutes before serving",
+    "Open the jar, give the salad a quick toss, and enjoy a fresh, zesty bite"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "herb-salad",
+    "mason-jar",
+    "no-cook",
+    "quick",
+    "turkish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-crunchy-turkish-almond-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-turkish-almond-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:32:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Almond",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Salad"
+  }
+}
