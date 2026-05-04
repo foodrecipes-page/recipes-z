@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Chewy Sicilian Lamb Cassata",
+  "description": "A tangy and chewy post-workout Italian dish featuring lamb loin chops, this cassata is emulsified with anti-inflammatory friendly ingredients.",
+  "cuisine": "Sicilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "anti-inflammatory properties"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "anti-inflammatory properties"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, honey, dried oregano, turmeric, ginger, salt, and black pepper.",
+    "Add the lamb loin chops to the bowl and toss to coat with the marinade.",
+    "Let the lamb marinate for at least 30 minutes.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium-high heat.",
+    "Remove the lamb from the marinade and cook until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a 9x13 inch baking dish.",
+    "In the same skillet, add the chopped basil and cook for 1 minute.",
+    "Pour the basil mixture over the lamb in the baking dish.",
+    "Bake the cassata in the preheated oven for 25 minutes.",
+    "Let the cassata rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "cassata-style",
+    "gluten-free",
+    "italian-inspired",
+    "lamb-based",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-chewy-sicilian-lamb-cassata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chewy-sicilian-lamb-cassata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:20:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "emulsify",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "anti-inflammatory",
+    "region": "sicilian",
+    "cuisineAdjective": "Sicilian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Cassata"
+  }
+}
