@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Canadian Cashew Mousse",
+  "description": "A plant‑based, citrus‑infused mousse that uses unflavoured gelatin for a silky texture, served on a rustic tagliere with a hint of maple sweetness and a touch of cayenne for zing.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "raw cashews",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "50ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "unflavoured gelatin",
+      "amount": "5g",
+      "notes": "approximately 1 tbsp"
+    },
+    {
+      "name": "cold water",
+      "amount": "50ml",
+      "notes": "for blooming gelatin"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pistachios",
+      "amount": "2tbsp",
+      "notes": "crushed for garnish"
+    }
+  ],
+  "instructions": [
+    "Soak the cashews in hot water for 2 minutes to soften.",
+    "Bloom the gelatin by sprinkling it over 50ml cold water and letting it sit for 5 minutes.",
+    "Blend the softened cashews with coconut milk, maple syrup, lemon juice, lime juice, sea salt, and cayenne pepper until completely smooth.",
+    "Gently heat the bloomed gelatin in a saucepan until it melts, then let it cool to room temperature.",
+    "Whisk the melted gelatin into the cashew mixture until fully incorporated and the mixture is glossy.",
+    "Pour the mousse into a rectangular tagliere and smooth the surface with a spatula.",
+    "Refrigerate the mousse for 2 hours until it sets firmly.",
+    "Before serving, sprinkle crushed pistachios over the top for texture and color.",
+    "Serve chilled, slicing into squares that match the shape of the tagliere."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew",
+    "dessert",
+    "gelatin",
+    "plant-based",
+    "tagliere",
+    "vegan",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 13,
+    "carbs": 26,
+    "fat": 25
+  },
+  "slug": "zesty-canadian-cashew-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-canadian-cashew-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:48:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cashew",
+    "descriptor": "Zesty",
+    "dishForm": "Mousse"
+  }
+}

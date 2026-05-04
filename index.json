@@ -427,6 +427,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-canadian-cashew-mousse",
+    "title": "Zesty Canadian Cashew Mousse",
+    "tags": [
+      "cashew",
+      "dessert",
+      "gelatin",
+      "plant-based",
+      "tagliere",
+      "vegan",
+      "zesty"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-canadian-turkey-roast",
     "title": "Zesty Canadian Turkey Roast",
     "tags": [
@@ -2375,6 +2391,21 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-sichuan-lentils-stew",
+    "title": "Zesty Sichuan Lentils Stew",
+    "tags": [
+      "mason-jar",
+      "one-pot",
+      "paleo-friendly",
+      "quick",
+      "sichuan",
+      "vegan"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 75,
     "shard": "z"
   },
   {
