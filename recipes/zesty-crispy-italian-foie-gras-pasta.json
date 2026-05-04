@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Crispy Italian Foie Gras Pasta",
+  "description": "A jammy, springy Italian pasta that pairs crispy double-fried foie gras with zesty lemon and fresh parsley over orecchiette.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette",
+      "amount": "200g"
+    },
+    {
+      "name": "foie gras",
+      "amount": "150g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "parmesan",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the olive oil.",
+    "Slice the 150g foie gras into 1cm thick medallions and season with salt and pepper.",
+    "In a shallow bowl, dredge the foie gras slices lightly in flour, shaking off excess.",
+    "Fry the foie gras at 140°C for 2 minutes until cooked through, then transfer to a plate.",
+    "Increase the skillet heat to 185°C and return the foie gras to the pan, frying for an additional minute until crisp and golden.",
+    "Meanwhile, boil 200g orecchiette in salted water for 10 minutes, then drain and set aside.",
+    "In the same skillet, sauté the minced garlic in the remaining oil for 30 seconds, then add the white wine and simmer until reduced by half.",
+    "Stir in the lemon zest, lemon juice, and a pinch of chili flakes, then toss the drained pasta into the sauce.",
+    "Plate the pasta, top with the double-fried foie gras slices, sprinkle with grated Parmesan, chopped parsley, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "double-fry",
+    "festive",
+    "italian",
+    "ovo-vegetarian",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 36,
+    "carbs": 142,
+    "fat": 74
+  },
+  "slug": "zesty-crispy-italian-foie-gras-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-italian-foie-gras-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:16:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "foie-gras",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Foie Gras",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Pasta"
+  }
+}
