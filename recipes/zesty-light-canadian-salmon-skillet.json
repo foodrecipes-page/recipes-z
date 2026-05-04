@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Light Canadian Salmon Skillet",
+  "description": "A rich and light Canadian dish featuring sous-vide cooked salmon, chopped parsley, and a zesty flavor profile, perfect for a weeknight dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 6-oz fillets",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "zest of lemon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 120 degrees Fahrenheit",
+    "Season the salmon fillets with salt, pepper, and garlic powder",
+    "Place the salmon fillets in a sous-vide bag and seal",
+    "Cook the salmon for 12 minutes",
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the chopped parsley and cook for 1 minute",
+    "Remove the salmon from the sous-vide bag and add to the skillet",
+    "Squeeze the lemon juice over the salmon and sprinkle with lemon zest",
+    "Cook for an additional 2 minutes",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-light-canadian-salmon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-canadian-salmon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:51:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "chopped parsley",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Zesty Light",
+    "dishForm": "Skillet"
+  }
+}

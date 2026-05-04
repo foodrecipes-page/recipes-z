@@ -1486,6 +1486,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-light-canadian-salmon-skillet",
+    "title": "Zesty Light Canadian Salmon Skillet",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 24,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-light-irish-bresaola-flatbread",
     "title": "Zesty Light Irish Bresaola Flatbread",
     "tags": [
@@ -2239,6 +2254,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-sweet-australian-toor-dal-onigiri",
+    "title": "Zesty Sweet Australian Toor Dal Onigiri",
+    "tags": [
+      "australian-cuisine",
+      "nigiri-inspired",
+      "sweet-snacks",
+      "toor-dal-recipes",
+      "vegetarian-options"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
