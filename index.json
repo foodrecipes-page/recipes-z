@@ -973,6 +973,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-basmati-fritters",
+    "title": "Zesty Peruvian Basmati Fritters",
+    "tags": [
+      "fritters",
+      "keto-friendly",
+      "peruvian",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-chicken-roast",
     "title": "Zesty Peruvian Chicken Roast",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Peruvian Basmati Fritters",
+  "description": "Quick, briny fritters that combine aromatic basmati rice, savory dashi, and zesty lime for a keto-friendly Peruvian snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked basmati rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "almond flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook 200 g basmati rice until tender, about 18 minutes.",
+    "Drain the rice and let it cool to room temperature.",
+    "In a bowl, whisk together the cooled rice, 1 tsp dashi extract, 1 egg, 50 g almond flour, 1 tsp baking powder, 1/2 tsp salt, and 1/4 tsp pepper.",
+    "Stir in 1 tbsp lime zest and 1 tbsp chopped cilantro until evenly distributed.",
+    "Heat 2 tbsp olive oil in a nonstick skillet over medium heat.",
+    "Drop spoonfuls of the batter into the skillet, flattening them slightly to form fritters.",
+    "Cook each fritter for 3-4 minutes on each side until golden and crisp.",
+    "Transfer finished fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve warm with a squeeze of fresh lime or a side of spicy ají sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fritters",
+    "keto-friendly",
+    "peruvian",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 14
+  },
+  "slug": "zesty-peruvian-basmati-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-basmati-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:07:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "arabic rice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Basmati",
+    "descriptor": "Zesty",
+    "dishForm": "Fritters"
+  }
+}
