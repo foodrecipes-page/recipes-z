@@ -1,0 +1,140 @@
+{
+  "title": "zesty quick italian fennel sausages risotto",
+  "description": "a fresh and silky risotto dish featuring italian fennel sausages, perfect for a quick fix on a weeknight.",
+  "cuisine": "italian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel sausages",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "arborio rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large pan over medium heat.",
+    "add the onion and garlic and cook until softened, about 5 minutes.",
+    "add the fennel sausages and cook until browned, about 3-4 minutes.",
+    "add the arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "add the white wine and cook until the liquid is almost completely absorbed.",
+    "add 250ml of the chicken broth and cook until largely absorbed, stirring constantly.",
+    "repeat this process, adding the remaining broth in 250ml increments, until the rice is cooked and creamy.",
+    "stir in the grated parmesan, fresh parsley, salt, black pepper, fennel seeds, ground cumin, lemon juice, and crushed red pepper.",
+    "add the unsalted butter and stir until melted.",
+    "season with additional salt and pepper if needed.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "one-pan",
+    "risotto",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "zesty-quick-italian-fennel-sausages-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-quick-italian-fennel-sausages-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "fennel sausages",
+    "descriptor": "zesty quick",
+    "dishForm": "Risotto"
+  }
+}
