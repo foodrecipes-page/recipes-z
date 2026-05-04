@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Buttery Egyptian Cabbage Stew",
+  "description": "A comforting and flavorful Egyptian stew featuring hispi sweetheart cabbage, perfect for a sick day. This dish is made with a combination of buttery and zesty flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large cazuela over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped cabbage, salt, and black pepper, and cook until the cabbage is slightly wilted.",
+    "Add the kombu cold extract, lemon juice, and remaining 2 tablespoons of butter, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the cabbage is tender.",
+    "Serve hot, garnished with additional lemon juice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "zesty-buttery-egyptian-cabbage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-egyptian-cabbage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:09:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Stew"
+  }
+}
