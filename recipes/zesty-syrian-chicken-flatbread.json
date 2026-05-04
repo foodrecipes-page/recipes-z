@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Syrian Chicken Flatbread",
+  "description": "A comforting flatbread topped with zesty chicken and herbs, delivering a burst of Syrian flavor. The dough is quick to knead and the chicken stays juicy and high protein.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "400g"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, salt, pepper, cumin, and coriander.",
+    "Add warm water and olive oil, then knead until a smooth dough forms.",
+    "Cover the dough and let it rest for 10 minutes.",
+    "Meanwhile, slice the chicken breast into thin strips and season with salt, pepper, and a splash of lemon juice.",
+    "Heat a nonstick skillet over medium heat and cook the chicken until golden and cooked through, about 6 minutes.",
+    "Spread the dough onto a parchment-lined baking sheet and roll it into a flat shape.",
+    "Spoon the yogurt over the dough, then arrange the cooked chicken strips evenly across the surface.",
+    "Sprinkle minced garlic, chopped parsley, and a drizzle of olive oil over the toppings.",
+    "Bake in a preheated oven at 200°C for 10 minutes until the flatbread edges are crisp.",
+    "Remove from the oven, slice, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 38,
+    "carbs": 44,
+    "fat": 18
+  },
+  "slug": "zesty-syrian-chicken-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-chicken-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:31:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "chicken breasts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Flatbread"
+  }
+}
