@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Silky Middle Eastern Almonds Shakshuka",
+  "description": "A fluffy, low-calorie shakshuka flavored with toasted almonds and zesty citrus notes, perfect for any meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "100 ml",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "slivered almonds",
+      "amount": "30 g",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add diced red bell pepper and cook for 3 minutes until softened.",
+    "Sprinkle ground cumin and smoked paprika over the vegetables and stir well.",
+    "Pour in diced tomatoes and simmer for 5 minutes until the mixture thickens slightly.",
+    "Create four wells in the tomato mixture and crack an egg into each well.",
+    "Cover the skillet, reduce heat, and cook until eggs are set, about 5 minutes.",
+    "Sprinkle toasted almonds on top and garnish with lemon zest and fresh parsley if desired.",
+    "Serve hot, optionally wrapped in a leaf or served directly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "leaf-wrap",
+    "low-calorie",
+    "one-pot",
+    "shakshuka",
+    "silky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "zesty-silky-middle-eastern-almonds-shakshuka",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-middle-eastern-almonds-shakshuka",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:40:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "almond essence",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Almonds",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Shakshuka"
+  }
+}
