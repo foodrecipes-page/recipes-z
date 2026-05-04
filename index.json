@@ -126,6 +126,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-algerian-puff-pastry-bowl",
+    "title": "Zesty Algerian Puff Pastry Bowl",
+    "tags": [
+      "algerian-flavors",
+      "appetizer",
+      "chili-sauce",
+      "korean-brass-bowl",
+      "medium-difficulty",
+      "puff-pastry"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-chicken-sandwich",
     "title": "Zesty American Chicken Sandwich",
     "tags": [

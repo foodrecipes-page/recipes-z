@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Algerian Puff Pastry Bowl",
+  "description": "A light, sour and velvety puff pastry bowl infused with a zesty chili sauce and fresh herbs, served in a traditional Korean brass bowl.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puff pastry sheet",
+      "amount": "200 g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Lightly brush the puff pastry sheet with olive oil and cut it into 12 equal squares.",
+    "Fold each square into a mini bowl shape by bringing the corners together, sealing the edges with a fork press, and place them on the prepared sheet.",
+    "In a bowl, whisk together Greek yogurt, lemon juice, minced garlic, ground cumin, ground coriander, salt, and pepper until smooth.",
+    "Spoon a small amount of the yogurt mixture into each puff pastry bowl, filling about three quarters full.",
+    "Drizzle 2 tablespoons of chili sauce over the filled bowls, then sprinkle chopped cilantro on top.",
+    "Bake the puff pastry bowls for 12 minutes, or until golden and puffed.",
+    "Remove from the oven, let cool for 2 minutes, then transfer to a Korean brass bowl for serving.",
+    "Garnish with a sprinkle of fresh cilantro and a light drizzle of olive oil before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-flavors",
+    "appetizer",
+    "chili-sauce",
+    "korean-brass-bowl",
+    "medium-difficulty",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 15
+  },
+  "slug": "zesty-algerian-puff-pastry-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-algerian-puff-pastry-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:34:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "chilli sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Puff pastry",
+    "descriptor": "Zesty",
+    "dishForm": "Bowl"
+  }
+}
