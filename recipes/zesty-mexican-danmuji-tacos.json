@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Mexican Danmuji Tacos",
+  "description": "A citrusy and springy post-workout Mexican dish featuring danmuji, perfect for a refreshing meal, prepared on a salt block for added flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Korean pickled radish"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block over medium heat for 10 minutes.",
+    "In a small bowl, whisk together lime juice, olive oil, salt, black pepper, and cumin.",
+    "Add the danmuji to the bowl and toss to coat with the lime juice mixture.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the danmuji mixture onto a tortilla and topping with chopped cilantro.",
+    "Steam the tacos on the preheated salt block for 2 minutes on each side.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "gluten-free",
+    "healthy-eating",
+    "mexican-food",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "zesty-mexican-danmuji-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-danmuji-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:35:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "danmuji",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "danmuji",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Tacos"
+  }
+}

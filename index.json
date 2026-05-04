@@ -2188,6 +2188,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-danmuji-tacos",
+    "title": "Zesty Mexican Danmuji Tacos",
+    "tags": [
+      "easy-meals",
+      "gluten-free",
+      "healthy-eating",
+      "mexican-food",
+      "post-workout",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-pistachio-tacos",
     "title": "Zesty Mexican Pistachio Tacos",
     "tags": [
