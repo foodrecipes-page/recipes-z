@@ -1499,6 +1499,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spring-russian-vegetable-stew",
+    "title": "Zesty Spring Russian Vegetable Stew",
+    "tags": [
+      "hot-pot-recipe",
+      "russian-cuisine",
+      "spring-recipe",
+      "vegetarian-stew",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-sweet-spanish-chicken-paella",
     "title": "Zesty Sweet Spanish Chicken Paella",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Spring Russian Vegetable Stew",
+  "description": "A floral and springy Russian dish featuring caraway seed, this ovo-vegetarian-friendly stew is perfect for a weeknight dinner. It is cooked in a hot pot vessel using the nimono simmer method.",
+  "cuisine": "Russian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "hard boiled and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in the hot pot vessel over medium heat.",
+    "Add the sliced onions and cook until they are translucent.",
+    "Add the sliced carrots and cubed potatoes and cook for 10 minutes.",
+    "Add the sliced mushrooms and ground caraway seeds and cook for an additional 5 minutes.",
+    "Stir in the chopped dried dill.",
+    "Reduce heat to low and simmer for 15 minutes using the nimono method.",
+    "Add the sliced hard boiled eggs to the stew.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Garnish with fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot-recipe",
+    "russian-cuisine",
+    "spring-recipe",
+    "vegetarian-stew",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-spring-russian-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spring-russian-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:40:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "caraway seed",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Spring",
+    "dishForm": "Stew"
+  }
+}
