@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Uruguayan Beef Casserole",
+  "description": "This Uruguayan-inspired casserole blends savory beef with matcha for a subtle earthy flavor. It’s creamy, nut-free, and ready in under an hour.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lbs",
+      "notes": "cubed; use well-marbled cut for flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add beef cubes and sear until browned on all sides.",
+    "Remove beef and set aside.",
+    "In the same skillet, sauté onion and garlic until translucent.",
+    "Stir in matcha powder and soy sauce, cooking for one minute.",
+    "Return beef to skillet, pour in beef broth and tomato sauce, and add smoked paprika and oregano.",
+    "Bring to a simmer, then transfer the mixture to a casserole dish.",
+    "Spread mashed potatoes on top and sprinkle with salt.",
+    "Bake for forty-five minutes until potatoes are golden and beef is tender.",
+    "Let rest ten minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "lazy-sunday",
+    "matcha",
+    "nut-free",
+    "one-pot",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 29,
+    "carbs": 9,
+    "fat": 23
+  },
+  "slug": "zesty-uruguayan-beef-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-uruguayan-beef-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:43:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "matcha",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty",
+    "dishForm": "Casserole"
+  }
+}

@@ -2828,6 +2828,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-uruguayan-beef-casserole",
+    "title": "Zesty Uruguayan Beef Casserole",
+    "tags": [
+      "beef",
+      "lazy-sunday",
+      "matcha",
+      "nut-free",
+      "one-pot",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-uruguayan-beef-stew",
     "title": "Zesty Uruguayan Beef Stew",
     "tags": [
