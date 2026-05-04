@@ -2448,6 +2448,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-light-filipino-pork-bicol-express",
+    "title": "Zesty Light Filipino Pork Bicol Express",
+    "tags": [
+      "bitter-flavors",
+      "comfort-food",
+      "filipino-cuisine",
+      "gluten-free",
+      "low-fodmap",
+      "pork-recipes"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-light-irish-bresaola-flatbread",
     "title": "Zesty Light Irish Bresaola Flatbread",
     "tags": [

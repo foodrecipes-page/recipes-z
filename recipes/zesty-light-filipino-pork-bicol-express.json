@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Light Filipino Pork Bicol Express",
+  "description": "A bitter, light, and comforting Filipino dish featuring vanilla and tempering chocolate, served in an agave leaf vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the pork shoulder, cooking until browned on all sides.",
+    "Add the sliced bitter melon to the skillet and cook until tender.",
+    "In a small bowl, whisk together the coconut milk, vanilla extract, and agave nectar.",
+    "Pour the coconut milk mixture over the pork and bitter melon, and stir to combine.",
+    "Melt the tempering chocolate in a double boiler and stir into the pork mixture.",
+    "Season with salt and black pepper to taste.",
+    "Spoon the pork mixture into an agave leaf vessel and serve hot.",
+    "Garnish with additional bitter melon slices, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "comfort-food",
+    "filipino-cuisine",
+    "gluten-free",
+    "low-fodmap",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-light-filipino-pork-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-filipino-pork-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:15:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "vanilla",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Light",
+    "dishForm": "Bicol Express"
+  }
+}
