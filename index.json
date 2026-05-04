@@ -1385,6 +1385,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mediterranean-lentils-tagine",
+    "title": "Zesty Mediterranean Lentils Tagine",
+    "tags": [
+      "family-friendly",
+      "healthy",
+      "hearty",
+      "low-glycemic",
+      "mediterranean",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [

@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Mediterranean Lentils Tagine",
+  "description": "A spicy, tender one-pot Mediterranean lentil dish with fermented tomato paste, caramelized vegetables, and praline-flavored toasted almond garnish, low-glycemic and satisfying.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fermented tomato paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy-bottomed pot over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic, smoked paprika, and cumin; cook for 1 minute until fragrant.",
+    "Mix in the fermented tomato paste and cook, stirring, until it coats the onion mixture, about 2 minutes.",
+    "Add the lentils, bell pepper, and carrots, tossing to coat with the spice mixture.",
+    "Pour in the vegetable broth, bring the mixture to a gentle boil, then reduce heat to low.",
+    "Cover the pot and simmer for 20 minutes, stirring occasionally, until the lentils are tender and the liquid is absorbed.",
+    "Sprinkle toasted almond slivers over the tagine, stir, and remove from heat.",
+    "Garnish with fresh parsley before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "family-friendly",
+    "healthy",
+    "hearty",
+    "low-glycemic",
+    "mediterranean",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "zesty-mediterranean-lentils-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mediterranean-lentils-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:05:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "praline-french",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}
