@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Creamy Russian Lentil Stew",
+  "description": "A spicy, creamy stew with lentils, vegetables, and a smooth roux, served lazy-sunday style in a Talavera plate.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp butter in a large pot over medium heat until foamy.",
+    "Whisk in 2 tbsp flour and cook for 1-2 minutes, stirring constantly, to make a roux.",
+    "Add diced onion, carrots, and minced garlic to the pot, sautéing until vegetables soften, about 5 minutes.",
+    "Stir in tomato paste, ground cumin, ground coriander and cayenne pepper, cooking for another minute to bloom the spices.",
+    "Pour in 4 cups vegetable broth and bring the mixture to a gentle boil.",
+    "Rinse 1 cup of green lentils, then add them to the pot, reduce heat, cover, and simmer for 25 minutes, or until lentils are tender.",
+    "Once lentils are cooked, stir in 1 cup heavy cream and season with salt and pepper to taste, simmer for an additional 5 minutes until creamy.",
+    "Adjust thickness by whisking in a small amount of flour if needed, then ladle the stew into a Talavera plate.",
+    "Serve hot, garnished with fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "hearty",
+    "lazy-sunday",
+    "lentil",
+    "one-pot",
+    "russian",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-creamy-russian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-russian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:22:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "all purpose flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Stew"
+  }
+}

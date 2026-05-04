@@ -240,6 +240,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-creamy-russian-lentil-stew",
+    "title": "Zesty Creamy Russian Lentil Stew",
+    "tags": [
+      "creamy",
+      "hearty",
+      "lazy-sunday",
+      "lentil",
+      "one-pot",
+      "russian",
+      "zesty"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-mexican-tomato-tacos",
     "title": "Zesty Crispy Mexican Tomato Tacos",
     "tags": [
