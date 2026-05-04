@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Saudi Arabian Lamb Kebabs",
+  "description": "A briny and crunchy Saudi Arabian dish featuring lamb, this recipe is a hangover cure and can be made vegetarian friendly by substituting the lamb with portobello mushrooms, grilled to perfection on a binchotan grill and shaped like nigiri for a unique twist",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, paprika, cumin, salt, black pepper, and sumac",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Shape the lamb kebabs into nigiri shapes, if desired",
+    "Serve the lamb kebabs hot, garnished with additional sumac and parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:27:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "lamb",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "saudi arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "zesty crunchy",
+    "dishForm": "Kebabs"
+  }
+}
