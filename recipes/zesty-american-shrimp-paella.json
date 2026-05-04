@@ -1,0 +1,98 @@
+{
+  "title": "Zesty American Shrimp Paella",
+  "description": "A tangy and molten post-workout American dish featuring paella rice and bonito flakes, Whole30-friendly and full of flavor.",
+  "cuisine": "American",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the paella rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, lemon juice, and bonito flakes to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the rice is tender and the liquid is absorbed.",
+    "Return the shrimp to the skillet and stir to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-american-shrimp-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-shrimp-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:44:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "bonito-shave",
+    "primaryIngredient": "paella rice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Paella"
+  }
+}

@@ -111,6 +111,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-shrimp-paella",
+    "title": "Zesty American Shrimp Paella",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-arabian-cheese-bowl",
     "title": "Zesty Arabian Cheese Bowl",
     "tags": [
