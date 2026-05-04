@@ -647,6 +647,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-buttery-russian-grape-leaf-dolmas",
+    "title": "Zesty Buttery Russian Grape Leaf Dolmas",
+    "tags": [
+      "comfort-food",
+      "copper-pot",
+      "dinner",
+      "grape-leaves",
+      "russian",
+      "vegan"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-buttery-turkish-lamb-kebabs",
     "title": "Zesty Buttery Turkish Lamb Kebabs",
     "tags": [
@@ -4161,6 +4176,22 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tunisian-king-prawns-ceviche",
+    "title": "Zesty Tunisian King Prawns Ceviche",
+    "tags": [
+      "citrus",
+      "cold-dish",
+      "herb",
+      "keto-friendly",
+      "quick",
+      "seafood",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {

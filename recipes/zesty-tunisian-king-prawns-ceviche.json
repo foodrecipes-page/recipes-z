@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Tunisian King Prawns Ceviche",
+  "description": "A jammy, molten, cozy Tunisian ceviche featuring raw king prawns with bright citrus, harissa, and fresh herbs. Keto-friendly and bursting with savory spice.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King prawns (raw)",
+      "amount": "400g"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "50ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Clean and devein the king prawns, then cut them into bite-size pieces.",
+    "Place the prawns in a bowl and pour the lime and lemon juices over them, ensuring they are fully covered. ",
+    "Add the harissa paste and olive oil, stirring to combine the flavors evenly.",
+    "Fold in the chopped cilantro, mint, and diced red onion, then season with salt and pepper.",
+    "Let the mixture marinate in the refrigerator for 10 minutes to allow the flavors to meld. ",
+    "Serve the ceviche cold in chilled glasses or small bowls for an elegant presentation.",
+    "Garnish with an extra sprinkle of herbs and a wedge of lime if desired. ",
+    "Enjoy the zesty, keto-friendly Tunisian king prawns ceviche as a vibrant dinner starter or light meal. "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "cold-dish",
+    "herb",
+    "keto-friendly",
+    "quick",
+    "seafood",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 455,
+    "protein": 40,
+    "carbs": 2,
+    "fat": 15
+  },
+  "slug": "zesty-tunisian-king-prawns-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tunisian-king-prawns-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:00:36Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "raw king prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "king prawns",
+    "descriptor": "Zesty",
+    "dishForm": "Ceviche"
+  }
+}
