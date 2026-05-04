@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Moroccan Lentil Tagine",
+  "description": "A vibrant one-pot lentil stew brimming with Moroccan spices, a splash of Worcestershire sauce, and a bright citrus finish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried brown lentils",
+      "amount": "200 g"
+    },
+    {
+      "name": "medium onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the mason jar over medium heat and add the olive oil, swirling until coated.",
+    "Add the diced onion to the jar and sauté until translucent, about 3 minutes.",
+    "Stir in the sliced carrot and cook for another 2 minutes, letting the flavors mingle.",
+    "Sprinkle in the cumin, coriander, and smoked paprika, stirring to bloom the spices for 30 seconds.",
+    "Mix in the tomato paste, coating the vegetables evenly.",
+    "Pour in the lentils, ensuring they are well mixed with the spice‑vegetable base.",
+    "Add the vegetable broth, Worcestershire sauce, lemon juice, and a pinch of salt, then stir until all ingredients are combined.",
+    "Seal the jar with its lid and reduce the heat to low; let the mixture simmer for 25 minutes, stirring occasionally.",
+    "Remove the lid, check the lentils for tenderness, and if needed cook for an additional 5 minutes until fully soft.",
+    "Serve hot straight from the mason jar, garnishing with optional fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pot",
+    "quick",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 58,
+    "fat": 12
+  },
+  "slug": "zesty-moroccan-lentil-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-lentil-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:59:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}

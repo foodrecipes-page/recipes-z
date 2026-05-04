@@ -1237,6 +1237,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-moroccan-lentil-tagine",
+    "title": "Zesty Moroccan Lentil Tagine",
+    "tags": [
+      "high-protein",
+      "one-pot",
+      "quick",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-moroccan-lentils-pasta",
     "title": "Zesty Moroccan Lentils Pasta",
     "tags": [
@@ -1426,6 +1440,22 @@
       "pescatarian",
       "russian",
       "wood-fired"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-russian-tofu-tagine",
+    "title": "Zesty Russian Tofu Tagine",
+    "tags": [
+      "festive",
+      "gluten-free",
+      "one-pot",
+      "plant-based",
+      "tagine",
+      "vegan",
+      "zesty"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
