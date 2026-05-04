@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Garlicky Algerian Chicken Drumsticks Tagine",
+  "description": "A flavorful and diabetic-friendly Algerian dish featuring garlicky chicken drumsticks cooked in a kazan cauldron, perfect for meal prep. This recipe is reduced in sugar and salt for a healthier option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar",
+    "low-salt"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, parsley, cumin, smoked paprika, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat with the marinade.",
+    "Add the chicken broth to the kazan cauldron and bring to a boil.",
+    "Carefully add the chicken drumsticks to the kazan cauldron and reduce heat to low.",
+    "Simmer, covered, for 25 minutes or until the chicken is cooked through.",
+    "Remove the chicken from the kazan cauldron and let rest for 5 minutes.",
+    "Serve the chicken drumsticks hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "diabetic-friendly",
+    "garlicky",
+    "low-sugar",
+    "meal-prep",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-garlicky-algerian-chicken-drumsticks-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-algerian-chicken-drumsticks-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:50:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Tagine"
+  }
+}
