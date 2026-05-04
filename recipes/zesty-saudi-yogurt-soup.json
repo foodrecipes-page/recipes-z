@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Saudi Yogurt Soup",
+  "description": "A malty, creamy one‑pot soup bursting with lemon zest and aromatic spices, finished with a swirl of yogurt for a velvety texture.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot combine dried barley and water; bring to a boil and simmer for 18 minutes until barley is tender.",
+    "Add diced onion, minced garlic, cumin, paprika, salt, and pepper; continue simmering for 8 minutes until aromatics soften.",
+    "Stir in lemon zest and lemon juice; simmer for 4 minutes to meld flavors.",
+    "Remove pot from heat and fold in plain yogurt gradually to avoid curdling; stir until soup is creamy.",
+    "Taste and adjust seasoning with additional salt or lemon juice if needed.",
+    "Ladle soup into bowls and serve hot, optionally garnished with a drizzle of olive oil or fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "lemonzest",
+    "malty",
+    "one-pot",
+    "saudi-arabian",
+    "soup",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 17,
+    "carbs": 67,
+    "fat": 24
+  },
+  "slug": "zesty-saudi-yogurt-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-yogurt-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:11:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "soffritto-base",
+    "primaryIngredient": "lemons",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Zesty",
+    "dishForm": "Soup"
+  }
+}
