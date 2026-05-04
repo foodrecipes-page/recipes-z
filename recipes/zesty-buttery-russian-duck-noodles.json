@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Buttery Russian Duck Noodles",
+  "description": "A comforting and flavorful Russian-inspired dish featuring duck sauce and noodles, perfect for a sick day, this recipe is FODMAP friendly and has an al-dente finish.",
+  "cuisine": "Russian",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup",
+      "notes": "make sure it is FODMAP friendly"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "gluten free"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Add the noodles to the pot and cook until they are al-dente.",
+    "While the noodles are cooking, melt the butter in a saucepan over medium heat.",
+    "Add the grated carrots to the saucepan and cook until they are tender.",
+    "Add the duck sauce to the saucepan and stir to combine.",
+    "Drain the noodles and add them to the saucepan with the duck sauce and carrots.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "zesty-buttery-russian-duck-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-russian-duck-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:42:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "duck sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "duck",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Noodles"
+  }
+}

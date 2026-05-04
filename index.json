@@ -647,6 +647,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-buttery-russian-duck-noodles",
+    "title": "Zesty Buttery Russian Duck Noodles",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "one-pot",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-buttery-russian-grape-leaf-dolmas",
     "title": "Zesty Buttery Russian Grape Leaf Dolmas",
     "tags": [
@@ -2473,6 +2488,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-chicken-tagine",
+    "title": "Zesty Irish Chicken Tagine",
+    "tags": [
+      "gluten-free",
+      "irish-cuisine",
+      "one-pot",
+      "post-workout",
+      "sugar-free",
+      "tagine-cooking"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
