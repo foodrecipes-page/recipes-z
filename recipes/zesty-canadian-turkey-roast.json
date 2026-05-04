@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Canadian Turkey Roast",
+  "description": "A tangy, snappy turkey roast featuring applesauce and a citrus glaze, cooked sous vide and finished in a scallop‑shell vessel for a perfect meal‑prep ready dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole turkey breast",
+      "amount": "4 lb"
+    },
+    {
+      "name": "applesauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "4"
+    },
+    {
+      "name": "fresh rosemary sprigs",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season the turkey breast with salt and pepper and wrap it tightly in plastic wrap.",
+    "Place the wrapped turkey in a vacuum‑sealed bag with minced garlic, thyme, rosemary, olive oil, butter, and lemon juice.",
+    "Seal the bag using a sous‑vide machine set to 150°F (65°C) and cook for 3 hours.",
+    "Remove the turkey from the bag and pat it dry with paper towels.",
+    "Preheat a large scallop‑shell vessel over medium‑high heat and add a splash of olive oil.",
+    "Sear the turkey breast on all sides until a golden crust forms, about 2 minutes per side.",
+    "Pour the reserved applesauce into the scallop‑shell and stir gently to combine with the pan juices.",
+    "Return the seared turkey to the vessel and bake in a preheated oven at 375°F (190°C) for 15 minutes.",
+    "Let the roast rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "nut-free",
+    "scallop-shell",
+    "sous-vide",
+    "turkey",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 280,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "zesty-canadian-turkey-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-canadian-turkey-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:46:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "applesauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Zesty",
+    "dishForm": "Roast"
+  }
+}

@@ -367,6 +367,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-canadian-turkey-roast",
+    "title": "Zesty Canadian Turkey Roast",
+    "tags": [
+      "canadian",
+      "nut-free",
+      "scallop-shell",
+      "sous-vide",
+      "turkey",
+      "zesty"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 105,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-japanese-chicken-tsukune",
     "title": "Zesty Charred Japanese Chicken Tsukune",
     "tags": [
