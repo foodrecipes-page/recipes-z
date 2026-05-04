@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Velvety Syrian Rice Pilaf",
+  "description": "A jammy, velvety Syrian rice pilaf with shredded Mexican cheese, fermented kimchi, and a hint of Ayurvedic-friendly spices.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "pinch",
+      "notes": "soaked in 1 tsp warm water"
+    },
+    {
+      "name": "dried raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded queso fresco",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice until the water runs clear, then drain.",
+    "In a medium saucepan, heat the olive oil over medium heat.",
+    "Add the cumin, coriander and turmeric, sauté for 30 seconds until fragrant.",
+    "Stir in the saffron soak and rice, coating the grains.",
+    "Pour in the water and coconut milk, season with salt, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes until the liquid is absorbed.",
+    "Stir in the raisins, shredded queso fresco, and fermented kimchi.",
+    "Remove from heat and let the pilaf steam, covered, for 5 minutes.",
+    "Fluff the rice with a fork, transfer to a serving dish.",
+    "Garnish with extra cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-dish",
+    "kimchi",
+    "rice-pilaf",
+    "syrian",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 735,
+    "protein": 21,
+    "carbs": 87,
+    "fat": 37
+  },
+  "slug": "zesty-velvety-syrian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-syrian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:33:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Pilaf"
+  }
+}

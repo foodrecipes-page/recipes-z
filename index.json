@@ -3611,6 +3611,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-velvety-syrian-rice-pilaf",
+    "title": "Zesty Velvety Syrian Rice Pilaf",
+    "tags": [
+      "cheese-dish",
+      "kimchi",
+      "rice-pilaf",
+      "syrian",
+      "velvety"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-venezuelan-candy-cake",
     "title": "Zesty Venezuelan Candy Cake",
     "tags": [
