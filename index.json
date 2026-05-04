@@ -1295,6 +1295,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-norwegian-mozzarella-pasta",
+    "title": "Zesty Norwegian Mozzarella Pasta",
+    "tags": [
+      "citrus",
+      "comfort-food",
+      "diabetic-friendly",
+      "low-sodium",
+      "one-pot",
+      "quick"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-orange-kenyan-vegetable-wrap",
     "title": "Zesty Orange Kenyan Vegetable Wrap",
     "tags": [

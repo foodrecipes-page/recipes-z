@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Norwegian Mozzarella Pasta",
+  "description": "A citrusy, shaggy pasta that feels like comfort food, infused with shio-koji salt and fresh mozzarella for a quick sick-day Norwegian twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "100g",
+      "notes": "dry weight"
+    },
+    {
+      "name": "fresh mozzarella",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice 30ml, zest 1 tsp"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "juice 30ml"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan",
+      "amount": "20g",
+      "notes": "grated"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti 8-10 minutes until al dente, then drain, reserving a cup of pasta water.",
+    "While the pasta cooks, heat olive oil in a large skillet over medium heat and sauté minced garlic until fragrant, about 30 seconds.",
+    "Add the reserved pasta water, lemon juice, orange juice, shio-koji, and black pepper to the skillet; stir to create a glossy citrus sauce.",
+    "Return the drained spaghetti to the skillet, tossing it in the sauce until well coated.",
+    "Remove the skillet from heat and fold in the cubed mozzarella, grated parmesan, chopped dill, and spinach, stirring until the cheese melts slightly and the spinach wilts.",
+    "Taste the pasta and adjust seasoning with extra pepper if desired, remembering the low-sodium shio-koji.",
+    "Divide the pasta into two bowls, ensuring each gets an equal share.",
+    "Serve hot, optionally garnishing with additional fresh dill or a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "comfort-food",
+    "diabetic-friendly",
+    "low-sodium",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-norwegian-mozzarella-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-norwegian-mozzarella-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:01:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mozzarella",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Zesty",
+    "dishForm": "Pasta"
+  }
+}
