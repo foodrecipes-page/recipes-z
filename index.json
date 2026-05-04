@@ -3447,6 +3447,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spanish-tuna-patatas-bravas",
+    "title": "Zesty Spanish Tuna Patatas Bravas",
+    "tags": [
+      "diabetic-friendly",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spring-russian-vegetable-stew",
     "title": "Zesty Spring Russian Vegetable Stew",
     "tags": [

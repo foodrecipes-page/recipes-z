@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Spanish Tuna Patatas Bravas",
+  "description": "A fresh and snappy solo dinner dish featuring tuna and patatas bravas, originating from the Valencian region of Spain, suitable for diabetic diets",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tuna",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the diced potatoes for 10 minutes or until they are slightly tender",
+    "Drain the potatoes and set them aside to cool",
+    "Heat the olive oil in a large skillet over medium-high heat and saute the diced onion and minced garlic until they are softened",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine",
+    "Add the cooked potatoes to the skillet and stir to combine with the onion and spice mixture",
+    "Add the canned tuna to the skillet and stir to combine with the potatoes and onion mixture",
+    "Add the tomato sauce to the skillet and stir to combine with the tuna and potato mixture",
+    "Reduce the heat to medium-low and simmer the mixture for 5 minutes or until the flavors have melded together",
+    "Taste and adjust the seasoning as needed",
+    "Serve the Zesty Spanish Tuna Patatas Bravas hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-spanish-tuna-patatas-bravas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-tuna-patatas-bravas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:01:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "tuna",
+    "diet": "diabetic-friendly",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tuna",
+    "descriptor": "Zesty Boiled",
+    "dishForm": "Patatas Bravas"
+  }
+}
