@@ -931,6 +931,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-syrian-chicken-kebabs",
+    "title": "Zesty Crisp Syrian Chicken Kebabs",
+    "tags": [
+      "chicken-kebabs",
+      "lazy-sunday",
+      "shojin-friendly",
+      "syrian-cuisine",
+      "zesty-flavor"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-uruguayan-beef-skewers",
     "title": "Zesty Crisp Uruguayan Beef Skewers",
     "tags": [
@@ -1189,6 +1203,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-british-sausage-casserole",
+    "title": "Zesty Dense British Sausage Casserole",
+    "tags": [
+      "comfort-food",
+      "hearty-dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 95,
     "shard": "z"
   },
   {

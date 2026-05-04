@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Crisp Syrian Chicken Kebabs",
+  "description": "A lazy Sunday Syrian dish featuring crispy chicken kebabs with a zesty flavor, served with a side of jammy sauce and a hint of milk chocolate, made with bhuna spices and shojin-friendly ingredients. This dish is perfect for a relaxing afternoon meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the bhuna spice blend, salt, and garlic.",
+    "Add the chicken pieces to the bowl and toss to coat with the spice mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place on a baking sheet lined with parchment paper.",
+    "Bake the skewers for 20 minutes, or until the chicken is cooked through and crispy.",
+    "While the chicken is baking, melt the milk chocolate chips in a small saucepan over low heat.",
+    "Stir the jam into the melted chocolate and remove from heat.",
+    "Serve the chicken kebabs with the zesty chocolate sauce spooned over the top.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-kebabs",
+    "lazy-sunday",
+    "shojin-friendly",
+    "syrian-cuisine",
+    "zesty-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "zesty-crisp-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:13:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "milk chocolate",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Kebabs"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Dense British Sausage Casserole",
+  "description": "A hearty, dense casserole featuring British sausages, passata, and beurre-monte, perfect for a hangover cure. This dish is raw-friendly and packed with flavor.",
+  "cuisine": "British",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "8",
+      "notes": "preferably pork"
+    },
+    {
+      "name": "passata",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and cook the chopped onions until they are translucent.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "Add the British sausages to the pan, browning them on all sides, then set aside.",
+    "In the same pan, add the passata, beurre-monte, salt, and black pepper, stirring to combine.",
+    "In a large bowl, combine the sliced potatoes and the passata mixture, tossing to coat.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of sausages, and finally a layer of shredded cheddar cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "zesty-dense-british-sausage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-british-sausage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:13:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "passata",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Casserole"
+  }
+}
