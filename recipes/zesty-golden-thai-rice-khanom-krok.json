@@ -1,0 +1,111 @@
+{
+  "title": "zesty golden thai rice khanom krok",
+  "description": "a sweet, savory, and indulgent thai dish featuring shoyu-koji, kombu-cold-extract, and dash-friendly flavors in a delicate khanom krok.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shoyu-koji",
+      "amount": "120g"
+    },
+    {
+      "name": "kombu",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 10ml of hot water"
+    }
+  ],
+  "instructions": [
+    "preheat the cazuela over low heat.",
+    "soak the shoyu-koji in 100ml of hot water for at least 30 minutes.",
+    "drain and rinse the kombu, then soak it in 100ml of cold water for at least 2 hours.",
+    "cook the jasmine rice according to package instructions.",
+    "in a blender, combine the coconut milk, palm sugar, coconut oil, eggs, salt, cinnamon, ginger, and black pepper. blend until smooth.",
+    "add the blended mixture to the cooked jasmine rice and stir-fry over low heat for 5 minutes.",
+    "add the shoyu-koji mixture and kombu-cold-extract to the rice mixture and stir-fry for another 5 minutes.",
+    "stir in the soaked saffron threads and their liquid.",
+    "transfer the mixture to the preheated cazuela and cook over low heat for 15 minutes, or until the mixture has thickened and the flavors have melded together.",
+    "use a spatula to carefully pour the mixture into 6-8 khanom krok cups.",
+    "cook the khanom krok over low heat for 10-15 minutes, or until the edges are golden brown and the centers are set.",
+    "serve the khanom krok warm, garnished with toasted coconut flakes and sesame seeds if desired."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 25,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "streetfood",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "zesty-golden-thai-rice-khanom-krok",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-golden-thai-rice-khanom-krok",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:16:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "dash",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Zesty Golden",
+    "dishForm": "Khanom Krok"
+  }
+}
