@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Tunisian Fish Wrap",
+  "description": "A herbal, springy Tunisian dish that uses pitted black olives and fresh herbs to create a hangover cure wrapped in corn husks.",
+  "cuisine": "tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "500g",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4",
+      "notes": "softened in hot water"
+    }
+  ],
+  "instructions": [
+    "Soak corn husks in hot water for 5 minutes until pliable and set aside.",
+    "In a bowl, combine chopped olives, parsley, cilantro, cumin, paprika, chili flakes, salt, pepper, then drizzle with olive oil and lemon juice and mix well.",
+    "Pat the fish fillets dry and season lightly with salt and pepper.",
+    "Place a fillet on each softened husk, top with the herb and olive mixture, and roll the husks tightly around the fish.",
+    "Secure the wraps with a small piece of foil or kitchen twine to keep them closed.",
+    "Preheat a grill or skillet over medium heat and cook the wraps for 4 to 5 minutes per side, or until the fish flakes easily with a fork.",
+    "Remove the foil or twine and let the wraps rest for 2 minutes before serving.",
+    "Serve the wraps hot, optionally with a side of fresh tomato salsa or a squeeze of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-husk-wrap",
+    "hangover-cure",
+    "herbal",
+    "pescatarian",
+    "quick",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-tunisian-fish-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tunisian-fish-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:15:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "pitted black olives",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fish",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}

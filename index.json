@@ -2210,6 +2210,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-tunisian-fish-wrap",
+    "title": "Zesty Tunisian Fish Wrap",
+    "tags": [
+      "corn-husk-wrap",
+      "hangover-cure",
+      "herbal",
+      "pescatarian",
+      "quick",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-tunisian-quinoa-tagine",
     "title": "Zesty Tunisian Quinoa Tagine",
     "tags": [
