@@ -4047,6 +4047,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-american-chicken-grill",
+    "title": "Zesty Smoky American Chicken Grill",
+    "tags": [
+      "american",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-chinese-cobnuts-hot-pot",
     "title": "Zesty Smoky Chinese Cobnuts Hot Pot",
     "tags": [
