@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Crisp Argentinian Cheese Empanadas",
+  "description": "A yeasty and crisp Argentinian dish featuring cheese slices, perfect for meal prep, and egg-free friendly. This recipe is great for a snack or lunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese slices",
+      "amount": "8 slices",
+      "notes": "such as mozzarella or provolone"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a cheese slice in the center of each circle.",
+    "Fold the dough over the cheese and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with zesty seasoning.",
+    "Bake the empanadas in a preheated oven at 375 degrees for 15-20 minutes, or until golden brown.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "cheese-empanadas",
+    "egg-free",
+    "meal-prep",
+    "vegetarian-friendly",
+    "yeasty-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-crisp-argentinian-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-argentinian-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:21:55Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "cheese slices",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Empanadas"
+  }
+}

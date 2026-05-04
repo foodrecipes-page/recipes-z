@@ -723,6 +723,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-argentinian-cheese-empanadas",
+    "title": "Zesty Crisp Argentinian Cheese Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "cheese-empanadas",
+      "egg-free",
+      "meal-prep",
+      "vegetarian-friendly",
+      "yeasty-dough"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-croatian-cashew-skewers",
     "title": "Zesty Crisp Croatian Cashew Skewers",
     "tags": [
