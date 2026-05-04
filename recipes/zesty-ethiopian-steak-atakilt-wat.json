@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Ethiopian Steak Atakilt Wat",
+  "description": "A zesty, keto-friendly Ethiopian stew with lean minced steak, fresh veggies, and aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium-high heat and add 1 tablespoon of olive oil.",
+    "Sauté 1 medium diced onion until translucent, about 3 minutes.",
+    "Add 2 cloves minced garlic and 1 tablespoon grated ginger, cooking until fragrant, about 1 minute.",
+    "Stir in 200g lean ground beef, breaking it apart with a spatula until browned and cooked through, about 5 minutes.",
+    "Add 1 medium julienned carrot, 1 medium julienned zucchini, 2 tablespoons Ethiopian spice blend, 1 tablespoon lemon zest and 2 tablespoons lemon juice, cooking until vegetables soften, about 4 minutes.",
+    "Season with salt and pepper to taste, ensuring internal temperature reaches 71 C.",
+    "Transfer the stew to a serving dish and garnish with 1 tablespoon chopped cilantro.",
+    "Serve hot directly from the comal, enjoying the zesty flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "keto-friendly",
+    "one-pan",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 31,
+    "carbs": 32,
+    "fat": 36
+  },
+  "slug": "zesty-ethiopian-steak-atakilt-wat",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ethiopian-steak-atakilt-wat",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:32:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lean minced steak",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Steak",
+    "descriptor": "Zesty",
+    "dishForm": "Atakilt Wat"
+  }
+}
