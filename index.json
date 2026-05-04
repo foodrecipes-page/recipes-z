@@ -1816,6 +1816,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-middle-eastern-chickpea-grill",
+    "title": "Zesty Middle Eastern Chickpea Grill",
+    "tags": [
+      "middle-eastern",
+      "lunch"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-eggplant-pie",
     "title": "Zesty Middle Eastern Eggplant Pie",
     "tags": [

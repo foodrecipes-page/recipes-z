@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Middle Eastern Chickpea Grill",
+  "description": "A fresh, gooey chickpea dish grilled to perfection with dill pickles and zesty spices, perfect for meal prep and served on a tagliere.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400 grams",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "50 grams",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "100 grams",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas, then pat them dry with a paper towel.",
+    "In a bowl, combine chickpeas, chopped dill pickles, olive oil, sumac, cumin, smoked paprika, lemon juice, minced garlic, salt, and pepper; mix well to coat.",
+    "Let the mixture marinate for 10 minutes to allow flavors to meld.",
+    "Preheat a grill pan or cast iron skillet over medium-high heat and brush lightly with oil.",
+    "Spread the chickpea mixture in an even layer on the griddle, creating a thin, round patty.",
+    "Grill for 6 minutes on one side until golden and slightly crispy, then flip and cook for another 4 minutes.",
+    "Remove the chickpea patty and transfer it onto a clean tagliere.",
+    "Top with fresh parsley and a handful of baby spinach, then serve immediately."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "middle-eastern",
+    "lunch"
+  ],
+  "slug": "zesty-middle-eastern-chickpea-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-chickpea-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:46:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "dill pickles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Zesty",
+    "dishForm": "Grill"
+  }
+}
