@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Salty Croatian Shrimp Skewers",
+  "description": "A salty and snappy Croatian dish featuring shrimp, sherry, and ayurvedic-rajasic-friendly ingredients, perfect for kids and adults alike. This recipe is a twist on traditional Croatian cuisine with a deep-fry agemono style.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sherry, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few skewers to the skillet and deep-fry for 2-3 minutes on each side, until the shrimp are pink and cooked through.",
+    "Transfer the cooked skewers to a baking sheet and bake in the preheated oven for 5 minutes.",
+    "Remove the skewers from the oven and brush with lemon juice.",
+    "Serve the Zesty Salty Croatian Shrimp Skewers hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "deep-fry",
+    "kid-friendly",
+    "seafood",
+    "shrimp",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-salty-croatian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-salty-croatian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:04:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sherry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Salty",
+    "dishForm": "Skewers"
+  }
+}

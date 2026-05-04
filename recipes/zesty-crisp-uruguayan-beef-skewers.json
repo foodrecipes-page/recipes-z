@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crisp Uruguayan Beef Skewers",
+  "description": "A jammy and crisp weeknight Uruguayan dish featuring kanten agar and kombu cold extract, this recipe is perfect for a quick and flavorful meal. The combination of beef, kanten agar, and spices creates a unique and delicious taste experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "kanten agar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together kanten agar, kombu cold extract, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Brush the skewers with lemon juice and continue baking for an additional 5 minutes, or until crispy and cooked through.",
+    "Remove the skewers from the oven and garnish with chopped parsley if desired.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-crisp-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:04:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "kanten-agar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Skewers"
+  }
+}

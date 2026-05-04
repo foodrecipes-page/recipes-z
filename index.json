@@ -513,6 +513,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-uruguayan-beef-skewers",
+    "title": "Zesty Crisp Uruguayan Beef Skewers",
+    "tags": [
+      "beef-recipes",
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "uruguayan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-german-cabbage-wrap",
     "title": "Zesty Crispy German Cabbage Wrap",
     "tags": [
@@ -1832,6 +1847,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-salty-croatian-shrimp-skewers",
+    "title": "Zesty Salty Croatian Shrimp Skewers",
+    "tags": [
+      "croatian",
+      "deep-fry",
+      "kid-friendly",
+      "seafood",
+      "shrimp",
+      "skewers"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
