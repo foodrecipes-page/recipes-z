@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Korean Prawns Toast",
+  "description": "A peppery and chewy Korean dish featuring raw tiger prawns on toast, made in an iron teppan and suitable for a Jain-friendly diet. This festive dish is perfect for special occasions.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "raw and peeled"
+    },
+    {
+      "name": "white bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium-high heat.",
+    "Slice the bread into 1-inch thick slices and toast until lightly browned.",
+    "In a small bowl, whisk together gochujang, soy sauce, and rice vinegar.",
+    "Brush the toasted bread slices with sesame oil and season with black pepper.",
+    "Arrange the toasted bread slices on the preheated iron teppan.",
+    "Place a raw tiger prawn on each bread slice.",
+    "Drizzle the gochujang sauce over the prawns.",
+    "Garnish with thinly sliced green onions.",
+    "Serve immediately and enjoy.",
+    "Be careful when handling the hot iron teppan.",
+    "Make sure to cook the prawns to an internal temperature of at least 145 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "jain-friendly",
+    "korean-cuisine",
+    "one-pan",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-korean-prawns-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-korean-prawns-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T16:00:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "prawns",
+    "descriptor": "Zesty peppery",
+    "dishForm": "Toast"
+  }
+}
