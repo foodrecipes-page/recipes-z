@@ -1458,6 +1458,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-glazed-french-fish-tartine",
+    "title": "Zesty Glazed French Fish Tartine",
+    "tags": [
+      "brunch",
+      "french-cuisine",
+      "lazy-sunday",
+      "one-pot",
+      "seafood"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-golden-slovakian-cauliflower-soup",
     "title": "Zesty Golden Slovakian Cauliflower Soup",
     "tags": [

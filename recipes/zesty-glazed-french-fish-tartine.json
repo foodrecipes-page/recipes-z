@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Glazed French Fish Tartine",
+  "description": "A pungent and sweet French dish featuring fish, sugar syrup, and a glassy jelly glaze, perfect for a lazy Sunday, served in a hot pot vessel. This Provence-inspired recipe is pescatarian-friendly and easy to make.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "jelly glaze",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fish fillets with salt, pepper, and thyme.",
+    "Heat the olive oil in a hot pot vessel over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the cod fish fillets and cook for 3 minutes on each side.",
+    "Transfer the hot pot vessel to the preheated oven and bake for 8 minutes.",
+    "While the fish is baking, mix the sugar syrup and lemon juice in a small bowl.",
+    "Remove the hot pot vessel from the oven and brush the sugar syrup mixture over the fish.",
+    "Top the fish with the jelly glaze and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "french-cuisine",
+    "lazy-sunday",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "zesty-glazed-french-fish-tartine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glazed-french-fish-tartine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:45:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "sugar syrup",
+    "diet": "pescatarian",
+    "region": "provence",
+    "cuisineAdjective": "french",
+    "mainIngredient": "fish",
+    "descriptor": "zesty glazed",
+    "dishForm": "Tartine"
+  }
+}
