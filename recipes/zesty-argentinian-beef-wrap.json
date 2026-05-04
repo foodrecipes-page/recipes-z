@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Argentinian Beef Wrap",
+  "description": "Spicy and dense beef fillet wrapped in parchment and finished in a warm tortilla for a cozy Argentinian-inspired bite.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "200g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (356°F).",
+    "Toss the beef strips with olive oil, minced garlic, paprika, cumin, red pepper flakes, lime zest, salt, and pepper until evenly coated.",
+    "Place the seasoned beef in the center of a parchment paper square, fold the paper over, and seal the edges tightly to create a papillote.",
+    "Bake the papillote in the preheated oven for 20 minutes until the beef reaches an internal temperature of 63°C (145°F).",
+    "Remove the parchment, let the beef rest for 5 minutes, then unwrap and transfer the strips onto a warmed tortilla.",
+    "Fold the tortilla around the beef, roll tightly, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "papillote",
+    "quick",
+    "spicy",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 31
+  },
+  "slug": "zesty-argentinian-beef-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-argentinian-beef-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:41:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "papillote",
+    "primaryIngredient": "beef fillet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}

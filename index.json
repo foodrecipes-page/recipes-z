@@ -216,6 +216,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-argentinian-beef-wrap",
+    "title": "Zesty Argentinian Beef Wrap",
+    "tags": [
+      "argentinian",
+      "beef",
+      "papillote",
+      "quick",
+      "spicy",
+      "wrap"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-argentinian-pumpkin-roast",
     "title": "Zesty Argentinian Pumpkin Roast",
     "tags": [
