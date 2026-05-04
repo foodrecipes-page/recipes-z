@@ -1,0 +1,121 @@
+{
+  "title": "Zesty British Iceberg Lettuce Salad",
+  "description": "Salty, crumbly and kid-friendly salad packed with iceberg lettuce, cheddar, bacon and a zesty dressing.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head",
+      "notes": "washed, chopped"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "50 g",
+      "notes": "grated"
+    },
+    {
+      "name": "crisp bacon bits",
+      "amount": "25 g",
+      "notes": "cooked, crumbled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp",
+      "notes": "briny"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "fresh citrus"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "for emulsification"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Place grated cheddar, crumbled bacon, sliced red onion, capers, lemon zest, parsley, and a pinch of salt in a mortar.",
+    "Add a splash of olive oil and gently pound the mixture to release aromas and soften textures.",
+    "Whisk together red wine vinegar, Dijon mustard, black pepper, and a drizzle of olive oil until a smooth dressing forms.",
+    "Toss the chopped iceberg lettuce in a large bowl, then pour the dressing over the leaves and gently lift with a spoon to coat evenly.",
+    "Sprinkle the mortared cheese-bacon mixture over the lettuce.",
+    "Gently fold the salad to combine all components without bruising the lettuce.",
+    "Taste and adjust seasoning with extra salt or pepper if desired.",
+    "Serve immediately in individual bowls or on a platter for kids to enjoy.",
+    "Garnish with extra lemon zest for a bright finish.",
+    "Keep any leftovers covered in the fridge for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "crunchy",
+    "kid-friendly",
+    "low-carb",
+    "no-bake",
+    "quick-healthy",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 22,
+    "carbs": 9,
+    "fat": 41
+  },
+  "slug": "zesty-british-iceberg-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-british-iceberg-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:19:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "iceberg lettuce",
+    "descriptor": "Zesty",
+    "dishForm": "Salad"
+  }
+}

@@ -217,6 +217,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-british-iceberg-lettuce-salad",
+    "title": "Zesty British Iceberg Lettuce Salad",
+    "tags": [
+      "british",
+      "crunchy",
+      "kid-friendly",
+      "low-carb",
+      "no-bake",
+      "quick-healthy",
+      "salad"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-japanese-chicken-tsukune",
     "title": "Zesty Charred Japanese Chicken Tsukune",
     "tags": [
