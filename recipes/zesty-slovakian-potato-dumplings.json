@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Slovakian Potato Dumplings",
+  "description": "A spicy, pillowy Slovakian dish featuring cayenne pepper and a brine-wet finish, dairy-free and comforting.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "1.5 kg",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "optional, for coating"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the potatoes into 1 cm cubes, then place them in a pot of boiling water and cook until tender, about 10 minutes.",
+    "Drain the potatoes and mash them until smooth, then let them cool until they are warm but not hot.",
+    "Stir in salt, cayenne pepper, garlic powder, and chopped dill into the warm mashed potatoes until evenly combined.",
+    "Gradually fold in the flour, adding just enough to form a pliable dough that does not stick to fingers, about 60 grams total.",
+    "Shape the dough into small dumplings, roughly 3 cm in diameter, using a spoon or your hands, and place them on a lightly oiled tray.",
+    "Fill a large pot with water, bring to a rolling boil, and carefully drop the dumplings in, cooking until they float to the surface plus an extra 2 minutes, about 12 minutes total.",
+    "While the dumplings cook, prepare a spicy sauce by heating olive oil in a skillet, adding a pinch of cayenne pepper, and stirring for 30 seconds.",
+    "Pour the hot sauce over the cooked dumplings, toss gently to coat, and serve immediately with a splash of lemon juice if desired.",
+    "Optionally garnish with additional fresh dill or chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "easy",
+    "potato-dumplings",
+    "slovakian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 9,
+    "carbs": 73,
+    "fat": 3
+  },
+  "slug": "zesty-slovakian-potato-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-slovakian-potato-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:01:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "brine-wet",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potato",
+    "descriptor": "Zesty",
+    "dishForm": "Dumplings"
+  }
+}
