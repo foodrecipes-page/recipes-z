@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Crispy Thai Chicken Skillet",
+  "description": "A winey and crispy one-pot Thai dish featuring vanilla bean paste and flambe, made with ayurvedic-rajasic-friendly ingredients",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat",
+    "Add the chicken to the skillet and cook until browned and crispy, about 5-7 minutes",
+    "Remove the chicken from the skillet and set aside",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant",
+    "Add the fish sauce, brown sugar, and rice vinegar to the skillet and cook for 1 minute, until the sauce is bubbly",
+    "Add the white wine to the skillet and bring to a boil, then reduce the heat to medium-low and simmer for 2 minutes",
+    "Add the vanilla bean paste to the skillet and stir to combine",
+    "Return the chicken to the skillet and toss to coat with the sauce",
+    "Flambe the skillet by igniting the wine sauce with a match or lighter, then simmer for an additional 2 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-chicken",
+    "dinner-ideas",
+    "gluten-free",
+    "one-pan",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "zesty-crispy-thai-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-thai-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:55:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skillet"
+  }
+}
