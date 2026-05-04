@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Herbal French Mushroom Quiche",
+  "description": "A dairy-free friendly, herbal French quiche featuring peppercorns and mushrooms, cooked to perfection in a clay pot kazan cauldron. This dish is perfect for a weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "quiche crust",
+      "amount": "1 package",
+      "notes": "homemade or store-bought, dairy-free"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled, dairy-free substitute for cheese"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the sliced mushrooms until they release their moisture and start to brown.",
+    "Add the chopped onion, minced garlic, dried thyme, and dried rosemary to the skillet and cook until the onion is translucent.",
+    "Stir in the freshly ground peppercorns and cook for an additional minute.",
+    "Roll out the quiche crust and place it in the kazan cauldron or a similar clay pot.",
+    "Fill the quiche crust with the mushroom and onion mixture, and top with crumbled tofu.",
+    "Season with salt to taste.",
+    "Cover the kazan cauldron with a lid and bake for 35 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "french-cuisine",
+    "mushroom-recipes",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "zesty-herbal-french-mushroom-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-herbal-french-mushroom-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:57:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "peppercorns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zesty Herbal",
+    "dishForm": "Quiche"
+  }
+}
