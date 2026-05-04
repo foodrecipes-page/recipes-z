@@ -2230,6 +2230,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-portuguese-chicken-stir-fry",
+    "title": "Zesty Portuguese Chicken Stir-fry",
+    "tags": [
+      "creamy",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "quick",
+      "spicy"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-argentinian-galangal-skewers",
     "title": "Zesty Roasted Argentinian Galangal Skewers",
     "tags": [

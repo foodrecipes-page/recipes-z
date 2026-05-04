@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Portuguese Chicken Stir-fry",
+  "description": "A creamy, spicy, dairy-free chicken dish inspired by Portuguese flavors, perfect for a quick weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless skinless",
+      "amount": "1 lb",
+      "notes": "sliced into bite-sized pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon, juiced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": "shake before using"
+    },
+    {
+      "name": "Tamari soy sauce (gluten-free)",
+      "amount": "2 tbsp",
+      "notes": "use low sodium if preferred"
+    },
+    {
+      "name": "Dried red chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add 1 tbsp of olive oil.",
+    "Add sliced chicken and cook until browned on all sides, about 5-6 minutes, stirring occasionally.",
+    "Remove chicken from the skillet and set aside; add the remaining 1 tbsp oil to the same pan.",
+    "Stir-fry the sliced bell pepper, onion, and minced garlic until vegetables are tender-crisp, about 3-4 minutes.",
+    "Return the chicken to the pan and pour in the coconut cream, tamari, and lemon juice, stirring to combine.",
+    "Add the dried chili flakes, chopped cilantro, sea salt, and black pepper; simmer for an additional 3-4 minutes until the sauce thickens.",
+    "Taste and adjust seasoning, ensuring the chicken reaches an internal temperature of 165°F (74°C) for safe consumption.",
+    "Serve hot over rice or quinoa, garnished with extra cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-portuguese-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-portuguese-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:51:46Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "chilli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Stir-fry"
+  }
+}
