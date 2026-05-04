@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Indulgent Jamaican Tofu Wrap",
+  "description": "A tangy, juicy tofu wrap wrapped in banana leaf, infused with Jamaican jerk spice, chives, and nuka-pickle for a vibrant, temple-friendly dish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "no-grain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "4 sheets",
+      "notes": "prepped and steamed"
+    },
+    {
+      "name": "jerk seasoning mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp",
+      "notes": "for zesty kick"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "4 slices, diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat and splash 1 tsp sesame oil until shimmering.",
+    "Toss the cubed tofu in the jerk seasoning mix, lime juice, and soy sauce until all pieces are evenly coated.",
+    "Place the tofu in the hot skillet and cook for 3-4 minutes on each side until golden brown and crispy.",
+    "While the tofu is browning, spread a thin layer of gochujang over each banana leaf sheet and sprinkle chopped chives on top.",
+    "Remove the tofu from the skillet and let it rest for 1 minute, then scatter diced nuka-pickle over the tofu cubes for added crunch.",
+    "Spoon a generous portion of tofu onto the center of each banana leaf, fold the edges inward, and roll tightly into a wrap shape.",
+    "Place the wrapped banana leaves in a steamer basket and steam for 5 minutes to meld the flavors and soften the leaf.",
+    "Carefully unwrap the banana leaf and transfer the wrap onto a serving plate.",
+    "Garnish with fresh chives and a squeeze of lime if desired for extra brightness.",
+    "Serve immediately while warm, enjoying the zesty, juicy flavors of Jamaican-inspired tofu."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "caribbean",
+    "jerk",
+    "no-grain",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 120,
+    "carbs": 36,
+    "fat": 85
+  },
+  "slug": "zesty-indulgent-jamaican-tofu-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-jamaican-tofu-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:37:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "chives",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Wrap"
+  }
+}
