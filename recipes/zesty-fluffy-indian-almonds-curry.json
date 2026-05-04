@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Fluffy Indian Almonds Curry",
+  "description": "A one-pot, nutty curry that blends toasted almonds, plum jam, and savory dashi extract into a fluffy, aromatic dish perfect for a quick lunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "plum jam",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add cumin seeds and let them sizzle for 30 seconds.",
+    "Stir in diced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger, sauté for another minute.",
+    "Pour in plum jam and stir until caramelized, about 2 minutes.",
+    "Mix in toasted almonds and stir to coat with the jam mixture.",
+    "Add dashi extract, vegetable water, coriander powder, garam masala, and salt; bring to a gentle simmer.",
+    "Cover and cook for 10 minutes until the flavors meld and the mixture becomes fluffy.",
+    "Remove from heat, fluff with a fork, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "nutty",
+    "one-pot",
+    "quick",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-fluffy-indian-almonds-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-indian-almonds-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:47:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "plum jam",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Curry"
+  }
+}
