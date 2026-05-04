@@ -2736,6 +2736,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-lazy-greek-boudin-blanc-tiropita",
+    "title": "Zesty Lazy Greek Boudin Blanc Tiropita",
+    "tags": [
+      "boudin-blanc",
+      "greek-cuisine",
+      "jain-friendly",
+      "lazy-sunday",
+      "phyllo-dough",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-leafy-indian-toor-dal",
     "title": "Zesty Leafy Indian Toor Dal",
     "tags": [

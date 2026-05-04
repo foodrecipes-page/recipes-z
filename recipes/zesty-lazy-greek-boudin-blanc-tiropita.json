@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Lazy Greek Boudin Blanc Tiropita",
+  "description": "A lazy Sunday Greek dish featuring boudin blanc, with a resinous and glassy jelly texture, made Jain-friendly by using plant-based ingredients and served in a tiropita form.",
+  "cuisine": "Greek",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "use plant-based sausage"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the phyllo dough and cut it into 4 equal pieces.",
+    "In a bowl, mix together the boudin blanc, ferment jang, olive oil, lemon juice, parsley, salt, and pepper.",
+    "Place a quarter of the boudin blanc mixture onto the center of each phyllo dough piece.",
+    "Fold the phyllo dough into a triangle and press the edges together to seal the tiropita.",
+    "Brush the tops of the tiropita with a little olive oil.",
+    "Place the tiropita on a baking sheet and bake for 25 minutes.",
+    "Serve the tiropita warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "boudin-blanc",
+    "greek-cuisine",
+    "jain-friendly",
+    "lazy-sunday",
+    "phyllo-dough",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-lazy-greek-boudin-blanc-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-lazy-greek-boudin-blanc-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:48:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "Zesty Lazy",
+    "dishForm": "Tiropita"
+  }
+}
