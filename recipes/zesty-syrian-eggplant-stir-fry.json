@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Syrian Eggplant Stir-fry",
+  "description": "A jammy, pillowy dish of sautéed eggplant and bell pepper tossed in a fiery red chili sauce, perfect for a quick festive meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "200 g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "150 g",
+      "notes": "sliced into strips"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "80 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 g",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili pepper",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "120 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over medium-high heat and add the olive oil.",
+    "Add the minced garlic and chopped red chili pepper, sauté for 30 seconds until fragrant.",
+    "Add the sliced onion and cook until translucent, about 2 minutes.",
+    "Add the eggplant strips and cook, stirring frequently, until they start to soften, about 5 minutes.",
+    "Add the sliced red bell pepper and continue to stir-fry for another 3 minutes.",
+    "Pour in the tomato sauce, then sprinkle the cumin, coriander, salt, and black pepper, stirring to combine.",
+    "Reduce the heat to medium and simmer the mixture for 4 minutes, allowing the flavors to meld.",
+    "Serve hot, optionally garnished with fresh parsley or a squeeze of lemon juice."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "dinner"
+  ],
+  "slug": "zesty-syrian-eggplant-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-eggplant-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:42:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "red chilli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Zesty",
+    "dishForm": "Stir-fry"
+  }
+}

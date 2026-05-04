@@ -4170,6 +4170,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-eggplant-stir-fry",
+    "title": "Zesty Syrian Eggplant Stir-fry",
+    "tags": [
+      "syrian",
+      "dinner"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-syrian-fish-kebabs",
     "title": "Zesty Syrian Fish Kebabs",
     "tags": [
