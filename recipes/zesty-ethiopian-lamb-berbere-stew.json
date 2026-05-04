@@ -1,0 +1,125 @@
+{
+  "title": "Zesty Ethiopian Lamb Berbere Stew",
+  "description": "A briny, chewy lamb stew infused with berbere spice and a splash of white wine, perfect for a nostalgic dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, lean",
+      "amount": "500g",
+      "notes": "trim excess fat, cut into 2cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "200g",
+      "notes": "about one medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "30g"
+    },
+    {
+      "name": "white wine",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "200g",
+      "notes": "about 2 medium"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "150g",
+      "notes": "1 medium"
+    },
+    {
+      "name": "low-sodium broth",
+      "amount": "1000ml",
+      "notes": "about 4 cups"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp",
+      "notes": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "to garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Trim excess fat from 500g lamb shoulder and cut into 2cm cubes.",
+    "Heat a Dutch oven over medium heat, add 1 tbsp olive oil, and brown lamb cubes until sealed on all sides.",
+    "Add 1 diced onion (200g) and 4 minced garlic cloves to the pot, sautéing until onion turns translucent.",
+    "Stir in 2 tbsp tomato paste and cook for 2 minutes to release its flavor.",
+    "Pour in 150ml white wine, scraping the bottom of the pot to deglaze and let it reduce by half.",
+    "Add 2 diced carrots (200g), 1 sliced bell pepper (150g), 4 cups (1000ml) low-sodium broth, and 2 tbsp berbere spice, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat to low, cover, and simmer gently for 60 minutes, stirring occasionally.",
+    "After the first hour, check the consistency; if too thick, add a splash of water or broth to reach desired stew thickness.",
+    "Season with 1 tsp salt and 1 tsp black pepper, adjusting to taste.",
+    "Serve hot over cooked quinoa or flatbread, optionally garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "berbere",
+    "briny",
+    "lamb",
+    "low-fat-friendly",
+    "nostalgic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 1392,
+    "protein": 110,
+    "carbs": 34,
+    "fat": 113
+  },
+  "slug": "zesty-ethiopian-lamb-berbere-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ethiopian-lamb-berbere-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:54:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "render-fat",
+    "primaryIngredient": "white wine",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Zesty",
+    "dishForm": "Berbere Stew"
+  }
+}
