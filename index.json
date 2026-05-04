@@ -246,6 +246,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-bouncy-kenyan-tomato-stew",
+    "title": "Zesty Bouncy Kenyan Tomato Stew",
+    "tags": [
+      "bouncy",
+      "herbal",
+      "kenyan",
+      "tandoor",
+      "vegan",
+      "zesty"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-bouncy-norwegian-flour-pancakes",
     "title": "Zesty Bouncy Norwegian Flour Pancakes",
     "tags": [

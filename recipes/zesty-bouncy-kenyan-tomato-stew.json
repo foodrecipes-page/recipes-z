@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Bouncy Kenyan Tomato Stew",
+  "description": "A vibrant, herbal Kenyan tomato stew that packs an energizing kick with a tandoor‑style char and Ayurvedic tamasic-friendly flavors, served in a cazuela.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "1 kg",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cazuela over medium heat.",
+    "Add sliced onion and sauté until translucent.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute.",
+    "Add diced datterini tomatoes, cumin, smoked paprika, and cayenne pepper; stir to coat.",
+    "Pour in vegetable broth and coconut milk, bringing the mixture to a gentle simmer.",
+    "Reduce heat, cover, and let the stew simmer for 20 minutes, stirring occasionally.",
+    "Season with salt, adjusting heat if needed, and let it reduce until thickened.",
+    "Remove from heat and stir in chopped cilantro.",
+    "Serve hot straight from the cazuela, optionally with a side of cooked millet or rice.",
+    "Garnish with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy",
+    "herbal",
+    "kenyan",
+    "tandoor",
+    "vegan",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 51
+  },
+  "slug": "zesty-bouncy-kenyan-tomato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bouncy-kenyan-tomato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:22:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Stew"
+  }
+}
