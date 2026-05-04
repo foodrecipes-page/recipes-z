@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Flaky French Kippers Blanquette",
+  "description": "A pungent, flaky French blanquette featuring kippers, reduced in a zesty sauce, perfect as a hangover cure.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kippers fillets",
+      "amount": "8 fillets",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 (juiced)"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot-stone-plate until it reaches 200°C.",
+    "Heat oil in a shallow pan over medium heat and sauté shallots and garlic until fragrant.",
+    "Add dried thyme and stir for 30 seconds.",
+    "Pour in white wine, deglaze the pan and let reduce by half.",
+    "Stir in lemon juice, mustard, and capers, then whisk in heavy cream until smooth.",
+    "Place the kippers on the heated stone plate, cover with the sauce and let simmer for 5 minutes.",
+    "Remove the plate from heat and sprinkle with fresh parsley.",
+    "Serve immediately with crusty bread or boiled potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blanquette",
+    "flaky-fish",
+    "hangover-cure",
+    "hot-stone-plate",
+    "one-plate",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 13,
+    "carbs": 2,
+    "fat": 37
+  },
+  "slug": "zesty-flaky-french-kippers-blanquette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-french-kippers-blanquette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:15:10Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "kippers",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Kippers",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Blanquette"
+  }
+}

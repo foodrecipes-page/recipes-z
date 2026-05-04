@@ -1372,6 +1372,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-french-kippers-blanquette",
+    "title": "Zesty Flaky French Kippers Blanquette",
+    "tags": [
+      "blanquette",
+      "flaky-fish",
+      "hangover-cure",
+      "hot-stone-plate",
+      "one-plate",
+      "pungent"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-syrian-pasta-bake",
     "title": "Zesty Flaky Syrian Pasta Bake",
     "tags": [
