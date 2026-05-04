@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Chewy Greek Lamb Kleftiko",
+  "description": "A quick and flavorful Greek dish featuring lamb, sun-dried tomatoes, and a mortar-pestle-pound technique, served in a molcajete vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a molcajete vessel, combine lamb, sun-dried tomatoes, oregano, garlic, lemon juice, olive oil, salt, and pepper.",
+    "Using a mortar-pestle-pound technique, mash the ingredients together until they are well combined and the lamb is coated with the mixture.",
+    "Cover the molcajete with plastic wrap and let it marinate at room temperature for 30 minutes.",
+    "Remove the plastic wrap and transfer the molcajete to the preheated oven.",
+    "Bake for 2 hours, or until the lamb is tender and the meat is easily shredded with a fork.",
+    "Remove the molcajete from the oven and let it cool for 10 minutes.",
+    "Serve the lamb kleftiko hot, garnished with additional oregano and lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner-ideas",
+    "greek-cuisine",
+    "lamb-recipes",
+    "molcajete-cooking",
+    "sun-dried-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-chewy-greek-lamb-kleftiko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chewy-greek-lamb-kleftiko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:58:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Kleftiko"
+  }
+}
