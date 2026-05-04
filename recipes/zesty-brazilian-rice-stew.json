@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Brazilian Rice Stew",
+  "description": "A hearty, zesty Brazilian rice stew that combines peach juice, clarified butter, and fresh herbs for a bright, low-fat meal prep favorite.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "low-fat coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "peach juice",
+      "amount": "120 ml"
+    },
+    {
+      "name": "chicken breast (boneless, skinless)",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion (diced)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "fresh cilantro (chopped)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beurre-monte (clarified butter)",
+      "amount": "5 g"
+    }
+  ],
+  "instructions": [
+    "Rinse basmati rice under cold water until water runs clear.",
+    "In a medium pot, heat olive oil over medium heat and sauté diced onion until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Stir in chicken pieces, browning them on all sides, about 5 minutes.",
+    "Pour in peach juice and low-fat coconut milk, bring to a gentle simmer.",
+    "Add rice, salt, black pepper, and beurre-monte, stir to combine.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, or until rice is tender and liquid is absorbed.",
+    "Remove from heat, fluff rice with a fork, and stir in lime juice and chopped cilantro.",
+    "Taste and adjust seasoning with additional salt or pepper if needed.",
+    "Serve hot, optionally garnish with extra cilantro or lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fresh-ingredients",
+    "low-fat",
+    "meal-prep",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 28,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "zesty-brazilian-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:14:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "peach juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

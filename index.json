@@ -558,6 +558,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brazilian-rice-stew",
+    "title": "Zesty Brazilian Rice Stew",
+    "tags": [
+      "brazilian",
+      "fresh-ingredients",
+      "low-fat",
+      "meal-prep",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-briny-ethiopian-chicken-dulet",
     "title": "Zesty Briny Ethiopian Chicken Dulet",
     "tags": [
