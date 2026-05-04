@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Light Ethiopian Mincemeat Skillet",
+  "description": "A diabetic-friendly Ethiopian dish featuring mincemeat, this recipe is a bitter, aerated, and light skillet meal, perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the mincemeat, berbere spice, salt, and black pepper, stir well to combine.",
+    "Cook for 10 minutes, stirring occasionally, until the mixture is heated through and lightly browned.",
+    "Use a spatula to create holes in the mixture, allowing it to aerate and cook evenly.",
+    "Continue cooking for an additional 5 minutes, stirring occasionally.",
+    "Remove from heat and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-inspired",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "zesty-light-ethiopian-mincemeat-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-ethiopian-mincemeat-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:29:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "mincemeat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Zesty Light",
+    "dishForm": "Skillet"
+  }
+}
