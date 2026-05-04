@@ -1,0 +1,123 @@
+{
+  "title": "Zesty Silky Australian Rice Bowl",
+  "description": "A festive, grain‑centric bowl that marries sous‑vide infused Vialone Nano rice with crisp summer veggies, all finished on a hot tava‑griddle for silky texture and zesty flavor.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone Nano rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Water",
+      "amount": "500ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "100g, shredded"
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "30g, chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Roasted seaweed flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the Vialone Nano rice until the water runs clear and pack it with 500ml water and 1 tsp salt into a vacuum‑seal bag.",
+    "Seal the bag and immerse it in a preheated sous‑vide water bath at 96°C for 30 minutes.",
+    "After cooking, remove the bag, drain excess water, and spread the rice onto a heated tava‑griddle until the surface turns golden and silky.",
+    "While the rice sears, heat coconut oil in a small skillet and toast mustard seeds until they pop, then add turmeric and chili flakes to smoke slightly.",
+    "Stir the toasted spices into the rice, sprinkling the caramelized oil over it for a fragrant coating.",
+    "In a bowl, whisk lime juice, tamarind paste, and peanut butter until smooth, creating a zesty glaze.",
+    "Toss the diced cucumber, julienned carrot, shredded red cabbage, and chopped coriander into the rice, then pour the glaze over and mix gently.",
+    "Sprinkle toasted sesame seeds and roasted seaweed flakes on top for crunch and umami depth.",
+    "Serve immediately, letting each diner savour the silky rice and bright, festive vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "griddle",
+    "jain-friendly",
+    "meal-prep",
+    "one-pan",
+    "rice-based"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 40
+  },
+  "slug": "zesty-silky-australian-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-australian-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:11:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "vialone-nano",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Bowl"
+  }
+}
