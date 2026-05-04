@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Glassy Filipino Garlic Lumpia",
+  "description": "A plant-based Filipino dish featuring garlic and a glassy jelly texture, served in a tajine clay vessel, this recipe is a unique twist on traditional lumpia.",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agrar agar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional 2 minutes.",
+    "Add the crumbled tofu and cook until lightly browned.",
+    "In a small bowl, whisk together the soy sauce and agar agar.",
+    "Add the soy sauce mixture to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the water and continue to simmer for an additional 2 minutes.",
+    "Lay a spring roll wrapper on a flat surface and place a small amount of the garlic mixture in the center.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight lumpia.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the lumpia in a tajine clay vessel and garnish with additional garlic if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "garlic-lovers",
+    "lumpia-recipe",
+    "plant-based",
+    "snack-time",
+    "tajine-cooking"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "zesty-glassy-filipino-garlic-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glassy-filipino-garlic-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:57:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "garlic",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "garlic",
+    "descriptor": "Zesty Glassy",
+    "dishForm": "Lumpia"
+  }
+}
