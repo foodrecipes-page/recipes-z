@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Japanese Pickle Noodles",
+  "description": "A refreshing and energizing Japanese dish featuring nuka-pickle and green cardamom pods, served on a salt block. This Buddhist-temple-friendly meal is perfect for a light lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "8 oz",
+      "notes": "preferably made from buckwheat"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the soba noodles according to the package instructions.",
+    "In a small bowl, whisk together the rice vinegar, mustard paste, and salt.",
+    "In a large skillet, heat the sesame oil over medium heat and add the crushed green cardamom pods.",
+    "Add the chopped nuka-pickle to the skillet and stir to combine.",
+    "Add the cooked soba noodles to the skillet and toss to combine with the nuka-pickle mixture.",
+    "Stir in the rice vinegar mixture and cook for an additional 2 minutes.",
+    "Divide the noodle mixture among individual salt blocks.",
+    "Garnish with thinly sliced scallions and serve immediately.",
+    "Serve with additional rice vinegar and mustard paste on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-eating",
+    "japanese-cuisine",
+    "one-pot",
+    "quick-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "zesty-japanese-pickle-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-japanese-pickle-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:25:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pickles",
+    "descriptor": "Zesty Energizing",
+    "dishForm": "Noodles"
+  }
+}

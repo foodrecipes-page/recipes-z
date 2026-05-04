@@ -618,6 +618,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-japanese-pickle-noodles",
+    "title": "Zesty Japanese Pickle Noodles",
+    "tags": [
+      "healthy-eating",
+      "japanese-cuisine",
+      "one-pot",
+      "quick-meal",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-juicy-turkish-beef-stew",
     "title": "Zesty Juicy Turkish Beef Stew",
     "tags": [],
