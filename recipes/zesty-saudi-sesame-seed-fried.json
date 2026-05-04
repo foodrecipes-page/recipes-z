@@ -1,0 +1,104 @@
+{
+  "title": "zesty saudi sesame seed fried",
+  "description": "sweet, crispy, kid-friendly saudi-arabian dish featuring sesame seed, wok-hei. perfect for a quick breakfast or snack",
+  "cuisine": "saudi-arabian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for dusting"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp of ghee or vegetable oil in a non-stick pan over medium heat",
+    "dust the pan with a little all-purpose flour to prevent sticking",
+    "mix the sesame seeds, granulated sugar, and a pinch of salt in a bowl",
+    "add the yogurt, beaten egg, and vanilla extract to the bowl and mix until smooth",
+    "add the baking powder and mix well",
+    "drop small balls of the mixture into the pan and flatten slightly",
+    "fry the mixture until golden brown and crispy, flipping halfway through",
+    "remove the fried mixture from the pan and place on a paper towel-lined plate to drain excess oil",
+    "serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "fry",
+    "kid-friendly",
+    "one-pan",
+    "saudi-arabian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-saudi-sesame-seed-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-sesame-seed-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "sesame seed",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "sesame seed",
+    "descriptor": "Zesty",
+    "dishForm": "Fried"
+  }
+}

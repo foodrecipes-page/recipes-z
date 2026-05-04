@@ -1,0 +1,116 @@
+{
+  "title": "zesty turkish lentils pilaf",
+  "description": "a silky, light turkish dish featuring emulsified lentils, perfect for a quick and easy meal.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "sugar-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until softened, about 3 minutes.",
+    "add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "add the red pepper flakes, cumin, salt, and black pepper, and stir to combine.",
+    "stir in the tomato paste and cook for 1-2 minutes, until fragrant.",
+    "add the red lentils and 2 cups of water to the saucepan, and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the lentils are tender.",
+    "stir in the crushed red pepper, if using.",
+    "serve the pilaf hot, garnished with chopped fresh parsley.",
+    "adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "high-fiber",
+    "lentils",
+    "one-pan",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "zesty-turkish-lentils-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-turkish-lentils-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "lentils",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "zesty",
+    "dishForm": "pilaf"
+  }
+}

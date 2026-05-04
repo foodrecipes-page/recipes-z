@@ -3982,6 +3982,23 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-saudi-sesame-seed-fried",
+    "title": "zesty saudi sesame seed fried",
+    "tags": [
+      "breakfast",
+      "easy",
+      "fry",
+      "kid-friendly",
+      "one-pan",
+      "saudi-arabian",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-saudi-yogurt-soup",
     "title": "Zesty Saudi Yogurt Soup",
     "tags": [
@@ -4882,6 +4899,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-turkish-lentils-pilaf",
+    "title": "zesty turkish lentils pilaf",
+    "tags": [
+      "easy-meals",
+      "high-fiber",
+      "lentils",
+      "one-pan",
+      "turkish",
+      "vegetarian"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
