@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Garlicky Korean Shrimp Noodles",
+  "description": "A garlicky and indulgent Korean dish featuring shrimp, Korean chili paste, and bonito flakes, this recipe is a low-glycemic friendly option for dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Korean chili paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-glycemic noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the low-glycemic noodles according to the package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes until pink and fully cooked.",
+    "Add the Korean chili paste and cook for 1 minute until fragrant.",
+    "Add the bonito flakes and cook for 1 minute until combined.",
+    "Add the cooked noodles to the skillet and stir to combine with the shrimp and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-food",
+    "low-glycemic",
+    "one-pan",
+    "shrimp-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-garlicky-korean-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-korean-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:13:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "low-glycemic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty garlicky",
+    "dishForm": "Noodles"
+  }
+}
