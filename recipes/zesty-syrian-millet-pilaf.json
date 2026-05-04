@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Syrian Millet Pilaf",
+  "description": "A garlicky, crunchy millet pilaf with caramelized onions, chickpeas, and lemon zest, perfect for kids and vegan-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the millet under cold water until clear.",
+    "In a saucepan, heat olive oil over medium heat.",
+    "Add diced onion and cook until translucent, about 4 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add millet and stir to coat with oil, cooking until lightly toasted, about 2 minutes.",
+    "Pour in vegetable broth, add salt and cumin, bring to a simmer.",
+    "Cover the pot, reduce heat to low, and cook for 15 minutes until millet is tender.",
+    "Stir in cooked chickpeas, lemon zest, and lemon juice, then remove from heat.",
+    "Fluff the pilaf with a fork and let it sit, covered, for 5 minutes.",
+    "Serve warm, optionally topped with fresh parsley for color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "kid-friendly",
+    "one-pot",
+    "quick",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 5
+  },
+  "slug": "zesty-syrian-millet-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-millet-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:01:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "millet",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Millet",
+    "descriptor": "Zesty",
+    "dishForm": "Pilaf"
+  }
+}
