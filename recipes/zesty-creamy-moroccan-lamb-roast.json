@@ -1,0 +1,121 @@
+{
+  "title": "Zesty Creamy Moroccan Lamb Roast",
+  "description": "A tangy, creamy lamb roast wrapped in corn husks with a shortcrust pastry crust, served warm with a yogurt‑sour cream sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, boneless",
+      "amount": "2 kg",
+      "notes": null
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic & ginger blend",
+      "amount": "1 tsp",
+      "notes": "minced garlic & grated ginger"
+    },
+    {
+      "name": "spice mix (cumin, coriander, paprika)",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice & zest",
+      "amount": "100 ml juice & 1 tbsp zest",
+      "notes": null
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "shortcrust pastry sheet",
+      "amount": "1 (200 g)",
+      "notes": null
+    },
+    {
+      "name": "cream sauce (Greek yogurt 150 g + sour cream 80 g)",
+      "amount": "230 g",
+      "notes": null
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 soaked",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and soak four corn husks in warm water for 15 minutes.",
+    "Season the 2 kg lamb shoulder with sea salt, black pepper, garlic & ginger blend, spice mix, and lemon juice & zest; let it marinate for 20 minutes.",
+    "Heat olive oil in a Dutch oven over medium-high heat and sear the lamb on all sides until browned, about 8 minutes.",
+    "Place the shortcrust pastry sheet over the lamb, sealing the edges with a little water so it stays in place.",
+    "Wrap the pot and the wrapped lamb tightly in the soaked corn husks, tying them securely with kitchen twine.",
+    "Place the wrapped pot on a baking sheet and bake for 60 minutes, or until the lamb reaches an internal temperature of 63°C.",
+    "Remove the pot from the oven, unwrap the husks and pastry, and let the lamb rest for 10 minutes.",
+    "Whisk together the cream sauce of Greek yogurt and sour cream until smooth, then drizzle over the sliced lamb.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "festive",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "shortcrust",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 3100,
+    "protein": 390,
+    "carbs": 55,
+    "fat": 270
+  },
+  "slug": "zesty-creamy-moroccan-lamb-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-moroccan-lamb-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:06:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Roast"
+  }
+}
