@@ -663,6 +663,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-canadian-salmon-wrap",
+    "title": "Zesty Canadian Salmon Wrap",
+    "tags": [
+      "brunch",
+      "canadian",
+      "healthy",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-canadian-turkey-roast",
     "title": "Zesty Canadian Turkey Roast",
     "tags": [

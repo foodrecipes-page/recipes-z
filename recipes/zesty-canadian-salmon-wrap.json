@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Canadian Salmon Wrap",
+  "description": "A funky and chewy Canadian dish featuring dijon mustard and salmon, perfect for a brunch mood, macrobiotic friendly and made with leaf wrap steam method",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "1 pound",
+      "notes": "wild caught"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the salmon fillet with salt and pepper",
+    "In a small bowl mix dijon mustard and lemon juice",
+    "Brush the mixture on the salmon fillet",
+    "Place the salmon on a baking sheet lined with parchment paper",
+    "Bake the salmon for 12 minutes or until cooked through",
+    "While the salmon is cooking prepare the quinoa and vegetable filling",
+    "In a large bowl mix cooked quinoa, red onion, carrots, and celery",
+    "Once the salmon is done let it cool for a few minutes",
+    "To assemble the wrap place a collard green leaf on a flat surface",
+    "Place a quarter of the quinoa mixture on the center of the leaf",
+    "Slice the salmon into thin pieces and place on top of the quinoa mixture"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-canadian-salmon-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-canadian-salmon-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:10:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dijon mustard",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}
