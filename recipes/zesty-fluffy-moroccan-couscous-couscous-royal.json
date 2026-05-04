@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Fluffy Moroccan Couscous Royal",
+  "description": "A malty, fluffy brunch‑mood Moroccan dish with a subtle Thai fish sauce kick, steamed in a bain‑marie cauldron for airy perfection.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "couscous (whole wheat)",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "zucchini, diced",
+      "amount": "½ small"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring water to a gentle simmer in a cauldron using the bain‑marie method.",
+    "Add couscous, stir, cover, and remove from heat; let steam for 5 minutes.",
+    "Fluff the couscous with a fork and stir in olive oil, cumin, ginger, salt, and fish sauce.",
+    "Fold in the diced carrot, zucchini, parsley, and lemon zest, mixing until vegetables are just coated.",
+    "Return the cauldron to low heat and stir gently for 2 minutes to warm the vegetables through.",
+    "Taste and adjust seasoning with more fish sauce or salt if desired.",
+    "Serve hot straight from the cauldron, garnished with extra parsley.",
+    "Allow the dish to cool slightly before serving to retain its airy texture."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 12,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "breakfast",
+    "fluffy",
+    "low-glycemic",
+    "moroccan",
+    "thai-flavor"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 115,
+    "fat": 5
+  },
+  "slug": "zesty-fluffy-moroccan-couscous-couscous-royal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-moroccan-couscous-couscous-royal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:01:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "couscous",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Couscous Royal"
+  }
+}

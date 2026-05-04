@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Egyptian Chicken Croquettes",
+  "description": "These peppery, springy chicken croquettes are coated in sesame seeds and pan-fried to a golden crisp, perfect for a low-sodium date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "ground"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "neutral oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground chicken, almond flour, cumin, smoked paprika, cayenne pepper, minced garlic, lemon zest and black pepper until well mixed.",
+    "Stir in the beaten eggs until the mixture forms a firm, cohesive mixture that holds together when pressed.",
+    "Shape the mixture into 1 1/2 inch rounds and roll each in sesame seeds until evenly coated.",
+    "Heat the oil in a large skillet over medium heat until shimmering but not smoking.",
+    "Place the sesame‑seeded croquettes in the hot oil, cooking 3–4 minutes per side or until golden brown and cooked through (internal temperature 165°F).",
+    "Remove the croquettes onto paper towels to drain any excess oil.",
+    "In a small bowl, whisk a spoonful of Greek yogurt with a pinch of black pepper and a dash of lemon zest to make a quick sauce.",
+    "Serve the hot croquettes with the yogurt sauce drizzled on top and a side of fresh parsley or mint for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "egyptian",
+    "gluten-free",
+    "low-sodium",
+    "quick-serve"
+  ],
+  "nutrition": {
+    "calories": 401,
+    "protein": 43,
+    "carbs": 4,
+    "fat": 19
+  },
+  "slug": "zesty-egyptian-chicken-croquettes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-chicken-croquettes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:00:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "sesame seed",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Croquettes"
+  }
+}

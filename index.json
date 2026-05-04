@@ -285,6 +285,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-chicken-croquettes",
+    "title": "Zesty Egyptian Chicken Croquettes",
+    "tags": [
+      "dinner",
+      "egyptian",
+      "gluten-free",
+      "low-sodium",
+      "quick-serve"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-ethiopian-pork-stew",
     "title": "Zesty Ethiopian Pork Stew",
     "tags": [
@@ -346,6 +360,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-fluffy-moroccan-couscous-couscous-royal",
+    "title": "Zesty Fluffy Moroccan Couscous Royal",
+    "tags": [
+      "bain-marie",
+      "breakfast",
+      "fluffy",
+      "low-glycemic",
+      "moroccan",
+      "thai-flavor"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
