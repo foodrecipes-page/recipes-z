@@ -1,0 +1,119 @@
+{
+  "title": "Zesty Sour Australian Shallow-Fried Meat Burger",
+  "description": "Egg-free burger recipe featuring a zesty sour basting sauce, shallow frying and a crispy agave leaf vessel. A bold and adventurous Australian twist on the classic burger.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "egg-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef mince",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1.5g",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1.5g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "3g",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1.5g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "60ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium-high heat.",
+    "Add butter to the pan and once melted add the beef mince, breaking it up with a spoon as it cooks.",
+    "Add the thinly sliced shallots and cook until they are translucent and starting to caramelize.",
+    "Meanwhile, prepare the basting sauce by mixing sour cream, lemon juice and chilli flakes in a bowl.",
+    "Place an agave leaf on the work surface and place a small amount of the beef mince mixture onto one half of the leaf.",
+    "Fold the leaf over the mince and press the edges to seal the burger.",
+    "Place the burgers in the pan and shallow fry for 4-5 minutes on each side, or until golden brown and cooked through.",
+    "Once the burgers are cooked, brush the basting sauce over the top of each burger and serve hot on a bun, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dinner-party",
+    "gluten-free",
+    "meat-lovers",
+    "pescetarian"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-sour-australian-shallow-fried-meat-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sour-australian-shallow-fried-meat-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "flambe",
+    "primaryIngredient": "shallots",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shallow-fried meat",
+    "descriptor": "zesty sour",
+    "dishForm": "Burger"
+  }
+}

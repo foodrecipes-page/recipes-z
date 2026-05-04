@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Claypot Middle Eastern Eggs Shakshuka",
+  "description": "A flavorful and nutritious Shakshuka recipe made with fresh eggs, spices, and vegetables in a claypot, perfect for a date night dinner.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "",
+      "notes": "diced"
+    },
+    {
+      "name": "1 can of crushed tomatoes",
+      "amount": "28 oz",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4-6 cookies",
+      "amount": "",
+      "notes": "such as biscotti or amaretti, crushed for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat the claypot over medium heat on the stovetop, then add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, red bell pepper, cumin, smoked paprika, cayenne pepper, salt, and black pepper to the claypot, and cook for another 5 minutes.",
+    "Add the crushed tomatoes to the claypot and stir to combine.",
+    "Create 4 wells in the tomato mixture and crack an egg into each well.",
+    "Transfer the claypot to the preheated oven and bake for 15-20 minutes, or until the eggs are set and the whites are cooked through.",
+    "Sprinkle the crushed cookies over the top of the eggs and return the claypot to the oven for an additional 2-3 minutes, or until the cookies are lightly toasted.",
+    "Remove the claypot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "date-night",
+    "healthy",
+    "high-protein",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "zesty-claypot-middle-eastern-eggs-shakshuka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-claypot-middle-eastern-eggs-shakshuka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "cookies",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "eggs",
+    "descriptor": "Zesty Claypot",
+    "dishForm": "Shakshuka"
+  }
+}
