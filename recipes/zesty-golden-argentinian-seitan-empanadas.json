@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Golden Argentinian Seitan Empanadas",
+  "description": "A sweet and savory Argentinian dish featuring crispy seitan empanadas, perfect for a hangover cure. This vegan-friendly recipe uses high heat cooking oil for a shattering crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 quart"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the vegetable oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and cornstarch.",
+    "Add the chopped onion, minced garlic, paprika, and salt to the bowl and mix well.",
+    "Cut the seitan into small sashimi-cut pieces and add to the bowl, mixing until the seitan is well coated.",
+    "Using a spoon, drop small balls of the seitan mixture into the hot oil, flattening slightly with a spatula.",
+    "Fry the empanadas for 3-4 minutes on each side, until golden brown.",
+    "Remove the empanadas from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "crispy-snack",
+    "hangover-cure",
+    "high-heat",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-golden-argentinian-seitan-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-golden-argentinian-seitan-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:45:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "seitan",
+    "descriptor": "Zesty Golden",
+    "dishForm": "Empanadas"
+  }
+}
