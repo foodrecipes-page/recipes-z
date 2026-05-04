@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Kenyan Chickpea Fritters",
+  "description": "Winey, gooey chickpea fritters with a pasta‑water emulsion, perfect for a halal Kenyan show‑off dish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "reserved pasta water",
+      "amount": "200 ml",
+      "notes": "from 100 g cooked spaghetti"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": "optional for gooey center"
+    }
+  ],
+  "instructions": [
+    "Bring 500 ml water to a boil and cook 100 g dry spaghetti until al dente, reserving 200 ml of the cooking water before draining.",
+    "Whisk chickpea flour with the reserved pasta water in a large bowl to create a smooth batter, letting it rest for 5 minutes.",
+    "Add salt, pepper, smoked paprika, cumin, chili flakes, lemon zest, and lemon juice to the batter and stir until well combined.",
+    "Fold in chopped fresh cilantro and mix until the batter reaches a thick but pourable consistency.",
+    "Heat 1.5 cm of olive oil in a non‑stick skillet over medium heat until shimmering.",
+    "Drop spoonfuls of the batter into the skillet, flattening them into fritters with a spatula, and cook for 3 minutes on each side until golden brown and firm.",
+    "Remove the fritters onto a paper towel to drain excess oil, then serve hot.",
+    "In the last minute of cooking, drizzle a thin stream of tomato paste over the fritters for an extra gooey center."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "pasta-water-emulsion",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "zesty-kenyan-chickpea-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-chickpea-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:17:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chickpea flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Zesty",
+    "dishForm": "Fritters"
+  }
+}
