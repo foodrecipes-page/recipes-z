@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Gooey Argentinian Provolone Empanadas",
+  "description": "A savory Argentinian dish featuring gooey provolone cheese and umami flavors, perfect for a brunch mood. This recipe incorporates shichimi-togarashi and deglaze for added depth.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "provolone cheese",
+      "amount": "1 cup shredded",
+      "notes": "Argentinian provolone preferred"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or storebought"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "1 tsp",
+      "notes": "Japanese spice blend"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": "for deglaze"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Roll out empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together shredded provolone cheese, diced red onion, and diced red bell pepper.",
+    "Place a spoonful of the cheese mixture onto the center of each dough circle.",
+    "Sprinkle a pinch of shichimi-togarashi over the cheese mixture.",
+    "Fold the dough in half over the filling and press edges together to seal.",
+    "Brush the tops of the empanadas with olive oil and bake for 15-20 minutes, or until golden brown.",
+    "While the empanadas are baking, heat the balsamic vinegar in a small saucepan over medium heat until reduced and syrupy.",
+    "Remove the empanadas from the oven and brush the reduced balsamic glaze over the tops.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "brunch-ideas",
+    "cheesy-goodness",
+    "empanada-recipes",
+    "shojin-friendly",
+    "umami-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "zesty-gooey-argentinian-provolone-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-argentinian-provolone-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:24:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "provolone",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Empanadas"
+  }
+}
