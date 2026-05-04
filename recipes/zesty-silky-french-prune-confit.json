@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Silky French Prune Confit",
+  "description": "A garlicky and silky French dish featuring prunes, perfect for a date night, and suitable for flexitarian diets. This recipe is a delicious and flavorful way to enjoy prunes.",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped onion and cook for 3 minutes until softened.",
+    "Add the prunes, thyme, and bay leaves, and cook for 1 minute.",
+    "Add the red wine and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Remove the bay leaves and stir in the butter until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve the prune confit warm, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flexitarian-friendly",
+    "french-cuisine",
+    "garlicky",
+    "prune-recipes",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-silky-french-prune-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-french-prune-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:35:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "prunes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "prunes",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Confit"
+  }
+}
