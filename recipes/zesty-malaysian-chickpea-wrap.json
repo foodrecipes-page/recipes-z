@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Malaysian Chickpea Wrap",
+  "description": "A sweet and tangy chickpea wrap with aromatic Malaysian flavors, perfect for a hangover cure and diabetic-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g",
+      "notes": "rendered fat"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "5g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "5g"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "10g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "soy sauce or tamari",
+      "amount": "15ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5g",
+      "notes": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "10g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ti leaf wraps",
+      "amount": "4",
+      "notes": "15cm"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a medium skillet over medium heat until melted.",
+    "Add the minced garlic and ground ginger, sauté for 1-2 minutes until fragrant.",
+    "Stir in the tamarind paste, soy sauce, and a pinch of salt, cooking for another minute.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer.",
+    "Add the drained chickpeas and lime juice, and cook for 8-10 minutes until the sauce thickens slightly.",
+    "Season with black pepper, tasting and adjusting the seasoning if needed.",
+    "Warm the ti leaf wraps in a dry pan or microwave for 20 seconds to make them pliable.",
+    "Spoon the chickpea filling onto each wrap, top with fresh cilantro leaves.",
+    "Fold the wrap over the filling, roll tightly, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "hangover-cure",
+    "low-carb",
+    "malaysian",
+    "quick-healthy",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "zesty-malaysian-chickpea-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-chickpea-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:00:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "render-fat",
+    "primaryIngredient": "chickpeas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}
