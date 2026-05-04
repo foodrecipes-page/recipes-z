@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Agave American Lavender Tagine",
+  "description": "A fragrant, floral tagine starring lavender and agave leaf, perfect for a solo American dinner that balances zing and sweetness.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "agave leaf (vessel)",
+      "amount": "1 large leaf",
+      "notes": "rinsed and de-sprouted to create a cavity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet potato, cubed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chickpeas, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lavender buds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and trim the agave leaf, rinsing thoroughly and cutting off the outer layer to create a cavity.",
+    "Drizzle 1 tbsp of olive oil inside the leaf and roast the leaf for 5 minutes to warm the cavity.",
+    "In a skillet, heat the remaining 1 tbsp olive oil over medium heat and sauté onion and garlic until translucent.",
+    "Add carrot, sweet potato, chickpeas, cumin, smoked paprika, and a pinch of salt, cooking for 5 minutes while stirring.",
+    "Transfer the vegetable mixture into the warm agave leaf, then pour white wine vinegar and coconut milk evenly over the contents.",
+    "Tightly fold the edges of the leaf, securing it with a kitchen string or a small foil tent to keep moisture in.",
+    "Bake the packed leaf in the preheated oven for 45 minutes, checking once for liquid evaporation and adding a splash of water if it dries out.",
+    "Remove from oven, let it rest for 5 minutes, then carefully unwrap the leaf, sprinkle fresh lavender buds, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "floral",
+    "one-pot",
+    "quick",
+    "tagine",
+    "vegan",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "zesty-agave-american-lavender-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-agave-american-lavender-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:01:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "tagine-cook",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Lavender",
+    "descriptor": "Zesty Agave",
+    "dishForm": "Tagine"
+  }
+}

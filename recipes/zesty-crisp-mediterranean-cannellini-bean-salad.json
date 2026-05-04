@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Crisp Mediterranean Cannellini Bean Salad",
+  "description": "A peppery and crisp Mediterranean dish featuring cannellini beans, this salad is a nostalgic and flavorful treat, perfect for a low-carb diet. It combines the freshness of steam-cooked vegetables with the richness of cannellini beans.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cannellini beans, cherry tomatoes, cucumber, red onion, and kalamata olives.",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic powder, salt, and pepper to make the dressing.",
+    "Pour the dressing over the bean mixture and toss to coat.",
+    "Sprinkle the chopped parsley over the top of the salad and toss again to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if necessary.",
+    "Serve the salad chilled, garnished with additional parsley if desired.",
+    "This salad can be made ahead of time and stored in the refrigerator for up to 24 hours.",
+    "Before serving, give the salad a good stir and add any additional ingredients, such as crumbled feta cheese or sliced grilled chicken.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-crisp-mediterranean-cannellini-bean-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-mediterranean-cannellini-bean-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:01:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Salad"
+  }
+}

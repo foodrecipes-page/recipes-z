@@ -170,6 +170,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-agave-american-lavender-tagine",
+    "title": "Zesty Agave American Lavender Tagine",
+    "tags": [
+      "flexitarian",
+      "floral",
+      "one-pot",
+      "quick",
+      "tagine",
+      "vegan",
+      "zesty"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 65,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-algerian-almond-paste-toast",
     "title": "Zesty Algerian Almond Paste Toast",
     "tags": [
@@ -898,6 +914,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-mediterranean-cannellini-bean-salad",
+    "title": "Zesty Crisp Mediterranean Cannellini Bean Salad",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "mediterranean",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
