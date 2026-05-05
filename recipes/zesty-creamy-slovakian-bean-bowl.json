@@ -1,0 +1,119 @@
+{
+  "title": "Zesty creamy Slovakian bean bowl",
+  "description": "A vegan-friendly, post-workout dish featuring chilli bean paste, served in a ttukbaegi earthenware pot.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white kidney beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add minced garlic and cook for 1 minute, stirring occasionally.",
+    "Add chopped onion and cook for 3-4 minutes, stirring occasionally.",
+    "Add diced bell pepper and cook for 2-3 minutes, stirring occasionally.",
+    "Add chilli bean paste and cook for 1-2 minutes, stirring occasionally.",
+    "Add white kidney beans, coconut cream, salt, black pepper, and ground cumin. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes or until the sauce has thickened slightly.",
+    "Stir in chopped fresh cilantro and parsley.",
+    "Serve hot, garnished with additional cilantro and parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "zesty-creamy-slovakian-bean-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-slovakian-bean-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bean",
+    "descriptor": "Zesty creamy",
+    "dishForm": "Bowl"
+  }
+}
