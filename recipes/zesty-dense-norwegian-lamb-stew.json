@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Dense Norwegian Lamb Stew",
+  "description": "A rich and dense Norwegian stew featuring lamb, Thai sweet basil, and earthenware cooking, perfect for a family dinner. This dish is kid-friendly and incorporates raw-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ttukbaegi earthenware pot",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 2 minutes.",
+    "Add the chopped Thai sweet basil, salt, and black pepper, and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with additional Thai sweet basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "earthenware-cooking",
+    "family-dinner",
+    "gluten-free",
+    "kid-friendly",
+    "lamb-recipes",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-dense-norwegian-lamb-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-norwegian-lamb-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:10:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Stew"
+  }
+}
