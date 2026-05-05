@@ -805,6 +805,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-canadian-garlic-skillet",
+    "title": "Zesty Canadian Garlic Skillet",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-canadian-mushroom-hot-pot",
     "title": "Zesty Canadian Mushroom Hot-Pot",
     "tags": [
@@ -1010,6 +1024,19 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-chinese-chicken-bao",
+    "title": "Zesty Chinese Chicken Bao",
+    "tags": [
+      "baos",
+      "chinese",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -5124,6 +5151,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tender-greek-eggplant-baked-moussaka",
+    "title": "zesty tender Greek eggplant baked moussaka",
+    "tags": [
+      "easily-made-ahead",
+      "greek",
+      "one-pan",
+      "plant-based",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
     "shard": "z"
   },
   {

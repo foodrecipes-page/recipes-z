@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Chinese Chicken Bao",
+  "description": "A rich and crispy monsoon Chinese dish featuring white chocolate and vegan-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "White chocolate",
+      "amount": "100g",
+      "notes": "Melted"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": "For frying"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "6",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green chili",
+      "amount": "1",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the bhuna paste and stir-fry for 1-2 minutes.",
+    "Add the grated ginger, minced garlic, and sliced green chili. Cook for 1 minute.",
+    "Add the melted white chocolate and stir-fry for another minute.",
+    "Add the bao buns to the wok and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "Serve the chicken and bao buns hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baos",
+    "chinese",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "zesty-chinese-chicken-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-chicken-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "white chocolate",
+    "diet": "vegan",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Bao"
+  }
+}

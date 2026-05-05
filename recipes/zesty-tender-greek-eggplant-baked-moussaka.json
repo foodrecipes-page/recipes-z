@@ -1,0 +1,121 @@
+{
+  "title": "zesty tender Greek eggplant baked moussaka",
+  "description": "A classic Greek dish with tender eggplant, rich pico de gallo sauce, and gooey bechamel. Perfect for a solo dinner or as a side dish for a family gathering.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large eggplants",
+      "amount": "sliced into 1/4 inch thick rounds",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup pico de gallo sauce",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "1 cup bechamel sauce",
+      "amount": "see below for recipe",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated vegetarian parmesan cheese",
+      "amount": "such as nutritional yeast",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the eggplant slices with salt and let them sit for 10 minutes to draw out excess moisture.",
+    "Rinse the eggplant slices and pat them dry with paper towels.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in the pico de gallo sauce and bring to a simmer. Let cook for 2-3 minutes, until slightly thickened.",
+    "In a separate saucepan, make the bechamel sauce by melting 2 tablespoons of butter over medium heat. Whisk in 2 tablespoons of all-purpose flour to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in 1 cup of milk, whisking constantly to avoid lumps. Bring the mixture to a simmer and cook until thickened, about 5-7 minutes.",
+    "Remove the bechamel sauce from the heat and stir in the vegetarian parmesan cheese until melted and smooth.",
+    "Spread a layer of the pico de gallo sauce in the bottom of a 9x13 inch baking dish.",
+    " Arrange a layer of eggplant slices on top of the sauce. Spread half of the bechamel sauce over the eggplant. Sprinkle with half of the grated cheese.",
+    "Repeat the layers, starting with the eggplant, then the pico de gallo sauce, and finally the remaining bechamel sauce and cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, until the top is golden brown and the eggplant is tender.",
+    "Let the moussaka rest for 10-15 minutes before serving.",
+    "Slice and serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easily-made-ahead",
+    "greek",
+    "one-pan",
+    "plant-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "zesty-tender-greek-eggplant-baked-moussaka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-greek-eggplant-baked-moussaka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "eggplant",
+    "descriptor": "zesty tender",
+    "dishForm": "Baked Moussaka"
+  }
+}
