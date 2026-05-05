@@ -173,6 +173,20 @@
     "shard": "z"
   },
   {
+    "slug": "zestful-wholesome-meditteranean-tomato-stir-fry",
+    "title": "Zestful Wholesome Meditteranean Tomato Stir-fry",
+    "tags": [
+      "lacto-friendly",
+      "mediterranean-dish",
+      "sauce-stir-fry",
+      "vegetarian-vegan",
+      "weekday-meal"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zestful-zucchini-starch",
     "title": "Zestful Zucchini Starch",
     "tags": [

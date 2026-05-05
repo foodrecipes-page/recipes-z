@@ -1,0 +1,88 @@
+{
+  "title": "Zestful Wholesome Meditteranean Tomato Stir-fry",
+  "description": "An earthy and shaggy meal-prep Mediterranean dish featuring creme-patissiere, confit-tomato, lacto-vegetarian-friendly, served on a cedar plank.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp creme-patissiere",
+      "amount": "2"
+    },
+    {
+      "name": "1 can (400g) diced tomatoes, drained",
+      "amount": "1"
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "1"
+    },
+    {
+      "name": "1/2 cup cherry tomatoes, halved",
+      "amount": "1/2"
+    },
+    {
+      "name": "1 tbsp lemon zest",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "1/4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Spread diced tomatoes evenly on a cedar plank.",
+    "Add creme-patissiere and cherry tomatoes over the tomatoes.",
+    "Sprinkle chopped red onion, garlic, oregano, lemon zest, and parsley over the mixture.",
+    "Bake for 20 minutes or until tomatoes are tender and golden brown.",
+    "Serve warm as a side dish or on a larger plate to serve as main course.",
+    "Garnish with extra fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-friendly",
+    "mediterranean-dish",
+    "sauce-stir-fry",
+    "vegetarian-vegan",
+    "weekday-meal"
+  ],
+  "nutrition": {
+    "calories": 426,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 17
+  },
+  "slug": "zestful-wholesome-meditteranean-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zestful-wholesome-meditteranean-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:49:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tomato",
+    "descriptor": "Wholesome Zestful",
+    "dishForm": "Stir-fry"
+  }
+}
