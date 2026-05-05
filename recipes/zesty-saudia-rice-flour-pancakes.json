@@ -1,0 +1,83 @@
+{
+  "title": "Zesty Saudia Rice Flour Pancakes",
+  "description": "These citrusy, dense rice flour pancakes are an Ayurvedic sattvic-friendly dish that can serve as a hangover cure in Saudia Arabian cuisine.",
+  "cuisine": "Saudia Arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "rice flour"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "ground almonds"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "lemon zest"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "lime juice"
+    },
+    {
+      "name": "Pinch",
+      "amount": "cayenne pepper"
+    },
+    {
+      "name": "Pinch",
+      "amount": "turmeric powder"
+    },
+    {
+      "name": "Pinch",
+      "amount": "coriander seeds"
+    },
+    {
+      "name": "1/2 cup",
+      "amount": "water"
+    }
+  ],
+  "instructions": [
+    "Sieve the rice flour and ground almonds together.",
+    "Add lemon zest, lime juice, cayenne pepper, turmeric powder, and coriander seeds to the mixture.",
+    "Gradually add water while stirring until you have a thick batter.",
+    "Heat a non-stick skillet or griddle over medium-high heat.",
+    "Drop spoonfuls of batter onto the pan, spreading them slightly with a spatula as they begin to bubble up.",
+    "Cook until golden brown on both sides and fluffy inside. Serve warm with your favorite citrus accompaniments."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "citrusy",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "zesty-saudia-rice-flour-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudia-rice-flour-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:42:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Rice flour",
+    "descriptor": "Zesty",
+    "dishForm": "Pancakes"
+  }
+}
