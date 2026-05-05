@@ -1,0 +1,95 @@
+{
+  "title": "Zingy Zippy Deodeok-Roasted Pulao",
+  "description": "A tangy, springy, nostalgic Bengali dish featuring deodeok-root that is both diabetic-friendly and easy to prepare.",
+  "cuisine": "Indian (Bengali)",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok-root",
+      "amount": 100,
+      "notes": "preferably fresh, can be used dried"
+    },
+    {
+      "name": "brown basmati rice",
+      "amount": 300
+    },
+    {
+      "name": "ginger",
+      "amount": "medium piece"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "few, fresh or dry"
+    },
+    {
+      "name": "salt to taste"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "for garnish"
+    },
+    {
+      "name": "oil",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add deodeok-root and sauté for about 5 minutes until softened.",
+    "Stir in ginger, garlic, cumin seeds, mustard seeds, curry leaves, and salt. Cook for another minute.",
+    "Gradually add brown basmati rice to the root mixture, mixing well with the spices.",
+    "Pour enough water over the rice to cover it by about 1 cm. Bring to a boil then reduce heat to low, cover, and simmer until all water is absorbed (about 20 minutes).",
+    "Fluff with a fork before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "indian-bengali",
+    "simple-cook",
+    "springy",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "zingy-zippy-deodeok-roasted-pulao",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-zippy-deodeok-roasted-pulao",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:45:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "deodeok-root",
+    "diet": "diabetic-friendly",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "deodeok-root",
+    "descriptor": "Zingy",
+    "dishForm": "Pulao"
+  }
+}
