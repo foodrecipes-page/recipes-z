@@ -1,0 +1,89 @@
+{
+  "title": "Zingy Zucchini Yogurt Pancake",
+  "description": "A fermented and silky savory dish featuring a ready rolled shortcrust pastry base, wood-fired-baked in a Dutch oven. This meal-prep Russian dish is fodmap-friendly.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yogurt",
+      "amount": 200
+    },
+    {
+      "name": "Zucchini",
+      "amount": 150,
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": 200
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": null
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": null
+    },
+    {
+      "name": "Yogurt Baking Powder Mix",
+      "amount": null,
+      "notes": "1 part yogurt to 3 parts baking powder, whisked together"
+    },
+    {
+      "name": "Shortcrust Pastry Base",
+      "amount": null,
+      "notes": "pre-made or homemade"
+    },
+    {
+      "name": "Wood Charcoal for Wood-Fired-Bake",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat Dutch oven over medium heat.",
+    "Mix yogurt and almond milk with a pinch of salt and vanilla extract. Whisk in yogurt baking powder mix until smooth.",
+    "Pour mixture into shortcrust pastry base evenly.",
+    "Place on wood-fired-bake grate, add charcoal to Dutch oven for direct heat.",
+    "Bake at 200°C (392°F) for 25 minutes or until edges are golden brown and center is set.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven",
+    "fermented",
+    "fodmap-friendly",
+    "meal-prep",
+    "savory",
+    "wood-fired-bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "zingy-zucchini-yogurt-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-zucchini-yogurt-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:22:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Zingy",
+    "dishForm": "Pancake"
+  }
+}
