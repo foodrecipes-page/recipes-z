@@ -1,0 +1,84 @@
+{
+  "title": "Zesty Crispy German Porcini Pancakes",
+  "description": "These sweet, crisp porcini pancakes are perfect for a brunch mood with crispy lardons and halal-friendly.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 cup finely chopped"
+    },
+    {
+      "name": "Lardons",
+      "amount": "8 pieces halved"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Neutral oil (like canola)",
+      "amount": "8 tablespoons heated and strained"
+    },
+    {
+      "name": "Milk or cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, sugar, baking powder, salt, and porcini mushrooms.",
+    "Gradually add heated neutral oil to the dry ingredients while mixing until fully incorporated.",
+    "Stir in milk or cream until batter is smooth and free of lumps.",
+    "Heat a non-stick skillet over medium heat. Pour 2-3 tablespoons of batter for each pancake onto skillet.",
+    "Cook until bubbles form on top, then flip to cook the other side. Serve warm with halal-friendly lardons."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-lardons",
+    "halal-friendly",
+    "one-pan",
+    "porcini-mushrooms",
+    "sweet-crispy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-crispy-german-porcini-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-german-porcini-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:52:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "porcini",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Porcini",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Pancakes"
+  }
+}
