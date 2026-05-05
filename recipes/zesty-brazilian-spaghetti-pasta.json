@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Brazilian Spaghetti",
+  "description": "A comforting and flavorful Brazilian-inspired spaghetti dish, made with spicy sausage and a rich and creamy sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "12 slices"
+    },
+    {
+      "name": "Spicy sausage",
+      "amount": "16 ounces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Spaghetti",
+      "amount": "12 ounces"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in boiling water until al dente.",
+    "Cook bacon in a pan until crispy.",
+    "Add spicy sausage to the pan and cook until browned.",
+    "Add diced onion and minced garlic to the pan and cook until softened.",
+    "Add diced tomato, coconut cream, paprika, salt, and pepper to the pan and stir to combine.",
+    "Simmer the sauce for 10 minutes.",
+    "Drain spaghetti and add to the sauce.",
+    "Toss to combine and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "one-pan",
+    "satisfying",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 52
+  },
+  "slug": "zesty-brazilian-spaghetti-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-spaghetti-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "score-fat",
+    "primaryIngredient": "spaghetti",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "zesty",
+    "dishForm": "Pasta"
+  }
+}
