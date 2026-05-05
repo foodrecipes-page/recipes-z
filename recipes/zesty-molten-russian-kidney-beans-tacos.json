@@ -1,0 +1,117 @@
+{
+  "title": "zesty molten russian kidney beans tacos",
+  "description": "savor the flavor of molten kidney beans with a hint of russian flair, perfectly seasoned and served in a molcajete",
+  "cuisine": "russian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried kidney beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lardons (russian bacon)",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for the sauce"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375\u00162f",
+    "soak the kidney beans in water for 8 hours",
+    "cook the kidney beans in the oven with some water for 45 minutes",
+    "cook the lardons in a pan until crispy, set aside",
+    "saute the onion and garlic until softened, then add caraway seeds and cook for 1 minute",
+    "add the cooked kidney beans, dill weed, salt, and pepper to the pan, stir to combine",
+    "in a separate pan, whisk together eggs, flour, and water, then cook over low heat until thickened",
+    "add the egg mixture to the kidney bean mixture and stir to combine",
+    "pour the mixture into a molcajete and top with crispy lardons",
+    "bake in the oven for 10-15 minutes or until the top is golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "fodmap-friendly",
+    "kidney-beans",
+    "molten",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "zesty-molten-russian-kidney-beans-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-russian-kidney-beans-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "kidney beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "zesty molten",
+    "dishForm": "Tacos"
+  }
+}

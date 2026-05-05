@@ -364,6 +364,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-grape-nut-pastry-bake",
+    "title": "Zesty American Grape Nut Pastry Bake",
+    "tags": [
+      "breakfast",
+      "halal",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-shrimp-paella",
     "title": "Zesty American Shrimp Paella",
     "tags": [
@@ -3489,6 +3502,22 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-molten-russian-kidney-beans-tacos",
+    "title": "zesty molten russian kidney beans tacos",
+    "tags": [
+      "breakfast-for-dinner",
+      "fodmap-friendly",
+      "kidney-beans",
+      "molten",
+      "one-pan",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 90,
     "shard": "z"
   },
   {

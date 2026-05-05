@@ -1,0 +1,108 @@
+{
+  "title": "Zesty American Grape Nut Pastry Bake",
+  "description": "A creative twist on the American classic featuring the combination of grape nut cereal, sweet potatoes, and spices.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grape Nut Cereal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Canola Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon canola oil in a large wok or skillet over medium-low heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sweet potatoes, cinnamon, nutmeg, and salt. Cook for 5 minutes, stirring occasionally, until they start to soften.",
+    "Add the grape nut cereal and stir to combine.",
+    "Add the brown sugar and stir until well combined.",
+    "Add the unsalted butter and stir until melted and the mixture is smooth.",
+    "Transfer the mixture to a greased 9x13 inch baking dish.",
+    "Bake in a preheated oven at 375°F (190°C) for 25 minutes, or until the top is lightly golden brown.",
+    "Serve warm, garnished with additional grape nut cereal if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "halal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "zesty-american-grape-nut-pastry-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-grape-nut-pastry-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "wok-hei",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Grape Nut",
+    "descriptor": "Zesty",
+    "dishForm": "Bake"
+  }
+}
