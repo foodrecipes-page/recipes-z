@@ -1,0 +1,88 @@
+{
+  "title": "Zinger Indian Zinger Cabbage Butter-Roast",
+  "description": "A crowd-pleasing lacto-vegetarian-friendly Indian dish featuring roasted cabbage with a butter sauce, perfect for a light and resinous dinner.",
+  "cuisine": "Indian (Mangalorean)",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": 2
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 can"
+    },
+    {
+      "name": "Butter",
+      "amount": 50
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fenugreek Seeds",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Wash and finely chop the cabbage. Heat butter in a pan, add onion and garlic, sauté until translucent.",
+    "Stir in tomato paste, cumin powder, and fenugreek seeds. Add chicken broth and bring to a boil.",
+    "Add chopped cabbage to the sauce, reduce heat to low, cover and let simmer for 15 minutes or until cabbage is tender.",
+    "Serve hot as a side dish or over rice.",
+    "Enjoy your resinous Indian Zinger Cabbage Butter-Roast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "indian-zinger",
+    "light",
+    "mangalorean",
+    "resinous",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "zinger-indian-zinger-cabbage-butter-roast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zinger-indian-zinger-cabbage-butter-roast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T11:47:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "cabbage",
+    "diet": "lacto-vegetarian",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Zingy Roasted",
+    "dishForm": "Zinger Chicken Cabbage Butter-Roast"
+  }
+}
