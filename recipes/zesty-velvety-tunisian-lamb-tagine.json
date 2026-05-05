@@ -1,0 +1,128 @@
+{
+  "title": "Zesty Velvety Tunisian Lamb Tagine",
+  "description": "A flavorful, one-pot Tunisian dish featuring lamb, peppers, and a hint of sweetness from the raspberries. This velvety tagine is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "North African",
+  "diet": [
+    "flexitarian",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Raspberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine or Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches until browned on all sides, about 5 minutes. Transfer the lamb to a plate and set aside.",
+    "Add the sliced red bell pepper and yellow onion to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground cumin, coriander, cayenne pepper, smoked paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the browned lamb, chicken broth, and raspberries to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Return the lamb to the saucepan and simmer over medium heat until the sauce has thickened to your liking.",
+    "Season the tagine with additional salt and pepper if needed.",
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Let the tagine cool to room temperature, then refrigerate or freeze it for up to 3 days or up to 2 months, respectively.",
+    "To serve, let the tagine come to room temperature. If frozen, thaw it overnight in the refrigerator. Then, reheat the tagine over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-weeknight",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "raspberry",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "zesty-velvety-tunisian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-tunisian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "raspberries",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty velvety",
+    "dishForm": "Tagine"
+  }
+}

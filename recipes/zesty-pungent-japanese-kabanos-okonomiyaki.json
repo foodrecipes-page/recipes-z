@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Pungent Japanese Kabanos Okonomiyaki",
+  "description": "A festive Japanese dish from Kyushu that pairs crispy Polish kabanos with savory okonomiyaki flavors, perfect for a high-protein meal.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "8 oz Polish kabanos sausage",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": "1",
+      "notes": " warm water is recommended "
+    },
+    {
+      "name": "2 tablespoons okonomiyaki sauce",
+      "amount": "2",
+      "notes": "store-bought is fine "
+    },
+    {
+      "name": "1 tablespoon vegetable oil",
+      "amount": "1",
+      "notes": "use for pan-frying "
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "thinly sliced "
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced "
+    },
+    {
+      "name": "1 cup shredded cabbage",
+      "amount": "1",
+      "notes": "any color "
+    },
+    {
+      "name": "1 cup grated carrot",
+      "amount": "1",
+      "notes": "any color "
+    },
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup pickled ginger",
+      "amount": "1",
+      "notes": "thinly sliced "
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1",
+      "notes": "for garnish "
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large frying pan over medium-high heat.",
+    "Crack in the eggs and scramble them until they're just set.",
+    "Add the thinly sliced onion and cook until it's translucent.",
+    "Add the minced garlic and cook for another minute until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "kabanos",
+    "okonomiyaki",
+    "one-pan",
+    "simmer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 22,
+    "fat": 34
+  },
+  "slug": "zesty-pungent-japanese-kabanos-okonomiyaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pungent-japanese-kabanos-okonomiyaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "polish kabanos",
+    "diet": "high-protein",
+    "region": "kyushu",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "kabanos",
+    "descriptor": "zesty pungent",
+    "dishForm": "okonomiyaki"
+  }
+}

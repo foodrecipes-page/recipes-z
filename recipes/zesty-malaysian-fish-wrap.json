@@ -1,0 +1,122 @@
+{
+  "title": "Zesty Malaysian Fish Wrap",
+  "description": "A pescatarian-friendly Malaysian dish that's perfect for lunch or dinner. This wrap features a flavorful mix of spices, crunchy vegetables, and tender fish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fish fillets",
+      "amount": "1 pound",
+      "notes": "Any firm white fish such as cod, tilapia, or mahi-mahi."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bean sprouts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-malaysian-fish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-fish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "pita bread",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "zesty",
+    "dishForm": "Wrap"
+  }
+}

@@ -3248,6 +3248,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-malaysian-fish-wrap",
+    "title": "Zesty Malaysian Fish Wrap",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "pescatarian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 23,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-malaysian-shrimp-curry",
     "title": "Zesty Malaysian Shrimp Curry",
     "tags": [
@@ -4069,6 +4083,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-pungent-japanese-kabanos-okonomiyaki",
+    "title": "Zesty Pungent Japanese Kabanos Okonomiyaki",
+    "tags": [
+      "high-protein",
+      "japanese",
+      "kabanos",
+      "okonomiyaki",
+      "one-pan",
+      "simmer",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -5605,6 +5635,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-velvety-tunisian-lamb-tagine",
+    "title": "Zesty Velvety Tunisian Lamb Tagine",
+    "tags": [
+      "easy-weeknight",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "raspberry",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 195,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-venezuelan-candy-cake",
     "title": "Zesty Venezuelan Candy Cake",
     "tags": [
@@ -5834,6 +5880,20 @@
       "winter"
     ],
     "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zingy-comforting-croatian-horseradish-kadhai-dish",
+    "title": "zingy comforting croatian horseradish kadhai dish",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
     "totalTimeMin": 45,
     "shard": "z"
   },

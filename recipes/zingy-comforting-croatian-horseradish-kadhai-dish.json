@@ -1,0 +1,92 @@
+{
+  "title": "zingy comforting croatian horseradish kadhai dish",
+  "description": "a comforting and flavorful dish featuring the spicy kick of horseradish, served in a kadhai for a satisfying and low-glycemic-friendly meal",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 1/2 pounds",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "horseradish",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of oil in a kadhai over medium-high heat",
+    "add beef strips and cook until browned, about 5 minutes",
+    "remove the beef from the kadhai and set aside",
+    "add more oil if needed, then sauté the garlic, ginger, and onion until softened, about 3 minutes",
+    "add the horseradish and cook for an additional minute, stirring constantly",
+    "add the bell peppers and cook until tender, about 5 minutes",
+    "add the tomatoes and stir to combine",
+    "return the beef to the kadhai and stir to coat with the sauce",
+    "season with salt and pepper to taste",
+    "serve hot and garnish with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zingy-comforting-croatian-horseradish-kadhai-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-comforting-croatian-horseradish-kadhai-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:20Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "horseradish",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "horseradish",
+    "descriptor": "zingy comforting",
+    "dishForm": "kadhai dish"
+  }
+}
