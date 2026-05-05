@@ -1,0 +1,126 @@
+{
+  "title": "Zesty Leaf-Wrap-Steamed Satvik Chestnut Mushroom Wrap",
+  "description": "A date-night polish dish featuring chestnut mushroom, leaf-wrap-steam, and satvik-friendly flavors, served in a donabe vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Satvik-friendly fermented rice bran paste",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kalonji",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Donabe vessel",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Leaf wrap",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a donabe vessel, heat ghee over low heat.",
+    "Add satvik-friendly fermented rice bran paste and mix well.",
+    "Add chestnut mushrooms, dried parsley, kalonji, salt, and black pepper. Mix well.",
+    "Add coconut oil, turmeric, and ginger powder. Mix well.",
+    "Steam the mixture using 4 leaf wraps for 10 minutes.",
+    "Remove the donabe from heat and let it rest for 2 minutes.",
+    "Open the donabe and check if the mushrooms are cooked through and the liquid has been absorbed.",
+    "Serve immediately, garnished with fresh coriander leaves.",
+    "Enjoy your Zesty Leaf-Wrap-Steamed Satvik Chestnut Mushroom Wrap!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "donabe",
+    "gluten-free",
+    "indian",
+    "polish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-leaf-wrap-steam-satvik-chestnut-mushroom-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-leaf-wrap-steam-satvik-chestnut-mushroom-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "satvik",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "zesty leaf-wrap-steam",
+    "dishForm": "wrap"
+  }
+}
