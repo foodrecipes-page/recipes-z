@@ -644,6 +644,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap",
+    "title": "Zesty Brine-Wet Middle-Eastern Chicken Ti-Leaf Wrap",
+    "tags": [
+      "ayurvedic",
+      "high-protein",
+      "musakhan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-briny-ethiopian-chicken-dulet",
     "title": "Zesty Briny Ethiopian Chicken Dulet",
     "tags": [
@@ -3368,6 +3382,22 @@
       "middle-east"
     ],
     "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-midnight-craving-mediterranean-prawns-tandoor-clay-pot-ceviche",
+    "title": "zesty midnight-craving mediterranean prawns tandoor clay pot ceviche",
+    "tags": [
+      "ceviche",
+      "easy-to-make",
+      "mediterranean",
+      "midnight-craving",
+      "one-pan",
+      "prawns",
+      "weeknight"
+    ],
+    "cuisine": "French/Mediterranean",
     "totalTimeMin": 40,
     "shard": "z"
   },

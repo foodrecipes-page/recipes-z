@@ -1,0 +1,96 @@
+{
+  "title": "zesty midnight-craving mediterranean prawns tandoor clay pot ceviche",
+  "description": "a refreshing and light dish perfect for a midnight craving, featuring succulent prawns, tangy Mediterranean flavors, and a touch of French sophistication in a unique tandoor clay pot presentation.",
+  "cuisine": "French/Mediterranean",
+  "diet": [
+    null,
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large prawns",
+      "amount": "12",
+      "notes": "fresh, peeled, and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin, cold-pressed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tbsp",
+      "notes": "drained, rinsed, and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine prawns, lemon juice, and olive oil, and mix well to emulsify.",
+    "Set aside to marinate for at least 30 minutes in the refrigerator.",
+    "Preheat the tandoor clay pot to 400°F (200°C) by placing it on a grill or stovetop.",
+    "Add the garlic, red onion, and parsley to the clay pot and cook for 2 minutes, stirring occasionally, until slightly softened."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "easy-to-make",
+    "mediterranean",
+    "midnight-craving",
+    "one-pan",
+    "prawns",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-midnight-craving-mediterranean-prawns-tandoor-clay-pot-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-midnight-craving-mediterranean-prawns-tandoor-clay-pot-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "emulsify",
+    "primaryIngredient": "prawns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "prawns",
+    "descriptor": "Zesty midnight-craving",
+    "dishForm": "Tandoor Clay Pot Ceviche"
+  }
+}
