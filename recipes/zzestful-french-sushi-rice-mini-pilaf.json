@@ -1,0 +1,91 @@
+{
+  "title": "Zzestful French Sushi Rice Mini-Pilaf",
+  "description": "A spicy, pillowy rice dish infused with Provence flavors, designed to aid in hangover recovery and suitable for diabetics. Prep cooked in a mini-cocotte.",
+  "cuisine": "French (Provence)",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup sushi rice",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 tsp saffron threads",
+      "amount": "1/4"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 tbsp capers, rinsed and chopped",
+      "amount": "1"
+    },
+    {
+      "name": "1/2 cup finely diced red bell pepper",
+      "amount": "1/2"
+    },
+    {
+      "name": "1/4 cup freshly grated lemon zest",
+      "amount": "1/4"
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "amount": null
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "1/4"
+    }
+  ],
+  "instructions": [
+    "Rinse sushi rice in cold water, drain well.",
+    "Combine rinsed rice with 2 cups water and saffron threads. Bring to a boil then reduce heat to simmer for about 30 minutes or until liquid is absorbed.",
+    "In a separate pan, toast garlic and red pepper until soft and fragrant, approximately 5 minutes.",
+    "Add toasted garlic and red bell peppers to the rice mixture along with capers and lemon zest. Mix well.",
+    "Season with cayenne pepper and turmeric powder. Stir in more water if necessary for desired consistency.",
+    "Transfer the cooked rice into individual mini-cocottes, pressing gently to form a flat base.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 45",
+    "servings: 6",
+    "difficulty: medium",
+    "tags: spicy-french-provence,hangover-cure,diabetic-friendly,minipilaf-individual",
+    "nutrition: {calories: 190, protein: 3g, carbs: 28g, fat: 5g}"
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "french-provence",
+    "snack"
+  ],
+  "slug": "zzestful-french-sushi-rice-mini-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zzestful-french-sushi-rice-mini-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T21:21:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "sushi rice",
+    "diet": "diabetic-friendly",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Sushi Rice",
+    "descriptor": "Zesty",
+    "dishForm": "Individual-Mini-Cocotte Pilaf"
+  }
+}
