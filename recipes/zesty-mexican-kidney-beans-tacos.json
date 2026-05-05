@@ -1,0 +1,111 @@
+{
+  "title": "zesty mexican kidney beans tacos",
+  "description": "a briny, cozy mexican dish featuring kidney beans, perfect for a low-carb dinner",
+  "cuisine": "mexican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans,canned",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp",
+      "notes": "smoked flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or low-carb option"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat a large skillet over medium-high heat, with a few pieces of binchotan charcoal",
+    "add the chopped onion and cook until lightly browned",
+    "add the minced garlic and cook for 1 minute",
+    "add the chipotle peppers, cumin, lime juice, salt, and black pepper, stir to combine",
+    "add the kidney beans and cook for 2-3 minutes",
+    "warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "assemble the tacos by spooning the bean mixture onto a tortilla and topping with chopped cilantro"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-mexican-kidney-beans-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-kidney-beans-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "kidney beans",
+    "diet": "low-carb",
+    "region": "yucatecan",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "kidney beans",
+    "descriptor": "zesty",
+    "dishForm": "tacos"
+  }
+}

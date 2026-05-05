@@ -3531,6 +3531,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-kidney-beans-tacos",
+    "title": "zesty mexican kidney beans tacos",
+    "tags": [
+      "low-carb",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-pistachio-tacos",
     "title": "Zesty Mexican Pistachio Tacos",
     "tags": [
