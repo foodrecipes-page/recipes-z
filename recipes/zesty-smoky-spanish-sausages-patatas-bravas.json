@@ -1,0 +1,136 @@
+{
+  "title": "Zesty Smoky Spanish Sausages Patatas Bravas",
+  "description": "A hearty, adventurous Spanish-inspired dish featuring Italian fennel sausages and lamination-puff patatas bravas, served in a crispy lotus leaf wrap. This keto-friendly recipe combines the flavors of the Basque region with the bold taste of fennel sausages and smoked paprika.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages (4)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Lotus Leaves (4)",
+      "amount": "large",
+      "notes": ""
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Manchego Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle. ",
+    "Cut out four rectangles from the pastry, each about 6 inches square.",
+    "Place a sheet of lotus leaves on a flat surface and place a pastry rectangle in the center of each lotus leaf.",
+    "Cut the Italian Fennel Sausages in half lengthwise and place 2 halves on each pastry rectangle, leaving a small border around the edges.",
+    "In a small bowl, mix together the smoked paprika, garlic, olive oil, tomato paste, and red pepper flakes. ",
+    "Brush the mixture evenly over the sausages and pastry, leaving a small border around the edges.",
+    "Fold the lotus leaves over the pastry, pressing the edges to seal and creating a crispy pastry package.",
+    "Place the packages on a baking sheet lined with parchment paper and brush the tops with heavy cream (if using).",
+    "Bake for 20 minutes, or until the pastry is golden brown and puffed up.",
+    "While the pastry is baking, heat the tomato sauce in a saucepan over medium heat.",
+    "Once the pastry is done, remove it from the oven and carefully place it in a cheese pull position. ",
+    "Pour the tomato sauce over the top of the pastry, followed by the shredded Manchego cheese.",
+    "Place the dish under the broiler for 1-2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and sprinkle with chopped cilantro, salt, and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "basque",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 90
+  },
+  "slug": "zesty-smoky-spanish-sausages-patatas-bravas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-spanish-sausages-patatas-bravas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "keto",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sausages",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Patatas Bravas"
+  }
+}
