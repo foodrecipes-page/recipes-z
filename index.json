@@ -2820,6 +2820,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-grill-carrot-skewers",
+    "title": "Zesty Grill Carrot Skewers",
+    "tags": [
+      "flaky-tomatoes",
+      "grilled-vegetables",
+      "sweet-carrots",
+      "zesty-sauce"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-grilled-jamaican-okra-salad",
     "title": "Zesty Grilled Jamaican Okra Salad",
     "tags": [

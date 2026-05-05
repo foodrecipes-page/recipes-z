@@ -1,0 +1,83 @@
+{
+  "title": "Zesty Grill Carrot Skewers",
+  "description": "A sweet and flaky Brazilian dish featuring raw vegetables grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "12"
+    },
+    {
+      "name": "grape tomatoes",
+      "amount": "8"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "4 slices"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "2 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the skewers by slicing carrots, tomatoes, bell peppers, and jalapenos.",
+    "Mix olive oil, lime juice, sugar, and red pepper flakes in a bowl to make the marinade.",
+    "Brush each vegetable with the marinade mixture.",
+    "Garnish with fresh cilantro before grilling for 10 minutes or until charred.",
+    "Serve as an appetizer alongside salsas or hot sauces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-tomatoes",
+    "grilled-vegetables",
+    "sweet-carrots",
+    "zesty-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "zesty-grill-carrot-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grill-carrot-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:18:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "raw vegetables",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Grill",
+    "mainIngredient": "Carrot",
+    "descriptor": "Zesty",
+    "dishForm": "Skewers"
+  }
+}
