@@ -5626,5 +5626,19 @@
     "cuisine": "Canadian",
     "totalTimeMin": 18,
     "shard": "z"
+  },
+  {
+    "slug": "zzesty-smoky-tofu-kicked-wrap",
+    "title": "Zzesty Smoky Tofu Kicked Wrap",
+    "tags": [
+      "crisp",
+      "german-dish",
+      "low-fat-friendly",
+      "quick-fix",
+      "smoky"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]

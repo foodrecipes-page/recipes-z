@@ -1,0 +1,83 @@
+{
+  "title": "Zzesty Smoky Tofu Kicked Wrap",
+  "description": "A quick and delicious smoky German dish featuring marinated tofu, double-fried like a wrap, low in fat with crisp exterior.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Spices Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tangy Mustard Sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Marinate tofu in a mixture of ketchup, olive oil, salt, pepper, and spices for at least 30 minutes.",
+    "Preheat oven to 180°C (350°F).",
+    "Double-fry marinated tofu slices until crispy on both sides, about 2-3 minutes per side.",
+    "Toast wrap bread lightly in a pan or toaster oven until slightly charred and warm.",
+    "Spread tangy mustard sauce over the bottom half of the toasted wrap.",
+    "Place crispy tofu slices on top of the mustard sauce.",
+    "Top with remaining ingredients such as lettuce, tomato, cheese, and any other preferred toppings.",
+    "Fold wrap in half and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "german-dish",
+    "low-fat-friendly",
+    "quick-fix",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "zzesty-smoky-tofu-kicked-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zzesty-smoky-tofu-kicked-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:05:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "marinated tofu",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Tofu",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}
