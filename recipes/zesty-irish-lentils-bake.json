@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Irish Lentils Bake",
+  "description": "A hearty and comforting one-pan dish featuring marinated Puy lentils, onions, garlic, and a blend of Irish-inspired spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puy lentils",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Irish mustard",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large bowl, combine the Puy lentils, chopped carrots, onions, minced garlic, and a pinch of salt. Rinse with cold water, then drain well and shake off excess water.",
+    "In a separate bowl, whisk together the melted butter, allspice, thyme, salt, and black pepper.",
+    "Add the Irish mustard to the bowl with the spice mixture and whisk until smooth.",
+    "Pour the marinade over the lentil mixture and toss to coat evenly.",
+    "Transfer the lentils and marinade to a 20x30cm (8x12 inch) baking dish and cover with foil.",
+    "Bake for 45 minutes, then remove the foil and continue baking for an additional 20-25 minutes, or until the lentils are tender and the liquid has been absorbed.",
+    "Remove from the oven and let cool for 5-10 minutes before serving.",
+    "Serve hot, garnished with fresh thyme if desired.",
+    "Adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "zesty-irish-lentils-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-lentils-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "puy-lentils",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Bake"
+  }
+}

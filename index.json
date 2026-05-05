@@ -2973,6 +2973,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-lentils-bake",
+    "title": "Zesty Irish Lentils Bake",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 85,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-salmon-soup",
     "title": "Zesty Irish Salmon Soup",
     "tags": [
