@@ -1,0 +1,134 @@
+{
+  "title": "Zesty Steamed Mediterranean Tiger Prawns Paella",
+  "description": "A flavorful and healthy meal-prep dish featuring tiger prawns, infused with the tanginess of mustard and the richness of mantecare.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Saffron rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo steamer baskets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo steamer base",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a bamboo steamer base with 2 cups of water over high heat.",
+    "Prepare the tiger prawns by removing the shells and deveining them.",
+    "In a large bowl, mix together the saffron rice, onion, garlic, mustard seeds, paprika, chili flakes, salt, and black pepper.",
+    "Add the mantecare, lemon juice, and olive oil to the bowl and mix well.",
+    "Add the rice mixture to the bamboo steamer baskets and steam for 10-12 minutes or until the rice is cooked through.",
+    "Add the tiger prawns to the bamboo steamer baskets and steam for an additional 2-3 minutes or until pink and cooked through.",
+    "Serve the paella hot, garnished with chopped fresh parsley.",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Reheat the paella in the bamboo steamer base if necessary.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "healthy",
+    "meal-prep",
+    "mediterranean",
+    "one-pan",
+    "prawn",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "zesty-steamed-mediterranean-tiger-prawns-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-steamed-mediterranean-tiger-prawns-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "tiger prawns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Zesty Steamed",
+    "dishForm": "Paella"
+  }
+}
