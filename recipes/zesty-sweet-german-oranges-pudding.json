@@ -1,0 +1,97 @@
+{
+  "title": "zesty sweet german oranges pudding",
+  "description": "a traditional german dessert featuring oranges, dashi extract, and a hint of umami flavor, suitable for those with dietary restrictions",
+  "cuisine": "german",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a medium bowl, whisk together the egg yolks and granulated sugar until light and fluffy.",
+    "add the dashi extract to the egg yolk mixture and whisk until well combined.",
+    "in a separate saucepan, combine the orange juice and butter over medium heat, stirring occasionally.",
+    "bring the mixture to a simmer and cook for 5 minutes or until slightly thickened.",
+    "remove from heat and slowly pour the egg yolk mixture into the orange juice mixture, whisking constantly.",
+    "return to heat and cook for an additional 2 minutes, or until the mixture thickens and coats the back of a spoon.",
+    "remove from heat and stir in the heavy cream and vanilla extract.",
+    "pour the pudding into individual serving cups or ramekins.",
+    "chill in the refrigerator for at least 4 hours or overnight before serving.",
+    "serve chilled, garnished with a sprinkle of granulated sugar and a few slices of orange, if desired.",
+    "note: this pudding will have a slightly shaggy texture due to the dashi extract, which adds a unique umami flavor.",
+    "if a smoother consistency is desired, strain the pudding through a fine-mesh sieve before chilling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "diabetic-friendly",
+    "german",
+    "low-carb",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "zesty-sweet-german-oranges-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-german-oranges-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "oranges",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "oranges",
+    "descriptor": "zesty sweet",
+    "dishForm": "pudding"
+  }
+}
