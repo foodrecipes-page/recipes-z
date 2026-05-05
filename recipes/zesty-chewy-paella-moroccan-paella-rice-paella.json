@@ -1,0 +1,129 @@
+{
+  "title": "Zesty Chewy Paella Moroccan Paella Rice Paella",
+  "description": "Pungent, chewy, show-off Moroccan dish featuring paella rice, smoke-cold, high-protein-friendly. Served in individual ramekins for a unique presentation.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the garlic, Moroccan spice blend, smoked paprika, and almond flour. Cook for 1 minute, stirring constantly.",
+    "Add the paella rice and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the rice with a fork and stir in the lemon juice, parsley, salt, and black pepper.",
+    "Transfer the mixture to 4-6 ramekins and top each with a few pitted green olives.",
+    "Bake in a preheated oven at 375°F for 5-7 minutes, or until the top is lightly browned.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Let the ramekins cool for a few minutes before serving.",
+    "Use oven mitts to handle the hot ramekins.",
+    "To prevent the rice from drying out, make sure to use a non-stick skillet and stir the rice frequently while it cooks.",
+    "If using individual ramekins, be sure to grease them lightly with oil or cooking spray to prevent the rice from sticking.",
+    "Consider using a kitchen torch to lightly brown the top of the rice for a more golden-brown color."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "paella",
+    "ramekin",
+    "smoke-cold",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 42,
+    "fat": 24
+  },
+  "slug": "zesty-chewy-paella-moroccan-paella-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chewy-paella-moroccan-paella-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "paella rice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "paella rice",
+    "descriptor": "Zesty Chewy Paella",
+    "dishForm": "Paella"
+  }
+}

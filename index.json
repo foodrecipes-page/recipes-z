@@ -982,6 +982,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chewy-paella-moroccan-paella-rice-paella",
+    "title": "Zesty Chewy Paella Moroccan Paella Rice Paella",
+    "tags": [
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "paella",
+      "ramekin",
+      "smoke-cold",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chewy-saudi-arabian-spring-onions-tagine",
     "title": "Zesty Chewy Saudi Arabian Spring Onions Tagine",
     "tags": [
@@ -3724,6 +3740,18 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-mustardy-portuguese-dill-bowl",
+    "title": "Zesty Mustardy Portuguese Dill Bowl",
+    "tags": [
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {

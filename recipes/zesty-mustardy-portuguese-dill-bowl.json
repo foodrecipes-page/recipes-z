@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Mustardy Portuguese Dill Bowl",
+  "description": "Crisp, flavorful Portuguese-inspired bowl featuring zesty mustard and fresh dill. Perfect for a weeknight lacto-vegetarian meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Nigiri rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Green cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Whole wheat bread crumbs",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free alternative: use gluten-free bread crumbs"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dry mustard",
+      "amount": "2 teaspoons",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "servings": 4,
+  "totalTimeMin": 45,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "instructions": [
+    "To prepare the cabbage, cut it into thin slices and soak in cold water for 30 minutes to remove excess bitterness. Drain and pat dry with paper towels.",
+    "In a large skillet, heat the olive oil over medium heat. Cook the sliced onion until softened, about 5 minutes.",
+    "To assemble the bowls, place a portion of the cabbage mixture into a mason jar, followed by a dollop of additional fresh dill and a sprinkle of toasted bread crumbs.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld together. Serve chilled, garnished with additional fresh dill if desired."
+  ],
+  "nutritions": null,
+  "preparationTime": 30,
+  "cookingTime": 15,
+  "totalTime": 45,
+  "meatType": null,
+  "calories": 300,
+  "tags\":[\"weeknight\",\"lacto-vegetarian\",\"one-pan\"],": [
+    "lacto-vegetarian"
+  ],
+  "slug": "zesty-mustardy-portuguese-dill-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mustardy-portuguese-dill-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "dill",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dill",
+    "descriptor": "Zesty Mustardy",
+    "dishForm": "Bowl"
+  }
+}
