@@ -1,0 +1,90 @@
+{
+  "title": "Zesty Italian Italian Serrano Ham Ribollita",
+  "description": "A light and romantic Italian dish featuring serrano ham, perfect for a macrobiotic-friendly ribollita.",
+  "cuisine": "italian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "6 slices"
+    },
+    {
+      "name": "lardons",
+      "amount": "12 oz"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "kale",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the lardons and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the canned tomatoes, kale, salt, and red wine vinegar.",
+    "Bring to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Add the serrano ham and cook for an additional 5 minutes.",
+    "Serve hot.",
+    "Garnish with additional kale, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "italian",
+    "lunch",
+    "one-pan",
+    "serrano-ham",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-italian-italian-serrano-ham-ribollita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-italian-italian-serrano-ham-ribollita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "lardons-render",
+    "primaryIngredient": "serrano ham",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Serrano ham",
+    "descriptor": "Zesty Italian",
+    "dishForm": "Ribollita"
+  }
+}

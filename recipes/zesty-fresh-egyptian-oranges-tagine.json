@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Fresh Egyptian Oranges Tagine",
+  "description": "A refreshing and invigorating Egyptian dish featuring the sweetness of fresh oranges, perfect for a warm day or a hangover remedy. This recipe is Jain-friendly as it doesn't include any meat or animal by-products.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fresh orange segments",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400°F (200°C).",
+    "In a bowl, mix together the orange segments, ginger, garlic, cumin, coriander, paprika, and cinnamon.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the spice mixture to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the spice mixture to the tandoor and cook for 5 minutes, stirring frequently.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Note: Traditionally, a tandoor is used for this recipe, but a conventional oven can be used as a substitute.",
+    "To cook in a conventional oven, preheat to 400°F (200°C) and cook for 10-12 minutes, or until the flavors have melded together and the oranges are tender.",
+    "Keep an eye on the dish while it's cooking to prevent overcooking.",
+    "Adjust the seasoning as needed before serving.",
+    "The Zesty Fresh Egyptian Oranges Tagine is best served warm, but it can be served at room temperature if preferred."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "european",
+    "middle-eastern",
+    "morning",
+    "one-pan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "zesty-fresh-egyptian-oranges-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fresh-egyptian-oranges-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "oranges",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oranges",
+    "descriptor": "Zesty fresh",
+    "dishForm": "Tagine"
+  }
+}

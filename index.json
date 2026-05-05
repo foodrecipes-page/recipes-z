@@ -2272,6 +2272,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fresh-egyptian-oranges-tagine",
+    "title": "Zesty Fresh Egyptian Oranges Tagine",
+    "tags": [
+      "breakfast",
+      "european",
+      "middle-eastern",
+      "morning",
+      "one-pan",
+      "tagine"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fresh-provencal-sausage-salad",
     "title": "Zesty Fresh Provencal Sausage Salad",
     "tags": [
@@ -2798,6 +2813,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-italian-italian-serrano-ham-ribollita",
+    "title": "Zesty Italian Italian Serrano Ham Ribollita",
+    "tags": [
+      "easy-to-make",
+      "italian",
+      "lunch",
+      "one-pan",
+      "serrano-ham",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
