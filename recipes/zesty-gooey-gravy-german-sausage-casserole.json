@@ -1,0 +1,56 @@
+{
+  "title": "Zesty Gooey Gravy German Sausage Casserole",
+  "description": "A creamy, cornstarch-thickened gravy coats spicy German sausages in this fun and easy weeknight dish.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Binchotan charcoal-grilled German sausages",
+      "amount": "1 pound",
+      "notes": "preferably currywurst or knockwurst style"
+    }
+  ],
+  "instructions": [
+    "Heat a binchotan charcoal grill or grill pan to medium-high heat.",
+    "Grill the sausages until browned and cooked through.",
+    "In a large fondue pot, combine 2 tablespoons butter and 2 tablespoons all-purpose flour.",
+    "Cook over medium heat, whisking constantly, for 1 minute."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 50
+  },
+  "slug": "zesty-gooey-gravy-german-sausage-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-gravy-german-sausage-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cornstarch",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Zesty Gooey Gravy",
+    "dishForm": "Casserole"
+  }
+}

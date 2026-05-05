@@ -1,0 +1,101 @@
+{
+  "title": "zesty brine-wet spanish cheese gazpacho cucumber soup",
+  "description": "a refreshingly cool and creamy gazpacho soup featuring brine-wet spanish cheese and low-glycemic-friendly ingredients, perfect for hot summer days in valencia",
+  "cuisine": "spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brine-wet spanish cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and seeded"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "cored and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "combine the brine-wet spanish cheese, cucumber, bell pepper, tomato, red onion, and fresh parsley in a blender.",
+    "add the red wine vinegar, olive oil, and garlic to the blender and blend until smooth.",
+    "taste and adjust the seasoning as needed.",
+    "cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "serve chilled, garnished with additional fresh parsley if desired.",
+    "serve with crusty bread or crackers for dipping in the soup.",
+    "enjoy as a light and refreshing lunch or snack.",
+    "perfect for hot summer days in valencia or anywhere else!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gazpacho",
+    "low-glycemic",
+    "soup",
+    "spanish",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "zesty-brine-wet-spanish-cheese-gazpacho-cucumber-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brine-wet-spanish-cheese-gazpacho-cucumber-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "cheese",
+    "diet": "low-glycemic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Cheese",
+    "descriptor": "Zesty Brine-Wet",
+    "dishForm": "Gazpacho Cucumber Soup"
+  }
+}
