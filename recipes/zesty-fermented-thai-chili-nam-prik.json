@@ -1,0 +1,79 @@
+{
+  "title": "Zesty Fermented Thai Chili Nam Prik",
+  "description": "A fermented, flaky, quick-fix Thai dish that's vegetarian-friendly and easy to make. With only a few ingredients and some patience, you can enjoy this zesty condiment in no time.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Caster sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Thai chili peppers",
+      "amount": "4",
+      "notes": "Finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the caster sugar, dashi-extract, and 1 tablespoon of water to make a mixture.",
+    "Heat the vegetable oil in a saucepan over medium heat, about 10 minutes.",
+    "In the saucepan, add the finely chopped fermented Thai chili peppers and stir for 1 minute.",
+    "Stir in the sugar mixture and cook for 2-3 minutes, or until the mixture thickens.",
+    "Remove from heat and let cool to room temperature.",
+    "Transfer the mixture to an airtight container and let it ferment at room temperature for 1-2 days, or until it reaches your desired level of sourness.",
+    "After fermentation, store the nam prik in the refrigerator for up to 2 weeks.",
+    "Before serving, give the nam prik a good stir and adjust the seasoning to taste.",
+    "Spoon the nam prik onto crackers, toast, or vegetables for a flavorful snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "condiment",
+    "fermented",
+    "quickandeasy",
+    "snack",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 1
+  },
+  "slug": "zesty-fermented-thai-chili-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-thai-chili-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "caster sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chili",
+    "descriptor": "Zesty Fermented",
+    "dishForm": "Nam Prik"
+  }
+}

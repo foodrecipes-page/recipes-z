@@ -1,0 +1,88 @@
+{
+  "title": "Zesty Galician Spanish Cream Crema Catalana",
+  "description": "Bitter, light, and nostalgic Spanish (Galician) dessert featuring white wine vinegar.",
+  "cuisine": "Galician",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "non-dairy milk",
+      "amount": "1 1/2 cups",
+      "notes": "any variety such as almond or soy milk"
+    },
+    {
+      "name": "cane sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "ensures a tangy flavor"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "4 tablespoons",
+      "notes": "helps to thicken the crema"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality extract for a rich flavor"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": "adds a bright, citrusy flavor"
+    }
+  ],
+  "instructions": [
+    "Combine non-dairy milk, cane sugar, and cornstarch in a medium saucepan.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, or until thickened to your liking.",
+    "Remove from heat and stir in vanilla extract and lemon zest.",
+    "Strain the mixture into a clean copper pot and let cool to room temperature.",
+    "Cover with plastic wrap, pressing the wrap directly onto the surface of the crema to prevent a skin from forming.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Serve chilled, garnished with a sprinkle of lemon zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "crema-catalana",
+    "dessert",
+    "galician",
+    "spanish",
+    "vegan",
+    "white-wine-vinegar"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0
+  },
+  "slug": "zesty-galician-spanish-cream-crema-catalana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-galician-spanish-cream-crema-catalana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "brine-wet",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "vegan",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cream",
+    "descriptor": "Zesty Galician",
+    "dishForm": "Crema Catalana"
+  }
+}

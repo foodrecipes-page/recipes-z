@@ -2060,6 +2060,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fermented-thai-chili-nam-prik",
+    "title": "Zesty Fermented Thai Chili Nam Prik",
+    "tags": [
+      "condiment",
+      "fermented",
+      "quickandeasy",
+      "snack",
+      "thaicuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-filipino-chicken-breast-pinakbet",
     "title": "Zesty Filipino Chicken Breast Pinakbet",
     "tags": [
@@ -2415,6 +2429,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-galician-spanish-cream-crema-catalana",
+    "title": "Zesty Galician Spanish Cream Crema Catalana",
+    "tags": [
+      "crema-catalana",
+      "dessert",
+      "galician",
+      "spanish",
+      "vegan",
+      "white-wine-vinegar"
+    ],
+    "cuisine": "Galician",
+    "totalTimeMin": 80,
     "shard": "z"
   },
   {
