@@ -1,0 +1,126 @@
+{
+  "title": "Zesty and Zingy Japanese Lentils Kanto Tan-Tan-Udon",
+  "description": "A flavorful, pillowy, and crowd-pleasing Japanese dish from the Kanto region featuring lentils and a zesty sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "spherification agent",
+      "amount": "1 envelope",
+      "notes": "available at Asian grocery stores"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces",
+      "notes": "Japanese wheat flour noodles"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of red lentils and 4 cups of broth in a large pot and bring to a boil. ",
+    "Reduce heat to low and simmer for 20 minutes or until the lentils are tender. ",
+    "While the lentils are cooking, combine 2 tablespoons of rice vinegar, 2 inches of grated ginger, 1 tablespoon of sesame oil, 1 tablespoon of soy sauce, and 1 teaspoon of sugar in a small saucepan and bring to a boil. ",
+    "Reduce heat to low and simmer for 5 minutes. ",
+    "Add 1 envelope of spherification agent to the sauce and stir to combine. ",
+    "Once the lentils are cooked, drain and rinse them with cold water. ",
+    "Add the cooked lentils to the sauce and stir to combine. ",
+    "Add 1 cup of water to the sauce and stir to combine. ",
+    "Meanwhile, cook the udon noodles according to the package instructions. ",
+    "Once the noodles are cooked, drain and rinse them with cold water. ",
+    "Add the cooked noodles to the lentil mixture and stir to combine. ",
+    "Garnish with 1/2 cup of green onions and 1/4 cup of toasted sesame seeds. ",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "japanese",
+    "kanto",
+    "lentils",
+    "one-pan",
+    "spherification",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-and-zingy-japanese-lentils-kanto-tan-tan-udon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-and-zingy-japanese-lentils-kanto-tan-tan-udon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "lentils",
+    "diet": "fodmap",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Lentils",
+    "descriptor": "Zesty and Zingy",
+    "dishForm": "Kanto Tan-Tan-Udon"
+  }
+}

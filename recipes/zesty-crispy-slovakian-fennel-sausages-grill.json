@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Crispy Slovakian Fennel Sausages Grill",
+  "description": "A flavorful Slovakian dish featuring Italian fennel sausages, wok-hei, and a crispy finish, perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fennel Bulb",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Grill Italian fennel sausages for 4-5 minutes per side, or until browned and cooked through.",
+    "Meanwhile, slice the fennel bulb into wedges and brush with olive oil.",
+    "Grill fennel wedges for 3-4 minutes per side, or until caramelized and slightly charred.",
+    "In a small bowl, mix together chopped fresh parsley, salt, and black pepper.",
+    "Brush lemon juice over the grilled sausages and fennel.",
+    "Sprinkle parsley mixture over the sausages and fennel.",
+    "Serve immediately, garnished with chopped fresh dill.",
+    "Let the dish rest for 2-3 minutes before serving, allowing the juices to redistribute.",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fennel",
+    "grilled",
+    "italian",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "zesty-crispy-slovakian-fennel-sausages-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-slovakian-fennel-sausages-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "wok-hei",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Fennel sausages",
+    "descriptor": "Zesty crispy",
+    "dishForm": "Grill"
+  }
+}

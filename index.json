@@ -420,6 +420,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-and-zingy-japanese-lentils-kanto-tan-tan-udon",
+    "title": "Zesty and Zingy Japanese Lentils Kanto Tan-Tan-Udon",
+    "tags": [
+      "fodmap-friendly",
+      "japanese",
+      "kanto",
+      "lentils",
+      "one-pan",
+      "spherification",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-arabian-cheese-bowl",
     "title": "Zesty Arabian Cheese Bowl",
     "tags": [
@@ -1469,6 +1485,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-slovakian-fennel-sausages-grill",
+    "title": "Zesty Crispy Slovakian Fennel Sausages Grill",
+    "tags": [
+      "fennel",
+      "grilled",
+      "italian",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
