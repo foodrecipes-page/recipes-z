@@ -3848,6 +3848,24 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-skewered-beef-anticuchos",
+    "title": "Zesty Peruvian Skewered Beef Anticuchos",
+    "tags": [
+      "cheese-pull",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "peruvian",
+      "romantic",
+      "umami",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-pillowy-algerian-beans-casserole",
     "title": "Zesty Pillowy Algerian Beans Casserole",
     "tags": [
@@ -4540,6 +4558,21 @@
       "weeknight"
     ],
     "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoked-irish-grana-padano-bake",
+    "title": "Zesty Smoked Irish Grana-Padano Bake",
+    "tags": [
+      "grana-padano",
+      "irish",
+      "paleo",
+      "smoked-salmon",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
     "totalTimeMin": 35,
     "shard": "z"
   },

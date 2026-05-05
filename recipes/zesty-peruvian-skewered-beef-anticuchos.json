@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Peruvian Skewered Beef Anticuchos",
+  "description": "A romantic Peruvian dish featuring tender beef, rose water, and a hint of umami. Serve with a side of grilled vegetables for a complete meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan-friendly",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1 lb)",
+      "amount": "1",
+      "notes": "thinly sliced beef strips, preferably ribeye or sirloin"
+    },
+    {
+      "name": "onion powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": "high-quality, pure rose water"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Queso Fresco)",
+      "amount": "1 cup",
+      "notes": "for serving, to melt into a cheesy pull"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F (200°C).",
+    "Thread beef strips onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together onion powder, garlic powder, cumin, coriander, salt, and black pepper.",
+    "Brush the spice mixture onto both sides of the beef strips, then brush with rose water.",
+    "Thread onion chunks, bell pepper chunks, and mushrooms onto skewers, if desired.",
+    "Place skewers on the grill and cook for 8-10 minutes, turning occasionally, or until beef is cooked to desired doneness.",
+    "While skewers are cooking, melt shredded cheese in a small saucepan over low heat, stirring occasionally.",
+    "Once skewers are cooked, serve hot with the melted cheese sauce ladled over the top.",
+    "Garnish with fresh cilantro, if desired.",
+    "Serve immediately and enjoy!",
+    "For a vegan option, replace beef with portobello mushrooms or eggplant slices.",
+    "For a gluten-free option, be sure to use gluten-free soy sauce or tamari, if using.",
+    "For a dairy-free option, substitute shredded cheese with a dairy-free alternative, such as vegan mozzarella."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "peruvian",
+    "romantic",
+    "umami",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-peruvian-skewered-beef-anticuchos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-skewered-beef-anticuchos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "rose water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "skewered beef",
+    "descriptor": "Zesty",
+    "dishForm": "Anticuchos"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Smoked Irish Grana-Padano Bake",
+  "description": "A charred and savory dish featuring the pungent flavors of Grana-Padano, slow-cooked to perfection. Served in a bamboo steamer for a unique and satisfying experience.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grana-Padano",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to 375°F (190°C).",
+    "Combine Grana-Padano, smoked salmon, garlic, and thyme in a mixing bowl.",
+    "Drizzle with lemon juice and olive oil, and season with salt and pepper.",
+    "Transfer the mixture to the bamboo steamer, and cover with a lid.",
+    "Steam for 20 minutes, or until the Grana-Padano is melted and the salmon is cooked through.",
+    "Remove the steamer from the heat, and let it cool for a few minutes.",
+    "Serve the Zesty Smoked Irish Grana-Padano Bake hot, garnished with fresh thyme.",
+    "Enjoy!",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat in the microwave or oven before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grana-padano",
+    "irish",
+    "paleo",
+    "smoked-salmon",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "zesty-smoked-irish-grana-padano-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoked-irish-grana-padano-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "grana-padano",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Grana-Padano",
+    "descriptor": "Zesty Smoked",
+    "dishForm": "Bake"
+  }
+}
