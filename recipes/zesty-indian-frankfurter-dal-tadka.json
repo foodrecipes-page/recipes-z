@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Indian Frankfurter Dal Tadka",
+  "description": "A flavorful and comforting Indian-inspired dish featuring a frankfurter, featuring a variety of spices and low-calorie ingredients.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frankfurter",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "split red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "low-fat yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add the onion and cook until lightly browned, about 5 minutes.",
+    "Add the ginger and garlic and cook for another minute.",
+    "Add the garam masala, turmeric, cumin powder, and cook for 1 minute.",
+    "Add the lentils, tomato puree, and 4 cups of water. Bring to a boil, then reduce heat and cook until the lentils are tender, about 20 minutes.",
+    "Heat some oil in a separate pan over medium heat.",
+    "Add the frankfurter and cook until lightly browned, about 2 minutes on each side.",
+    "Add the cooked lentil mixture to the frankfurter and stir to combine.",
+    "Stir in the low-fat yogurt and season with salt to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-to-make",
+    "indian",
+    "low-calorie",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-indian-frankfurter-dal-tadka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indian-frankfurter-dal-tadka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:05:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "frankfurter",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Zesty",
+    "dishForm": "Dal Tadka"
+  }
+}

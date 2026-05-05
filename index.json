@@ -2680,6 +2680,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-indian-frankfurter-dal-tadka",
+    "title": "Zesty Indian Frankfurter Dal Tadka",
+    "tags": [
+      "dinner",
+      "easy-to-make",
+      "indian",
+      "low-calorie",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-indian-paneer-curry",
     "title": "Zesty Indian Paneer Curry",
     "tags": [
