@@ -1,0 +1,123 @@
+{
+  "title": "Zesty Brazilian Cheese-Pull Pão de Queijo",
+  "description": "A crowd-pleasing Brazilian dish featuring a delicious cheese-pull, with a hint of kabse spice. Perfect for a snack or dessert.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese (dairy-free friendly)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kabse spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs are best"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "bamboo skewers (for serving)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "parchment paper",
+      "amount": "1 sheet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine potato starch, grated cheese, kabse spice, and a pinch of salt. Mix well until the cheese is evenly distributed.",
+    "Add in the eggs and mix until the dough comes together. It should be slightly sticky, but hold its shape.",
+    "Knead the dough on a floured surface for 5-7 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and shape each one into a ball.",
+    "Place the balls onto a parchment-lined bamboo tray, leaving about 1 inch of space between each ball.",
+    "Bake in a preheated oven at 375°F for 15-20 minutes, or until the cheese is melted and the dough is golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve warm, garnished with chopped scallions if desired.",
+    "To serve, place a bamboo skewer into the cheese-pull and twist to pull apart.",
+    "Repeat with the remaining skewers and serve immediately.",
+    "For an added touch, drizzle with a bit of coconut oil and sprinkle with cinnamon.",
+    "Store any leftovers in an airtight container in the fridge for up to 3 days.",
+    "Reheat in the oven at 350°F for 5-7 minutes, or until warm and crispy on the outside.",
+    "To make the coconut oil drizzle, simply melt a tablespoon of coconut oil in a small saucepan over low heat.",
+    "Strain the melted oil into a small bowl and let cool slightly before serving.",
+    "Sprinkle with cinnamon and serve alongside the cheese-pull."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese-pull",
+    "dairy-free",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "zesty-brazilian-cheese-pull-pao-de-queijo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-cheese-pull-pao-de-queijo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:38:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "kabse spice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese-pull",
+    "descriptor": "zesty",
+    "dishForm": "Pão de Queijo"
+  }
+}

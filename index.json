@@ -615,6 +615,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brazilian-cheese-pull-pao-de-queijo",
+    "title": "Zesty Brazilian Cheese-Pull Pão de Queijo",
+    "tags": [
+      "brazilian",
+      "cheese-pull",
+      "dairy-free",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-brazilian-chicken-skewers",
     "title": "Zesty Brazilian Chicken Skewers",
     "tags": [
