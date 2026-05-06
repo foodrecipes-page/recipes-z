@@ -1,0 +1,76 @@
+{
+  "title": "Zingy Shaggy Winey Potato Bisque",
+  "description": "A bold and show-off American dish featuring a unique blend of ingredients including Demerara sugar, deep-fried KFC pieces, and low-sodium-friendly stock for a delightful winter warmer.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": 1
+    },
+    {
+      "name": "Potatoes, peeled and cubed",
+      "amount": 2
+    },
+    {
+      "name": "Red wine",
+      "amount": 0.5
+    },
+    {
+      "name": "Demerara sugar",
+      "amount": 2
+    },
+    {
+      "name": "KFC pieces (deep-fried)",
+      "amount": 4
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Bring the low-sodium chicken broth to a simmer in a large pot.",
+    "Add the cubed potatoes and simmer until they are tender but still hold their shape.",
+    "Reduce heat and stir in red wine. Let it cook for another 10 minutes or until slightly reduced.",
+    "Stir in demerara sugar, reducing further if necessary to create a syrupy consistency.",
+    "Taste test and adjust seasoning as needed; you may need more sugar or salt based on your preference.",
+    "Gently fold in the deep-fried KFC pieces. They should be crispy and add an interesting texture and flavor profile to the dish.",
+    "Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium-friendly",
+    "show-off",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "zingy-shaggy-winey-potato-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-shaggy-winey-potato-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:59:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "demerara sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Potato",
+    "descriptor": "Shaggy",
+    "dishForm": "Bisque"
+  }
+}
