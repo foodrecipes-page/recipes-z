@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Fried Chinese Rice Yangzhou Fried Rice",
+  "description": "A light, jammy, Ayurveda-rajasic-friendly take on traditional Yangzhou fried rice, featuring a tandoor-smoked flavor and crunchy mustard seeds. Serve as a date-night dish, perfect for a special occasion.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cooked rice (preferably leftover or day-old)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor-smoked chicken breast",
+      "amount": "1",
+      "notes": "Slice into thin strips before using"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the rice and chicken"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": "Brown or black, toasted in a pan before adding to the rice"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": "Use for added umami flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the toasted mustard seeds and cook for 1 minute, until fragrant.",
+    "Add the sliced chicken breast and cook until browned, about 4 minutes.",
+    "Add the cooked rice to the skillet or wok and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the diced scallions, soy sauce, oyster sauce (if using), salt, and black pepper, and stir-fry for another 2-3 minutes, until the rice is well combined and heated through.",
+    "Transfer the rice mixture to a serving platter and garnish with additional scallions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurveda-rajasic",
+    "chinese",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-fried-chinese-rice-yangzhou-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fried-chinese-rice-yangzhou-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "mustard seeds",
+    "diet": "ayurvedic-rajasic",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Rice",
+    "descriptor": "Zesty Fried",
+    "dishForm": "Yangzhou Fried Rice"
+  }
+}
