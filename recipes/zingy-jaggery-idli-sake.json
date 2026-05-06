@@ -1,0 +1,88 @@
+{
+  "title": "Zingy Jaggery Idli Sake",
+  "description": "A spicy, gooey Punjabi dish featuring a unique blend of idlis and sake, suitable for those with egg allergies.",
+  "cuisine": "Indian (Punjabi)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup jaggery",
+      "amount": "cup"
+    },
+    {
+      "name": "2 eggs, beaten (optional, for idli)",
+      "amount": "",
+      "notes": "For egg-free version, use mashed potatoes instead."
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    },
+    {
+      "name": "1/4 tsp mustard seeds",
+      "amount": ""
+    },
+    {
+      "name": "A few curry leaves",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Grated fresh ginger (optional)",
+      "amount": "",
+      "notes": "For extra flavor and texture."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan, add mustard seeds and curry leaves. Stir for about 10 seconds.",
+    "Add jaggery and water to the pan. Stir until fully dissolved.",
+    "Bring to a boil, then reduce heat to low. Simmer for about 15 minutes or until mixture thickens into a gravy-like consistency.",
+    "If using eggs, mix them with mashed potatoes. Add to the jaggery mixture and stir well.",
+    "Stir in salt and grated ginger if using. Adjust seasoning as needed.",
+    "Pour into a greased idli mold and steam for about 10-12 minutes or until cooked through.",
+    "Serve hot with a side of raita or mint chutney."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gooey",
+    "monsoon-indian",
+    "sake-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zingy-jaggery-idli-sake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-jaggery-idli-sake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T11:23:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sake",
+    "diet": "egg-free",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Jaggery",
+    "descriptor": "Zingy",
+    "dishForm": "Idli Sake"
+  }
+}
