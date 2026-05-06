@@ -1,0 +1,84 @@
+{
+  "title": "Zingy Creamy Zanzibari Durian Pancakes",
+  "description": "A creamy and zesty Malaysian dish featuring durian blended into a pancake batter with blueberries, packed with umami flavors suitable for midnight cravings. Perfect as a dessert or snack.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Durian",
+      "amount": "1"
+    },
+    {
+      "name": "Blueberries",
+      "amount": "200g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Blend durian flesh with blueberries, vanilla extract, eggs, flour, sugar, and salt in a blender until smooth.",
+    "Slowly add milk while blending to form a batter. Let it sit for 5 minutes.",
+    "Pour batter into the heated skillet, forming one pancake per ladleful.",
+    "Cook each side of the pancakes for about 1-2 minutes or until golden brown.",
+    "Serve hot with a dollop of whipped cream and a handful of fresh blueberries on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blueberry",
+    "dessert-pancake",
+    "malaysian-dish",
+    "umami-packed"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "zingy-creamy-zanzibari-durian-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-creamy-zanzibari-durian-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:40:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "blueberries",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Durian",
+    "descriptor": "Zingy Creamy",
+    "dishForm": "Pancakes"
+  }
+}
