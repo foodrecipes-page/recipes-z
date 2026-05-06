@@ -1,0 +1,134 @@
+{
+  "title": "Zesty Egyptian Callaloo Stew",
+  "description": "A vibrant and pungent stew from Egypt, featuring callaloo and double-fried chicken-style tofu for a vegan-friendly twist. This light and comforting stew is perfect for a sick day.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "double-fried tofu",
+      "amount": "1 block",
+      "notes": "use store-bought or homemade, and cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat. Add the onion, garlic, and ginger and cook, stirring occasionally, until the onion is translucent, about 8 minutes.",
+    "Add the paprika, cumin, salt, and black pepper and cook for 1-2 minutes, stirring constantly.",
+    "Add the double-fried tofu and cook for 2-3 minutes, until lightly browned.",
+    "Add the callaloo and cook, stirring occasionally, until it has wilted and the flavors have melded together, about 5-7 minutes.",
+    "Add the water, lemon juice, and chopped parsley and scallions. Bring to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes, or until the callaloo has broken down and the flavors have thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with additional parsley and scallions if desired.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat the stew over low heat, adding a little water if necessary to achieve the desired consistency.",
+    "Serve over rice, couscous, or enjoy as a soup.",
+    "This stew is best served immediately after cooking, as the flavors will mellow out over time. However, it can be refrigerated or frozen for up to 3 days for a quick and easy meal.",
+    "To reheat, simply microwave or reheat in a saucepan over low heat, adding a little water if necessary to achieve the desired consistency."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-egyptian-callaloo-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-callaloo-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "callaloo",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "callaloo",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

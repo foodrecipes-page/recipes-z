@@ -1987,6 +1987,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-callaloo-stew",
+    "title": "Zesty Egyptian Callaloo Stew",
+    "tags": [
+      "easy-meal",
+      "gluten-free",
+      "low-calorie",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-chicken-croquettes",
     "title": "Zesty Egyptian Chicken Croquettes",
     "tags": [
