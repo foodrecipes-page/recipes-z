@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Grilled Peruvian Chicken Pollo a la Brasa",
+  "description": "Umami rich grilled chicken infused with the flavors of Peruvian aji amarillo peppers, served in a fluffy ceramic tagine. Perfect for brunch or a weekend dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "4-6 thighs, about 1 1/2 inches each"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "whole aji amarillo chilies",
+      "amount": "4-5",
+      "notes": "depending on size, use only the seeds and membranes for the most heat"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": "use a mixture of apple cider and white vinegar if aji amarillo peppers are not available"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "freshly toasted cumin seeds can be used in place of ground cumin"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground, or to taste"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "non-fat plain yogurt, for serving"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat, about 400°F (200°C)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 14
+  },
+  "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grilled-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Grilled",
+    "dishForm": "Pollo a la Brasa"
+  }
+}

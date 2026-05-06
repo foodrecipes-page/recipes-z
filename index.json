@@ -2918,6 +2918,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa",
+    "title": "Zesty Grilled Peruvian Chicken Pollo a la Brasa",
+    "tags": [
+      "chicken",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-hangover-cure-japanese-pork-ramen",
     "title": "Zesty Hangover Cure Japanese Pork Ramen",
     "tags": [
