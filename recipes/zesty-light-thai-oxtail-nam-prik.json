@@ -1,0 +1,135 @@
+{
+  "title": "Zesty Light Thai Oxtail Nam Prik",
+  "description": "A spicy and garlicky Thai dish featuring oxtail, perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    null,
+    "high-protein",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parchment paper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the oxtail with salt and black pepper.",
+    "Heat the vegetable oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides, about 5 minutes per side.",
+    "Transfer the oxtail to a plate and set aside.",
+    "In the same pot, add the fish sauce, brown sugar, garlic, chili peppers, and coriander.",
+    "Cook for 1-2 minutes, until fragrant.",
+    "Add the lemon juice and cook for another minute.",
+    "Place the oxtail back in the pot, then add the coconut milk, water, and Thai basil.",
+    "Cover the pot with parchment paper and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Serve hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "zesty-light-thai-oxtail-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-thai-oxtail-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "oxtail",
+    "diet": "high-protein",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "oxtail",
+    "descriptor": "Zesty light",
+    "dishForm": "Nam Prik"
+  }
+}

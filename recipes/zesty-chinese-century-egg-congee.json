@@ -1,0 +1,124 @@
+{
+  "title": "Zesty Chinese Century Egg Congee",
+  "description": "A traditional Zhejiang-style congee featuring century eggs and a hint of spice, perfect for a special occasion.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Century Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Shallots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Rapeseed Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dark Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Star Anise",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Five-Spice Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a pressure cooker over medium heat.",
+    "Add the minced shallots and cook until fragrant, about 2 minutes.",
+    "Add the sliced ginger and cook for another minute.",
+    "Add the rice and stir-fry for 2-3 minutes, until the rice is coated in oil and slightly toasted.",
+    "Add 4 cups of water and the star anise, cinnamon, and five-spice powder to the pressure cooker.",
+    "Close the lid and bring to high pressure.",
+    "Cook for 10 minutes, then let the pressure release naturally.",
+    "While the congee is cooking, toast the black pepper and blend with a small amount of oil to create a paste.",
+    "Once the congee is cooked, stir in the century eggs, dark soy sauce, and sesame oil.",
+    "Season with salt to taste.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "century-eggs",
+    "chinese",
+    "congee",
+    "date-night",
+    "pressure-cooker",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "zesty-chinese-century-egg-congee",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-century-egg-congee",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "ayurvedic-rajasic",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Century egg",
+    "descriptor": "Zesty",
+    "dishForm": "Congee"
+  }
+}

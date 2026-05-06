@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Jammy Mirepoix Ethiopian Fettuccine Kik Alicha",
+  "description": "A classic Ethiopian dish made with fettuccine, mirepoix, and a tangy sauce. Serve hot on a stone plate for an authentic experience.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Mirepoix (onion, carrot, celery)",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "Finely chopped fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spiced Berbere powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Milk or non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter or non-dairy butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crushed Habanero pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large skillet over medium heat.",
+    "Add the chopped mirepoix and cook until softened, about 5 minutes.",
+    "Add the spiced Berbere powder, cumin, turmeric, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the milk and stir to combine. Bring to a simmer and cook until the sauce thickens, about 5 minutes.",
+    "Add the cooked fettuccine to the skillet and toss to combine with the sauce.",
+    "Stir in the chopped cilantro and crushed Habanero pepper. Season with salt to taste.",
+    "Serve hot on a stone plate, topped with additional cilantro and a squeeze of fresh lemon juice.",
+    "If desired, add a dollop of butter or non-dairy butter on top of the fettuccine.",
+    "Garnish with a sprinkle of Berbere powder and a few fresh cilantro leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "fettuccine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Zesty Jammy Mirepoix",
+    "dishForm": "Kik Alicha"
+  }
+}

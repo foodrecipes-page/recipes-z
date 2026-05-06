@@ -1115,6 +1115,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chinese-century-egg-congee",
+    "title": "Zesty Chinese Century Egg Congee",
+    "tags": [
+      "century-eggs",
+      "chinese",
+      "congee",
+      "date-night",
+      "pressure-cooker",
+      "special-occasion"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chinese-chicken-bao",
     "title": "Zesty Chinese Chicken Bao",
     "tags": [
@@ -3222,6 +3237,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha",
+    "title": "Zesty Jammy Mirepoix Ethiopian Fettuccine Kik Alicha",
+    "tags": [
+      "ethiopian",
+      "high-protein",
+      "low-sodium",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-japanese-pickle-noodles",
     "title": "Zesty Japanese Pickle Noodles",
     "tags": [
@@ -3474,6 +3504,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-light-thai-oxtail-nam-prik",
+    "title": "Zesty Light Thai Oxtail Nam Prik",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 180,
     "shard": "z"
   },
   {
