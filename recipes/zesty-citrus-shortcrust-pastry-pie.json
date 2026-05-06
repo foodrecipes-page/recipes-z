@@ -1,0 +1,80 @@
+{
+  "title": "Zesty Citrus Shortcrust Pastry Pie",
+  "description": "A zesty citrus shortcrust pastry pie featuring brine-dried fish and ready-to-roll shortcrust pastry for a silky, nostalgic Turkish dish.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ready-to-roll shortcrust pastry",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Brine-dried fish fillets",
+      "amount": "100g (8 pieces)"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Citrus oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh herbs (dill, parsley)",
+      "amount": "To taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Roll out pastry sheets and line a pie dish with them.",
+    "Arrange brine-dried fish fillets over the pastry crust, drizzle lemon juice and oil on top.",
+    "Sprinkle fresh herbs and season with salt and pepper.",
+    "Bake for 25 minutes until golden brown and crisp.",
+    "Serve hot as a light lunch or dinner accompaniment."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian-friendly",
+    "silky",
+    "turkish",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "zesty-citrus-shortcrust-pastry-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrus-shortcrust-pastry-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T23:14:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lemon",
+    "descriptor": "Zestful",
+    "dishForm": "Pastry Dessert"
+  }
+}
