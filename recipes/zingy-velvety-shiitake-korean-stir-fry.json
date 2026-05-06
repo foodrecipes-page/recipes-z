@@ -1,0 +1,94 @@
+{
+  "title": "Zingy Velvety Shiitake Korean Stir-fry",
+  "description": "A festive Polish dish featuring savory shiitake mushrooms, fermented kimchi, green peppers, and other ingredients. This recipe is gluten-free, soy-free, and shojin-friendly (plant-based).",
+  "cuisine": "Polish",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": 200
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "half a cup"
+    },
+    {
+      "name": "green peppers",
+      "amount": "4 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "sesame oil",
+      "amount": 20
+    },
+    {
+      "name": "soy sauce",
+      "amount": 30
+    },
+    {
+      "name": "vinegar",
+      "amount": 15
+    },
+    {
+      "name": "sugar",
+      "amount": 10
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "peanut oil",
+      "amount": 40
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a wok or large skillet over medium-high heat.",
+    "Add shiitake mushrooms and cook until softened, about 3 minutes.",
+    "Crush fermented kimchi into small pieces and add to the wok with garlic.",
+    "Slice green peppers thinly. Add them to the wok followed by the vinegar, soy sauce, sugar, and salt.",
+    "Stir-fry all ingredients for another 2-3 minutes until combined and slightly reduced in volume.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "quick-dinner",
+    "shoyu-korean-stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "zingy-velvety-shiitake-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-velvety-shiitake-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T21:11:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "green pepper",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Shiitake",
+    "descriptor": "Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
