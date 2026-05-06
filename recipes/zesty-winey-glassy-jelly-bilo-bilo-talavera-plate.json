@@ -1,0 +1,83 @@
+{
+  "title": "Zesty Winey Glassy Jelly Bilo-bilo Talavera Plate",
+  "description": "A comforting vegetarian-friendly Filipino dish featuring creme patissiere and knead, served in a talavera plate.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bilo-bilo",
+      "amount": 12
+    },
+    {
+      "name": "cream of coconut",
+      "amount": "200 ml"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "milk",
+      "amount": "300 ml"
+    },
+    {
+      "name": "vanilla essence",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat milk in a saucepan and stir in sugar until dissolved.",
+    "Add cream of coconut, ginger paste, and vanilla essence. Bring to a simmer and cook for 5 minutes.",
+    "Meanwhile, whisk egg yolks with baking powder until smooth.",
+    "Gradually add hot milk mixture into the yolk mixture while continuously whisking.",
+    "Transfer the mixture back to the saucepan and heat gently until it starts to thicken but not boiling.",
+    "Divide the creme patissiere evenly among bilo-bilo and serve in a talavera plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-dessert",
+    "garnish-talavera-plate",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "zesty-winey-glassy-jelly-bilo-bilo-talavera-plate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-winey-glassy-jelly-bilo-bilo-talavera-plate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:11:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Bilo-Bilo",
+    "descriptor": "Winey Glassy-Jelly Comforting",
+    "dishForm": "Talavera-Plate Ginataang Bilo-Bilo Creme-Patissiere"
+  }
+}
