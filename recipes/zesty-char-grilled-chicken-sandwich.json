@@ -1,0 +1,86 @@
+{
+  "title": "Zesty Char-Grilled Chicken Sandwich",
+  "description": "A lazy Sunday Turkish dish featuring roasted chicken with a dash of dashi and char-grill-yang for added texture and flavor.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": 4,
+      "notes": "skin-on"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": "about 1/4 cup"
+    },
+    {
+      "name": "raw shallots",
+      "amount": "6, finely chopped",
+      "notes": "about half a cup"
+    },
+    {
+      "name": "dashi stock concentrate",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a mixing bowl, combine butter, rice vinegar, sesame oil, lemon juice, minced garlic, and finely chopped shallots. Mix until well combined.",
+    "Season the chicken thighs with salt and pepper on both sides. Apply the sauce mixture evenly over the chicken, making sure it's fully coated.",
+    "Place the chicken on the preheated grill and cook for 5-7 minutes per side, or until golden brown and cooked through. Let rest for a minute before slicing into strips.",
+    "Serve hot with your favorite bread and condiments."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "lazy-sunday",
+    "raw-friendly",
+    "turkish-dish"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 34
+  },
+  "slug": "zesty-char-grilled-chicken-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-char-grilled-chicken-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:33:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dashi",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Sandwich"
+  }
+}
