@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Dutch Porcini Pilaf",
+  "description": "A buttery and tender Dutch dish featuring porcini mushrooms, perfect for a romantic evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced garlic and cook for 1 minute, until fragrant.",
+    "Add the porcini mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the basmati rice and cook, stirring constantly, for 2 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and season with salt, black pepper, and bhuna curry powder.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "one-pan",
+    "ovovegetarian",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-dutch-porcini-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dutch-porcini-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "porcini",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "porcini",
+    "descriptor": "zesty",
+    "dishForm": "Pilaf"
+  }
+}

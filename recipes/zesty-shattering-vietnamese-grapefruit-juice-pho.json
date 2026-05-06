@@ -1,0 +1,113 @@
+{
+  "title": "zesty shattering vietnamese grapefruit juice pho",
+  "description": "this pungent, nostalgic vietnamese dish features grapefruit juice, savory flavors, and a soothing, shattering heat.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grapefruit juice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beef bones",
+      "amount": "4 pounds",
+      "notes": "gluten-free, grass-fed is recommended"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "add the beef bones and cook until browned on all sides, about 5 minutes.",
+    "add the onion, garlic, ginger, star anise, and cinnamon stick, and cook until the onion is translucent, about 5 minutes.",
+    "add the grapefruit juice, fish sauce, sugar, salt, and black pepper, and bring to a boil.",
+    "reduce the heat to low and simmer for 1 hour.",
+    "remove the bones and spices from the pot and discard.",
+    "add the rice noodles to the pot and cook for 2-3 minutes, or until they are tender.",
+    "serve hot, garnished with fresh cilantro and a squeeze of grapefruit juice.",
+    "cook the noodles according to the package instructions, then drain and set aside.",
+    "warm the serving bowls by placing them in the bamboo-tray over hot water.",
+    "ladle the hot broth into the bowls through a fine-mesh sieve, and add the cooked noodles and garnishes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "southern-america",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "zesty-shattering-vietnamese-grapefruit-juice-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-shattering-vietnamese-grapefruit-juice-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:09Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Grapefruit Juice",
+    "descriptor": "Zesty Shattering",
+    "dishForm": "Pho"
+  }
+}

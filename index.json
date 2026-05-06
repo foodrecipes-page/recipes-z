@@ -1958,6 +1958,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dutch-porcini-pilaf",
+    "title": "Zesty Dutch Porcini Pilaf",
+    "tags": [
+      "dutch",
+      "one-pan",
+      "ovovegetarian",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-beet-soup",
     "title": "Zesty Egyptian Beet Soup",
     "tags": [
@@ -4678,6 +4692,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-shattering-vietnamese-grapefruit-juice-pho",
+    "title": "zesty shattering vietnamese grapefruit juice pho",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "southern-america",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
