@@ -1,0 +1,84 @@
+{
+  "title": "Zesty Mexican Almonds Horchata",
+  "description": "Fatty, crisp, brunch-mood mexican dish featuring flaked almonds, ferment jang. Perfect for a flexible brunch with friends.",
+  "cuisine": "mexican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "horchata",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cane sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1 tsp",
+      "notes": "available at most Asian markets or online"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Spread flaked almonds on a baking sheet and toast in the oven for 5 minutes or until fragrant.",
+    "In a large bowl, whisk together horchata, cane sugar, ferment jang, and vanilla extract until sugar is dissolved.",
+    "Stir in toasted almonds and a pinch of salt until well coated."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy",
+    "mexican",
+    "oven-roasted",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "zesty-mexican-almonds-horchata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-almonds-horchata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "ferment-jang",
+    "primaryIngredient": "flaked almonds",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "almonds",
+    "descriptor": "zesty",
+    "dishForm": "Horchata"
+  }
+}

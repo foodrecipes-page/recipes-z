@@ -3612,6 +3612,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-almonds-horchata",
+    "title": "Zesty Mexican Almonds Horchata",
+    "tags": [
+      "brunch",
+      "easy",
+      "mexican",
+      "oven-roasted",
+      "snack",
+      "sweet"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-avocado-salad",
     "title": "Zesty Mexican Avocado Salad",
     "tags": [
