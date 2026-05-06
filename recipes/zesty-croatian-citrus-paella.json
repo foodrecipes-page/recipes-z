@@ -1,0 +1,127 @@
+{
+  "title": "Zesty Croatian Citrus Paella",
+  "description": "A light and citrusy paella dish from Croatia, perfect for a weeknight dinner. It combines the warmth of yellow curry paste with the tanginess of ferment jang for a unique flavor experience.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ferment Jang",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Citrus Zest (Lemon & Orange)",
+      "amount": "2 tbsp",
+      "notes": "Use a zester to get the zest, don't press too hard to avoid bitterness."
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "You can use any other seafood or omit if you prefer."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "Thinly slice the ginger."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "You can use bottled or fresh lemon juice."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large paella pan over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2 minutes per side. Remove and set aside.",
+    "In the same pan, add the remaining 1 tbsp of vegetable oil, then the sliced ginger, and cook for 1 minute.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the yellow curry paste and cook for 1 minute, stirring constantly, to prevent burning.",
+    "Add the ferment jang and cook for another minute, stirring constantly.",
+    "Add the white rice, salt, and black pepper. Stir to combine.",
+    "Add the water, lemon juice, and citrus zest. Stir to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "After 20 minutes, remove the cover and add the cooked shrimp back into the pan.",
+    "Return the pan to medium heat and cook for an additional 5 minutes, until the liquid has been absorbed and the rice is cooked through.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-alternative",
+    "low-fat",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-croatian-citrus-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-citrus-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "ferment-jang",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Zesty",
+    "dishForm": "Paella"
+  }
+}

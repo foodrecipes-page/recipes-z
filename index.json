@@ -1647,6 +1647,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-citrus-paella",
+    "title": "Zesty Croatian Citrus Paella",
+    "tags": [
+      "breakfast-alternative",
+      "low-fat",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-rocket-soup",
     "title": "Zesty Croatian Rocket Soup",
     "tags": [
