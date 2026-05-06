@@ -1,0 +1,110 @@
+{
+  "title": "Zesty, Flaky Turkish Dum Wrap",
+  "description": "A comforting, umami-filled Turkish dish featuring tender dumplings wrapped in a flaky lotus leaf, served with a side of creamy sauce to soothe a sick day.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "LOTUS LEAF WRAPS",
+      "amount": "4-6",
+      "notes": "Fresh or thawed"
+    },
+    {
+      "name": "DUMPLINGS",
+      "amount": "6-8",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "ONION",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "GARLIC",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "LEMON JUICE",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "DOUGH",
+      "amount": "1/2 cup",
+      "notes": "Flour-based dumpling dough"
+    },
+    {
+      "name": "EGG",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "DOUBLE CREAM",
+      "amount": "1/2 cup",
+      "notes": "Heavy whipping cream"
+    },
+    {
+      "name": "CHOPPED FRESH DILL",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "SALT",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tbsp of oil over medium heat.",
+    "Add onion and garlic and sauté until softened, about 5 min.",
+    "Add dumplings and cook until browned on all sides, about 8 min.",
+    "Meanwhile, mix lemon juice, egg, and double cream in a bowl.",
+    "Bring the mixture to a simmer over low heat, stirring constantly.",
+    "Reduce heat to low and cook until sauce thickens, about 5 min.",
+    "Warm the lotus leaf wraps according to package instructions.",
+    "Assemble the wraps by placing cooked dumplings in the center, spooning over the creamy sauce, and garnishing with chopped fresh dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium-friendly",
+    "one-pan",
+    "sick-day-recipe",
+    "turkish-food",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "zesty-flaky-turkish-dum-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-turkish-dum-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "double cream",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "dum",
+    "descriptor": "Zesty, Flaky",
+    "dishForm": "Wrap"
+  }
+}
