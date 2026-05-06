@@ -1,0 +1,76 @@
+{
+  "title": "Zesty Smoked Uruguayan Peas Gratin",
+  "description": "A comforting dish featuring roasted uruguayan peas in a zesty hoisin sauce and lacquer-glaze, served on a salt-block for added texture.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Urupeñas (uruguayan peas)",
+      "amount": 4
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lacquer-glaze (red wine reduction)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt block for serving",
+      "amount": null
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "few sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees Celsius.",
+    "Rinse and pick out any debris from the Urupeñas. Pat dry with paper towels.",
+    "Mix hoisin sauce and lacquer-glaze in a bowl until well combined.",
+    "Place Urupeñas on a baking sheet, brush lightly with olive oil (if preferred), then pour the sauce mixture over each pea evenly.",
+    "Sprinkle sesame seeds over the peas, ensuring even coverage. Pat down to adhere if necessary.",
+    "Bake at 200 degrees Celsius for 15 minutes or until edges start to crisp up and turn golden brown.",
+    "Transfer cooked Urupeñas onto a preheated salt block for serving. Garnish with fresh cilantro leaves before serving.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nut-free",
+    "salt-block-serving"
+  ],
+  "nutrition": {
+    "calories": 68,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 1
+  },
+  "slug": "zesty-smoked-uruguayan-peas-gratin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoked-uruguayan-peas-gratin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:31:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Peas",
+    "descriptor": "Zesty Smoked",
+    "dishForm": "Gratin"
+  }
+}
