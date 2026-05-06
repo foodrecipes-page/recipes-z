@@ -5861,6 +5861,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ukrainian-fromage-bake",
+    "title": "Zesty Ukrainian Fromage Bake",
+    "tags": [
+      "bake",
+      "fromage",
+      "one-pan",
+      "ukrainian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-ukrainian-meat-borscht",
     "title": "zesty ukrainian meat borscht",
     "tags": [

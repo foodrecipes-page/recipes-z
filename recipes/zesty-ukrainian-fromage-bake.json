@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Ukrainian Fromage Bake",
+  "description": "A spicy, tender, satvik-friendly solo-dinner featuring fromage frais, perfect for a weeknight",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "8 oz",
+      "notes": "softened fromage frais at room temperature"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "12 oz",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F",
+    "In a mixing bowl, combine fromage frais and cottage cheese",
+    "Add egg, flour, salt, paprika, garlic powder, and black pepper to the bowl and mix",
+    "Roll out the dough to a thickness of 1/4 inch and transfer to a greased 8-inch round baking dish",
+    "Dot the top of the dough with melted butter",
+    "Bake for 25 minutes, or until the crust is golden brown and the filling is set",
+    "Let cool for 5 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "fromage",
+    "one-pan",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 22,
+    "fat": 18
+  },
+  "slug": "zesty-ukrainian-fromage-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ukrainian-fromage-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:10:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "fromage frais",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fromage",
+    "descriptor": "Zesty",
+    "dishForm": "Bake"
+  }
+}
