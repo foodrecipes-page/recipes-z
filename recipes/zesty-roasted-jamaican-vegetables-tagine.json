@@ -1,0 +1,114 @@
+{
+  "title": "zesty roasted jamaican vegetables tagine",
+  "description": "a flavorful and colorful dish showcasing roasted vegetables from jamaica, cooked to perfection in a tandoor oven with a hint of spice and a touch of velvety texture.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": "preferably jamaican sweet potatoes"
+    },
+    {
+      "name": "jamaican red onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1",
+      "notes": "use a mortar and pestle to grind the allspice berries"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tandoor seasoning",
+      "amount": "2 tsp",
+      "notes": "or use a combination of cumin and coriander"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality coconut oil"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed is best"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated fresh ginger"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced fresh garlic"
+    }
+  ],
+  "instructions": [
+    "preheat the tandoor oven to 400°f",
+    "mix together the jamaican curry powder, tandoor seasoning, garam masala, and jamaican allspice in a small bowl",
+    "toss the sweet potatoes, red bell peppers, and jamaican red onions with the coconut oil, lime juice, and honey in a large bowl",
+    "spread the vegetables in a single layer in the tandoor oven and roast for 20 minutes",
+    "mix in the minced garlic and grated ginger and continue to roast for another 10 minutes",
+    "transfer the roasted vegetables to a serving dish and sprinkle with the spice mixture",
+    "serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "low-sodium",
+    "tandoor",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-roasted-jamaican-vegetables-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-jamaican-vegetables-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "zesty roasted",
+    "dishForm": "Tagine"
+  }
+}
