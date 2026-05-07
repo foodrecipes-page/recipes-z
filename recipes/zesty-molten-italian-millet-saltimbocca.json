@@ -1,0 +1,127 @@
+{
+  "title": "Zesty Molten Italian Millet Saltimbocca",
+  "description": "A pungent, molten, satvik-friendly Italian dish featuring millet, wok-hei, and the flavors of saltimbocca. Perfect for meal prep or a quick weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Panch phoron",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for wok-hei"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Melted mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wok hei sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Saltimbocca sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over high heat and add 1 tablespoon of olive oil.",
+    "Add the panch phoron and cook for 1 minute, until fragrant.",
+    "Add the garlic and cook for another minute, until softened.",
+    "Add the millet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the Italian seasoning, salt, and black pepper, and stir to combine.",
+    "Add the wok hei sauce and saltimbocca sauce, and stir to combine.",
+    "Add the chopped parsley and basil, and stir to combine.",
+    "Add the melted mozzarella cheese, and stir to combine.",
+    "Transfer the mixture to a serving dish and garnish with fresh thyme.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "meal-prep",
+    "one-pan",
+    "satvik",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-molten-italian-millet-saltimbocca",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-italian-millet-saltimbocca",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:23Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "millet",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "millet",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Saltimbocca"
+  }
+}

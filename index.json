@@ -3907,6 +3907,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-molten-italian-millet-saltimbocca",
+    "title": "Zesty Molten Italian Millet Saltimbocca",
+    "tags": [
+      "italian",
+      "meal-prep",
+      "one-pan",
+      "satvik",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-molten-russian-kidney-beans-tacos",
     "title": "zesty molten russian kidney beans tacos",
     "tags": [
@@ -5952,6 +5966,21 @@
       "noodle-dish",
       "shawarma-style",
       "vegetarian-option"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-umami-middle-eastern-pistachio-falafel",
+    "title": "Zesty Umami Middle Eastern Pistachio Falafel",
+    "tags": [
+      "falafel",
+      "healthy",
+      "middle-eastern",
+      "pistachio",
+      "snack",
+      "vegan"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,

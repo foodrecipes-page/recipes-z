@@ -1,0 +1,66 @@
+{
+  "title": "Zesty Umami Middle Eastern Pistachio Falafel",
+  "description": "A rich and creamy falafel recipe featuring unsalted pistachios, ideal for a sick day. This satvik-friendly dish is a twist on traditional Middle Eastern flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a food processor, combine chickpeas, unsalted pistachios, garlic, lemon juice, olive oil, salt, and spices. Process until a coarse paste forms.",
+    "Transfer the mixture to a bowl and fold in the chopped parsley.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter.",
+    "Place the patties on a baking sheet lined with parchment paper, leaving about 1 inch of space between each falafel.",
+    "Bake for 18-20 minutes, flipping the falafels halfway through.",
+    "While the falafels are baking, prepare the tahini sauce by whisking together tahini, lemon juice, garlic, and 1/4 cup of water in a small bowl.",
+    "To assemble the falafels, place a few falafels on a plate, followed by a dollop of the tahini sauce, and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "falafel",
+    "healthy",
+    "middle-eastern",
+    "pistachio",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-umami-middle-eastern-pistachio-falafel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-umami-middle-eastern-pistachio-falafel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pistachio",
+    "descriptor": "Zesty Umami",
+    "dishForm": "Falafel"
+  }
+}
