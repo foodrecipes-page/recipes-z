@@ -1,0 +1,128 @@
+{
+  "title": "Zesty Deep-Fried Vietnamese Beef Bo Kho",
+  "description": "A classic Vietnamese beef stew recipe with a twist, featuring crispy deep-fried beef and a side of sweet and tangy dipping sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "gluten",
+    "sugar"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 pound)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water (2 cups)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "beef broth (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sugar (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar (2 tablespoons)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "ginger (1-inch piece)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt (1 teaspoon)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat to 350°F.",
+    "Cut the beef into thin strips and fry in batches until crispy, about 3 minutes per batch.",
+    "Remove the fried beef from the oil and drain on paper towels.",
+    "In a separate saucepan, combine the beef broth, fish sauce, soy sauce, sugar, rice vinegar, garlic, and ginger.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the coconut milk and salt to the saucepan and stir to combine.",
+    "Return the fried beef to the saucepan and toss to coat with the sauce.",
+    "Serve the beef hot with a side of the sweet and tangy dipping sauce.",
+    "To make the dipping sauce, combine the sugar, water, and fish sauce in a small bowl and stir to combine.",
+    "Adjust the seasoning to taste with salt and pepper.",
+    "Serve the dipping sauce on the side of the beef.",
+    "Pour the dipping sauce over the beef and toss to coat.",
+    "Serve the beef and dipping sauce hot, garnished with sliced green onions and toasted peanuts if desired.",
+    "Toss the beef with the dipping sauce before serving, if desired.",
+    "Serve the beef hot, garnished with sliced green onions and toasted peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "deep-fried",
+    "kid-friendly",
+    "one-pan",
+    "stew",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 60,
+    "fat": 70
+  },
+  "slug": "zesty-deep-fried-vietnamese-beef-bo-kho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-deep-fried-vietnamese-beef-bo-kho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Deep-Fried",
+    "dishForm": "Bo Kho"
+  }
+}
