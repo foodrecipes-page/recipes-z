@@ -4083,6 +4083,17 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mustardy-wheat-pilaf",
+    "title": "Zesty Mustardy Wheat Pilaf",
+    "tags": [
+      "moroccan",
+      "dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mustardy-yorkshire-sardine-casserole",
     "title": "Zesty Mustardy Yorkshire Sardine Casserole",
     "tags": [

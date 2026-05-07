@@ -1,0 +1,85 @@
+{
+  "title": "Zesty Mustardy Wheat Pilaf",
+  "description": "This mustardy, fluffy Zesty Mustardy Wheat Pilaf is a crowd-pleaser Moroccan dish featuring red wine and agemono-deep-fry techniques. It's ayurvedic-sattvic-friendly and perfect for meal prep.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat pasta",
+      "amount": 200
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "walnuts, chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "30ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": 200
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C (350F).",
+    "Toast mustard seeds in hot oil until golden.",
+    "Add walnuts and cook for another minute.",
+    "Stir in red wine vinegar, salt, and fresh cilantro.",
+    "Drain wheat pasta and mix with the sauce.",
+    "Serve warm as a side dish or over rice.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: medium",
+    "tags: mustardy, fluffy, crowd-pleaser, moroccan-dish, agemono-deep-fry, ayurvedic-sattvic-friendly",
+    "nutrition: {calories: 318, protein: 20, carbs: 45, fat: 17}"
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "moroccan",
+    "dinner"
+  ],
+  "slug": "zesty-mustardy-wheat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mustardy-wheat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T06:48:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "red wine",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Wheat",
+    "descriptor": "Zestful",
+    "dishForm": "Pilaf"
+  }
+}
