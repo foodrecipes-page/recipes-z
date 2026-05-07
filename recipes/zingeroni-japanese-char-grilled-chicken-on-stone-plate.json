@@ -1,0 +1,87 @@
+{
+  "title": "Zingeroni Japanese Char Grilled Chicken On Stone Plate",
+  "description": "A spicy and shaggy Japanese dish featuring char-grilled chicken with marsala-wine in a high-protein-friendly format, served on a hot-stone plate.",
+  "cuisine": "Japanese (Kansai)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": 4
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "3 slices"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Season chicken thighs with red pepper flakes, soy sauce, lemon juice, ground black pepper, and sesame oil.",
+    "Preheat a stone plate to high heat (around 275°C).",
+    "Place chicken on hot-stone plate and marinate for 10 minutes.",
+    "In a pan, sauté ginger slices with marsala wine until reduced by half.",
+    "Serve the char-grilled chicken with its marinade sauce over rice or noodles.",
+    "Optional: Garnish with scallions (green onions) and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "high-protein",
+    "japanese",
+    "kansai",
+    "one-pot",
+    "spicy",
+    "yakitori"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 48,
+    "carbs": 23,
+    "fat": 17
+  },
+  "slug": "zingeroni-japanese-char-grilled-chicken-on-stone-plate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingeroni-japanese-char-grilled-chicken-on-stone-plate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T12:30:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "marsala-wine",
+    "diet": "high-protein",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Zingeroni Yakitori Hot-Stone-Plate"
+  }
+}
