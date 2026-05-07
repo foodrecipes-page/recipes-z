@@ -1,0 +1,85 @@
+{
+  "title": "Zingy Zested Zucchini Quesadilla",
+  "description": "A refreshing Mediterranean dish featuring roasted zucchini and a medley of vegetables in a double-rise bread for an indulgent yet health-conscious meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": 2
+    },
+    {
+      "name": "eggplant",
+      "amount": 1
+    },
+    {
+      "name": "makhua (Thai eggplant)",
+      "amount": 1
+    },
+    {
+      "name": "doubles rise bread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "a few squeezes"
+    },
+    {
+      "name": "garlic",
+      "amount": 3
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Slice zucchini, eggplant, and makhua into rounds about 1 cm thick.",
+    "Toss vegetables with olive oil, lemon juice, minced garlic, and salt in a bowl.",
+    "Spread vegetable mixture evenly on each double rise bread half.",
+    "Bake until golden brown and slightly crispy, about 20 minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb-diet",
+    "macrobiotic-friendly",
+    "quick-lunch",
+    "sustainable-food",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zingy-zested-zucchini-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-zested-zucchini-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T16:52:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Zestful",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Zingy Zested",
+    "dishForm": "Quesadilla"
+  }
+}
