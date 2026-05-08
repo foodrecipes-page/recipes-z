@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Shattering Dutch Feta Biryani",
+  "description": "A festive and aromatic Dutch dish featuring feta, with a shattering crust and a flavorful blend of spices, fermented to perfection in a tandoor clay pot.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the basmati rice, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt.",
+    "In a separate bowl, whisk together the melted ghee, yogurt, and lemon juice.",
+    "Add the ghee mixture to the rice mixture and stir until well combined.",
+    "Crumble the feta cheese into the rice mixture and stir gently.",
+    "Transfer the rice mixture to the preheated tandoor clay pot.",
+    "Cover the pot with a lid and let it cook for 20 minutes.",
+    "Remove the lid and let it cook for an additional 10 minutes, or until the crust is golden brown and shattering.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "dutch-cuisine",
+    "gluten-free",
+    "indian-inspired",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-shattering-dutch-feta-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-shattering-dutch-feta-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:04:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "feta",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "feta",
+    "descriptor": "Zesty Shattering",
+    "dishForm": "Biryani"
+  }
+}
