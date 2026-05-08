@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Crunchy Malaysian Shrimp Noodles",
+  "description": "A nutty and crunchy Malaysian dish featuring shrimp, tarragon, and a French mother sauce base, perfect for a weeknight dinner. This pescatarian-friendly recipe is quick and easy to make.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tarragon",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the tarragon and cook for 1 minute, until fragrant.",
+    "Add the bechamel sauce, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Bring the sauce to a simmer and cook until heated through, about 2-3 minutes.",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce.",
+    "Return the shrimp to the skillet and toss to combine with the noodles and sauce.",
+    "Season with salt and pepper to taste, then garnish with chopped peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "noodle-dish",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-crunchy-malaysian-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-malaysian-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:49:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "tarragon-french",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty crunchy",
+    "dishForm": "Noodles"
+  }
+}
