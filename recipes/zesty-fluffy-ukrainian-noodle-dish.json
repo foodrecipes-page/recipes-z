@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Fluffy Ukrainian Noodle Dish",
+  "description": "A kid-friendly Ukrainian dish featuring nutty and fluffy noodles, this recipe is perfect for a weeknight dinner. It is also shojin-friendly and uses sous-vide cooking.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "2 cups",
+      "notes": "preferably Italian"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sous-vide butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 00-flour, eggs, salt, and water to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a long rope.",
+    "Cut the rope into 1-inch pieces to form noodles.",
+    "Cook the noodles in a sous-vide water bath at 180 degrees Fahrenheit for 30 minutes.",
+    "In a small saucepan, melt the sous-vide butter over low heat.",
+    "Add dried parsley, lemon zest, and black pepper to the melted butter and stir to combine.",
+    "Toss the cooked noodles in the butter sauce until they are well coated.",
+    "Serve the noodles hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "noodle-dish",
+    "one-pot",
+    "sous-vide",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-fluffy-ukrainian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-ukrainian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:23:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "00-flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "noodles",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Noodles"
+  }
+}

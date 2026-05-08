@@ -3264,6 +3264,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fluffy-ukrainian-noodle-dish",
+    "title": "Zesty Fluffy Ukrainian Noodle Dish",
+    "tags": [
+      "kid-friendly",
+      "noodle-dish",
+      "one-pot",
+      "sous-vide",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-french-almond-roast",
     "title": "Zesty French Almond Roast",
     "tags": [
