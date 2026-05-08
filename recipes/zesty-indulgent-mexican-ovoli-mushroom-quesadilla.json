@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Indulgent Mexican Ovoli Mushroom Quesadilla",
+  "description": "A jammy and flaky Mexican dish featuring ovoli mushrooms in a quesadilla, perfect for ovo-vegetarian diets, made using papillote for added flavor and texture. This indulgent dish is sure to satisfy any craving.",
+  "cuisine": "Mexican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ovoli mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4 large",
+      "notes": "flour or corn"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Papillote spices",
+      "amount": "1 tablespoon",
+      "notes": "mix of cumin, chili powder, and oregano"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "for juice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and brush with vegetable oil.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced ovoli mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the papillote spices and stir to combine, cooking for 1 minute.",
+    "In a large bowl, combine the cooked mushroom mixture and shredded cheese, stirring to combine.",
+    "Place a large tortilla in the skillet and sprinkle a quarter of the mushroom and cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling and cook until the tortilla is crispy and the cheese is melted, about 2-3 minutes per side.",
+    "Repeat with the remaining tortillas and filling.",
+    "Serve the quesadillas hot with sour cream, chopped cilantro, and a squeeze of lime juice.",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "indulgent",
+    "jammy",
+    "mexican-food",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "zesty-indulgent-mexican-ovoli-mushroom-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-mexican-ovoli-mushroom-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:15Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Quesadilla"
+  }
+}

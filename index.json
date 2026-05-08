@@ -4231,6 +4231,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-indulgent-mexican-ovoli-mushroom-quesadilla",
+    "title": "Zesty Indulgent Mexican Ovoli Mushroom Quesadilla",
+    "tags": [
+      "flaky",
+      "indulgent",
+      "jammy",
+      "mexican-food",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-cheese-fondue",
     "title": "Zesty Irish Cheese Fondue",
     "tags": [
