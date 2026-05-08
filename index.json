@@ -1515,6 +1515,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chewy-german-pork-dumplings",
+    "title": "Zesty Chewy German Pork Dumplings",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "low-sodium",
+      "one-pot",
+      "pork-dishes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chewy-greek-lamb-kleftiko",
     "title": "Zesty Chewy Greek Lamb Kleftiko",
     "tags": [
@@ -5442,6 +5457,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-juicy-middle-eastern-paneer-mansaf",
+    "title": "Zesty Juicy Middle Eastern Paneer Mansaf",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "special-occasion",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
