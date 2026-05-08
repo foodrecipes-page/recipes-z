@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Juicy Slovakian Mushroom Skewers",
+  "description": "A pungent and juicy Slovakian dish featuring allspice berries, this recipe is perfect for adventurous eaters, and is jain-friendly as it contains no animal products. The combination of mushrooms, allspice, and lemon juice creates a unique flavor profile.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tablespoons",
+      "notes": "ground or whole"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the allspice berries to the bowl and stir to combine.",
+    "Add the mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the marinated mushrooms onto the bamboo skewers, leaving a small space between each mushroom.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally.",
+    "Brush the skewers with additional olive oil if necessary to prevent drying out.",
+    "Remove the skewers from the grill and serve hot.",
+    "Garnish with additional allspice berries and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "jain-friendly",
+    "mushroom-based",
+    "slovakian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "zesty-juicy-slovakian-mushroom-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-slovakian-mushroom-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:49:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "allspice berries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zesty Juicy",
+    "dishForm": "Skewers"
+  }
+}

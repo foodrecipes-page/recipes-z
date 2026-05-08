@@ -4569,6 +4569,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-grassy-moroccan-pine-nuts-seffa",
+    "title": "Zesty Grassy Moroccan Pine Nuts Seffa",
+    "tags": [
+      "kid-friendly",
+      "moroccan-cuisine",
+      "pine-nuts",
+      "seffa",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-grassy-slovakian-peppers-skillet",
     "title": "Zesty Grassy Slovakian Peppers Skillet",
     "tags": [
@@ -5163,6 +5178,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-juicy-slovakian-mushroom-skewers",
+    "title": "Zesty Juicy Slovakian Mushroom Skewers",
+    "tags": [
+      "grilled",
+      "jain-friendly",
+      "mushroom-based",
+      "slovakian",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 32,
     "shard": "z"
   },
   {
@@ -6554,6 +6584,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-nutty-portuguese-burrata-paella",
+    "title": "Zesty Nutty Portuguese Burrata Paella",
+    "tags": [
+      "gluten-free",
+      "nutty",
+      "one-pot",
+      "portuguese-cuisine",
+      "vegetarian",
+      "zesty"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

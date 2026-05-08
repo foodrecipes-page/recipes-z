@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Nutty Portuguese Burrata Paella",
+  "description": "A one-pot Portuguese dish featuring burrata, with a zesty and nutty flavor profile, and anti-inflammatory friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the toasted pine nuts and cook for 1 minute, stirring frequently.",
+    "Add the Spanish rice and cook for 2 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Add the yuzu juice, turmeric, paprika, sea salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the chopped parsley and cook for an additional 1 minute.",
+    "Slice the burrata cheese and place on top of the rice mixture.",
+    "Cover the pan and cook for an additional 2 minutes, or until the cheese is melted and creamy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "nutty",
+    "one-pot",
+    "portuguese-cuisine",
+    "vegetarian",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "zesty-nutty-portuguese-burrata-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-portuguese-burrata-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:49:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "burrata",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "burrata",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Paella"
+  }
+}
