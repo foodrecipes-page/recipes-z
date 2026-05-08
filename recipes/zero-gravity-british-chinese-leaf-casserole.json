@@ -1,0 +1,106 @@
+{
+  "title": "Zero Gravity British Chinese Leaf Casserole",
+  "description": "A hearty, comforting casserole featuring Chinese leaf and a blend of British and Chinese flavors, perfect for a cozy night in.",
+  "cuisine": "British Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "1 large head",
+      "notes": "also known as Chinese cabbage or napa cabbage"
+    },
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "250g",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "gravy granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "500g",
+      "notes": "prepared with butter and milk"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large pan, heat the olive oil over medium heat and cook the sliced onion until softened.",
+    "Add the ground beef to the pan, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Add the sliced mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "Add the soy sauce and beef broth to the pan, stirring to combine, and bring to a simmer.",
+    "Reduce the heat to low and let the mixture cook while you prepare the Chinese leaf.",
+    "Remove the tough stems from the Chinese leaf and blanch the leaves in boiling water for 2 minutes, then drain and set aside.",
+    "In a large casserole dish, create a layer of the meat and mushroom mixture, followed by a layer of Chinese leaf, and repeat until all ingredients are used, finishing with a layer of meat on top.",
+    "Spread the mashed potatoes over the top of the casserole, followed by a layer of shredded cheddar cheese.",
+    "Bake the casserole in the preheated oven for 30 minutes, or until the potatoes are golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-chinese",
+    "casserole",
+    "comfort-food",
+    "hearty",
+    "kosher-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "zero-gravity-british-chinese-leaf-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-british-chinese-leaf-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:17:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chinese leaf",
+    "diet": "kosher",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chinese leaf",
+    "descriptor": "Zero gravity",
+    "dishForm": "Casserole"
+  }
+}
