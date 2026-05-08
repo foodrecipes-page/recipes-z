@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Croatian Pear Tagine",
+  "description": "A hearty and flavorful Croatian dish featuring pears, cheese, and a rich sauce, cooked in a traditional clay tajine vessel, suitable for a solo dinner and adhering to satvik dietary principles by avoiding meat and focusing on wholesome ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pears",
+      "amount": "2 ripe",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, low-fat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Melt the butter in the clay tajine over medium heat on the stovetop.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the chopped pears, vegetable broth, white wine, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a simmer, then cover the tajine with its lid and transfer it to the preheated oven.",
+    " Bake for 25 minutes, then remove the lid and top the mixture with shredded cheese.",
+    "Return the tajine to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tajine from the oven and sprinkle the chopped parsley over the top.",
+    "Let the tagine rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "comfort-food",
+    "croatian-cuisine",
+    "one-pot",
+    "pear-recipes",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "zesty-croatian-pear-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-pear-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:10:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "pears",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pears",
+    "descriptor": "Zesty Cheese Pull",
+    "dishForm": "Tagine"
+  }
+}

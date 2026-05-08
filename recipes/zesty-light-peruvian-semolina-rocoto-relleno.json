@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Light Peruvian Semolina Rocoto Relleno",
+  "description": "A light and zesty Peruvian dish featuring semolina rimacinata and rocoto relleno, perfect for a dinner meal, dairy-free friendly and cultured with namul blanch season.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Semolina rimacinata",
+      "amount": "1 cup",
+      "notes": "fine semolina flour"
+    },
+    {
+      "name": "Rocoto peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "seasoned bean sprouts"
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup",
+      "notes": "dairy-free cheese alternative"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Cut the tops off the rocoto peppers and remove the seeds and membranes.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the namul, cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Stuff each rocoto pepper with the semolina rimacinata and namul mixture, filling to the top.",
+    "Place the stuffed peppers in a baking dish and cover with vegan cheese shreds.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-light-peruvian-semolina-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-peruvian-semolina-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:11:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "semolina",
+    "descriptor": "Zesty Light",
+    "dishForm": "Rocoto Relleno"
+  }
+}

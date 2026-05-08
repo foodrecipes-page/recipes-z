@@ -2077,6 +2077,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-pear-tagine",
+    "title": "Zesty Croatian Pear Tagine",
+    "tags": [
+      "clay-cooking",
+      "comfort-food",
+      "croatian-cuisine",
+      "one-pot",
+      "pear-recipes",
+      "satvik-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-rocket-soup",
     "title": "Zesty Croatian Rocket Soup",
     "tags": [
@@ -4470,6 +4486,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-light-peruvian-semolina-rocoto-relleno",
+    "title": "Zesty Light Peruvian Semolina Rocoto Relleno",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "peruvian-cuisine",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
