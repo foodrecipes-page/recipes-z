@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Norwegian Cod Skillet",
+  "description": "A quick and flavorful Norwegian dish featuring cod, desiccated coconut, and a smoky twist, all cooked to perfection in a cast-iron skillet. This high-protein friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast-iron skillet over medium-high heat.",
+    "In a small bowl, mix together the desiccated coconut, smoked paprika, salt, and black pepper.",
+    "Add the coconut oil to the preheated skillet and swirl it around to coat the bottom.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the Norwegian cod fillets to the skillet, skin side up if they have skin.",
+    "Sprinkle the coconut mixture evenly over the cod fillets.",
+    "Cook the cod for 3-4 minutes, until the skin is crispy and golden brown.",
+    "Flip the cod over and cook for an additional 3-4 minutes, until cooked through.",
+    "Remove the cod from the skillet and set it aside on a plate.",
+    "Reduce the heat to medium and add the lemon juice to the skillet, scraping up any browned bits from the bottom.",
+    "Simmer the lemon juice for 1-2 minutes, until slightly reduced and jammy.",
+    "Serve the cod fillets with the smoky coconut crust, topped with the jammy lemon sauce and chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "quick-fix",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-smoky-norwegian-cod-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-norwegian-cod-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skillet"
+  }
+}
