@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Garlicky Canadian Fennel Skillet",
+  "description": "A light and flavorful Canadian dish featuring fennel, garlic, and a hint of citrus, perfect for a weeknight dinner. This dairy-free friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the katsuramuki-cut fennel and cook for 5 minutes, or until it starts to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Squeeze the lemon juice over the fennel and garlic, and sprinkle with salt, black pepper, and chili flakes.",
+    "Stir to combine and cook for an additional 2 minutes, or until the fennel is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "dairy-free",
+    "fennel-recipes",
+    "garlic-lovers",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "zesty-garlicky-canadian-fennel-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-canadian-fennel-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:51:00Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "fennel",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fennel",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Skillet"
+  }
+}
