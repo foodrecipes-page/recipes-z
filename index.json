@@ -871,6 +871,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-bouncy-filipino-chicken-noodles",
+    "title": "Zesty Bouncy Filipino Chicken Noodles",
+    "tags": [
+      "filipino-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-bouncy-jamaican-mint-ssam-wrap",
     "title": "Zesty Bouncy Jamaican Mint Ssam-Wrap",
     "tags": [

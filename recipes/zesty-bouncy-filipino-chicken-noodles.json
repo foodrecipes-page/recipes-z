@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Bouncy Filipino Chicken Noodles",
+  "description": "A yeasty and bouncy Filipino dish featuring tarragon and French influences, served as a hangover cure, this recipe is FODMAP friendly and made with love",
+  "cuisine": "Filipino",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mung bean noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the mung bean noodles according to package instructions",
+    "In a large skillet, heat the coconut oil over medium high heat and cook the chicken until browned and cooked through",
+    "Add the chopped tarragon, fish sauce, rice vinegar, and garlic infused oil to the skillet and stir to combine",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and sauce",
+    "Season with salt and black pepper to taste",
+    "Transfer the noodles to a serving platter and top with thinly sliced scallions",
+    "Serve immediately and enjoy",
+    "Let it rest for a few minutes before serving to allow the flavors to meld together",
+    "Garnish with additional chopped tarragon if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-bouncy-filipino-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bouncy-filipino-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:39:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "tarragon-french",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Noodles"
+  }
+}
