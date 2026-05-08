@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Tender Argentinian Beef Empanadas",
+  "description": "Tangy and tender Argentinian empanadas featuring nuts and a flaky puff pastry crust, perfect for a special occasion. This recipe is paleo-friendly and cooked to perfection in a Dutch oven.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass fed beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the beef, onion, garlic, and salt, and mix well.",
+    "In a separate bowl, whisk together the almond flour and coconut oil to form a crumbly mixture.",
+    "Add the chopped pecans to the almond flour mixture and stir to combine.",
+    "Roll out the almond flour mixture to a thickness of about 1/8 inch.",
+    "Spoon the beef mixture onto one half of the rolled out dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the beef mixture and press the edges together to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas in the preheated Dutch oven and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-tender-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:55:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "lamination-puff",
+    "primaryIngredient": "nuts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Empanadas"
+  }
+}
