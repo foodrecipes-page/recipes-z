@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Crisp Kenyan Lentil Stew",
+  "description": "A yeasty and crisp Kenyan dish perfect for a date night, featuring dry white wine and infuse oil in a vegan friendly recipe, cooked to perfection in a copper pot.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infuse oil in a copper pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin, paprika, salt, and black pepper and cook for 1 minute.",
+    "Add the red lentils, dry white wine, and 2 cups of water to the copper pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to partially blend the stew, leaving some texture.",
+    "Continue to simmer the stew for an additional 10 minutes, or until the lentils are tender.",
+    "Serve the Zesty Crisp Kenyan Lentil Stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot-cooking",
+    "date-night-recipes",
+    "kenyan-cuisine",
+    "lentil-recipes",
+    "vegan-dinner",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-crisp-kenyan-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-kenyan-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:03:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dry white wine",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Stew"
+  }
+}
