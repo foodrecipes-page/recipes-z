@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Middle Eastern Lamb Kebabs",
+  "description": "A quick and flavorful Middle Eastern dish featuring lamb, capers, and caramelized onions, perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kazan cauldron over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the sliced onions to the cauldron and cook until caramelized, about 8 minutes.",
+    "Add the chopped capers, lemon juice, garlic, sumac, salt, and black pepper to the cauldron and stir to combine.",
+    "Continue to cook for an additional 2 minutes, stirring occasionally.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with a side of roasted vegetables or quinoa.",
+    "Garnish with additional capers and sumac, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "quick-dinner",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:23:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "capers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Caramelized",
+    "dishForm": "Kebabs"
+  }
+}

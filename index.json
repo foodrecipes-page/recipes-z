@@ -4050,6 +4050,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-middle-eastern-lamb-kebabs",
+    "title": "Zesty Middle Eastern Lamb Kebabs",
+    "tags": [
+      "gluten-free",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pan",
+      "quick-dinner",
+      "sugar-free"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-sloeberry-maqluba",
     "title": "Zesty Middle Eastern Sloeberry Maqluba",
     "tags": [
@@ -4852,6 +4867,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-roasted-jamaican-yam-roast",
+    "title": "Zesty Roasted Jamaican Yam Roast",
+    "tags": [
+      "comfort-food",
+      "jamaican",
+      "one-pan",
+      "roast",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-punjabi-lamb-curry",
     "title": "Zesty Roasted Punjabi Lamb Curry",
     "tags": [
@@ -5256,6 +5285,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-slovakian-doughnuts-pancakes",
+    "title": "Zesty Slovakian Doughnuts Pancakes",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "plant-based-friendly",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {

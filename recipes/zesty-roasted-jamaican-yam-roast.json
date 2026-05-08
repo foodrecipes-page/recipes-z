@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Roasted Jamaican Yam Roast",
+  "description": "A tender, comforting Jamaican dish featuring roasted white yam, perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel the yams and cut them into 1-inch chunks.",
+    "In a large bowl, whisk together the olive oil, allspice, thyme, cayenne pepper, salt, and black pepper.",
+    "Add the yam chunks to the bowl and toss to coat with the spice mixture.",
+    "Transfer the yams to a baking sheet lined with parchment paper and arrange them in a single layer.",
+    "Roast the yams in the preheated oven for 20 minutes.",
+    "After 20 minutes, remove the yams from the oven and brush them with the lime juice and grated ginger.",
+    "Return the yams to the oven and roast for an additional 10-15 minutes, or until they are tender and caramelized.",
+    "Remove the yams from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "zesty-roasted-jamaican-yam-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-jamaican-yam-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:22:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "white yam",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yam",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Roast"
+  }
+}

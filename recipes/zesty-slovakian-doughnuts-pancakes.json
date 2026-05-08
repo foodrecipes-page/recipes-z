@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Slovakian Doughnuts Pancakes",
+  "description": "A sweet and tangy dessert featuring jammy, aerated Slovakian doughnuts topped with a refreshing lemon glaze and colorful candy.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup non-dairy milk",
+      "amount": "",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "1 large egg replacement",
+      "amount": "",
+      "notes": "such as flax or mashed banana"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup canola oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup jam or preserves",
+      "amount": "",
+      "notes": "such as strawberry or raspberry"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "",
+      "notes": "for dusting"
+    },
+    {
+      "name": "1 cup colorful candy",
+      "amount": "",
+      "notes": "such as sprinkles or nonpareils"
+    },
+    {
+      "name": "Lemon glaze (see below)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, baking powder, and sugar.",
+    "In a separate bowl, whisk together the non-dairy milk, egg replacement, lemon juice, canola oil, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and the edges start to dry.",
+    "Flip the doughnuts and cook for an additional 1-2 minutes or until golden brown.",
+    "Dust the doughnuts with granulated sugar while still warm.",
+    "Drizzle the lemon glaze over the doughnuts.",
+    "Top with colorful candy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "plant-based-friendly",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "zesty-slovakian-doughnuts-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-slovakian-doughnuts-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:22:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "candy",
+    "primaryIngredient": "lemon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "doughnuts",
+    "descriptor": "Zesty",
+    "dishForm": "Pancakes"
+  }
+}
