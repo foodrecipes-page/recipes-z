@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Nutty Saudi Arabian Lamb Pilaf",
+  "description": "A one-pot Saudi Arabian dish featuring lamb, red chilli flakes, and nuts, cooked to a glassy jelly consistency in a stone bowl, suitable for diabetic diets. This recipe combines the flavors of the Middle East with a nutty twist.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large stone bowl over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the red chilli flakes, salt, and chopped almonds, stirring to combine.",
+    "Add the basmati rice and stir to combine with the lamb and spice mixture.",
+    "Add 2 cups of water to the bowl and bring to a boil.",
+    "Reduce the heat to low, cover the bowl, and simmer for 20 minutes, or until the liquid has been absorbed and the rice is cooked.",
+    "Remove the bowl from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "lamb-recipes",
+    "middle-eastern",
+    "nutty",
+    "one-pot",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-nutty-saudi-arabian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-saudi-arabian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:07:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Pilaf"
+  }
+}
