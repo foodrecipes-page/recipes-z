@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Romantic Japanese Jumbo Shrimp Inari Zushi",
+  "description": "A resinous and creamy Japanese dish featuring jumbo shrimp, beurre-monte, and sugar-free friendly ingredients, formed into inarizushi",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "12 pieces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sweetened soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aburaage tofu pouches",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked and seasoned"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions and season with salt and sesame oil",
+    "Cut the beurre-monte into small pieces and melt in a saucepan over low heat",
+    "Add the sweetened soy sauce, grated ginger, and cooked jumbo shrimp to the saucepan and stir to combine",
+    "Cook the shrimp mixture for 2-3 minutes or until the shrimp are pink and fully cooked",
+    "Prepare the aburaage tofu pouches by cutting them in half and rinsing with cold water",
+    "Fill each tofu pouch with a small amount of sushi rice and a piece of the cooked shrimp mixture",
+    "Serve the inarizushi immediately and garnish with additional grated ginger if desired",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "romantic-dinner",
+    "seafood-lovers",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-romantic-japanese-jumbo-shrimp-inari-zushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-romantic-japanese-jumbo-shrimp-inari-zushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:47:47Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "sugar-free",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "jumbo shrimp",
+    "descriptor": "Zesty Romantic",
+    "dishForm": "Inari Zushi"
+  }
+}
