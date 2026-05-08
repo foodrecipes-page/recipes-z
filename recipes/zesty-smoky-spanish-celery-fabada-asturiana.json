@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Smoky Spanish Celery Fabada Asturiana",
+  "description": "A smoky and indulgent Spanish dish featuring celery, with a spicy kick, halal-friendly and made in the style of fabada asturiana. This recipe combines the flavors of Spain with a unique twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried fabes beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1 lb",
+      "notes": "halal"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the soaked and drained fabes beans, chopped celery, and halal Spanish chorizo to the pot.",
+    "Stir in the tomato paste and add enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Serve the fabada asturiana hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 75,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "one-pot",
+    "smoky",
+    "spanish-cuisine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-spanish-celery-fabada-asturiana",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-spanish-celery-fabada-asturiana",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "smoke-hot",
+    "primaryIngredient": "celery",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "celery",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Fabada Asturiana"
+  }
+}
