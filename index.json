@@ -5107,6 +5107,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-chicken-aji-de-gallina",
+    "title": "Zesty Peruvian Chicken Aji De Gallina",
+    "tags": [
+      "chicken-recipes",
+      "dairy-free",
+      "date-night",
+      "gluten-free",
+      "peruvian-cuisine",
+      "south-american-food"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-chicken-roast",
     "title": "Zesty Peruvian Chicken Roast",
     "tags": [

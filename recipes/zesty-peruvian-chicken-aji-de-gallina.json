@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Peruvian Chicken Aji De Gallina",
+  "description": "A creamy and tangy Peruvian dish featuring chicken, hotsauce, and a dairy-free friendly sauce, perfect for a date-night dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy coconut cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "aji amarillo pepper paste",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with hot sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the chicken breast with salt and black pepper.",
+    "In a blender or food processor, combine the walnuts, coconut cream, aji amarillo pepper paste, and garlic, and blend until smooth.",
+    "In a large skillet, heat the blended sauce over medium heat, whisking constantly.",
+    "Add the chicken breast to the skillet and cook until browned on both sides.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and stir in the chopped parsley.",
+    "Serve the chicken hot, spooning the creamy sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "peruvian-cuisine",
+    "south-american-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "zesty-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:55:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "hotsauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Aji De Gallina"
+  }
+}
