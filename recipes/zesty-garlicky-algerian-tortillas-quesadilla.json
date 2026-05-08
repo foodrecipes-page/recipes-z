@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Garlicky Algerian Tortillas Quesadilla",
+  "description": "A garlicky and crumbly solo dinner dish featuring tortillas and tadka, inspired by Algerian cuisine and ayurvedic rajasic friendly principles.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "4 large",
+      "notes": "whole wheat or corn tortillas"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add olive oil and saute the chopped onion until translucent.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Add ground cumin, coriander, smoked paprika, salt, and black pepper, and stir for 1 minute.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2-3 minutes until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes until crispy and golden.",
+    "Repeat with remaining tortillas and cheese.",
+    "Cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "mexican-inspired",
+    "north-african",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-garlicky-algerian-tortillas-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-algerian-tortillas-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:16:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "tortillas",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Quesadilla"
+  }
+}
