@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Juicy Slovakian Broccoli Dumplings",
+  "description": "A traditional Slovakian dish featuring broccoli and mustard, deep-fried to perfection, this recipe is halal-friendly and perfect for midnight cravings. The combination of juicy broccoli and zesty mustard creates a unique flavor experience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "prepared mustard"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped broccoli, flour, egg, mustard, salt, and black pepper, and mix well.",
+    "Gradually add the water to the bowl and mix until a thick dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully add the dough balls to the hot oil and deep-fry until they are golden brown.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Zesty Juicy Slovakian Broccoli Dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "broccoli-recipes",
+    "deep-fried",
+    "halal-friendly",
+    "midnight-cravings",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-juicy-slovakian-broccoli-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-slovakian-broccoli-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "broccoli",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Zesty Juicy",
+    "dishForm": "Dumplings"
+  }
+}
