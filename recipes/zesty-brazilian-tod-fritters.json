@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Brazilian Tod Fritters",
+  "description": "These briny, pillowy fritters are a delicious and adventurous Brazilian dish, featuring the warm flavor of cinnamon stick and a dairy-free friendly recipe, made with deep-fry tod.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tod",
+      "amount": "1 cup",
+      "notes": "deep-fry tod"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "2 sticks",
+      "notes": "ground into powder"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "In a large bowl, combine the tod, cinnamon stick powder, onion, garlic, salt, and black pepper.",
+    "Gradually add the flour to the bowl and mix until a dough forms.",
+    "Using your hands, shape the dough into small balls, about 1 inch in diameter.",
+    "Carefully place the balls into the hot oil and fry for 3-4 minutes on each side, until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy.",
+    "For an extra crispy coating, you can chill the shaped dough balls in the refrigerator for 30 minutes before frying.",
+    "To make the fritters extra zesty, you can sprinkle them with a pinch of salt and a squeeze of fresh lime juice before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "dairy-free",
+    "deep-fried",
+    "fritter-recipes",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-brazilian-tod-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brazilian-tod-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "todd",
+    "descriptor": "zesty pillowy",
+    "dishForm": "Fritters"
+  }
+}
