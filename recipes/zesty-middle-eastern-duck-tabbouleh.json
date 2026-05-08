@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Middle Eastern Duck Tabbouleh",
+  "description": "A citrusy and creamy Middle Eastern dish featuring duck confit leg and bonito shave, served in a bamboo tray.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck confit leg",
+      "amount": "1 leg",
+      "notes": "shredded"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mint",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the shredded duck confit leg, shaved bonito flakes, bulgur wheat, chopped parsley, and chopped mint.",
+    "In a small bowl, whisk together the lemon juice, olive oil, minced garlic, salt, and black pepper.",
+    "Pour the dressing over the duck mixture and toss to combine.",
+    "Spoon the tabbouleh onto a bamboo tray and garnish with additional parsley and mint if desired.",
+    "Cover the tray with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the tabbouleh a good stir and adjust the seasoning if necessary.",
+    "Serve the Zesty Middle Eastern Duck Tabbouleh chilled, straight from the bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "citrusy",
+    "creamy",
+    "duck-recipes",
+    "middle-eastern",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "zesty-middle-eastern-duck-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-duck-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:11:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "bonito-shave",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "duck",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Tabbouleh"
+  }
+}
