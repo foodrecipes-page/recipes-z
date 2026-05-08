@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Dense Spanish Apricot Fideua",
+  "description": "A dense and energizing Spanish dish featuring apricot, with a herbal twist and a low glycemic index, made in the traditional fideua form with a lamination puff pastry crust.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apricot jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "fideua pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut the pastry into a rectangle about 12 inches by 18 inches.",
+    "Spread the apricot jam evenly over the center of the pastry, leaving a 1 inch border on either side.",
+    "Arrange the fideua pasta on top of the jam, leaving a small border around the edges.",
+    "Drizzle the olive oil over the pasta and sprinkle with minced garlic and chopped rosemary.",
+    "Season with salt and black pepper to taste.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Brush the top of the pastry with a little water and sprinkle with grated manchego cheese if using.",
+    "Place the fideua on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 15 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "fideua",
+    "low-glycemic",
+    "one-pan",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-dense-spanish-apricot-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-spanish-apricot-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:04:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "apricot",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "apricot",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Fideua"
+  }
+}
