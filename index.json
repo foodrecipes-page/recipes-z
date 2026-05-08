@@ -2748,6 +2748,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-australian-squid-skewers",
+    "title": "Zesty Dense Australian Squid Skewers",
+    "tags": [
+      "australian",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-british-sausage-casserole",
     "title": "Zesty Dense British Sausage Casserole",
     "tags": [

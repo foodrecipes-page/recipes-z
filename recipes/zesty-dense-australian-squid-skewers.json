@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Dense Australian Squid Skewers",
+  "description": "A kid-friendly Australian dish featuring squid, this recipe is high in protein and perfect for a weeknight dinner. The fermentation process adds a unique flavor to the dish.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together vegetable oil, lemon juice, garlic, ginger, soy sauce, and honey.",
+    "Add the squid pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated squid onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the squid is cooked through.",
+    "While the squid is cooking, mix the chopped kimchi into the remaining marinade.",
+    "Brush the kimchi marinade onto the squid during the last 2 minutes of cooking.",
+    "Serve the skewers hot, garnished with additional kimchi if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-dense-australian-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-australian-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:32:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "squid",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "squid",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Skewers"
+  }
+}
