@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Garlicky Portuguese Kabocha Skillet",
+  "description": "A hearty and flavorful Portuguese dish featuring tender kabocha squash, perfect for a post-workout meal. This keto-friendly recipe is garlicky and delicious.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced pork sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the katsuramuki-cut kabocha squash and cook for 5 minutes, until slightly tender.",
+    "Add the chicken broth, dried thyme, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 15 minutes, until the squash is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "portuguese-cuisine",
+    "post-workout",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-garlicky-portuguese-kabocha-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-portuguese-kabocha-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:20:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "kabocha",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kabocha",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Skillet"
+  }
+}
