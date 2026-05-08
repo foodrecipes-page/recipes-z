@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Dense Ukrainian Turkey Neck Stew",
+  "description": "A hearty and rich Ukrainian stew made with turkey neck, perfect for a date night dinner, and can be adapted to be vegan friendly by substituting the traditional sour cream with a vegan alternative.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegan sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the turkey neck, paprika, salt, and pepper, and stir to combine.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Stir in the vegan sour cream and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "hearty-stew",
+    "ukrainian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-dense-ukrainian-turkey-neck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-ukrainian-turkey-neck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "turkey neck",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Stew"
+  }
+}
