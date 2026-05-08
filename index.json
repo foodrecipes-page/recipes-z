@@ -4257,6 +4257,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-garlicky-slovakian-potato-casserole",
+    "title": "Zesty Garlicky Slovakian Potato Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "european",
+      "garlic-lovers",
+      "one-pan"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 80,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-german-chicken-stew",
     "title": "Zesty German Chicken Stew",
     "tags": [
@@ -8372,6 +8386,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-mediterranean-lamb-kebabs",
+    "title": "Zesty Smoky Mediterranean Lamb Kebabs",
+    "tags": [
+      "grilled-meats",
+      "high-protein",
+      "mediterranean-diet",
+      "paleo-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 32,
     "shard": "z"
   },
   {

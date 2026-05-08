@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Smoky Mediterranean Lamb Kebabs",
+  "description": "A smoky and flavorful Mediterranean dish featuring lamb, unwaxed lime, and a blend of spices, perfect for a midnight craving. This paleo-friendly recipe is served on a wooden board.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unwaxed lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto the soaked wooden skewers, leaving a small space between each cube.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the lamb kebabs for 10-12 minutes, turning occasionally, until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Transfer the kebabs to a wooden board and sprinkle with chopped fresh oregano.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "mediterranean-diet",
+    "paleo-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:04:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Kebabs"
+  }
+}

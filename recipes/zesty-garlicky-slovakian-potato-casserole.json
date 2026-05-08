@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Garlicky Slovakian Potato Casserole",
+  "description": "A traditional Slovakian dish featuring caramelized potatoes and garlic in a rich buttery sauce, served in a cazuela vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, caramelize the sliced potatoes over medium heat for 20 minutes.",
+    "In a separate skillet, saute the chopped onion and minced garlic until softened.",
+    "In a small bowl, whisk together the flour and vegetable broth until smooth.",
+    "In a large cazuela vessel, create a layer of potatoes, followed by a layer of the onion and garlic mixture, and then a layer of the flour and broth mixture.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of potatoes on top.",
+    "Dot the top of the potatoes with the melted butter.",
+    "Cover the cazuela with foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "european",
+    "garlic-lovers",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-garlicky-slovakian-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-slovakian-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:04:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "melted butter",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Casserole"
+  }
+}
