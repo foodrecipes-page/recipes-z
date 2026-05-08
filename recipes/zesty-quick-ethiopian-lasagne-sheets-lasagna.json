@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Quick Ethiopian Lasagne Sheets Lasagna",
+  "description": "A yeasty and snappy quick-fix Ethiopian dish featuring lasagne sheets, soffritto-base, and is egg-free friendly. This dish combines the flavors of Ethiopia with the comfort of lasagna.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "8 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Saute the onion, garlic, and ginger in olive oil until softened.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Stir in the tomato sauce and bring to a simmer.",
+    "Layer the lasagne sheets with the sauce mixture in a baking dish.",
+    "Repeat the layers two more times, ending with a layer of sauce on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes.",
+    "Let the lasagna rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "quick-fix",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-quick-ethiopian-lasagne-sheets-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-quick-ethiopian-lasagne-sheets-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:59:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "soffritto-base",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lasagne sheets",
+    "descriptor": "Zesty Quick",
+    "dishForm": "Lasagna"
+  }
+}

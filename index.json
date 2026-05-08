@@ -275,6 +275,21 @@
     "shard": "z"
   },
   {
+    "slug": "zero-sugar-chinese-pork-noodles",
+    "title": "Zero Sugar Chinese Pork Noodles",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "pork-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zero-sugar-korean-chocolate-jjigae",
     "title": "Zero Sugar Korean Chocolate Jjigae",
     "tags": [
@@ -6800,6 +6815,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-quick-ethiopian-lasagne-sheets-lasagna",
+    "title": "Zesty Quick Ethiopian Lasagne Sheets Lasagna",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "quick-fix",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {

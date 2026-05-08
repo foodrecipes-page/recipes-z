@@ -1,0 +1,95 @@
+{
+  "title": "Zero Sugar Chinese Pork Noodles",
+  "description": "A diabetic-friendly Cantonese dish featuring a floral and comforting combination of ground pork and noodles, with a cheese-pull effect from the pasta water emulsion.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "8 ounces",
+      "notes": "low-carb"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "monk fruit sweetener",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the shirataki noodles according to package instructions and set aside.",
+    "In a large skillet, heat the sesame oil over medium-high heat and cook the ground pork until browned, breaking it up into small pieces as it cooks.",
+    "Add the coconut aminos, ginger, and scallions to the skillet and cook for 2 minutes, stirring constantly.",
+    "Stir in the monk fruit sweetener and xanthan gum and cook for 1 minute.",
+    "Add the cooked noodles to the skillet and stir to combine with the pork mixture.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally, to allow the flavors to meld and the sauce to thicken.",
+    "Serve hot, garnished with additional scallions if desired.",
+    "Let the dish rest for a few minutes before serving to allow the cheese-pull effect to develop."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zero-sugar-chinese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-sugar-chinese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:58:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ground sugar",
+    "diet": "diabetic-friendly",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Zero sugar",
+    "dishForm": "Noodles"
+  }
+}
