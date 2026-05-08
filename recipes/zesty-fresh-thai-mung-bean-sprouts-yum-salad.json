@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Fresh Thai Mung Bean Sprouts Yum Salad",
+  "description": "A fresh and tender Thai dish featuring mung bean sprouts, perfect for a lazy Sunday, dairy-free-friendly and served in a corn husk wrap.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung bean sprouts and drain well.",
+    "In a large bowl, whisk together shio-koji, lime juice, fish sauce, and chili flakes.",
+    "Add the mung bean sprouts, garlic, and cilantro to the bowl and toss to combine.",
+    "Season with salt to taste.",
+    "Spoon the salad onto the center of a corn husk.",
+    "Fold the sides of the corn husk over the filling and roll up to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lazy-sunday",
+    "thai-cuisine",
+    "vegetarian-friendly",
+    "yum-salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "zesty-fresh-thai-mung-bean-sprouts-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fresh-thai-mung-bean-sprouts-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:47:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Zesty Fresh",
+    "dishForm": "Yum Salad"
+  }
+}
