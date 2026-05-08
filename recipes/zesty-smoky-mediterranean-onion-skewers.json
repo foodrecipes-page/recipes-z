@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Smoky Mediterranean Onion Skewers",
+  "description": "A smoky and snappy Mediterranean dish featuring onions, perfect for a lazy Sunday, with a keto-friendly twist, grilled to perfection on a binchotan grill.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "4 large",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "zest",
+      "amount": "1 tablespoon",
+      "notes": "lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "Thread the onion pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the melted score-fat, lemon juice, olive oil, garlic, oregano, salt, pepper, and lemon zest.",
+    "Brush the mixture evenly onto both sides of the onion pieces.",
+    "Place the skewers on the preheated grill and cook for 10-12 minutes, turning occasionally, until the onions are tender and lightly charred.",
+    "Remove the skewers from the grill and let them cool for a few minutes before serving.",
+    "Serve the onion skewers hot, garnished with additional lemon zest and oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "keto-friendly",
+    "lazy-sunday",
+    "low-carb",
+    "mediterranean",
+    "onion-skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "zesty-smoky-mediterranean-onion-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-mediterranean-onion-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:36:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "onions",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "onions",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skewers"
+  }
+}
