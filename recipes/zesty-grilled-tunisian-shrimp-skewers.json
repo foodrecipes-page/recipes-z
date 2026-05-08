@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Grilled Tunisian Shrimp Skewers",
+  "description": "A refreshing and flavorful Tunisian dish featuring grilled shrimp skewers, perfect for a light brunch, with a zesty cider sauce and a side of mixed greens. This pescatarian-friendly recipe is sure to delight your taste buds.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "apple cider",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together apple cider, olive oil, lemon juice, garlic, paprika, salt, and black pepper to make the marinade.",
+    "Add the shrimp to the marinade and mix well to coat, then cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Grill the shrimp skewers for 8-10 minutes, turning occasionally, until they are pink and cooked through.",
+    "While the shrimp are cooking, prepare the mixed greens by rinsing them with cold water and draining well.",
+    "To serve, place a grilled shrimp skewer on top of a bed of mixed greens and drizzle with any remaining marinade.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "grilled",
+    "healthy",
+    "quick",
+    "seafood",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "zesty-grilled-tunisian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grilled-tunisian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "cider",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Grilled",
+    "dishForm": "Skewers"
+  }
+}
