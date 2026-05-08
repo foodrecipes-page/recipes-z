@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Umami Ukrainian Prawns Dumplings",
+  "description": "A gluten-free Ukrainian dish featuring prawns and dumplings, perfect for a date night, with a focus on umami flavor and crumbly texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together buckwheat flour, potato starch, and a pinch of salt.",
+    "Add the egg to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a prawn in the center of each disk.",
+    "Fold the dough over the prawn to form a half-moon shape and press the edges together to seal.",
+    "Bring the mushroom broth to a boil in a large pot and add the dumplings.",
+    "Reduce the heat to a simmer and cook the dumplings for 10 minutes.",
+    "Melt the butter in a small saucepan over medium heat and add the thyme, salt, and pepper.",
+    "Serve the dumplings hot with the melted butter sauce and garnish with parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "eastern-european",
+    "gluten-free",
+    "seafood",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-umami-ukrainian-prawns-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-umami-ukrainian-prawns-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:29:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "prawns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "prawns",
+    "descriptor": "Zesty Umami",
+    "dishForm": "Dumplings"
+  }
+}
