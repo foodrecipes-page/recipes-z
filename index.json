@@ -6947,6 +6947,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-roasted-uruguayan-corned-beef-wrap",
+    "title": "Zesty Roasted Uruguayan Corned Beef Wrap",
+    "tags": [
+      "healthy-meal",
+      "keto-friendly",
+      "low-carb",
+      "roasted-meat",
+      "solo-dinner",
+      "steamed-vegetables",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-romantic-japanese-jumbo-shrimp-inari-zushi",
     "title": "Zesty Romantic Japanese Jumbo Shrimp Inari Zushi",
     "tags": [
@@ -9289,6 +9305,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-yellow-split-peas-noodles",
+    "title": "Zesty Vietnamese Yellow Split Peas Noodles",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "noodle-dish",
+      "vegan",
+      "vietnamese",
+      "whole30"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {

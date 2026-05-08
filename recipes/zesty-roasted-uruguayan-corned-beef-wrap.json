@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Roasted Uruguayan Corned Beef Wrap",
+  "description": "A hearty solo dinner dish featuring roasted corned beef wrapped in leaves and steamed to perfection, this Uruguayan dish is keto-friendly and full of flavor. It is a unique blend of textures with the chewy corned beef and crispy leaf wrap.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "1 pound",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the sliced corned beef to the bowl and toss to coat evenly with the spice mixture.",
+    "Spread the corned beef out in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the corned beef is roasting, prepare the collard green leaves by washing and drying them thoroughly.",
+    "Remove the corned beef from the oven and let it cool for a few minutes.",
+    "To assemble the wraps, lay a collard green leaf flat on a work surface and place a few slices of the roasted corned beef in the center of the leaf.",
+    "Drizzle the corned beef with lemon juice and fold the leaf over the filling to form a tight wrap.",
+    "Place the wraps in a steamer basket and steam over boiling water for 5 minutes.",
+    "Serve the wraps hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-meal",
+    "keto-friendly",
+    "low-carb",
+    "roasted-meat",
+    "solo-dinner",
+    "steamed-vegetables",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "zesty-roasted-uruguayan-corned-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-uruguayan-corned-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:53:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "corned beef",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corned beef",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Wrap"
+  }
+}

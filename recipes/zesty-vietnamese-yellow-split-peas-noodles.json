@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Vietnamese Yellow Split Peas Noodles",
+  "description": "A malty and aerated Vietnamese dish featuring yellow split peas, this recipe is a show-off Whole30-friendly option with an al-dente finish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it is Whole30 compliant"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the yellow split peas and soak them in water for at least 4 hours.",
+    "Drain and rinse the split peas, then transfer them to a pot with 4 cups of water and bring to a boil.",
+    "Reduce the heat to a simmer and cook the split peas until they are tender, about 20 minutes.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the coconut oil over medium-high heat and add the sliced onion.",
+    "Cook the onion until it is translucent and starting to caramelize, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Stir in the fish sauce, lime juice, salt, and black pepper, and cook for 1 minute.",
+    "Add the cooked split peas and noodles to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "noodle-dish",
+    "vegan",
+    "vietnamese",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-vietnamese-yellow-split-peas-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-yellow-split-peas-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:53:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "yellow split peas",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Zesty",
+    "dishForm": "Noodles"
+  }
+}
