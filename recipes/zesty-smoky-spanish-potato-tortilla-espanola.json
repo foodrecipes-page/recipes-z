@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Smoky Spanish Potato Tortilla Espanola",
+  "description": "A smoky and flaky Spanish dish featuring white chocolate chips, this ovo-vegetarian friendly tortilla is perfect for any meal, with a unique blend of smoke and heat, and a surprising sweetness from the white chocolate.",
+  "cuisine": "Spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "4",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes and onions with smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Heat the olive oil in a large skillet over medium heat and cook the potato and onion mixture until they are tender and lightly browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, whisk the eggs and stir in the white chocolate chips.",
+    "Add the cooked potato and onion mixture to the bowl with the eggs and stir until everything is well combined.",
+    "Pour the mixture into a greased 9 inch round baking dish.",
+    "Bake the tortilla for 35 minutes or until the eggs are set and the tortilla is golden brown.",
+    "Remove the tortilla from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan-meals",
+    "ovo-vegetarian",
+    "potato-dishes",
+    "smoky-flavors",
+    "spanish-food",
+    "white-chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "zesty-smoky-spanish-potato-tortilla-espanola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-spanish-potato-tortilla-espanola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:37:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "ovo-vegetarian",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Tortilla Espanola"
+  }
+}
