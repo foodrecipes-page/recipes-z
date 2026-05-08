@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Wood Fired German Chinese Leaf Bake",
+  "description": "A festive German dish featuring Chinese leaf, wood-fired-bake, and sugar-free-friendly ingredients, with a resinous and crumbly texture. This recipe combines traditional German flavors with Asian-inspired ingredients.",
+  "cuisine": "German Chinese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "1 bunch",
+      "notes": "also known as bok choy"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "Rinse the Chinese leaf and remove the stems.",
+    "In a small bowl, mix together the caraway seeds, coriander seeds, salt, and black pepper.",
+    "In a large bowl, whisk together the olive oil, lemon juice, minced garlic, and grated ginger.",
+    "Add the Chinese leaf to the large bowl and toss to coat with the oil and spice mixture.",
+    "Sprinkle the seed and spice mixture over the Chinese leaf and toss again to combine.",
+    "Transfer the Chinese leaf mixture to a baking dish and bake for 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumnal",
+    "festive",
+    "german-chinese",
+    "gluten-free",
+    "sugar-free",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "zesty-wood-fired-german-chinese-leaf-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-wood-fired-german-chinese-leaf-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:50:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "chinese leaf",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Chinese leaf",
+    "descriptor": "Zesty wood fired",
+    "dishForm": "Bake"
+  }
+}
