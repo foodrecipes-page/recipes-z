@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Flaky Mexican Poblano Tacos",
+  "description": "A tangy and flaky Mexican dish featuring poblanos, strawberries, and a soffritto base, made with low-glycemic ingredients. This meal is perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "strawberries",
+      "amount": "1 pint",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "used for taco shells"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "used for frying"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "used for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes.",
+    "Chop the roasted poblanos into small pieces.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the chopped onions to the skillet and cook until they are translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a large bowl, mix together the roasted poblanos, cooked onions and garlic, sliced strawberries, and lime juice.",
+    "Season the mixture with salt to taste.",
+    "Fry the almond flour taco shells in the coconut oil until they are crispy and golden brown.",
+    "Fill the taco shells with the poblano and strawberry mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-eating",
+    "low-glycemic",
+    "mexican-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-flaky-mexican-poblano-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-mexican-poblano-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "strawberries",
+    "diet": "low-glycemic",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Tacos"
+  }
+}

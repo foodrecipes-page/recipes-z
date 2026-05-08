@@ -2714,6 +2714,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-mexican-poblano-tacos",
+    "title": "Zesty Flaky Mexican Poblano Tacos",
+    "tags": [
+      "gluten-free",
+      "healthy-eating",
+      "low-glycemic",
+      "mexican-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-moroccan-almond-tagine",
     "title": "Zesty Flaky Moroccan Almond Tagine",
     "tags": [
