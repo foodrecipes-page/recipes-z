@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Jamaican Beef Skewers",
+  "description": "A crowd-pleasing Jamaican dish featuring crispy beef skewers with a mustardy flavor, grilled to perfection on a yakimono grill, served with a side of spicy sauce. This recipe is a dash-friendly and easy-to-make dish that is perfect for any occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1-2 peppers",
+      "notes": "depending on desired heat level"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together beef stock concentrate, brown sugar, soy sauce, grated ginger, garlic powder, and black pepper.",
+    "Add the beef pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "While the skewers are grilling, mix together yellow mustard and scotch bonnet peppers in a small bowl.",
+    "Once the skewers are done, brush them with the mustard mixture and cook for an additional 1-2 minutes.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro and a side of spicy sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crowd-pleasers",
+    "grilled-meats",
+    "jamaican-cuisine",
+    "spicy-food",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-jamaican-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jamaican-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:21:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skewers"
+  }
+}

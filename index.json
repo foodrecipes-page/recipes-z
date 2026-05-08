@@ -5154,6 +5154,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-jamaican-beef-skewers",
+    "title": "Zesty Jamaican Beef Skewers",
+    "tags": [
+      "beef-recipes",
+      "crowd-pleasers",
+      "grilled-meats",
+      "jamaican-cuisine",
+      "spicy-food",
+      "weeknight-meals"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-jamaican-chicken-curry",
     "title": "Zesty Jamaican Chicken Curry",
     "tags": [
