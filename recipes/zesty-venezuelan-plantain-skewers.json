@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Venezuelan Plantain Skewers",
+  "description": "A festive Venezuelan dish featuring candied peel and grilled plantains, perfect for any occasion. This dish is kosher-friendly and has a nutty, aerated flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4",
+      "notes": "green or yellow"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "candied orange peel",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "Peel the plantains and cut them into 1 inch pieces.",
+    "Thread the plantain pieces onto skewers, leaving a little space between each piece.",
+    "Brush the plantains with vegetable oil and season with salt, black pepper, and lime juice.",
+    "Grill the plantain skewers for 10-12 minutes, turning occasionally, until they are caramelized and tender.",
+    "Meanwhile, combine the brown sugar and water in a saucepan and bring to a boil.",
+    "Reduce the heat and simmer for 5 minutes, or until the sugar has dissolved and the mixture is syrupy.",
+    "Add the chopped candied orange peel to the sugar syrup and stir to combine.",
+    "Brush the grilled plantain skewers with the sugar and orange peel mixture.",
+    "Serve the plantain skewers hot, garnished with additional candied orange peel if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "festive",
+    "grilled",
+    "kosher",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "zesty-venezuelan-plantain-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-plantain-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:43:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "candied peel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Zesty aerated",
+    "dishForm": "Skewers"
+  }
+}
