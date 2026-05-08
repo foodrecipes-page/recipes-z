@@ -1436,6 +1436,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-creamy-venezuelan-pasta",
+    "title": "Zesty Creamy Venezuelan Pasta",
+    "tags": [
+      "comfort-food",
+      "flambe",
+      "gluten-free",
+      "pasta",
+      "venezuelan",
+      "whole30"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-argentinian-cheese-empanadas",
     "title": "Zesty Crisp Argentinian Cheese Empanadas",
     "tags": [

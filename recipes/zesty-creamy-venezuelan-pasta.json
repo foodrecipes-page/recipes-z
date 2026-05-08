@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Creamy Venezuelan Pasta",
+  "description": "A floral and creamy Venezuelan dish featuring paccheri pasta, this recipe is a comforting and Whole30-friendly option for a weeknight dinner. The flambe technique adds a nice caramelized flavor to the dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tbsp",
+      "notes": "for flambe"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to the package instructions until al dente.",
+    "In a large skillet, melt the ghee over medium heat and add the sliced onion, cooking until caramelized and golden brown.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the rum to the skillet and flambe the mixture, cooking until the liquid is almost completely evaporated.",
+    "Stir in the coconut cream, chopped cilantro, lime juice, salt, and black pepper, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, until thickened and creamy.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the sauce.",
+    "Serve the pasta hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flambe",
+    "gluten-free",
+    "pasta",
+    "venezuelan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "zesty-creamy-venezuelan-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-venezuelan-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:17:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pasta",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Pasta"
+  }
+}
