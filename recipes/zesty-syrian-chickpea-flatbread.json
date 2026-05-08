@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Syrian Chickpea Flatbread",
+  "description": "A salty, crunchy, and indulgent Syrian dish made with chickpea flour and a mirepoix base, perfect for a gluten-free friendly snack. It is traditionally served on a bamboo tray.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups",
+      "notes": "also known as gram flour"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the chickpea flour, salt, and black pepper.",
+    "Add the chopped onion, carrot, and celery to the bowl and stir to combine.",
+    "Gradually add the olive oil and water to the bowl, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place the flatbreads on a bamboo tray lined with parchment paper.",
+    "Bake the flatbreads in the preheated oven for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-flour",
+    "flatbread",
+    "gluten-free",
+    "snack",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-syrian-chickpea-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-chickpea-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:16:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chickpea flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Flatbread"
+  }
+}

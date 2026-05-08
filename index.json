@@ -6631,6 +6631,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-chickpea-flatbread",
+    "title": "Zesty Syrian Chickpea Flatbread",
+    "tags": [
+      "chickpea-flour",
+      "flatbread",
+      "gluten-free",
+      "snack",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-syrian-eggplant-stir-fry",
     "title": "Zesty Syrian Eggplant Stir-fry",
     "tags": [
