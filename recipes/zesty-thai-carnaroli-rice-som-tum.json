@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Thai Carnaroli Rice Som Tum",
+  "description": "A fresh and molten Thai dish featuring Carnaroli rice, wok-hei, and macrobiotic-friendly ingredients, served in a traditional Som Tum form.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Papaya",
+      "amount": "2 cups",
+      "notes": "shredded green papaya"
+    },
+    {
+      "name": "Chilies",
+      "amount": "4-6",
+      "notes": "Thai bird's eye chilies"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "cherry tomatoes halved"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "roasted peanuts"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok over high heat.",
+    "Add the chilies and cook for 1 minute, until fragrant.",
+    "Add the shredded papaya and cook for 2 minutes, until it starts to soften.",
+    "Add the cherry tomatoes and cook for another minute.",
+    "Add the fish sauce, lime juice, palm sugar, and salt, and stir-fry for 1 minute.",
+    "Add the cooked Carnaroli rice to the wok and stir-fry for 2 minutes, breaking up any clumps with a spatula.",
+    "Add the roasted peanuts and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Som Tum to a serving platter and garnish with additional peanuts and chilies if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "macrobiotic",
+    "one-pan",
+    "spicy-food",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-thai-carnaroli-rice-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-thai-carnaroli-rice-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:42:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "wok-hei",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "macrobiotic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Zesty",
+    "dishForm": "Som Tum"
+  }
+}
