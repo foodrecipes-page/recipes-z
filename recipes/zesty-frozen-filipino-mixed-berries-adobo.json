@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Frozen Filipino Mixed Berries Adobo",
+  "description": "Buttery, fluffy Filipino dish featuring frozen mixed berries, perfect for a quick and delicious monsoon meal. Serve with steamed rice or as a side dish.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Frozen mixed berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Adobo sauce",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style adobo sauce without meat."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tablespoon",
+      "notes": "Grated."
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, combine adobo sauce, butter, sugar, lemon juice, vanilla extract, garlic, black pepper, and cayenne pepper.",
+    "Add frozen mixed berries and close the pressure cooker lid.",
+    "Cook on high pressure for 5 minutes, then quick-release the pressure.",
+    "In a small pan, heat coconut oil over medium heat and toast sesame seeds until lightly browned.",
+    "Sprinkle toasted sesame seeds over the cooked mixed berries and serve hot or chilled, garnished with lime zest.",
+    "Grill the dish on a binchotan grill for a few minutes to add a smoky flavor, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "filipino",
+    "grill",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "zesty-frozen-filipino-mixed-berries-adobo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-frozen-filipino-mixed-berries-adobo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Mixed Berries",
+    "descriptor": "Zesty Frozen",
+    "dishForm": "Adobo"
+  }
+}
