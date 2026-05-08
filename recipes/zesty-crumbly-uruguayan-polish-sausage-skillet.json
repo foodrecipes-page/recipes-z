@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Crumbly Uruguayan Polish Sausage Skillet",
+  "description": "A funky, crumbly, crowd-pleasing Uruguayan dish featuring Polish sausage, wok-hei, and macrobiotic-friendly ingredients. This recipe combines the flavors of South America and Eastern Europe in a unique and delicious way.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced Polish sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the smoked paprika and cook for 1 minute.",
+    "Add the cooked brown rice, black beans, and diced tomatoes to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the mixture is heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eastern-european",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "zesty-crumbly-uruguayan-polish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-uruguayan-polish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:31:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "wok-hei",
+    "primaryIngredient": "polish sausage",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "polish sausage",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Skillet"
+  }
+}
