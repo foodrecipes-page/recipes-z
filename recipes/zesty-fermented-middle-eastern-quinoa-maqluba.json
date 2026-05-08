@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Fermented Middle Eastern Quinoa Maqluba",
+  "description": "A traditional Middle Eastern maqluba dish with a twist, featuring fermented quinoa and a blend of aromatic spices, perfect for a comforting dinner. This recipe is FODMAP-friendly and offers a unique flavor experience.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "fermented for at least 24 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the fermented quinoa, olive oil, chopped onion, minced garlic, cumin, paprika, salt, and black pepper.",
+    "In a separate bowl, whisk together the tomato paste and water.",
+    "Add the tomato paste mixture to the quinoa mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 30 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the maqluba from the oven and let it cool for 10 minutes before serving.",
+    "Serve the maqluba hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "quinoa-recipes",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-fermented-middle-eastern-quinoa-maqluba",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-middle-eastern-quinoa-maqluba",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:27:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "quinoa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "quinoa",
+    "descriptor": "Zesty Fermented",
+    "dishForm": "Maqluba"
+  }
+}
