@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Middle Eastern Halloumi Cheese Flatbread",
+  "description": "A peppery and flavorful lacto-vegetarian dish featuring halloumi cheese, perfect for a solo dinner, with a cheese-pull effect and a hint of cooking wine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halloumi cheese",
+      "amount": "8 oz",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together cooking wine, olive oil, minced garlic, salt, and black pepper to emulsify the sauce.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Arrange the sliced halloumi cheese on top of the flatbread, leaving a 1-inch border around the edges.",
+    "Brush the emulsified sauce evenly over the halloumi cheese.",
+    "Sprinkle chopped fresh parsley and mint over the cheese.",
+    "Drizzle lemon juice over the top of the flatbread.",
+    "Bake the flatbread in the preheated oven for 12 minutes, or until the cheese is melted and the bread is crispy.",
+    "Remove the flatbread from the oven and let it cool for 2 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "high-protein",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-middle-eastern-halloumi-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-halloumi-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:43:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "cooking wine",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "halloumi cheese",
+    "descriptor": "Zesty",
+    "dishForm": "Flatbread"
+  }
+}
