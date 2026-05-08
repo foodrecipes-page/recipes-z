@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Winey Kenyan Pecan Nuts Flatbread",
+  "description": "A winey, snappy, midnight-craving Kenyan dish featuring pecan nuts, double-rise-bread, and Mediterranean-friendly flavors, perfect for a satisfying snack.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "for yeast activation"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and yeast, letting it sit for 5 minutes to activate the yeast.",
+    "Add flour, salt, sugar, and garlic powder to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a flat circle, about 1/4 inch thick.",
+    "Brush the dough with olive oil and sprinkle chopped pecan nuts over the top.",
+    "Drizzle red wine over the pecan nuts, making sure not to overload the flatbread.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until it is golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "flatbread",
+    "kenyan",
+    "mediterranean",
+    "nutty",
+    "snack",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-winey-kenyan-pecan-nuts-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-winey-kenyan-pecan-nuts-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:14:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pecan nuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Zesty winey",
+    "dishForm": "Flatbread"
+  }
+}
