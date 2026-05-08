@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Yeasty Malaysian Dough Bao",
+  "description": "A traditional Malaysian dish featuring a long-fermentation yeasty dough, filled with sweet and savory ingredients, perfect for a snack or dessert. This halal-friendly recipe uses caster sugar and is made with indulgent and velvety textures in mind.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "caster sugar",
+      "amount": "1 cup",
+      "notes": "fine granules"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water and yeast, stirring gently to dissolve the yeast.",
+    "Add the caster sugar, flour, and salt to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of melted butter and a sprinkle of coconut milk in the center of each disk.",
+    "Fold the dough over the filling and seal the edges by pressing them together.",
+    "Place the buns on a baking sheet lined with parchment paper and bake for 15 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "malaysian-cuisine",
+    "snack-ideas",
+    "sweet-buns",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-yeasty-malaysian-dough-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-malaysian-dough-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "caster sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dough",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Bao"
+  }
+}
