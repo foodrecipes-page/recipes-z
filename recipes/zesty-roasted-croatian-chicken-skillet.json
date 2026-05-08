@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Roasted Croatian Chicken Skillet",
+  "description": "A roasted Croatian dish featuring cilantro leaves and a soffritto base, this skillet is both creamy and adventurous, perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large oven-safe skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, paprika, salt, and black pepper, and stir to combine.",
+    "Transfer the skillet to the preheated oven and roast for 25-30 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and stir in the sour cream and chopped cilantro leaves.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "nut-free",
+    "one-pan",
+    "roasted-chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-roasted-croatian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-croatian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Skillet"
+  }
+}
