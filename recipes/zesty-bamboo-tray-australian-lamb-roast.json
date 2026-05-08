@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Bamboo Tray Australian Lamb Roast",
+  "description": "A sophisticated centerpiece featuring slow-roasted Australian lamb shanks wrapped in paper-thin katsuramuki daikon sheets for a springy texture and bright citrus finish.",
+  "cuisine": "Australian-Asian Fusion",
+  "diet": [
+    "egg-free",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shanks",
+      "amount": "4",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "Daikon radish",
+      "amount": "1 large",
+      "notes": "cut into 6-inch lengths for katsuramuki sheets"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tablespoons",
+      "notes": "finely grated"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "3 sprigs",
+      "notes": "leaves finely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "4 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tablespoon",
+      "notes": "flaky variety preferred"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "for glazing"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 160 degrees Celsius and line a large bamboo roasting tray with parchment paper.",
+    "Combine the olive oil, garlic, rosemary, lemon zest, salt, and pepper in a small bowl to create a rub.",
+    "Massage the herb rub thoroughly into each lamb shank until evenly coated.",
+    "Peel the daikon radish using the katsuramuki technique to create long, continuous thin sheets.",
+    "Wrap each seasoned lamb shank tightly in a daikon sheet and secure with kitchen twine if necessary.",
+    "Place the wrapped shanks onto the bamboo tray and cover the tray tightly with foil.",
+    "Roast the lamb in the oven for 150 minutes until the meat is tender and pulling away from the bone.",
+    "Remove the foil and brush the daikon exteriors with honey to encourage caramelization.",
+    "Increase the heat to 200 degrees Celsius and roast for another 15 minutes until the edges are golden.",
+    "Allow the roast to rest for 10 minutes before serving directly from the bamboo tray.",
+    "Garnish with fresh mint leaves and additional lemon zest before presenting to guests."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 165,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-lamb",
+    "dairy-free",
+    "fusion",
+    "high-protein",
+    "show-stopper",
+    "slow-roast"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 52,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "zesty-bamboo-tray-australian-lamb-roast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bamboo-tray-australian-lamb-roast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T08:49:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "lamb shanks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Zesty Bamboo Tray",
+    "dishForm": "Roast"
+  }
+}
