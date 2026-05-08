@@ -4656,6 +4656,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-double-fry-kfc-figs-peruvian-fish-tiradito",
+    "title": "zesty peruvian double-fry kfc figs peruvian fish tiradito",
+    "tags": [
+      "double-fry",
+      "figs",
+      "fodmap-friendly",
+      "hangover-cure",
+      "kfc",
+      "peruvian",
+      "resinous"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-fish-papillote",
     "title": "Zesty Peruvian Fish Papillote",
     "tags": [
@@ -6259,6 +6275,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tender-italian-egg-frittata",
+    "title": "Zesty Tender Italian Egg Frittata",
+    "tags": [
+      "breakfast-ideas",
+      "gluten-free",
+      "healthy-recipes",
+      "italian-food",
+      "low-carb",
+      "one-pan"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

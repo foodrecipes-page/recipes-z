@@ -1,0 +1,123 @@
+{
+  "title": "zesty peruvian double-fry kfc figs peruvian fish tiradito",
+  "description": "a hangover-curing, resinous peruvian dish featuring double-fried kfc, fresh figs, and peruvian fish in a tangy tiradito form, served in a traditional tagine pot.",
+  "cuisine": "peruvian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "serrano peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kfc fried chicken",
+      "amount": "1 cup",
+      "notes": "double-fried and diced"
+    },
+    {
+      "name": "figs",
+      "amount": "4",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "yellowtail fish",
+      "amount": "1/2",
+      "notes": "peruvian fish fillet, thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "aqui amarillo pepper",
+      "amount": "1",
+      "notes": "smoked and minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "peruvian aji amarillo sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large tagine pot over medium-high heat.",
+    "add diced kfc fried chicken and cook until browned, about 5 minutes.",
+    "add sliced red onion and cook until translucent, about 3 minutes.",
+    "add sliced yellowtail fish and cook until opaque, about 2 minutes.",
+    "add chopped serrano peppers, minced garlic, and smoked aji amarillo pepper, cook for 1 minute.",
+    "stir in freshly squeezed lemon juice, flaky sea salt, and black pepper.",
+    "add chopped fresh figs and cook for an additional 2 minutes.",
+    "stir in peruvian aji amarillo sauce and cook until heated through.",
+    "garnish with chopped cilantro and serve immediately.",
+    "serve with crusty bread or over rice, if desired.",
+    "adjust seasoning as needed.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "figs",
+    "fodmap-friendly",
+    "hangover-cure",
+    "kfc",
+    "peruvian",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "zesty-peruvian-double-fry-kfc-figs-peruvian-fish-tiradito",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-double-fry-kfc-figs-peruvian-fish-tiradito",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:05:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "figs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Peruvian Double-Fry KFC Figs",
+    "dishForm": "Tiradito"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Tender Italian Egg Frittata",
+  "description": "A pungent and tender Italian dish featuring ginger paste, perfect for a low-carb breakfast, with a lacquer-glaze finish for added flavor and texture. This energizing frittata is made with wholesome ingredients and is easy to prepare.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Whisk the eggs in a large bowl and set aside.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the ginger paste and cook for 1 minute, stirring constantly.",
+    "Add the chopped spinach and cook until wilted, about 2 minutes.",
+    "Pour the whisked eggs over the spinach mixture and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and brush the lacquer glaze over the top of the frittata.",
+    "Return the skillet to the oven and bake for an additional 2 minutes.",
+    "Remove the skillet from the oven and let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "healthy-recipes",
+    "italian-food",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "zesty-tender-italian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-italian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:06:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "ginger paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggs",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Frittata"
+  }
+}
