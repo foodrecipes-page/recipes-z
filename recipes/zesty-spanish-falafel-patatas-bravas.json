@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Spanish Falafel Patatas Bravas",
+  "description": "A peppery and snappy Spanish dish featuring falafel in a patatas bravas style, served in an earthenware bowl and halal friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "falafel mix",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the diced potatoes in boiling water for 5 minutes, then drain and set aside.",
+    "In a large bowl, mix together the falafel mix, olive oil, smoked paprika, garlic, salt, and chili flakes.",
+    "Using a bain marie, heat the falafel mixture over low heat, stirring constantly, until it is warmed through.",
+    "In a separate saucepan, heat the tomato sauce over medium heat until it is warm and bubbly.",
+    "To assemble the dish, place a layer of potatoes in the bottom of an earthenware bowl, followed by a layer of the falafel mixture, and then a layer of the tomato sauce.",
+    "Repeat the layers two more times, ending with a layer of tomato sauce on top.",
+    "Place the earthenware bowl in the oven and bake for 20 minutes, or until the potatoes are tender and the top is lightly browned.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-bowl",
+    "halal-friendly",
+    "patatas-bravas",
+    "snack-food",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-spanish-falafel-patatas-bravas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-falafel-patatas-bravas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:26:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "falafel",
+    "diet": "halal",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "falafel",
+    "descriptor": "Zesty Snappy",
+    "dishForm": "Patatas Bravas"
+  }
+}
