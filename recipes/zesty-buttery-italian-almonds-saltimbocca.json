@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Buttery Italian Almonds Saltimbocca",
+  "description": "A light and crunchy Italian dish featuring nuts in a saltimbocca form, served on a lazy-susan-spinner, dairy-free-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, italian seasoning, salt, and black pepper.",
+    "Add the sliced almonds to the bowl and toss to coat evenly with the oil mixture.",
+    "Spread the almonds on a baking sheet in a single layer.",
+    "Bake the almonds in the preheated oven for 10 minutes, or until lightly toasted.",
+    "Remove the almonds from the oven and stir in the vegan butter until melted and well combined.",
+    "Allow the almonds to cool completely on the baking sheet.",
+    "Once cool, transfer the almonds to a lazy-susan-spinner and shape into a saltimbocca form.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy-appetizers",
+    "italian-inspired",
+    "lazy-susan",
+    "nutty-snacks",
+    "saltimbocca"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "zesty-buttery-italian-almonds-saltimbocca",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-italian-almonds-saltimbocca",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:04:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "nuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Saltimbocca"
+  }
+}
