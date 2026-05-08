@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Light Irish Cornmeal Bake",
+  "description": "A briny and crumbly Irish dish featuring fine yellow cornmeal and rest-meat, perfect for a light meal, and is FODMAP-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 1/2 cups",
+      "notes": "freshly opened package"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 cup",
+      "notes": "diced cooked beef or pork"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "low-lactose"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs and melted butter.",
+    "Add the rest-meat, chopped scallions, and grated cheddar cheese to the egg mixture and stir until combined.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour the mixture into a 9-inch round baking dish.",
+    "Bake for 25-30 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "cornmeal-bake",
+    "gluten-free",
+    "irish-cuisine",
+    "light-meal",
+    "low-fodmap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "zesty-light-irish-cornmeal-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-irish-cornmeal-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:19:04Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Zesty light",
+    "dishForm": "Bake"
+  }
+}
