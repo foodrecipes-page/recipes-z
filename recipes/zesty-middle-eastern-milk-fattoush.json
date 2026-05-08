@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Middle Eastern Milk Fattoush",
+  "description": "A creamy and tangy Middle Eastern salad featuring milk, nuka-pickle, and toasted pita bread, perfect for a crowd-pleasing snack or light lunch. This egg-free friendly dish is a unique twist on traditional fattoush.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "4 cups torn into bite-sized pieces",
+      "notes": "day-old bread works best"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup diced",
+      "notes": "or other sour pickle"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "full-fat preferred"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 cups diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the pita bread with 2 tablespoons of olive oil and toast in the oven for 10 minutes, or until crispy and golden brown.",
+    "In a large bowl, whisk together the milk, sumac, salt, and black pepper.",
+    "Add the diced nuka-pickle, cucumber, tomato, and red onion to the bowl and stir to combine.",
+    "Stir in the chopped parsley.",
+    "Add the toasted pita bread to the bowl and toss to combine with the milk mixture.",
+    "Drizzle the remaining 2 tablespoons of olive oil over the top of the salad and toss again to combine.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad cold, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "fattoush",
+    "lunch",
+    "middle-eastern",
+    "salad",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-middle-eastern-milk-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-milk-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:25:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "milk",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Fattoush"
+  }
+}

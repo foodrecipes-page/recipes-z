@@ -5576,6 +5576,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-middle-eastern-milk-fattoush",
+    "title": "Zesty Middle Eastern Milk Fattoush",
+    "tags": [
+      "egg-free",
+      "fattoush",
+      "lunch",
+      "middle-eastern",
+      "salad",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-middle-eastern-sloeberry-maqluba",
     "title": "Zesty Middle Eastern Sloeberry Maqluba",
     "tags": [
