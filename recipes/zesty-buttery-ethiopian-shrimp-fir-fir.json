@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Buttery Ethiopian Shrimp Fir Fir",
+  "description": "A pescatarian-friendly Ethiopian dish featuring shrimp, dark chocolate, and a flambe touch, served in a traditional fir-fir style.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "2 ounces",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "injera bread",
+      "amount": "4 cups",
+      "notes": "torn into pieces"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the chopped red onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shrimp and cook until pink and fully cooked, about 5 minutes.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of butter to the skillet and stir in the berbere spice.",
+    "Add the torn injera bread to the skillet and stir to combine with the butter and spice mixture.",
+    "Add the cooked shrimp back into the skillet and stir to combine with the injera bread mixture.",
+    "Add the chopped dark chocolate to the skillet and stir until melted and well combined.",
+    "Add the rum to the skillet and ignite to flambe, cooking for an additional 2 minutes.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dark-chocolate",
+    "ethiopian-cuisine",
+    "flambe",
+    "high-protein",
+    "pescatarian-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-buttery-ethiopian-shrimp-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-ethiopian-shrimp-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:55:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "dark chocolate",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Fir Fir"
+  }
+}
