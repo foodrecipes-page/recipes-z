@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Citrusy Portuguese Mozzarella Balls Skewers",
+  "description": "A weeknight Portuguese dish featuring mozzarella balls with a zesty citrusy twist, perfect for a quick and delicious meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella balls",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together orange juice, lemon juice, olive oil, garlic powder, dried oregano, salt, and pepper.",
+    "Add the mozzarella balls to the bowl and toss to coat with the citrus mixture.",
+    "Thread 3-4 mozzarella balls onto each skewer.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until the mozzarella is lightly browned.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy!",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "easy-dinner",
+    "mozzarella",
+    "portuguese",
+    "skewers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-citrusy-portuguese-mozzarella-balls-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-portuguese-mozzarella-balls-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:40:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "dehydrate",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "mozzarella balls",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Skewers"
+  }
+}

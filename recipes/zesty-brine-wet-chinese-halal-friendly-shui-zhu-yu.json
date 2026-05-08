@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Brine-Wet Chinese halal-friendly Shui Zhu Yu",
+  "description": "A resinous, crisp, adventurous chinese dish featuring savoiardi-ladyfingers, brine-wet, halal-friendly, served in a lazy-susan-spinner. Inspired by the Sichuan cuisine, this recipe combines sweet and spicy flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoiardi-ladyfingers",
+      "amount": "200g",
+      "notes": "preferably halal-certified"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fermented soybean paste",
+      "amount": "2 tablespoons",
+      "notes": "fermented for 1-2 months"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili bean paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "4 stalks",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok over medium-high heat.",
+    "Add the Sichuan peppercorns and cook for 1-2 minutes, until fragrant.",
+    "Add the grated ginger and cook for 1 minute, until slightly caramelized.",
+    "Add the minced garlic and cook for 30 seconds, until fragrant.",
+    "Add the fermented soybean paste, chili bean paste, sugar, salt, and white pepper. Stir-fry for 2-3 minutes, until the paste is fragrant.",
+    "Add the savoiardi-ladyfingers and toss them in the sauce for 2-3 minutes, until well coated.",
+    "Transfer the ladyfingers to a lazy-susan-spinner and garnish with chopped green onions.",
+    "Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "halal-recipe",
+    "lazy-susan-spinner",
+    "one-pan",
+    "sichuan-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "zesty-brine-wet-chinese-halal-friendly-shui-zhu-yu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-brine-wet-chinese-halal-friendly-shui-zhu-yu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "halal-friendly",
+    "descriptor": "Zesty Brine-Wet",
+    "dishForm": "Shui Zhu Yu"
+  }
+}

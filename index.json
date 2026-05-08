@@ -1059,6 +1059,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brine-wet-chinese-halal-friendly-shui-zhu-yu",
+    "title": "Zesty Brine-Wet Chinese halal-friendly Shui Zhu Yu",
+    "tags": [
+      "halal-recipe",
+      "lazy-susan-spinner",
+      "one-pan",
+      "sichuan-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap",
     "title": "Zesty Brine-Wet Middle-Eastern Chicken Ti-Leaf Wrap",
     "tags": [
@@ -1691,6 +1705,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-citrusy-portuguese-mozzarella-balls-skewers",
+    "title": "Zesty Citrusy Portuguese Mozzarella Balls Skewers",
+    "tags": [
+      "citrusy",
+      "easy-dinner",
+      "mozzarella",
+      "portuguese",
+      "skewers",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
