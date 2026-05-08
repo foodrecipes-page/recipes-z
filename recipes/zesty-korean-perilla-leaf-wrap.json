@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Korean Perilla Leaf Wrap",
+  "description": "A refreshing and flavorful dish featuring perilla leaves, this wrap is perfect for a light lunch or snack, and its buddhist-temple-friendly ingredients make it a great option for those with dietary restrictions.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "perilla leaves",
+      "amount": "20 leaves",
+      "notes": "also known as kkaennip"
+    },
+    {
+      "name": "corn husks",
+      "amount": "10 husks"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the perilla leaves and pat them dry with a paper towel.",
+    "Cut the tofu into small cubes and season with soy sauce, rice vinegar, and sesame oil.",
+    "Grate the ginger and mix it with the tofu.",
+    "Lay a corn husk flat and arrange 2 perilla leaves in the center.",
+    "Place a few pieces of the tofu mixture in the center of the perilla leaves.",
+    "Fold the perilla leaves over the filling to form a triangle, and secure with a toothpick if needed.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve immediately and enjoy.",
+    "To emulsify the sauce, whisk the soy sauce, rice vinegar, and sesame oil together in a small bowl.",
+    "Drizzle the emulsified sauce over the wraps before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 10,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "easy-snack",
+    "korean-food",
+    "quick-lunch",
+    "vegan-friendly",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "zesty-korean-perilla-leaf-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-korean-perilla-leaf-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:36:56Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Wrap"
+  }
+}
