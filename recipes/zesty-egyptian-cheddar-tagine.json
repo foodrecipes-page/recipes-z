@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Egyptian Cheddar Tagine",
+  "description": "A rich and flavorful lacto-vegetarian dish featuring mature cheddar and score-fat, perfect for a romantic dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mature cheddar",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large tagine or Dutch oven over medium heat.",
+    "Add the onions and cook until they are softened and lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Stir in the cumin and coriander and cook for 1 minute.",
+    "Add the melted score-fat and stir to combine.",
+    "Add the shredded cheddar and stir until it is melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egyptian-cuisine",
+    "lacto-vegetarian",
+    "one-pot",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-egyptian-cheddar-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-cheddar-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:07:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "mature cheddar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheddar",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Citrusy Peruvian Gobo Burdock Casserole",
+  "description": "A citrusy and gooey Peruvian dish featuring gobo-burdock, perfect for a hangover cure, and a great option for a shojin-friendly meal. This wood-fired-baked casserole is a unique and delicious twist on traditional Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo burdock",
+      "amount": "2 medium roots",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegan cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together orange juice, lemon juice, and olive oil.",
+    "Add sliced gobo burdock to the bowl and toss to coat with the citrus mixture.",
+    "In a separate pan, saute chopped onion and minced garlic until softened.",
+    "Add cooked quinoa to the pan and stir to combine with the onion and garlic mixture.",
+    "In a large casserole dish, create a layer of the quinoa mixture.",
+    "Add a layer of the gobo burdock slices on top of the quinoa mixture.",
+    "Sprinkle vegan cheese shreds over the gobo burdock layer.",
+    "Season with salt and black pepper to taste.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake the casserole in the preheated wood-fired oven for 45 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "peruvian-cuisine",
+    "shojin-friendly",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-citrusy-peruvian-gobo-burdock-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-peruvian-gobo-burdock-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:07:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "gobo burdock",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Casserole"
+  }
+}

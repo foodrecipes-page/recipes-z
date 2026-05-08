@@ -1588,6 +1588,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-citrusy-peruvian-gobo-burdock-casserole",
+    "title": "Zesty Citrusy Peruvian Gobo Burdock Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "peruvian-cuisine",
+      "shojin-friendly",
+      "vegetarian",
+      "wood-fired"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-citrusy-zing-slovakian-cox-apple-pilaf",
     "title": "zesty citrusy zing slovakian cox-apple pilaf",
     "tags": [
@@ -2920,6 +2935,20 @@
       "one-pan",
       "vegan",
       "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-egyptian-cheddar-tagine",
+    "title": "Zesty Egyptian Cheddar Tagine",
+    "tags": [
+      "comfort-food",
+      "egyptian-cuisine",
+      "lacto-vegetarian",
+      "one-pot",
+      "romantic-dinner"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
@@ -7190,6 +7219,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 23,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-venezuelan-lentil-pilaf",
+    "title": "Zesty Silky Venezuelan Lentil Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "healthy",
+      "international",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

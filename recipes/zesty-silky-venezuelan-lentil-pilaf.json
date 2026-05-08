@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Silky Venezuelan Lentil Pilaf",
+  "description": "A nutty and silky Venezuelan dish featuring puy-lentils, yuzu-cure, and ayurvedic-tamasic-friendly ingredients, this pilaf is a show-off dish for any occasion. It combines the warmth of cumin and coriander with the brightness of yuzu.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the puy lentils and drain well.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the ground cumin and ground coriander and cook for 1 minute.",
+    "Add the puy lentils, salt, and black pepper, and cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the yuzu juice and cook for an additional 2 minutes.",
+    "Fluff the pilaf with a fork and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "healthy",
+    "international",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-silky-venezuelan-lentil-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-venezuelan-lentil-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:07:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "puy-lentils",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Pilaf"
+  }
+}
