@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Earthy Syrian Vegetable Bowl",
+  "description": "A flavorful and nutritious Syrian-inspired dish featuring a variety of vegetables in a rich vegetable stock, served in a hot dolsot stone bowl. This earthy bowl is perfect for a satisfying brunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Cut the carrots, zucchini, eggplant, and red bell pepper into bite-sized pieces and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the vegetables and sprinkle with paprika, salt, and black pepper.",
+    "Broil the vegetables in the preheated oven for 20 minutes, or until they are tender and lightly browned.",
+    "In a large pot, bring the vegetable stock to a boil over high heat.",
+    "Reduce the heat to low and add the chopped onion and minced garlic to the pot.",
+    "Simmer the stock for 10 minutes, or until the flavors have melded together.",
+    "Add the broiled vegetables to the pot and stir to combine.",
+    "Divide the vegetable mixture among four dolsot stone bowls.",
+    "Serve the bowls hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "healthy-eating",
+    "one-pot",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-earthy-syrian-vegetable-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-earthy-syrian-vegetable-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:05:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "vegetable stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Earthy",
+    "dishForm": "Bowl"
+  }
+}
