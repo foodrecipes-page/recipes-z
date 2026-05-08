@@ -70,7 +70,8 @@
     "Remove the tagine from the oven and let it rest for 5 minutes before serving.",
     "Meanwhile, prepare the pandan leaf wraps by soaking them in water for 5 minutes.",
     "To assemble the dish, place a portion of the chicken and sauce onto a pandan leaf and fold the leaf to form a wrap.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -108,5 +109,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Smoked",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

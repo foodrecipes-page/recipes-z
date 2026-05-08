@@ -76,7 +76,8 @@
     "Stir in the lime juice, honey, flaxseed meal, flour, salt, and black pepper.",
     "Add the chopped scotch bonnet peppers and stir to combine.",
     "Cook for an additional 2 minutes, stirring frequently.",
-    "Transfer the mixture to a serving dish and garnish with additional scotch bonnet peppers if desired."
+    "Transfer the mixture to a serving dish and garnish with additional scotch bonnet peppers if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -113,5 +114,9 @@
     "mainIngredient": "chili",
     "descriptor": "Zesty solo-dinner",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

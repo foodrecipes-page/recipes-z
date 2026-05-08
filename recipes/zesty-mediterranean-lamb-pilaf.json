@@ -75,7 +75,8 @@
     "Simmer for 20-25 minutes, or until rice is tender and liquid has been absorbed.",
     "Stir in chopped parsley, mint, lemon juice, and lemon zest.",
     "Season with salt and black pepper to taste.",
-    "Serve immediately, garnished with additional parsley if desired."
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -113,5 +114,9 @@
     "mainIngredient": "lamb",
     "descriptor": "zesty citrusy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

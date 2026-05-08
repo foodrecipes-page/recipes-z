@@ -3,7 +3,6 @@
   "description": "A citrusy and creamy Middle Eastern dish featuring duck confit leg and bonito shave, served in a bamboo tray.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,8 @@
     "Spoon the tabbouleh onto a bamboo tray and garnish with additional parsley and mint if desired.",
     "Cover the tray with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
     "Just before serving, give the tabbouleh a good stir and adjust the seasoning if necessary.",
-    "Serve the Zesty Middle Eastern Duck Tabbouleh chilled, straight from the bamboo tray."
+    "Serve the Zesty Middle Eastern Duck Tabbouleh chilled, straight from the bamboo tray.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -100,5 +100,10 @@
     "mainIngredient": "duck",
     "descriptor": "Zesty Citrusy",
     "dishForm": "Tabbouleh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

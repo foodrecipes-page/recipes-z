@@ -62,7 +62,8 @@
     "Add the chicken broth and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
     "Fluff the pilaf with a fork and season with salt, black pepper, and bhuna curry powder.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "porcini",
     "descriptor": "zesty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

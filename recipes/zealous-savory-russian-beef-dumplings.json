@@ -2,9 +2,7 @@
   "title": "Zealous Savory Russian Beef Dumplings",
   "description": "Savory Russian dumplings filled with beef and cheese, steamed to perfection in leaf wraps, featuring a hint of unsweetened cocoa for a unique flavor experience, perfect for a date night",
   "cuisine": "Russian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,8 @@
     "Bring a large pot of water to a boil and reduce the heat to a simmer.",
     "Place a steamer basket over the pot and add the dumplings to the basket, leaving space between each dumpling.",
     "Cover the pot with a lid and steam the dumplings for 15 minutes.",
-    "Wrap each dumpling in a napa cabbage leaf and serve hot."
+    "Wrap each dumpling in a napa cabbage leaf and serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -104,5 +103,10 @@
     "mainIngredient": "beef",
     "descriptor": "Zealous Savory",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

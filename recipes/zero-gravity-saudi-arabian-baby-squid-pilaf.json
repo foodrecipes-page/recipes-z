@@ -2,10 +2,7 @@
   "title": "Zero Gravity Saudi Arabian Baby Squid Pilaf",
   "description": "A malty, creamy, weeknight Saudi Arabian dish featuring baby squid, spherified for a unique texture, and dairy-free friendly",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "middle-eastern",
     "one-pan",
     "seafood",
@@ -97,5 +93,10 @@
     "mainIngredient": "baby squid",
     "descriptor": "Zero Gravity",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -64,7 +64,8 @@
     "Add the lemon juice, smoked paprika, salt, and black pepper, and stir to combine.",
     "Transfer the clay pot to the preheated oven and bake for 20 minutes.",
     "Remove the clay pot from the oven and let it cool for a few minutes.",
-    "Serve the paella valenciana hot, garnished with lemon wedges."
+    "Serve the paella valenciana hot, garnished with lemon wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "renkon lotus root",
     "descriptor": "Zesty Crispy",
     "dishForm": "Paella Valenciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

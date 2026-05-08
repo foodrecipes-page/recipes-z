@@ -3,8 +3,7 @@
   "description": "A garlicky and silky French dish featuring prunes, perfect for a date night, and suitable for flexitarian diets. This recipe is a delicious and flavorful way to enjoy prunes.",
   "cuisine": "French",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Reduce the heat to low and simmer for 20 minutes.",
     "Remove the bay leaves and stir in the butter until melted.",
     "Season with salt and pepper to taste.",
-    "Serve the prune confit warm, garnished with fresh thyme if desired."
+    "Serve the prune confit warm, garnished with fresh thyme if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +97,10 @@
     "mainIngredient": "prunes",
     "descriptor": "Zesty Silky",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

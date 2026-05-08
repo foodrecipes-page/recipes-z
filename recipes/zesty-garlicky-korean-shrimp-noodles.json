@@ -3,8 +3,7 @@
   "description": "A garlicky and indulgent Korean dish featuring shrimp, Korean chili paste, and bonito flakes, this recipe is a low-glycemic friendly option for dinner.",
   "cuisine": "Korean",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-food",
     "low-glycemic",
     "one-pan",
@@ -98,5 +96,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Zesty garlicky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

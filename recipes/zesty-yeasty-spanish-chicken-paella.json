@@ -63,7 +63,8 @@
     "Reduce heat to low and simmer, covered, for 10 minutes.",
     "Serve hot, garnished with fresh parsley or cilantro.",
     "Let it rest for 5 minutes before serving.",
-    "Serve with a side of roasted vegetables, if desired."
+    "Serve with a side of roasted vegetables, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Yeasty",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A buttery and pillowy weeknight Middle-Eastern dish featuring ground cardomom, brine-wet, ayurvedic-rajasic-friendly, form=musakhan, vessel=ti-leaf-wrap.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -112,5 +111,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Zesty Brine-Wet",
     "dishForm": "Ti-Leaf Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

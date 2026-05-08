@@ -69,11 +69,12 @@
     "Serve the salad chilled, garnished with additional parsley if desired.",
     "This salad can be made ahead of time and stored in the refrigerator for up to 24 hours.",
     "Before serving, give the salad a good stir and add any additional ingredients, such as crumbled feta cheese or sliced grilled chicken.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
@@ -107,5 +108,10 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "Zesty Crisp",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

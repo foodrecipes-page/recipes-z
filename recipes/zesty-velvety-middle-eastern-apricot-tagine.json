@@ -3,7 +3,6 @@
   "description": "A light and citrusy Middle Eastern dish featuring apricot jam and cooked to perfection with binchotan charcoal, this tagine is a flavorful and velvety delight. It is a perfect dish for those looking for a taste of the exotic without heavy spices.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -84,8 +83,7 @@
     "fruity",
     "gluten-free",
     "middle-eastern",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -110,5 +108,9 @@
     "mainIngredient": "apricots",
     "descriptor": "Zesty Velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

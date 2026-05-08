@@ -53,14 +53,14 @@
     },
     {
       "name": "Black pepper",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     }
   ],
   "instructions": [
     "Cut the flank steak into 2.5 cm cubes and season lightly with salt and pepper.",
     "Heat 1 tbsp of olive oil in a large Dutch oven over medium-high heat until shimmering.",
     "Sear the beef cubes in batches, cooking until all sides are browned; remove and set aside.",
-    "Add the remaining tablespoon of olive oil, then saut\u00e9 the diced onion until translucent.",
+    "Add the remaining tablespoon of olive oil, then sauté the diced onion until translucent.",
     "Add minced garlic and cook for an additional 30 seconds until fragrant.",
     "Stir in tomato paste, cooking for 1 minute to deepen the flavor.",
     "Pour in the beef broth, scraping up any browned bits from the bottom of the pan.",
@@ -79,7 +79,7 @@
     "mood": "brunch-mood",
     "technique": "braise",
     "primaryIngredient": "beef flank steak",
-    "diet": "pescatarian",
+    "diet": "non-vegetarian",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "beef",
@@ -100,5 +100,9 @@
   "tags": [
     "turkish",
     "breakfast"
+  ],
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

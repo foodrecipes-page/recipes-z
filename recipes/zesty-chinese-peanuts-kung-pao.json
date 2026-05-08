@@ -2,9 +2,7 @@
   "title": "Zesty Chinese Peanuts Kung Pao",
   "description": "A sweet and juicy Chinese dish featuring peanuts and gluten-free friendly ingredients, perfect for a sick day pick-me-up.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "tags": [
     "chinese-food",
     "deep-fry",
-    "gluten-free",
     "kung-pao",
     "peanut-recipes",
     "stir-fry"
@@ -101,5 +98,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Zesty",
     "dishForm": "Kung Pao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

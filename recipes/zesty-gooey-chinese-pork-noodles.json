@@ -3,7 +3,6 @@
   "description": "A sour and gooey Chinese dish featuring extra virgin olive oil and nuka-pickle, with anti-inflammatory friendly ingredients, this recipe is perfect for a dinner meal.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -58,7 +57,9 @@
     "Add the rice noodles and cook, stirring constantly, until the noodles are well coated with the sauce.",
     "Reduce heat to low and simmer, covered, for 10 minutes.",
     "Stir in the chopped green onions and serve hot.",
-    "Garnish with additional green onions and nuka-pickle, if desired."
+    "Garnish with additional green onions and nuka-pickle, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -69,7 +70,6 @@
     "anti-inflammatory",
     "chinese-food",
     "dairy-free",
-    "gluten-free",
     "noodle-dishes",
     "pork-recipes"
   ],
@@ -96,5 +96,11 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty Gooey",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

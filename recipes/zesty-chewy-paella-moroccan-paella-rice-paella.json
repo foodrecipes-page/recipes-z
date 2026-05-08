@@ -86,7 +86,8 @@
     "Use oven mitts to handle the hot ramekins.",
     "To prevent the rice from drying out, make sure to use a non-stick skillet and stir the rice frequently while it cooks.",
     "If using individual ramekins, be sure to grease them lightly with oil or cooking spray to prevent the rice from sticking.",
-    "Consider using a kitchen torch to lightly brown the top of the rice for a more golden-brown color."
+    "Consider using a kitchen torch to lightly brown the top of the rice for a more golden-brown color.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -125,5 +126,9 @@
     "mainIngredient": "paella rice",
     "descriptor": "Zesty Chewy Paella",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

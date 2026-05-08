@@ -3,7 +3,6 @@
   "description": "A traditional Polish dish featuring yeast and lardons, perfect for a midnight craving, this shojin-friendly recipe is dense and full of flavor, with a hint of grassy notes.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "snack",
@@ -95,5 +94,9 @@
     "mainIngredient": "yeast",
     "descriptor": "Zesty Dense",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

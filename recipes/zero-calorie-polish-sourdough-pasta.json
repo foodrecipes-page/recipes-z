@@ -3,8 +3,7 @@
   "description": "A fermented and fluffy Polish dish featuring bay leaves, made in a bain-marie for a low-calorie friendly meal",
   "cuisine": "Polish",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,5 +79,9 @@
     "mainIngredient": "sourdough",
     "descriptor": "Zero calorie",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

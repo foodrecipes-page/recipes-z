@@ -70,7 +70,8 @@
     "Add the cooked rice to the skillet or wok and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
     "Add the diced scallions, soy sauce, oyster sauce (if using), salt, and black pepper, and stir-fry for another 2-3 minutes, until the rice is well combined and heated through.",
     "Transfer the rice mixture to a serving platter and garnish with additional scallions, if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -108,5 +109,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Zesty Fried",
     "dishForm": "Yangzhou Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

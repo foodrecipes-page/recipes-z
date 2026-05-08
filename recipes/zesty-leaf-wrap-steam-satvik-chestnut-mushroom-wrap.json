@@ -4,7 +4,6 @@
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -96,8 +95,7 @@
     "donabe",
     "gluten-free",
     "indian",
-    "polish",
-    "vegan"
+    "polish"
   ],
   "nutrition": {
     "calories": 320,
@@ -122,5 +120,9 @@
     "mainIngredient": "chestnut mushroom",
     "descriptor": "zesty leaf-wrap-steam",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Zesty Smoked Hunan Penne Pasta",
   "description": "A fusion of Chinese Hunan flavors with the Italian classic Penne Pasta, made with tender smoked chicken and a tangy citrus sauce.",
   "cuisine": "Chinese-Italian fusion",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -113,5 +111,9 @@
     "mainIngredient": "Penne",
     "descriptor": "Zesty Smoked",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

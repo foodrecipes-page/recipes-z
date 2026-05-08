@@ -2,9 +2,7 @@
   "title": "Zesty Canadian Cashew Mousse",
   "description": "A plant‑based, citrus‑infused mousse that uses unflavoured gelatin for a silky texture, served on a rustic tagliere with a hint of maple sweetness and a touch of cayenne for zing.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
     "gelatin",
     "plant-based",
     "tagliere",
-    "vegan",
     "zesty"
   ],
   "nutrition": {
@@ -100,5 +97,9 @@
     "mainIngredient": "Cashew",
     "descriptor": "Zesty",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

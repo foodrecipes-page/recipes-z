@@ -55,7 +55,8 @@
     "Bring the mixture to a simmer and cook for 5 minutes, until the sauce has thickened and the beans are tender.",
     "Reduce the heat to low and let the skillet simmer for 2 minutes, until the sauce is molten and slightly caramelized.",
     "Serve the skillet hot, garnished with sliced green onions and sesame seeds if desired.",
-    "Let the dish rest for 1 minute before serving."
+    "Let the dish rest for 1 minute before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -93,5 +94,9 @@
     "mainIngredient": "Chinese long beans",
     "descriptor": "Zesty molten",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

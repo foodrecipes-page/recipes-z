@@ -52,7 +52,8 @@
     "Add the white wine to the skillet and bring to a boil, then reduce the heat to medium-low and simmer for 2 minutes",
     "Add the vanilla bean paste to the skillet and stir to combine",
     "Return the chicken to the skillet and toss to coat with the sauce",
-    "Flambe the skillet by igniting the wine sauce with a match or lighter, then simmer for an additional 2 minutes"
+    "Flambe the skillet by igniting the wine sauce with a match or lighter, then simmer for an additional 2 minutes",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

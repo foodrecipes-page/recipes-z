@@ -60,7 +60,8 @@
     "Sprinkle panko breadcrumbs over the cheese for a crunchy crust.",
     "Pour low-fat milk over the casserole, ensuring even coverage.",
     "Cover with foil and bake for 30 minutes, then remove foil and bake another 15 minutes until golden and bubbly.",
-    "Let rest for 5 minutes before serving."
+    "Let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -100,5 +101,9 @@
     "mainIngredient": "Baby Pak Koi",
     "descriptor": "Zesty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

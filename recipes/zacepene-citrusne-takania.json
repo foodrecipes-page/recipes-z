@@ -43,7 +43,8 @@
     "While chicken is cooking, mix Garlic Paste with Cooking Wine, Lemon Juice, and optional Citrus Zest to form a marinade.",
     "Once chicken is done, remove from tandoor and let it rest for a few minutes before slicing into small pieces.",
     "Drizzle the reserved marinade over sliced Tandoori Chicken.",
-    "Serve immediately as a snack or appetizer."
+    "Serve immediately as a snack or appetizer.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -78,7 +79,11 @@
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "citrus",
-    "descriptor": "Za\u010depen\u00e9",
+    "descriptor": "Začepené",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

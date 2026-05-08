@@ -3,8 +3,7 @@
   "description": "A cultured, tender one-pot French dish featuring succulent turkey necks and a coconut-cream crust, finished with fresh herbs.",
   "cuisine": "French",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,7 +88,8 @@
     "Season with salt and pepper, bring the mixture to a gentle simmer, cover, and cook for 30 minutes until the turkey necks are tender.",
     "Remove the lid, stir in fresh thyme, and let the sauce thicken for 5 minutes.",
     "Plate the casserole and garnish with chopped parsley.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -128,5 +128,10 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Zesty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

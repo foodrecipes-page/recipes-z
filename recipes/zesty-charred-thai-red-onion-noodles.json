@@ -4,7 +4,6 @@
   "cuisine": "Thai",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "lacto-vegetarian"
   ],
   "meal": "lunch",
@@ -79,7 +78,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "lacto-vegetarian",
     "meal-prep",
     "robata-grill",
@@ -108,5 +106,9 @@
     "mainIngredient": "Red Onion",
     "descriptor": "Zesty Charred",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

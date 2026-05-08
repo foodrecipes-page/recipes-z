@@ -3,7 +3,6 @@
   "description": "A pungent and shattering light polish dish featuring chicken wings, served in a Korean brass bowl. This dish is a perfect combination of spicy and sweet flavors.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "chicken wings",
     "descriptor": "Zesty Light",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

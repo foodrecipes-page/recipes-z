@@ -63,7 +63,8 @@
     "Remove the dish from the oven and stir in the chicken broth.",
     "Return the dish to the oven and bake for an additional 10 minutes.",
     "Remove the dish from the oven and let it cool for a few minutes.",
-    "Serve the tagine hot, garnished with fresh herbs if desired."
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "goats cheese",
     "descriptor": "Zero gravity fluffy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

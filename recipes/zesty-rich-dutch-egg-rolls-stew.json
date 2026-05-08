@@ -2,9 +2,7 @@
   "title": "Zesty Rich Dutch Egg Rolls Stew",
   "description": "A rich and aerated one-pot Dutch dish featuring egg rolls and tandoor flavors, vegan-friendly and perfect for a cold evening.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "egg rolls",
     "descriptor": "Zesty Rich",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

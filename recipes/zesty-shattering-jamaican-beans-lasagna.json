@@ -3,7 +3,6 @@
   "description": "A Caribbean twist on the classic lasagna, this dish combines the comforting flavors of Jamaican cuisine with the satisfaction of a hearty, buttery, cheesy lasagna. Perfect for a sick day or a cozy night in.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "anti-inflammatory-friendly"
   ],
   "meal": "dinner",
@@ -114,5 +113,9 @@
     "mainIngredient": "beans",
     "descriptor": "Zesty, Shattering",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

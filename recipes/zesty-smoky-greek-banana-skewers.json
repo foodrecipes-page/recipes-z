@@ -92,11 +92,15 @@
     "mood": "solo-dinner",
     "technique": "en-croute",
     "primaryIngredient": "banana",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "Banana",
     "descriptor": "Zesty Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

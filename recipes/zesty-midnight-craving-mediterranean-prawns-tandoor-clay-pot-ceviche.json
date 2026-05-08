@@ -3,8 +3,7 @@
   "description": "a refreshing and light dish perfect for a midnight craving, featuring succulent prawns, tangy Mediterranean flavors, and a touch of French sophistication in a unique tandoor clay pot presentation.",
   "cuisine": "French/Mediterranean",
   "diet": [
-    null,
-    "vegetarian"
+    null
   ],
   "meal": "snack",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "prawns",
     "descriptor": "Zesty midnight-craving",
     "dishForm": "Tandoor Clay Pot Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

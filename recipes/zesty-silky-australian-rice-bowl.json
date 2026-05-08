@@ -3,7 +3,6 @@
   "description": "A festive, grain‑centric bowl that marries sous‑vide infused Vialone Nano rice with crisp summer veggies, all finished on a hot tava‑griddle for silky texture and zesty flavor.",
   "cuisine": "Australian",
   "diet": [
-    "vegan",
     "jain"
   ],
   "meal": "dinner",
@@ -119,5 +118,9 @@
     "mainIngredient": "rice",
     "descriptor": "Zesty Silky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

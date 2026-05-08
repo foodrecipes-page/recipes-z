@@ -94,11 +94,15 @@
     "mood": "crowd-pleaser",
     "technique": "kombu-cold-extract",
     "primaryIngredient": "cabbage leaves",
-    "diet": "dairy-free",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "German",
     "mainIngredient": "cabbage",
     "descriptor": "Zesty Crispy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

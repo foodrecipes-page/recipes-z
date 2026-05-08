@@ -69,7 +69,8 @@
     "Reduce the heat to low, cover, and simmer for 25 minutes.",
     "Stir in the Greek yogurt and cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -107,5 +108,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

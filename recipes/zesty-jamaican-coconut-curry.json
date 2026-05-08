@@ -3,8 +3,7 @@
   "description": "A floral, gooey, energizing Jamaican dish that blends coconut milk, fresh lime, and spice into a silky curry, sugar‑free and packed with flavor.",
   "cuisine": "Jamaican",
   "diet": [
-    "sugar-free-friendly",
-    "vegan"
+    "sugar-free-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,8 +69,7 @@
     "floral",
     "low-carb",
     "one-pot",
-    "spicy",
-    "vegan"
+    "spicy"
   ],
   "nutrition": {
     "calories": 350,
@@ -96,5 +94,9 @@
     "mainIngredient": "Coconut",
     "descriptor": "Zesty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

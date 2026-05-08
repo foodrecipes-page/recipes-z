@@ -3,8 +3,7 @@
   "description": "A traditional Ethiopian dish featuring lamb, injera, and a blend of spices, with a dense and slightly bitter texture, made satvik-friendly by using no onions or garlic, and cooked to perfection using sous-vide techniques.",
   "cuisine": "Ethiopian",
   "diet": [
-    "satvik",
-    "gluten-free"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "dinner-ideas",
     "ethiopian-cuisine",
-    "gluten-free",
     "lamb-recipes",
     "satvik-friendly",
     "sous-vide-cooking"
@@ -90,5 +88,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty Dense",
     "dishForm": "Injera"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

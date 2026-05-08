@@ -2,9 +2,7 @@
   "title": "Zesty Glassy French Toffee Popcorn Quiche",
   "description": "A cultured, glassy-jelly, one-pot French dish featuring toffee popcorn, shio-koji-cure, and vegan-friendly ingredients in a quiche form.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,8 +62,7 @@
     "one-pot",
     "popcorn",
     "quiche",
-    "toffee",
-    "vegan"
+    "toffee"
   ],
   "nutrition": {
     "calories": 320,
@@ -90,5 +87,9 @@
     "mainIngredient": "toffee popcorn",
     "descriptor": "Zesty Glassy",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

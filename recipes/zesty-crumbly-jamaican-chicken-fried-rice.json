@@ -3,7 +3,6 @@
   "description": "A cultured and crumbly Jamaican dish featuring gochujang and ayurvedic tamasic friendly ingredients, this crowd pleaser is a must try. It combines the flavors of Jamaica with the spiciness of gochujang.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "jamaican-cuisine",
     "one-pan-meal",
     "spicy-food"
@@ -92,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Crumbly",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

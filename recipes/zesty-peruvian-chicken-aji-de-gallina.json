@@ -3,7 +3,6 @@
   "description": "A creamy and tangy Peruvian dish featuring chicken, hotsauce, and a dairy-free friendly sauce, perfect for a date-night dinner.",
   "cuisine": "Peruvian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "dairy-free",
     "date-night",
     "gluten-free",
     "peruvian-cuisine",
@@ -95,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Creamy",
     "dishForm": "Aji De Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

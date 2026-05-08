@@ -99,7 +99,8 @@
     "stir in the grated parmesan, fresh parsley, salt, black pepper, fennel seeds, ground cumin, lemon juice, and crushed red pepper.",
     "add the unsalted butter and stir until melted.",
     "season with additional salt and pepper if needed.",
-    "serve immediately and enjoy!"
+    "serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -136,5 +137,9 @@
     "mainIngredient": "fennel sausages",
     "descriptor": "zesty quick",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

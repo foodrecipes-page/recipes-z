@@ -53,7 +53,8 @@
     "While the chicken is cooking, combine 1 cup of water and 1 tablespoon of unflavored gelatin in a small saucepan and bring to a boil.",
     "Reduce the heat and simmer for 5 minutes, then remove from heat and let cool.",
     "Once the chicken is cooked, brush the glassy jelly sauce over the top of each skewer.",
-    "Serve the chicken skewers hot, garnished with additional makrut lime leaves if desired."
+    "Serve the chicken skewers hot, garnished with additional makrut lime leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Glassy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

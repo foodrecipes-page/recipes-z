@@ -77,7 +77,8 @@
     "Bake at 300°F for 2 1/2 hours, or until the meat is tender.",
     "Remove the pot from the oven and stir in the yeast and salt.",
     "Let the tagine rest for 10 minutes before serving.",
-    "Garnish with parsley and serve with crusty bread."
+    "Garnish with parsley and serve with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -116,5 +117,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty Yeasty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

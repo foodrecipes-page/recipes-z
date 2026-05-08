@@ -65,11 +65,12 @@
     "Add the toasted pita bread to the bowl and toss to combine with the milk mixture.",
     "Drizzle the remaining 2 tablespoons of olive oil over the top of the salad and toss again to combine.",
     "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
-    "Serve the salad cold, garnished with additional parsley if desired."
+    "Serve the salad cold, garnished with additional parsley if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
-  "totalTimeMin": 60,
+  "totalTimeMin": 30,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
@@ -104,5 +105,10 @@
     "mainIngredient": "milk",
     "descriptor": "Zesty Grassy",
     "dishForm": "Fattoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid",
+    "recomputed-totalTime"
+  ]
 }

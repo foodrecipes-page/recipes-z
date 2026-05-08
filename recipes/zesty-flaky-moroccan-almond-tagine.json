@@ -59,7 +59,8 @@
     "Transfer the mixture to a baking dish and pour in the chicken broth.",
     "Bake for 20 minutes, or until the liquid has been absorbed and the almonds are lightly toasted.",
     "Remove from the oven and let cool for 5 minutes before serving.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Zesty Flaky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

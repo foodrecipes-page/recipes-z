@@ -2,10 +2,7 @@
   "title": "Zesty Light Peruvian Semolina Rocoto Relleno",
   "description": "A light and zesty Peruvian dish featuring semolina rimacinata and rocoto relleno, perfect for a dinner meal, dairy-free friendly and cultured with namul blanch season.",
   "cuisine": "Peruvian",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,8 +78,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "one-pan",
     "peruvian-cuisine",
     "vegan-friendly",
@@ -111,5 +106,10 @@
     "mainIngredient": "semolina",
     "descriptor": "Zesty Light",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

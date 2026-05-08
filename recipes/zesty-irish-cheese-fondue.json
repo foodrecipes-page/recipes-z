@@ -4,8 +4,7 @@
   "cuisine": "Irish",
   "diet": [
     "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "easy",
   "tags": [
     "appetizer",
-    "dairy-free",
     "fondue",
     "gluten-free",
     "irish-cuisine",
@@ -102,5 +100,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Zesty Buttery",
     "dishForm": "Fondue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

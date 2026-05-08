@@ -73,7 +73,8 @@
     "press the edges together to seal the pastilla.",
     "use a sharp knife to cut a few slits in the top crust.",
     "place the pastilla on a baking sheet and brush with water.",
-    "bake in the preheated oven for 25-30 minutes, or until golden brown."
+    "bake in the preheated oven for 25-30 minutes, or until golden brown.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "beef tomatoes",
     "descriptor": "Zesty Crispy",
     "dishForm": "Pastilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

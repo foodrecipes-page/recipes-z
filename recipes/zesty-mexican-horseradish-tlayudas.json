@@ -2,10 +2,7 @@
   "title": "Zesty Mexican Horseradish Tlayudas",
   "description": "A fresh and comforting Mexican dish featuring horseradish and bonito shave, served in a Korean brass bowl. This ayurvedic tamasic friendly recipe is perfect for a snack or light meal.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -59,7 +56,6 @@
   "difficulty": "easy",
   "tags": [
     "ayurvedic-recipes",
-    "gluten-free",
     "horseradish-recipes",
     "korean-brass-bowl",
     "mexican-food",
@@ -88,5 +84,10 @@
     "mainIngredient": "horseradish",
     "descriptor": "Zesty Chewy",
     "dishForm": "Tlayudas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

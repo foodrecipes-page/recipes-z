@@ -2,10 +2,7 @@
   "title": "Zesty Dense Mediterranean Lentil Tagine",
   "description": "A sour and dense Mediterranean dish featuring ground ginger and bonito flakes, perfect for midnight cravings. This shojin-friendly recipe is a hearty and flavorful option for a satisfying meal.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +87,10 @@
     "mainIngredient": "lentils",
     "descriptor": "Zesty Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

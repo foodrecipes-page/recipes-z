@@ -59,7 +59,8 @@
     "Crumble the Stilton cheese into the fondue pot and stir until melted and smooth.",
     "Season the tagine with salt and pepper to taste.",
     "Use a spoon to shape the tagine into nigiri-like portions.",
-    "Garnish with chopped fresh parsley and serve immediately."
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "stilton cheese",
     "descriptor": "Zesty Molten",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

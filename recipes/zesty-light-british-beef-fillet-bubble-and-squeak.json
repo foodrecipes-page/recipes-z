@@ -2,9 +2,7 @@
   "title": "Zesty Light British Beef Fillet Bubble And Squeak",
   "description": "A herbal and light British dish featuring beef fillet, perfect for a weeknight dinner, pescatarian-friendly by substituting beef with a fish fillet if needed.",
   "cuisine": "British",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "beef fillet",
     "descriptor": "Zesty Light",
     "dishForm": "Bubble And Squeak"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

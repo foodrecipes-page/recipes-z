@@ -3,7 +3,6 @@
   "description": "A smoky and gooey Ukrainian dish featuring celeriac, perfect for a cozy dinner, and easily made dairy-free-friendly",
   "cuisine": "Ukrainian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "one-pan",
     "smoky",
     "ukrainian",
@@ -97,5 +95,9 @@
     "mainIngredient": "celeriac",
     "descriptor": "Zesty Smoky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

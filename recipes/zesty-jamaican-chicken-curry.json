@@ -84,7 +84,8 @@
     "Add chicken pieces, browning them on all sides for 5 minutes, then pour in white wine to deglaze the pot.",
     "Pour in low-sodium chicken broth and coconut milk, bring to a gentle simmer, reduce heat and cover, cooking for 25 minutes until chicken is tender.",
     "Stir in lime juice, thyme, and season with salt and pepper, simmering for an additional 5 minutes to meld flavors.",
-    "Garnish with fresh cilantro before serving over steamed rice."
+    "Garnish with fresh cilantro before serving over steamed rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -122,5 +123,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Zesty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

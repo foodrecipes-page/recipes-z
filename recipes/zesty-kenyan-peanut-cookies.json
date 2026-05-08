@@ -51,7 +51,8 @@
     "Scoop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.",
     "Bake for 12 minutes or until lightly golden.",
     "Remove from the oven and let cool on the baking sheet for 5 minutes.",
-    "Transfer the cookies to a wire rack to cool completely."
+    "Transfer the cookies to a wire rack to cool completely.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -90,5 +91,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Zesty Lazy",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

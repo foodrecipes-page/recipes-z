@@ -72,7 +72,8 @@
     "Pour in chicken broth, unsweetened almond milk, lemon juice, and a pinch of salt, then close the pressure cooker lid.",
     "Seal and cook on high pressure for 10 minutes.",
     "Quick release the pressure, then stir in fresh parsley.",
-    "Serve hot, optionally garnished with additional parsley, with a side of steamed cauliflower rice."
+    "Serve hot, optionally garnished with additional parsley, with a side of steamed cauliflower rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -110,5 +111,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Zesty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

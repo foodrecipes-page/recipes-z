@@ -102,11 +102,15 @@
     "mood": "brunch-mood",
     "technique": "broil",
     "primaryIngredient": "vegetable stock",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "vegetables",
     "descriptor": "Zesty Earthy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

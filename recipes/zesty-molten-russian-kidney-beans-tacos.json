@@ -3,8 +3,7 @@
   "description": "savor the flavor of molten kidney beans with a hint of russian flair, perfectly seasoned and served in a molcajete",
   "cuisine": "russian",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -113,5 +112,9 @@
     "mainIngredient": "kidney beans",
     "descriptor": "zesty molten",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

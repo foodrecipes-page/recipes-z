@@ -3,8 +3,7 @@
   "description": "A sweet and shattering Syrian dish featuring cream of tartar, perfect for a weeknight dinner, and friendly to all diets including Buddhist temple friendly",
   "cuisine": "Syrian",
   "diet": [
-    "halal",
-    "kosher"
+    "halal"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Cook the kebabs in the air fryer for 10 minutes, shaking halfway through",
     "In a small bowl, whisk together lemon juice and honey",
     "Brush the lemon honey mixture onto the kebabs during the last minute of cooking",
-    "Serve the kebabs hot, garnished with fresh parsley or thyme"
+    "Serve the kebabs hot, garnished with fresh parsley or thyme",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -92,5 +92,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Zero gravity crispy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

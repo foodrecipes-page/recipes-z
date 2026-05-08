@@ -3,7 +3,6 @@
   "description": "A tangy and airy Greek-inspired baklava made with spiced lentils, dashi, and binchotan charcoal, perfect for a hangover cure.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "jain"
   ],
   "meal": "dessert",
@@ -85,8 +84,7 @@
     "greece",
     "hangover-cure",
     "jain",
-    "nut-free",
-    "vegan"
+    "nut-free"
   ],
   "nutrition": {
     "calories": 112,
@@ -111,5 +109,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Zesty",
     "dishForm": "Baklava"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

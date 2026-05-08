@@ -51,7 +51,8 @@
     "Melt the tempering chocolate in a double boiler and stir into the pork mixture.",
     "Season with salt and black pepper to taste.",
     "Spoon the pork mixture into an agave leaf vessel and serve hot.",
-    "Garnish with additional bitter melon slices, if desired."
+    "Garnish with additional bitter melon slices, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -89,5 +90,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty Light",
     "dishForm": "Bicol Express"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

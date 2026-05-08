@@ -3,8 +3,7 @@
   "description": "A citrusy, crispy Slovakian dish featuring crustaceans, wrapped in pandan leaves, perfect for a sick day, this sugar-free-friendly empanada is a unique twist on traditional cuisine. The combination of flavors and textures will leave you wanting more.",
   "cuisine": "Slovakian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "crustaceans",
     "descriptor": "Zesty Crispy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -59,7 +59,8 @@
     "Add the browned lamb, chicken broth, tomato paste, and green olives to the pot.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
     "Stir in the chopped parsley and season with salt and pepper to taste.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -97,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty Crunchy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

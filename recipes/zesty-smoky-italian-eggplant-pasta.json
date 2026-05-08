@@ -3,8 +3,7 @@
   "description": "A sour and smoky Italian dish featuring pea eggplant, perfect for a date night, and friendly to Buddhist temple dietary preferences. This glassy-jelly textured pasta is sure to impress.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
     "one-pot",
     "smoky",
     "sour",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -95,5 +93,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Zesty Smoky",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

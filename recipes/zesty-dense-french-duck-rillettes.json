@@ -58,7 +58,8 @@
     "Shred the duck into small pieces and mix with white chocolate chips.",
     "Serve the rillettes chilled, garnished with fresh thyme.",
     "Store any leftovers in an airtight container in the refrigerator.",
-    "Reheat the rillettes gently before serving."
+    "Reheat the rillettes gently before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -95,5 +96,9 @@
     "mainIngredient": "duck",
     "descriptor": "Zesty Dense",
     "dishForm": "Rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -54,7 +54,8 @@
     "add the cox apple to the donabe and stir to combine",
     "bring the mixture to a boil, then reduce the heat to low and cover the donabe",
     "simmer for 15-20 minutes until the liquid has been absorbed and the rice is tender",
-    "fluff the pilaf with a fork and top with chopped fresh parsley"
+    "fluff the pilaf with a fork and top with chopped fresh parsley",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "Cox-Apple",
     "descriptor": "Zesty Citrusy Zing",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -57,7 +57,8 @@
     "Add the katsuramuki-cut kabocha squash and cook for 5 minutes, until slightly tender.",
     "Add the chicken broth, dried thyme, salt, and black pepper, and stir to combine.",
     "Reduce heat to medium-low and simmer, covered, for 15 minutes, until the squash is tender.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -95,5 +96,9 @@
     "mainIngredient": "kabocha",
     "descriptor": "Zesty Garlicky",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

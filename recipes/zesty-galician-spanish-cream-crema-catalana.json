@@ -2,9 +2,7 @@
   "title": "Zesty Galician Spanish Cream Crema Catalana",
   "description": "Bitter, light, and nostalgic Spanish (Galician) dessert featuring white wine vinegar.",
   "cuisine": "Galician",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -50,7 +48,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 80,
+  "totalTimeMin": 35,
   "servings": 6,
   "difficulty": "hard",
   "tags": [
@@ -58,7 +56,6 @@
     "dessert",
     "galician",
     "spanish",
-    "vegan",
     "white-wine-vinegar"
   ],
   "nutrition": {
@@ -84,5 +81,10 @@
     "mainIngredient": "cream",
     "descriptor": "Zesty Galician",
     "dishForm": "Crema Catalana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

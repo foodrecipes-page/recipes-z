@@ -76,8 +76,7 @@
     "macrobiotic",
     "one-pan",
     "spicy-food",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -102,5 +101,9 @@
     "mainIngredient": "carnaroli rice",
     "descriptor": "Zesty",
     "dishForm": "Som Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

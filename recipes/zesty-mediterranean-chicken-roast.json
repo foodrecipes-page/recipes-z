@@ -95,11 +95,15 @@
     "mood": "sick-day",
     "technique": "wok-hei",
     "primaryIngredient": "pomegranate molasses",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "chicken",
     "descriptor": "Zesty",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

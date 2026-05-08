@@ -66,7 +66,8 @@
     "reduce heat to low, cover, and simmer for 20-25 minutes, stirring occasionally.",
     "remove from heat, season with sea salt to taste, and garnish with parsley.",
     "let stand 5 minutes before serving.",
-    "serve hot."
+    "serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Smoke-Hot",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fermented, fluffy soup that blends sweet beets with zesty lemon and creamy tahini for a nourishing, macrobiotic-friendly meal.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
     "macrobiotic"
   ],
   "meal": "lunch",
@@ -71,7 +70,6 @@
     "macrobiotic",
     "quick",
     "soupy",
-    "vegan",
     "zesty"
   ],
   "nutrition": {
@@ -97,5 +95,9 @@
     "mainIngredient": "Beet",
     "descriptor": "Zesty",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

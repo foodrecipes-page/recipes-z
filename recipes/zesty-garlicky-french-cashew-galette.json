@@ -3,8 +3,7 @@
   "description": "A quick and flavorful French dish featuring cashews and coconut cream, perfect for a weeknight dinner. This ayurvedic-sattvic-friendly galette is garlicky and bouncy, with a delicious crust.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "tags": [
     "cashew-based",
     "french-cuisine",
-    "gluten-free",
     "one-pan",
     "vegetarian",
     "weeknight"
@@ -88,5 +86,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Zesty Garlicky",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

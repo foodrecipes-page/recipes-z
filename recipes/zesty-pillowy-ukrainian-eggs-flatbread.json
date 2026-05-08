@@ -3,8 +3,7 @@
   "description": "A garlicky, pillowy Ukrainian dish perfect for brunch, featuring red pepper paste and double-rise bread.",
   "cuisine": "ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "Eggs",
     "descriptor": "Zesty, Pillowy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A solo dinner dish featuring rice flour pancakes with a funky and gooey twist, made with sauteed ingredients and no added sugar, perfect for a solo dinner",
   "cuisine": "Ukrainian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "sugar-free",
     "ukrainian-cuisine",
@@ -107,5 +105,9 @@
     "mainIngredient": "pancakes",
     "descriptor": "Zesty Gooey",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

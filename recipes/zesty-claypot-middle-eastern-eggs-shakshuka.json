@@ -3,7 +3,6 @@
   "description": "A flavorful and nutritious Shakshuka recipe made with fresh eggs, spices, and vegetables in a claypot, perfect for a date night dinner.",
   "cuisine": "middle eastern",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -111,5 +110,9 @@
     "mainIngredient": "eggs",
     "descriptor": "Zesty Claypot",
     "dishForm": "Shakshuka"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

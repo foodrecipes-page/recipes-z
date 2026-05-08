@@ -2,9 +2,7 @@
   "title": "Zesty Dense Ukrainian Turkey Neck Stew",
   "description": "A hearty and rich Ukrainian stew made with turkey neck, perfect for a date night dinner, and can be adapted to be vegan friendly by substituting the traditional sour cream with a vegan alternative.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Add the turkey neck, paprika, salt, and pepper, and stir to combine.",
     "Pour in enough water to cover the ingredients and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
-    "Stir in the vegan sour cream and serve hot."
+    "Stir in the vegan sour cream and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -98,5 +97,10 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Zesty Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

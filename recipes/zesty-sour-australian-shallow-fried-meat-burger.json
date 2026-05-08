@@ -3,7 +3,6 @@
   "description": "Egg-free burger recipe featuring a zesty sour basting sauce, shallow frying and a crispy agave leaf vessel. A bold and adventurous Australian twist on the classic burger.",
   "cuisine": "australian",
   "diet": [
-    "gluten-free",
     "egg-free",
     "pescetarian"
   ],
@@ -88,7 +87,6 @@
   "tags": [
     "australian",
     "dinner-party",
-    "gluten-free",
     "meat-lovers",
     "pescetarian"
   ],
@@ -115,5 +113,9 @@
     "mainIngredient": "shallow-fried meat",
     "descriptor": "zesty sour",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

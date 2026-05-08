@@ -3,7 +3,6 @@
   "description": "A refreshing and healthy meal-prep dish featuring the sweetness of Korean-pear, steamed to perfection in a papillote. This jain-friendly recipe serves as a light and revitalizing meal.",
   "cuisine": "croatian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -89,5 +88,9 @@
     "mainIngredient": "Pear",
     "descriptor": "Zesty Steamed",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -100,11 +100,15 @@
     "mood": "solo-dinner",
     "technique": "marinate",
     "primaryIngredient": "puy-lentils",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "lentils",
     "descriptor": "Zesty",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

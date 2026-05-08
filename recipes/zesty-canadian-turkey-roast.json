@@ -59,7 +59,8 @@
     "Sear the turkey breast on all sides until a golden crust forms, about 2 minutes per side.",
     "Pour the reserved applesauce into the scallop‑shell and stir gently to combine with the pan juices.",
     "Return the seared turkey to the vessel and bake in a preheated oven at 375°F (190°C) for 15 minutes.",
-    "Let the roast rest for 10 minutes before slicing and serving."
+    "Let the roast rest for 10 minutes before slicing and serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -97,5 +98,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Zesty",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -52,7 +52,8 @@
     "Place a tablespoon of the beef mixture onto the center of each dough circle.",
     "Brush the edges of the dough with the beaten egg and fold the dough in half to form a half moon shape.",
     "Press the edges of the dough together to seal the empanada.",
-    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes, or until golden brown."
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "Zesty Silky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

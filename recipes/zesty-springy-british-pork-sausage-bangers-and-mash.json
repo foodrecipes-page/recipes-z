@@ -72,7 +72,8 @@
     "Return the sausages to the pan and stir to coat with the potato mixture.",
     "Reduce heat to low and simmer for 5 minutes.",
     "Serve the bangers and mash hot, garnished with chopped peanuts if desired.",
-    "Adjust seasoning as needed."
+    "Adjust seasoning as needed.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -109,5 +110,9 @@
     "mainIngredient": "Pork Sausage",
     "descriptor": "Zesty Springy",
     "dishForm": "Bangers and Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

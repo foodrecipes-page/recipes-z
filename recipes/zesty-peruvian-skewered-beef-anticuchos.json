@@ -4,8 +4,7 @@
   "cuisine": "Peruvian",
   "diet": [
     "vegan-friendly",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -82,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "cheese-pull",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "peruvian",
@@ -108,11 +106,16 @@
     "mood": "romantic",
     "technique": "mushimono-steam",
     "primaryIngredient": "rose water",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Peruvian",
     "mainIngredient": "skewered beef",
     "descriptor": "Zesty",
     "dishForm": "Anticuchos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "aligned-axes-diet"
+  ]
 }

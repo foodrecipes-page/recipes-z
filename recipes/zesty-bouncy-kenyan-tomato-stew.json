@@ -82,7 +82,6 @@
     "herbal",
     "kenyan",
     "tandoor",
-    "vegan",
     "zesty"
   ],
   "nutrition": {
@@ -108,5 +107,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Zesty Bouncy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

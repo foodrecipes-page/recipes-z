@@ -77,7 +77,8 @@
     "Roll chilled dough onto floured surface to 12-inch circle; transfer to a 9-inch tart pan, pressing into bottom and sides; trim.",
     "Spoon the chicken mixture evenly over crust; pour the egg mixture over, filling about 3/4 cup.",
     "Bake for 30 minutes until crust is golden and custard set; let rest 5 min before slicing.",
-    "Serve warm with a side of mixed greens."
+    "Serve warm with a side of mixed greens.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -115,5 +116,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

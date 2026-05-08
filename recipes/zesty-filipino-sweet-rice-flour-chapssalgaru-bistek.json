@@ -3,8 +3,7 @@
   "description": "A tangy and springy Filipino dish featuring sweet rice flour chapssalgaru, braised in a flavorful sauce and served in a scallop shell, perfect for a romantic dinner.",
   "cuisine": "Filipino",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
     "asian-cuisine",
     "filipino-food",
     "fodmap-friendly",
-    "gluten-free",
     "romantic-dinner",
     "seafood-recipes"
   ],
@@ -101,5 +99,9 @@
     "mainIngredient": "sweet rice flour chapssalgaru",
     "descriptor": "Zesty Springy",
     "dishForm": "Bistek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

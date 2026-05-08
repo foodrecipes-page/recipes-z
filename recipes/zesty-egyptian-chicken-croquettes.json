@@ -3,8 +3,7 @@
   "description": "These peppery, springy chicken croquettes are coated in sesame seeds and pan-fried to a golden crisp, perfect for a low-sodium date night.",
   "cuisine": "Egyptian",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "dinner",
     "egyptian",
-    "gluten-free",
     "low-sodium",
     "quick-serve"
   ],
@@ -101,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

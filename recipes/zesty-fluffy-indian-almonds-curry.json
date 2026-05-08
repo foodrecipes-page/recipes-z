@@ -2,9 +2,7 @@
   "title": "Zesty Fluffy Indian Almonds Curry",
   "description": "A one-pot, nutty curry that blends toasted almonds, plum jam, and savory dashi extract into a fluffy, aromatic dish perfect for a quick lunch.",
   "cuisine": "Indian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "nutty",
     "one-pot",
     "quick",
-    "raw-friendly",
-    "vegetarian"
+    "raw-friendly"
   ],
   "nutrition": {
     "calories": 380,
@@ -104,5 +101,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Zesty Fluffy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A classic British dish featuring pre-fried sausages in a bitter and savory Yorkshire pudding batter, served with a sweet and tangy Mediterranean-inspired glaze.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -88,5 +87,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Zesty Bitter",
     "dishForm": "Toad In The Hole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

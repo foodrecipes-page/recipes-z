@@ -4,7 +4,6 @@
   "cuisine": "Italian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free",
     "low-carb"
   ],
@@ -123,5 +122,9 @@
     "mainIngredient": "millet",
     "descriptor": "Zesty Molten",
     "dishForm": "Saltimbocca"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

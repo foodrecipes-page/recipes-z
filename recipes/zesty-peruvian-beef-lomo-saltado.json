@@ -103,11 +103,15 @@
     "mood": "monsoon",
     "technique": "salt-bake",
     "primaryIngredient": "vanilla pod",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Peruvian",
     "mainIngredient": "beef",
     "descriptor": "Zesty",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

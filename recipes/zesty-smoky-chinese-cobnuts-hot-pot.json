@@ -62,7 +62,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Add the chopped cobnuts and cook for an additional 5 minutes, or until they are caramelized and tender.",
     "Stir in the chopped green onions and sesame oil.",
-    "Serve the hot pot hot, with additional soy sauce and sesame oil on the side if desired."
+    "Serve the hot pot hot, with additional soy sauce and sesame oil on the side if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "cobnuts",
     "descriptor": "Zesty Smoky",
     "dishForm": "Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

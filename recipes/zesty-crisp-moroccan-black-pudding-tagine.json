@@ -67,7 +67,8 @@
     "Pour the chicken broth into the skillet and bring the mixture to a boil.",
     "Transfer the skillet to the preheated oven and bake for 20 minutes.",
     "Remove the skillet from the oven and sprinkle the chopped parsley over the top.",
-    "Serve the zesty crisp Moroccan black pudding tagine in a ramekin."
+    "Serve the zesty crisp Moroccan black pudding tagine in a ramekin.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -104,5 +105,9 @@
     "mainIngredient": "black pudding",
     "descriptor": "Zesty Crisp",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

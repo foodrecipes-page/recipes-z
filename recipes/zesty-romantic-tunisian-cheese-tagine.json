@@ -3,7 +3,6 @@
   "description": "A mustardy and snappy Tunisian dish featuring shredded Monterey Jack cheese, perfect for a romantic evening, with anti-inflammatory friendly ingredients and a touch of sweetness from candy",
   "cuisine": "Tunisian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "cheese-lovers",
-    "gluten-free",
     "one-pot",
     "romantic-dinner",
     "tunisian-cuisine",
@@ -98,5 +96,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Zesty Romantic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

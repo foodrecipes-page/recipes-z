@@ -4,7 +4,6 @@
   "cuisine": "Kenyan",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Zesty Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

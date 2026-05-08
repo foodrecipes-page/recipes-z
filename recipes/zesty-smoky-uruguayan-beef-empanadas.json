@@ -58,7 +58,8 @@
     "Fold the pastry in half to form a triangle or square shape and press the edges together to seal.",
     "Place the empanadas in the prepared claypot and brush with olive oil.",
     "Pour the beef broth into the claypot and cover with a lid.",
-    "Bake the empanadas in the preheated oven for 25 minutes."
+    "Bake the empanadas in the preheated oven for 25 minutes.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "Zesty Smoky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

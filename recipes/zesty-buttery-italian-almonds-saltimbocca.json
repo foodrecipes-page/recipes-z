@@ -3,7 +3,6 @@
   "description": "A light and crunchy Italian dish featuring nuts in a saltimbocca form, served on a lazy-susan-spinner, dairy-free-friendly.",
   "cuisine": "Italian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -59,7 +58,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "easy-appetizers",
     "italian-inspired",
     "lazy-susan",
@@ -89,5 +87,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Zesty Buttery",
     "dishForm": "Saltimbocca"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

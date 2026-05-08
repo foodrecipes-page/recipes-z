@@ -3,8 +3,7 @@
   "description": "tender pork, sweet molasses, and fresh cilantro come together in this vibrant, spring-inspired recipe. perfect for a weeknight dinner or weekend gathering.",
   "cuisine": "mexican",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -104,7 +103,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "mexican",
     "one-pan",
     "spring",
@@ -134,5 +132,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty Springy Grilled",
     "dishForm": "Tacos Al Pastor"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

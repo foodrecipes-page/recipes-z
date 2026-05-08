@@ -3,7 +3,6 @@
   "description": "A flavorful, pillowy, and crowd-pleasing Japanese dish from the Kanto region featuring lentils and a zesty sauce.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "fodmap-friendly",
     "vegetarian"
   ],
@@ -122,5 +121,9 @@
     "mainIngredient": "Lentils",
     "descriptor": "Zesty and Zingy",
     "dishForm": "Kanto Tan-Tan-Udon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

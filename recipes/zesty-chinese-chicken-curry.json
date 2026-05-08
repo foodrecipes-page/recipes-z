@@ -64,7 +64,8 @@
     "Pour in the coconut milk and bring the mixture to a gentle simmer, stirring occasionally.",
     "Add the orange blossom water and lime juice, then season with salt and pepper, and let it cook for 10 minutes until the sauce thickens and the chicken is tender.",
     "Taste and adjust seasoning if needed, adding more salt, pepper, or lime juice to achieve the desired balance.",
-    "Serve hot over cauliflower rice or steamed bok choy for a complete keto-friendly meal."
+    "Serve hot over cauliflower rice or steamed bok choy for a complete keto-friendly meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fermented, flaky, quick-fix Thai dish that's vegetarian-friendly and easy to make. With only a few ingredients and some patience, you can enjoy this zesty condiment in no time.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -75,5 +74,9 @@
     "mainIngredient": "chili",
     "descriptor": "Zesty Fermented",
     "dishForm": "Nam Prik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

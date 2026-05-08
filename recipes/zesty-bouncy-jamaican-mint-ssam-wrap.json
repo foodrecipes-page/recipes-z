@@ -75,7 +75,8 @@
     "Place a few slices of grilled chicken breast in the center of the leaf.",
     "Add a spoonful of mint sauce on top of the chicken.",
     "Fold the bottom half of the leaf up over the filling, then fold in the sides and roll up the wrap to form a snug package.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -114,5 +115,9 @@
     "mainIngredient": "Mint",
     "descriptor": "Zesty Bouncy",
     "dishForm": "Ssam-Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

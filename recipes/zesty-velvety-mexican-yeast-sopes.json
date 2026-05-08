@@ -3,8 +3,7 @@
   "description": "A floral and velvety Mexican dish featuring yeast, served in a scallop shell vessel, this recipe is a unique and adventurous take on traditional sopes, with a fodmap-friendly twist.",
   "cuisine": "Mexican",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "tags": [
     "adventurous-eats",
     "fodmap-friendly",
-    "gluten-free",
     "mexican-cuisine",
     "scalloped-vessel",
     "yeast-based"
@@ -94,5 +92,9 @@
     "mainIngredient": "yeast",
     "descriptor": "Zesty Velvety",
     "dishForm": "Sopes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

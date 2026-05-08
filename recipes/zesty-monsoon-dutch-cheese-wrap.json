@@ -52,7 +52,8 @@
     "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
     "Serve immediately and enjoy.",
     "Repeat with remaining ingredients.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -91,5 +92,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Zesty Monsoon",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

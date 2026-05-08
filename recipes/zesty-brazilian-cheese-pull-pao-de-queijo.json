@@ -92,7 +92,6 @@
   "tags": [
     "brazilian",
     "cheese-pull",
-    "dairy-free",
     "snack",
     "weeknight"
   ],
@@ -119,5 +118,9 @@
     "mainIngredient": "cheese-pull",
     "descriptor": "zesty",
     "dishForm": "Pão de Queijo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Zesty Crispy Malaysian Broccoli Skillet",
   "description": "A malty, crispy, and cozy Malaysian dish featuring purple-sprouting-broccoli, this recipe is perfect for a weeknight dinner. It is halal-friendly and cooked to perfection in a cazuela.",
   "cuisine": "Malaysian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "broccoli",
     "descriptor": "Zesty Crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

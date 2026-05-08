@@ -3,8 +3,7 @@
   "description": "A weeknight Ukrainian dish featuring roasted Chinese broccoli in a stone bowl, ayurvedic tamasic friendly, and made with simple ingredients.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "one-pan",
     "roasted-vegetables",
     "vegetarian",
@@ -89,5 +87,9 @@
     "mainIngredient": "chinese broccoli",
     "descriptor": "Zesty Roasted",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

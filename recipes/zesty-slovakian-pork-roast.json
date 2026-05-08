@@ -62,7 +62,8 @@
     "Roast for 100 minutes, covering if the top begins to brown.",
     "Turn oven temperature to 220C and broil for 5 minutes until the crust is golden.",
     "Remove the roast, let it rest for 10 minutes before slicing.",
-    "Serve slices with roasted vegetables."
+    "Serve slices with roasted vegetables.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 100,
@@ -101,5 +102,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

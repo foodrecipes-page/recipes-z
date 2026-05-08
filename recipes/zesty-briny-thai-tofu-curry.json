@@ -3,7 +3,6 @@
   "description": "A weeknight Thai dish featuring marinated tofu and ferment-jang, this curry is a perfect blend of briny and gooey flavors, all in a vegan-friendly package.",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -88,5 +87,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Zesty Briny",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

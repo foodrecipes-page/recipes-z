@@ -3,7 +3,6 @@
   "description": "A roasted, tender, and comforting Korean dish featuring scamorza, boiled to perfection and served as a mitbanchan, with a dairy-free friendly twist, cooked on a comal.",
   "cuisine": "Korean",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -59,7 +58,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "korean-cuisine",
     "one-pan",
     "roasted-vegetables"
@@ -87,5 +85,9 @@
     "mainIngredient": "scamorza",
     "descriptor": "Zesty Roasted",
     "dishForm": "Mitbanchan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

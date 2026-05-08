@@ -4,8 +4,7 @@
   "cuisine": "British",
   "diet": [
     "plant-based",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -87,5 +86,9 @@
     "mainIngredient": "fennel",
     "descriptor": "Zesty Earthy",
     "dishForm": "Spotted Dick Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

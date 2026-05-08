@@ -44,7 +44,8 @@
     "Place chicken on hot-stone plate and marinate for 10 minutes.",
     "In a pan, sauté ginger slices with marsala wine until reduced by half.",
     "Serve the char-grilled chicken with its marinade sauce over rice or noodles.",
-    "Optional: Garnish with scallions (green onions) and sesame seeds."
+    "Optional: Garnish with scallions (green onions) and sesame seeds.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -83,5 +84,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Char-Grilled",
     "dishForm": "Zingeroni Yakitori Hot-Stone-Plate"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

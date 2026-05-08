@@ -3,8 +3,7 @@
   "description": "A hearty and savory Sardinian stew made with brown lentils and a zesty glaze, perfect for a midnight craving. This pescatarian-friendly dish is cooked to perfection in a fondue pot.",
   "cuisine": "Italian",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "brown lentils",
     "descriptor": "Zesty Glazed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

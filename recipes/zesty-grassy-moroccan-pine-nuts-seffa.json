@@ -3,8 +3,7 @@
   "description": "A kid-friendly Moroccan dish featuring pine nuts, with a grassy and crumbly texture, made with ayurvedic-rajasic-friendly ingredients and a zesty flavor, in the form of seffa.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "pine nuts",
     "descriptor": "Zesty Grassy",
     "dishForm": "Seffa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

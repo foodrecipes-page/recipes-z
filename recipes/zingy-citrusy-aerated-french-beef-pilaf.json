@@ -82,7 +82,8 @@
     "Add lemon juice, orange zest, egg, kosher salt, and black pepper. Cook, stirring constantly, until the mixture is smooth and creamy, about 5 minutes.",
     "Cut the beef cutlet into thin strips and add to the saucepan. Cook for 1-2 minutes, until heated through.",
     "Stir in Gruyere cheese and cook until melted and bubbly, about 1 minute.",
-    "Garnish with fresh parsley, fennel fronds, and serve immediately."
+    "Garnish with fresh parsley, fennel fronds, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -120,5 +121,9 @@
     "mainIngredient": "beef",
     "descriptor": "zingy citrusy aerated",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -64,7 +64,8 @@
     "Roll out each ball of dough into a thin circle and place a tablespoon of the beef mixture in the center of each circle.",
     "Fold the dough over the filling to form a half-circle shape and press the edges together to seal the pirozhki.",
     "Place the pirozhki on a baking sheet lined with parchment paper and brush the tops with a little bit of water.",
-    "Bake the pirozhki in the preheated oven for 20 minutes, or until golden brown."
+    "Bake the pirozhki in the preheated oven for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "beef",
     "descriptor": "Zesty Smoky",
     "dishForm": "Pirozhki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

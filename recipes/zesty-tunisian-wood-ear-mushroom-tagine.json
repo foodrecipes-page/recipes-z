@@ -3,8 +3,7 @@
   "description": "Savory and velvety Tunisian dish featuring wood ear mushrooms, perfect for a date night, this recipe is low in glycemic index and cooked to perfection in a molcajete.",
   "cuisine": "Tunisian",
   "diet": [
-    "low-glycemic",
-    "vegetarian"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Add the soaked wood ear mushrooms, dates, chicken broth, salt, and black pepper to the molcajete.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Use a spoon to occasionally stir and caramelize the mixture.",
-    "Serve the tagine hot, garnished with fresh herbs if desired."
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -74,8 +74,7 @@
     "low-glycemic",
     "mushroom",
     "one-pot",
-    "tunisian",
-    "vegetarian"
+    "tunisian"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +99,10 @@
     "mainIngredient": "wood ear mushrooms",
     "descriptor": "Zesty Caramelized",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

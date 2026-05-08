@@ -2,9 +2,7 @@
   "title": "Zesty Smoky Spanish Celery Fabada Asturiana",
   "description": "A smoky and indulgent Spanish dish featuring celery, with a spicy kick, halal-friendly and made in the style of fabada asturiana. This recipe combines the flavors of Spain with a unique twist.",
   "cuisine": "Spanish",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "celery",
     "descriptor": "Zesty Smoky",
     "dishForm": "Fabada Asturiana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

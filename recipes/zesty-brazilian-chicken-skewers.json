@@ -53,7 +53,8 @@
     "In a small saucepan, heat the coconut milk over medium heat",
     "Stir the coconut milk constantly until it thickens into a velvety sauce",
     "Serve the skewers with the velvety sauce",
-    "Garnish with fresh cilantro, if desired"
+    "Garnish with fresh cilantro, if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "zesty spicy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

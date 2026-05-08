@@ -66,7 +66,8 @@
     "Reduce heat to low, cover, and simmer for 15 minutes, or until rice is tender and liquid is absorbed.",
     "Remove from heat, fluff rice with a fork, and stir in lime juice and chopped cilantro.",
     "Taste and adjust seasoning with additional salt or pepper if needed.",
-    "Serve hot, optionally garnish with extra cilantro or lime wedges."
+    "Serve hot, optionally garnish with extra cilantro or lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -104,5 +105,9 @@
     "mainIngredient": "rice",
     "descriptor": "Zesty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

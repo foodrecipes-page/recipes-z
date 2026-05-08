@@ -2,9 +2,7 @@
   "title": "Zesty Egyptian Turkey Neck Skewers",
   "description": "A pungent and crunchy Egyptian dish featuring turkey neck, deep-fried to perfection, served on a comal, perfect for a hangover cure. This pescatarian-friendly recipe is a unique twist on traditional Egyptian cuisine.",
   "cuisine": "Egyptian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Using a slotted spoon, remove the fried turkey neck pieces from the oil and place them on a paper towel-lined plate to drain excess oil.",
     "Thread the fried turkey neck pieces onto skewers, if desired.",
     "Serve the Zesty Egyptian Turkey Neck Skewers on a comal, garnished with lemon wedges and parsley.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -97,5 +96,10 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Zesty Crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

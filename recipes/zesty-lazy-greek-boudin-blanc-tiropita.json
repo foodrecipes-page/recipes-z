@@ -3,8 +3,7 @@
   "description": "A lazy Sunday Greek dish featuring boudin blanc, with a resinous and glassy jelly texture, made Jain-friendly by using plant-based ingredients and served in a tiropita form.",
   "cuisine": "Greek",
   "diet": [
-    "Jain",
-    "Vegetarian"
+    "Jain"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -62,8 +61,7 @@
     "greek-cuisine",
     "jain-friendly",
     "lazy-sunday",
-    "phyllo-dough",
-    "vegetarian"
+    "phyllo-dough"
   ],
   "nutrition": {
     "calories": 320,
@@ -88,5 +86,9 @@
     "mainIngredient": "boudin blanc",
     "descriptor": "Zesty Lazy",
     "dishForm": "Tiropita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

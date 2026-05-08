@@ -3,7 +3,6 @@
   "description": "A festive Valencian-inspired corn arepa bowl filled with airy, dairy-free mozzarella, brightened with a citrusy bitter vinaigrette, served in a stone bowl for authentic texture.",
   "cuisine": "Spanish",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -78,8 +77,7 @@
     "gluten-free",
     "one-pan",
     "quick",
-    "valencian",
-    "vegan"
+    "valencian"
   ],
   "nutrition": {
     "calories": 250,
@@ -98,11 +96,16 @@
     "mood": "festive",
     "technique": "stone-bowl-dolsot",
     "primaryIngredient": "corn arepa filled with mozarella cheese",
-    "diet": "dairy-free",
+    "diet": "gluten-free",
     "region": "valencian",
     "cuisineAdjective": "Spanish",
     "mainIngredient": "corn",
     "descriptor": "Zesty Bitter",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
+  ]
 }

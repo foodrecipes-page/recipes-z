@@ -3,8 +3,7 @@
   "description": "A funky and festive Saudi Arabian dish featuring katsuramuki-cut peaches in a rich and gooey sauce, perfect for a unique dessert experience. This egg-free friendly recipe is sure to impress.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -84,5 +83,9 @@
     "mainIngredient": "peaches",
     "descriptor": "Zesty Gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

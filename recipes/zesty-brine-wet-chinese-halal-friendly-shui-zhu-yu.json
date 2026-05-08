@@ -3,7 +3,6 @@
   "description": "A resinous, crisp, adventurous chinese dish featuring savoiardi-ladyfingers, brine-wet, halal-friendly, served in a lazy-susan-spinner. Inspired by the Sichuan cuisine, this recipe combines sweet and spicy flavors.",
   "cuisine": "Chinese",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -114,5 +113,9 @@
     "mainIngredient": "halal-friendly",
     "descriptor": "Zesty Brine-Wet",
     "dishForm": "Shui Zhu Yu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A kid-friendly Croatian dish featuring cashews and lardons, served in agave leaves, with a sour and crisp texture, and ayurvedic-sattvic-friendly ingredients.",
   "cuisine": "Croatian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -96,5 +95,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Zesty Crisp",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

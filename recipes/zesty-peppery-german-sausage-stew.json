@@ -59,7 +59,8 @@
     "Add the chicken broth, paprika, salt, and pepper to the pot, stirring to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Stir in the heavy cream, if using, and continue to simmer for an additional 5 minutes.",
-    "Serve the stew hot, garnished with chopped fresh parsley or chives, if desired."
+    "Serve the stew hot, garnished with chopped fresh parsley or chives, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "sausage",
     "descriptor": "Zesty Peppery",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

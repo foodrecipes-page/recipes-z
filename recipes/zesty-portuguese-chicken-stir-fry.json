@@ -2,9 +2,7 @@
   "title": "Zesty Portuguese Chicken Stir-fry",
   "description": "A creamy, spicy, dairy-free chicken dish inspired by Portuguese flavors, perfect for a quick weeknight dinner.",
   "cuisine": "Portuguese",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,7 +83,6 @@
   "difficulty": "medium",
   "tags": [
     "creamy",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "quick",
@@ -114,5 +111,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Zesty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

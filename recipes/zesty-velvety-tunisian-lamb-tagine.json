@@ -3,9 +3,7 @@
   "description": "A flavorful, one-pot Tunisian dish featuring lamb, peppers, and a hint of sweetness from the raspberries. This velvety tagine is perfect for a weeknight dinner or a special occasion.",
   "cuisine": "North African",
   "diet": [
-    "flexitarian",
-    "pescatarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,7 +83,8 @@
     "Season the tagine with additional salt and pepper if needed.",
     "Serve the tagine hot, garnished with fresh herbs if desired.",
     "Let the tagine cool to room temperature, then refrigerate or freeze it for up to 3 days or up to 2 months, respectively.",
-    "To serve, let the tagine come to room temperature. If frozen, thaw it overnight in the refrigerator. Then, reheat the tagine over low heat, stirring occasionally, until warmed through."
+    "To serve, let the tagine come to room temperature. If frozen, thaw it overnight in the refrigerator. Then, reheat the tagine over low heat, stirring occasionally, until warmed through.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 165,
@@ -124,5 +123,11 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

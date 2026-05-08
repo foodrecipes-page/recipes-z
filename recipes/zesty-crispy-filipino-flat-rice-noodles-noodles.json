@@ -3,8 +3,7 @@
   "description": "A festive Filipino dish featuring fermented flat rice noodles, crispy and low in calories, perfect for snacking. It is traditionally served on a bamboo tray.",
   "cuisine": "Filipino",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "snack",
   "ingredients": [
@@ -73,7 +72,6 @@
     "crispy-noodles",
     "fermented-dough",
     "filipino-food",
-    "gluten-free",
     "low-calorie"
   ],
   "nutrition": {
@@ -99,5 +97,9 @@
     "mainIngredient": "flat rice noodles",
     "descriptor": "Zesty Crispy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

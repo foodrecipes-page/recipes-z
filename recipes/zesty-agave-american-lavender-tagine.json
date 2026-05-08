@@ -3,7 +3,6 @@
   "description": "A fragrant, floral tagine starring lavender and agave leaf, perfect for a solo American dinner that balances zing and sweetness.",
   "cuisine": "American",
   "diet": [
-    "vegan",
     "flexitarian"
   ],
   "meal": "dinner",
@@ -79,7 +78,6 @@
     "one-pot",
     "quick",
     "tagine",
-    "vegan",
     "zesty"
   ],
   "nutrition": {
@@ -105,5 +103,9 @@
     "mainIngredient": "Lavender",
     "descriptor": "Zesty Agave",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

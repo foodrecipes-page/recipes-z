@@ -3,8 +3,6 @@
   "description": "A fresh and tender Thai dish featuring mung bean sprouts, perfect for a lazy Sunday, dairy-free-friendly and served in a corn husk wrap.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -93,5 +91,10 @@
     "mainIngredient": "mung bean sprouts",
     "descriptor": "Zesty Fresh",
     "dishForm": "Yum Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

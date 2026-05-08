@@ -61,7 +61,8 @@
     "Reduce the heat to medium-low and simmer for 10 minutes.",
     "Use an immersion blender to aerate the goulash, or allow it to cool and blend in a stand mixer.",
     "Stir in the heavy cream and cook for an additional 2 minutes.",
-    "Season the goulash with salt and pepper to taste."
+    "Season the goulash with salt and pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "Sausage",
     "descriptor": "Zesty Smoky",
     "dishForm": "Goulash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

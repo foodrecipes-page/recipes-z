@@ -4,7 +4,6 @@
   "cuisine": "Middle Eastern",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "anti-inflammatory"
   ],
   "meal": "snack",
@@ -74,7 +73,6 @@
   "tags": [
     "anti-inflammatory",
     "crispy",
-    "gluten-free",
     "middle-eastern",
     "nutty",
     "quick-snack"
@@ -102,5 +100,9 @@
     "mainIngredient": "Walnuts",
     "descriptor": "Zesty Crispy",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

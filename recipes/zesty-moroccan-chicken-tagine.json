@@ -3,7 +3,6 @@
   "description": "A yeasty, tender, post-workout Moroccan dish featuring mint and bhuna flavors, halal-friendly and packed with protein.",
   "cuisine": "Moroccan",
   "diet": [
-    "halal",
     "high-protein"
   ],
   "meal": "dinner",
@@ -78,7 +77,8 @@
     "Return the chicken to the pot and pour in chicken broth.",
     "Bring to a gentle simmer, cover, and cook for 30 minutes until the chicken is tender.",
     "Stir in fresh mint leaves and lemon juice, adjusting seasoning as needed.",
-    "Serve hot over couscous or flatbread."
+    "Serve hot over couscous or flatbread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -116,5 +116,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Zesty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

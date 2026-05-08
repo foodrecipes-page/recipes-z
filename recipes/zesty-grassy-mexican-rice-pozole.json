@@ -3,7 +3,6 @@
   "description": "A fluffy, cozy pozole packed with smoky ancho, fresh herbs, and a surprising grape nut cereal crunch, all cooked on a comal for a nut‑free, plant‑friendly twist.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
     "nut-free"
   ],
   "meal": "dinner",
@@ -67,7 +66,8 @@
     "When the hominy is cooked, remove the pot from heat and stir in the chopped cilantro and parsley mix.",
     "Transfer the pozole to a serving dish, spooning a generous portion of the fluffy rice into the center.",
     "Sprinkle the grape nut cereal over the top for a crunchy, nut‑free finish.",
-    "Serve hot, optionally accompanied by sliced radishes, diced avocado, and extra lime wedges on the side."
+    "Serve hot, optionally accompanied by sliced radishes, diced avocado, and extra lime wedges on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -106,5 +106,10 @@
     "mainIngredient": "rice",
     "descriptor": "Zesty Grassy",
     "dishForm": "Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Zesty Garlicky Saudi Arabian Lamb Pilaf",
   "description": "A flavorful and aromatic one-pot dish featuring lamb, garlic, and frozen peas, cooked to perfection on a tava griddle. This gluten-free friendly recipe is perfect for a weeknight dinner.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "lamb-based",
     "middle-eastern",
     "one-pot",
@@ -98,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty Garlicky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

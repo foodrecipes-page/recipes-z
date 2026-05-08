@@ -3,7 +3,6 @@
   "description": "A kid-friendly Northern Thai dish featuring saffron and high-protein chicken, this recipe is perfect for a quick and easy dinner. The combination of grassy and bouncy textures makes it a fun meal for the whole family.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -88,5 +87,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Bouncy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

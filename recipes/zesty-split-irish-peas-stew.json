@@ -2,11 +2,7 @@
   "title": "Zesty Split Irish Peas Stew",
   "description": "Hearty, comforting stew made with split peas, Irish bacon, and crunchy vegetables, finished with a tangy mantecare emulsion.",
   "cuisine": "irish",
-  "diet": [
-    "halal",
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -108,5 +104,11 @@
     "mainIngredient": "peas",
     "descriptor": "Zesty Split",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-halal"
+  ]
 }

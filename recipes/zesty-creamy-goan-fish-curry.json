@@ -13,7 +13,7 @@
       "notes": "Cut into 2 cm pieces"
     },
     {
-      "name": "Full\u2011fat coconut milk",
+      "name": "Full‑fat coconut milk",
       "amount": "200ml"
     },
     {
@@ -41,18 +41,18 @@
       "notes": "Broken"
     },
     {
-      "name": "Gluten\u2011free fish sauce",
+      "name": "Gluten‑free fish sauce",
       "amount": "1 tbsp"
     },
     {
       "name": "Lemon zest",
       "amount": "1 tsp",
-      "notes": "Divided: \u00bd tsp for seasoning, \u00bd tsp for garnish"
+      "notes": "Divided: ½ tsp for seasoning, ½ tsp for garnish"
     },
     {
       "name": "Lemon juice",
       "amount": "Juice of 1 medium lemon",
-      "notes": "\u22482 tbsp"
+      "notes": "≈2 tbsp"
     },
     {
       "name": "Fresh coriander leaves",
@@ -62,14 +62,14 @@
   ],
   "instructions": [
     "Heat the coconut oil in a wide pan over medium heat.",
-    "Add the chopped onion and saut\u00e9 until translucent, about 3 minutes.",
+    "Add the chopped onion and sauté until translucent, about 3 minutes.",
     "Stir in the minced garlic, ginger, and broken red chilies; cook for another 1 minute until fragrant.",
     "Pour in the coconut milk and bring to a gentle simmer.",
-    "Add the fish sauce, \u00bd tsp of lemon zest, and the lemon juice; stir well and let the mixture simmer for 3 minutes.",
-    "Gently slide the fish pieces into the sauce; cover and cook for 5\u20137 minutes, or until the fish flakes easily.",
+    "Add the fish sauce, ½ tsp of lemon zest, and the lemon juice; stir well and let the mixture simmer for 3 minutes.",
+    "Gently slide the fish pieces into the sauce; cover and cook for 5–7 minutes, or until the fish flakes easily.",
     "Season with a pinch of salt if needed, and adjust the lemon zest or fish sauce to taste.",
     "Transfer the curry to a serving dish; sprinkle the remaining lemon zest and garnish with fresh coriander leaves.",
-    "Serve hot over steamed rice or gluten\u2011free flatbread."
+    "Serve hot over steamed rice or gluten‑free flatbread."
   ],
   "slug": "zesty-creamy-goan-fish-curry",
   "source": "ocloud-gpt-oss:20b",
@@ -82,7 +82,7 @@
     "mood": "adventurous",
     "technique": "ferment",
     "primaryIngredient": "lemon zest",
-    "diet": "gluten-free",
+    "diet": "pescatarian",
     "region": "goan",
     "cuisineAdjective": "Goan",
     "mainIngredient": "fish",
@@ -103,5 +103,9 @@
   "tags": [
     "indian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

@@ -3,7 +3,6 @@
   "description": "A rich and crispy monsoon Chinese dish featuring white chocolate and vegan-friendly ingredients.",
   "cuisine": "Chinese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,8 @@
     "Add the grated ginger, minced garlic, and sliced green chili. Cook for 1 minute.",
     "Add the melted white chocolate and stir-fry for another minute.",
     "Add the bao buns to the wok and cook for 2-3 minutes on each side, until crispy and golden brown.",
-    "Serve the chicken and bao buns hot, garnished with chopped scallions."
+    "Serve the chicken and bao buns hot, garnished with chopped scallions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +97,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

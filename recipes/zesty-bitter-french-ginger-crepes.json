@@ -3,8 +3,7 @@
   "description": "A French-inspired brunch dish featuring ginger paste and dashi extract in a sugar-free crepe, served in a cataplana vessel, with a bitter and aerated twist.",
   "cuisine": "French",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -63,7 +62,6 @@
     "brunch-ideas",
     "cataplana-recipes",
     "french-inspired",
-    "gluten-free",
     "sugar-free"
   ],
   "nutrition": {
@@ -89,5 +87,9 @@
     "mainIngredient": "ginger",
     "descriptor": "Zesty Bitter",
     "dishForm": "Crepes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

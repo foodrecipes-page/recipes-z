@@ -2,9 +2,7 @@
   "title": "Zesty Irish Fish Paella",
   "description": "A quick and flavorful Irish-inspired paella dish featuring fish and a hint of vanilla, cooked to a perfect lacquer-glaze finish in a traditional paella pan.",
   "cuisine": "Irish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "fish",
     "descriptor": "Zesty Lacquer Glaze",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

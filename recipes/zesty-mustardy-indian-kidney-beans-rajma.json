@@ -3,7 +3,6 @@
   "description": "A flavorful and spicy Indian dish made with kidney beans, mustard, and a blend of spices, perfect for a midnight craving. This halal-friendly recipe is a classic Udupi dish from southern India.",
   "cuisine": "Indian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "kidney beans",
     "descriptor": "Zesty Mustardy",
     "dishForm": "Rajma"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

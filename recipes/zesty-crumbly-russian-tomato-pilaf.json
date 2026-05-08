@@ -58,7 +58,8 @@
     "In a large skillet, render the lardons over medium heat until crispy.",
     "To assemble the pilaf, combine the cooked buckwheat, tomato mixture, and crispy lardons in a large bowl.",
     "Transfer the pilaf to a slate tile and dot the top with the remaining 1 tablespoon of butter.",
-    "Bake the pilaf in the preheated oven for 15 minutes, or until the top is lightly browned."
+    "Bake the pilaf in the preheated oven for 15 minutes, or until the top is lightly browned.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Zesty Crumbly",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

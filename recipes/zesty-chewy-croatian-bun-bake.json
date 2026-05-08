@@ -2,9 +2,7 @@
   "title": "Zesty Chewy Croatian Bun Bake",
   "description": "A sour, chewy Croatian-style bun bake with zesty lemon and basil, perfect for a dairy-free-friendly monsoon meal.",
   "cuisine": "Croatian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
     "bake",
     "chewy",
     "croatian",
-    "dairy-free",
     "quick",
     "zesty"
   ],
@@ -90,5 +87,9 @@
     "mainIngredient": "bun",
     "descriptor": "Zesty Chewy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

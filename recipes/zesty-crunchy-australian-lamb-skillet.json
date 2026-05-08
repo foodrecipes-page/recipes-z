@@ -3,7 +3,6 @@
   "description": "A solo-dinner Australian dish featuring garlicky and crunchy lamb, cooked with sweet sherry and render-fat, friendly to ayurvedic tamasic diets. This recipe is perfect for a hearty dinner.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "ayurvedic"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
   "difficulty": "medium",
   "tags": [
     "australian-cuisine",
-    "gluten-free",
     "high-protein",
     "lamb-recipes",
     "one-pan",
@@ -99,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

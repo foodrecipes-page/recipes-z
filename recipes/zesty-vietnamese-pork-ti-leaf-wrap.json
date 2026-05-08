@@ -3,8 +3,7 @@
   "description": "A flavorful and savory Vietnamese-inspired dish featuring juicy pork, crispy ti leaf wraps, and a cheesy, buttery sauce. This crowd-pleaser is perfect for a weeknight dinner or brunch.",
   "cuisine": "vietnamese",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -109,5 +108,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty",
     "dishForm": "Ti Leaf Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

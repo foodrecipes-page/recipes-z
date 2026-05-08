@@ -53,7 +53,8 @@
     "Add the cooked noodles to the skillet and stir to combine with the pork mixture.",
     "Reduce heat to low and simmer for 5 minutes, stirring occasionally, to allow the flavors to meld and the sauce to thicken.",
     "Serve hot, garnished with additional scallions if desired.",
-    "Let the dish rest for a few minutes before serving to allow the cheese-pull effect to develop."
+    "Let the dish rest for a few minutes before serving to allow the cheese-pull effect to develop.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zero sugar",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

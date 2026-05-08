@@ -3,8 +3,7 @@
   "description": "A fermented, velvety, and quick-fix Mediterranean dish featuring chickpea flour, perfect for a weeknight dinner, this recipe is ayurvedic-sattvic-friendly and made with zero waste in mind.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,6 @@
   "difficulty": "easy",
   "tags": [
     "fermented",
-    "gluten-free",
     "mediterranean",
     "one-pot",
     "quick-fix",
@@ -89,5 +87,9 @@
     "mainIngredient": "chickpea flour",
     "descriptor": "Zero waste",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

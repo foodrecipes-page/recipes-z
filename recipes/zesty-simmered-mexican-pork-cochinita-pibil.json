@@ -55,7 +55,8 @@
     "Braise the pork for 6 hours, or until tender and easily shredded.",
     "Remove the pork from the oven and shred with two forks.",
     "Stir in the parmesan cheese until melted and well combined.",
-    "Serve the cochinita pibil hot, garnished with additional parmesan cheese if desired."
+    "Serve the cochinita pibil hot, garnished with additional parmesan cheese if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 360,
@@ -93,5 +94,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty Simmered",
     "dishForm": "Cochinita Pibil"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

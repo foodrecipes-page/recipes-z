@@ -3,7 +3,6 @@
   "description": "a refreshingly cool and creamy gazpacho soup featuring brine-wet spanish cheese and low-glycemic-friendly ingredients, perfect for hot summer days in valencia",
   "cuisine": "spanish",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -63,7 +62,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 45,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -97,5 +96,10 @@
     "mainIngredient": "Cheese",
     "descriptor": "Zesty Brine-Wet",
     "dishForm": "Gazpacho Cucumber Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

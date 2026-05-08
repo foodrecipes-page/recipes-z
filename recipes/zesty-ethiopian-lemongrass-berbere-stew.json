@@ -3,7 +3,6 @@
   "description": "A flavorful, refreshing stew that combines the bold flavors of Ethiopia with the brightness of lemongrass. Perfect for a quick and energizing dinner or lunch.",
   "cuisine": "ethiopian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -71,7 +70,8 @@
     "This stew is best served immediately, but can be refrigerated for up to 3 days or frozen for up to 2 months.",
     "When reheating, add a splash of water or broth if the stew has thickened too much.",
     "Use a blender or immersion blender to puree some or all of the stew for a creamy texture.",
-    "Experiment with different spices and herbs to make this stew your own!"
+    "Experiment with different spices and herbs to make this stew your own!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -110,5 +110,10 @@
     "mainIngredient": "lemongrass",
     "descriptor": "Zesty Shaggy Herbal",
     "dishForm": "Berbere Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

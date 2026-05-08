@@ -3,7 +3,6 @@
   "description": "A dairy-free friendly, herbal French quiche featuring peppercorns and mushrooms, cooked to perfection in a clay pot kazan cauldron. This dish is perfect for a weeknight dinner.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -74,7 +73,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "french-cuisine",
     "mushroom-recipes",
     "one-pan",
@@ -104,5 +102,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Zesty Herbal",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

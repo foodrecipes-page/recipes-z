@@ -3,8 +3,7 @@
   "description": "A citrusy and springy post-workout Mexican dish featuring danmuji, perfect for a refreshing meal, prepared on a salt block for added flavor.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -60,7 +59,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-meals",
-    "gluten-free",
     "healthy-eating",
     "mexican-food",
     "post-workout",
@@ -89,5 +87,9 @@
     "mainIngredient": "danmuji",
     "descriptor": "Zesty Citrusy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

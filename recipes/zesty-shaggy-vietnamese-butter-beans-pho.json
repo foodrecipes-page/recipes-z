@@ -3,7 +3,6 @@
   "description": "a floral, shaggy, monsoon vietnamese dish featuring butter beans, dashi-extract, and a sugar-free broth",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -89,7 +88,6 @@
     "high-protein",
     "monsoon",
     "sugar-free",
-    "vegetarian",
     "vietnamese"
   ],
   "nutrition": {
@@ -115,5 +113,9 @@
     "mainIngredient": "butter beans",
     "descriptor": "Zesty Shaggy",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

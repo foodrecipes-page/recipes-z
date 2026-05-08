@@ -55,7 +55,8 @@
     "Add the curry paste, kombu extract, smoked paprika, salt, and pepper, and cook for 1 minute.",
     "Add the chicken broth and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
-    "Serve hot, garnished with fresh parsley if desired."
+    "Serve hot, garnished with fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -93,5 +94,9 @@
     "mainIngredient": "meat",
     "descriptor": "Zesty Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A floral and creamy Venezuelan dish featuring paccheri pasta, this recipe is a comforting and Whole30-friendly option for a weeknight dinner. The flambe technique adds a nice caramelized flavor to the dish.",
   "cuisine": "Venezuelan",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "tags": [
     "comfort-food",
     "flambe",
-    "gluten-free",
     "pasta",
     "venezuelan",
     "whole30"
@@ -100,5 +98,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Zesty Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

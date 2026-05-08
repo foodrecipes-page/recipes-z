@@ -3,7 +3,6 @@
   "description": "A funky and fluffy Canadian dish featuring dashi and wood-fired bake, this hot-pot is a quick-fix and shojin-friendly option for a cold winter night. It combines the flavors of Canada with the warmth of a hot-pot vessel.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "dinner",
@@ -64,8 +63,7 @@
     "hot-pot",
     "mushroom-based",
     "one-pot",
-    "shojin",
-    "vegetarian"
+    "shojin"
   ],
   "nutrition": {
     "calories": 420,
@@ -90,5 +88,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Zesty Wood Fired",
     "dishForm": "Hot-Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -66,7 +66,8 @@
     "Add the remaining 300 ml of stock a ladle at a time, allowing each addition to be absorbed before adding more, keeping the rice creamy, for a total of 15 minutes of simmering.",
     "Stir in the lemon zest and dairy-free butter, allowing the butter to melt and enrich the risotto, then season with salt to taste.",
     "Remove the donabe from heat, fold in the chopped parsley, and let the dish rest for 2 minutes to finish the velvety texture.",
-    "Serve hot, garnished with extra parsley if desired."
+    "Serve hot, garnished with extra parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Zesty Roasted",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

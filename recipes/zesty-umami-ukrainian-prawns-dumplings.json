@@ -2,9 +2,7 @@
   "title": "Zesty Umami Ukrainian Prawns Dumplings",
   "description": "A gluten-free Ukrainian dish featuring prawns and dumplings, perfect for a date night, with a focus on umami flavor and crumbly texture.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
   "tags": [
     "date-night",
     "eastern-european",
-    "gluten-free",
     "seafood",
     "umami"
   ],
@@ -97,5 +94,9 @@
     "mainIngredient": "prawns",
     "descriptor": "Zesty Umami",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

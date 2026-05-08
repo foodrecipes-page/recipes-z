@@ -3,8 +3,7 @@
   "description": "A festive, nutty spring roll that blends the umami depth of doenjang with cold smoked flavors, all wrapped in fresh rice paper and cooked gently in a tagine pot for a pillowy texture.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-carb",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Place a spoonful of the cooked filling onto the center of each softened sheet.",
     "Fold the sides inward, then roll tightly from the bottom to encase the filling, sealing the edge with a pinch of water.",
     "Arrange the rolled spring rolls in a single layer on a plate, optionally drizzle with a drizzle of lime‑infused water.",
-    "Serve immediately, or chill the rolls in the refrigerator for 30 minutes before serving for a cold smoked finish."
+    "Serve immediately, or chill the rolls in the refrigerator for 30 minutes before serving for a cold smoked finish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -98,5 +98,10 @@
     "mainIngredient": "almonds",
     "descriptor": "Zesty Smoky",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

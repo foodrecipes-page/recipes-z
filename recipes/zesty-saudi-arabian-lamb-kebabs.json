@@ -91,11 +91,15 @@
     "mood": "hangover-cure",
     "technique": "nigiri-shaping",
     "primaryIngredient": "lamb",
-    "diet": "vegetarian",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "saudi arabian",
     "mainIngredient": "lamb",
     "descriptor": "zesty crunchy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

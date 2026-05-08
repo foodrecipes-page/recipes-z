@@ -3,8 +3,7 @@
   "description": "A smoky and light Turkish dish featuring dried shrimp, this pilaf is a crowd-pleaser and macrobiotic-friendly, made easy with a pressure cooker.",
   "cuisine": "Turkish",
   "diet": [
-    "macrobiotic",
-    "pescatarian"
+    "macrobiotic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -52,7 +51,8 @@
     "Add the brown rice and chicken broth to the pressure cooker.",
     "Close the lid and cook on high pressure for 10 minutes.",
     "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -90,5 +90,10 @@
     "mainIngredient": "shrimp",
     "descriptor": "Zesty Smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

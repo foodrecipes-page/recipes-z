@@ -70,8 +70,7 @@
     "citrus",
     "festive",
     "low-calorie",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 80,
@@ -96,5 +95,9 @@
     "mainIngredient": "Celery",
     "descriptor": "Zesty",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

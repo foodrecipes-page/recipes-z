@@ -74,7 +74,8 @@
     "Add the chickpeas, diced tomatoes, and 1 cup of water to the vessel.",
     "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Stir in some chopped fresh parsley before serving.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -110,5 +111,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Zesty silky",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

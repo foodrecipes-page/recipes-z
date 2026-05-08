@@ -37,7 +37,8 @@
     "Stir in demerara sugar, reducing further if necessary to create a syrupy consistency.",
     "Taste test and adjust seasoning as needed; you may need more sugar or salt based on your preference.",
     "Gently fold in the deep-fried KFC pieces. They should be crispy and add an interesting texture and flavor profile to the dish.",
-    "Serve hot garnished with fresh parsley."
+    "Serve hot garnished with fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -72,5 +73,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Shaggy",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

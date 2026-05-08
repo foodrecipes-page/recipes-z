@@ -54,7 +54,8 @@
     "Drain the noodles and add them to the saucepan with the duck sauce and carrots.",
     "Stir to combine and cook for an additional 2 minutes.",
     "Season with salt and black pepper to taste.",
-    "Serve hot, garnished with chopped green onions."
+    "Serve hot, garnished with chopped green onions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -64,7 +65,6 @@
   "tags": [
     "comfort-food",
     "fodmap-friendly",
-    "gluten-free",
     "one-pot",
     "russian-cuisine",
     "weeknight"
@@ -92,5 +92,10 @@
     "mainIngredient": "duck",
     "descriptor": "Zesty Buttery",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

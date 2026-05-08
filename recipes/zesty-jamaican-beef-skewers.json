@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing Jamaican dish featuring crispy beef skewers with a mustardy flavor, grilled to perfection on a yakimono grill, served with a side of spicy sauce. This recipe is a dash-friendly and easy-to-make dish that is perfect for any occasion.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -98,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "Zesty Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -80,7 +80,8 @@
     "garnish with chopped cilantro and serve immediately.",
     "serve with crusty bread or over rice, if desired.",
     "adjust seasoning as needed.",
-    "serve hot and enjoy!"
+    "serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -119,5 +120,9 @@
     "mainIngredient": "fish",
     "descriptor": "Zesty Peruvian Double-Fry KFC Figs",
     "dishForm": "Tiradito"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

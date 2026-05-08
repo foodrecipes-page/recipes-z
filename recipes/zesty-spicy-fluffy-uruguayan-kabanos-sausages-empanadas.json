@@ -79,7 +79,8 @@
     "Brush edges of dough with olive oil and fold in half to form a half-moon shape.",
     "Press edges together to seal empanada.",
     "Place empanadas on a baking sheet lined with parchment paper and bake in a preheated oven at 375°F (190°C) for 15-20 minutes or until golden brown.",
-    "Repeat with remaining dough and filling ingredients."
+    "Repeat with remaining dough and filling ingredients.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 20,
@@ -117,5 +118,9 @@
     "mainIngredient": "kabanos sausages",
     "descriptor": "Zesty Spicy Fluffy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

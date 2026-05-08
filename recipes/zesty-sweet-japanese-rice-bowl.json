@@ -3,7 +3,6 @@
   "description": "A sweet and gooey Japanese dish featuring the taste of orange zest, perfect for kids. This ayurvedic-tamasic-friendly recipe is a great breakfast or snack option.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -77,7 +76,6 @@
     "high-protein",
     "one-pan",
     "snack",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -103,5 +101,9 @@
     "mainIngredient": "rice",
     "descriptor": "zesty sweet",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fresh and gooey Brazilian dish featuring chicken and ssam wrap, perfect for a weeknight dinner, and friendly to all diets including Buddhist temple standards, with no actual hail in the recipe",
   "cuisine": "brazilian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -52,7 +51,8 @@
     "Shred the cooked chicken and mix with the coconut milk mixture.",
     "Assemble the ssam wraps with the chicken mixture and brazilian cheese.",
     "Bake the wraps in the oven for 5 minutes or until the cheese is melted and gooey.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -90,5 +90,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Zesty Gooey",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

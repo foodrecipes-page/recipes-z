@@ -56,7 +56,8 @@
     "Add the warm chicken broth, one cup at a time, stirring constantly.",
     "Add the cinnamon stick and cook for 20 minutes or until the rice is tender.",
     "Remove the cinnamon stick and stir in the grated Parmesan.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "sausage",
     "descriptor": "Zesty Spicy",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

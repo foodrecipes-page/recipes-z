@@ -52,7 +52,8 @@
     "After the beef has roasted for 20 minutes, remove it from the oven and deglaze the baking sheet with the sauce, scraping up any browned bits.",
     "Return the beef kidney pieces to the sauce and stir to coat.",
     "Spoon the beef and sauce mixture into the agave leaves, dividing it evenly among the four leaves.",
-    "Serve the stracciatella hot, garnished with fresh herbs if desired."
+    "Serve the stracciatella hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "Zesty Roasted",
     "dishForm": "Stracciatella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

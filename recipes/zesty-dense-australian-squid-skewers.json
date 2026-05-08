@@ -3,8 +3,7 @@
   "description": "A kid-friendly Australian dish featuring squid, this recipe is high in protein and perfect for a weeknight dinner. The fermentation process adds a unique flavor to the dish.",
   "cuisine": "Australian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "squid",
     "descriptor": "Zesty Dense",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

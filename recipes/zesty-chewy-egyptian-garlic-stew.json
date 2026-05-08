@@ -3,7 +3,6 @@
   "description": "A garlicky and energizing Egyptian dish that's perfect for a Buddhist temple-friendly meal. The mixed spice and chewy texture will leave you wanting more.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -100,8 +99,7 @@
     "european",
     "gluten-free",
     "one-pan",
-    "stew",
-    "vegetarian"
+    "stew"
   ],
   "nutrition": {
     "calories": 550,
@@ -126,5 +124,9 @@
     "mainIngredient": "garlic",
     "descriptor": "zesty chewy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

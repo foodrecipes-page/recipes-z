@@ -3,8 +3,7 @@
   "description": "A bright, herbal soup featuring chewy water chestnuts, lemon zest, and a hint of chili, perfect for a midnight craving.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
-    "halal"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "water chestnut",
     "descriptor": "Zesty",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

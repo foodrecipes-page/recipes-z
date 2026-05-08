@@ -3,8 +3,7 @@
   "description": "A tangy and flaky Mexican dish featuring poblanos, strawberries, and a soffritto base, made with low-glycemic ingredients. This meal is perfect for a weeknight dinner.",
   "cuisine": "Mexican",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy-eating",
     "low-glycemic",
     "mexican-food",
@@ -96,5 +94,9 @@
     "mainIngredient": "poblanos",
     "descriptor": "Zesty Flaky",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -80,7 +80,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "southern-america",
@@ -109,5 +108,9 @@
     "mainIngredient": "Grapefruit Juice",
     "descriptor": "Zesty Shattering",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

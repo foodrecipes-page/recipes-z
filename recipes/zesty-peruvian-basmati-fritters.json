@@ -89,11 +89,15 @@
     "mood": "quick-fix",
     "technique": "dashi-extract",
     "primaryIngredient": "arabic rice",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Peruvian",
     "mainIngredient": "Basmati",
     "descriptor": "Zesty",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

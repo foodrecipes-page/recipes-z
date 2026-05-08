@@ -2,9 +2,7 @@
   "title": "Zesty Wood Chinese Butternut Squash Hot Pot",
   "description": "A comforting and light Chinese dish featuring wood-fired baked butternut squash, perfect for a cold evening, this halal-friendly hot pot is sure to delight.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Add the roasted butternut squash and cubed tofu to the pot.",
     "Simmer the hot pot for 10 minutes, or until the flavors have melded together.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the hot pot hot, garnished with chopped scallions."
+    "Serve the hot pot hot, garnished with chopped scallions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -101,5 +100,10 @@
     "mainIngredient": "butternut squash",
     "descriptor": "Zesty Wood",
     "dishForm": "Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -61,7 +61,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
-  "totalTimeMin": 94,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -94,5 +94,9 @@
     "mainIngredient": "celery",
     "descriptor": "Zesty fermented",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

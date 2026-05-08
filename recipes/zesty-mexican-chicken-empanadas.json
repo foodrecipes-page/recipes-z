@@ -65,7 +65,8 @@
     "Brush the edges of each dough circle with melted butter, fold in half to create a semi‑circle, and press edges together with a fork to seal.",
     "Preheat oven to 375°F (190°C) and place the filled empanadas on a parchment‑lined baking sheet.",
     "Bake for 15-18 minutes or until the dough is golden and flaky.",
-    "Let the empanadas cool for 5 minutes before serving."
+    "Let the empanadas cool for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -103,5 +104,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Zesty",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

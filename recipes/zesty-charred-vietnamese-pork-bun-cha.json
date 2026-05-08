@@ -3,7 +3,6 @@
   "description": "A charred and silky Vietnamese dish featuring roasted peppers and pork, served with bun cha, a traditional Vietnamese vessel made of tagliere.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "Zesty Charred",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -66,7 +66,8 @@
     "Add the Chinese broccoli, sprinkle with lemon juice, and cover the bowl with a lid or foil.",
     "Let the dish steam until the broccoli is tender-crisp and the sauce has thickened, about 6 minutes.",
     "Flip the chicken and broccoli to ensure even coating, cooking for an additional 2 minutes.",
-    "Transfer the bowl to the table, garnish with toasted sesame seeds and a drizzle of extra olive oil, and serve hot."
+    "Transfer the bowl to the table, garnish with toasted sesame seeds and a drizzle of extra olive oil, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -104,5 +105,9 @@
     "mainIngredient": "Chinese Broccoli",
     "descriptor": "Zesty",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

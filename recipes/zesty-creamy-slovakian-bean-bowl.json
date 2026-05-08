@@ -2,9 +2,7 @@
   "title": "Zesty creamy Slovakian bean bowl",
   "description": "A vegan-friendly, post-workout dish featuring chilli bean paste, served in a ttukbaegi earthenware pot.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -89,8 +87,7 @@
     "gluten-free",
     "high-protein",
     "one-pan",
-    "post-workout",
-    "vegan"
+    "post-workout"
   ],
   "nutrition": {
     "calories": 540,
@@ -115,5 +112,9 @@
     "mainIngredient": "bean",
     "descriptor": "Zesty creamy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

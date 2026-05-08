@@ -61,7 +61,8 @@
     "Stir in the chopped scallions and cilantro.",
     "Add the fermented soybeans to the pan, stirring to combine.",
     "Reduce heat to low and simmer the larb for 10-15 minutes, stirring occasionally, until the flavors have melded together and the larb has reached the desired consistency.",
-    "Serve the larb hot, garnished with additional scallions and cilantro if desired."
+    "Serve the larb hot, garnished with additional scallions and cilantro if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "meat",
     "descriptor": "Zesty Velvety",
     "dishForm": "Larb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

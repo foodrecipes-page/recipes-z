@@ -4,7 +4,6 @@
   "cuisine": "Brazilian",
   "diet": [
     "whole30",
-    "gluten-free",
     "paleo"
   ],
   "meal": "dinner",
@@ -98,5 +97,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "zesty",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Norwegian dish featuring lamb, dark brown sugar, and a hint of wine, perfect for a date night dinner. This stir-fry is nut-free and easy to make.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "tags": [
     "dairy-free",
     "date-night",
-    "gluten-free",
     "lamb-recipes",
     "norwegian-cuisine",
     "stir-fry",
@@ -87,11 +85,16 @@
     "mood": "date-night",
     "technique": "stir-fry",
     "primaryIngredient": "dark soft brown sugar",
-    "diet": "nut-free",
+    "diet": "dairy-free",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "lamb",
     "descriptor": "Zesty winey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

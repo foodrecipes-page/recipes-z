@@ -62,7 +62,8 @@
     "Add the dasima-kombu pieces and chicken broth, and bring the mixture to a boil.",
     "Cover the tagine or Dutch oven and transfer it to a bain-marie, or a large pot of simmering water, and cook, covered, for 2 1/2 hours, or until the lamb is tender.",
     "Remove the tagine or Dutch oven from the bain-marie and let it cool slightly.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Zesty Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

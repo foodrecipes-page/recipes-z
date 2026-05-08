@@ -3,7 +3,6 @@
   "description": "A briny, creamy nam prik with tamarind-paste-makham, deglazed to depth and balanced for a sattvic weeknight meal.",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
     "sattvic"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "tamarind",
     "descriptor": "Zesty",
     "dishForm": "Nam Prik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

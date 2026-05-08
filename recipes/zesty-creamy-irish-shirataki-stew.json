@@ -2,10 +2,7 @@
   "title": "Zesty Creamy Irish Shirataki Stew",
   "description": "A savory and creamy Irish dish featuring shirataki noodles, shio-koji cure, and vegan-friendly ingredients, all cooked in a traditional cataplana vessel. This stew is perfect for a festive and comforting meal.",
   "cuisine": "Irish",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +96,10 @@
     "mainIngredient": "shirataki",
     "descriptor": "Zesty Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }
