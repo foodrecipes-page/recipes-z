@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Slovakian Mackerel Stew",
+  "description": "A savory and shattering one-pot Slovakian dish featuring mackerel, double-rise-bread, and gluten-free-friendly ingredients, cooked to perfection in a wok. This stew is a hearty and flavorful meal perfect for a cold evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over medium heat and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped carrots and potatoes, cooking for 5 minutes, until they begin to soften.",
+    "Add the mackerel fillets, tomato paste, paprika, salt, and black pepper, stirring to combine.",
+    "Add the water to the wok, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, until the fish is cooked through and the vegetables are tender.",
+    "Stir in the gluten-free double-rise-bread, breaking it up into small pieces as it absorbs the liquid.",
+    "Continue to simmer, uncovered, for an additional 5 minutes, until the bread has broken down and the stew has thickened.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "gluten-free",
+    "hearty-meal",
+    "one-pot",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-slovakian-mackerel-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-slovakian-mackerel-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:37:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "mackerel",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mackerel",
+    "descriptor": "Zesty Shattering",
+    "dishForm": "Stew"
+  }
+}
