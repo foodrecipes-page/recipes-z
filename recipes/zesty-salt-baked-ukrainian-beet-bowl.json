@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Salt Baked Ukrainian Beet Bowl",
+  "description": "A traditional Ukrainian dish featuring salt baked beets, topped with cilantro and served in an earthenware bowl, perfect for a hangover cure or a healthy meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 large",
+      "notes": "wrapped in foil"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Wrap the beets in foil and bake for 45 minutes or until tender.",
+    "Mix the salt and water to create a salt bath.",
+    "Once the beets are done, let them cool, then peel and slice them.",
+    "In a small bowl, whisk together the olive oil, garlic, lemon juice, and black pepper.",
+    "To assemble the bowls, place a sliced beet in the bottom of an earthenware bowl.",
+    "Drizzle the olive oil mixture over the beets.",
+    "Top with chopped cilantro leaves and a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "hangover-cure",
+    "healthy-meal",
+    "salt-baked",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-salt-baked-ukrainian-beet-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-salt-baked-ukrainian-beet-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:23:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "Zesty Salt Baked",
+    "dishForm": "Bowl"
+  }
+}
