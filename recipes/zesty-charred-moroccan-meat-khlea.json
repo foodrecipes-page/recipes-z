@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Charred Moroccan Meat Khlea",
+  "description": "A traditional Moroccan dish featuring charred meat and a blend of spices, served in a khlea form, this recipe is satvik-friendly and made with plain flour, perfect for adventurous eaters",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "plain flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the beef to the skillet and cook until browned, about 5 minutes",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent",
+    "In a small bowl, mix together the flour, cumin, coriander, paprika, salt, and black pepper",
+    "Add the flour mixture to the skillet and stir to combine",
+    "Cook for an additional 2 minutes, stirring constantly",
+    "Use a spatula to shape the mixture into a khlea form",
+    "Char the khlea over an open flame or under the broiler for 2-3 minutes on each side",
+    "Serve the khlea hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "khlea-recipes",
+    "meat-dishes",
+    "moroccan-cuisine",
+    "satvik-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-charred-moroccan-meat-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-moroccan-meat-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:03:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "plain flour",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Khlea"
+  }
+}

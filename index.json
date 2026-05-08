@@ -1010,6 +1010,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-moroccan-meat-khlea",
+    "title": "Zesty Charred Moroccan Meat Khlea",
+    "tags": [
+      "adventurous-eating",
+      "khlea-recipes",
+      "meat-dishes",
+      "moroccan-cuisine",
+      "satvik-friendly",
+      "spicy-food"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-thai-red-onion-noodles",
     "title": "Zesty Charred Thai Red Onion Noodles",
     "tags": [
@@ -5473,6 +5488,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-german-sausage-skewers",
+    "title": "Zesty Smoky German Sausage Skewers",
+    "tags": [
+      "dairy-free",
+      "german-cuisine",
+      "grilled-meats",
+      "quick-fix",
+      "robata-grill",
+      "smoky-flavors"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {

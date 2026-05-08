@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Smoky German Sausage Skewers",
+  "description": "A quick and flavorful German dish featuring smoky sausage, Tabasco sauce, and a dairy-free friendly recipe, all cooked to perfection on a robata-grill.",
+  "cuisine": "German",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, cut into 1-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, Tabasco sauce, salt, black pepper, and lemon juice.",
+    "Add the sliced onion, bell pepper, and mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the German sausage, onion, bell pepper, and mushrooms onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the robata-grill and cook for 10-12 minutes, turning occasionally, until the sausage is browned and cooked through.",
+    "Brush the skewers with the remaining marinade during the last 2 minutes of cooking.",
+    "Remove the skewers from the grill and let rest for 2 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "german-cuisine",
+    "grilled-meats",
+    "quick-fix",
+    "robata-grill",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-german-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-german-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:04:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skewers"
+  }
+}
