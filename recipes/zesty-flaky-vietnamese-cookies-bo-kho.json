@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Flaky Vietnamese Cookies Bo Kho",
+  "description": "A jammy, flaky, Vietnamese dish featuring cookies, steam, and a hangover-cure twist, served in a ceramic tagine, shojin-friendly, in the form of bo-kho.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for cookies"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for cookies"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bo kho spice mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and confectioners sugar.",
+    "Add the melted butter to the bowl and mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch and cut into desired shapes.",
+    "Place the cookies on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "In a large ceramic tagine, combine the diced apples, bruised lemongrass, whole star anise, and sliced ginger.",
+    "Pour in the coconut milk and add the bo kho spice mix and salt.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "To serve, place a few cookies in the bottom of a bowl, then spoon the steaming bo kho mixture over the top.",
+    "Cover the bowl with a lid and let steam for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "shojin-friendly",
+    "steamed-dish",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-flaky-vietnamese-cookies-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-vietnamese-cookies-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:09:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "cookies",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cookies",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Bo Kho"
+  }
+}
