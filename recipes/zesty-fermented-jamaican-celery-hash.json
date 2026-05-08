@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Fermented Jamaican Celery Hash",
+  "description": "A fermented, fluffy, and flavorful Jamaican dish featuring celery, perfect for a vegan-friendly meal. This recipe combines the bold flavors of Jamaican spices with the crunch of celery.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "4 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "nutty flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for fermentation"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped celery, scotch bonnet peppers, onion, garlic, thyme, and allspice.",
+    "Mix well and let it sit at room temperature for 24 hours to start the fermentation process.",
+    "After 24 hours, add nutritional yeast and apple cider vinegar to the mixture and stir well.",
+    "Transfer the mixture to a wooden board and shape into a hash.",
+    "Let it ferment for another 24 hours, or until it reaches the desired level of fermentation.",
+    "Heat a non-stick skillet over medium heat and add a small amount of oil.",
+    "Add the fermented celery hash to the skillet and cook until it is lightly browned and crispy.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh thyme and scotch bonnet peppers, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 94,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "fluffy-hash",
+    "healthy-snack",
+    "jamaican-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "zesty-fermented-jamaican-celery-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-jamaican-celery-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:43:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "celery",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "celery",
+    "descriptor": "Zesty fermented",
+    "dishForm": "Hash"
+  }
+}
