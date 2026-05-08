@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Yeasty Malaysian Cashew Noodles",
+  "description": "A yeasty and glassy-jelly Malaysian dish featuring cashews, with an al-dente finish, this recipe is a nostalgic and raw-friendly option. It combines the flavors of Malaysia with the crunch of cashews.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions until they are al-dente.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the chopped cashews and cook until they are lightly toasted.",
+    "Add the yeast extract, soy sauce, lime juice, grated ginger, and garlic to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce.",
+    "Cook for an additional 2 minutes, until the noodles are well coated.",
+    "Serve the noodles hot, garnished with additional cashews and lime wedges if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the noodles in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "noodle-dish",
+    "one-pot",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-yeasty-malaysian-cashew-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-malaysian-cashew-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:13:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cashews",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cashews",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Noodles"
+  }
+}
