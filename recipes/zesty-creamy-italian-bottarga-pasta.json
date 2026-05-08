@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Creamy Italian Bottarga Pasta",
+  "description": "A floral and creamy Italian dish featuring bottarga, perfect for a sick day, simmered to perfection and served on a bamboo tray, with dairy-free options available.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "bottarga",
+      "amount": "2 tbsp",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "dairy-free alternative to heavy cream"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and shallots until softened.",
+    "Add the white wine to the skillet and simmer until reduced by half.",
+    "Add the vegetable broth to the skillet and bring to a simmer.",
+    "Stir in the coconut cream and cook until the sauce has thickened slightly.",
+    "Add the grated bottarga to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a bamboo tray and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "italian-food",
+    "one-pot",
+    "pasta-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-creamy-italian-bottarga-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-italian-bottarga-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:32:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "bottarga",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bottarga",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Pasta"
+  }
+}

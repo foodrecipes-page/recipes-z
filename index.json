@@ -1837,6 +1837,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-creamy-italian-bottarga-pasta",
+    "title": "Zesty Creamy Italian Bottarga Pasta",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "italian-food",
+      "one-pot",
+      "pasta-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-creamy-moroccan-lamb-roast",
     "title": "Zesty Creamy Moroccan Lamb Roast",
     "tags": [
@@ -7491,6 +7506,21 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-roasted-brazilian-beef-brisket-toast",
+    "title": "Zesty Roasted Brazilian Beef Brisket Toast",
+    "tags": [
+      "beef-recipes",
+      "brazilian-cuisine",
+      "family-dinner",
+      "kid-friendly",
+      "kosher-friendly",
+      "roasted-meat"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 200,
     "shard": "z"
   },
   {

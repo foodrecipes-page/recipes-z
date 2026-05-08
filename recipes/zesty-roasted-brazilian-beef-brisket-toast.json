@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Roasted Brazilian Beef Brisket Toast",
+  "description": "A kid-friendly Brazilian dish featuring roasted beef brisket served on toast, perfect for a family dinner. The dish is kosher-friendly and cooked to perfection on a hot stone plate.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef brisket with garlic powder, salt, and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef brisket until browned on both sides, then transfer to the oven.",
+    "Roast the beef brisket for 3 hours, or until tender and easily shredded.",
+    "Slice the bread into 1-inch thick slices and toast until crispy.",
+    "Shred the roasted beef brisket and serve on top of the toasted bread.",
+    "Drizzle with lime juice and top with butter.",
+    "Serve immediately on a hot stone plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brazilian-cuisine",
+    "family-dinner",
+    "kid-friendly",
+    "kosher-friendly",
+    "roasted-meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-roasted-brazilian-beef-brisket-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-brazilian-beef-brisket-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:33:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "beef brisket",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef brisket",
+    "descriptor": "zesty roasted",
+    "dishForm": "Toast"
+  }
+}
