@@ -1,0 +1,110 @@
+{
+  "title": "Zesty, Gooey Dutch Poffertjes Wrap",
+  "description": "Indulge in the rich flavors of the Netherlands with this earthy, gooey, and vegetarian-friendly Dutch dish wrapped in a pandan leaf.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Poffertjes batter (see below for recipe)",
+      "amount": "1 1/2 cups",
+      "notes": "Note: You can make this batter from scratch or use store-bought mix."
+    },
+    {
+      "name": "Ttukbaegi earthenware pot",
+      "amount": "",
+      "notes": "Preheat to 375°F (190°C)"
+    },
+    {
+      "name": "Pandan leaf wraps",
+      "amount": "6",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your ttukbaegi earthenware pot to 375°F (190°C) for at least 10 minutes before use.",
+    "In a large bowl, whisk together the poffertjes batter, granulated sugar, and cinnamon.",
+    "Add the unsalted butter, vanilla extract, large eggs, and whole milk to the bowl. Whisk until the batter is smooth and free of lumps.",
+    "Using a piping bag or a spoon, pipe or drop the batter into the preheated ttukbaegi earthenware pot, filling it about 2/3 full.",
+    "Cook the poffertjes for 5-7 minutes, or until they are golden brown and fluffy.",
+    "Dust the cooked poffertjes with powdered sugar.",
+    "Warm the pandan leaf wraps according to package instructions.",
+    "To assemble the wrap, place a few cooked poffertjes in the center of the pandan leaf wrap.",
+    "Drizzle with a little bit of honey or maple syrup, if desired.",
+    "Repeat the process to create multiple wraps, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 9,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-gooey-dutch-poffertjes-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-dutch-poffertjes-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:32:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "powdered sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Poffertjes",
+    "descriptor": "Zesty, Gooey",
+    "dishForm": "Wrap"
+  }
+}
