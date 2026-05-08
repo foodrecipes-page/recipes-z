@@ -1,0 +1,98 @@
+{
+  "title": "Zero Moisture Northern Irish Spinach Hash",
+  "description": "A resinous and springy crowd-pleaser dish featuring spinach, this Northern Irish recipe is a unique blend of flavors and textures, made with ayurvedic-sattvic-friendly ingredients. It is a perfect side dish for any meal.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped spinach with 2 tablespoons of olive oil until it is evenly coated.",
+    "Spread the spinach mixture on a baking sheet and dehydrate in the oven for 2 hours.",
+    "In a large pan, heat the remaining 2 tablespoons of olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the diced potato and grated carrot to the pan and cook until they are tender, about 10 minutes.",
+    "Add the dehydrated spinach, salt, and black pepper to the pan and stir to combine.",
+    "Cook for an additional 2 minutes, stirring frequently, until the mixture is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-breakfast",
+    "high-fiber",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zero-moisture-northern-irish-spinach-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-moisture-northern-irish-spinach-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "spinach",
+    "diet": "ayurvedic-sattvic",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "spinach",
+    "descriptor": "Zero Moisture",
+    "dishForm": "Hash"
+  }
+}
