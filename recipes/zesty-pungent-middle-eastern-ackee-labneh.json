@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Pungent Middle Eastern Ackee Labneh",
+  "description": "A pungent and glassy-jelly Middle Eastern dish featuring ackee and confit-tomato, perfect for a lazy Sunday morning.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup",
+      "notes": "canned or fresh, drained and chopped"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the labneh cheese with lemon juice, garlic, sumac, salt, and black pepper in a bowl.",
+    "Add the chopped ackee to the labneh mixture and stir well.",
+    "Spread the confit tomato on top of the labneh mixture.",
+    "Drizzle the olive oil over the confit tomato.",
+    "Toast the pita bread and chop it into small pieces.",
+    "Sprinkle the toasted pita bread over the top of the dish.",
+    "Bake the dish in the oven for 15 minutes or until the pita bread is crispy.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the Zesty Pungent Middle Eastern Ackee Labneh warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "lazy-sunday",
+    "low-fat",
+    "middle-eastern",
+    "one-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-pungent-middle-eastern-ackee-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pungent-middle-eastern-ackee-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:24:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "ackee",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "ackee",
+    "descriptor": "Zesty Pungent",
+    "dishForm": "Labneh"
+  }
+}
