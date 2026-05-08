@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Fermented Syrian Feta Cheese Wrap",
+  "description": "A quick-fix, low-carb-friendly Syrian dish featuring cubed feta cheese, a tangy deglaze, and a hint of fresh herbs, wrapped in a corn husk.",
+  "cuisine": "syrian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": "crumbly, white feta works best"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "add fresh herbs for a pop of color and flavor"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "mellow out the pungency by roasting the garlic"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tbsp",
+      "notes": "add a hint of freshness to balance the tanginess"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed is best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "use a light hand, as the feta will be rich"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, for a spicy kick"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "use a flaky sea salt for added depth"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "fresh or dried, as available"
+    }
+  ],
+  "instructions": [
+    "Roast the garlic by wrapping it in foil and baking at 400°F (200°C) for 20-25 minutes, or until soft and mashed.",
+    "Chop the parsley and mint, and set aside.",
+    "Cube the feta cheese into 1-inch (2.5 cm) pieces, and place in a bowl.",
+    "In a small skillet, heat the olive oil over medium heat, then add the minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add the lemon juice, crushed red pepper flakes, and salt to the skillet, and cook for an additional 1-2 minutes, stirring constantly.",
+    "Pour the deglaze over the feta cheese, and toss to coat.",
+    "To assemble the wraps, lay a corn husk flat, then fill with a few pieces of the feta cheese mixture, some chopped parsley and mint, and a sprinkle of salt.",
+    "Fold the bottom half of the husk up over the filling, then fold in the sides and roll into a neat package.",
+    "Repeat with the remaining ingredients, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 22
+  },
+  "slug": "zesty-fermented-syrian-feta-cheese-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-syrian-feta-cheese-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T11:18:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Feta cheese",
+    "descriptor": "Zesty Fermented",
+    "dishForm": "Wrap"
+  }
+}
