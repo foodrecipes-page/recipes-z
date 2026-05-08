@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Velvety Middle Eastern Apricot Tagine",
+  "description": "A light and citrusy Middle Eastern dish featuring apricot jam and cooked to perfection with binchotan charcoal, this tagine is a flavorful and velvety delight. It is a perfect dish for those looking for a taste of the exotic without heavy spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apricot jam",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat on a binchotan charcoal grill or a stovetop.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chicken breast and cook until it is browned on all sides and cooked through.",
+    "Add the cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the apricot jam and lemon juice, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Serve the tagine hot, garnished with fresh herbs or toasted almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic",
+    "fruity",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-velvety-middle-eastern-apricot-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-middle-eastern-apricot-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:01:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "jam",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "apricots",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Tagine"
+  }
+}

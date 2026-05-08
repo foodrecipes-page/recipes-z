@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Yeasty Polish Mushroom Casserole",
+  "description": "A traditional Polish dish featuring sautéed mushrooms and a light, yeasty crust, made with vegetable oil and ayurvedic-tamasic-friendly ingredients, served en-croute.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, sauté the mushrooms and onion in vegetable oil until the mushrooms release their liquid and start to brown.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the yeast, flour, and salt.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Spoon the mushroom mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Place the casserole in a baking dish and bake for 35 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom-recipes",
+    "polish-cuisine",
+    "vegetarian-dishes",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-yeasty-polish-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-polish-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:02:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "vegetable oil",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Casserole"
+  }
+}

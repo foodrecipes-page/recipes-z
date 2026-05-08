@@ -7707,6 +7707,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-velvety-middle-eastern-apricot-tagine",
+    "title": "Zesty Velvety Middle Eastern Apricot Tagine",
+    "tags": [
+      "exotic",
+      "fruity",
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-velvety-portuguese-beans-stir-fry",
     "title": "Zesty Velvety Portuguese Beans Stir-fry",
     "tags": [
@@ -8036,6 +8051,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-yeasty-polish-mushroom-casserole",
+    "title": "Zesty Yeasty Polish Mushroom Casserole",
+    "tags": [
+      "comfort-food",
+      "mushroom-recipes",
+      "polish-cuisine",
+      "vegetarian-dishes",
+      "yeast-bread"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
