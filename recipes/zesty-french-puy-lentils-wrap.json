@@ -1,0 +1,56 @@
+{
+  "title": "Zesty French Puy-lentils Wrap",
+  "description": "A flavorful, show-off Normandy-inspired dish featuring pungent Puy lentils, gooey cheese, and a hint of Mediterranean spices, all wrapped in a crispy lotus leaf wrap.",
+  "cuisine": "french",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puy lentils",
+      "amount": "250g",
+      "notes": "Green or yellow, rinsed and drained"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large pan over medium heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flambe",
+    "gluten-free",
+    "mediterranean",
+    "normandy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "zesty-french-puy-lentils-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-puy-lentils-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "puy-lentils",
+    "diet": "mediterranean",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Puy-lentils",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}

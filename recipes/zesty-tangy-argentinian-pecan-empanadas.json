@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Tangy Argentinian Pecan Empanadas",
+  "description": "Tangy and sweet empanadas filled with pecans and a soffritto base, perfect for a brunch mood, these empanadas are sugar free friendly and feature a glassy jelly like filling.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "quince jelly",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onions, garlic, and bell peppers until softened.",
+    "Add the chopped pecans to the skillet and cook for an additional 2 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a tablespoon of the pecan mixture onto the center of each dough circle.",
+    "Top the pecan mixture with a spoonful of quince jelly.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "brunch-recipes",
+    "empanada-recipes",
+    "pecan-based",
+    "snack-ideas",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-tangy-argentinian-pecan-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tangy-argentinian-pecan-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:26:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pecan nuts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Zesty Tangy",
+    "dishForm": "Empanadas"
+  }
+}

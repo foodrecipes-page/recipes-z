@@ -4006,6 +4006,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-french-puy-lentils-wrap",
+    "title": "Zesty French Puy-lentils Wrap",
+    "tags": [
+      "flambe",
+      "gluten-free",
+      "mediterranean",
+      "normandy",
+      "vegan"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-french-salmon-salad",
     "title": "Zesty French Salmon Salad",
     "tags": [
@@ -9172,6 +9186,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tangy-argentinian-pecan-empanadas",
+    "title": "Zesty Tangy Argentinian Pecan Empanadas",
+    "tags": [
+      "argentinian-food",
+      "brunch-recipes",
+      "empanada-recipes",
+      "pecan-based",
+      "snack-ideas",
+      "sugar-free"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
