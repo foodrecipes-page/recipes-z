@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Earthy Irish Tomato Stew",
+  "description": "A hearty and earthy stew featuring tomato juice, perfect for a brunch mood, and friendly to Buddhist temple dietary preferences. This dish is pressure-cooked to create a rich and gooey texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomato juice",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the tomato juice, vegetable broth, and dried thyme, and stir to combine.",
+    "Close the pressure cooker and cook for 20 minutes.",
+    "Let the pressure release naturally, then open the lid and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "buddhist-friendly",
+    "irish-cuisine",
+    "pressure-cooker",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-earthy-irish-tomato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-earthy-irish-tomato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "tomato juice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Zesty Earthy",
+    "dishForm": "Stew"
+  }
+}
