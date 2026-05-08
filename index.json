@@ -2138,6 +2138,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-samphire-skewers",
+    "title": "Zesty Croatian Samphire Skewers",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "healthy",
+      "low-calorie",
+      "mediterranean",
+      "quick-snack"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-water-chestnut-soup",
     "title": "Zesty Croatian Water Chestnut Soup",
     "tags": [
@@ -2227,6 +2242,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-german-brussels-sprouts-skillet",
+    "title": "Zesty Crunchy German Brussels Sprouts Skillet",
+    "tags": [
+      "crunchy",
+      "diabetic-friendly",
+      "german",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {

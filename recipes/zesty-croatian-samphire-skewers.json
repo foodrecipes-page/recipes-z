@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Croatian Samphire Skewers",
+  "description": "A tangy and crispy Croatian dish featuring samphire, sashimi-cut and low in calories, served in a cazuela, evoking nostalgic feelings of the Adriatic coast.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 pound",
+      "notes": "fresh, rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the samphire into 1-inch pieces and set aside.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the samphire pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated samphire pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a single layer in a cazuela or a large baking dish.",
+    "Bake the samphire skewers in the preheated oven for 12 minutes, or until crispy and tender.",
+    "Remove the skewers from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-calorie",
+    "mediterranean",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "zesty-croatian-samphire-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-samphire-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:10:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "samphire",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "samphire",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skewers"
+  }
+}

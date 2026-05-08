@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Crunchy German Brussels Sprouts Skillet",
+  "description": "A traditional German dish featuring crispy Brussels sprouts, this recipe is a nostalgic and diabetic-friendly option, with a balance of fatty and crunchy elements. It is made with namul-blanch-season method for optimal flavor.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the Brussels sprouts in half and blanch them in boiling water for 5 minutes.",
+    "Cook the bacon slices in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside, leaving the grease behind.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the blanched Brussels sprouts to the skillet and cook until they are caramelized.",
+    "Add the apple cider vinegar, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "Return the cooked bacon to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "diabetic-friendly",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-crunchy-german-brussels-sprouts-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-german-brussels-sprouts-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:11:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Skillet"
+  }
+}
