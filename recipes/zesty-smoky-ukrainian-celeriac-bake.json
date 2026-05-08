@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Smoky Ukrainian Celeriac Bake",
+  "description": "A smoky and gooey Ukrainian dish featuring celeriac, perfect for a cozy dinner, and easily made dairy-free-friendly",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegan sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced celeriac with olive oil, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "In a large skillet, saute the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "In a separate bowl, mix the sauteed onion and garlic with vegan sour cream.",
+    "In a greased 9x13 inch baking dish, create a layer of celeriac slices.",
+    "Spread half of the sour cream mixture over the celeriac layer.",
+    "Repeat the layers, starting with the celeriac, then the remaining sour cream mixture, and finally another layer of celeriac on top.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned.",
+    "Remove from the oven and sprinkle with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "one-pan",
+    "smoky",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-smoky-ukrainian-celeriac-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-ukrainian-celeriac-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "celeriac",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "celeriac",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Bake"
+  }
+}
