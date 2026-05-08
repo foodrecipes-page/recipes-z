@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Nutty Korean Barramundi Anju",
+  "description": "A festive Korean dish featuring barramundi, with a nutty and shaggy texture, steamed to perfection and served as anju, FODMAP-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "ginkgo nuts",
+      "amount": "1/2 cup",
+      "notes": "shelled, toasted"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the barramundi fillets under cold water, pat dry with paper towels.",
+    "Cut the barramundi into small pieces, about 1 inch in size.",
+    "In a large bowl, whisk together soy sauce, brown sugar, korean chili flakes, sesame oil, salt, and black pepper.",
+    "Add the barramundi pieces to the bowl, toss to coat with the marinade, cover, and refrigerate for 30 minutes.",
+    "Prepare the steamer basket with a layer of green onions, then add the marinated barramundi pieces on top.",
+    "Steam the barramundi over boiling water for 8 minutes, or until cooked through.",
+    "In a small pan, toast the ginkgo nuts over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "Sprinkle the toasted ginkgo nuts, toasted sesame seeds, and chopped green onions over the steamed barramundi.",
+    "Serve immediately, garnished with additional green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "low-fodmap",
+    "nutty",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-nutty-korean-barramundi-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-korean-barramundi-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:24:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "barramundi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "barramundi",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Anju"
+  }
+}
