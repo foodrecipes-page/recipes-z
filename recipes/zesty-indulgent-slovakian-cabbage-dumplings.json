@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Indulgent Slovakian Cabbage Dumplings",
+  "description": "A traditional Slovakian dish featuring savoy cabbage and nuka-pickle, these dumplings are resinous, springy, and indulgent, perfect for a hearty dinner. This recipe is nut-free-friendly, making it accessible to those with nut allergies.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped savoy cabbage and nuka-pickle, mixing well to combine.",
+    "In a separate bowl, whisk together the flour, eggs, milk, and melted butter to form a smooth dough.",
+    "Add the salt and black pepper to the dough, mixing until well combined.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces, shaping each into a ball.",
+    "Flatten each ball into a disk shape, placing a tablespoon of the cabbage mixture in the center of each disk.",
+    "Fold the dough over the filling, forming a half-moon shape and pressing the edges together to seal.",
+    "Bring a large pot of salted water to a boil, gently adding the dumplings to the pot.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon, serving hot with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-dinner",
+    "homemade",
+    "slovakian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "zesty-indulgent-slovakian-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-slovakian-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:06:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Dumplings"
+  }
+}
