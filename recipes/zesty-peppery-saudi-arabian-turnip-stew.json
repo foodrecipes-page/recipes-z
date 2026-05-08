@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Peppery Saudi Arabian Turnip Stew",
+  "description": "A hearty and flavorful stew featuring turnips, inspired by the rich culinary traditions of Saudi Arabia, perfect for a festive dinner gathering. This dish is shojin-friendly and can be enjoyed by everyone.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onions and cook until they are softened and translucent.",
+    "Add the garlic, cumin, coriander, and black pepper, and cook for 1 minute.",
+    "Add the turnips, salt, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Check the turnips for tenderness and cook for an additional 10 minutes if needed.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve the stew over rice or with some crusty bread for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "zesty-peppery-saudi-arabian-turnip-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peppery-saudi-arabian-turnip-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:01:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "turnips",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "turnips",
+    "descriptor": "Zesty Peppery",
+    "dishForm": "Stew"
+  }
+}
