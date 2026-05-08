@@ -1,0 +1,106 @@
+{
+  "title": "zesty velvety hangover-cure german potatoes tagine",
+  "description": "a flavorful german-inspired tagine packed with potatoes, frozen mixed berries, and a hint of floral notes to aid in hangover recovery.",
+  "cuisine": "german",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": " Russet or Idaho work well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "frozen mixed berries",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": "for tanginess"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep frying pan over medium-high heat.",
+    "Using a thermometer, maintain a temperature of 350°F (175°C).",
+    "Slice the potatoes into 1/2-inch thick rounds and carefully add them to the hot oil in batches, if necessary.",
+    "Deep-fry the potatoes until they are golden brown and crispy, approximately 4-5 minutes per batch.",
+    "Remove the fried potatoes from the oil with a slotted spoon and place them on paper towels to drain excess oil.",
+    "In a large ceramic tagine, sauté the chopped onion and minced garlic over medium heat until softened.",
+    "Add the thawed frozen mixed berries, honey, Dijon mustard, and chopped fresh parsley to the tagine.",
+    "Stir well to combine and cook for 2-3 minutes, or until the mixture has slightly thickened.",
+    "Add the fried potatoes to the tagine and sprinkle with kosher salt to taste.",
+    "Serve the zesty velvety hangover-cure german potatoes tagine immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german",
+    "hangover-cure",
+    "kosher",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-velvety-hangover-cure-german-potatoes-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-hangover-cure-german-potatoes-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:55:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zesty velvety hangover-cure",
+    "dishForm": "Tagine"
+  }
+}
