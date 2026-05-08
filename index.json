@@ -421,6 +421,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-sardine-wrap",
+    "title": "Zesty American Sardine Wrap",
+    "tags": [
+      "american",
+      "flexitarian",
+      "lunch",
+      "pescatarian",
+      "steamed",
+      "wrap"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-american-shrimp-paella",
     "title": "Zesty American Shrimp Paella",
     "tags": [

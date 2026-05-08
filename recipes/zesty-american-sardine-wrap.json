@@ -1,0 +1,107 @@
+{
+  "title": "Zesty American Sardine Wrap",
+  "description": "A flexitarian-friendly dish featuring sardines in a jammy and gooey wrap, cooked to perfection with leaf wrap steam, perfect for a cozy American meal.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned sardines",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "tortilla",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the flaked sardines, chopped onion, chopped bell pepper, salsa, and chopped cilantro.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and pepper, and pour the mixture over the sardine mixture, stirring to combine.",
+    "Lay a large tortilla flat on a work surface and spoon about 1/4 of the sardine mixture onto the center of the tortilla.",
+    "Sprinkle about 1/4 cup of shredded cheese over the sardine mixture.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat the process with the remaining tortillas and filling.",
+    "Wrap each tortilla in a large leaf, such as a collard green or mustard green, and place the wraps in a steamer basket.",
+    "Steam the wraps over boiling water for 5 minutes, or until the cheese is melted and the tortillas are soft and pliable.",
+    "Serve the wraps hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "flexitarian",
+    "lunch",
+    "pescatarian",
+    "steamed",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-american-sardine-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-sardine-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:39:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sardines",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sardines",
+    "descriptor": "Zesty",
+    "dishForm": "Wrap"
+  }
+}
