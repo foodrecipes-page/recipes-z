@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Syrian Onion Kebabs",
+  "description": "A salty and savory Syrian dish featuring crispy onion rings, perfect for midnight cravings. This kosher-friendly recipe uses dashi extract for added depth of flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced into rings"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the onion rings with olive oil, salt, black pepper, garlic powder, and paprika until they are evenly coated.",
+    "Spread the onion rings out in a single layer on a baking sheet lined with parchment paper.",
+    "Bake the onion rings in the preheated oven for 20 minutes, or until they are crispy and golden brown.",
+    "While the onion rings are baking, mix the dashi extract and lemon juice in a small bowl.",
+    "Once the onion rings are done, toss them with the dashi extract and lemon juice mixture until they are evenly coated.",
+    "Serve the Zesty Syrian Onion Kebabs hot and enjoy.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "kosher-friendly",
+    "midnight-snack",
+    "onion-kebabs",
+    "savory-snack",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "zesty-syrian-onion-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-syrian-onion-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "onion rings",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "onion",
+    "descriptor": "Zesty",
+    "dishForm": "Kebabs"
+  }
+}
