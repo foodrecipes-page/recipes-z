@@ -1,0 +1,118 @@
+{
+  "title": "Zesty Bouncy Jamaican Mint Ssam-Wrap",
+  "description": "A vibrant and refreshing Jamaican-inspired ssam-wrap, perfect for a date night dinner or a romantic evening.",
+  "cuisine": "jamaican",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "4",
+      "notes": "preferably made from lettuce or collard green leaves"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1",
+      "notes": "seasoned with jerk seasoning and grilled"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1 bunch",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "pure and raw"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated and fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced and fresh"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "preferably black pepper"
+    }
+  ],
+  "instructions": [
+    "Begin by preheating a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with jerk seasoning and grill for 5-6 minutes per side.",
+    "Meanwhile, prepare the mint sauce by combining coconut cream, honey, ginger, garlic, curry powder, and cayenne pepper in a blender.",
+    "Blend the mixture until smooth and creamy.",
+    "Slice the grilled chicken breast into thin strips.",
+    "To assemble the ssam-wraps, lay a ssam-wrap leaf flat on a work surface.",
+    "Place a few slices of grilled chicken breast in the center of the leaf.",
+    "Add a spoonful of mint sauce on top of the chicken.",
+    "Fold the bottom half of the leaf up over the filling, then fold in the sides and roll up the wrap to form a snug package.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled-chicken",
+    "jamaican",
+    "paleo-friendly",
+    "ssam-wrap",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "zesty-bouncy-jamaican-mint-ssam-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bouncy-jamaican-mint-ssam-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:03:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "mint",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Mint",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Ssam-Wrap"
+  }
+}

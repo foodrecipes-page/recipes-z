@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Fermented Australian Lamb Pilaf",
+  "description": "A flavorful Australian dish featuring aromatic rice, tender lamb, and a tangy fermented flavor.",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Water",
+      "amount": "500ml"
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "75g"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "60ml"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of lardons-render in a large, heavy-based frying pan over medium heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes. Set aside.",
+    "Soak the Basmati rice in a large bowl of water for 30 minutes, then drain and set aside.",
+    "In a blender or food processor, combine red wine vinegar, garam masala, ground cumin, smoked paprika, salt, and black pepper.",
+    "Blend until smooth, then pour the mixture into a large wooden-board with a non-reactive surface.",
+    "Add the cooked lamb shoulder to the board, then top with the soaked Basmati rice.",
+    "Mix well to combine, then cover the board with plastic wrap and set in a cool, dark place for 24 hours.",
+    "After 24 hours, discard the plastic wrap and fluff the pilaf with a fork to separate the grains.",
+    "Heat the lardons-render in the frying pan over low heat, then stir in the fermented pilaf mixture.",
+    "Cook, stirring occasionally, until the pilaf is heated through and fragrant, about 10 minutes.",
+    "Stir in chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fermented",
+    "lamb",
+    "one-pan",
+    "pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "zesty-fermented-australian-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-australian-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:03:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "arabic rice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Fermented",
+    "dishForm": "Pilaf"
+  }
+}

@@ -632,6 +632,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-bouncy-jamaican-mint-ssam-wrap",
+    "title": "Zesty Bouncy Jamaican Mint Ssam-Wrap",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "grilled-chicken",
+      "jamaican",
+      "paleo-friendly",
+      "ssam-wrap",
+      "vegan-friendly"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-bouncy-kenyan-tomato-stew",
     "title": "Zesty Bouncy Kenyan Tomato Stew",
     "tags": [
@@ -2346,6 +2362,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-fermented-australian-lamb-pilaf",
+    "title": "Zesty Fermented Australian Lamb Pilaf",
+    "tags": [
+      "australian",
+      "fermented",
+      "lamb",
+      "one-pan",
+      "pilaf",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
