@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Nutty Saudi Arabian Chinese Cabbage Kebabs",
+  "description": "A unique fusion dish featuring Chinese cabbage, nutty flavors, and a hint of Saudi Arabian spice, perfect for a date night, this halal-friendly recipe combines the freshness of Chinese cabbage with the richness of nuts and the depth of kombu-cold-extract.",
+  "cuisine": "Saudi Arabian Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Thread the Chinese cabbage, almonds, and pine nuts onto skewers.",
+    "In a bowl, whisk together the kombu-cold-extract, olive oil, salt, black pepper, cumin, and coriander.",
+    "Brush the mixture onto the kebabs.",
+    "Grill the kebabs for 10 minutes, turning occasionally.",
+    "In a small bowl, mix together the pomegranate molasses and 1 tablespoon of water.",
+    "Brush the pomegranate glaze onto the kebabs during the last 2 minutes of grilling.",
+    "Serve the kebabs hot, garnished with additional toasted pine nuts and almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "date-night",
+    "grilled",
+    "healthy",
+    "middle-eastern",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "zesty-nutty-saudi-arabian-chinese-cabbage-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-saudi-arabian-chinese-cabbage-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Chinese cabbage",
+    "descriptor": "Zesty nutty",
+    "dishForm": "Kebabs"
+  }
+}
