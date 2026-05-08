@@ -101,6 +101,20 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-rich-irish-uni-bowl",
+    "title": "Zenith Rich Irish Uni Bowl",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "rich-and-creamy",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zero-calorie-polish-sourdough-pasta",
     "title": "Polish Sourdough Pasta",
     "tags": [
