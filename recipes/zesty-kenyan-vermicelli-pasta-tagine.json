@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Kenyan Vermicelli Pasta Tagine",
+  "description": "A jammy and creamy vegetarian Kenyan dish featuring vermicelli pasta cooked in a tagine, perfect for a crowd",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Stir in the curry powder and cook for 1 minute",
+    "Add the tomato paste and cook for 1 minute",
+    "Add the vegetable broth and bring the mixture to a boil",
+    "Add the vermicelli pasta and cook until it is al dente",
+    "Stir in the coconut milk and cook until the sauce has thickened",
+    "Season the tagine with salt and black pepper to taste",
+    "Serve the tagine hot over the cooked pasta"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "coconut-milk",
+    "one-pot",
+    "pasta",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-kenyan-vermicelli-pasta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-vermicelli-pasta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:08:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Tagine"
+  }
+}
