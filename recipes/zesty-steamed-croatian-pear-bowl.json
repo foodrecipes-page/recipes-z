@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Steamed Croatian Pear Bowl",
+  "description": "A refreshing and healthy meal-prep dish featuring the sweetness of Korean-pear, steamed to perfection in a papillote. This jain-friendly recipe serves as a light and revitalizing meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "1"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the Korean pear into bite-sized pieces.",
+    "In a small bowl, mix together the ginger, lemon juice, rice vinegar, sesame oil, honey, and salt.",
+    "Place a piece of parchment paper in the bottom of a lacquerware bowl.",
+    "Arrange the pear pieces in the bowl, leaving some space between each piece.",
+    "Drizzle the ginger mixture over the pears.",
+    "Fold the parchment paper over the pears to create a papillote.",
+    "Steam the papillote for 10 minutes.",
+    "Garnish with chopped parsley.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free-options",
+    "grain-free",
+    "high-protein",
+    "korean-pear",
+    "one-pan",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "zesty-steamed-croatian-pear-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-steamed-croatian-pear-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:48:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "korean-pear",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pear",
+    "descriptor": "Zesty Steamed",
+    "dishForm": "Bowl"
+  }
+}
