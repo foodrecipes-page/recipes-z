@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Molten Mexican Chicken Tacos",
+  "description": "A sweet and spicy Mexican dish featuring dark brown soft sugar, served in an earthenware bowl, this recipe is a low-calorie-friendly option for a flavorful meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken, dark brown soft sugar, and taco seasoning until the chicken is well coated.",
+    "Knead the chicken mixture for 5 minutes until it is well combined.",
+    "Place the chicken mixture in an earthenware bowl and bake for 20 minutes.",
+    "While the chicken is baking, prepare the toppings by dicing the tomatoes and chopping the cilantro.",
+    "After the chicken has baked for 20 minutes, remove it from the oven and stir in the shredded cheese until it is melted and well combined.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with diced tomatoes, chopped cilantro, sour cream, and a squeeze of lime juice.",
+    "Serve the tacos immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "low-calorie",
+    "mexican",
+    "one-bowl",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "zesty-molten-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Tacos"
+  }
+}

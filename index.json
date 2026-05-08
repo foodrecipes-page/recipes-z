@@ -5548,6 +5548,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-molten-mexican-chicken-tacos",
+    "title": "Zesty Molten Mexican Chicken Tacos",
+    "tags": [
+      "chicken",
+      "gluten-free",
+      "low-calorie",
+      "mexican",
+      "one-bowl",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-molten-norwegian-chinese-long-beans-skillet",
     "title": "Zesty Molten Norwegian Chinese Long Beans Skillet",
     "tags": [
