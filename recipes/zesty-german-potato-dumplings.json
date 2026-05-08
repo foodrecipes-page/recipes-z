@@ -1,0 +1,91 @@
+{
+  "title": "Zesty German Potato Dumplings",
+  "description": "Pungent and pillowy, these German potato dumplings are a kid-friendly dish featuring black pepper and infused oil, making them a great halal-friendly option. They are perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine grated potatoes, flour, infused oil, black pepper, and salt in a large bowl.",
+    "Add eggs and chopped onion to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and melt butter on top of each dumpling.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "halal-friendly",
+    "kid-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "zesty-german-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-german-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:45:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "black pepper",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potato",
+    "descriptor": "pungent pillowy",
+    "dishForm": "Dumplings"
+  }
+}
