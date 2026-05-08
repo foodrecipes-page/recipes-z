@@ -1,0 +1,105 @@
+{
+  "title": "zesty quick fix canadian fish wrap",
+  "description": "charred, bouncy-qq, quick-fix canadian dish featuring ssamjang, bain-marie, pescatarian-friendly",
+  "cuisine": "canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "french fries",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "smoked salmon fillet",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tbsp",
+      "notes": "korean chili paste"
+    },
+    {
+      "name": "bain-marie",
+      "amount": "1 cup",
+      "notes": "for melting"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp",
+      "notes": "for char"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "crushed sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "char the lotus leaf wraps over medium heat for 2 minutes.",
+    "in a bain-marie, melt 2 tbsp of unsalted butter over low heat.",
+    "add 2 tbsp of ssamjang to the melted butter and stir until combined.",
+    "add the smoked salmon fillet to the ssamjang mixture and cook for 2 minutes.",
+    "add the chopped green onions and crushed sesame seeds to the fillet and stir until combined.",
+    "season with salt and pepper to taste.",
+    "warm the lotus leaf wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "assemble the wrap by placing the salmon mixture onto a lotus leaf wrap and serving immediately.",
+    "serve with french fries on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "easy-meal",
+    "korean-inspired",
+    "one-pan",
+    "pescatarian",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "zesty-quick-fix-canadian-fish-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-quick-fix-canadian-fish-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "bain-marie",
+    "primaryIngredient": "ssamjang",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Quick Fix",
+    "dishForm": "Wrap"
+  }
+}
