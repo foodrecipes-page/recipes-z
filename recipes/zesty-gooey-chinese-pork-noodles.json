@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Gooey Chinese Pork Noodles",
+  "description": "A sour and gooey Chinese dish featuring extra virgin olive oil and nuka-pickle, with anti-inflammatory friendly ingredients, this recipe is perfect for a dinner meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the extra virgin olive oil in a large skillet over medium-high heat.",
+    "Add the pork shoulder and cook until browned, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the chopped nuka-pickle, soy sauce, and turmeric, and stir to combine.",
+    "Add the rice noodles and cook, stirring constantly, until the noodles are well coated with the sauce.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the chopped green onions and serve hot.",
+    "Garnish with additional green onions and nuka-pickle, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "chinese-food",
+    "dairy-free",
+    "gluten-free",
+    "noodle-dishes",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-gooey-chinese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-chinese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:07:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "anti-inflammatory",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Noodles"
+  }
+}
