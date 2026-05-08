@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Fermented Venezuelan Beans Casserole",
+  "description": "A comforting Venezuelan dish featuring fermented beans, raspberry jam, and a mirepoix base, served in a bento box. This vegetarian friendly casserole is perfect for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented venezuelan beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion, carrot, and celery until tender.",
+    "In a large bowl, combine the mashed fermented beans, raspberry jam, cooked quinoa, vegetable broth, salt, and black pepper, and stir until well combined.",
+    "Add the sauteed mirepoix to the bowl and stir until well combined.",
+    "Transfer the mixture to a bento box and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "latin-american",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-fermented-venezuelan-beans-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-venezuelan-beans-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:44:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "raspberry jam",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beans",
+    "descriptor": "Zesty Fermented",
+    "dishForm": "Casseroles"
+  }
+}
