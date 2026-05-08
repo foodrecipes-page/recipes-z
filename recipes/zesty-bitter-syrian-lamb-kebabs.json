@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Bitter Syrian Lamb Kebabs",
+  "description": "A traditional Syrian dish featuring lamb, Turkish delight, and bitter flavors, often served as a hangover cure. This recipe combines the tender lamb with crunchy vegetables and a sweet treat.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zest of lemon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Thread the lamb, onion, bell pepper, and bitter melon onto skewers.",
+    "Brush the skewers with olive oil and season with salt, pepper, and lemon zest.",
+    "Broil the skewers for 10 minutes, flipping halfway through.",
+    "While the skewers are cooking, mix the crushed Turkish delight with a little water to create a glaze.",
+    "After 10 minutes, brush the glaze onto the skewers and continue cooking for an additional 2 minutes.",
+    "Remove the skewers from the oven and let them rest for 5 minutes.",
+    "Serve the skewers hot, garnished with additional Turkish delight and lemon zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-bitter-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bitter-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:13:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "turkish delight",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Bitter",
+    "dishForm": "Kebabs"
+  }
+}
