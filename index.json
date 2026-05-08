@@ -5568,6 +5568,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-russian-beef-pirozhki",
+    "title": "Zesty Smoky Russian Beef Pirozhki",
+    "tags": [
+      "homemade-pastry",
+      "low-glycemic",
+      "romantic-dinner",
+      "russian-cuisine",
+      "smoky-flavors"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-slovakian-sausage-goulash",
     "title": "Zesty Smoky Slovakian Sausage Goulash",
     "tags": [
