@@ -9259,6 +9259,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-velvety-thai-meat-larb",
+    "title": "Zesty Velvety Thai Meat Larb",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "spicy-food",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-velvety-tunisian-lamb-tagine",
     "title": "Zesty Velvety Tunisian Lamb Tagine",
     "tags": [

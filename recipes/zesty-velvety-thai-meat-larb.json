@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Velvety Thai Meat Larb",
+  "description": "A fermented and velvety monsoon Thai dish featuring gochugaru and beurre-monte, this dairy-free-friendly larb is a unique twist on traditional Thai cuisine. It combines the spicy and sour flavors of Thailand with the richness of beurre-monte.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pasture-raised"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "4-6",
+      "notes": "depending on desired spice level"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented soybeans",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the beurre-monte over medium heat until melted and smooth.",
+    "Add the ground pork to the pan, breaking it up with a spoon as it cooks until it is no longer pink.",
+    "Add the gochugaru, fish sauce, lime juice, and rice vinegar to the pan, stirring to combine.",
+    "Add the Thai chilies to the pan, stirring to combine, and cook for an additional 2-3 minutes.",
+    "Stir in the chopped scallions and cilantro.",
+    "Add the fermented soybeans to the pan, stirring to combine.",
+    "Reduce heat to low and simmer the larb for 10-15 minutes, stirring occasionally, until the flavors have melded together and the larb has reached the desired consistency.",
+    "Serve the larb hot, garnished with additional scallions and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "spicy-food",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "zesty-velvety-thai-meat-larb",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-thai-meat-larb",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:42:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "beurre-monte",
+    "primaryIngredient": "gochugaru",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Larb"
+  }
+}
