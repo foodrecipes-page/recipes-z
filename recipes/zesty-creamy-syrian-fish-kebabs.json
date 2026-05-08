@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Creamy Syrian Fish Kebabs",
+  "description": "A flavorful and kid-friendly Syrian dish featuring fish, unwaxed lemon, and a creamy sauce, perfect for a weeknight dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "Cut the fish into 1-inch pieces and season with salt, black pepper, and paprika",
+    "Thread the fish onto skewers, leaving a small space between each piece",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the fish for 8-10 minutes, turning occasionally, until cooked through",
+    "Meanwhile, mix the yogurt, lemon juice, and minced garlic in a bowl",
+    "Serve the fish kebabs with the creamy yogurt sauce",
+    "Garnish with additional lemon wedges and parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "healthy",
+    "kid-friendly",
+    "middle-eastern",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-creamy-syrian-fish-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-syrian-fish-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:25:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Kebabs"
+  }
+}

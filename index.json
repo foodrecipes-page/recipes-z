@@ -1750,6 +1750,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-creamy-syrian-fish-kebabs",
+    "title": "Zesty Creamy Syrian Fish Kebabs",
+    "tags": [
+      "grilled",
+      "healthy",
+      "kid-friendly",
+      "middle-eastern",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-creamy-ukrainian-brie-pasta",
     "title": "Zesty Creamy Ukrainian Brie Pasta",
     "tags": [
@@ -2077,6 +2092,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-jamaican-pork-skewers",
+    "title": "Zesty Crispy Jamaican Pork Skewers",
+    "tags": [
+      "adventurous-eating",
+      "crispy-food",
+      "gluten-free",
+      "jamaican-cuisine",
+      "low-carb",
+      "pork-recipes"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -2760,6 +2790,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-korean-pork-chops-grill",
+    "title": "Zesty Dense Korean Pork Chops Grill",
+    "tags": [
+      "grilled-meats",
+      "high-protein",
+      "korean-style",
+      "macrobiotic",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

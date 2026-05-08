@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Crispy Jamaican Pork Skewers",
+  "description": "A pungent and crispy Jamaican dish featuring tamarind pulp and a low-carb friendly cure, perfect for adventurous eaters. This recipe combines the bold flavors of Jamaica with a crunchy texture.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "pork rinds",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine tamarind pulp, coconut milk, soy sauce, brown sugar, scotch bonnet peppers, garlic, and thyme, and blend until smooth.",
+    "Place the pork cubes in a large bowl and pour the marinade over them, tossing to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and thread onto skewers, leaving a small space between each piece.",
+    "Roll the skewers in crushed pork rinds to coat, pressing gently to adhere.",
+    "Place the skewers on a baking sheet lined with parchment paper and drizzle with a little oil.",
+    "Bake for 20-25 minutes, or until the pork is cooked through and the coating is crispy.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "crispy-food",
+    "gluten-free",
+    "jamaican-cuisine",
+    "low-carb",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-jamaican-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-jamaican-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:26:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "cure",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skewers"
+  }
+}

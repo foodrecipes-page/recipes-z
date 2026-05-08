@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Dense Korean Pork Chops Grill",
+  "description": "A garlicky and dense Korean dish featuring pork chops, perfect for a hangover cure, made with macrobiotic-friendly ingredients and grilled to perfection on a binchotan grill.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, ginger, and sesame oil.",
+    "Add the pork chops to the bowl and coat with the marinade.",
+    "Let the pork chops marinate for at least 30 minutes.",
+    "Remove the pork chops from the marinade and season with black pepper.",
+    "Grill the pork chops for 5 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "Let the pork chops rest for 5 minutes before slicing.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "korean-style",
+    "macrobiotic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-dense-korean-pork-chops-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-korean-pork-chops-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:26:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "pork chops",
+    "diet": "macrobiotic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork chops",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Grill"
+  }
+}
