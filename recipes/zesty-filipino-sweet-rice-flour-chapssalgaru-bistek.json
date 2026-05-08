@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Filipino Sweet Rice Flour Chapssalgaru Bistek",
+  "description": "A tangy and springy Filipino dish featuring sweet rice flour chapssalgaru, braised in a flavorful sauce and served in a scallop shell, perfect for a romantic dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "also known as chapssalgaru"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallops",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sweet rice flour and water to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a thin disk.",
+    "Heat a non-stick pan over medium heat and cook the disks for 2 minutes on each side.",
+    "In a separate pan, combine the coconut milk, fish sauce, lime juice, garlic, and ginger.",
+    "Bring the sauce to a boil and then reduce the heat to low and simmer for 5 minutes.",
+    "Add the cooked disks to the sauce and simmer for an additional 2 minutes.",
+    "Season the sauce with salt and pepper to taste.",
+    "Arrange the scallops in a scallop shell and spoon the sauce and disks over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "filipino-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "romantic-dinner",
+    "seafood-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-filipino-sweet-rice-flour-chapssalgaru-bistek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-filipino-sweet-rice-flour-chapssalgaru-bistek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:12:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sweet rice flour chapssalgaru",
+    "descriptor": "Zesty Springy",
+    "dishForm": "Bistek"
+  }
+}
