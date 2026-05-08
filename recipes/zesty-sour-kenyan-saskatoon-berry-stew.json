@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Sour Kenyan Saskatoon Berry Stew",
+  "description": "A sour and comforting Kenyan stew featuring Saskatoon berries, perfect for a sick day, with a pillowy texture and ayurvedic-sattvic friendly ingredients. This dish is easy to make and delicious to eat.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and cook for an additional 1 minute.",
+    "Stir in the ground turmeric, cumin, and coriander, and cook for 1 minute.",
+    "Add the Saskatoon berries, lemon juice, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kenyan-cuisine",
+    "one-pot",
+    "sour",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-sour-kenyan-saskatoon-berry-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sour-kenyan-saskatoon-berry-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "Zesty Sour",
+    "dishForm": "Stew"
+  }
+}

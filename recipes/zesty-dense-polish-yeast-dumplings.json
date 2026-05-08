@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Dense Polish Yeast Dumplings",
+  "description": "A traditional Polish dish featuring yeast and lardons, perfect for a midnight craving, this shojin-friendly recipe is dense and full of flavor, with a hint of grassy notes.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt, whisking until well combined.",
+    "Add warm water, sugar, and egg to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat a large pot of salted water to 190 degrees.",
+    "Punch down the dough and divide into 8 equal pieces, shaping each into a ball.",
+    "Add lardons to the pot and cook for 2 minutes, then add the dumplings and cook for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the pot with a slotted spoon and place on a paper towel-lined plate to drain excess moisture.",
+    "Sprinkle parsley and black pepper over the dumplings and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "polish-cuisine",
+    "shojin-friendly",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-dense-polish-yeast-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-polish-yeast-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:57:40Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "lardons-render",
+    "primaryIngredient": "yeast",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "yeast",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Dumplings"
+  }
+}

@@ -2403,6 +2403,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-polish-yeast-dumplings",
+    "title": "Zesty Dense Polish Yeast Dumplings",
+    "tags": [
+      "comfort-food",
+      "homemade",
+      "polish-cuisine",
+      "shojin-friendly",
+      "yeast-dough"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-tunisian-lamb-tagine",
     "title": "Zesty Dense Tunisian Lamb Tagine",
     "tags": [
@@ -5184,6 +5198,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-nutty-portuguese-rhubarb-tagine",
+    "title": "Zesty Nutty Portuguese Rhubarb Tagine",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "portuguese-dish",
+      "rhubarb-recipe",
+      "tagine-pot",
+      "whole30-friendly"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-nutty-saudi-arabian-lamb-pilaf",
     "title": "Zesty Nutty Saudi Arabian Lamb Pilaf",
     "tags": [
@@ -6749,6 +6778,20 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 18,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-sour-kenyan-saskatoon-berry-stew",
+    "title": "Zesty Sour Kenyan Saskatoon Berry Stew",
+    "tags": [
+      "comfort-food",
+      "kenyan-cuisine",
+      "one-pot",
+      "sour",
+      "vegan-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Nutty Portuguese Rhubarb Tagine",
+  "description": "A kid-friendly Portuguese dish featuring rhubarb, with a nutty and glassy-jelly texture, made in a tagine pot and Whole30-friendly. The shio-koji cure adds a unique flavor to the rhubarb.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "cure"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds, shio-koji cure, and grated ginger.",
+    "Add the fresh rhubarb to the bowl and toss to coat with the almond mixture.",
+    "In a small bowl, whisk together the raw honey, lemon juice, and sea salt.",
+    "Pour the honey mixture over the rhubarb mixture and toss to coat.",
+    "Transfer the mixture to a tagine pot and add the filtered water.",
+    "Cover the tagine pot and bake for 30 minutes.",
+    "Remove the tagine pot from the oven and let it cool to room temperature.",
+    "Serve the Zesty Nutty Portuguese Rhubarb Tagine chilled, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "portuguese-dish",
+    "rhubarb-recipe",
+    "tagine-pot",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "zesty-nutty-portuguese-rhubarb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-portuguese-rhubarb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "rhubarb",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Tagine"
+  }
+}
