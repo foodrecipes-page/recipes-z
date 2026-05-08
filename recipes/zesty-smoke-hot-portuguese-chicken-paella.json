@@ -1,0 +1,109 @@
+{
+  "title": "zesty smoke-hot portuguese chicken paella",
+  "description": "post-workout portuguese dish featuring smoky, garlicky flavors with the freshness of lime leaves.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "lombardy garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4-6",
+      "notes": "fresh"
+    },
+    {
+      "name": "Spanish saffron",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the chicken and cook until browned, about 5 minutes.",
+    "add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "add the garlic and cook for 1 minute, stirring constantly.",
+    "add the Arborio rice and stir for 1-2 minutes.",
+    "add the saffron, chicken broth, and lime leaves; bring to a boil.",
+    "reduce heat to low, cover, and simmer for 20-25 minutes, stirring occasionally.",
+    "remove from heat, season with sea salt to taste, and garnish with parsley.",
+    "let stand 5 minutes before serving.",
+    "serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "post-workout",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-smoke-hot-portuguese-chicken-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoke-hot-portuguese-chicken-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:06:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "smoke-hot",
+    "primaryIngredient": "lime leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Smoke-Hot",
+    "dishForm": "Paella"
+  }
+}
