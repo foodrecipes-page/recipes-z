@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Spring Canadian Asparagus Gratin",
+  "description": "A fresh and creamy Canadian dish featuring spring asparagus, perfect for a special occasion. This low-fat friendly recipe is steamed to perfection in individual mini cocottes.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh asparagus",
+      "amount": "12 spears",
+      "notes": "thick and tender"
+    },
+    {
+      "name": "light cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Trim the asparagus spears to fit the individual mini cocottes.",
+    "In a large bowl, whisk together the light cream, grated cheddar cheese, salt, black pepper, and garlic powder.",
+    "Add the lemon zest and chopped fresh parsley to the bowl and stir to combine.",
+    "Place 3 asparagus spears in each mini cocotte and pour the cream mixture over the asparagus.",
+    "Cover the mini cocottes with foil and steam in the oven for 12 minutes.",
+    "Remove the foil and continue baking for an additional 5 minutes, or until the top is lightly browned.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "individual-servings",
+    "low-fat",
+    "special-occasion",
+    "spring-vegetables",
+    "steamed-vegetables"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "zesty-spring-canadian-asparagus-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spring-canadian-asparagus-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "cream",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "asparagus",
+    "descriptor": "Zesty Spring",
+    "dishForm": "Gratin"
+  }
+}
