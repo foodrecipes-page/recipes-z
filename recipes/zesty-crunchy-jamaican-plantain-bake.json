@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Crunchy Jamaican Plantain Bake",
+  "description": "A sweet and crunchy Jamaican dish featuring plantains and amaretti, perfect for meal prep and plant-based diets",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4 large",
+      "notes": "green or ripe"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1 cup crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1 diced",
+      "notes": "use gloves when handling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Peel the plantains and slice them into 1-inch rounds.",
+    "In a large bowl, mix together the crushed amaretti cookies, salt, and baking powder.",
+    "Add the brown sugar, melted coconut oil, and lime juice to the bowl and stir until well combined.",
+    "Add the sliced plantains to the bowl and toss until they are evenly coated with the amaretti mixture.",
+    "Fold in the diced scotch bonnet peppers.",
+    "Transfer the plantain mixture to a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the plantains are tender and the top is crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-food",
+    "crunchy-snacks",
+    "jamaican-cuisine",
+    "meal-prep",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "zesty-crunchy-jamaican-plantain-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-jamaican-plantain-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "salt-bake",
+    "primaryIngredient": "amaretti",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "plantains",
+    "descriptor": "Zesty crunchy",
+    "dishForm": "Bake"
+  }
+}
