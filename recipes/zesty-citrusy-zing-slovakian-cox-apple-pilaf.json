@@ -1,0 +1,95 @@
+{
+  "title": "zesty citrusy zing slovakian cox-apple pilaf",
+  "description": "a silky slovakian dish featuring cox-apple and a zesty citrus flavor, perfect for a sunday brunch",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cox apple",
+      "amount": "1 large"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of butter in the donabe over medium heat",
+    "add the onion and cook for 2-3 minutes until softened",
+    "add the white rice and cook for 1-2 minutes until lightly toasted",
+    "add the chicken broth, lemon zest, dried dill weed, salt, and black pepper, stir well",
+    "add the cox apple to the donabe and stir to combine",
+    "bring the mixture to a boil, then reduce the heat to low and cover the donabe",
+    "simmer for 15-20 minutes until the liquid has been absorbed and the rice is tender",
+    "fluff the pilaf with a fork and top with chopped fresh parsley"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "zesty-citrusy-zing-slovakian-cox-apple-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-zing-slovakian-cox-apple-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:09:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "cox-apple",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cox-Apple",
+    "descriptor": "Zesty Citrusy Zing",
+    "dishForm": "Pilaf"
+  }
+}
