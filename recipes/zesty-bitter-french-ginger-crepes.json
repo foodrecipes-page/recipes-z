@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Bitter French Ginger Crepes",
+  "description": "A French-inspired brunch dish featuring ginger paste and dashi extract in a sugar-free crepe, served in a cataplana vessel, with a bitter and aerated twist.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together buckwheat flour, eggs, ginger paste, dashi extract, and salt until smooth.",
+    "Gradually add unsweetened almond milk to the bowl and whisk until the batter is well combined and free of lumps.",
+    "Heat a small non-stick pan over medium heat and brush with melted butter.",
+    "Pour about 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook the crepe for about 2 minutes, until the bottom is light brown, then loosen with a spatula and flip.",
+    "Cook the other side for another minute, until light brown, then repeat with the remaining batter.",
+    "Serve the crepes in a cataplana vessel, garnished with fresh herbs if desired.",
+    "To enhance the bitter flavor, serve with a side of bitter greens or citrus wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cataplana-recipes",
+    "french-inspired",
+    "gluten-free",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-bitter-french-ginger-crepes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bitter-french-ginger-crepes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:54:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ginger paste",
+    "diet": "sugar-free",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "ginger",
+    "descriptor": "Zesty Bitter",
+    "dishForm": "Crepes"
+  }
+}
