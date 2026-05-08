@@ -1,0 +1,94 @@
+{
+  "title": "Zenith Dense Japanese Pork Tamagoyaki",
+  "description": "A cultured and dense Japanese dish from the Tohoku region, featuring pork buns and yakimono-grilled ingredients in a low-sodium tamagoyaki form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yakimono sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together yakimono sauce, mirin, soy sauce, and sugar.",
+    "Add the sliced pork loin to the bowl and marinate for at least 30 minutes.",
+    "In a separate bowl, beat the eggs and set aside.",
+    "Remove the pork from the marinade and coat with panko breadcrumbs.",
+    "Brush the yakimono grill with sesame oil to prevent sticking.",
+    "Grill the pork for 5 minutes per side, or until cooked through.",
+    "In a small bowl, mix the beaten eggs with a small amount of the marinade.",
+    "Pour the egg mixture into a tamagoyaki pan and cook over medium heat.",
+    "Once the eggs are almost set, add the grilled pork to the center of the tamagoyaki and roll into a dense cylinder."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dense-dishes",
+    "grilled-pork",
+    "japanese-cuisine",
+    "low-sodium",
+    "tamagoyaki",
+    "tohoku-region"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zenith-dense-japanese-pork-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-dense-japanese-pork-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:38:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "buns",
+    "diet": "low-sodium",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Zenith Dense",
+    "dishForm": "Tamagoyaki"
+  }
+}

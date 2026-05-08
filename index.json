@@ -57,6 +57,21 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-dense-japanese-pork-tamagoyaki",
+    "title": "Zenith Dense Japanese Pork Tamagoyaki",
+    "tags": [
+      "dense-dishes",
+      "grilled-pork",
+      "japanese-cuisine",
+      "low-sodium",
+      "tamagoyaki",
+      "tohoku-region"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zenith-earthy-korean-beans-stew",
     "title": "Zenith Earthy Korean Beans Stew",
     "tags": [
