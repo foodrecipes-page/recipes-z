@@ -2762,6 +2762,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-tobiko-bowl",
+    "title": "Zesty Egyptian Tobiko Bowl",
+    "tags": [
+      "healthy",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-turkey-neck-skewers",
     "title": "Zesty Egyptian Turkey Neck Skewers",
     "tags": [
@@ -7170,6 +7185,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spicy-tunisian-lamb-tagine",
+    "title": "Zesty Spicy Tunisian Lamb Tagine",
+    "tags": [
+      "cheesy-pull",
+      "lamb-recipes",
+      "paleo-friendly",
+      "spicy-food",
+      "tunisian-cuisine",
+      "wood-fired"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 180,
     "shard": "z"
   },
   {

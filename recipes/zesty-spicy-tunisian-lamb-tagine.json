@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Spicy Tunisian Lamb Tagine",
+  "description": "A spicy and flavorful Tunisian dish featuring lamb, green salsa, and a cheesy pull, all wood-fired-baked to perfection, this paleo-friendly recipe is a must try for any occasion.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, cumin, and coriander.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the garlic and ginger to the pot and cook until fragrant.",
+    "Add the lamb shoulder to the pot and sear until browned on all sides.",
+    "Add the green salsa, cherry tomatoes, and feta cheese to the pot.",
+    "Cover the pot and transfer it to the preheated wood-fired oven.",
+    "Bake for 2.5 hours or until the lamb is tender and the cheese is melted and bubbly.",
+    "Remove the pot from the oven and sprinkle with fresh parsley.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy-pull",
+    "lamb-recipes",
+    "paleo-friendly",
+    "spicy-food",
+    "tunisian-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "zesty-spicy-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:13:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "green salsa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Tagine"
+  }
+}

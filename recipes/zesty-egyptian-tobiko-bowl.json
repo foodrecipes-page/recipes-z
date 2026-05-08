@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Egyptian Tobiko Bowl",
+  "description": "A resinous and snappy Egyptian dish featuring tobiko, served in a talavera plate, perfect for a quick and easy meal prep",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tobiko",
+      "amount": "1 cup",
+      "notes": "flying fish roe"
+    },
+    {
+      "name": "Cooked Quinoa",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Roasted Chickpeas",
+      "amount": "1 cup",
+      "notes": "seasoned with cumin and paprika"
+    },
+    {
+      "name": "Diced Cucumber",
+      "amount": "1 cup",
+      "notes": "peeled and seeded"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "curly leaf"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to roast the chickpeas",
+    "Toss the chickpeas with cumin and paprika and roast in the oven for 30 minutes",
+    "Cook the quinoa according to package instructions",
+    "In a large bowl, combine the cooked quinoa, roasted chickpeas, diced cucumber, and diced tomatoes",
+    "In a small bowl, whisk together the lemon juice and olive oil",
+    "Pour the lemon juice and olive oil mixture over the quinoa mixture and toss to combine",
+    "Stir in the chopped fresh parsley, salt, and black pepper",
+    "Top the quinoa mixture with tobiko and serve in a talavera plate",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Serve chilled and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-egyptian-tobiko-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-tobiko-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "tobiko",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tobiko",
+    "descriptor": "Zesty resinous",
+    "dishForm": "Bowl"
+  }
+}
