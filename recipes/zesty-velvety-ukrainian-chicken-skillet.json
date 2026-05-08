@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Velvety Ukrainian Chicken Skillet",
+  "description": "A tangy and velvety Ukrainian dish featuring fresh thyme, slow-cooked to perfection in a cast-iron skillet, this recipe is a show-off dish that is low in calories and rich in flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until it is browned on all sides.",
+    "Add the chicken broth, dried dill weed, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 20 minutes.",
+    "Stir in the chopped fresh thyme and sour cream.",
+    "Continue to simmer the mixture for an additional 5 minutes or until the chicken is cooked through.",
+    "Serve the chicken and sauce hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "chicken-dish",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-velvety-ukrainian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-ukrainian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:21:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "fresh thyme",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Skillet"
+  }
+}
