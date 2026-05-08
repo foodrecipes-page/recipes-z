@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Smoky British Mixed Berries Crumble",
+  "description": "A romantic British dessert featuring frozen mixed berries, with a smoky and zesty twist, made in an iron teppan, perfect for a cozy evening.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "frozen mixed berries",
+      "amount": "2 cups",
+      "notes": "thawed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat, ensuring it reaches a safe temperature of 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the thawed mixed berries, coconut sugar, smoked paprika, lemon zest, and salt.",
+    "In a separate bowl, whisk together the almond flour, coconut oil, and large eggs until well combined.",
+    "Add the dry ingredients to the berry mixture and stir until a crumbly mixture forms.",
+    "Pour the crumbly mixture into the preheated iron teppan and spread it out evenly.",
+    "Cook the crumble for 25-30 minutes, or until the topping is golden brown and the fruit is bubbly.",
+    "Remove the teppan from the heat and let it cool for a few minutes before serving.",
+    "Serve the Zesty Smoky British Mixed Berries Crumble warm, garnished with fresh berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "crumble",
+    "iron-teppan",
+    "mixed-berries",
+    "paleo-friendly",
+    "romantic",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "zesty-smoky-british-mixed-berries-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-british-mixed-berries-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:53:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mixed berries",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Crumble"
+  }
+}
