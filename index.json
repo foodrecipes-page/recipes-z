@@ -5146,6 +5146,23 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoked-hunan-penne-pasta",
+    "title": "Zesty Smoked Hunan Penne Pasta",
+    "tags": [
+      "chicken",
+      "citrusy",
+      "high-protein",
+      "one-pan",
+      "pasta",
+      "smoked-food",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Chinese-Italian fusion",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoked-irish-grana-padano-bake",
     "title": "Zesty Smoked Irish Grana-Padano Bake",
     "tags": [

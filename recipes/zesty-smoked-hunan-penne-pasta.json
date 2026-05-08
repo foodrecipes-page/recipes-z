@@ -1,0 +1,117 @@
+{
+  "title": "Zesty Smoked Hunan Penne Pasta",
+  "description": "A fusion of Chinese Hunan flavors with the Italian classic Penne Pasta, made with tender smoked chicken and a tangy citrus sauce.",
+  "cuisine": "Chinese-Italian fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Smoked chicken breast",
+      "amount": "1 lb",
+      "notes": "grilled or store-bought"
+    },
+    {
+      "name": "Hunan sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Citrus juice (orange, lemon, lime)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Cook the Penne pasta according to package instructions until al dente. Drain and set aside.",
+    "Season the smoked chicken breast with salt, black pepper, and chili flakes.",
+    "Grill or roast the chicken breast in the oven for 15-20 minutes or until cooked through.",
+    "In a large skillet, heat 2 tbsp of oil over medium heat.",
+    "Add the grated ginger and minced garlic and sauté for 1 minute until fragrant.",
+    "Pour in the Hunan sauce, citrus juice, soy sauce, and sugar. Stir to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes until it thickens.",
+    "Add the cooked Penne pasta to the sauce and toss to coat.",
+    "Slice the grilled chicken breast into thin strips and add to the pasta.",
+    "Top with chopped green onions and season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "citrusy",
+    "high-protein",
+    "one-pan",
+    "pasta",
+    "smoked-food",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-smoked-hunan-penne-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoked-hunan-penne-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "penne pasta",
+    "diet": "shojin",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "Penne",
+    "descriptor": "Zesty Smoked",
+    "dishForm": "Pasta"
+  }
+}
