@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Boiled Vietnamese Cheese Ca Kho To",
+  "description": "A briny and creamy Vietnamese dish featuring shredded Mexican cheese, boiled to perfection in a kadhai, and served in a ca-kho-to form, perfect for a keto-friendly dinner option.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup shredded",
+      "notes": "preferably a blend of cheddar and mozzarella"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality fish sauce for the best flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large kadhai, combine the water, fish sauce, lime juice, garlic, ginger, salt, and black pepper, and bring to a boil over high heat.",
+    "Once boiling, reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the shredded Mexican cheese to the kadhai and stir until it is fully melted and the mixture is smooth.",
+    "Continue to simmer the mixture for an additional 5 minutes, or until it has thickened slightly and reduced by about half.",
+    "Stir in the chopped green onions and cook for an additional minute.",
+    "Remove the kadhai from the heat and let it cool slightly.",
+    "Transfer the cheese mixture to a ca-kho-to form and let it cool to room temperature.",
+    "Refrigerate the ca-kho-to for at least 2 hours before serving.",
+    "Slice the ca-kho-to into thick rounds and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "zesty-boiled-vietnamese-cheese-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-boiled-vietnamese-cheese-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:04:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Boiled",
+    "dishForm": "Ca Kho To"
+  }
+}
