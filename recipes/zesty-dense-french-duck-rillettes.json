@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Dense French Duck Rillettes",
+  "description": "A winey and dense French dish featuring duck, white chocolate chips, and a papillote cooking method, this sugar-free-friendly recipe is a nostalgic Basque-French delight.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 1/2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the duck breast with salt, black pepper, and paprika.",
+    "In a large Dutch oven, combine the red wine, shallots, garlic, and thyme.",
+    "Add the duck breast to the Dutch oven and cover with a papillote.",
+    "Bake for 2 1/2 hours or until the duck is tender.",
+    "Remove the duck from the oven and let it cool.",
+    "Shred the duck into small pieces and mix with white chocolate chips.",
+    "Serve the rillettes chilled, garnished with fresh thyme.",
+    "Store any leftovers in an airtight container in the refrigerator.",
+    "Reheat the rillettes gently before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "duck-recipes",
+    "french-cuisine",
+    "make-ahead",
+    "special-occasion",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-dense-french-duck-rillettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-french-duck-rillettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:12:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "sugar-free",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Rillettes"
+  }
+}

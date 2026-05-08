@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Irish Salmon Pudding",
+  "description": "A peppery and velvety Irish dish featuring salmon, muscovado sugar, and a poaching method, this keto-friendly recipe is a quick fix for a delicious meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the heavy cream, muscovado sugar, and unsalted butter, and heat over medium heat until the sugar has dissolved.",
+    "Remove the saucepan from the heat and stir in the chopped fresh dill, black pepper, and salt.",
+    "Place the salmon fillets in a large baking dish and pour the cream mixture over the top of the salmon.",
+    "Cover the baking dish with aluminum foil and poach the salmon in the oven for 12 minutes.",
+    "Remove the foil and continue to cook for an additional 2 minutes, or until the salmon is cooked through.",
+    "Remove the salmon from the oven and stir in the lemon juice.",
+    "Serve the salmon pudding hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "irish-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "poached-fish",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "zesty-irish-salmon-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-salmon-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:12:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Zesty peppery",
+    "dishForm": "Pudding"
+  }
+}

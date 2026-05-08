@@ -2940,6 +2940,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-french-duck-rillettes",
+    "title": "Zesty Dense French Duck Rillettes",
+    "tags": [
+      "duck-recipes",
+      "french-cuisine",
+      "make-ahead",
+      "special-occasion",
+      "wine-pairing"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-french-vegetable-gratin",
     "title": "Zesty Dense French Vegetable Gratin",
     "tags": [
@@ -4881,6 +4895,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-salmon-pudding",
+    "title": "Zesty Irish Salmon Pudding",
+    "tags": [
+      "gluten-free",
+      "irish-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "poached-fish",
+      "quick-fix"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 24,
     "shard": "z"
   },
   {
