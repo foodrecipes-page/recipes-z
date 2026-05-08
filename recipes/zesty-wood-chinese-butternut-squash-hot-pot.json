@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Wood Chinese Butternut Squash Hot Pot",
+  "description": "A comforting and light Chinese dish featuring wood-fired baked butternut squash, perfect for a cold evening, this halal-friendly hot pot is sure to delight.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "wood-fired baked garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the cubed butternut squash with 1 tablespoon of sesame oil, salt, and pepper, and spread on a baking sheet.",
+    "Roast the butternut squash in the oven for 30 minutes, or until tender.",
+    "In a large pot, combine the chicken broth, soy sauce, minced garlic, grated ginger, star anise, and ground cumin.",
+    "Bring the broth mixture to a boil, then reduce the heat to a simmer.",
+    "Add the roasted butternut squash and cubed tofu to the pot.",
+    "Simmer the hot pot for 10 minutes, or until the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the hot pot hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "comfort-food",
+    "halal-friendly",
+    "one-pot",
+    "winter-warmers",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-wood-chinese-butternut-squash-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-wood-chinese-butternut-squash-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:03:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "butternut squash",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Zesty Wood",
+    "dishForm": "Hot Pot"
+  }
+}
