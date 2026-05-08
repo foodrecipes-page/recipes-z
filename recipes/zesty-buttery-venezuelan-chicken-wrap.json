@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Buttery Venezuelan Chicken Wrap",
+  "description": "A buttery and snappy Venezuelan dish featuring ginger paste, wrapped in a pandan leaf for a unique and comforting meal, this keto friendly recipe is perfect for a quick dinner",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Submerge the chicken strips in an ice bath for 30 minutes to shock the meat and make it more tender.",
+    "Remove the chicken from the ice bath and pat it dry with paper towels to remove excess moisture.",
+    "In a large bowl, mix together the ginger paste, melted butter, lime juice, salt, black pepper, and garlic powder.",
+    "Add the chicken strips to the bowl and toss to coat evenly with the ginger butter mixture.",
+    "Wrap each chicken strip in a pandan leaf, making sure to seal the leaf tightly around the chicken.",
+    "Heat a large skillet over medium high heat and cook the wrapped chicken for 5-6 minutes on each side, until the chicken is cooked through and the pandan leaf is crispy.",
+    "Serve the chicken wraps hot, garnished with additional lime wedges if desired.",
+    "Let the chicken rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "keto-friendly",
+    "latin-american",
+    "low-carb",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "zesty-buttery-venezuelan-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-venezuelan-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "ginger paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Wrap"
+  }
+}

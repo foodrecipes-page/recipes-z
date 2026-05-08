@@ -1115,6 +1115,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-buttery-venezuelan-chicken-wrap",
+    "title": "Zesty Buttery Venezuelan Chicken Wrap",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "keto-friendly",
+      "latin-american",
+      "low-carb",
+      "quick-dinner"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-canadian-cashew-mousse",
     "title": "Zesty Canadian Cashew Mousse",
     "tags": [
@@ -4240,6 +4255,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 38,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-herbal-algerian-fish-tagine",
+    "title": "Zesty Herbal Algerian Fish Tagine",
+    "tags": [
+      "algerian",
+      "fish",
+      "gluten-free",
+      "herbal",
+      "low-glycemic",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {

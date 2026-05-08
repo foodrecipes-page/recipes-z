@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Herbal Algerian Fish Tagine",
+  "description": "A flavorful and aromatic Algerian dish featuring fish cooked in a zesty herbal sauce, perfect for a crowd, this recipe is low in glycemic index and can be served in a tagine vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine vessel over medium heat.",
+    "Add the chopped parsley and cilantro to the oil and cook until fragrant, about 1 minute.",
+    "Add the minced garlic and grated ginger to the pot and cook for another minute, stirring constantly.",
+    "Add the cod fish pieces to the pot and cook until browned on all sides, about 5 minutes.",
+    "In a small bowl, whisk together the fish sauce and lemon juice until well combined.",
+    "Pour the fish sauce mixture over the fish and herbs in the tagine vessel.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Cover the tagine vessel with a lid and cook over low heat for 10 minutes, or until the fish is cooked through.",
+    "Serve the Zesty Herbal Algerian Fish Tagine hot, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fish",
+    "gluten-free",
+    "herbal",
+    "low-glycemic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-herbal-algerian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-herbal-algerian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "emulsify",
+    "primaryIngredient": "fish sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Herbal",
+    "dishForm": "Tagine"
+  }
+}
