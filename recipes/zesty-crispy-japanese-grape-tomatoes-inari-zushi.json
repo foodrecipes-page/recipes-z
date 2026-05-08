@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Crispy Japanese Grape Tomatoes Inari Zushi",
+  "description": "A winey and crispy Japanese dish from the Tohoku region featuring grape tomatoes and coconut cream, served in a Buddhist temple friendly form of inarizushi.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Tomatoes",
+      "amount": "12 oz",
+      "notes": "halved"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Inari Pouches",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crushed Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, rice vinegar, sugar, and salt.",
+    "Add the halved grape tomatoes to the bowl and toss to coat with the coconut cream mixture.",
+    "Arrange the grape tomatoes on a baking sheet lined with parchment paper.",
+    "Drizzle the sesame oil over the grape tomatoes and sprinkle with crushed sesame seeds.",
+    "Bake the grape tomatoes in the preheated oven for 15 minutes, or until crispy.",
+    "While the grape tomatoes are baking, cook the inari pouches according to the package instructions.",
+    "To assemble the inarizushi, fill each inari pouch with a few crispy grape tomatoes and a sprinkle of chopped cilantro.",
+    "Serve the zesty crispy Japanese grape tomatoes inarizushi immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "crispy-snacks",
+    "japanese-cuisine",
+    "tohoku-region",
+    "vegetarian-friendly",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "zesty-crispy-japanese-grape-tomatoes-inari-zushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-japanese-grape-tomatoes-inari-zushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:59:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "buddhist-temple",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Inari Zushi"
+  }
+}
