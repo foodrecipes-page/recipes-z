@@ -4745,6 +4745,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-kenyan-peanut-cookies",
+    "title": "Zesty Kenyan Peanut Cookies",
+    "tags": [
+      "kenyan-dish",
+      "keto-friendly",
+      "lazy-sunday",
+      "low-carb",
+      "peanut-butter",
+      "sour",
+      "tender"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-kenyan-stilton-fried-rice",
     "title": "Zesty Kenyan Stilton Fried-Rice",
     "tags": [
@@ -5377,6 +5393,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-eggplant-baba-ganoush",
+    "title": "Zesty Middle Eastern Eggplant Baba Ganoush",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "nut-free",
+      "one-bowl",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 65,
     "shard": "z"
   },
   {

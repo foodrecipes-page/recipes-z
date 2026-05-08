@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Kenyan Peanut Cookies",
+  "description": "Tender and sour Kenyan dish featuring peanut cookies and pickle, perfect for a lazy Sunday, and keto-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, granulated sweetener, and salt.",
+    "In another bowl, mix peanut butter, pickle juice, eggs, and vanilla extract until smooth.",
+    "Combine the wet and dry ingredients and stir until a dough forms.",
+    "Fold in chopped peanuts.",
+    "Scoop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 12 minutes or until lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan-dish",
+    "keto-friendly",
+    "lazy-sunday",
+    "low-carb",
+    "peanut-butter",
+    "sour",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "zesty-kenyan-peanut-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-peanut-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "peanut cookies",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Zesty Lazy",
+    "dishForm": "Cookies"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Middle Eastern Eggplant Baba Ganoush",
+  "description": "A garlicky and flaky Middle Eastern dish featuring roasted eggplant, cider, and ferment-kimchi, perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "preferably black beauty or similar variety"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Poke the eggplants with a fork a few times and roast them in the oven for 45 minutes.",
+    "Remove the eggplants from the oven and let them cool down.",
+    "Peel the eggplants and place them in a blender or food processor.",
+    "Add the garlic, cider vinegar, ferment-kimchi, lemon juice, olive oil, salt, and black pepper to the blender.",
+    "Blend the mixture until it's smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the baba ganoush to a serving bowl and garnish with parsley or paprika."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "nut-free",
+    "one-bowl",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "zesty-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cider",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Baba Ganoush"
+  }
+}
