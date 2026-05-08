@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Crisp Thai Shrimp Som Tum",
+  "description": "A fresh and light Thai dish featuring sauteed shrimp and amaretti, inspired by the streets of Bangkok, this pescatarian-friendly som tum is a perfect combination of flavors and textures. It is made with a variety of ingredients, including shrimp, amaretti, and vegetables, all mixed together with a zesty dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet and saute the red onion, cucumber, and tomato until the vegetables are tender.",
+    "Add the crushed amaretti cookies to the skillet and stir to combine.",
+    "In a small bowl, whisk together the fish sauce, lime juice, chili flakes, and salt.",
+    "Pour the dressing over the vegetables and cookies in the skillet and stir to combine.",
+    "Add the cooked shrimp back to the skillet and stir to combine with the vegetables and dressing.",
+    "Transfer the som tum to a serving platter and sprinkle with chopped peanuts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "lunch-ideas",
+    "pescatarian",
+    "shrimp-recipe",
+    "som-tum",
+    "thai-street-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-crisp-thai-shrimp-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-thai-shrimp-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:52:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "amaretti",
+    "diet": "pescatarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Som Tum"
+  }
+}

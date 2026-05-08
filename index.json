@@ -1676,6 +1676,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-thai-shrimp-som-tum",
+    "title": "Zesty Crisp Thai Shrimp Som Tum",
+    "tags": [
+      "asian-cuisine",
+      "lunch-ideas",
+      "pescatarian",
+      "shrimp-recipe",
+      "som-tum",
+      "thai-street-food"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-turkish-foie-gras-kisir",
     "title": "Zesty Crisp Turkish Foie Gras Kisir",
     "tags": [
