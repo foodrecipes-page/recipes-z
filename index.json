@@ -1260,6 +1260,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chewy-mexican-mushroom-tacos",
+    "title": "Zesty Chewy Mexican Mushroom Tacos",
+    "tags": [
+      "exotic-flavors",
+      "mexican-food",
+      "midnight-cravings",
+      "ovo-vegetarian",
+      "spherification",
+      "unique-textures"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-chewy-paella-moroccan-paella-rice-paella",
     "title": "Zesty Chewy Paella Moroccan Paella Rice Paella",
     "tags": [

@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Chewy Mexican Mushroom Tacos",
+  "description": "A cultured and chewy Oaxacan dish featuring Thai holy basil krapao, spherified for a unique texture, and suitable for ovo-vegetarian diets. This midnight craving dish combines Mexican and Thai flavors for a delicious and exotic taste experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "holy basil",
+      "amount": "1/4 cup",
+      "notes": "Thai holy basil krapao"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for spherification bath"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "ovo-vegetarian friendly"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and garlic and saute until softened.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the holy basil and cook for an additional minute.",
+    "In a small bowl, mix the sodium alginate with a small amount of water to create a spherification bath.",
+    "Drop small amounts of the mushroom mixture into the spherification bath and let cook for 2-3 minutes.",
+    "Remove the spherified mushroom mixture from the bath with a slotted spoon and place on a paper towel lined plate.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few spherified mushroom mixture pieces onto a tortilla and topping with cheese, lime juice, and any desired additional toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic-flavors",
+    "mexican-food",
+    "midnight-cravings",
+    "ovo-vegetarian",
+    "spherification",
+    "unique-textures"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-chewy-mexican-mushroom-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chewy-mexican-mushroom-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:57:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "ovo-vegetarian",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Tacos"
+  }
+}
