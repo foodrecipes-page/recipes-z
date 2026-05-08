@@ -2034,6 +2034,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-ukrainian-beet-roast",
+    "title": "Zesty Crispy Ukrainian Beet Roast",
+    "tags": [
+      "crispy",
+      "fermented",
+      "gluten-free",
+      "ukrainian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-beef-stew",
     "title": "Zesty Croatian Beef Stew",
     "tags": [
@@ -7813,6 +7828,21 @@
     "tags": [],
     "cuisine": "Venezuelan",
     "totalTimeMin": null,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-chicken-noodles",
+    "title": "Zesty Vietnamese Chicken Noodles",
+    "tags": [
+      "high-protein",
+      "noodle-dish",
+      "one-pan",
+      "quick-meal",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {

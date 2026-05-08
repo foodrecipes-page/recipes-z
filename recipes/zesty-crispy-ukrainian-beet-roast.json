@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Crispy Ukrainian Beet Roast",
+  "description": "A fermented and crispy Ukrainian dish featuring chives and roast, perfect for a weeknight dinner, this recipe is ayurvedic-tamasic-friendly and offers a unique blend of flavors and textures.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together caraway seeds, salt, and black pepper.",
+    "Add the cubed beets to the bowl and toss to coat with the spice mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beet mixture to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "While the beets are roasting, mix the chopped chives and apple cider vinegar in a small bowl.",
+    "After the beets have roasted for 20 minutes, remove the skillet from the oven and stir in the chive mixture.",
+    "Return the skillet to the oven and continue roasting for an additional 10 minutes, or until the beets are crispy.",
+    "Remove the skillet from the oven and let the beets cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fermented",
+    "gluten-free",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-crispy-ukrainian-beet-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-ukrainian-beet-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "chives",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Roast"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Vietnamese Chicken Noodles",
+  "description": "A rich and flavorful Vietnamese dish featuring chicken, noodles, and rocket, perfect for a solo dinner, this recipe is high in protein and can be prepared in under 30 minutes.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "rocket leaves",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the rice noodles to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the rocket leaves to the skillet and cook until wilted, about 2 minutes.",
+    "In a small bowl, whisk together the fish sauce, lime juice, salt, and black pepper.",
+    "Pour the sauce over the noodles and chicken, and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 1 minute, until the chicken is coated in the sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "quick-meal",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "rocket",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Noodles"
+  }
+}
