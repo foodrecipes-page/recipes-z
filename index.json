@@ -435,6 +435,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-and-creamy-french-chicken-normande-blanquette",
+    "title": "Zesty and Creamy French Chicken Normande Blanquette",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "french",
+      "normandy",
+      "one-pan",
+      "wine-based"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-and-zingy-japanese-lentils-kanto-tan-tan-udon",
     "title": "Zesty and Zingy Japanese Lentils Kanto Tan-Tan-Udon",
     "tags": [
@@ -2688,6 +2703,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-fried-croatian-horseradish-dumplings",
+    "title": "Zesty Fried Croatian Horseradish Dumplings",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "fermented-foods",
+      "fried-dishes",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {

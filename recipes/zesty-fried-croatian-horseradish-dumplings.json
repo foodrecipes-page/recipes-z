@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Fried Croatian Horseradish Dumplings",
+  "description": "A traditional Croatian dish featuring fermented horseradish and served in a ti leaf wrap, perfect for a comforting meal on a sick day. The combination of horseradish, rice, and khao khuas gives this dish a unique flavor and texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "horseradish",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "khao khuas",
+      "amount": "1 cup",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the fermented horseradish, cooked rice, toasted and ground khao khuas, salt, black pepper, and minced garlic.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Lay a ti leaf flat on a work surface and place about 1/4 cup of the horseradish mixture in the center of the leaf.",
+    "Fold the ti leaf over the filling to form a triangle or square shape and repeat with the remaining ingredients.",
+    "Heat the olive oil in a large frying pan over medium heat.",
+    "When the oil is hot, add a few of the dumplings to the pan and fry until they are golden brown and crispy.",
+    "Repeat the frying process with the remaining dumplings.",
+    "Serve the Zesty Fried Croatian Horseradish Dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "fermented-foods",
+    "fried-dishes",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-fried-croatian-horseradish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fried-croatian-horseradish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:20:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "horseradish",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "horseradish",
+    "descriptor": "Zesty Fried",
+    "dishForm": "Dumplings"
+  }
+}
