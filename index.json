@@ -1173,6 +1173,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-venezuelan-cheese-quesadilla",
+    "title": "Zesty Charred Venezuelan Cheese Quesadilla",
+    "tags": [
+      "high-protein",
+      "lacto-vegetarian",
+      "latin-american",
+      "one-pan",
+      "quick-fix"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 18,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-vietnamese-pork-bun-cha",
     "title": "Zesty Charred Vietnamese Pork Bun Cha",
     "tags": [

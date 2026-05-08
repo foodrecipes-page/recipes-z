@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Charred Venezuelan Cheese Quesadilla",
+  "description": "A charred, creamy, quick-fix Venezuelan dish featuring tabasco sauce, perfect for a lacto-vegetarian friendly meal, this zesty cheese quesadilla is a delicious twist on traditional Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tortilla",
+      "amount": "2 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Queso Blanco",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Tabasco Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Butter one side of each tortilla.",
+    "Place one tortilla, buttered side down, in the skillet.",
+    "Sprinkle shredded Queso Blanco on half of the tortilla.",
+    "Drizzle Tabasco Sauce over the cheese.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2-3 minutes or until the tortilla is charred and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also charred.",
+    "Repeat with the second tortilla.",
+    "Cut the quesadillas into wedges and serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "latin-american",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-charred-venezuelan-cheese-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-venezuelan-cheese-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:24:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty charred",
+    "dishForm": "Quesadilla"
+  }
+}
