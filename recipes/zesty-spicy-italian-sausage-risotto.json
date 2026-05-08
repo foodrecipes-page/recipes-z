@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Spicy Italian Sausage Risotto",
+  "description": "A spicy and molten one-pot Italian dish featuring cinnamon stick and long-fermentation-dough, made keto-friendly in a cataplana vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound",
+      "notes": "spicy"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup",
+      "notes": "long-fermentation-dough"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "whole"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Italian sausage and cook until browned.",
+    "Add the Arborio rice and cook for 2 minutes.",
+    "Add the warm chicken broth, one cup at a time, stirring constantly.",
+    "Add the cinnamon stick and cook for 20 minutes or until the rice is tender.",
+    "Remove the cinnamon stick and stir in the grated Parmesan.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian",
+    "keto-friendly",
+    "one-pot",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-spicy-italian-sausage-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-italian-sausage-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sausage",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Risotto"
+  }
+}
