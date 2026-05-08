@@ -2530,6 +2530,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crunchy-brazilian-turmeric-gratin",
+    "title": "Zesty Crunchy Brazilian Turmeric Gratin",
+    "tags": [
+      "ayurvedic-rajasic-friendly",
+      "gluten-free",
+      "hangover-cure",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crunchy-egyptian-bulgur-pilaf",
     "title": "Zesty Crunchy Egyptian Bulgur Pilaf",
     "tags": [
@@ -5859,6 +5874,22 @@
     ],
     "cuisine": "russian",
     "totalTimeMin": 90,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-molten-tunisian-lamb-tagine",
+    "title": "Zesty Molten Tunisian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 200,
     "shard": "z"
   },
   {

@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Crunchy Brazilian Turmeric Gratin",
+  "description": "A delicious Brazilian dish that combines the flavors of turmeric and crunchy breadcrumbs with a hint of herbal notes to alleviate hangover symptoms.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yucca root",
+      "amount": "2 large tubers",
+      "notes": "peeled and sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ayurvedic ghee",
+      "amount": "2 tablespoons",
+      "notes": "for tempering"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add the garlic, onion, and chopped fresh cilantro and sauté until the onion is translucent.",
+    "Add the sliced yucca root and cook for 5 minutes, stirring occasionally.",
+    "Sprinkle the turmeric powder, salt, and black pepper over the yucca root and stir to combine.",
+    "Transfer the yucca root mixture to a baking dish and set aside.",
+    "In a separate pan, heat the ghee over medium heat.",
+    "Add the breadcrumbs and cook, stirring frequently, until they are golden brown and crispy.",
+    "Sprinkle the toasted breadcrumbs over the top of the yucca root mixture.",
+    "Transfer the baking dish to the oven and bake at 375°F (190°C) for 20-25 minutes, or until the breadcrumbs are golden brown.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "gluten-free",
+    "hangover-cure",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "zesty-crunchy-brazilian-turmeric-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-brazilian-turmeric-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T20:06:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "turmeric",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Gratin"
+  }
+}

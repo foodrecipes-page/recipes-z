@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Molten Tunisian Lamb Tagine",
+  "description": "A rich and flavorful Tunisian dish featuring tender lamb and a blend of aromatic spices, perfect for a hearty dinner or hangover cure.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb pieces with onion salt, cumin, and smoked paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, then remove from the pot.",
+    "Add the minced garlic to the pot and cook until fragrant.",
+    "Add the chicken broth, diced tomatoes, and browned lamb to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Remove the pot from the oven and place the pastry on top, tucking the edges under the lamb.",
+    "Return the pot to the oven and bake for an additional 20 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 63,
+    "carbs": 35,
+    "fat": 56
+  },
+  "slug": "zesty-molten-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:07:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "onion salt",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Tagine"
+  }
+}
