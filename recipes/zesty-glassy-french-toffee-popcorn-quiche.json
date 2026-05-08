@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Glassy French Toffee Popcorn Quiche",
+  "description": "A cultured, glassy-jelly, one-pot French dish featuring toffee popcorn, shio-koji-cure, and vegan-friendly ingredients in a quiche form.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toffee popcorn",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan cream cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 crust",
+      "notes": "homemade or store-bought, vegan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine shio-koji, vegan cream cheese, aquafaba, agave nectar, lemon juice, and salt, and blend until smooth.",
+    "In a large bowl, mix together the blended mixture and toffee popcorn until well combined.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "Fill the pie crust with the toffee popcorn mixture and smooth the top.",
+    "Bake the quiche for 35 minutes, or until the edges are golden brown.",
+    "Remove the quiche from the oven and let it cool for 10 minutes.",
+    "Refrigerate the quiche for at least 2 hours to allow it to set.",
+    "Slice the quiche into wedges and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "glassy-jelly",
+    "one-pot",
+    "popcorn",
+    "quiche",
+    "toffee",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-glassy-french-toffee-popcorn-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glassy-french-toffee-popcorn-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:57:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "vegan",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "Zesty Glassy",
+    "dishForm": "Quiche"
+  }
+}
