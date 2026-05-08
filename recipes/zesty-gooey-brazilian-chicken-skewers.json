@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Gooey Brazilian Chicken Skewers",
+  "description": "Indulge in the bold flavors of Brazil with these tangy and gooey chicken skewers, featuring sweet peppadew peppers and pickles, all while being Whole30-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sweet and sliced"
+    },
+    {
+      "name": "dill pickle slices",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "salt-free"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, lime juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated chicken, peppadew peppers, and pickle slices onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 10-12 minutes, or until the chicken is cooked through and the peppers are slightly charred.",
+    "Brush the skewers with the remaining marinade during the last 2 minutes of cooking.",
+    "Remove the skewers from the grill and let them rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh cilantro and a side of cauliflower rice or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "grilled-chicken",
+    "high-protein",
+    "weeknight-dinner",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zesty-gooey-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:28:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Skewers"
+  }
+}
