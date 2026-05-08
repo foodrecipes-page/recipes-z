@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Yeasty Spanish Chicken Paella",
+  "description": "A yeasty and velvety Spanish dish featuring fennel seeds and shio-cure, perfect for a post-workout meal. This Whole30-friendly recipe is made with wholesome ingredients and is easy to prepare.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the fennel seeds, shio-cure, smoked paprika, sea salt, and black pepper.",
+    "Add the cauliflower rice to the skillet and cook, stirring constantly, for 2 minutes.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Let it rest for 5 minutes before serving.",
+    "Serve with a side of roasted vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "spanish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-yeasty-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:46:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "fennel seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Paella"
+  }
+}
