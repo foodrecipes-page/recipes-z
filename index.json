@@ -2758,6 +2758,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-algerian-rice-paella",
+    "title": "Zesty Flaky Algerian Rice Paella",
+    "tags": [
+      "algerian-cuisine",
+      "flaky-rice",
+      "one-pan",
+      "pandan-leaf",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-french-kippers-blanquette",
     "title": "Zesty Flaky French Kippers Blanquette",
     "tags": [
