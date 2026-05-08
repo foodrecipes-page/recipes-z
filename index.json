@@ -1043,6 +1043,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-briny-thai-tofu-curry",
+    "title": "Zesty Briny Thai Tofu Curry",
+    "tags": [
+      "briny-flavors",
+      "gluten-free",
+      "one-pan",
+      "thai-curry",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-british-brown-rice-noodle-sandwich",
     "title": "Zesty British Brown Rice Noodle Sandwich",
     "tags": [
@@ -4661,6 +4676,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-fish-paella",
+    "title": "Zesty Irish Fish Paella",
+    "tags": [
+      "flavorful",
+      "irish-inspired",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
