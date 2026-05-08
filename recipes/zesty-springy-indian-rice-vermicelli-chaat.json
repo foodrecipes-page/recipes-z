@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Springy Indian Rice Vermicelli Chaat",
+  "description": "A solo dinner Indian dish featuring rice vermicelli, coconut cream, and spices, this chaat is a satvik friendly and resinous treat. It has a springy texture from the vermicelli and a burst of flavor from the coconut cream crack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli",
+      "amount": "200g",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat and add the cumin seeds.",
+    "Let the seeds sizzle for a few seconds before adding the coriander powder and garam masala.",
+    "Stir well and cook for 1 minute.",
+    "Add the rice vermicelli to the pan and stir to coat with the spice mixture.",
+    "Cook the vermicelli for 2-3 minutes or until it is slightly toasted.",
+    "Add the coconut cream to the pan and stir well to combine.",
+    "Bring the mixture to a simmer and let cook for 2 minutes or until the cream has thickened slightly.",
+    "Stir in the salt, lime juice, and chopped cilantro.",
+    "Transfer the chaat to a serving dish and garnish with chopped green chilies.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream",
+    "indian-recipes",
+    "one-pot",
+    "quick-dinner",
+    "satvik-friendly",
+    "vermicelli-chaat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-springy-indian-rice-vermicelli-chaat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-springy-indian-rice-vermicelli-chaat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:18:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Zesty Springy",
+    "dishForm": "Chaat"
+  }
+}
