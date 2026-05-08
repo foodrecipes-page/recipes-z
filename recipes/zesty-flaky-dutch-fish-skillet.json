@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Flaky Dutch Fish Skillet",
+  "description": "A macrobiotic-friendly Dutch dish featuring white vinegar and wok-hei, with a jammy and flaky texture, this skillet is perfect for adventurous eaters. It combines the freshness of fish with the tanginess of vinegar.",
+  "cuisine": "Dutch",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it starts to caramelize.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the grated carrots and cook for 2 minutes.",
+    "Add the sliced bell pepper and cook for 2 minutes.",
+    "Add the cod fillets and cook for 3-4 minutes per side.",
+    "Add the white vinegar and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "fish-based",
+    "healthy",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-flaky-dutch-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-dutch-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:30:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "white vinegar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Skillet"
+  }
+}
