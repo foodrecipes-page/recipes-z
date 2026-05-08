@@ -5149,6 +5149,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-shattering-jamaican-beans-lasagna",
+    "title": "Zesty Shattering Jamaican Navy Bean Lasagna",
+    "tags": [
+      "caribbean",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-shattering-kenyan-bean-stew",
     "title": "Zesty Shattering Kenyan Bean Stew",
     "tags": [
@@ -6833,6 +6848,21 @@
     ],
     "cuisine": "German Chinese",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-yeasty-malaysian-renkon-lotus-root-satay",
+    "title": "Zesty Yeasty Malaysian Renkon Lotus Root Satay",
+    "tags": [
+      "flambe",
+      "gluten-free",
+      "grilled",
+      "malaysian-cuisine",
+      "whole30",
+      "yeast-based"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
