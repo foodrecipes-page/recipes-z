@@ -144,6 +144,21 @@
     "shard": "z"
   },
   {
+    "slug": "zero-gravity-brazilian-chicken-stew",
+    "title": "Zero Gravity Brazilian Chicken Stew",
+    "tags": [
+      "brazilian-food",
+      "chicken-recipes",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zero-gravity-croatian-fish-papillote",
     "title": "Zero Gravity Croatian Fish Papillote",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Zero Gravity Brazilian Chicken Stew",
+  "description": "A buttery and tender Brazilian dish featuring clotted cream, perfect for a weeknight dinner, with an ayurvedic sattvic friendly twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup",
+      "notes": "extra rich"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the clotted cream and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the chicken is cooked through.",
+    "Stir in the butter until it is fully incorporated.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipes",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zero-gravity-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:18:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zero gravity",
+    "dishForm": "Stew"
+  }
+}
