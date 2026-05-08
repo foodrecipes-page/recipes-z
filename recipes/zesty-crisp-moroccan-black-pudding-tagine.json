@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Crisp Moroccan Black Pudding Tagine",
+  "description": "A spicy and festive Moroccan dish featuring black pudding, this recipe is perfect for a special occasion. It is kosher-friendly and served in a ramekin.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the katsuramuki-cut black pudding to the skillet and cook until it is browned on all sides.",
+    "In a small bowl, mix together the ground cumin, smoked paprika, cayenne pepper, salt, and black pepper.",
+    "Sprinkle the spice mixture over the black pudding in the skillet.",
+    "Pour the chicken broth into the skillet and bring the mixture to a boil.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top.",
+    "Serve the zesty crisp Moroccan black pudding tagine in a ramekin."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "moroccan-cuisine",
+    "ramekin-recipe",
+    "special-occasion",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-crisp-moroccan-black-pudding-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-moroccan-black-pudding-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:57:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "black pudding",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "black pudding",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Tagine"
+  }
+}
