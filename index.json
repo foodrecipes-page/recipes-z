@@ -3468,6 +3468,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ethiopian-lemongrass-berbere-stew",
+    "title": "Zesty Ethiopian Lemongrass Berbere Stew",
+    "tags": [
+      "easy",
+      "ethiopian",
+      "gluten-free",
+      "herb-based",
+      "lemongrass",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-ethiopian-pork-stew",
     "title": "Zesty Ethiopian Pork Stew",
     "tags": [
@@ -8953,6 +8969,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-springy-grilled-mexican-pork-tacos-al-pastor",
+    "title": "zesty springy grilled mexican pork tacos al pastor",
+    "tags": [
+      "gluten-free",
+      "mexican",
+      "one-pan",
+      "spring",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Ethiopian Lemongrass Berbere Stew",
+  "description": "A flavorful, refreshing stew that combines the bold flavors of Ethiopia with the brightness of lemongrass. Perfect for a quick and energizing dinner or lunch.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most international grocery stores or online"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use for saut\u0002400ning lemongrass"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "french baguette or other rustic bread works well"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated or jarred"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "freshly ground or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a molcajete over medium heat.",
+    "Add the lemongrass stalks and saut\u0002400n until fragrant, about 2 minutes.",
+    "Add the berbere spice blend and cook for 1 minute, stirring constantly.",
+    "Add the tomatoes, broth, and toasted bread, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the bread is fully broken down.",
+    "Stir in the ginger, cumin, salt, and black pepper.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the stew hot, garnished with additional lemongrass if desired.",
+    "This stew is best served immediately, but can be refrigerated for up to 3 days or frozen for up to 2 months.",
+    "When reheating, add a splash of water or broth if the stew has thickened too much.",
+    "Use a blender or immersion blender to puree some or all of the stew for a creamy texture.",
+    "Experiment with different spices and herbs to make this stew your own!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "ethiopian",
+    "gluten-free",
+    "herb-based",
+    "lemongrass",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-ethiopian-lemongrass-berbere-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ethiopian-lemongrass-berbere-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "lemongrass",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Zesty Shaggy Herbal",
+    "dishForm": "Berbere Stew"
+  }
+}

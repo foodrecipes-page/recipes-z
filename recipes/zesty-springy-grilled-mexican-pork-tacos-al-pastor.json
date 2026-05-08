@@ -1,0 +1,138 @@
+{
+  "title": "zesty springy grilled mexican pork tacos al pastor",
+  "description": "tender pork, sweet molasses, and fresh cilantro come together in this vibrant, spring-inspired recipe. perfect for a weeknight dinner or weekend gathering.",
+  "cuisine": "mexican",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "large pineapple",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the grill to medium-high heat.",
+    "in a small bowl, whisk together the molasses, orange juice, lime juice, garlic, cumin, coriander, salt, and black pepper.",
+    "add the pork to the marinade and mix to coat.",
+    "cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "remove the pork from the marinade and cook on the grill for 5-7 minutes per side, or until cooked through.",
+    "transfer the pork to a cutting board and let rest for 5 minutes before slicing thinly.",
+    "while the pork is cooking, heat the lard or oil in a large skillet over medium-high heat.",
+    "add the onion and pineapple to the skillet and cook, stirring occasionally, until the onion is caramelized and the pineapple is tender.",
+    "warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the tacos by placing a few slices of the pork onto a tortilla, followed by a spoonful of the onion and pineapple mixture, and finishing with a sprinkle of cilantro and a dash of korean chili flakes.",
+    "serve immediately and enjoy!",
+    "repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "spring",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-springy-grilled-mexican-pork-tacos-al-pastor",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-springy-grilled-mexican-pork-tacos-al-pastor",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "en-croute",
+    "primaryIngredient": "molasses",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Springy Grilled",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
