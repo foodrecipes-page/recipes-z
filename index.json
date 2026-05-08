@@ -2155,6 +2155,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crumbly-russian-tomato-pilaf",
+    "title": "Zesty Crumbly Russian Tomato Pilaf",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crumbly-uruguayan-polish-sausage-skillet",
     "title": "Zesty Crumbly Uruguayan Polish Sausage Skillet",
     "tags": [
@@ -5831,6 +5846,21 @@
     ],
     "cuisine": "canadian",
     "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-quick-indian-tomatoes-rasam",
+    "title": "Zesty Quick Indian Tomatoes Rasam",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "indian-food",
+      "quick-fix",
+      "rasam-recipe",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {

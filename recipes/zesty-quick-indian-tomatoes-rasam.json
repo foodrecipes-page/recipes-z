@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Quick Indian Tomatoes Rasam",
+  "description": "A funky and aerated Indian dish featuring ground coriander, this quick-fix rasam is perfect for a weeknight dinner. It is also FODMAP-friendly and can be made in under 30 minutes.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rasam powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the cumin seeds in a large pot over medium heat until fragrant.",
+    "Add the ground coriander, rasam powder, and turmeric, and cook for 1 minute.",
+    "Add the canned diced tomatoes, tomato puree, salt, and water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Use an immersion blender to puree the rasam until slightly smooth.",
+    "Strain the rasam through a fine-mesh sieve into a large bowl.",
+    "Shock the rasam in an ice bath to stop the cooking process.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "indian-food",
+    "quick-fix",
+    "rasam-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "zesty-quick-indian-tomatoes-rasam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-quick-indian-tomatoes-rasam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:48:53Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "ground coriander",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Zesty Quick",
+    "dishForm": "Rasam"
+  }
+}

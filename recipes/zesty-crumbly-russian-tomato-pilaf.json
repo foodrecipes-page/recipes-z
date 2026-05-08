@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crumbly Russian Tomato Pilaf",
+  "description": "A light Russian dish featuring San Marzano tomatoes and lardons, with a crumbly texture and a zesty flavor, perfect for a weeknight dinner. This recipe is onion and garlic friendly alternative, using other aromatics for flavor.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered, crispy"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, melt 1 tablespoon of butter over medium heat.",
+    "Add the mustard seeds and cook, stirring constantly, for 1 minute.",
+    "Add the chopped dill and cook for an additional 30 seconds.",
+    "Add the crushed San Marzano tomatoes, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "In a separate pot, cook the buckwheat according to package instructions.",
+    "In a large skillet, render the lardons over medium heat until crispy.",
+    "To assemble the pilaf, combine the cooked buckwheat, tomato mixture, and crispy lardons in a large bowl.",
+    "Transfer the pilaf to a slate tile and dot the top with the remaining 1 tablespoon of butter.",
+    "Bake the pilaf in the preheated oven for 15 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-crumbly-russian-tomato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-russian-tomato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:49:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "lardons-render",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomato",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Pilaf"
+  }
+}
