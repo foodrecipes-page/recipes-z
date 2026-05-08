@@ -1,0 +1,87 @@
+{
+  "title": "Zesty Crunchy Jamaican Coconut Toast",
+  "description": "A lazy Sunday Jamaican dish featuring crusty bread and coconut cream, perfect for a relaxing morning. This vegetarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the crusty bread into 1-inch thick slices and place on a baking sheet.",
+    "Spread a layer of coconut cream on each bread slice.",
+    "Sprinkle shredded coconut and jamaican jerk seasoning over the coconut cream.",
+    "Drizzle lime juice and sprinkle salt over the top of each slice.",
+    "Dot the top of each slice with unsalted butter.",
+    "Bake the bread slices in the preheated oven for 10 minutes, or until lightly toasted.",
+    "Remove the bread from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream",
+    "crusty-bread",
+    "jamaican-cuisine",
+    "lazy-sunday",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-crunchy-jamaican-coconut-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-jamaican-coconut-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "crusty bread",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Toast"
+  }
+}

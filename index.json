@@ -2019,6 +2019,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crunchy-jamaican-coconut-toast",
+    "title": "Zesty Crunchy Jamaican Coconut Toast",
+    "tags": [
+      "coconut-cream",
+      "crusty-bread",
+      "jamaican-cuisine",
+      "lazy-sunday",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crunchy-malaysian-shrimp-noodles",
     "title": "Zesty Crunchy Malaysian Shrimp Noodles",
     "tags": [
