@@ -5056,6 +5056,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-indian-beef-curry",
+    "title": "Zesty Indian Beef Curry",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "curry-dishes",
+      "indian-cuisine",
+      "mediterranean-inspired"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-indian-frankfurter-dal-tadka",
     "title": "Zesty Indian Frankfurter Dal Tadka",
     "tags": [

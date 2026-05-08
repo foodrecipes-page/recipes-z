@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Indian Beef Curry",
+  "description": "A garlicky and velvety Indian dish featuring beef, perfect for a sick day, with a Mediterranean twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, tomato paste, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the beef is tender, about 20 minutes.",
+    "Use a whisk to stir the curry and ensure the sauce is smooth.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "curry-dishes",
+    "indian-cuisine",
+    "mediterranean-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-indian-beef-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indian-beef-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:40:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "beef",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Curry"
+  }
+}
