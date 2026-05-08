@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Crunchy Malaysian Vegetable Satay",
+  "description": "A cultured and energizing Malaysian dish featuring a mix of sauteed vegetables and salsa, served with crunchy satay, this recipe is perfect for a quick and healthy meal. It is a satvik-friendly dish, meaning it is free from animal products and by-products.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as bell peppers, carrots, and onions"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "crunchy rice cereal",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet over medium-high heat.",
+    "Add the mixed vegetables and cook until they are tender-crisp.",
+    "Add the firm tofu and cook until it is golden brown.",
+    "Stir in the salsa and satay sauce.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Transfer the vegetable mixture to a serving platter.",
+    "Garnish with crunchy rice cereal and chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-crunchy-malaysian-vegetable-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-malaysian-vegetable-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:44:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "salsa",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Satay"
+  }
+}
