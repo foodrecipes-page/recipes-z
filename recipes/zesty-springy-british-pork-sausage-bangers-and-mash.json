@@ -1,0 +1,113 @@
+{
+  "title": "Zesty Springy British Pork Sausage Bangers and Mash",
+  "description": "A hearty, diabetic-friendly British dish featuring springy pork sausages, peanuts, and pickle, served with creamy mash.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British pork sausages",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "pickle",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "25g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the sausages in a large pan over medium heat until browned, about 5 minutes.",
+    "Remove the sausages from the pan and set aside.",
+    "Add the onion and garlic to the pan and cook until softened, about 3 minutes.",
+    "Add the peanut butter, pickle, allspice, black pepper, and salt to the pan and cook for 1 minute.",
+    "Add the mashed potatoes and milk to the pan and stir to combine.",
+    "Return the sausages to the pan and stir to coat with the potato mixture.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve the bangers and mash hot, garnished with chopped peanuts if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangers-and-mash",
+    "british",
+    "comfort-food",
+    "diabetic-friendly",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "zesty-springy-british-pork-sausage-bangers-and-mash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-springy-british-pork-sausage-bangers-and-mash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:46:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "peanuts",
+    "diet": "diabetic-friendly",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Pork Sausage",
+    "descriptor": "Zesty Springy",
+    "dishForm": "Bangers and Mash"
+  }
+}
