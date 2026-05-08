@@ -1,0 +1,121 @@
+{
+  "title": "Zesty Spicy Fluffy Uruguayan Kabanos Sausages Empanadas",
+  "description": "A twist on traditional Uruguayan empanadas featuring spicy kabanos sausages and a tangy pickle relish. Perfect for a cozy lunch or dinner.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "small kabanos sausages",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine wheat flour and salt in a large mixing bowl.",
+    "Gradually add warm water, stirring with a fork until dough forms.",
+    "Knead dough for 5 minutes until smooth and elastic.",
+    "Wrap dough in plastic wrap and let rest for 30 minutes.",
+    "Divide dough into 6 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Cut out a circle of dough slightly larger than the kabanos sausage.",
+    "Place a kabanos sausage in the center of the dough circle.",
+    "Add a spoonful of pickle relish and a sprinkle of shredded cheddar cheese.",
+    "Brush edges of dough with olive oil and fold in half to form a half-moon shape.",
+    "Press edges together to seal empanada.",
+    "Place empanadas on a baking sheet lined with parchment paper and bake in a preheated oven at 375°F (190°C) for 15-20 minutes or until golden brown.",
+    "Repeat with remaining dough and filling ingredients."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "fluffy",
+    "kabanos",
+    "sausage",
+    "spicy",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kabanos sausages",
+    "descriptor": "Zesty Spicy Fluffy",
+    "dishForm": "Empanadas"
+  }
+}

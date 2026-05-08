@@ -8838,6 +8838,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas",
+    "title": "Zesty Spicy Fluffy Uruguayan Kabanos Sausages Empanadas",
+    "tags": [
+      "empanadas",
+      "fluffy",
+      "kabanos",
+      "sausage",
+      "spicy",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 65,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spicy-italian-sausage-risotto",
     "title": "Zesty Spicy Italian Sausage Risotto",
     "tags": [
