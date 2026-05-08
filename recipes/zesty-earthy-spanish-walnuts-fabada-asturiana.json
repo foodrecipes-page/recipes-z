@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Earthy Spanish Walnuts Fabada Asturiana",
+  "description": "A hearty and earthy Spanish stew featuring walnuts and kombu cold extract, this dish is a crowd-pleaser and jain-friendly. It is a variation of the traditional Fabada Asturiana from Catalonia.",
+  "cuisine": "Spanish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried fabes beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the soaked and drained fabes beans, smoked paprika, salt, black pepper, and bay leaves to the pot.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 1 hour.",
+    "Add the chopped walnuts and kombu cold extract to the pot and stir to combine.",
+    "Continue to simmer the stew for an additional 30 minutes.",
+    "Serve the stew hot, garnished with additional chopped walnuts if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "jain-friendly",
+    "one-pot-meal",
+    "spanish-cuisine",
+    "walnut-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-earthy-spanish-walnuts-fabada-asturiana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-earthy-spanish-walnuts-fabada-asturiana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "walnuts",
+    "diet": "jain",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "walnuts",
+    "descriptor": "Zesty Earthy",
+    "dishForm": "Fabada Asturiana"
+  }
+}
