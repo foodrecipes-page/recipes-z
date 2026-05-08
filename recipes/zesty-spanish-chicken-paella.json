@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Spanish Chicken Paella",
+  "description": "A flavorful and diabetic-friendly Spanish dish featuring chicken, garlic, and bhuna, perfect for a post-workout meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the garlic granules, bhuna curry powder, and salt, and cook for 1 minute.",
+    "Add the uncooked white rice and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth and lemon juice, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:50:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "garlic granules",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Paella"
+  }
+}

@@ -6332,6 +6332,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spanish-chicken-paella",
+    "title": "Zesty Spanish Chicken Paella",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spanish-tuna-patatas-bravas",
     "title": "Zesty Spanish Tuna Patatas Bravas",
     "tags": [
