@@ -7379,6 +7379,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-roasted-sardinian-beef-kidney-stracciatella",
+    "title": "Zesty Roasted Sardinian Beef Kidney Stracciatella",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "italian",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-saudi-arabian-rice-risotto",
     "title": "Zesty Roasted Saudi Arabian Rice Risotto",
     "tags": [
@@ -8389,6 +8404,22 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 100,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-peruvian-sea-bass-ceviche-clasico",
+    "title": "Zesty Smoky Peruvian Sea Bass Ceviche Clasico",
+    "tags": [
+      "ceviche",
+      "low-carb",
+      "peruvian-cuisine",
+      "seafood",
+      "smoky",
+      "wood-fired",
+      "zesty"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 38,
     "shard": "z"
   },
   {

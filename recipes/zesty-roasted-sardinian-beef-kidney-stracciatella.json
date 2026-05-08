@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Roasted Sardinian Beef Kidney Stracciatella",
+  "description": "A hearty Italian dish featuring roasted beef kidney in a rich stracciatella sauce, served in an agave leaf vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the beef kidney pieces with olive oil, garlic, and thyme until they are evenly coated.",
+    "Spread the beef kidney pieces in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the beef is roasting, combine chicken broth, lemon juice, and tomato paste in a saucepan and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
+    "After the beef has roasted for 20 minutes, remove it from the oven and deglaze the baking sheet with the sauce, scraping up any browned bits.",
+    "Return the beef kidney pieces to the sauce and stir to coat.",
+    "Spoon the beef and sauce mixture into the agave leaves, dividing it evenly among the four leaves.",
+    "Serve the stracciatella hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "italian",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-roasted-sardinian-beef-kidney-stracciatella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-sardinian-beef-kidney-stracciatella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "beef kidney",
+    "diet": "mediterranean",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Stracciatella"
+  }
+}

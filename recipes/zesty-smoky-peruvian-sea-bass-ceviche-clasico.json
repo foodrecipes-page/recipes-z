@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Smoky Peruvian Sea Bass Ceviche Clasico",
+  "description": "A sweet and shattering solo dinner Peruvian dish featuring hot smoked paprika, wood fired bake, and egg free friendly ingredients, served as a ceviche clasico in a molcajete vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Hot Smoked Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mixed Color Onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Aji Amarillo Peppers",
+      "amount": "1/4 cup",
+      "notes": "Seeded and finely chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 400 degrees Fahrenheit.",
+    "Season the sea bass fillets with salt, black pepper, and hot smoked paprika.",
+    "Bake the sea bass fillets in the wood fired oven for 8 minutes or until cooked through.",
+    "Chill the cooked sea bass fillets in the refrigerator for 30 minutes.",
+    "Cut the chilled sea bass fillets into small pieces and place them in a molcajete vessel.",
+    "Mix in the fresh lime juice, mixed color onions, aji amarillo peppers, fresh cilantro, and garlic.",
+    "Stir well to combine and adjust the seasoning as needed.",
+    "Cover the molcajete vessel with plastic wrap and refrigerate for 10 minutes to allow the flavors to meld.",
+    "Serve the Zesty Smoky Peruvian Sea Bass Ceviche Clasico chilled, garnished with additional fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "low-carb",
+    "peruvian-cuisine",
+    "seafood",
+    "smoky",
+    "wood-fired",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-smoky-peruvian-sea-bass-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-peruvian-sea-bass-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Ceviche Clasico"
+  }
+}
