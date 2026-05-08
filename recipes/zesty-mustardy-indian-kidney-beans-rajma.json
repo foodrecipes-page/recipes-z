@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Mustardy Indian Kidney Beans Rajma",
+  "description": "A flavorful and spicy Indian dish made with kidney beans, mustard, and a blend of spices, perfect for a midnight craving. This halal-friendly recipe is a classic Udupi dish from southern India.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight and drained"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the mustard oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the mustard paste, garam masala, cumin powder, and salt, and cook for 1 minute.",
+    "Add the soaked and drained kidney beans and 2 cups of water to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Mash some of the kidney beans to thicken the sauce.",
+    "Serve the rajma hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "indian-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-mustardy-indian-kidney-beans-rajma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mustardy-indian-kidney-beans-rajma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:18:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "water",
+    "diet": "halal",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Zesty Mustardy",
+    "dishForm": "Rajma"
+  }
+}

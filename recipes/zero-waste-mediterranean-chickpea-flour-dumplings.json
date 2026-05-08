@@ -1,0 +1,93 @@
+{
+  "title": "Zero Waste Mediterranean Chickpea Flour Dumplings",
+  "description": "A fermented, velvety, and quick-fix Mediterranean dish featuring chickpea flour, perfect for a weeknight dinner, this recipe is ayurvedic-sattvic-friendly and made with zero waste in mind.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chickpea flour, water, olive oil, salt, black pepper, dried oregano, and dried thyme, and mix until a smooth batter forms.",
+    "Let the batter ferment at room temperature for 2 hours.",
+    "After fermentation, stir in lemon juice.",
+    "Using a spoon, drop small balls of the batter into a large pot of boiling water.",
+    "Cook the dumplings for 10 minutes or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Garnish with fresh herbs, such as parsley or thyme, if desired.",
+    "Serve with a side of your favorite Mediterranean sauce or salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "mediterranean",
+    "one-pot",
+    "quick-fix",
+    "vegan",
+    "zero-waste"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "zero-waste-mediterranean-chickpea-flour-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-waste-mediterranean-chickpea-flour-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:18:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "chickpea flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "Zero waste",
+    "dishForm": "Dumplings"
+  }
+}

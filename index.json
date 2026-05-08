@@ -276,6 +276,22 @@
     "shard": "z"
   },
   {
+    "slug": "zero-waste-mediterranean-chickpea-flour-dumplings",
+    "title": "Zero Waste Mediterranean Chickpea Flour Dumplings",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "mediterranean",
+      "one-pot",
+      "quick-fix",
+      "vegan",
+      "zero-waste"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zestful-paleo-grilled-citrus-crunch",
     "title": "Zestful Paleo Grilled Citrus Crunch",
     "tags": [
@@ -5874,6 +5890,21 @@
       "moroccan-cuisine"
     ],
     "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-mustardy-indian-kidney-beans-rajma",
+    "title": "Zesty Mustardy Indian Kidney Beans Rajma",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "indian-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 45,
     "shard": "z"
   },
