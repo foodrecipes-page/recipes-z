@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Roasted Ukrainian Chinese Broccoli Skillet",
+  "description": "A weeknight Ukrainian dish featuring roasted Chinese broccoli in a stone bowl, ayurvedic tamasic friendly, and made with simple ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the Chinese broccoli with olive oil, garlic, and ginger until the broccoli is evenly coated.",
+    "Spread the broccoli mixture in a single layer on a baking sheet and roast for 15 minutes.",
+    "In a small bowl, whisk together soy sauce and apple cider vinegar.",
+    "Remove the broccoli from the oven and stir in the soy sauce mixture, salt, and black pepper.",
+    "Return the broccoli to the oven and roast for an additional 5 minutes.",
+    "Transfer the broccoli to a stone bowl and serve hot.",
+    "Garnish with chopped green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "roasted-vegetables",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "zesty-roasted-ukrainian-chinese-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-ukrainian-chinese-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chinese broccoli",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Skillet"
+  }
+}

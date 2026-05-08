@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crisp British Cherry Tomatoes Salad",
+  "description": "A sweet and energizing British dish featuring cherry tomatoes with an al-dente finish, perfect for a light meal or snack, and is FODMAP friendly.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic-Infused Oil",
+      "amount": "1 teaspoon",
+      "notes": "FODMAP friendly"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the halved cherry tomatoes, sliced cucumber, and thinly sliced red onion.",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic-infused oil, salt, and black pepper to make the dressing.",
+    "Pour the dressing over the tomato mixture and toss to coat.",
+    "Sprinkle the chopped fresh parsley over the top of the salad and toss again to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if necessary.",
+    "Serve the salad chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "healthy-snack",
+    "low-carb",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "zesty-crisp-british-cherry-tomatoes-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-british-cherry-tomatoes-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:37:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Salad"
+  }
+}
