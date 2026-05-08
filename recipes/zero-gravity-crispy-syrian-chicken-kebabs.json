@@ -1,0 +1,96 @@
+{
+  "title": "Zero Gravity Crispy Syrian Chicken Kebabs",
+  "description": "A sweet and shattering Syrian dish featuring cream of tartar, perfect for a weeknight dinner, and friendly to all diets including Buddhist temple friendly",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together cream of tartar, olive oil, paprika, garlic powder, salt, and black pepper",
+    "Add the chicken pieces to the bowl and toss to coat evenly",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece",
+    "Cook the kebabs in the air fryer for 10 minutes, shaking halfway through",
+    "In a small bowl, whisk together lemon juice and honey",
+    "Brush the lemon honey mixture onto the kebabs during the last minute of cooking",
+    "Serve the kebabs hot, garnished with fresh parsley or thyme"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "buddhist-temple-friendly",
+    "chicken-kebabs",
+    "high-protein",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zero-gravity-crispy-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-crispy-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:10:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "cream of tartar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zero gravity crispy",
+    "dishForm": "Kebabs"
+  }
+}
