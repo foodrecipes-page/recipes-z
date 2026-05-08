@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Uruguayan Plum Tomato Casseroles",
+  "description": "A salty and cozy Uruguayan dish featuring plum tomatoes and nuka-pickle, perfect for a cold evening. This egg-free friendly casserole is a hearty and satisfying meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "2 lbs",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "In a large bowl, combine the cooked onion and garlic, chopped nuka-pickle, plum tomatoes, salt, and black pepper.",
+    "Stir in the chopped basil.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 35 minutes, or until the casserole is hot and the flavors are melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-uruguayan-plum-tomato-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-uruguayan-plum-tomato-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "zesty pillowy",
+    "dishForm": "Casseroles"
+  }
+}
