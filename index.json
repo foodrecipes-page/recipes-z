@@ -2783,6 +2783,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-golden-fried-north-indian-naan-fried-rice",
+    "title": "Zesty Golden Fried North Indian Naan Fried Rice",
+    "tags": [
+      "fried-rice",
+      "high-protein",
+      "north-indian",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "North Indian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-golden-slovakian-cauliflower-soup",
     "title": "Zesty Golden Slovakian Cauliflower Soup",
     "tags": [
@@ -5493,6 +5507,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-split-irish-peas-stew",
+    "title": "Zesty Split Irish Peas Stew",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {

@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Split Irish Peas Stew",
+  "description": "Hearty, comforting stew made with split peas, Irish bacon, and crunchy vegetables, finished with a tangy mantecare emulsion.",
+  "cuisine": "irish",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "250g"
+    },
+    {
+      "name": "irish bacon",
+      "amount": "150g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large cazuela over medium heat.",
+    "Add chopped onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add diced Irish bacon and cook until crispy.",
+    "Add split peas, milk, and flour, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Add chopped scallions and mint leaves, and season with salt and pepper to taste.",
+    "Transfer the stew to a serving dish and serve hot.",
+    "Meanwhile, prepare the mantecare emulsion by whisking together milk and flour in a small saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Strain the emulsion into a bowl and whisk in butter until melted and smooth.",
+    "Serve the stew hot, topped with a dollop of mantecare emulsion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-split-irish-peas-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-split-irish-peas-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:51:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "split peas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "peas",
+    "descriptor": "Zesty Split",
+    "dishForm": "Stew"
+  }
+}

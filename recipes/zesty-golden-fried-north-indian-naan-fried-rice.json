@@ -1,0 +1,56 @@
+{
+  "title": "Zesty Golden Fried North Indian Naan Fried Rice",
+  "description": "A deliciously buttery and juicy vegetarian dish that's perfect for post-workout meals, made with a flavorful mix of naan bread, spices, and creamy single cream.",
+  "cuisine": "North Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Naan bread",
+      "amount": "4-6 pieces",
+      "notes": "preferably day-old naan"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a deep frying pan over medium-high heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "high-protein",
+    "north-indian",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 30,
+    "carbs": 90,
+    "fat": 34
+  },
+  "slug": "zesty-golden-fried-north-indian-naan-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-golden-fried-north-indian-naan-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "single cream",
+    "diet": "vegetarian",
+    "region": "north",
+    "cuisineAdjective": "north indian",
+    "mainIngredient": "naan",
+    "descriptor": "zesty golden fried",
+    "dishForm": "fried-rice"
+  }
+}
