@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Rich Syrian Lamb Bake",
+  "description": "A rich and flavorful Syrian dish featuring lamb, chilli flakes, and a blend of spices, perfect for a special occasion. This dish is gluten-free-friendly and offers a light and zesty taste.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together chilli flakes, paprika, cumin, coriander, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the lamb from the skillet and set it aside.",
+    "Add the chopped onion to the skillet and cook until it is softened and lightly browned.",
+    "Return the lamb to the skillet and transfer it to the preheated oven.",
+    "Bake the lamb for 20-25 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "oven-baked",
+    "special-occasion",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "zesty-rich-syrian-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-rich-syrian-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "chilli flakes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Rich",
+    "dishForm": "Bake"
+  }
+}

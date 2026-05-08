@@ -3177,6 +3177,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-earthy-slovakian-mushroom-stew",
+    "title": "Zesty Earthy Slovakian Mushroom Stew",
+    "tags": [
+      "dairy-free",
+      "hearty-stew",
+      "lazy-sunday",
+      "mushroom-based",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-earthy-uruguayan-cheese-empanadas",
     "title": "Zesty Earthy Uruguayan Cheese Empanadas",
     "tags": [
@@ -6962,6 +6977,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-rich-syrian-lamb-bake",
+    "title": "Zesty Rich Syrian Lamb Bake",
+    "tags": [
+      "gluten-free",
+      "lamb-recipes",
+      "middle-eastern",
+      "oven-baked",
+      "special-occasion",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 90,
     "shard": "z"
   },
   {

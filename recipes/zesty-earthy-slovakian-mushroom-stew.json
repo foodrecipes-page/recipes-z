@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Earthy Slovakian Mushroom Stew",
+  "description": "A hearty and comforting Slovakian dish featuring earthy mushrooms, lemon zest, and a mirepoix base, perfect for a lazy Sunday, and easily adaptable to be dairy-free friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed mushrooms",
+      "amount": "2 cups",
+      "notes": "such as cremini, shiitake, and button"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the mixed mushrooms, lemon zest, dried thyme, salt, and black pepper, and cook for an additional 5 minutes.",
+    "Pour in the vegetable broth, and bring the mixture to a boil.",
+    "Reduce the heat to low, and simmer the stew, covered, for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "hearty-stew",
+    "lazy-sunday",
+    "mushroom-based",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-earthy-slovakian-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-earthy-slovakian-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "lemon zest",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zesty Earthy",
+    "dishForm": "Stew"
+  }
+}
