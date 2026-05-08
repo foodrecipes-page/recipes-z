@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Roasted Croatian Shrimp Pilaf",
+  "description": "A fresh and flavorful Croatian dish featuring roasted peanuts and shrimp, perfect for a lazy Sunday, cooked in a ttukbaegi earthenware pot and served in a bento box.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a ttukbaegi earthenware pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the pilaf rice and cook for 2 minutes, stirring constantly.",
+    "Add the vegetable broth, lemon juice, paprika, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "While the pilaf is cooking, roast the peanuts in the oven for 10 minutes, or until fragrant.",
+    "Add the roasted peanuts and shrimp to the pilaf, and cook for an additional 5 minutes, or until the shrimp are pink and cooked through.",
+    "Serve the Zesty Roasted Croatian Shrimp Pilaf in a bento box."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "mediterranean",
+    "one-pot",
+    "roasted-nuts",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-roasted-croatian-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-croatian-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "roasted peanut",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Pilaf"
+  }
+}
