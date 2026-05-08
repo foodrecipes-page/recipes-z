@@ -1,0 +1,109 @@
+{
+  "title": "Zero Hour Pungent Saudi Arabian Lamb Tagine",
+  "description": "A pungent and gooey Saudi Arabian dish featuring hind shank, perfect for a lazy Sunday, this low-carb-friendly recipe is served in a ramekin.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb hind shank",
+      "amount": "1 pound",
+      "notes": "bone-in"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio cure, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb hind shank, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb hind shank until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Return the lamb to the pot and add enough water to cover the lamb.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falling off the bone."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb-based",
+    "low-carb",
+    "middle-eastern",
+    "ramekin-recipe",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zero-hour-pungent-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-hour-pungent-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:10:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "hind shank",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zero Hour Pungent",
+    "dishForm": "Tagine"
+  }
+}
