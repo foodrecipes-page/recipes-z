@@ -1,0 +1,114 @@
+{
+  "title": "zesty light turkish barramundi su-boregi",
+  "description": "a light and zesty turkish dish featuring barramundi, perfect for a weeknight dinner",
+  "cuisine": "turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f.",
+    "cut the barramundi into small pieces and season with salt, black pepper, and turkish red pepper flakes.",
+    "mix together the flour and a pinch of salt in a shallow dish.",
+    "dip each piece of barramundi into the flour mixture, coating both sides evenly.",
+    "heat the infuse-oil in a large skillet over medium-high heat.",
+    "add the coated barramundi to the skillet and cook until golden brown on both sides, about 3 minutes per side.",
+    "transfer the barramundi to a baking dish and sprinkle with feta cheese, dried parsley, and lemon juice.",
+    "unroll the filo dough and cut it into small squares.",
+    "place a piece of filo dough on top of each piece of barramundi, pressing the edges to seal.",
+    "drizzle the top of each su-boregi with a little more infuse-oil and sprinkle with garlic.",
+    "bake in the preheated oven for 15-20 minutes, or until the filo dough is golden brown and crispy.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "one-pan",
+    "seafood",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zesty-light-turkish-barramundi-su-boregi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-turkish-barramundi-su-boregi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "barramundi",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "barramundi",
+    "descriptor": "zesty light",
+    "dishForm": "su-boregi"
+  }
+}
