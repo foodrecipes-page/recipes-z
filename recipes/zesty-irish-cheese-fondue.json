@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Irish Cheese Fondue",
+  "description": "A buttery and nostalgic Irish dish featuring a rich cheese fondue served with baguette and dum, dairy-free friendly options available. Perfect for a fun and interactive snack or appetizer.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan Irish cheddar",
+      "amount": "1 cup shredded",
+      "notes": "dairy-free alternative to traditional cheddar"
+    },
+    {
+      "name": "Baguette",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Dum",
+      "amount": "1 cup",
+      "notes": "Irish potato dumplings"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked paprika for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large fondue pot, combine the shredded vegan Irish cheddar, melted butter, minced garlic, lemon juice, smoked paprika, salt, and black pepper.",
+    "Heat the mixture over medium heat, stirring constantly until the cheese is melted and smooth.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until it reaches 165 degrees Fahrenheit.",
+    "While the fondue is cooking, prepare the baguette and dum by cutting the baguette into 1 inch cubes and cooking the dum according to package instructions.",
+    "Once the fondue is ready, arrange the baguette cubes and dum on a platter or individual plates.",
+    "Serve the fondue hot, with the baguette and dum on the side for dipping.",
+    "Encourage guests to dip the baguette and dum into the fondue, enjoying the rich and creamy cheese sauce.",
+    "If desired, add additional ingredients such as chopped herbs or diced vegetables to the fondue for added flavor and nutrition."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "dairy-free",
+    "fondue",
+    "gluten-free",
+    "irish-cuisine",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-irish-cheese-fondue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-cheese-fondue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:29:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "baguette",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Fondue"
+  }
+}

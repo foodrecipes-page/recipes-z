@@ -3887,6 +3887,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-cheese-fondue",
+    "title": "Zesty Irish Cheese Fondue",
+    "tags": [
+      "appetizer",
+      "dairy-free",
+      "fondue",
+      "gluten-free",
+      "irish-cuisine",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-chicken-tagine",
     "title": "Zesty Irish Chicken Tagine",
     "tags": [
