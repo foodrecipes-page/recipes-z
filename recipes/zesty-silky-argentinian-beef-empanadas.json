@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Silky Argentinian Beef Empanadas",
+  "description": "A paleo-friendly Argentinian dish featuring tender beef and silky single cream, wrapped in a flaky pastry crust. This recipe is a romantic twist on traditional empanadas.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass fed ground beef",
+      "amount": "1 pound",
+      "notes": "blanched to remove excess fat"
+    },
+    {
+      "name": "single cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paleo pastry dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the single cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook until the cream has thickened and the flavors have melded together.",
+    "Roll out the paleo pastry dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg and fold the dough in half to form a half moon shape.",
+    "Press the edges of the dough together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-silky-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:08:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "single cream",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Empanadas"
+  }
+}
