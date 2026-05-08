@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Spanish Rice Arroz Negro",
+  "description": "A quick and flavorful Spanish dish made with olive oil and featuring a silky texture, this arroz negro is a must try. It is a raw-friendly and mustardy recipe.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use high quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a claypot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mustard seeds and cook until they start to pop.",
+    "Add the smoked paprika and salt, and stir well.",
+    "Add the black rice and stir to coat the rice with the oil and spice mixture.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover the claypot, and simmer for 20 minutes.",
+    "Turn off the heat and let it rest for 5 minutes.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "raw-friendly",
+    "spanish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-spanish-rice-arroz-negro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-rice-arroz-negro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "olive oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Arroz Negro"
+  }
+}

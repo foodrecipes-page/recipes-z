@@ -8265,6 +8265,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spanish-rice-arroz-negro",
+    "title": "Zesty Spanish Rice Arroz Negro",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "raw-friendly",
+      "spanish-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spanish-tuna-patatas-bravas",
     "title": "Zesty Spanish Tuna Patatas Bravas",
     "tags": [
