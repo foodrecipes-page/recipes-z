@@ -1,0 +1,105 @@
+{
+  "title": "Zero Gravity Fluffy Algerian Goats Cheese Tagine",
+  "description": "A fermented and fluffy Algerian dish featuring goats cheese, this recipe is a crowd-pleaser and can be made gluten-free friendly. It is a unique and delicious meal option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the goats cheese, olive oil, onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove the dish from the oven and stir in the chicken broth.",
+    "Return the dish to the oven and bake for an additional 10 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "fluffy",
+    "gluten-free",
+    "goat-cheese",
+    "north-african",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zero-gravity-fluffy-algerian-goats-cheese-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-fluffy-algerian-goats-cheese-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:32:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "goats cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Zero gravity fluffy",
+    "dishForm": "Tagine"
+  }
+}
