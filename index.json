@@ -2177,6 +2177,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-earthy-uruguayan-cheese-empanadas",
+    "title": "Zesty Earthy Uruguayan Cheese Empanadas",
+    "tags": [
+      "baked-goods",
+      "cheesy",
+      "low-calorie",
+      "snack-time",
+      "south-american",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-beet-soup",
     "title": "Zesty Egyptian Beet Soup",
     "tags": [

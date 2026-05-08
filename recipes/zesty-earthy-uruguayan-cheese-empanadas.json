@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Earthy Uruguayan Cheese Empanadas",
+  "description": "A crowd-pleasing Uruguayan dish featuring earthy flavors and a cheese pull, made with tobiko and cure, this recipe is low-calorie-friendly and perfect for any meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tobiko",
+      "amount": "1/2 cup",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "Cure",
+      "amount": "1 tsp",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "for dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine whole wheat flour, salt, and black pepper.",
+    "Add olive oil and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of Uruguayan cheese, a sprinkle of tobiko, and a pinch of cure in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with egg wash.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "cheesy",
+    "low-calorie",
+    "snack-time",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-earthy-uruguayan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-earthy-uruguayan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:54:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "tobiko",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty earthy",
+    "dishForm": "Empanadas"
+  }
+}
