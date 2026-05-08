@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Smoked Portuguese Chicken Tagine",
+  "description": "A flavorful, paleo-friendly Portuguese dish made with smoked paprika, served in a pandan leaf wrap. Perfect for a quick weeknight meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with salt, black pepper, mustard powder, and garlic powder.",
+    "Heat the olive oil in a tagine or Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the lemon juice and bring to a simmer.",
+    "Transfer the tagine to the preheated oven and cook for 25 minutes.",
+    "Remove the tagine from the oven and let it rest for 5 minutes before serving.",
+    "Meanwhile, prepare the pandan leaf wraps by soaking them in water for 5 minutes.",
+    "To assemble the dish, place a portion of the chicken and sauce onto a pandan leaf and fold the leaf to form a wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "portuguese",
+    "smoked-paprika",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-smoked-portuguese-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoked-portuguese-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:45:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "tagine-cook",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Smoked",
+    "dishForm": "Tagine"
+  }
+}
