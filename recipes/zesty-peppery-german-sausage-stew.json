@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Peppery German Sausage Stew",
+  "description": "A comforting and flavorful German stew featuring white wine and peppery sausage, cooked to perfection in a tagine.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the German sausage to the pot, browning it on all sides.",
+    "Add the white wine to the pot, scraping up any browned bits from the bottom.",
+    "Add the chicken broth, paprika, salt, and pepper to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the heavy cream, if using, and continue to simmer for an additional 5 minutes.",
+    "Serve the stew hot, garnished with chopped fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "hearty-stew",
+    "keto-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-peppery-german-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peppery-german-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:08:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "tagine-cook",
+    "primaryIngredient": "white wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Zesty Peppery",
+    "dishForm": "Stew"
+  }
+}

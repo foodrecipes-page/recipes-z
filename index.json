@@ -4289,6 +4289,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peppery-german-sausage-stew",
+    "title": "Zesty Peppery German Sausage Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "gluten-free",
+      "hearty-stew",
+      "keto-friendly",
+      "one-pot"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peppery-saudi-arabian-lamb-kebabs",
     "title": "Zesty Peppery Saudi Arabian Lamb Kebabs",
     "tags": [
