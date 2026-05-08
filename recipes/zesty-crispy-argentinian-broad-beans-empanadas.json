@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Crispy Argentinian Broad Beans Empanadas",
+  "description": "A kid-friendly Argentinian dish featuring broad beans in a crispy empanada, cooked to perfection in a clay pot and served on a talavera plate, this recipe is kosher-friendly and full of flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot to 375 degrees Fahrenheit.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the broad beans, onion, garlic, olive oil, salt, black pepper, and paprika.",
+    "Place a tablespoon of the broad bean mixture onto the center of each empanada dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Place the empanadas in the preheated clay pot and cook for 20 minutes, or until crispy and golden brown.",
+    "Serve the empanadas hot on a talavera plate.",
+    "Garnish with additional paprika and olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "broad-beans",
+    "clay-pot",
+    "empanadas",
+    "kid-friendly",
+    "kosher",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-crispy-argentinian-broad-beans-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-argentinian-broad-beans-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:05:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "broad beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "broad beans",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Empanadas"
+  }
+}
