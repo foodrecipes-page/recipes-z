@@ -1,0 +1,88 @@
+{
+  "title": "Zesty Gooey Saudi Arabian Peaches Tagine",
+  "description": "A funky and festive Saudi Arabian dish featuring katsuramuki-cut peaches in a rich and gooey sauce, perfect for a unique dessert experience. This egg-free friendly recipe is sure to impress.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the brown sugar, honey, lemon juice, ground cinnamon, and ground ginger.",
+    "Add the katsuramuki-cut peaches to the bowl and toss to coat with the sugar mixture.",
+    "Transfer the peach mixture to a 9x13 inch baking dish.",
+    "Dot the top of the peaches with the unsalted butter.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the peaches are tender and the sauce is gooey.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional cinnamon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumnal",
+    "comfort-food",
+    "fruit-based",
+    "middle-eastern",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-gooey-saudi-arabian-peaches-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-saudi-arabian-peaches-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "peaches",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "peaches",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Tagine"
+  }
+}
