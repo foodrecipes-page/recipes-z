@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Simmered Mexican Pork Cochinita Pibil",
+  "description": "A fermented, cheese-pull, brunch-mood Mexican dish featuring parmesan cheese, simmer, high-protein-friendly, form=cochinita-pibil.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a blender, combine orange juice, lime juice, olive oil, garlic, onion, cumin, and paprika, and blend until smooth.",
+    "Place the pork shoulder in a large Dutch oven and pour the blender mixture over the top.",
+    "Cover the Dutch oven with a lid and transfer to the preheated oven.",
+    "Braise the pork for 6 hours, or until tender and easily shredded.",
+    "Remove the pork from the oven and shred with two forks.",
+    "Stir in the parmesan cheese until melted and well combined.",
+    "Serve the cochinita pibil hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 360,
+  "totalTimeMin": 380,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheese-pull",
+    "high-protein",
+    "mexican",
+    "one-pot",
+    "simmered"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "zesty-simmered-mexican-pork-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-simmered-mexican-pork-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:01:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Simmered",
+    "dishForm": "Cochinita Pibil"
+  }
+}
