@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Winey Norwegian Lamb Stew",
+  "description": "A hearty and flavorful Norwegian lamb stew featuring pomegranate and a blend of Mediterranean spices, cooked to perfection in an agave leaf vessel. This dish is perfect for a cold winter night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion until it is translucent.",
+    "Add the garlic and cook for an additional minute, stirring constantly.",
+    "Add the lamb cubes to the pan and cook until they are browned on all sides.",
+    "Add the red wine, pomegranate juice, thyme, salt, and pepper to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Transfer the stew to an agave leaf vessel and cook in the preheated oven for 2 hours.",
+    "Stir in the pomegranate seeds and continue to cook for an additional 30 minutes.",
+    "Remove the stew from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "hearty-stews",
+    "lamb-recipes",
+    "mediterranean-diet",
+    "norwegian-cuisine",
+    "pomegranate-recipes",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-winey-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-winey-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "pomegranate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty winey",
+    "dishForm": "Stew"
+  }
+}
