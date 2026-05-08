@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Roasted Korean Scamorza Mitbanchan",
+  "description": "A roasted, tender, and comforting Korean dish featuring scamorza, boiled to perfection and served as a mitbanchan, with a dairy-free friendly twist, cooked on a comal.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "1 cup",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal to 400 degrees Fahrenheit.",
+    "Boil the scamorza cheese in water for 10 minutes.",
+    "In a blender, combine gochujang, soy sauce, brown sugar, garlic, and ginger, and blend until smooth.",
+    "In a large bowl, whisk together the blended sauce and sesame oil.",
+    "Add the boiled scamorza cheese to the bowl and toss to coat.",
+    "Place the cheese mixture on the preheated comal and roast for 15 minutes.",
+    "Flip the cheese and roast for an additional 10 minutes.",
+    "Remove from heat and serve as a mitbanchan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "korean-cuisine",
+    "one-pan",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-roasted-korean-scamorza-mitbanchan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-korean-scamorza-mitbanchan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:37:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "scamorza",
+    "diet": "dairy-free",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "scamorza",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Mitbanchan"
+  }
+}
