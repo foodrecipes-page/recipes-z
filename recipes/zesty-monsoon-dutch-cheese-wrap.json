@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Monsoon Dutch Cheese Wrap",
+  "description": "A unique low-carb dish featuring dark chocolate chips and a blend of cheeses, wrapped in a crispy ssam wrap, perfect for a snack or lunch. The combination of umami flavors and cheese pull makes it a satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "low-carb"
+    },
+    {
+      "name": "monsoon dutch cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sliced turkey breast",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together the shredded cheese and gochujang sauce until well combined.",
+    "Add the sliced turkey breast to the skillet and cook until browned, about 3-4 minutes per side.",
+    "In a separate pan, melt the dark chocolate chips over low heat, stirring constantly.",
+    "Assemble the wraps by spreading a layer of the cheese mixture onto each ssam wrap, followed by a slice of turkey breast, some shredded lettuce, diced cucumber, and sliced red onion.",
+    "Drizzle the melted chocolate over the top of each wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy.",
+    "Repeat with remaining ingredients.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chocolatey",
+    "dutch",
+    "gluten-free",
+    "low-carb",
+    "lunch",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "zesty-monsoon-dutch-cheese-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-monsoon-dutch-cheese-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:01:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Monsoon",
+    "dishForm": "Wrap"
+  }
+}
