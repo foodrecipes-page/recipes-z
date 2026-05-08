@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Aerated Japanese Cod Nabemono",
+  "description": "A delicate and romantic Japanese dish featuring sashimi-cut cod, perfect for a special occasion, this recipe is also diabetic-friendly",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "aerated sake",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine dashi broth, mirin, soy sauce, and yuzu juice, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Add the cod fillets to the pot and poach for 3-4 minutes or until cooked through.",
+    "Remove the cod from the pot and set aside on a plate.",
+    "Add the chopped shiso leaves and green onions to the pot and simmer for 1 minute.",
+    "Stir in the sesame oil and aerated sake, if using.",
+    "To serve, place a cod fillet in a bowl and ladle the hot broth and garnishes over the top.",
+    "Garnish with additional shiso leaves and green onions, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "low-carb",
+    "romantic-dinner",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-aerated-japanese-cod-nabemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-aerated-japanese-cod-nabemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:11:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cod",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cod",
+    "descriptor": "Zesty Aerated",
+    "dishForm": "Nabemono"
+  }
+}
