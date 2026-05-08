@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Kenyan Nectarine Skewers",
+  "description": "A romantic Kenyan dish featuring nectarines, this recipe is a nutty and light delight, perfect for a special occasion, and is low-glycemic-friendly to suit various dietary needs.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 300 degrees Fahrenheit.",
+    "Peel and chop the nectarines into 1-inch pieces.",
+    "Using a mortar and pestle, pound the sliced almonds into a coarse crumb.",
+    "Add the ground cinnamon, ground cardamom, and a pinch of salt to the mortar and pestle, and mix until well combined.",
+    "Thread the nectarine pieces onto skewers, leaving a small space between each piece.",
+    "Brush the melted coconut oil onto the nectarine pieces.",
+    "Sprinkle the almond mixture evenly over the nectarine pieces.",
+    "Drizzle the honey and lemon juice over the skewers.",
+    "Place the skewers into the preheated fondue pot and cook for 5 minutes, or until the nectarines are tender.",
+    "Serve the Zesty Kenyan Nectarine Skewers warm, garnished with fresh ginger slices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fruit-based",
+    "gluten-free",
+    "kenyan-cuisine",
+    "low-glycemic",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "zesty-kenyan-nectarine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-nectarine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "nectarines",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "nectarines",
+    "descriptor": "zesty light",
+    "dishForm": "Skewers"
+  }
+}

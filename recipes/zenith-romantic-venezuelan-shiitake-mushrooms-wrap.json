@@ -1,0 +1,99 @@
+{
+  "title": "Zenith Romantic Venezuelan Shiitake Mushrooms Wrap",
+  "description": "A cultured and velvety Venezuelan dish featuring shiitake mushrooms in a romantic ssam-wrap, shojin-friendly style, perfect for a special occasion.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "mashed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add the olive oil.",
+    "Add the sliced shiitake mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "In a small bowl, mix together the mashed avocado, lime juice, salt, and black pepper.",
+    "Warm the whole wheat tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spreading a quarter of the avocado mixture onto each tortilla, then topping with a quarter of the cooked mushrooms, some sliced red onion, and a sprinkle of chopped cilantro.",
+    "Serve the wraps immediately and enjoy.",
+    "Garnish with additional cilantro and lime wedges if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-eating",
+    "latin-american",
+    "mushroom-lovers",
+    "romantic-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zenith-romantic-venezuelan-shiitake-mushrooms-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-romantic-venezuelan-shiitake-mushrooms-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Zenith romantic",
+    "dishForm": "Wrap"
+  }
+}
