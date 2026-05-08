@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Garlicky French Rice Galette",
+  "description": "A dense and energizing French dish from Brittany, featuring a garlicky rice mixture, grilled to perfection and held together in a galette form, utilizing rice syrup and jocheong for added flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Japanese mochigome"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jocheong",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "In a large mixing bowl, combine the cooked short-grain rice, minced garlic, rice syrup, and jocheong, stirring until well combined.",
+    "Add the olive oil, salt, and black pepper to the rice mixture and stir until the oil is fully incorporated.",
+    "Transfer the rice mixture to a galette pan or a large skillet, shaping it into a round and flat galette.",
+    "Grill the galette for 4 minutes on the first side, or until it develops a crispy crust.",
+    "Flip the galette over and grill for an additional 4 minutes, or until the other side is also crispy and golden brown.",
+    "Remove the galette from the grill and sprinkle the chopped fresh parsley over the top.",
+    "Let the galette cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "garlic-lovers",
+    "gluten-free",
+    "grilled-dishes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-garlicky-french-rice-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-french-rice-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "raw",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Galette"
+  }
+}

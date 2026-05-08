@@ -3681,6 +3681,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-garlicky-french-rice-galette",
+    "title": "Zesty Garlicky French Rice Galette",
+    "tags": [
+      "french-cuisine",
+      "garlic-lovers",
+      "gluten-free",
+      "grilled-dishes",
+      "vegetarian-options"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-garlicky-korean-shrimp-noodles",
     "title": "Zesty Garlicky Korean Shrimp Noodles",
     "tags": [
