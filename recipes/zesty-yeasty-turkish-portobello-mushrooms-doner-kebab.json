@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Yeasty Turkish Portobello Mushrooms Doner Kebab",
+  "description": "A yeasty, pillowy, brunch-mood Turkish dish featuring sherry vinegar and sashimi-cut portobello mushrooms, wrapped in pandan leaves.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and 1 tablespoon of warm water, stirring to dissolve.",
+    "In a large bowl, whisk together olive oil, sherry vinegar, garlic, salt, and black pepper.",
+    "Add the sashimi-cut portobello mushrooms to the bowl and marinate for 10 minutes.",
+    "Add the dissolved yeast mixture to the mushrooms and stir to combine.",
+    "In a separate bowl, beat the eggs and set aside.",
+    "Heat a large non-stick skillet over medium heat and add the marinated mushrooms.",
+    "Cook the mushrooms for 5 minutes per side, or until they are tender and lightly browned.",
+    "Brush the pandan leaves with olive oil and warm them in the microwave for 10 seconds.",
+    "Assemble the doner kebabs by placing a cooked mushroom on each pandan leaf, topping with crumbly feta cheese and a dollop of beaten egg.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "ovo-vegetarian",
+    "pandan-leaves",
+    "portobello-mushrooms",
+    "turkish-food",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-yeasty-turkish-portobello-mushrooms-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-turkish-portobello-mushrooms-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:56:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Doner Kebab"
+  }
+}
