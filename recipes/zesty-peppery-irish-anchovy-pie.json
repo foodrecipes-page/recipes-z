@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Peppery Irish Anchovy Pie",
+  "description": "A peppery and adventurous Irish dish featuring anchovy fillet in a flaky en-croute pastry, perfect for a plant-based friendly dinner option.",
+  "cuisine": "Irish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Anchovy fillets",
+      "amount": "12",
+      "notes": "canned in oil, drained and chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oat milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "1 tablespoon",
+      "notes": "mixed with 3 tablespoons water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, ground peppercorns, and salt.",
+    "Add the chilled vegan butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the oat milk to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out into a large circle, about 1/8 inch thick.",
+    "In a small bowl, mix together the chopped anchovy fillets, nutritional yeast, lemon juice, and chopped parsley.",
+    "Spoon the anchovy mixture onto one half of the dough circle, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the dough with the vegan egg replacement mixture.",
+    "Fold the other half of the dough circle over the filling and press the edges to seal.",
+    "Use a sharp knife to cut a few slits in the top of the pie to allow steam to escape.",
+    "Place the pie on a baking sheet lined with parchment paper and bake for 35-40 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy-pie",
+    "flaky-crust",
+    "irish-cuisine",
+    "peppery-dishes",
+    "plant-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-peppery-irish-anchovy-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peppery-irish-anchovy-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:37:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "anchovy",
+    "descriptor": "Zesty peppery",
+    "dishForm": "Pie"
+  }
+}
