@@ -3229,6 +3229,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-greek-brie-skillet",
+    "title": "Zesty Greek Brie Skillet",
+    "tags": [
+      "ayurvedic-friendly",
+      "cast-iron",
+      "flambe",
+      "greek",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-greek-chicken-wrap",
     "title": "Zesty Greek Chicken Wrap",
     "tags": [
