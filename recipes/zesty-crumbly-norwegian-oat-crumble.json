@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Crumbly Norwegian Oat Crumble",
+  "description": "A malty and crumbly Norwegian dish featuring mustard and coconut cream, perfect for a quick snack. This shojin-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the oats, malt syrup, and coconut cream until well combined.",
+    "In a separate bowl, whisk together the flour, brown sugar, mustard powder, and salt.",
+    "Add the dry ingredients to the wet ingredients and stir until a crumbly mixture forms.",
+    "Transfer the mixture to a baking dish and drizzle with melted butter.",
+    "Bake for 25 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "malty",
+    "norwegian",
+    "oat-based",
+    "quick-fix",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "zesty-crumbly-norwegian-oat-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-norwegian-oat-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:16:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "mustard",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "oats",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
