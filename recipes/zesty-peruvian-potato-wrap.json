@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Peruvian Potato Wrap",
+  "description": "A flavorful and textured Peruvian dish featuring potatoes, cultured creme fraiche, and score fat, all wrapped in a lotus leaf, making it a unique ovo-vegetarian friendly option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cultured creme fraiche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced potatoes, minced garlic, salt, and black pepper, and toss to coat.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are roasting, prepare the lotus leaves by rinsing them in cold water and cutting off the stems.",
+    "In a small bowl, mix together the cultured creme fraiche, score fat, lime juice, and chopped cilantro.",
+    "Once the potatoes are done, let them cool slightly, then assemble the wraps by spooning the potato mixture onto a lotus leaf, followed by a dollop of the creme fraiche mixture and a few slices of red onion.",
+    "Fold the lotus leaf over the filling to form a tight package, and serve immediately.",
+    "Garnish with additional cilantro and lime wedges, if desired.",
+    "Repeat the assembly process with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cultured-creme-fraiche",
+    "lotus-leaf-wrap",
+    "ovo-vegetarian",
+    "peruvian-cuisine",
+    "potato-dish",
+    "score-fat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-peruvian-potato-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-potato-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:29:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "zesty creamy",
+    "dishForm": "Wrap"
+  }
+}

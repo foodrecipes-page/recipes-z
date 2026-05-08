@@ -6500,6 +6500,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-potato-wrap",
+    "title": "Zesty Peruvian Potato Wrap",
+    "tags": [
+      "cultured-creme-fraiche",
+      "lotus-leaf-wrap",
+      "ovo-vegetarian",
+      "peruvian-cuisine",
+      "potato-dish",
+      "score-fat"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-sauerkraut-stew",
     "title": "Zesty Peruvian Sauerkraut Stew",
     "tags": [
