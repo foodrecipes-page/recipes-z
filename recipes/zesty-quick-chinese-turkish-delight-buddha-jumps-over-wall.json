@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Quick Chinese Turkish Delight Buddha Jumps Over Wall",
+  "description": "A quick-fix Chinese dish featuring Turkish Delight, made with herbal and shaggy ingredients, cooked in a papillote and served in a Buddha Jumps Over Wall form, this macrobiotic-friendly meal is perfect for a weeknight dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": "rosewater flavor"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Parchment paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together soy sauce, sesame oil, grated ginger, and minced garlic",
+    "Add the sliced shiitake mushrooms and chopped bok choy to the bowl and toss to coat",
+    "Cut the Turkish Delight into small cubes and add to the bowl, tossing gently to combine",
+    "Lay a sheet of parchment paper on a flat surface and brush with a small amount of sesame oil",
+    "Spoon one quarter of the mixture onto the center of the parchment paper",
+    "Fold the parchment paper over the mixture to form a triangle, and press the edges together to seal",
+    "Repeat with the remaining ingredients and parchment paper",
+    "Place the packets on a baking sheet and bake for 15 minutes",
+    "Serve the Buddha Jumps Over Wall hot, garnished with additional grated ginger if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "macrobiotic",
+    "one-pan",
+    "quick-fix",
+    "turkish-delight",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-quick-chinese-turkish-delight-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-quick-chinese-turkish-delight-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:02:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "turkish delight",
+    "diet": "macrobiotic",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "turkish delight",
+    "descriptor": "Zesty Quick",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
