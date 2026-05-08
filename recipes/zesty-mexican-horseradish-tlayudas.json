@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Mexican Horseradish Tlayudas",
+  "description": "A fresh and comforting Mexican dish featuring horseradish and bonito shave, served in a Korean brass bowl. This ayurvedic tamasic friendly recipe is perfect for a snack or light meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day old tortillas"
+    },
+    {
+      "name": "horseradish sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "refried beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the corn tortillas into quarters and toast them in the oven for 5 minutes.",
+    "Spread a layer of refried beans on each toasted tortilla quarter.",
+    "Top the beans with a dollop of horseradish sauce and a sprinkle of bonito flakes.",
+    "Sprinkle shredded cheese over the top of each tortilla quarter.",
+    "Bake the tlayudas in the oven for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tlayudas from the oven and top with diced onion and chopped cilantro.",
+    "Drizzle lime juice over the top of each tlayuda and serve immediately in a Korean brass bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-recipes",
+    "gluten-free",
+    "horseradish-recipes",
+    "korean-brass-bowl",
+    "mexican-food",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "zesty-mexican-horseradish-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-horseradish-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "horseradish",
+    "diet": "ayurvedic-tamasic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "horseradish",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Tlayudas"
+  }
+}

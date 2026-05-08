@@ -4969,6 +4969,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-horseradish-tlayudas",
+    "title": "Zesty Mexican Horseradish Tlayudas",
+    "tags": [
+      "ayurvedic-recipes",
+      "gluten-free",
+      "horseradish-recipes",
+      "korean-brass-bowl",
+      "mexican-food",
+      "vegetarian-snacks"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-kidney-beans-tacos",
     "title": "zesty mexican kidney beans tacos",
     "tags": [
@@ -5543,6 +5558,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-nutty-italian-banana-pinsa",
+    "title": "Zesty Nutty Italian Banana Pinsa",
+    "tags": [
+      "banana-based",
+      "dessert-recipe",
+      "homemade-pinsa",
+      "italian-dish",
+      "nutty-flavor",
+      "yeast-dough"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
