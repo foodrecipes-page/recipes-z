@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Crumbly Jamaican Chicken Fried Rice",
+  "description": "A cultured and crumbly Jamaican dish featuring gochujang and ayurvedic tamasic friendly ingredients, this crowd pleaser is a must try. It combines the flavors of Jamaica with the spiciness of gochujang.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute.",
+    "Add the gochujang and soy sauce to the skillet and cook for 1 minute.",
+    "Add the cooked rice to the skillet and stir fry for 2 minutes.",
+    "Add the cooked chicken back to the skillet and stir fry for 1 minute.",
+    "Add the chopped scallions to the skillet and stir fry for 1 minute.",
+    "Serve the Zesty Crumbly Jamaican Chicken Fried Rice hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pan-meal",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-crumbly-jamaican-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-jamaican-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:53:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "gochujang",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Fried-Rice"
+  }
+}
