@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Middle Eastern Vegetable Kibbeh",
+  "description": "A rich and gooey middle eastern dish featuring tortillas and bhuna, perfect for a quick fix, vegetarian friendly kibbeh served in a lotus leaf wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "carrots",
+      "amount": "2"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "8"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "Chop the cauliflower, carrots, zucchini, and onion into small pieces.",
+    "Saute the chopped vegetables in olive oil until they are tender.",
+    "Add the bhuna sauce, salt, and pepper to the vegetables and stir well.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the kibbeh by spooning the vegetable mixture onto a tortilla and wrapping it in a lotus leaf.",
+    "Place the kibbeh on a baking sheet and bake for 15 minutes.",
+    "Serve the kibbeh hot and enjoy.",
+    "Garnish with garlic cloves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-sauce",
+    "lotus-leaf",
+    "middle-eastern",
+    "quick-fix",
+    "tortilla-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-middle-eastern-vegetable-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-vegetable-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:51:48Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "tortillas",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Kibbeh"
+  }
+}

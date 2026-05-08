@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Crispy Saudi Arabian Fish Skillet",
+  "description": "A buttery and crispy Saudi Arabian dish featuring fish stock and ferment kimchi, perfect for a crowd, made with whole30 friendly ingredients and cooked on a tava griddle.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the tava griddle over medium heat and add the ghee.",
+    "Add the garlic and saute for 1 minute until fragrant.",
+    "Add the cod fish pieces and cook for 3 minutes on each side until golden brown.",
+    "Add the fish stock, ferment kimchi, lemon juice, salt, and black pepper, and stir well.",
+    "Bring the mixture to a simmer and cook for 5 minutes until the fish is cooked through.",
+    "Serve the fish skillet hot, garnished with chopped fresh parsley.",
+    "Cook the fish skillet for an additional 2 minutes if the fish is not cooked through.",
+    "Remove the skillet from the heat and let it cool for 1 minute before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "seafood",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-saudi-arabian-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-saudi-arabian-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:52:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fish stock",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skillet"
+  }
+}

@@ -2064,6 +2064,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-saudi-arabian-fish-skillet",
+    "title": "Zesty Crispy Saudi Arabian Fish Skillet",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "saudi-arabian",
+      "seafood",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-slovakian-crustaceans-empanadas",
     "title": "Zesty Crispy Slovakian Crustaceans Empanadas",
     "tags": [
@@ -5351,6 +5366,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-vegetable-kibbeh",
+    "title": "Zesty Middle Eastern Vegetable Kibbeh",
+    "tags": [
+      "bhuna-sauce",
+      "lotus-leaf",
+      "middle-eastern",
+      "quick-fix",
+      "tortilla-based",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
