@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Moroccan Stilton Tagine",
+  "description": "A cultured and molten Moroccan dish featuring Stilton cheese, this recipe is a unique hangover cure that combines the flavors of Morocco with the richness of cheese, shaped into nigiri-like portions for a fun and diabetic-friendly meal, served from a fondue pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the fondue pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Stir in the cumin and paprika and cook for 1 minute.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Crumble the Stilton cheese into the fondue pot and stir until melted and smooth.",
+    "Season the tagine with salt and pepper to taste.",
+    "Use a spoon to shape the tagine into nigiri-like portions.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-based",
+    "diabetic-friendly",
+    "fondue-pot",
+    "gluten-free",
+    "hangover-cure",
+    "moroccan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "zesty-moroccan-stilton-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-stilton-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:32:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "stilton cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Tagine"
+  }
+}

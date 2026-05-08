@@ -5192,6 +5192,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-moroccan-stilton-tagine",
+    "title": "Zesty Moroccan Stilton Tagine",
+    "tags": [
+      "cheese-based",
+      "diabetic-friendly",
+      "fondue-pot",
+      "gluten-free",
+      "hangover-cure",
+      "moroccan-cuisine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mustardy-peruvian-dairy-suspiro",
     "title": "Zesty Mustardy Peruvian Dairy Suspiro",
     "tags": [
