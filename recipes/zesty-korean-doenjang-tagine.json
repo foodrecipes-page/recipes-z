@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Korean Doenjang Tagine",
+  "description": "A plant-based, American-inspired twist on traditional Korean doenjang, cooked in a tagine with a fluffy and mustardy flavor profile",
+  "cuisine": "Korean-American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained and cubed"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together the doenjang, vegetable oil, garlic, ginger, tagine spice blend, mustard, salt, and black pepper",
+    "Add the chopped onion to the bowl and stir until the onion is evenly coated with the doenjang mixture",
+    "Transfer the onion mixture to the tagine and arrange the tofu cubes on top",
+    "Add the chopped kale to the tagine, covering the tofu and onion mixture",
+    "Cover the tagine with a lid and bake for 30 minutes",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the kale is tender and the tofu is lightly browned",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving",
+    "Serve the Zesty Korean Doenjang Tagine hot, garnished with additional kale and mustard if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "korean-inspired",
+    "one-pot",
+    "plant-based",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-korean-doenjang-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-korean-doenjang-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:25:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "tagine-cook",
+    "primaryIngredient": "doenjang",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "doenjang",
+    "descriptor": "Zesty",
+    "dishForm": "Tagine"
+  }
+}
