@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Mexican Palm Sugar Mole Poblano",
+  "description": "A herbal and snappy vegan Mexican dish featuring palm sugar, made in a traditional ttukbaegi earthenware cookware, inspired by the Jalisco style mole poblano.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "palm sugar",
+      "amount": "1 cup",
+      "notes": "nam tan pip"
+    },
+    {
+      "name": "ancho chilies",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the ancho chilies in a 350 degree oven for 5 minutes.",
+    "Grind the roasted chilies into a powder using a spice grinder.",
+    "Heat 2 tablespoons of oil in the ttukbaegi earthenware cookware over medium heat.",
+    "Add the sliced almonds and cook until fragrant, about 2 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the ground ancho chilies, cinnamon, and cumin and cook for 1 minute.",
+    "Add the palm sugar, raisins, and 2 cups of water to the cookware and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve the mole poblano over rice or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "herbal",
+    "mexican-cuisine",
+    "one-pot",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-mexican-palm-sugar-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mexican-palm-sugar-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:33:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "vegan",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "palm sugar",
+    "descriptor": "Zesty Adventurous",
+    "dishForm": "Mole Poblano"
+  }
+}
