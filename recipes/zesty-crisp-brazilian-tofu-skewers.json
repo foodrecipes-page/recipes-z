@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Crisp Brazilian Tofu Skewers",
+  "description": "A pungent and crisp Brazilian dish featuring tahini paste, perfect for a lazy Sunday, this plant-based friendly recipe is sure to delight. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tahini paste, lime juice, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the tofu cubes to the bowl and toss to coat with the tahini mixture.",
+    "Thread the tofu cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers for 20 minutes, flipping halfway through.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until the tofu is crispy and golden brown.",
+    "Remove the skewers from the oven and let cool for a few minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-crisp-brazilian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-brazilian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:31:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "tahini paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Skewers"
+  }
+}
