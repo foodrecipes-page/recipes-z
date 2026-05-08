@@ -2182,6 +2182,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-shrimp-skewers",
+    "title": "Zesty Croatian Shrimp Skewers",
+    "tags": [
+      "croatian-cuisine",
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-water-chestnut-soup",
     "title": "Zesty Croatian Water Chestnut Soup",
     "tags": [
@@ -2226,6 +2241,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crumbly-saudi-arabian-lamb-kebabs",
+    "title": "Zesty Crumbly Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "easy-dinner",
+      "lamb-kebabs",
+      "middle-eastern",
+      "rice-paper",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -3840,6 +3870,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-polish-morning-glory-casserole",
+    "title": "Zesty Gooey Polish Morning Glory Casserole",
+    "tags": [
+      "casserole",
+      "lacto-vegetarian",
+      "morning-glory",
+      "polish-cuisine",
+      "weekend-brunch"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {

@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Croatian Shrimp Skewers",
+  "description": "A mustardy and springy Croatian dish featuring gochugaru, perfect for a date night, served in a stone bowl, and Buddhist temple friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together gochugaru, Dijon mustard, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "Serve the skewers in a stone bowl, garnished with lemon wedges and fresh parsley.",
+    "Cook the skewers to an internal temperature of at least 145 degrees.",
+    "Let the skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "zesty-croatian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "gochugaru",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Skewers"
+  }
+}

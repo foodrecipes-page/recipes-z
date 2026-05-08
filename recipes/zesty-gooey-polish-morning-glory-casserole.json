@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Gooey Polish Morning Glory Casserole",
+  "description": "A lacto-vegetarian friendly Polish dish featuring morning-glory-pak-bung, this casserole is a crowd-pleaser with its herbal and gooey texture. It is perfect for a weekend breakfast or brunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "morning-glory-pak-bung",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion and minced garlic until softened.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Add the chopped morning-glory-pak-bung to the skillet and cook until it is wilted.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the cooked vegetable mixture and shredded cheddar cheese to the bowl and stir until combined.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "lacto-vegetarian",
+    "morning-glory",
+    "polish-cuisine",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "zesty-gooey-polish-morning-glory-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-polish-morning-glory-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "morning glory",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Casserole"
+  }
+}

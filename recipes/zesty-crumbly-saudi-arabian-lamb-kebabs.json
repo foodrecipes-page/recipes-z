@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Crumbly Saudi Arabian Lamb Kebabs",
+  "description": "A solo dinner dish featuring lamb, rice paper sheets, and a blend of Saudi Arabian spices, perfect for a weeknight meal. This satvik-friendly dish is easy to make and packed with flavor.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, coriander, and paprika.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the lamb is cooking, prepare the rice paper sheets by cutting them into smaller pieces.",
+    "After the lamb has cooked for 15 minutes, brush the rice paper pieces with a little water and wrap each piece around a lamb skewer.",
+    "Return the skewers to the oven and bake for an additional 5 minutes, or until the rice paper is crispy and golden brown.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving.",
+    "To serve, place a skewer on each plate and garnish with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "lamb-kebabs",
+    "middle-eastern",
+    "rice-paper",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-crumbly-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Kebabs"
+  }
+}
