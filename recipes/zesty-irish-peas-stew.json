@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Irish Peas Stew",
+  "description": "A hearty and energizing Irish dish featuring frozen peas, this stew is perfect for a weeknight dinner. It is a funky and shaggy take on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion and minced garlic in a little bit of oil until softened.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the thawed frozen peas, vegetable broth, tomato paste, dried thyme, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and let simmer for 20 minutes.",
+    "Use an immersion blender to puree the stew to the desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "irish-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-irish-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:39:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "frozen peas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "peas",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

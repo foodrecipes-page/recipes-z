@@ -4020,6 +4020,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-peas-stew",
+    "title": "Zesty Irish Peas Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "irish-cuisine",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-salmon-soup",
     "title": "Zesty Irish Salmon Soup",
     "tags": [
