@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Crunchy Turkish Swede Adana Kebap",
+  "description": "A peppery and indulgent Turkish dish featuring swede, marinated in a FODMAP-friendly blend, formed into Adana kebap style.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl, combine lamb mince, red pepper flakes, paprika, salt, and black pepper, and mix well.",
+    "Add grated swede to the bowl and mix until just combined.",
+    "Stir in garlic-infused oil, parsley, and lemon juice.",
+    "Using your hands, shape the mixture into long thin kebap shapes.",
+    "Place the kebaps on a baking tray lined with parchment paper.",
+    "Bake the kebaps in the preheated oven for 20 minutes, or until cooked through.",
+    "Increase the oven temperature to 220 degrees Celsius and bake for an additional 5 minutes, or until the kebaps are crispy on the outside.",
+    "Remove the kebaps from the oven and let them rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kebap-recipes",
+    "lamb-recipes",
+    "low-lactose",
+    "swede-recipes",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-crunchy-turkish-swede-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-turkish-swede-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "swede",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "swede",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Adana Kebap"
+  }
+}
