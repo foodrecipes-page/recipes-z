@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Norwegian Shrimp Paella",
+  "description": "A spicy and creamy Norwegian dish featuring black pepper and shrimp, cooked to perfection in a paella pan. This pescatarian-friendly recipe is perfect for a monsoon evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium heat and add the smoked paprika and black pepper.",
+    "Add the Arborio rice and stir to combine with the spices.",
+    "Add the water and coconut milk, and bring to a boil.",
+    "Reduce the heat to low and add the shrimp, cooking until they are pink and fully cooked.",
+    "Stir in the crumbly Norwegian cheese until melted and well combined.",
+    "Cover the paella pan with a leaf wrap and steam for 5 minutes.",
+    "Remove the leaf wrap and sprinkle with chopped fresh parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "norwegian",
+    "one-pan",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-norwegian-shrimp-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-norwegian-shrimp-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:00:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "black pepper",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Steamed",
+    "dishForm": "Paella"
+  }
+}
