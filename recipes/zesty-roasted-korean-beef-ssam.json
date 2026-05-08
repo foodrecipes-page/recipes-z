@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Roasted Korean Beef Ssam",
+  "description": "A tender and flavorful Korean dish featuring roasted beef, served in a dolsot stone bowl with meringue nests and lamination puff, perfect for a diabetic-friendly date night dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "4"
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 package"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and ginger to make the marinade.",
+    "Add the beef short ribs to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the beef from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the beef in the preheated oven for 2 hours, or until tender and caramelized.",
+    "While the beef is roasting, prepare the meringue nests according to package instructions.",
+    "Toast the sesame seeds in a dry pan over medium heat for 2 minutes, or until fragrant.",
+    "To assemble the ssam, place a portion of the roasted beef in a dolsot stone bowl, top with a meringue nest, a piece of lamination puff, green onions, and toasted sesame seeds.",
+    "Drizzle the sesame oil over the top and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "date-night",
+    "diabetic-friendly",
+    "korean-cuisine",
+    "low-carb",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-roasted-korean-beef-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-korean-beef-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:41:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "lamination-puff",
+    "primaryIngredient": "meringue nests",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Ssam"
+  }
+}
