@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Pillowy Malaysian Trout Satay",
+  "description": "A festive Malaysian dish featuring rainbow trout, soffritto-base, and kosher-friendly ingredients, with a floral and pillowy texture. This dish is perfect for special occasions and outdoor gatherings.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine coconut milk, soy sauce, brown sugar, ginger, garlic, lemon juice, salt, and black pepper, and blend until smooth.",
+    "Thread the trout pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve the satay hot with the zesty sauce spooned over the top.",
+    "Garnish with sliced fresh herbs, such as cilantro or scallions, if desired.",
+    "Refrigerate any leftovers promptly and consume within a day.",
+    "To reheat, grill or bake the satay until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "outdoor-cooking",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-pillowy-malaysian-trout-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pillowy-malaysian-trout-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:11:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "soffritto-base",
+    "primaryIngredient": "rainbow trout",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "trout",
+    "descriptor": "Zesty pillowy",
+    "dishForm": "Satay"
+  }
+}
