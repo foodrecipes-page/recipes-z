@@ -1,0 +1,98 @@
+{
+  "title": "Zenith Comforting Irish Potato Stew",
+  "description": "A hearty and comforting Irish stew featuring charred potatoes and cardamom, made in a wok and perfect for a cold evening, this dish is also buddhist-temple-friendly as it is vegetarian and does not contain any animal products.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over high heat and add the olive oil to coat the bottom.",
+    "Add the chopped onions to the wok and cook until they are lightly charred, stirring occasionally.",
+    "Add the cubed potatoes and sliced carrots to the wok and continue to cook until they are lightly charred, stirring occasionally.",
+    "Add the ground cardamom to the wok and cook for 1 minute, stirring constantly.",
+    "Pour in the low sodium vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes, or until the potatoes and carrots are tender.",
+    "Use the deglazing technique to scrape up any browned bits from the bottom of the wok.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zenith-comforting-irish-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-comforting-irish-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:18:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "cardamom",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zenith Comforting",
+    "dishForm": "Stew"
+  }
+}

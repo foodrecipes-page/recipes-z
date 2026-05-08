@@ -42,6 +42,20 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-comforting-irish-potato-stew",
+    "title": "Zenith Comforting Irish Potato Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zenith-crisp-syrian-avocado-tagine",
     "title": "Zenith Crisp Syrian Avocado Tagine",
     "tags": [
@@ -2183,6 +2197,22 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-middle-eastern-eggplant-baba-ganoush",
+    "title": "Zesty Crispy Middle Eastern Eggplant Baba Ganoush",
+    "tags": [
+      "crispy",
+      "gluten-free",
+      "meat-based",
+      "middle-eastern",
+      "one-pot",
+      "weeknight",
+      "winey"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {

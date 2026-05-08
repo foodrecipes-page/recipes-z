@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crispy Middle Eastern Eggplant Baba Ganoush",
+  "description": "A winey, crispy, one-pot Middle Eastern dish featuring serrano ham and dashi extract, served in a baba ganoush form.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant cubes with 2 tablespoons of olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the eggplant cubes on a baking sheet and roast in the oven for 30 minutes, or until they are tender and lightly browned.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat and cook the diced serrano ham until it is crispy.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Add the roasted eggplant, dashi extract, and lemon juice to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, or until it has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the baba ganoush hot, garnished with additional paprika and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "meat-based",
+    "middle-eastern",
+    "one-pot",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:19:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "serrano ham",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Baba Ganoush"
+  }
+}
