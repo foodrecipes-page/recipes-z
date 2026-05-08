@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Bouncy Northern Thai Chicken Noodles",
+  "description": "A kid-friendly Northern Thai dish featuring saffron and high-protein chicken, this recipe is perfect for a quick and easy dinner. The combination of grassy and bouncy textures makes it a fun meal for the whole family.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large pan, heat the vegetable oil over medium-high heat and cook the chicken breast until browned and cooked through.",
+    "Add the saffron threads, fish sauce, and lime juice to the pan and stir to combine.",
+    "Add the coconut milk to the pan and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Add the cooked noodles to the pan and toss to combine with the sauce.",
+    "Stir in the chopped green onions and cook for an additional 1 minute.",
+    "Serve the noodles hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "quick-dinner",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-bouncy-northern-thai-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bouncy-northern-thai-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:33:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "saffron",
+    "diet": "high-protein",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Noodles"
+  }
+}

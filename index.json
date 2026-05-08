@@ -766,6 +766,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-bouncy-northern-thai-chicken-noodles",
+    "title": "Zesty Bouncy Northern Thai Chicken Noodles",
+    "tags": [
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "quick-dinner",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-bouncy-norwegian-flour-pancakes",
     "title": "Zesty Bouncy Norwegian Flour Pancakes",
     "tags": [
