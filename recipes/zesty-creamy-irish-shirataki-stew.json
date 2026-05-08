@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Creamy Irish Shirataki Stew",
+  "description": "A savory and creamy Irish dish featuring shirataki noodles, shio-koji cure, and vegan-friendly ingredients, all cooked in a traditional cataplana vessel. This stew is perfect for a festive and comforting meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "1 package",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegan cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegan butter in the cataplana vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the shirataki noodles, shio-koji cure, vegan cream, dried thyme, salt, and black pepper to the vessel.",
+    "Stir all the ingredients together, then reduce heat to low and simmer for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-recipes",
+    "comfort-food",
+    "festive-meals",
+    "irish-cuisine",
+    "shirataki-noodles",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-creamy-irish-shirataki-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-irish-shirataki-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "shirataki",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "shirataki",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Stew"
+  }
+}
