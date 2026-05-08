@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Dense Australian Pancetta Casserole",
+  "description": "A rich and savory Australian dish featuring pancetta, confit-tomato, and a blend of spices, perfect for a special occasion. This shojin-friendly recipe is designed to be cooked in a fondue pot.",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "12 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the vegetable broth, tomato paste, and olive oil.",
+    "Add the diced pancetta, chopped confit tomato, sliced mushrooms, chopped onion, and minced garlic to the bowl and stir to combine.",
+    "Add the dried thyme, salt, and black pepper to the bowl and stir to combine.",
+    "Pour the mixture into the preheated fondue pot and cook for 30 minutes.",
+    "Stir the mixture every 10 minutes to prevent burning.",
+    "After 30 minutes, reduce the heat to 300 degrees Fahrenheit and simmer for an additional 20 minutes.",
+    "Remove the fondue pot from the heat and let it cool for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "dinner-party",
+    "fondue-pot-recipe",
+    "shojin-friendly",
+    "special-occasion",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-dense-australian-pancetta-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-australian-pancetta-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:55:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pancetta",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pancetta",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Casserole"
+  }
+}
