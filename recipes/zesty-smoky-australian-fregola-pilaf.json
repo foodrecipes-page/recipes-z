@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Smoky Australian Fregola Pilaf",
+  "description": "A charred, cheese-pull, one-pot Australian dish featuring fregola, with a smoky flavor and a flexitarian-friendly twist, this pilaf is perfect for a weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": "also known as fry-grind-rice-khao-khua"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fregola and cook for 2 minutes, stirring constantly.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the diced grilled zucchini and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and top with grated cheddar cheese.",
+    "Return the skillet to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cheesy",
+    "flexitarian",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-australian-fregola-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-australian-fregola-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:58:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "fregola",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fregola",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Pilaf"
+  }
+}
