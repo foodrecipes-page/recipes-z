@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Fermented Tunisian Kimchi Bowl",
+  "description": "A floral, creamy, and festive Tunisian dish featuring speculaas spice mix and fermented kimchi, served in a halal-friendly dolsot stone bowl.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Speculaas spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "1 head"
+    },
+    {
+      "name": "Chickpeas, canned",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the cauliflower florets with 1 tbsp of coconut oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20 minutes or until tender.",
+    "In a large pan, heat the remaining 1 tbsp of coconut oil over medium heat.",
+    "Add the chickpeas and cook until lightly browned, about 5 minutes.",
+    "Stir in the fermented kimchi, dried cranberries, and pumpkin seeds.",
+    "Cook for an additional 2 minutes.",
+    "Stir in the lemon juice and speculaas spice mix.",
+    "Season with salt and pepper to taste.",
+    "To assemble the bowls, place a scoop of the chickpea-kimchi mixture in the dolsot stone bowl.",
+    "Top with roasted cauliflower florets and chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-fermented-tunisian-kimchi-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fermented-tunisian-kimchi-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:27:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "kimchi",
+    "descriptor": "Zesty Fermented",
+    "dishForm": "Bowl"
+  }
+}

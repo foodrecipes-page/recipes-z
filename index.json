@@ -1675,6 +1675,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-moroccan-beef-tomatoes-pastilla",
+    "title": "zesty crispy moroccan beef tomatoes pastilla",
+    "tags": [
+      "flaky",
+      "homemade",
+      "moroccan",
+      "savory",
+      "spicy",
+      "weekday"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-slovakian-crustaceans-empanadas",
     "title": "Zesty Crispy Slovakian Crustaceans Empanadas",
     "tags": [
@@ -2316,6 +2331,21 @@
       "thaicuisine"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-fermented-tunisian-kimchi-bowl",
+    "title": "Zesty Fermented Tunisian Kimchi Bowl",
+    "tags": [
+      "gluten-free",
+      "halal",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
     "totalTimeMin": 45,
     "shard": "z"
   },

@@ -1,0 +1,115 @@
+{
+  "title": "zesty crispy moroccan beef tomatoes pastilla",
+  "description": "a vibrant and indulgent moroccan dish featuring crispy beef, tomatoes, and a tangy pickle kick, all wrapped in a flaky pastilla crust.",
+  "cuisine": "moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "small and chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "spices",
+      "amount": "2 tsp",
+      "notes": "ground cumin, paprika, salt, pepper"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 220c. roll out puff pastry to 3mm thickness.",
+    "in a large pan, heat oil over medium-high heat. add beef strips and cook for 5 minutes.",
+    "add onion, spices and 1 tsp salt to the pan. stir-fry for 2 minutes.",
+    "stir in pickle relish and cook for 1 minute.",
+    "add tomatoes to the pan and cook for 3-4 minutes.",
+    "stir in flour and cook for 1 minute.",
+    "roll out puff pastry to a large rectangle. place beef mixture in one half of the pastry, leaving a 5mm border.",
+    "brush the border with water and fold the other half over the filling.",
+    "press the edges together to seal the pastilla.",
+    "use a sharp knife to cut a few slits in the top crust.",
+    "place the pastilla on a baking sheet and brush with water.",
+    "bake in the preheated oven for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flaky",
+    "homemade",
+    "moroccan",
+    "savory",
+    "spicy",
+    "weekday"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-moroccan-beef-tomatoes-pastilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-moroccan-beef-tomatoes-pastilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:28:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef tomatoes",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Pastilla"
+  }
+}
