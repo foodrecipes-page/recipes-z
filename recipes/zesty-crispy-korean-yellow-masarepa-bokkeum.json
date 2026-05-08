@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Crispy Korean Yellow Masarepa Bokkeum",
+  "description": "A peppery and crispy Korean dish featuring yellow masarepa, shio-koji-cure, and plant-based friendly ingredients, originating from the Gangwon region.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow masarepa",
+      "amount": "2 cups",
+      "notes": "pre-cooked and dried"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 cup",
+      "notes": "cubed and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the pre-cooked yellow masarepa according to package instructions and set aside.",
+    "In a blender or food processor, blend shio-koji, soy sauce, rice vinegar, sesame oil, Gochujang, and black pepper to make the marinade.",
+    "Add the cubed tofu to the marinade and mix well to coat.",
+    "Let the tofu marinate for at least 30 minutes.",
+    "Heat a large skillet or wok over medium-high heat and add 1 tablespoon of sesame oil.",
+    "Add the marinated tofu to the skillet and cook until golden brown and crispy.",
+    "Add the cooked yellow masarepa to the skillet and stir-fry for 2-3 minutes.",
+    "Add the chopped scallions and minced garlic to the skillet and stir-fry for an additional minute.",
+    "Season with additional soy sauce or Gochujang if needed.",
+    "Serve the Zesty Crispy Korean Yellow Masarepa Bokkeum hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "korean-food",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-crispy-korean-yellow-masarepa-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-korean-yellow-masarepa-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:57:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "plant-based",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yellow masarepa",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Bokkeum"
+  }
+}

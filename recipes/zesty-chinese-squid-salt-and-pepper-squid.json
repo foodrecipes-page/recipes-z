@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Chinese Squid Salt And Pepper Squid",
+  "description": "A savory and tender Chinese dish featuring cayenne pepper, perfect for kids and adults alike, this shojin-friendly salt and pepper squid is a delicious and easy to make meal",
+  "cuisine": "Chinese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a bowl, mix together cornstarch, cayenne pepper, salt, and black pepper",
+    "Toss the squid pieces in the cornstarch mixture to coat",
+    "Brush the grill with vegetable oil to prevent sticking",
+    "Grill the squid for 2-3 minutes per side, until cooked through",
+    "While the squid is cooking, mix together chopped scallions and minced garlic",
+    "Once the squid is done, toss it in the scallion and garlic mixture",
+    "Serve the squid hot, garnished with additional scallions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "easy-dinner",
+    "grilled",
+    "kid-friendly",
+    "quick-meal",
+    "seafood",
+    "shojin"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "zesty-chinese-squid-salt-and-pepper-squid",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:57:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "shojin",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "squid",
+    "descriptor": "Zesty",
+    "dishForm": "Salt And Pepper Squid"
+  }
+}

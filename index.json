@@ -1322,6 +1322,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chinese-squid-salt-and-pepper-squid",
+    "title": "Zesty Chinese Squid Salt And Pepper Squid",
+    "tags": [
+      "chinese",
+      "easy-dinner",
+      "grilled",
+      "kid-friendly",
+      "quick-meal",
+      "seafood",
+      "shojin"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-citrus-shortcrust-pastry-pie",
     "title": "Zesty Citrus Shortcrust Pastry Pie",
     "tags": [
@@ -1732,6 +1748,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-korean-yellow-masarepa-bokkeum",
+    "title": "Zesty Crispy Korean Yellow Masarepa Bokkeum",
+    "tags": [
+      "crispy",
+      "korean-food",
+      "one-pan",
+      "plant-based",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
