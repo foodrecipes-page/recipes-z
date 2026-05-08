@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Smoky Slovakian Pork Skewers",
+  "description": "A fresh and flavorful Slovakian dish featuring marinated pork, perfect for a brunch gathering, with a lacquer glaze and raw friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "In a large bowl, whisk together kosher salt, brown sugar, smoked paprika, garlic powder, and black pepper.",
+    "Add the pork pieces to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with lacquer glaze and olive oil.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through.",
+    "In a small bowl, whisk together apple cider vinegar and a pinch of kosher salt.",
+    "Brush the skewers with the vinegar mixture during the last minute of grilling.",
+    "Serve the skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "grilled-meats",
+    "high-protein",
+    "one-pan",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-slovakian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-slovakian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:46:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "kosher salt",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skewers"
+  }
+}
