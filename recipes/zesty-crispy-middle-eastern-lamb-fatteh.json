@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Crispy Middle Eastern Lamb Fatteh",
+  "description": "A funky and crispy solo dinner dish featuring lamb, fries, and double rise bread, perfect for a paleo friendly meal. This middle eastern dish is full of flavor and texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "fries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the lamb shoulder into small pieces and season with sumac, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium high heat and cook the lamb until browned, about 5 minutes.",
+    "Transfer the lamb to a baking sheet and cook in the oven for 15 minutes, or until cooked through.",
+    "While the lamb is cooking, cook the fries in a deep fryer or a large pot of oil until crispy, about 5 minutes.",
+    "Toast the double rise bread slices until crispy and cut into small pieces.",
+    "In a large bowl, combine the cooked lamb, fries, and toasted bread.",
+    "Drizzle the lemon juice and garlic over the top of the fatteh and toss to combine.",
+    "Serve the fatteh hot, topped with yogurt if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "zesty-crispy-middle-eastern-lamb-fatteh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-middle-eastern-lamb-fatteh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "fries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Fatteh"
+  }
+}
