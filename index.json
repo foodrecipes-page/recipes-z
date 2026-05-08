@@ -5171,6 +5171,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-rich-dutch-egg-rolls-stew",
+    "title": "Zesty Rich Dutch Egg Rolls Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "one-pot",
+      "vegan-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-rich-norwegian-macaroni-pasta",
     "title": "Zesty Rich Norwegian Macaroni Pasta",
     "tags": [

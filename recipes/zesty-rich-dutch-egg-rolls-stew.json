@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Rich Dutch Egg Rolls Stew",
+  "description": "A rich and aerated one-pot Dutch dish featuring egg rolls and tandoor flavors, vegan-friendly and perfect for a cold evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "Vegan-friendly"
+    },
+    {
+      "name": "Tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the tandoor spice mix and cook for 1 minute.",
+    "Add the vegetable broth, soy sauce, and lemon juice, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Meanwhile, prepare the egg rolls by filling each wrapper with a tablespoon of the mushroom mixture and rolling them up.",
+    "Add the egg rolls to the stew and cook for an additional 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-rich-dutch-egg-rolls-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-rich-dutch-egg-rolls-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:32:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "egg rolls",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "egg rolls",
+    "descriptor": "Zesty Rich",
+    "dishForm": "Stew"
+  }
+}
