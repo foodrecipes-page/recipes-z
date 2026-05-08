@@ -4651,6 +4651,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-mexican-mung-bean-sprouts-tacos",
+    "title": "Zesty Mexican Mung Bean Sprouts Tacos",
+    "tags": [
+      "air-fryer",
+      "hot-pot",
+      "mexican",
+      "pescatarian",
+      "sprouts",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mexican-pistachio-tacos",
     "title": "Zesty Mexican Pistachio Tacos",
     "tags": [
