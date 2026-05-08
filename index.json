@@ -1915,6 +1915,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-canadian-lentil-stew",
+    "title": "Zesty Crisp Canadian Lentil Stew",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "high-protein",
+      "lentil-stew",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-chiapan-minari-casserole",
     "title": "Zesty Crisp Chiapan Minari Casserole",
     "tags": [
