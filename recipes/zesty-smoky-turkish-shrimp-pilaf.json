@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Smoky Turkish Shrimp Pilaf",
+  "description": "A smoky and light Turkish dish featuring dried shrimp, this pilaf is a crowd-pleaser and macrobiotic-friendly, made easy with a pressure cooker.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the smoked paprika, tomato paste, and rehydrated dried shrimp.",
+    "Add the brown rice and chicken broth to the pressure cooker.",
+    "Close the lid and cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "macrobiotic",
+    "one-pot",
+    "pressure-cooker",
+    "seafood",
+    "smoky",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-smoky-turkish-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-turkish-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:27:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried shrimp",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Pilaf"
+  }
+}

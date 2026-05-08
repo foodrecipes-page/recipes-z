@@ -1631,6 +1631,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles",
+    "title": "Zesty Crispy Filipino Flat Rice Noodles",
+    "tags": [
+      "bamboo-tray",
+      "crispy-noodles",
+      "fermented-dough",
+      "filipino-food",
+      "gluten-free",
+      "low-calorie"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-german-cabbage-wrap",
     "title": "Zesty Crispy German Cabbage Wrap",
     "tags": [
@@ -5923,6 +5938,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 100,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-turkish-shrimp-pilaf",
+    "title": "Zesty Smoky Turkish Shrimp Pilaf",
+    "tags": [
+      "macrobiotic",
+      "one-pot",
+      "pressure-cooker",
+      "seafood",
+      "smoky",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
