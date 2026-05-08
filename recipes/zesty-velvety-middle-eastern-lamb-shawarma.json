@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Velvety Middle Eastern Lamb Shawarma",
+  "description": "Savory and cozy Middle Eastern dish featuring lamb, soy sauce, and ayurvedic-rajasic friendly spices, served in a tagine pot.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the sliced lamb and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the soy sauce, cumin, and coriander, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven at 300 degrees for 5 minutes.",
+    "Assemble the shawarma by slicing the cooked lamb and serving it in the pita bread with tahini sauce, pickled turnips, and any desired toppings.",
+    "Serve immediately and enjoy.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "middle-eastern",
+    "one-pot",
+    "shawarma",
+    "tagine-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-velvety-middle-eastern-lamb-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-middle-eastern-lamb-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:30:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "soy sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Shawarma"
+  }
+}

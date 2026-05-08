@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Dense Ethiopian Lamb Injera",
+  "description": "A traditional Ethiopian dish featuring lamb, injera, and a blend of spices, with a dense and slightly bitter texture, made satvik-friendly by using no onions or garlic, and cooked to perfection using sous-vide techniques.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "injera flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the injera flour and water to make the injera batter, stirring until smooth and free of lumps.",
+    "Let the injera batter rest for 24 hours to allow it to ferment.",
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a separate bowl, mix together the ground lamb, ground cumin, coriander powder, turmeric powder, salt, and black pepper.",
+    "Divide the lamb mixture into 4-6 portions, depending on desired serving size.",
+    "Place each portion of the lamb mixture into a sous-vide bag, sealing tightly to prevent leakage.",
+    "Cook the lamb in the sous-vide machine for 2 hours, or until it reaches an internal temperature of 130 degrees Fahrenheit.",
+    "Once the lamb is cooked, remove it from the sous-vide bags and place it on top of the injera batter, which has been poured onto a heated skillet or mitad.",
+    "Cook the injera for an additional 1-2 minutes, until it is crispy and golden brown on the bottom.",
+    "Serve the zesty dense Ethiopian lamb injera hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "satvik-friendly",
+    "sous-vide-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-dense-ethiopian-lamb-injera",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-ethiopian-lamb-injera",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:30:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "ground cumin",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Injera"
+  }
+}

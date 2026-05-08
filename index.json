@@ -2867,6 +2867,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-ethiopian-lamb-injera",
+    "title": "Zesty Dense Ethiopian Lamb Injera",
+    "tags": [
+      "dinner-ideas",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "lamb-recipes",
+      "satvik-friendly",
+      "sous-vide-cooking"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 150,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-french-vegetable-gratin",
     "title": "Zesty Dense French Vegetable Gratin",
     "tags": [
@@ -5438,6 +5453,22 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-malted-italian-wholemeal-flour-risotto",
+    "title": "Zesty Malted Italian Wholemeal Flour Risotto",
+    "tags": [
+      "broiled",
+      "italian-cuisine",
+      "malted-barley",
+      "one-pot",
+      "shojin-friendly",
+      "vegetarian",
+      "wholemeal-flour"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -9155,6 +9186,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-middle-eastern-lamb-shawarma",
+    "title": "Zesty Velvety Middle Eastern Lamb Shawarma",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "middle-eastern",
+      "one-pot",
+      "shawarma",
+      "tagine-pot"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 80,
     "shard": "z"
   },
   {

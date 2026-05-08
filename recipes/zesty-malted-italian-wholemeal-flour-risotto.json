@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Malted Italian Wholemeal Flour Risotto",
+  "description": "A malty and shattering Italian dish featuring strong wholemeal flour, this risotto is a unique and flavorful experience, inspired by the Ligurian region and monsoon Italian cuisine, and is shojin-friendly, meaning it is suitable for a Buddhist vegetarian diet. This recipe is also broiled to perfection.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wholemeal flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably Italian '00' flour"
+    },
+    {
+      "name": "Malted barley flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/2 cup",
+      "notes": "vegan alternative available"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the wholemeal flour and malted barley flour, stirring constantly for 1 minute.",
+    "Add the white wine and cook until the liquid is almost completely absorbed.",
+    "Add 1/2 cup of warm vegetable broth to the saucepan and stir until absorbed, repeat this process until all the broth is used.",
+    "Transfer the saucepan to the preheated oven and broil for 2-3 minutes, or until the top is lightly browned.",
+    "Remove the saucepan from the oven and stir in the Grana Padano cheese until melted.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "italian-cuisine",
+    "malted-barley",
+    "one-pot",
+    "shojin-friendly",
+    "vegetarian",
+    "wholemeal-flour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-malted-italian-wholemeal-flour-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malted-italian-wholemeal-flour-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:31:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "shojin",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "wholemeal flour",
+    "descriptor": "Zesty Malted",
+    "dishForm": "Risotto"
+  }
+}
