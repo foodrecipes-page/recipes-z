@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Dense Moroccan Beef Tagine",
+  "description": "A rich and earthy Moroccan dish featuring feather blade beef, perfect for a date night, with a dairy-free friendly twist using kombu-cold-extract.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cubed beef and cook until it is browned on all sides, about 5 minutes.",
+    "Add the kombu-cold-extract, dried apricots, prunes, ras el hanout, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the tagine or Dutch oven and bring to a boil.",
+    "Reduce the heat to low, cover the tagine or Dutch oven, and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "moroccan",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "zesty-dense-moroccan-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-moroccan-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "feather blade beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Tagine"
+  }
+}
