@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Light British Beef Fillet Bubble And Squeak",
+  "description": "A herbal and light British dish featuring beef fillet, perfect for a weeknight dinner, pescatarian-friendly by substituting beef with a fish fillet if needed.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "400g",
+      "notes": "or fish fillet for pescatarian option"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "200g",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 54 degrees Celsius.",
+    "Season the beef fillet with salt and black pepper.",
+    "Seal the beef fillet in a sous-vide bag and cook for 1 hour.",
+    "While the beef is cooking, boil the diced potatoes in salted water until they are tender, then drain and set aside.",
+    "In a large pan, heat the olive oil over medium heat and saute the diced onion and minced garlic until softened.",
+    "Add the trimmed brussels sprouts to the pan and cook until they are tender and lightly browned.",
+    "Add the cooked potatoes to the pan and stir to combine with the onion and sprouts mixture.",
+    "Once the beef is cooked, slice it thinly against the grain.",
+    "To assemble the bubble and squeak, place a portion of the potato and sprouts mixture on a plate, top with sliced beef, and garnish with chopped parsley and a squeeze of lemon juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "high-protein",
+    "light-meal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-light-british-beef-fillet-bubble-and-squeak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-british-beef-fillet-bubble-and-squeak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:23:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef fillet",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Zesty Light",
+    "dishForm": "Bubble And Squeak"
+  }
+}

@@ -3907,6 +3907,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-light-british-beef-fillet-bubble-and-squeak",
+    "title": "Zesty Light British Beef Fillet Bubble And Squeak",
+    "tags": [
+      "british-cuisine",
+      "high-protein",
+      "light-meal",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 80,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-light-canadian-salmon-skillet",
     "title": "Zesty Light Canadian Salmon Skillet",
     "tags": [
