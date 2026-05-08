@@ -1,0 +1,102 @@
+{
+  "title": "Zesty French Potato Tartiflette",
+  "description": "A spicy and flavorful French dish featuring seasoned rice vinegar and vegetarian friendly ingredients, cooked in a traditional ttukbaegi earthenware cook and served on a hot stone plate.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "seasoned rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "reeblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced potatoes, chopped onion, minced garlic, seasoned rice vinegar, olive oil, salt, black pepper, and paprika, and toss to coat.",
+    "Transfer the potato mixture to a ttukbaegi earthenware cook and top with the crumbly reeblochon cheese.",
+    "Cover the earthenware cook with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove the tartiflette from the oven and sprinkle with chopped fresh thyme.",
+    "Serve the tartiflette hot on a hot stone plate.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "spicy",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-french-potato-tartiflette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-french-potato-tartiflette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "potatoes",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Tartiflette"
+  }
+}

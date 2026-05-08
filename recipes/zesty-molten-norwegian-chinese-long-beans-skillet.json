@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Molten Norwegian Chinese Long Beans Skillet",
+  "description": "A winey and molten Norwegian dish featuring Chinese long beans, perfect for a date night, with a katsuramuki-cut and low-fat-friendly ingredients.",
+  "cuisine": "Norwegian Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the Chinese long beans and cook for 3 minutes, until they start to soften.",
+    "Add the white wine, chicken broth, soy sauce, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, until the sauce has thickened and the beans are tender.",
+    "Reduce the heat to low and let the skillet simmer for 2 minutes, until the sauce is molten and slightly caramelized.",
+    "Serve the skillet hot, garnished with sliced green onions and sesame seeds if desired.",
+    "Let the dish rest for 1 minute before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-fat",
+    "norwegian-chinese",
+    "one-pan",
+    "quick-dinner",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "zesty-molten-norwegian-chinese-long-beans-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-norwegian-chinese-long-beans-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chinese long beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Zesty molten",
+    "dishForm": "Skillet"
+  }
+}
