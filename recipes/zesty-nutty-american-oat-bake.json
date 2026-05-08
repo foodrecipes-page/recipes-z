@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Nutty American Oat Bake",
+  "description": "A nutty, aerated, and romantic American dish featuring ground oats, perfect for a special breakfast or brunch, this high-protein friendly recipe is made in a Dutch oven.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned or rolled oats work well"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ground oats, chopped almonds, dried cranberries, and brown sugar.",
+    "In a separate bowl, whisk together the eggs, Greek yogurt, honey, vanilla extract, and salt.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour the mixture into a greased Dutch oven.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the center is set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, topped with additional chopped nuts and dried fruit if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "brunch",
+    "high-protein",
+    "oat-based",
+    "one-pan",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-nutty-american-oat-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-american-oat-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:06:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "ground oats",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "oats",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Bake"
+  }
+}
