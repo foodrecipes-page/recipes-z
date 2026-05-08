@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Tender Venezuelan Chicken Skillet",
+  "description": "A savory and tender weeknight Venezuelan dish featuring a blend of Mediterranean flavors, vanilla sugar, and coconut cream, perfect for a quick dinner. This recipe combines the richness of coconut with the brightness of citrus and spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the vanilla sugar, garlic powder, cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Cook for 1 minute, until the spices are fragrant.",
+    "Stir in the coconut cream and lime juice.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through and the sauce has thickened, about 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the chicken and sauce hot over rice or with roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "zesty-tender-venezuelan-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-venezuelan-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Skillet"
+  }
+}

@@ -7236,6 +7236,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-tender-russian-semolina-pilaf",
+    "title": "Zesty Tender Russian Semolina Pilaf",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "romantic",
+      "russian",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-tender-spanish-cacao-tapas-platter",
     "title": "Zesty Tender Spanish Cacao Tapas Platter",
     "tags": [
@@ -7244,6 +7258,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tender-venezuelan-chicken-skillet",
+    "title": "Zesty Tender Venezuelan Chicken Skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mediterranean-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Tender Russian Semolina Pilaf",
+  "description": "A cultured and tender Russian dish featuring semolina, perfect for a romantic evening. This vegetarian-friendly pilaf is a delight to the senses.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "rimacinata type"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the semolina and cook for 1 minute, stirring constantly.",
+    "Add the water, salt, black pepper, and dried thyme, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "romantic",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-tender-russian-semolina-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-russian-semolina-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "semolina",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Pilaf"
+  }
+}
