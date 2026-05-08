@@ -1027,6 +1027,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-british-fennel-spotted-dick-pudding",
+    "title": "Zesty British Fennel Spotted Dick Pudding",
+    "tags": [
+      "british-desserts",
+      "comfort-food",
+      "fennel-seeds",
+      "plant-based",
+      "post-workout",
+      "steamed-pudding"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 150,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-british-iceberg-lettuce-salad",
     "title": "Zesty British Iceberg Lettuce Salad",
     "tags": [
@@ -3989,6 +4004,21 @@
       "vegetarian-options"
     ],
     "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-brazilian-chicken-wrap",
+    "title": "Zesty Gooey Brazilian Chicken Wrap",
+    "tags": [
+      "brazilian-food",
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "quick-meal",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
     "totalTimeMin": 40,
     "shard": "z"
   },

@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Gooey Brazilian Chicken Wrap",
+  "description": "A fresh and gooey Brazilian dish featuring chicken and ssam wrap, perfect for a weeknight dinner, and friendly to all diets including Buddhist temple standards, with no actual hail in the recipe",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "brazilian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt and pepper.",
+    "Heat the olive oil in a large skillet and cook the chicken until browned.",
+    "Transfer the chicken to the oven and bake for 20 minutes.",
+    "In a small bowl, mix the coconut milk and lime juice.",
+    "Shred the cooked chicken and mix with the coconut milk mixture.",
+    "Assemble the ssam wraps with the chicken mixture and brazilian cheese.",
+    "Bake the wraps in the oven for 5 minutes or until the cheese is melted and gooey.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-gooey-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:51:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "hail",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Wrap"
+  }
+}

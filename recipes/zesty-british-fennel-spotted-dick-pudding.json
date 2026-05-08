@@ -1,0 +1,91 @@
+{
+  "title": "Zesty British Fennel Spotted Dick Pudding",
+  "description": "A plant-based friendly British dessert featuring fennel seeds, perfect for a post-workout treat, with a unique blend of earthy and springy flavors. This spotted dick pudding is steamed in a hot pot vessel to create a moist and delicious dessert.",
+  "cuisine": "British",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1 cup",
+      "notes": "such as raisins or cranberries"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer by filling the hot pot vessel with water and bringing it to a boil.",
+    "In a large mixing bowl, combine the flour, fennel seeds, and sugar.",
+    "Add the dried fruit, plant-based milk, vegetable oil, and vanilla extract to the bowl and mix until a dough forms.",
+    "Transfer the dough to a greased pudding basin or a heatproof bowl that fits inside the hot pot vessel.",
+    "Cover the pudding with a piece of parchment paper or aluminum foil and tie it with string.",
+    "Place the pudding in the hot pot vessel, making sure it is fully submerged in the boiling water.",
+    "Steam the pudding for 2 hours, or until it is cooked through and firm to the touch.",
+    "Remove the pudding from the hot pot vessel and let it cool for a few minutes.",
+    "Serve the pudding warm, garnished with additional fennel seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-desserts",
+    "comfort-food",
+    "fennel-seeds",
+    "plant-based",
+    "post-workout",
+    "steamed-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-british-fennel-spotted-dick-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-british-fennel-spotted-dick-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:51:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "fennel seeds",
+    "diet": "plant-based",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "fennel",
+    "descriptor": "Zesty Earthy",
+    "dishForm": "Spotted Dick Pudding"
+  }
+}
