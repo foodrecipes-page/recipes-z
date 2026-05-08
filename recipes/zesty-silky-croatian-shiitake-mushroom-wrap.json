@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Silky Croatian Shiitake Mushroom Wrap",
+  "description": "A citrusy and silky Croatian dish featuring shiitake mushrooms, perfect for a post-workout meal, wrapped in a pandan leaf wrap.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium heat.",
+    "Add the sliced shiitake mushrooms and cook until they are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Warm the pandan leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by spooning the mushroom mixture onto a pandan leaf and topping with a dollop of yogurt.",
+    "Fold the pandan leaf over the filling to form a wrap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "halal-friendly",
+    "healthy-snacks",
+    "mushroom-recipes",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "zesty-silky-croatian-shiitake-mushroom-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-croatian-shiitake-mushroom-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:47:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "wok-hei",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Wrap"
+  }
+}
