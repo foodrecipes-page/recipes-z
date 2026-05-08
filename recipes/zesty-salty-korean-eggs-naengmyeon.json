@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Salty Korean Eggs Naengmyeon",
+  "description": "A refreshing and savory Korean dish featuring eggs, yuzu-cure, and glassy jelly noodles, perfect for warm weather. This crowd-pleasing naengmyeon is a must-try for anyone looking for a unique and flavorful meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "naengmyeon noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thinly sliced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Hard-boil the eggs, then slice them into thin rounds.",
+    "Mix the yuzu juice, kosher salt, and granulated sugar in a small bowl until the sugar is dissolved.",
+    "Add the sliced eggs to the yuzu mixture and let it cure in the refrigerator for at least 2 hours.",
+    "Cook the naengmyeon noodles according to the package instructions, then rinse them in cold water.",
+    "Mix the rice vinegar, sesame oil, and a pinch of kosher salt in a large bowl.",
+    "Add the cooked noodles to the bowl and toss them in the vinegar mixture until they are well coated.",
+    "Slice the cucumber into thin rounds and add it to the bowl with the noodles.",
+    "Add the pickled ginger and toasted sesame seeds to the bowl and toss everything together.",
+    "Add the cured egg slices to the bowl and toss gently to combine.",
+    "Serve the Zesty Salty Korean Eggs Naengmyeon immediately, garnished with additional toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "korean-food",
+    "noodle-dish",
+    "refreshing",
+    "savory",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-salty-korean-eggs-naengmyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-salty-korean-eggs-naengmyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:53:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "eggs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "eggs",
+    "descriptor": "Zesty Salty",
+    "dishForm": "Naengmyeon"
+  }
+}
