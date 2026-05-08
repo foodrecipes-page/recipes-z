@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Double Fried American Tiger Prawns Skillet",
+  "description": "A solo dinner American dish featuring tiger prawns, double fried for a crispy exterior and a springy interior, with a zesty and umami flavor profile, and ayurvedic sattvic friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the flour, cornstarch, paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Toss the tiger prawns in the flour mixture to coat, shaking off excess.",
+    "Double fry the tiger prawns by first frying them for 2 minutes, then removing them from the oil and letting them rest for 30 seconds, and finally frying them again for an additional 2 minutes or until golden brown.",
+    "Remove the fried tiger prawns from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "In the same skillet, add the lemon juice and stir to deglaze the pan, scraping up any browned bits from the bottom.",
+    "Add the fried tiger prawns back into the skillet and toss to coat with the lemon juice and pan drippings.",
+    "Garnish with chopped scallions and serve immediately.",
+    "Serve the zesty double fried American tiger prawns skillet hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "one-pan",
+    "sattvic-friendly",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "zesty-double-fried-american-tiger-prawns-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-double-fried-american-tiger-prawns-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:45:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tiger prawns",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Zesty Double Fried",
+    "dishForm": "Skillet"
+  }
+}

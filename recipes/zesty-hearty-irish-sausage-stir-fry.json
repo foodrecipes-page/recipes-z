@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Hearty Irish Sausage Stir fry",
+  "description": "A hearty and earthy Irish dish featuring sausage and vegetables in a zesty sauce, perfect for a hangover cure. This keto-friendly stir-fry is a satisfying and flavorful meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a high fat content"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and cook the sliced onion until it starts to caramelize.",
+    "Add the sliced bell pepper and cook until it starts to soften.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Irish sausage to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Add the chicken broth, heavy cream, dried thyme, salt, and black pepper to the skillet, stirring to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened and the flavors have melded together.",
+    "Serve the stir-fry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-hearty-irish-sausage-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-hearty-irish-sausage-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:45:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sausage",
+    "descriptor": "Zesty Hearty",
+    "dishForm": "Stir-fry"
+  }
+}

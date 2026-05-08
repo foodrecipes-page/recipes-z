@@ -2299,6 +2299,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-double-fried-american-tiger-prawns-skillet",
+    "title": "Zesty Double Fried American Tiger Prawns Skillet",
+    "tags": [
+      "american-cuisine",
+      "high-protein",
+      "one-pan",
+      "sattvic-friendly",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dutch-almond-broth",
     "title": "Zesty Dutch Almond Broth",
     "tags": [
@@ -3584,6 +3599,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-hearty-irish-sausage-stir-fry",
+    "title": "Zesty Hearty Irish Sausage Stir fry",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
