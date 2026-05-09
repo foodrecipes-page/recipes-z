@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Silky Greek Yogurt Moussaka",
+  "description": "A fresh and silky Greek dish featuring full fat yogurt, this moussaka is a nostalgic treat that is both shojin-friendly and delicious. It is made with layers of eggplant, yogurt, and spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "full fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Brush the eggplant slices with olive oil and season with salt and black pepper.",
+    "Bake the eggplant slices in the oven for 20 minutes, flipping them halfway through.",
+    "In a bowl, mix together the yogurt, lemon juice, garlic, salt, and black pepper.",
+    "In a separate bowl, mix together the chopped parsley and a pinch of salt.",
+    "To assemble the moussaka, create a layer of eggplant slices in the bottom of a baking dish.",
+    "Spread half of the yogurt mixture over the eggplant slices.",
+    "Repeat the layers, starting with the eggplant slices, then the remaining yogurt mixture, and finally the parsley mixture.",
+    "Bake the moussaka in the oven for 25 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "greek",
+    "layered",
+    "shojin",
+    "vegetarian",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-silky-greek-yogurt-moussaka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-greek-yogurt-moussaka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:47:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Moussaka"
+  }
+}

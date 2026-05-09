@@ -8483,6 +8483,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-silky-greek-yogurt-moussaka",
+    "title": "Zesty Silky Greek Yogurt Moussaka",
+    "tags": [
+      "baked",
+      "greek",
+      "layered",
+      "shojin",
+      "vegetarian",
+      "yogurt-based"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-silky-mediterranean-ground-beef-tagine",
     "title": "Zesty Silky Mediterranean Ground Beef Tagine",
     "tags": [
