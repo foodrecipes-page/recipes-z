@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Vietnamese Daikon Bun Rieu",
+  "description": "Spicy and chewy Vietnamese dish featuring daikon and ferment-kimchi, served in a scallop shell, this macrobiotic-friendly bun rieu is perfect for midnight cravings. It combines the flavors of daikon, kimchi, and various spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large pot, combine the vegetable broth, soy sauce, and sesame oil, and bring to a boil.",
+    "Add the grated daikon to the pot and cook until it is tender.",
+    "Add the chopped ferment-kimchi to the pot and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "To serve, place some cooked noodles in the bottom of a scallop shell, then spoon the daikon and kimchi mixture over the noodles.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "midnight-cravings",
+    "seafood-inspired",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "zesty-vietnamese-daikon-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-daikon-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:40:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "daikon",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "daikon",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Bun Rieu"
+  }
+}

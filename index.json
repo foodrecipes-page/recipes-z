@@ -9817,6 +9817,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spicy-irish-chinese-long-beans-wrap",
+    "title": "Zesty Spicy Irish Chinese Long Beans Wrap",
+    "tags": [
+      "fusion-cuisine",
+      "gluten-free",
+      "irish-chinese",
+      "spicy-food",
+      "steamed-dishes",
+      "sugar-free"
+    ],
+    "cuisine": "Fusion",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spicy-italian-sausage-risotto",
     "title": "Zesty Spicy Italian Sausage Risotto",
     "tags": [
@@ -11160,6 +11175,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-daikon-bun-rieu",
+    "title": "Zesty Vietnamese Daikon Bun Rieu",
+    "tags": [
+      "macrobiotic-friendly",
+      "midnight-cravings",
+      "seafood-inspired",
+      "spicy-food",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {

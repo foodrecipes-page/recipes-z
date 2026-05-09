@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Spicy Irish Chinese Long Beans Wrap",
+  "description": "A spicy and crumbly Irish dish featuring Chinese long beans, wrapped in leaves and steamed to perfection, friendly to sugar-free diets. This nostalgic dish combines the best of Irish and Chinese flavors.",
+  "cuisine": "Fusion",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 2-inch pieces"
+    },
+    {
+      "name": "Irish sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "8-10"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced Irish sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the Chinese long beans and cook until tender, about 5 minutes.",
+    "Stir in the soy sauce and season with salt and black pepper.",
+    "Lay a leaf wrap flat and spoon about 1/2 cup of the bean and sausage mixture onto the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the wraps in a steamer basket and steam over boiling water for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fusion-cuisine",
+    "gluten-free",
+    "irish-chinese",
+    "spicy-food",
+    "steamed-dishes",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-spicy-irish-chinese-long-beans-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-irish-chinese-long-beans-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:40:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "chinese long beans",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Zesty spicy",
+    "dishForm": "Wrap"
+  }
+}
