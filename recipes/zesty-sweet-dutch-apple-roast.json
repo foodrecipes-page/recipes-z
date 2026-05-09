@@ -1,0 +1,90 @@
+{
+  "title": "Zesty Sweet Dutch Apple Roast",
+  "description": "A sweet and comforting Dutch dish featuring dulce de leche and roasted apples, perfect for a cold winter evening. This vegetarian-friendly recipe is sure to become a favorite.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4 large",
+      "notes": "any variety, peeled and sliced"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced apples, dulce de leche, brown sugar, flour, cinnamon, nutmeg, and salt, and toss until the apples are evenly coated.",
+    "Transfer the apple mixture to a 9x13 inch baking dish and dot the top with the melted butter.",
+    "Bake the apple mixture in the preheated oven for 35 minutes, or until the apples are tender and the top is golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Zesty Sweet Dutch Apple Roast warm, garnished with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "fall-recipes",
+    "sweet-treats",
+    "vegetarian-friendly",
+    "winter-warmers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-sweet-dutch-apple-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-dutch-apple-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:33:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "dulce de leche",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apples",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Roast"
+  }
+}
