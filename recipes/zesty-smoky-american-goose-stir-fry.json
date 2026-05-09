@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Smoky American Goose Stir Fry",
+  "description": "A smoky and savory weeknight dish featuring goose fat and a variety of vegetables, perfect for a low-carb dinner",
+  "cuisine": "American",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered and cooled"
+    },
+    {
+      "name": "boneless goose breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the goose fat in a large skillet over medium-high heat until melted and smoky",
+    "Add the goose breast to the skillet and cook until browned on all sides and cooked through",
+    "Remove the goose breast from the skillet and set aside to rest",
+    "Add the smoked paprika and garlic powder to the skillet and stir to combine",
+    "Add the onion, bell pepper, and mushrooms to the skillet and cook until the vegetables are tender",
+    "Add the snow peas to the skillet and cook until tender but still crisp",
+    "Return the goose breast to the skillet and stir to combine with the vegetables and spices",
+    "Season the stir fry with salt and black pepper to taste",
+    "Serve the stir fry hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-smoky-american-goose-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-american-goose-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:56:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "goose fat",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "goose",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
