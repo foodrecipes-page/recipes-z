@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Flaky Australian Meat Pie",
+  "description": "A classic Australian dish featuring a flaky crust and a savory filling, this pie is perfect for a midnight craving. The combination of ground beef and spices creates a deliciously salty flavor.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, salt, black pepper, onion powder, and paprika, and mix until just combined.",
+    "In a separate large bowl, whisk together the flour and cold unsalted butter until the mixture resembles coarse crumbs.",
+    "Gradually add the ice water to the flour mixture, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Spoon the beef mixture into the center of the dough, leaving a 1 inch border around the edges.",
+    "Brush the edges of the dough with a little water, then fold the dough over the filling to form a pie shape.",
+    "Crimp the edges of the pie to seal it, and cut a few slits in the top to allow steam to escape.",
+    "Place the pie on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "meat-pie",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "zesty-flaky-australian-meat-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-australian-meat-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:47:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "ground sugar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Pie"
+  }
+}
