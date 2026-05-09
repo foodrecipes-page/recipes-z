@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Peppery Filipino Vegetable Skewers",
+  "description": "A keto-friendly Filipino dish featuring a variety of vegetables marinated in a zesty peppery sauce, served on a tagliere",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "1/2 cup",
+      "notes": "make sure it is vegan"
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together the vegan white wine vinegar, beurre-monte, black pepper, and salt",
+    "Add the cut vegetables to the bowl and toss to coat with the marinade",
+    "Thread the marinated vegetables onto skewers, leaving a little space between each piece",
+    "Brush the grill with oil to prevent sticking",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred",
+    "Serve the skewers hot on a tagliere, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "grilled-vegetables",
+    "healthy-eating",
+    "keto-friendly",
+    "quick-dinner",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "zesty-peppery-filipino-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peppery-filipino-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:45:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Peppery",
+    "dishForm": "Skewers"
+  }
+}
