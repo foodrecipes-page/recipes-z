@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Spanish Chicken Paella Valenciana",
+  "description": "A light and garlicky Spanish dish featuring ssamjang, air-fried to perfection, served on a talavera plate, garlic-free for a sick day meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ssamjang, smoked paprika, lemon juice, and a pinch of salt and pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 10 minutes.",
+    "Add the chicken to the air fryer and cook for 12 minutes, or until cooked through.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the uncooked rice to the saucepan and stir to coat the rice in oil.",
+    "Add the chicken broth to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is tender.",
+    "To serve, place the cooked rice on a talavera plate, top with the air-fried chicken, and garnish with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 32,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "chicken-recipes",
+    "gluten-free",
+    "one-pan",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-spanish-chicken-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-chicken-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:51:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "ssamjang",
+    "diet": "no-onion-no-garlic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Paella Valenciana"
+  }
+}
