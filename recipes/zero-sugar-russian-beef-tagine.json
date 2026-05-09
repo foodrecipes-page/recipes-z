@@ -1,0 +1,102 @@
+{
+  "title": "Zero Sugar Russian Beef Tagine",
+  "description": "A low-glycemic, sugar-free version of a traditional Russian dish, featuring milk chocolate and a tagine-cooked beef stew, this recipe is perfect for a special occasion or a meal prep idea.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-glycemic",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "milk chocolate",
+      "amount": "1/4 cup",
+      "notes": "dairy or dairy-free alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or homemade blend"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven or tagine, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the tagine spice blend, chicken broth, and dried apricots, stirring to combine.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Stir in the milk chocolate until melted and smooth.",
+    "Serve hot, topped with a dollop of sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "low-glycemic",
+    "meal-prep",
+    "russian-cuisine",
+    "special-occasion",
+    "sugar-free",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zero-sugar-russian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-sugar-russian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:45:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "tagine-cook",
+    "primaryIngredient": "milk chocolate",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Zero sugar",
+    "dishForm": "Tagine"
+  }
+}
