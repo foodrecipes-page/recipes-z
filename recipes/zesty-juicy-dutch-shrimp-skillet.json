@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Juicy Dutch Shrimp Skillet",
+  "description": "A pungent and juicy solo dinner dish featuring shrimp in a miso marinade, perfect for pescatarians. This Dutch-inspired skillet is quick and flavorful.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and fully cooked.",
+    "In a small bowl, whisk together the miso paste, soy sauce, and brown sugar.",
+    "Pour the miso mixture over the cooked shrimp and stir to combine.",
+    "Squeeze the lemon juice over the top and stir again.",
+    "Transfer the skillet to the oven and bake at 400 degrees for 5 minutes.",
+    "Remove from the oven and sprinkle with chopped scallions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-juicy-dutch-shrimp-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-dutch-shrimp-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:57:09Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "shrimp",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Juicy",
+    "dishForm": "Skillet"
+  }
+}
