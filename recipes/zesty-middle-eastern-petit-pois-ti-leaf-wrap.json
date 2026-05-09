@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Middle Eastern Petit Pois Ti Leaf Wrap",
+  "description": "A sweet and tender solo dinner dish featuring petit pois in a Middle Eastern style, wrapped in a ti leaf for a unique and flavorful meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the petit pois with olive oil, chopped onion, minced garlic, lemon juice, paprika, salt, and black pepper until they are well coated.",
+    "Lay a ti leaf flat on a work surface and place about 1/4 cup of the petit pois mixture in the center of the leaf.",
+    "Fold the stem end of the ti leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining ti leaves and filling.",
+    "Place the ti leaf wraps in a baking dish and bake for 15 minutes.",
+    "Serve the ti leaf wraps hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "petit-pois",
+    "shojin",
+    "ti-leaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-middle-eastern-petit-pois-ti-leaf-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-petit-pois-ti-leaf-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:27:25Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "petit pois",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "petit pois",
+    "descriptor": "Zesty Tender",
+    "dishForm": "Wrap"
+  }
+}
