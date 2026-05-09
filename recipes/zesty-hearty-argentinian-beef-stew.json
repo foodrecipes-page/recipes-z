@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Hearty Argentinian Beef Stew",
+  "description": "A funky and comforting Argentinian dish featuring beef, rice syrup, and jocheong, perfect for a sick day. This stew is made with rest meat and anti-inflammatory friendly ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "rice syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jocheong",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped red bell pepper and cook until it is tender.",
+    "Add the beef brisket and cook until it is browned on all sides.",
+    "Add the rice syrup, jocheong, tomato paste, beef broth, turmeric, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Season the stew with salt and serve hot.",
+    "Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "hearty-stew",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "zesty-hearty-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-hearty-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:12:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "rest-meat",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Hearty",
+    "dishForm": "Stew"
+  }
+}

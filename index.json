@@ -5771,6 +5771,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-hearty-argentinian-beef-stew",
+    "title": "Zesty Hearty Argentinian Beef Stew",
+    "tags": [
+      "argentinian-cuisine",
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "hearty-stew",
+      "sick-day"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 150,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-hearty-irish-sausage-stir-fry",
     "title": "Zesty Hearty Irish Sausage Stir fry",
     "tags": [
