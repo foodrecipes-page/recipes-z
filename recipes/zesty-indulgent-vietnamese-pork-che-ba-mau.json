@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Indulgent Vietnamese Pork Che Ba Mau",
+  "description": "A pungent and indulgent Vietnamese dish featuring unsweetened coconut milk and a mirepoix base, served in a molcajete.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium high heat.",
+    "Add the pork and cook until browned on all sides.",
+    "Add the onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the fish sauce, lime juice, garlic, and ginger and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 10 minutes or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve the che ba mau in a molcajete.",
+    "Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "pork-recipes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-indulgent-vietnamese-pork-che-ba-mau",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-vietnamese-pork-che-ba-mau",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:02:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Che Ba Mau"
+  }
+}
