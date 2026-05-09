@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Crisp Mexican Chicken Skewers",
+  "description": "A nutty and crisp Oaxacan dish featuring chicken thighs, perfect for a romantic dinner, this recipe is friendly to Buddhist temple dietary preferences by avoiding beef and pork",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, ground cumin, smoked paprika, salt, and black pepper.",
+    "Add chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken skewers for 10 minutes, turning occasionally, until cooked through.",
+    "While the chicken is cooking, toast the pine nuts in a small dry skillet over medium heat until fragrant.",
+    "Chop the toasted pine nuts and mix with chopped cilantro and minced garlic.",
+    "Once the chicken is done, brush with additional lime juice and sprinkle with the pine nut and cilantro mixture.",
+    "Serve the chicken skewers hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "grilled",
+    "high-protein",
+    "mexican-inspired",
+    "nutty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-crisp-mexican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-mexican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:38:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "chicken thighs",
+    "diet": "buddhist-temple",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Skewers"
+  }
+}

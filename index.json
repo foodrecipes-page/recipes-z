@@ -2674,6 +2674,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-mexican-chicken-skewers",
+    "title": "Zesty Crisp Mexican Chicken Skewers",
+    "tags": [
+      "crisp",
+      "grilled",
+      "high-protein",
+      "mexican-inspired",
+      "nutty",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-moroccan-black-pudding-tagine",
     "title": "Zesty Crisp Moroccan Black Pudding Tagine",
     "tags": [
