@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Jamaican Chicken Fried Rice",
+  "description": "A malty and chewy quick-fix Jamaican dish featuring onions and double-fry KFC style chicken, egg-free friendly and perfect for a lazy Susan spinner vessel. It is a flavorful and spicy meal that can be prepared in no time.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": " chopped, use gloves when handling"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the allspice, thyme, scotch bonnet pepper, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, until the rice is heated through and starting to brown.",
+    "Add the cooked chicken back into the skillet and stir-fry for another 2 minutes.",
+    "Add the soy sauce to the skillet and stir-fry for 1 minute.",
+    "Serve the Zesty Jamaican Chicken Fried Rice hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-inspired",
+    "chicken-recipes",
+    "easy-dinners",
+    "fried-rice",
+    "jamaican-cuisine",
+    "quick-meals",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-jamaican-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jamaican-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:07:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "onions",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty Double Fried",
+    "dishForm": "Fried-Rice"
+  }
+}
