@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Saudi Arabian Romano Pepper Bake",
+  "description": "A winey, fluffy, meal-prep Saudi Arabian dish featuring Romano peppers, this bake is perfect for a weeknight dinner. It combines the flavors of Saudi Arabian cuisine with the convenience of a raw-friendly meal prep option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tops off the Romano peppers and remove the seeds and membranes.",
+    "In a large bowl, whisk together the olive oil, garlic, onion, tomato paste, white wine, salt, and black pepper.",
+    "Stuff each pepper with the oil and spice mixture, filling to the top.",
+    "Place the peppers in a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and top each pepper with feta cheese.",
+    "Return the peppers to the oven and bake for an additional 10 minutes, until the cheese is melted and bubbly.",
+    "Remove the peppers from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-saudi-arabian-romano-pepper-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-arabian-romano-pepper-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:57:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "romano pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Romano pepper",
+    "descriptor": "Zesty winey",
+    "dishForm": "Bake"
+  }
+}
