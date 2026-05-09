@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Ukrainian Dough Puff",
+  "description": "A garlicky and crisp solo dinner dish featuring white flour and lamination puff, keto friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, garlic powder, salt, and black pepper.",
+    "Add the melted butter, eggs, and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Fold the dough in half lengthwise, then fold it in half again, rotating 90 degrees after each fold.",
+    "Roll out the dough again into a large rectangle, about 1/4 inch thick.",
+    "Cut the dough into 6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little water and sprinkle with sesame seeds if desired.",
+    "Bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "garlic-lovers",
+    "homemade-pastry",
+    "keto-friendly",
+    "low-carb",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-ukrainian-dough-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ukrainian-dough-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:42:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "white flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dough",
+    "descriptor": "Zero carb",
+    "dishForm": "Puff"
+  }
+}
