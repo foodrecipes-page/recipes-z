@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Tender Australian Lamb Clay Pot Cook",
+  "description": "A tender and flavorful Australian lamb dish cooked in a clay pot, perfect for a date night, with a balance of bitter and sweet flavors. This flexitarian-friendly recipe is sure to impress.",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in the clay pot over medium heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the garlic, lemon juice, red wine, rosemary, thyme, and bay leaves to the clay pot.",
+    "Cover the clay pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until tender.",
+    "Remove the clay pot from the oven and let it cool slightly.",
+    "Slice the lamb shoulder and serve with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "clay-pot-cooking",
+    "date-night",
+    "flexitarian-friendly",
+    "lamb-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "zesty-tender-australian-lamb-clay-pot-cook",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-australian-lamb-clay-pot-cook",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:17:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "restaurant",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty tender",
+    "dishForm": "Clay-pot-cook"
+  }
+}
