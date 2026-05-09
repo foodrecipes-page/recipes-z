@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Umami Canadian Beef Poutine",
+  "description": "A Whole30-friendly Canadian dish featuring long-fermentation-dough and pink food colouring, perfect for midnight cravings. This umami-rich poutine is made with pillowy dough and tender beef.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 batch",
+      "notes": "made with gluten-free flours"
+    },
+    {
+      "name": "pink food colouring",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "dairy or dairy-free alternative"
+    },
+    {
+      "name": "ghee or coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the long-fermentation-dough to a thickness of about 1 inch.",
+    "Cut the dough into 1-inch cubes and fry in ghee or coconut oil until golden brown.",
+    "In a separate pan, cook the sliced beef in a little ghee or coconut oil until browned.",
+    "Add the beef broth to the pan with the beef and bring to a simmer.",
+    "Add the arrowroot powder to the broth and stir to thicken.",
+    "Add the cheese curds to the broth and stir until melted and well combined.",
+    "Add the fried dough cubes to the broth and stir to coat.",
+    "Season with sea salt to taste.",
+    "If desired, add a few drops of pink food colouring to tint the dish.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "midnight-cravings",
+    "umami-rich",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-umami-canadian-beef-poutine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-umami-canadian-beef-poutine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:59:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "pink food colouring",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Umami",
+    "dishForm": "Poutine"
+  }
+}

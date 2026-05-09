@@ -10281,6 +10281,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-umami-canadian-beef-poutine",
+    "title": "Zesty Umami Canadian Beef Poutine",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "midnight-cravings",
+      "umami-rich",
+      "whole30-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-umami-middle-eastern-noodle-shawarma",
     "title": "Zesty Umami Middle Eastern Noodle Shawarma",
     "tags": [
