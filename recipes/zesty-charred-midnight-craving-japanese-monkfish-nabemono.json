@@ -1,0 +1,111 @@
+{
+  "title": "zesty charred midnight craving japanese monkfish nabemono",
+  "description": "a charred and crisp pescatarian nabemono dish featuring monkfish, served with a zesty dipping sauce. this dish is perfect for a midnight craving.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mason jar",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup",
+      "notes": "for cooling"
+    }
+  ],
+  "instructions": [
+    "preheat the grill to 400f (200c).",
+    "season the monkfish with salt and pepper.",
+    "grill the monkfish for 2-3 minutes per side, or until charred.",
+    "transfer the monkfish to a plate and let it rest.",
+    "in a small saucepan, combine the mirin, soy sauce, sake, brown sugar, and grated ginger.",
+    "bring the mixture to a boil over medium-high heat, then reduce the heat to low and simmer for 5 minutes.",
+    "stir in the green onions and cook for an additional minute.",
+    "to assemble the dish, place a portion of the grilled monkfish in a mason jar.",
+    "pour the hot sauce over the monkfish, then sprinkle with toasted sesame seeds.",
+    "serve immediately, garnished with additional green onions if desired.",
+    "cool the dish to room temperature before refrigerating or freezing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "seafood-dinner",
+    "snack-ideas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-charred-midnight-craving-japanese-monkfish-nabemono",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-midnight-craving-japanese-monkfish-nabemono",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:34:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "monkfish",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "monkfish",
+    "descriptor": "Zesty Charred Midnight Craving",
+    "dishForm": "Nabemono"
+  }
+}
