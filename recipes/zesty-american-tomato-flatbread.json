@@ -1,0 +1,93 @@
+{
+  "title": "Zesty American Tomato Flatbread",
+  "description": "A cozy American dish featuring naan bread, confit-tomato, and fresh flavors, perfect for a relaxing meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the naan bread on a baking sheet lined with parchment paper.",
+    "Spread a layer of confit tomatoes over each piece of naan bread.",
+    "Sprinkle shredded mozzarella cheese over the tomatoes.",
+    "Drizzle olive oil over the cheese and sprinkle with garlic powder, salt, and pepper.",
+    "Bake the flatbreads in the preheated oven for 12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbreads from the oven and sprinkle with chopped fresh basil.",
+    "Serve the Zesty American Tomato Flatbreads hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "easy-meal",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "zesty-american-tomato-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-american-tomato-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:06:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "naan bread",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tomato",
+    "descriptor": "Zesty pillowy",
+    "dishForm": "Flatbread"
+  }
+}

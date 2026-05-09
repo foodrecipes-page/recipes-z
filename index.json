@@ -628,6 +628,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-american-tomato-flatbread",
+    "title": "Zesty American Tomato Flatbread",
+    "tags": [
+      "american-classic",
+      "easy-meal",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-and-aerated-tunisian-gochugaru-candy-paella",
     "title": "Zesty and Aerated Tunisian Gochugaru Candy Paella",
     "tags": [
