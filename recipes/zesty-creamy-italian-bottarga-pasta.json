@@ -2,10 +2,7 @@
   "title": "Zesty Creamy Italian Bottarga Pasta",
   "description": "A floral and creamy Italian dish featuring bottarga, perfect for a sick day, simmered to perfection and served on a bamboo tray, with dairy-free options available.",
   "cuisine": "Italian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +75,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
-    "gluten-free",
     "italian-food",
     "one-pot",
     "pasta-recipes"

@@ -3,7 +3,6 @@
   "description": "A spicy and indulgent Syrian dish featuring ikura, cooked to tender perfection in a bain-marie, and friendly to ayurvedic-rajasic diets.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,8 @@
     "Reduce the heat to low and simmer, covered, for 10 minutes.",
     "Stir in the ikura and continue to simmer, covered, for an additional 5 minutes.",
     "Remove the tagine from the heat and let it cool slightly.",
-    "Serve the ikura and sauce over rice or with crusty bread."
+    "Serve the ikura and sauce over rice or with crusty bread.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

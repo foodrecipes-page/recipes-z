@@ -3,7 +3,6 @@
   "description": "A winey, gooey, and cozy Norwegian dish featuring celery, perfect for a cold winter night, and friendly to dairy-free diets.",
   "cuisine": "Norwegian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "norwegian-cuisine",
     "vegetarian-friendly",
     "winter-nights"
@@ -100,7 +98,7 @@
     "mood": "cozy",
     "technique": "score-fat",
     "primaryIngredient": "celery",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "celery",

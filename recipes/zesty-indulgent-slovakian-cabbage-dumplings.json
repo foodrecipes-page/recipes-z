@@ -3,7 +3,6 @@
   "description": "A traditional Slovakian dish featuring savoy cabbage and nuka-pickle, these dumplings are resinous, springy, and indulgent, perfect for a hearty dinner. This recipe is nut-free-friendly, making it accessible to those with nut allergies.",
   "cuisine": "Slovakian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -53,7 +52,9 @@
     "Fold the dough over the filling, forming a half-moon shape and pressing the edges together to seal.",
     "Bring a large pot of salted water to a boil, gently adding the dumplings to the pot.",
     "Cook the dumplings for 10 minutes, or until they float to the surface.",
-    "Remove the dumplings from the water with a slotted spoon, serving hot with your favorite toppings."
+    "Remove the dumplings from the water with a slotted spoon, serving hot with your favorite toppings.",
+    "Refrigerate and consume within 1 week — this preparation is not shelf-stable without an approved acid level and canning process.",
+    "Refrigerator pickle only: store in the fridge and consume within 1 week. For shelf-stable canning, add at least 2 tablespoons of vinegar (5% acidity) per cup of brine and follow a tested water-bath process."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -84,7 +85,7 @@
     "mood": "indulgent",
     "technique": "nuka-pickle",
     "primaryIngredient": "savoy cabbage",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "cabbage",

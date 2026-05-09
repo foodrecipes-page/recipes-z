@@ -3,8 +3,7 @@
   "description": "A briny and bouncy Norwegian dish featuring sweet rice flour chapssalgaru, confit tomato, and ayurvedic tamasic friendly ingredients, all wrapped in a ti leaf wrap.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "ayurvedic",
     "confit-tomato",
-    "gluten-free",
     "norwegian-cuisine",
     "ti-leaf-wrap",
     "vegetarian-friendly"

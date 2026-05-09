@@ -3,8 +3,7 @@
   "description": "A low-carb, bitter, and pillowy French dish from Lyon, featuring rainbow trout and a lacquer glaze, served in a kadhai, perfect for a hangover cure.",
   "cuisine": "French",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "french-cuisine",
-    "gluten-free",
     "low-carb",
     "one-pan",
     "seafood"

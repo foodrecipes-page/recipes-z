@@ -3,7 +3,6 @@
   "description": "A satvik-friendly Middle Eastern dish featuring labneh, bacon lardon, and nuts, perfect for a lazy Sunday morning. This recipe is a twist on traditional labneh with a nutty and zesty flavor.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -70,8 +69,7 @@
     "brunch",
     "easy",
     "gluten-free",
-    "middle-eastern",
-    "vegetarian"
+    "middle-eastern"
   ],
   "nutrition": {
     "calories": 320,

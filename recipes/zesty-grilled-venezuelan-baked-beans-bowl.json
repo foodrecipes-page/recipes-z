@@ -3,8 +3,7 @@
   "description": "A savory Venezuelan dish featuring baked beans and grilled ingredients, served in a dolsot stone bowl, perfect for a hangover cure. This ayurvedic-rajasic-friendly meal is sure to satisfy your cravings.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +70,6 @@
     "grilled",
     "high-protein",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

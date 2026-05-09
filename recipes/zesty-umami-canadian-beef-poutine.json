@@ -3,8 +3,7 @@
   "description": "A Whole30-friendly Canadian dish featuring long-fermentation-dough and pink food colouring, perfect for midnight cravings. This umami-rich poutine is made with pillowy dough and tender beef.",
   "cuisine": "Canadian",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,7 +69,6 @@
   "tags": [
     "canadian-cuisine",
     "comfort-food",
-    "gluten-free",
     "midnight-cravings",
     "umami-rich",
     "whole30-friendly"

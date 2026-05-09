@@ -105,7 +105,7 @@
     "mood": "romantic",
     "technique": "fry",
     "primaryIngredient": "chilli",
-    "diet": "dairy-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "Chicken",

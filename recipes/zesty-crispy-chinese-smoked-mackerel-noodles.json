@@ -2,9 +2,7 @@
   "title": "Zesty Crispy Chinese Smoked Mackerel Noodles",
   "description": "A peppery and crispy Chinese dish featuring smoked mackerel, perfect for a weeknight dinner, this recipe is gluten-free friendly and serves 4 people.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "tags": [
     "chinese-food",
     "crispy",
-    "gluten-free",
     "noodle-dish",
     "peppery",
     "smoked-fish",

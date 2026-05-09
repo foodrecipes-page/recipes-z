@@ -2,9 +2,7 @@
   "title": "Zesty Smoky Jamaican Chicken Skewers",
   "description": "A smoky and crunchy Jamaican dish featuring candied peel and coconut cream, perfect for a romantic evening. This kosher-friendly recipe is easy to make and delicious to eat.",
   "cuisine": "Jamaican",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,8 @@
     "Brush the skewers with olive oil.",
     "Grill the skewers for 10-12 minutes, turning occasionally.",
     "Sprinkle the candied peel over the skewers during the last minute of cooking.",
-    "Serve the skewers hot, garnished with additional candied peel if desired."
+    "Serve the skewers hot, garnished with additional candied peel if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,

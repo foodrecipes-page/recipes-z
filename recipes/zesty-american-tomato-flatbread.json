@@ -2,9 +2,7 @@
   "title": "Zesty American Tomato Flatbread",
   "description": "A cozy American dish featuring naan bread, confit-tomato, and fresh flavors, perfect for a relaxing meal.",
   "cuisine": "American",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "tags": [
     "american-classic",
     "easy-meal",
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],

@@ -3,8 +3,7 @@
   "description": "A spicy and juicy Middle Eastern dish featuring paneer, cooked in a tagine and served in a mansaf style, perfect for special occasions.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,8 @@
     "Reduce the heat to low and simmer, covered, for 20 minutes.",
     "Serve the paneer and sauce over a bed of rice or bread, in a mansaf style.",
     "Garnish with fresh parsley or cilantro, if desired.",
-    "Serve with a side of lazy-susan-spinner for a show-off presentation."
+    "Serve with a side of lazy-susan-spinner for a show-off presentation.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -79,8 +79,7 @@
     "middle-eastern",
     "one-pot",
     "special-occasion",
-    "spicy",
-    "vegetarian"
+    "spicy"
   ],
   "nutrition": {
     "calories": 420,

@@ -3,8 +3,7 @@
   "description": "A romantic Italian dish featuring layers of cheese and pasta, with a zesty twist from peanut oil and Calabrian ingredients, this keto-friendly lasagna is perfect for a special occasion.",
   "cuisine": "Italian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "In a 9x13 inch baking dish, create a thin layer of the cheese mixture, followed by a layer of noodles, then a layer of the ground beef if using, and repeat this process two more times.",
     "Top the final layer of noodles with the remaining cheese mixture and sprinkle with chopped basil.",
     "Cover the baking dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,

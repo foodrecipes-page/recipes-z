@@ -3,7 +3,6 @@
   "description": "A dairy-free friendly French pastry featuring strong wholemeal flour and long-fermentation-dough, perfect for a weeknight dessert. This jammy and gooey mille-feuille is a twist on the classic French dessert.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -63,7 +62,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "french-pastry",
     "jam-filled",
     "mille-feuille",
@@ -87,7 +85,7 @@
     "mood": "weeknight",
     "technique": "long-fermentation-dough",
     "primaryIngredient": "strong wholemeal flour",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "pastry",

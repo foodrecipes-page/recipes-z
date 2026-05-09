@@ -3,8 +3,7 @@
   "description": "A comforting Malaysian dish featuring unsalted beef stock and low-fat ingredients, this recipe is perfect for a healthy dinner option, with a bitter and fluffy texture that will leave you wanting more.",
   "cuisine": "Malaysian",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,6 @@
   "difficulty": "easy",
   "tags": [
     "beef-recipes",
-    "gluten-free",
     "healthy-meals",
     "low-fat",
     "malaysian-cuisine",

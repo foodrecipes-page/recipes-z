@@ -58,7 +58,8 @@
     "Fold the parchment paper over the chicken, creating a tight seal.",
     "Place the papillote on a baking sheet and bake for 25 minutes.",
     "Remove the papillote from the oven and let it rest for 5 minutes.",
-    "Serve the chicken hot, garnished with fresh thyme if desired."
+    "Serve the chicken hot, garnished with fresh thyme if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,7 +91,7 @@
     "mood": "hangover-cure",
     "technique": "papillote",
     "primaryIngredient": "unsweetened cocoa",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "chicken",

@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful Ukrainian dish featuring almond flour and cooked in a tagine style, perfect for a cozy dinner",
   "cuisine": "Ukrainian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Add the chicken breast to the tava griddle and cook for 5 minutes per side",
     "Add the chicken broth to the tava griddle and bring to a simmer",
     "Reduce the heat to low and cook, covered, for 20 minutes",
-    "Remove the chicken from the tava griddle and let rest for 5 minutes before slicing"
+    "Remove the chicken from the tava griddle and let rest for 5 minutes before slicing",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -66,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "ukrainian-cuisine",

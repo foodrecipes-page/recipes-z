@@ -3,8 +3,7 @@
   "description": "A malty and gooey British dish featuring sweet chilli sauce, made with whole30-friendly ingredients, wrapped in a fold",
   "cuisine": "British",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "british-cuisine",
     "chicken-recipes",
-    "gluten-free",
     "lunch-ideas",
     "whole30",
     "wrap-recipes"

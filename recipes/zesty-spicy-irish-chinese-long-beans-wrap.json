@@ -3,8 +3,7 @@
   "description": "A spicy and crumbly Irish dish featuring Chinese long beans, wrapped in leaves and steamed to perfection, friendly to sugar-free diets. This nostalgic dish combines the best of Irish and Chinese flavors.",
   "cuisine": "Fusion",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "fusion-cuisine",
-    "gluten-free",
     "irish-chinese",
     "spicy-food",
     "steamed-dishes",

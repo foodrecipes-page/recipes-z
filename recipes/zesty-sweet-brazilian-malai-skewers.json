@@ -3,7 +3,6 @@
   "description": "A sweet and springy Brazilian dish featuring malai and bonito flakes, perfect for kids and adults alike, with a mediterranean twist",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -68,8 +67,7 @@
     "kid-friendly",
     "mediterranean-inspired",
     "springy",
-    "sweet",
-    "vegetarian"
+    "sweet"
   ],
   "nutrition": {
     "calories": 250,

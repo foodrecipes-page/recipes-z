@@ -3,7 +3,6 @@
   "description": "A rich, juicy, and light Turkish dish featuring eggplant, perfect for a weeknight meal that's both Ayurvedic and Rajasic friendly.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -100,7 +99,6 @@
     "easy-dinner",
     "one-pan",
     "turkish",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

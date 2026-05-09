@@ -3,8 +3,7 @@
   "description": "A Whole30-friendly Jamaican dish featuring amaretti cookies, deep-fried to a crispy perfection, with a zesty and adventurous twist.",
   "cuisine": "Jamaican",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,7 +66,6 @@
   "tags": [
     "coconut-based",
     "deep-fried",
-    "gluten-free",
     "jamaican-cuisine",
     "snack-recipes",
     "whole30"
