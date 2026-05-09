@@ -1,0 +1,96 @@
+{
+  "title": "Zenith Creamy Korean Fennel Bisque",
+  "description": "A fresh and creamy Korean dish featuring fennel bulb, perfect for a hangover cure, made with ingredients from Jeju and cooked in a bamboo steamer to reduce gluten-friendly concerns.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a blender, puree the chopped fennel bulb, korean chili flakes, garlic, and ginger until smooth.",
+    "In a large bowl, whisk together the coconut milk, chicken broth, sesame oil, salt, and black pepper.",
+    "Add the pureed fennel mixture to the bowl and stir until well combined.",
+    "Pour the mixture into a bamboo steamer lined with parchment paper.",
+    "Steam the mixture over boiling water for 10 minutes or until heated through.",
+    "Remove the bisque from the steamer and let it cool slightly.",
+    "Serve the bisque hot, garnished with chopped green onions and a sprinkle of korean chili flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-meal",
+    "gluten-free",
+    "korean-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zenith-creamy-korean-fennel-bisque",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-creamy-korean-fennel-bisque",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:07:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "fennel bulb",
+    "diet": "gluten-free",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fennel",
+    "descriptor": "Zenith Creamy",
+    "dishForm": "Bisque"
+  }
+}
