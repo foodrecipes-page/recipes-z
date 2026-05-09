@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Charred Indian Shrimp Rogan Josh",
+  "description": "A charred and springy Indian dish featuring dried shrimp in a rich and spicy rogan josh sauce, perfect for midnight cravings. This egg-free friendly recipe is made with lardons-render for added depth of flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 can"
+    },
+    {
+      "name": "rogan josh spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and add the diced lardons to render until crispy.",
+    "Remove the lardons from the pan and set aside, leaving the rendered fat behind.",
+    "Add the chopped onion to the pan and cook until it is lightly browned.",
+    "Add the grated ginger and minced garlic to the pan and cook for 1 minute.",
+    "Add the soaked and drained dried shrimp to the pan and cook until they are lightly charred.",
+    "Add the tomato puree, rogan josh spice mix, salt, and pepper to the pan and stir to combine.",
+    "Add the rendered lardons back to the pan and stir to combine.",
+    "Reduce heat to low and simmer the sauce for 10 minutes.",
+    "Stir in the yogurt and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-charred-indian-shrimp-rogan-josh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-indian-shrimp-rogan-josh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:29:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "lardons-render",
+    "primaryIngredient": "dried shrimp",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Rogan Josh"
+  }
+}
