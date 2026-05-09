@@ -1399,6 +1399,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-canadian-chicken-curry",
+    "title": "Zesty Canadian Chicken Curry",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-canadian-chicken-skewers",
     "title": "Zesty Canadian Chicken Skewers",
     "tags": [
