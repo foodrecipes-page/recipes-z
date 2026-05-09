@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Bouncy Greek Beef Stifado",
+  "description": "A kid-friendly Greek dish featuring worcestershire sauce, this stifado is a flavorful and bouncy beef stew with a grassy twist, suitable for ayurvedic tamasic diets.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the worcestershire sauce, tomato paste, salt, and pepper to the pot and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve with crusty bread or over rice.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "greek-cuisine",
+    "kid-friendly",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-bouncy-greek-beef-stifado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bouncy-greek-beef-stifado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:27:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "brine-wet",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Stifado"
+  }
+}

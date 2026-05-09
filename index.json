@@ -1079,6 +1079,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-bouncy-greek-beef-stifado",
+    "title": "Zesty Bouncy Greek Beef Stifado",
+    "tags": [
+      "beef-stew",
+      "greek-cuisine",
+      "kid-friendly",
+      "one-pot",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 110,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-bouncy-jamaican-mint-ssam-wrap",
     "title": "Zesty Bouncy Jamaican Mint Ssam-Wrap",
     "tags": [
