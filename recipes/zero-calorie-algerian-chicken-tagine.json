@@ -1,0 +1,103 @@
+{
+  "title": "Zero Calorie Algerian Chicken Tagine",
+  "description": "A low calorie version of the traditional Algerian dish, featuring caramelized onions and branston pickle, this tagine is a cultured and silky one pot meal. It is made with low calorie friendly ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low calorie",
+    "low fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "branston pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the chopped branston pickle and cook for 1 minute.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through.",
+    "Serve the tagine hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chicken-recipes",
+    "healthy-dinner",
+    "low-calorie",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "zero-calorie-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-calorie-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:37:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "branston-pickle",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zero calorie",
+    "dishForm": "Tagine"
+  }
+}

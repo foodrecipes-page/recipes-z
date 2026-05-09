@@ -189,6 +189,21 @@
     "shard": "z"
   },
   {
+    "slug": "zero-calorie-algerian-chicken-tagine",
+    "title": "Zero Calorie Algerian Chicken Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "chicken-recipes",
+      "healthy-dinner",
+      "low-calorie",
+      "one-pot",
+      "weeknight-meal"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zero-calorie-polish-sourdough-pasta",
     "title": "Polish Sourdough Pasta",
     "tags": [
