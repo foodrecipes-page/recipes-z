@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Yeasty Egyptian Chicken Wrap",
+  "description": "A flavorful and energizing Egyptian dish featuring Thai green curry paste, wrapped in a soft and pillowy ssam-wrap, with a Mediterranean twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yeast, olive oil, and 1 cup of warm water to activate the yeast.",
+    "Add the chopped onion, minced garlic, and diced tomato to the bowl and mix well.",
+    "Add the chicken breast strips to the bowl and marinate for at least 30 minutes.",
+    "Heat a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "Add the Thai green curry paste to the skillet and stir to combine.",
+    "Warm the ssam-wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the chicken and curry mixture onto the center of each ssam-wrap piece.",
+    "Fold the bottom half of the ssam-wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-yeasty-egyptian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-egyptian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:49:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Wrap"
+  }
+}
