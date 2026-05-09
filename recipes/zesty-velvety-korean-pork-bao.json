@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Velvety Korean Pork Bao",
+  "description": "A pungent and cozy American dish featuring ssamjang and brine-dry pork, perfect for a diabetic-friendly meal. This recipe combines the flavors of Korea with a velvety texture.",
+  "cuisine": "Korean-American",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "brine-dry for 24 hours"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bao buns",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender, combine ssamjang, gochujang, soy sauce, and brown sugar to make the sauce.",
+    "Place the brine-dry pork shoulder in a large baking dish and brush the sauce all over it.",
+    "Bake the pork for 6 hours or until it is tender and easily shreds with a fork.",
+    "While the pork is baking, prepare the bao buns according to the package instructions.",
+    "Once the pork is done, shred it with two forks and stir in chopped green onions and minced garlic.",
+    "Assemble the bao by spooning the pork mixture onto the bun.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bao-buns",
+    "comfort-food",
+    "diabetic-friendly",
+    "korean-inspired",
+    "low-carb",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-velvety-korean-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-korean-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:07:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "brine-dry",
+    "primaryIngredient": "ssamjang",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Bao"
+  }
+}
