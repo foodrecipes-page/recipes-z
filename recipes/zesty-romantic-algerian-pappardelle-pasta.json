@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Romantic Algerian Pappardelle Pasta",
+  "description": "A flavorful and romantic Algerian dish featuring pappardelle pasta, confit tomato, and a blend of spices, cooked to perfection in a kadhai, this recipe is buddhist-temple-friendly as it does not contain any animal products.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 lbs",
+      "notes": "fresh, for confit"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "algerian spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until it is al dente.",
+    "In a kadhai, heat the olive oil over medium heat and add the minced garlic, cooking until fragrant.",
+    "Add the algerian spice mix to the kadhai and cook for 1 minute, stirring constantly.",
+    "Add the fresh tomatoes to the kadhai, stirring to combine with the garlic and spice mix, and cook until they start to break down and form a confit.",
+    "Add the cooked pappardelle pasta to the kadhai, tossing to combine with the confit tomato mixture.",
+    "Season the pasta with salt, black pepper, and lemon juice, and stir to combine.",
+    "Transfer the pasta to a serving dish and garnish with chopped fresh parsley.",
+    "Serve the Zesty Romantic Algerian Pappardelle Pasta hot, enjoying the flavors and textures of this romantic dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "one-pot",
+    "pasta",
+    "romantic",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-romantic-algerian-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-romantic-algerian-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:15:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Zesty Romantic",
+    "dishForm": "Pasta"
+  }
+}
