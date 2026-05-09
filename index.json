@@ -11719,6 +11719,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spanish-fish-skillet",
+    "title": "Zesty Spanish Fish Skillet",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spanish-lentil-bake",
     "title": "Zesty Spanish Lentil Bake",
     "tags": [

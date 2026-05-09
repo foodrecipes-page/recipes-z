@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Spanish Fish Skillet",
+  "description": "A winey and juicy Spanish dish featuring tomato juice and score fat, perfect for pescatarians, made in a cast iron skillet.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Tomato juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Score fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast iron skillet over medium high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cod fish and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato juice, score fat, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium low and simmer, covered, for 10 minutes.",
+    "Add the white wine and stir to combine.",
+    "Continue to simmer, uncovered, for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-spanish-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:05:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "tomato juice",
+    "diet": "pescatarian",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "zesty winey",
+    "dishForm": "Skillet"
+  }
+}
