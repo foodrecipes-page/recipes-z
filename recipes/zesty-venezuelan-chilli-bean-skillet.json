@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Venezuelan Chilli Bean Skillet",
+  "description": "A savory and light Venezuelan dish featuring chilli bean paste, sauteed to perfection with a mix of spices and vegetables, paleo-friendly and full of flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is paleo-friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced bell pepper and cook until tender, about 4-5 minutes.",
+    "Add the chilli bean paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the diced tomato, salt, black pepper, and cumin, and stir to combine.",
+    "Reduce heat to medium-low and simmer, uncovered, for 10-12 minutes, stirring occasionally.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-venezuelan-chilli-bean-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-chilli-bean-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:46:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chilli beans",
+    "descriptor": "Zesty Bouncy",
+    "dishForm": "Skillet"
+  }
+}
