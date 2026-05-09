@@ -6133,6 +6133,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-malaysian-haggis-satay",
+    "title": "Zesty Malaysian Haggis Satay",
+    "tags": [
+      "exotic-food",
+      "grilled-meat",
+      "haggis-recipe",
+      "halal-recipe",
+      "malaysian-food",
+      "satay-recipe"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 65,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-malaysian-shrimp-curry",
     "title": "Zesty Malaysian Shrimp Curry",
     "tags": [

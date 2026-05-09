@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Malaysian Haggis Satay",
+  "description": "A savory and light Malaysian dish featuring haggis, tempering chocolate, and halal-friendly ingredients, with a glassy jelly texture. This dish is perfect for adventurous eaters looking to try something new.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep's heart, liver, and lungs"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Soak the bamboo skewers in water for 30 minutes.",
+    "Thread the haggis onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with vegetable oil and season with salt and pepper.",
+    "Grill the skewers for 5-7 minutes per side, or until the haggis is cooked through.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Mix the coconut milk, satay sauce, lemongrass, galangal, and kaffir lime leaves in a saucepan and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, or until it has thickened slightly.",
+    "Serve the grilled haggis skewers with the satay sauce and melted tempering chocolate."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic-food",
+    "grilled-meat",
+    "haggis-recipe",
+    "halal-recipe",
+    "malaysian-food",
+    "satay-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-malaysian-haggis-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malaysian-haggis-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:41:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "haggis",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "haggis",
+    "descriptor": "Zesty Glassy",
+    "dishForm": "Satay"
+  }
+}
