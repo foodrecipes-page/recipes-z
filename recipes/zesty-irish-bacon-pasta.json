@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Irish Bacon Pasta",
+  "description": "A nutty and bouncy Irish dish featuring bacon and a pasta water emulsion, perfect for a date night, and high in protein to keep you satisfied.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "irish bacon",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to the package instructions.",
+    "While the pasta is cooking, cook the irish bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside, leaving the grease behind.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the shaved grana padano cheese to the skillet and stir until melted and smooth.",
+    "Add the chopped parsley to the skillet and stir to combine.",
+    "Reserve 1 cup of pasta water before draining the fettuccine.",
+    "Add the cooked fettuccine to the skillet and toss with the cheese sauce, adding some reserved pasta water if needed to achieve a creamy emulsion.",
+    "Season with salt and black pepper to taste.",
+    "Serve the pasta hot, topped with crispy irish bacon and additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "irish-cuisine",
+    "nutty",
+    "one-pan",
+    "pasta-dish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "zesty-irish-bacon-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-bacon-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:22:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bacon",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bacon",
+    "descriptor": "Zesty",
+    "dishForm": "Pasta"
+  }
+}

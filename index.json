@@ -6331,6 +6331,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-bacon-pasta",
+    "title": "Zesty Irish Bacon Pasta",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "irish-cuisine",
+      "nutty",
+      "one-pan",
+      "pasta-dish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-cheese-fondue",
     "title": "Zesty Irish Cheese Fondue",
     "tags": [
