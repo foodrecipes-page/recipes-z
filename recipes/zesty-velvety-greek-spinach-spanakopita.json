@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Velvety Greek Spinach Spanakopita",
+  "description": "A salty, velvety, and indulgent Greek dish featuring spinach and feta cheese, infused with olive oil and ayurvedic sattvic friendly ingredients, in the form of a spanakopita.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1 loaf",
+      "notes": "day old"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup",
+      "notes": "olive oil with herbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the baguette into 1 inch thick slices and toast until lightly browned.",
+    "In a large skillet, heat the infuse oil over medium heat and saute the onion and garlic until softened.",
+    "Add the spinach to the skillet and cook until wilted.",
+    "In a large bowl, combine the cooked spinach mixture, feta cheese, salt, and black pepper.",
+    "Brush the toasted baguette slices with the infuse oil and layer in a baking dish with the spinach mixture.",
+    "Repeat the layering process until all ingredients are used, ending with a layer of spinach mixture on top.",
+    "Bake for 35 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "feta-cheese",
+    "greek-food",
+    "sattvic-recipes",
+    "spinach-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "zesty-velvety-greek-spinach-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-greek-spinach-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:02:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "baguette",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "spinach",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Spanakopita"
+  }
+}
