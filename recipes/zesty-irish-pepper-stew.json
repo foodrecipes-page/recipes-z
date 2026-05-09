@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Irish Pepper Stew",
+  "description": "A spicy and comforting Irish stew made with mixed peppers and cooked in a clay pot, perfect for a sick day. This dish is gluten-free friendly and features chewy textures.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mixed peppers",
+      "amount": "2 cups",
+      "notes": "any color combination"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "irish stout",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb cubes with salt, black pepper, and dried thyme.",
+    "Heat a couple of tablespoons of oil in the molcajete over medium heat.",
+    "Sear the lamb cubes until browned on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the mixed peppers and cook until they start to soften.",
+    "Add the potatoes, tomato paste, chicken broth, irish stout, and browned lamb back to the molcajete.",
+    "Cover the molcajete with a lid and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "zesty-irish-pepper-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-pepper-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:45:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "mixed peppers",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "peppers",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}

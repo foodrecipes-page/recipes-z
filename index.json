@@ -5842,6 +5842,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-pepper-stew",
+    "title": "Zesty Irish Pepper Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "irish-cuisine",
+      "one-pot",
+      "winter-meal"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-salmon-pudding",
     "title": "Zesty Irish Salmon Pudding",
     "tags": [
