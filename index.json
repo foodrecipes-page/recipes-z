@@ -8646,6 +8646,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-russian-noodle-tagine",
+    "title": "Zesty Russian Noodle Tagine",
+    "tags": [
+      "cheesy",
+      "chicken-dish",
+      "comfort-food",
+      "mediterranean-inspired",
+      "one-pot"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-russian-oat-milk-batter",
     "title": "Zesty Russian Oat Milk Batter",
     "tags": [
