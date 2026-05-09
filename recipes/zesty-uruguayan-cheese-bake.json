@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Uruguayan Cheese Bake",
+  "description": "A cultured and springy post-workout dish featuring liquid cheese, this Uruguayan bake is diabetic-friendly and perfect for a snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "cage-free"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and liquid cheese.",
+    "Add the chopped spinach, feta cheese, salt, and pepper to the bowl and mix well.",
+    "Arrange the toasted bread slices in a baking dish.",
+    "Pour the egg mixture over the bread slices.",
+    "Drizzle the olive oil over the top of the bake.",
+    "Bake for 25 minutes or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-uruguayan-cheese-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-uruguayan-cheese-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:22:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "liquid cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Baked",
+    "dishForm": "Bake"
+  }
+}

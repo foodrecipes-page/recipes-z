@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Velvety Slovakian Cheddar Cheese Casserole",
+  "description": "A salty and velvety Slovakian dish featuring cheddar cheese, perfect for a lazy Sunday. This Buddhist-temple-friendly recipe is brine-dry and easy to make.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "macaroni",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the shredded cheddar cheese, cooked macaroni, sour cream, milk, smoked paprika, kosher salt, and freshly ground black pepper.",
+    "Mix all the ingredients together until they are well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the plain breadcrumbs evenly over the top of the mixture.",
+    "Bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes.",
+    "Serve the Zesty Velvety Slovakian Cheddar Cheese Casserole hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-velvety-slovakian-cheddar-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-slovakian-cheddar-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:21:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheddar cheese",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Casserole"
+  }
+}

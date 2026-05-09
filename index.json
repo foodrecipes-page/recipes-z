@@ -10472,6 +10472,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-uruguayan-cheese-bake",
+    "title": "Zesty Uruguayan Cheese Bake",
+    "tags": [
+      "diabetic-friendly",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-uruguayan-chicken-bowl",
     "title": "Zesty Uruguayan Chicken Bowl",
     "tags": [
@@ -10614,6 +10628,20 @@
       "dinner"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-slovakian-cheddar-cheese-casserole",
+    "title": "Zesty Velvety Slovakian Cheddar Cheese Casserole",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "slovakian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
     "totalTimeMin": 40,
     "shard": "z"
   },
