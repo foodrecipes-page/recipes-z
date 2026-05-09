@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Smoky Indian Paneer Tikka",
+  "description": "A smoky and springy weeknight Indian dish featuring peppers and paneer, perfect for a high-protein meal. This recipe is a Gujarati-inspired take on the classic paneer tikka.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, garam masala, cumin powder, coriander powder, and smoked paprika.",
+    "Add the paneer, red bell pepper, green bell pepper, and onion to the bowl and mix until they are well coated with the yogurt mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Remove the bowl from the refrigerator and thread the marinated paneer and vegetables onto skewers.",
+    "Brush the skewers with vegetable oil and season with salt.",
+    "Bake the skewers in the preheated oven for 15-20 minutes, or until the paneer is golden brown and the vegetables are tender.",
+    "While the skewers are baking, heat a little oil in a pan over medium heat and cook the remaining marinade for a few minutes, or until it thickens slightly.",
+    "Serve the paneer tikka hot with the thickened marinade spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "smoky",
+    "springy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-indian-paneer-tikka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-indian-paneer-tikka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:32:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "peppers",
+    "diet": "high-protein",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Paneer Tikka"
+  }
+}

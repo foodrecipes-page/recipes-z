@@ -9437,6 +9437,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-indian-paneer-tikka",
+    "title": "Zesty Smoky Indian Paneer Tikka",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "indian-cuisine",
+      "smoky",
+      "springy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-italian-eggplant-pasta",
     "title": "Zesty Smoky Italian Eggplant Pasta",
     "tags": [
