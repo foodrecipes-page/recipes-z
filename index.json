@@ -2400,6 +2400,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-brazilian-onion-sushi",
+    "title": "Zesty Crisp Brazilian Onion Sushi",
+    "tags": [
+      "brazilian-cuisine",
+      "jain-friendly",
+      "one-pan",
+      "sushi-inspired",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-brazilian-tofu-skewers",
     "title": "Zesty Crisp Brazilian Tofu Skewers",
     "tags": [

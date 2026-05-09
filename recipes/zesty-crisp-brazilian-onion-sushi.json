@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Crisp Brazilian Onion Sushi",
+  "description": "A jammy and crisp weeknight Brazilian dish featuring yellow onion, nigiri-shaping, and jain-friendly ingredients, this recipe is perfect for a quick dinner",
+  "cuisine": "brazilian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "brazilian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat",
+    "Add the sliced yellow onion and cook until it is caramelized and jammy",
+    "Add the brazilian spice blend, salt, and black pepper to the skillet and stir to combine",
+    "Add the cooked sushi rice to the skillet and stir to combine with the onion mixture",
+    "Using your hands, shape the rice mixture into small nigiri shapes",
+    "Place the nigiri shapes on a baking sheet lined with parchment paper",
+    "Drizzle the apple cider vinegar over the top of the nigiri shapes",
+    "Bake the nigiri shapes in a preheated oven at 400 degrees for 10 minutes",
+    "Remove the nigiri shapes from the oven and garnish with chopped fresh cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "jain-friendly",
+    "one-pan",
+    "sushi-inspired",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-crisp-brazilian-onion-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-brazilian-onion-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:49:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "yellow onion",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "onion",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Sushi"
+  }
+}
