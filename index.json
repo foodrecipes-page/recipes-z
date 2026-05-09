@@ -7630,6 +7630,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-malty-jamaican-sweet-potato-stew",
+    "title": "Zesty Malt Jamaican Sweet Potato Stew",
+    "tags": [
+      "creamy",
+      "jamaican",
+      "lazy-sunday",
+      "malty",
+      "one-pot",
+      "sweet-potato",
+      "vegetarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-mediterranean-chicken-roast",
     "title": "Zesty Mediterranean Chicken Roast",
     "tags": [

@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Malt Jamaican Sweet Potato Stew",
+  "description": "A malty and creamy vegetarian Jamaican stew featuring sage, perfect for a lazy Sunday, made with brine-wet ingredients for added flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sage",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "vegetable brine"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the malt extract, sage, thyme, scotch bonnet peppers, salt, and black pepper, and stir to combine.",
+    "Add the diced sweet potatoes, brine, and coconut milk, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the sweet potatoes are tender, about 20 minutes.",
+    "Use an immersion blender to puree the stew to the desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with additional sage if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "jamaican",
+    "lazy-sunday",
+    "malty",
+    "one-pot",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-malty-jamaican-sweet-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malty-jamaican-sweet-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:32:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "sage",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Zesty malty",
+    "dishForm": "Stew"
+  }
+}
