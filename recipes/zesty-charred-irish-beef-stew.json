@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Charred Irish Beef Stew",
+  "description": "A weeknight Irish dish featuring charred beef, soya milk, and paleo-friendly ingredients, cooked to perfection using sous-vide for a silky texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "grass fed"
+    },
+    {
+      "name": "soya milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the beef stew meat with salt, black pepper, and garlic powder.",
+    "Sear the beef stew meat in a hot skillet with olive oil until charred on all sides.",
+    "Add the onion, carrots, and potatoes to the skillet and cook until the vegetables are tender.",
+    "Add the tomato paste to the skillet and cook for 1 minute.",
+    "Transfer the skillet contents to a large ziplock bag and add the soya milk.",
+    "Seal the bag and cook in the sous-vide machine for 2 hours.",
+    "Remove the bag from the sous-vide machine and let it cool.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "irish-cuisine",
+    "one-pot",
+    "paleo-friendly",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 27
+  },
+  "slug": "zesty-charred-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:38:21Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "soya milk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Stew"
+  }
+}

@@ -1752,6 +1752,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-irish-beef-stew",
+    "title": "Zesty Charred Irish Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "irish-cuisine",
+      "one-pot",
+      "paleo-friendly",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 150,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-japanese-chicken-tsukune",
     "title": "Zesty Charred Japanese Chicken Tsukune",
     "tags": [
