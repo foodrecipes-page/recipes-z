@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Crunchy Ukrainian Date Skewers",
+  "description": "A festive Ukrainian dish featuring pitted dates, lardons-render, and a flexitarian-friendly twist, perfect for snacking. This recipe combines fermented flavors with crunchy textures.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "12",
+      "notes": "Medjool or similar variety"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered and crispy"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together apple cider vinegar, honey, dried thyme, garlic powder, salt, and black pepper.",
+    "Add the pitted dates to the bowl and toss to coat with the marinade.",
+    "Thread a date onto a skewer, followed by a lardon, and repeat for a total of 6 skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the skewers in the preheated oven for 12 minutes, or until the lardons are crispy.",
+    "Remove the skewers from the oven and let cool for 5 minutes.",
+    "Serve the Zesty Crunchy Ukrainian Date Skewers warm, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "festive",
+    "flexitarian",
+    "snack",
+    "sweet-and-savory",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 4
+  },
+  "slug": "zesty-crunchy-ukrainian-date-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-ukrainian-date-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:25:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "pitted dates",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dates",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Skewers"
+  }
+}
