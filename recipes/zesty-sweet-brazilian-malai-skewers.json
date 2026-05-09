@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Sweet Brazilian Malai Skewers",
+  "description": "A sweet and springy Brazilian dish featuring malai and bonito flakes, perfect for kids and adults alike, with a mediterranean twist",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "sweetened condensed milk"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat",
+    "Thread malai, pineapple chunks, and coconut flakes onto the bamboo skewers",
+    "Drizzle lemon juice and olive oil over the skewers",
+    "Sprinkle bonito flakes, garlic powder, and salt over the skewers",
+    "Grill the skewers for 5-7 minutes per side, or until lightly browned",
+    "Serve warm and enjoy",
+    "Garnish with additional coconut flakes and bonito flakes if desired",
+    "Refrigerate any leftovers for up to 24 hours"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "kid-friendly",
+    "mediterranean-inspired",
+    "springy",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-sweet-brazilian-malai-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-brazilian-malai-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:22:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "malai",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "malai",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Skewers"
+  }
+}
