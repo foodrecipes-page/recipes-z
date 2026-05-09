@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Crispy Jamaican Chicken Fried Rice",
+  "description": "A flavorful and crispy weeknight Jamaican dish featuring chicken, cider, and fried rice.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breast or thighs",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "1 cup uncooked jasmine rice",
+      "amount": "1 cup",
+      "notes": "Fry-grind-rice-khao-khua"
+    },
+    {
+      "name": "2 cups mixed bell peppers",
+      "amount": "2 cups",
+      "notes": "Green, red, and yellow"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "1/4 cup chopped fresh scallions",
+      "amount": "1/4 cup",
+      "notes": "Green onions"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "1 cup jerk seasoning",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "1 cup apple cider vinegar",
+      "amount": "1 cup",
+      "notes": "Reduced to 1/4 cup"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add another tbsp of oil to the pot and cook the bell peppers until tender, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked chicken back into the pot and stir in jerk seasoning, cumin, and cayenne pepper.",
+    "Add the fried rice to the pot and stir-fry for 2-3 minutes, until heated through.",
+    "Push the rice mixture to one side of the pot. Add the remaining oil to the empty side of the pot.",
+    "Pour in the reduced apple cider vinegar and bring to a simmer.",
+    "Scrape the bottom of the pot to release any browned bits. Stir the vinegar mixture into the rice mixture.",
+    "Stir in chopped scallions and cook for an additional 1-2 minutes, until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-fried-rice",
+    "high-protein",
+    "jamaican-cuisine",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "zesty-crispy-jamaican-chicken-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-jamaican-chicken-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:55:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "cider",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty, Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
