@@ -1,0 +1,102 @@
+{
+  "title": "Zesty British Lamb Shepherds Pie",
+  "description": "A pungent and light British dish featuring lamb and clotted cream, baked in a wood-fired ceramic tagine.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "200g",
+      "notes": "extra"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": " Worcestershire sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mashed potato",
+      "amount": "300g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 200 degrees Celsius.",
+    "In a large pan, heat the olive oil over medium heat and cook the chopped onion until softened.",
+    "Add the lamb mince and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped carrot, tomato paste, and Worcestershire sauce, and cook for a further 5 minutes.",
+    "Stir in the clotted cream and season with salt and black pepper.",
+    "Transfer the lamb mixture to a ceramic tagine.",
+    "Top the lamb mixture with the mashed potato, spreading it evenly to cover.",
+    "Bake the shepherds pie in the preheated wood-fired oven for 30 minutes, or until the potato is golden brown.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "zesty-british-lamb-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-british-lamb-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:24:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Wood Fired",
+    "dishForm": "Shepherds Pie"
+  }
+}

@@ -1207,6 +1207,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-british-lamb-shepherds-pie",
+    "title": "Zesty British Lamb Shepherds Pie",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "wood-fired"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-buttery-egyptian-cabbage-stew",
     "title": "Zesty Buttery Egyptian Cabbage Stew",
     "tags": [
