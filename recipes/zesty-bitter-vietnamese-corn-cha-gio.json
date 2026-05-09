@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Bitter Vietnamese Corn Cha Gio",
+  "description": "A bitter, fluffy, and comforting Vietnamese dish featuring cornmeal and tandoor flavors, served in a crispy cha gio form",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tandoor masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit",
+    "In a large bowl, mix together cornmeal, rice flour, and tandoor masala",
+    "Add diced bitter melon, coconut milk, and vegetable oil to the bowl and stir until a thick batter forms",
+    "Season the batter with salt and black pepper to taste",
+    "Using a cha gio mold or a spoon, shape the batter into small cylindrical shapes",
+    "Place the cha gio on a baking sheet lined with parchment paper",
+    "Bake the cha gio for 20 minutes or until crispy and golden brown",
+    "Serve the Zesty Bitter Vietnamese Corn Cha Gio hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-melon-recipes",
+    "crispy-snacks",
+    "tandoor-recipes",
+    "vegetarian-options",
+    "vietnamese-street-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "zesty-bitter-vietnamese-corn-cha-gio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-bitter-vietnamese-corn-cha-gio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:18:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "cornmeal",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "corn",
+    "descriptor": "Zesty Bitter",
+    "dishForm": "Cha Gio"
+  }
+}
