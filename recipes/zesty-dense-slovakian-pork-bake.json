@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Dense Slovakian Pork Bake",
+  "description": "A hearty Slovakian dish featuring pork, coriander seeds, and a hint of wine, baked to perfection on a slate tile. This energizing meal is suitable for a Buddhist temple gathering.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Grind the coriander seeds and caraway seeds in a spice grinder until coarsely ground.",
+    "Season the pork shoulder with salt, black pepper, and the ground coriander and caraway seeds.",
+    "Heat the olive oil in a large skillet over medium high heat and sear the pork shoulder until browned on all sides.",
+    "Transfer the pork to a slate tile and arrange the sliced potatoes around it.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the red wine to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Pour the wine and onion mixture over the pork and potatoes on the slate tile.",
+    "Bake the pork and potatoes in the preheated oven for 2 1/2 hours, or until the pork is tender and the potatoes are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-dish",
+    "one-pan",
+    "pork-recipe",
+    "slovakian-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "zesty-dense-slovakian-pork-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-slovakian-pork-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:29:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "coriander seeds",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Bake"
+  }
+}
