@@ -3956,6 +3956,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty",
+    "title": "Zesty Ferment-Filled British Cottage Cheese Cornish-Style Pasty",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "veggie-rich",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fermented-australian-lamb-pilaf",
     "title": "Zesty Fermented Australian Lamb Pilaf",
     "tags": [
@@ -6353,6 +6369,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-lacquered-french-rainbow-trout-mille-feuille",
+    "title": "Zesty Lacquered French Rainbow Trout Mille Feuille",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "seafood"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Lacquered French Rainbow Trout Mille Feuille",
+  "description": "A low-carb, bitter, and pillowy French dish from Lyon, featuring rainbow trout and a lacquer glaze, served in a kadhai, perfect for a hangover cure.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a small bowl, mix together almond flour, granulated sugar, salt, and black pepper.",
+    "Place a kadhai over medium heat and add olive oil.",
+    "Add the rainbow trout fillets to the kadhai, skin side up, and sear for 2 minutes.",
+    "Flip the trout fillets and sear for another 2 minutes.",
+    "In a small bowl, whisk together Dijon mustard and lemon juice.",
+    "Brush the mustard mixture evenly over the trout fillets.",
+    "Place the kadhai in the oven and bake for 8 minutes.",
+    "While the trout is baking, mix together unsalted butter and egg in a small bowl.",
+    "Remove the kadhai from the oven and brush the butter mixture evenly over the trout fillets.",
+    "Return the kadhai to the oven and bake for an additional 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "zesty-lacquered-french-rainbow-trout-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-lacquered-french-rainbow-trout-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:02:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "rainbow trout",
+    "diet": "low-carb",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Rainbow Trout",
+    "descriptor": "Zesty Lacquered",
+    "dishForm": "Mille Feuille"
+  }
+}

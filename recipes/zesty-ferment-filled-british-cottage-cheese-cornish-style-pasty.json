@@ -1,0 +1,87 @@
+{
+  "title": "Zesty Ferment-Filled British Cottage Cheese Cornish-Style Pasty",
+  "description": "A unique and zesty twist on traditional British cuisine, featuring cottage cheese and fermented fillings, all encased in an agave leaf Cornish pasty.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "Ferment Jang",
+      "amount": "35g",
+      "notes": ""
+    },
+    {
+      "name": "Agave Leaf",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salted Butter",
+      "amount": "20g",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Place the skillet in the preheated oven.",
+    "Bake for an additional 10-12 minutes.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm, garnished with additional chives if desired.",
+    "Cook in a large skillet over medium heat for 6 minutes on each side.",
+    "Remove from heat and let cool for 5 minutes.",
+    "Serve warm, garnished with additional chives if desired.",
+    "Stir in chopped chives and mix well.",
+    "Set aside the mixture.",
+    "Combine cottage cheese and ferment jang in a bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "veggie-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cottage cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "Zesty Ferment-Filled",
+    "dishForm": "Cornish-Style Pasty"
+  }
+}
