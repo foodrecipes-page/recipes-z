@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Slow Cooked Korean Chicken Stew",
+  "description": "A hearty and flavorful Korean-inspired stew featuring chicken, pecan nuts, and a blend of herbal spices, perfect for a post-workout meal. This dish is Whole30-friendly and offers a unique cheese-pull experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine gochujang, coconut aminos, fish sauce, garlic, and ginger, and blend until smooth.",
+    "In a large slow cooker, combine the blended sauce, chicken thighs, and chopped pecan nuts.",
+    "Cook on low for 6 hours or high for 3 hours.",
+    "About 30 minutes before serving, stir in the chopped green onions.",
+    "Serve the stew hot, garnished with additional green onions and pecan nuts if desired.",
+    "To achieve the cheese-pull effect, serve with a side of cauliflower rice or zucchini noodles.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Garnish with toasted pecan nuts and a sprinkle of sesame seeds for added crunch and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 360,
+  "totalTimeMin": 380,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "korean-cuisine",
+    "post-workout",
+    "slow-cooker",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-slow-cooked-korean-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-slow-cooked-korean-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:56:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "pecan nuts",
+    "diet": "whole30",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty slow cooked",
+    "dishForm": "Stew"
+  }
+}
