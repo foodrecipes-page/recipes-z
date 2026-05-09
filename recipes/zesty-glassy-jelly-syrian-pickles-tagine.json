@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Glassy Jelly Syrian Pickles Tagine",
+  "description": "A unique and flavorful dish combining the tanginess of pickles with the sweetness of glassy jelly, in a traditional Syrian earthenware bowl.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cucumbers",
+      "amount": "4 large"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar substitute (e.g. stevia)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 small head"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sage leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cucumbers, red wine vinegar, sugar substitute, and water. Let it sit at room temperature for 2 hours.",
+    "Add sliced red cabbage and minced garlic to the bowl and toss well.",
+    "Add sage leaves, salt, and black pepper to the bowl and toss again.",
+    "Transfer the mixture to an earthenware bowl and cover it with a lid.",
+    "Bake in a preheated oven at 300°F (150°C) for 30 minutes.",
+    "Remove the bowl from the oven and let it cool slightly.",
+    "Serve the Zesty Glassy Jelly Syrian Pickles Tagine warm or at room temperature.",
+    "Garnish with additional sage leaves, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "sugar-free-friendly",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0
+  },
+  "slug": "zesty-glassy-jelly-syrian-pickles-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glassy-jelly-syrian-pickles-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:23:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "sage",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Pickles",
+    "descriptor": "Zesty Glassy Jelly",
+    "dishForm": "Tagine"
+  }
+}
