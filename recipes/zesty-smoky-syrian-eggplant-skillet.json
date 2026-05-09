@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Smoky Syrian Eggplant Skillet",
+  "description": "A smoky and gooey Syrian dish featuring marmite and beurre-monte, perfect for a brunch mood, this satvik-friendly recipe is a delicious and flavorful option for any meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "marmite",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the eggplant cubes and cook until they are tender and lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the marmite, beurre-monte, smoked paprika, salt, and black pepper.",
+    "Add the cherry tomatoes and cook for an additional 2 minutes.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or cilantro if desired.",
+    "Serve with pita bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-to-make",
+    "middle-eastern",
+    "one-pan",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-syrian-eggplant-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-syrian-eggplant-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:46:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "marmite",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skillet"
+  }
+}
