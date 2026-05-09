@@ -6454,6 +6454,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-herbal-slovakian-wonton-dumplings",
+    "title": "Zesty Herbal Slovakian Wonton Dumplings",
+    "tags": [
+      "dumplings",
+      "flexitarian",
+      "herbal",
+      "slovakian",
+      "stir-fry",
+      "wonton"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-indian-beef-curry",
     "title": "Zesty Indian Beef Curry",
     "tags": [
@@ -6903,6 +6918,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-jamaican-chicken-pie",
+    "title": "Zesty Jamaican Chicken Pie",
+    "tags": [
+      "buttery-crust",
+      "caribbean-food",
+      "chicken-pie",
+      "jamaican-cuisine",
+      "lime-juice",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 75,
     "shard": "z"
   },
   {

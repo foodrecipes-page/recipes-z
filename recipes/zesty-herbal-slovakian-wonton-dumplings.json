@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Herbal Slovakian Wonton Dumplings",
+  "description": "A flexitarian friendly Slovakian dish featuring wonton skin and stir-fry, filled with herbal ingredients, making it a pillowy and indulgent treat. This recipe combines the freshness of herbs with the comfort of dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton skin",
+      "amount": "20 sheets",
+      "notes": "found in most Asian markets"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped parsley, dill, garlic, and a pinch of salt and pepper.",
+    "Add sliced mushrooms to the bowl and stir to combine.",
+    "Lay a wonton skin on a flat surface and place a tablespoon of the herbal mixture in the center.",
+    "Dip your finger in a small amount of water and run it along the edges of the wonton skin.",
+    "Fold the wonton skin into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling.",
+    "Repeat with the remaining wonton skins and filling.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until they are golden brown.",
+    "Serve the dumplings hot with a drizzle of soy sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "flexitarian",
+    "herbal",
+    "slovakian",
+    "stir-fry",
+    "wonton"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "zesty-herbal-slovakian-wonton-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-herbal-slovakian-wonton-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:03:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "wonton skin",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "wonton",
+    "descriptor": "Zesty Herbal",
+    "dishForm": "Dumplings"
+  }
+}
