@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Smoky Algerian Salmon Tagine",
+  "description": "A flavorful and energizing Algerian dish featuring smoked salmon, confit tomato, and a blend of spices, perfect for a keto-friendly dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "12 oz",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, paprika, salt, and black pepper",
+    "Add the smoked salmon to the bowl and toss to coat with the marinade",
+    "Transfer the salmon to a baking dish and top with confit tomato",
+    "Bake for 12 minutes or until the salmon is cooked through",
+    "Remove from the oven and let rest for 2 minutes",
+    "Serve hot, garnished with fresh parsley or cilantro",
+    "Refrigerate or freeze leftovers for up to 3 days"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-algerian-salmon-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-algerian-salmon-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:48:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "confit-tomato",
+    "primaryIngredient": "smoked salmon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "salmon",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Tagine"
+  }
+}
