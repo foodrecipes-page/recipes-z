@@ -6891,6 +6891,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-kenyan-meat-kebabs",
+    "title": "Zesty Kenyan Meat Kebabs",
+    "tags": [
+      "african-cuisine",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-kenyan-nectarine-skewers",
     "title": "Zesty Kenyan Nectarine Skewers",
     "tags": [

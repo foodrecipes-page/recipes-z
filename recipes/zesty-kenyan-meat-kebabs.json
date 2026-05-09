@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Kenyan Meat Kebabs",
+  "description": "Tangy and pillowy kebabs featuring a blend of Kenyan spices, shortening, and a flavorful marinade, this dish is perfect for adventurous eaters, and is egg-free friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cubes",
+      "amount": "1 pound",
+      "notes": "or substitute with lamb or chicken"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shortening, lemon juice, ginger paste, garlic paste, Kenyan spice blend, salt, and black pepper to make the marinade.",
+    "Add the beef cubes to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the marinated beef cubes, onion, and bell pepper onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with oil to prevent sticking, then add the kebabs and cook for 8-10 minutes per side, or until the meat is cooked through.",
+    "Serve the kebabs hot, garnished with fresh cilantro or parsley if desired.",
+    "Let the kebabs rest for 5 minutes before serving to allow the juices to redistribute.",
+    "Serve with your choice of sides, such as rice, naan bread, or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-kenyan-meat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-meat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:58:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "shortening",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty pillowy",
+    "dishForm": "Kebabs"
+  }
+}
