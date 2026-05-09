@@ -4138,6 +4138,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-egyptian-lamb-tagine",
+    "title": "Zesty Egyptian Lamb Tagine",
+    "tags": [
+      "flavorful",
+      "lamb-based",
+      "middle-eastern",
+      "slow-cooked",
+      "special-occasion"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-egyptian-tobiko-bowl",
     "title": "Zesty Egyptian Tobiko Bowl",
     "tags": [

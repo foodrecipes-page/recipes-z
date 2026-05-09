@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Egyptian Lamb Tagine",
+  "description": "Savory Egyptian dish featuring whole black peppercorns and long-fermentation-dough, perfect for special occasions.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and whole black peppercorns.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the long-fermentation-dough, dried apricots, and prunes to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the tagine for 2.5 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "flavorful",
+    "lamb-based",
+    "middle-eastern",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:25:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Glassy",
+    "dishForm": "Tagine"
+  }
+}
