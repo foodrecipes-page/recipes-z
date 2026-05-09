@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Salted German Red Onion Bake",
+  "description": "A light and herbal German dish featuring red onions, perfect for a low-calorie hangover cure. This recipe is easy to make and delicious to eat.",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together salt, black pepper, caraway seeds, garlic powder, and dried thyme.",
+    "Add the sliced red onions to the bowl and toss to coat with the spice mixture.",
+    "In a small bowl, whisk together lemon juice and olive oil.",
+    "Pour the lemon juice mixture over the onions and toss to coat.",
+    "Transfer the onion mixture to a baking dish and sprinkle with chopped parsley.",
+    "Bake for 25 minutes or until the onions are tender and lightly caramelized.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Zesty Salted German Red Onion Bake warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "german-cuisine",
+    "herbal",
+    "low-calorie",
+    "lunch-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "zesty-salted-german-red-onion-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-salted-german-red-onion-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:38:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "red onions",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "red onions",
+    "descriptor": "Zesty Salted",
+    "dishForm": "Bake"
+  }
+}
