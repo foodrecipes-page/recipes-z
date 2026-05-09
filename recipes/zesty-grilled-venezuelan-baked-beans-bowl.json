@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Grilled Venezuelan Baked Beans Bowl",
+  "description": "A savory Venezuelan dish featuring baked beans and grilled ingredients, served in a dolsot stone bowl, perfect for a hangover cure. This ayurvedic-rajasic-friendly meal is sure to satisfy your cravings.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baked beans",
+      "amount": "1 can",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "grilled chorizo",
+      "amount": "4 slices",
+      "notes": "or other spicy sausage"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "red or yellow"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "freshly minced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "grilled plantain",
+      "amount": "2 slices",
+      "notes": "or maduro"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "crushed or diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat and cook the chorizo slices for 2-3 minutes per side, until browned and crispy.",
+    "In a large bowl, mix together the baked beans, diced onion, minced garlic, and chopped cilantro.",
+    "Add the cooked chorizo slices on top of the bean mixture and stir gently.",
+    "Grill the plantain slices for 2-3 minutes per side, until caramelized and slightly charred.",
+    "Add the grilled plantain slices on top of the bean and chorizo mixture.",
+    "Sprinkle the shredded cheese over the top of the mixture and stir gently.",
+    "Add the diced tomatoes to the mixture and stir gently.",
+    "Transfer the mixture to a preheated dolsot stone bowl and serve immediately.",
+    "Garnish with additional chopped cilantro and shredded cheese, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "zesty-grilled-venezuelan-baked-beans-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grilled-venezuelan-baked-beans-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:35:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "baked beans",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beans",
+    "descriptor": "Zesty Grilled",
+    "dishForm": "Grill"
+  }
+}
