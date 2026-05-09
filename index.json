@@ -2986,6 +2986,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-malaysian-chicken-curry",
+    "title": "Zesty Crispy Malaysian Chicken Curry",
+    "tags": [
+      "bento-box",
+      "comfort-food",
+      "crispy-chicken",
+      "curry-recipe",
+      "low-sodium",
+      "malaysian-cuisine"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-mexican-tomato-tacos",
     "title": "Zesty Crispy Mexican Tomato Tacos",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crispy Malaysian Chicken Curry",
+  "description": "A briny, crispy, and comforting Malaysian dish featuring panang-paste, perfect for a low-sodium diet, served in a bento-box. This recipe is a twist on traditional Malaysian curry with a crispy exterior and flavorful interior.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the panang curry paste, fish sauce, lime juice, brown sugar, salt, and black pepper in a bowl.",
+    "Add the chicken pieces to the bowl and knead until the chicken is well coated with the curry mixture.",
+    "Dip each chicken piece in the cornstarch to coat, shaking off excess.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken pieces to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Transfer the chicken to a baking sheet and bake for 15 minutes.",
+    "Mix the coconut milk and 1 tablespoon of water in a bowl.",
+    "Pour the coconut milk mixture over the chicken and return to the oven for an additional 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "comfort-food",
+    "crispy-chicken",
+    "curry-recipe",
+    "low-sodium",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-crispy-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:40:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "panang-paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Curry"
+  }
+}
