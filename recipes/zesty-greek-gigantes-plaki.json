@@ -1,0 +1,114 @@
+{
+  "title": "Zesty Greek Gigantes Plaki",
+  "description": "Hearty, savory Greek dish with a silky texture and a tangy twist. Perfect for a post-party hangover cure.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gigantes beans",
+      "amount": "1 (28 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Grape tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Rye bread",
+      "amount": "4 slices",
+      "notes": "for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Drain and rinse the gigantes beans, and set them aside.",
+    "Grill the onion and garlic until slightly charred, about 5 minutes per side.",
+    "Add the grape tomatoes to the grill and cook for an additional 2-3 minutes, until they start to release their juices.",
+    "Transfer the onion, garlic, and tomatoes to a large bowl.",
+    "Add the gigantes beans, kalamata olives, feta cheese, parsley, lemon juice, and lemon zest to the bowl, and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Serve the plaki warm, with grilled rye bread on the side, if desired.",
+    "Garnish with additional parsley, if desired.",
+    "Serve immediately and enjoy!",
+    "Leftovers can be stored in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "feta",
+    "greek",
+    "grilled",
+    "lemon",
+    "rye"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 76,
+    "fat": 24
+  },
+  "slug": "zesty-greek-gigantes-plaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-greek-gigantes-plaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "rye",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "gigantes",
+    "descriptor": "Zesty",
+    "dishForm": "Plaki"
+  }
+}

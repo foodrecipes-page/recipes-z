@@ -1,0 +1,131 @@
+{
+  "title": "zesty jammy venezuelan chicken bowl",
+  "description": "a vibrant, energizing dish featuring chicken bouillon powder, blanch, and a hint of spice. this jammy, fluffy venezuelan-inspired bowl is perfect for a quick and satisfying meal.",
+  "cuisine": "venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "add the onion and cook for 2 minutes, or until translucent.",
+    "add the garlic and cook for an additional minute, stirring constantly.",
+    "add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "remove the chicken from the skillet and set aside.",
+    "add the remaining 1 tbsp of olive oil to the skillet, then add the diced red bell pepper and cook for 2-3 minutes, or until tender.",
+    "in a separate pot, bring the quinoa and 2 cups of water to a boil. reduce the heat to low, cover, and simmer for 15-20 minutes, or until the quinoa is tender and the water has been absorbed.",
+    "in a blender or food processor, combine the cooked chicken, quinoa, chicken bouillon powder, lime juice, honey, cumin, salt, and black pepper. blend until smooth.",
+    "return the mixture to the skillet with the bell pepper and stir to combine.",
+    "serve the zesty jammy venezuelan chicken bowl hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "south-american",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "zesty-jammy-venezuelan-chicken-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jammy-venezuelan-chicken-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "zesty jammy",
+    "dishForm": "bowl"
+  }
+}

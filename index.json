@@ -6169,6 +6169,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-greek-gigantes-plaki",
+    "title": "Zesty Greek Gigantes Plaki",
+    "tags": [
+      "casserole",
+      "feta",
+      "greek",
+      "grilled",
+      "lemon",
+      "rye"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-greek-lentil-baklava",
     "title": "Zesty Greek Lentil Baklava",
     "tags": [
@@ -6916,6 +6931,22 @@
       "weeknight"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-jammy-venezuelan-chicken-bowl",
+    "title": "zesty jammy venezuelan chicken bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "quick-meal",
+      "south-american",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
     "totalTimeMin": 35,
     "shard": "z"
   },
