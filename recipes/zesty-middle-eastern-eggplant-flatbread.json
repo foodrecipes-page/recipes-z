@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Middle Eastern Eggplant Flatbread",
+  "description": "A charred and chewy Middle Eastern inspired flatbread featuring roasted eggplant, thyme, and a wood fired bake, perfect for a vegetarian friendly brunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "preferably wood fired or crusty"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Brush the eggplant slices with olive oil and season with salt, pepper, and sumac.",
+    "Roast the eggplant slices in the oven for 20 minutes, flipping halfway through.",
+    "Meanwhile, toast the flatbread in the oven for 5 minutes, or until lightly browned.",
+    "Spread a layer of garlic on each toasted flatbread piece.",
+    "Top each flatbread with a roasted eggplant slice, a sprinkle of thyme, and a crumble of feta cheese.",
+    "Drizzle the tops with olive oil and sprinkle with sumac.",
+    "Return the flatbreads to the oven for an additional 2 minutes, or until the cheese is melted and the bread is crispy.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 27,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "eggplant",
+    "flatbread",
+    "middle-eastern",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "zesty-middle-eastern-eggplant-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-eggplant-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:46:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "thyme",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty Wood Fired",
+    "dishForm": "Flatbread"
+  }
+}
