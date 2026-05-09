@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Crunchy Malaysian Beetroot Fried Rice",
+  "description": "A halal-friendly Malaysian dish featuring cooked beetroot, perfect for a post-workout meal, with a buttery and crunchy texture. This recipe is brine-wet and flavorful.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked beetroot",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "3 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Heat the butter and oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the cooked beetroot and stir-fry for 2 minutes.",
+    "Add the cooked rice and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Add the salt, pepper, and chopped scallions, and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and sprinkle with crushed fried shallots.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brine-wet",
+    "buttery",
+    "crunchy",
+    "halal-friendly",
+    "malaysian-cuisine",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-crunchy-malaysian-beetroot-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-malaysian-beetroot-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:17:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}

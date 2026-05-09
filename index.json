@@ -886,6 +886,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-argentinian-cabbage-empanadas",
+    "title": "Zesty Argentinian Cabbage Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "empanada-recipes",
+      "gluten-free",
+      "paleo-friendly",
+      "snack-ideas"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-argentinian-pumpkin-roast",
     "title": "Zesty Argentinian Pumpkin Roast",
     "tags": [
@@ -3283,6 +3297,22 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-malaysian-beetroot-fried-rice",
+    "title": "Zesty Crunchy Malaysian Beetroot Fried Rice",
+    "tags": [
+      "brine-wet",
+      "buttery",
+      "crunchy",
+      "halal-friendly",
+      "malaysian-cuisine",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
