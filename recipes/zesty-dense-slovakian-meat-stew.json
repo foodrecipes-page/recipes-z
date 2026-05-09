@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Dense Slovakian Meat Stew",
+  "description": "A hearty and dense Slovakian stew made with fermented ingredients and dashi, perfect for a cold winter night. This Whole30-friendly dish is cooked in one pot and features a rich salt-bake flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the ribs from the pot and set them aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the dashi powder, salt, black pepper, and paprika to the pot and stir to combine.",
+    "Add the fermented sauerkraut and browned short ribs back to the pot, stirring to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the stew for 2 1/2 hours, or until the meat is tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "whole30",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "zesty-dense-slovakian-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-slovakian-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:22:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "dashi",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Stew"
+  }
+}
