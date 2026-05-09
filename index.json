@@ -7357,6 +7357,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-nutty-middle-eastern-labneh",
+    "title": "Zesty Nutty Middle Eastern Labneh",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy",
+      "gluten-free",
+      "middle-eastern",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-nutty-portuguese-burrata-paella",
     "title": "Zesty Nutty Portuguese Burrata Paella",
     "tags": [

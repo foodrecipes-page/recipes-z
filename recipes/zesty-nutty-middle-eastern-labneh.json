@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Nutty Middle Eastern Labneh",
+  "description": "A satvik-friendly Middle Eastern dish featuring labneh, bacon lardon, and nuts, perfect for a lazy Sunday morning. This recipe is a twist on traditional labneh with a nutty and zesty flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup",
+      "notes": "drained overnight"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the sumac, salt, and black pepper.",
+    "In a separate bowl, whisk together the pomegranate molasses and lemon juice.",
+    "In a large bowl, combine the labneh cheese, chopped walnuts, and sumac mixture.",
+    "Stir in the pomegranate molasses mixture until well combined.",
+    "Cook the diced bacon lardon in a pan over medium heat until crispy.",
+    "Remove the bacon from the pan and set aside on a paper towel-lined plate.",
+    "Broil the labneh mixture for 5 minutes, or until it is lightly browned and set.",
+    "Top the labneh with the crispy bacon lardon and chopped parsley.",
+    "Serve the zesty nutty Middle Eastern labneh hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "gluten-free",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "zesty-nutty-middle-eastern-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-middle-eastern-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:04:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "bacon lardon",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "labneh",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Labneh"
+  }
+}
