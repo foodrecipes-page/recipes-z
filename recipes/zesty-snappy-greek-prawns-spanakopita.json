@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Snappy Greek Prawns Spanakopita",
+  "description": "A mustardy, snappy Greek dish featuring raw tiger prawns, confit-tomato, in a spanakopita form, served on a comal, perfect for brunch",
+  "cuisine": "Greek",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled, and deveined"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat",
+    "Roll out the filo dough to a large sheet",
+    "Spread the confit tomato over the center of the dough, leaving a 1-inch border",
+    "Arrange the tiger prawns on top of the tomato",
+    "Drizzle the mustard and olive oil over the prawns",
+    "Season with salt and black pepper",
+    "Sprinkle the chopped fresh dill over the top",
+    "Fold the filo dough over the filling to form a triangle",
+    "Cook the spanakopita for 5 minutes on each side, until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comal-cooking",
+    "greek-cuisine",
+    "seafood",
+    "spanakopita"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-snappy-greek-prawns-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-snappy-greek-prawns-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:33:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "prawns",
+    "descriptor": "Zesty Snappy",
+    "dishForm": "Spanakopita"
+  }
+}
