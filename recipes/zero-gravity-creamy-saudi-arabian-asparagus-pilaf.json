@@ -1,0 +1,104 @@
+{
+  "title": "Zero Gravity Creamy Saudi Arabian Asparagus Pilaf",
+  "description": "A fresh and creamy Saudi Arabian dish featuring asparagus, cooked to perfection in a nimono-simmer style, perfect for a crowd-pleasing meal",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the asparagus and trim the ends, then cut into 1-inch pieces",
+    "Heat the ghee in a large saucepan over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the saffron threads and cook for 1 minute, stirring constantly",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly",
+    "Add the chicken broth and bring to a boil, then reduce the heat to low and cover",
+    "Simmer for 15 minutes, or until the liquid is absorbed and the rice is tender",
+    "Stir in the heavy cream and cook for an additional 2 minutes",
+    "Add the asparagus and cook until tender, about 5 minutes",
+    "Season with salt and black pepper to taste"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zero-gravity-creamy-saudi-arabian-asparagus-pilaf",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-creamy-saudi-arabian-asparagus-pilaf",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:10:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "asparagus",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "asparagus",
+    "descriptor": "Zero Gravity Creamy",
+    "dishForm": "Pilaf"
+  }
+}
