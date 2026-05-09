@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Grassy Korean Danmuji Onigiri",
+  "description": "A light and refreshing Korean-inspired dish featuring danmuji and shaped like nigiri, served on a talavera plate. This anti-inflammatory friendly recipe is perfect for a snack or lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Korean yellow pickled radish"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "grassy turmeric",
+      "amount": "1 tsp",
+      "notes": "dried turmeric powder"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the danmuji by slicing it into thin strips and setting it aside.",
+    "In a large bowl, mix together the cooled sushi rice, grassy turmeric, and sesame oil until well combined.",
+    "Add the chopped green onions and toasted sesame seeds to the rice mixture and stir until they are evenly distributed.",
+    "Season the rice mixture with salt to taste.",
+    "Using wet hands, shape the rice mixture into small nigiri shapes and place a few strips of danmuji in the center of each one.",
+    "Fold the rice over the danmuji to form a triangle and press the edges together to seal.",
+    "Serve the Zesty Grassy Korean Danmuji Onigiri on a talavera plate and garnish with additional green onions if desired.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Before serving, let the onigiri come to room temperature for about 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "korean-inspired",
+    "lunch-ideas",
+    "snack-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-grassy-korean-danmuji-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grassy-korean-danmuji-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:13:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "danmuji",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "danmuji",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Onigiri"
+  }
+}
