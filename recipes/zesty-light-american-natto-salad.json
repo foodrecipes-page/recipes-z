@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Light American Natto Salad",
+  "description": "A pungent and light American dish featuring natto, perfect for a festive occasion, served in a scallop shell. This recipe is Buddhist-temple-friendly and uses shio-koji cure for added flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese salt fermentation paste"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and pepper to make the dressing.",
+    "Add the mixed greens, cherry tomatoes, cucumber, and red onion to the bowl and toss to combine.",
+    "In a small bowl, mix together natto and shio-koji until well combined.",
+    "Add the natto mixture to the bowl with the salad and toss to combine.",
+    "Spoon the salad into scallop shells and serve immediately.",
+    "Garnish with additional cherry tomatoes and cucumber slices if desired.",
+    "Cover and refrigerate any leftovers for up to 24 hours.",
+    "Before serving, give the salad a good stir and adjust the seasoning if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "light",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-light-american-natto-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-american-natto-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:39:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "natto",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "natto",
+    "descriptor": "Zesty Light",
+    "dishForm": "Salad"
+  }
+}
