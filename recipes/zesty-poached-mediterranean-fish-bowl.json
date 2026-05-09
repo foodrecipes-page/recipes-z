@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Poached Mediterranean Fish Bowl",
+  "description": "A flavorful and healthy bowl dish featuring poached fish, brightened with lemon and topped with olives, capers, and sun-dried tomatoes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet (4 oz)",
+      "amount": "1",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "Canned, drained, and chopped"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "Packed in oil, drained, and chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Fill a large saucepan with water, and bring to a simmer over medium heat.",
+    "Reduce the heat to low, and add the lemon juice, olive oil, garlic, salt, and pepper to the water.",
+    "Add the salmon fillet to the saucepan, and cook for 8-10 minutes, or until cooked through.",
+    "Remove the salmon from the water with a slotted spoon, and transfer to a plate.",
+    "Add the chopped parsley, olives, artichoke hearts, and sun-dried tomatoes to the saucepan.",
+    "Cook for an additional 2-3 minutes, or until the vegetables are heated through.",
+    "To assemble the bowls, place a portion of the cooked vegetables on a plate, followed by a portion of the poached salmon.",
+    "Drizzle with additional lemon juice, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-poached-mediterranean-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-poached-mediterranean-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:20:15Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "lemon",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty poached",
+    "dishForm": "Bowl"
+  }
+}
