@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Smoky Fujian Tofu Mapo Tofu",
+  "description": "A paleo-friendly Chinese dish with a smoky and slightly bitter taste, featuring cacao and crunchy textures, kid-friendly and easy to make.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "cacao powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the smoked paprika and cacao powder and stir to combine.",
+    "Add the cubed tofu and cook until it is golden brown on all sides.",
+    "Add the sliced snow peas and cook until they are tender but still crisp.",
+    "Season with salt and black pepper to taste.",
+    "Drizzle with sesame oil and serve immediately.",
+    "Garnish with chopped scallions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "paleo-friendly",
+    "smoky",
+    "spicy",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-fujian-tofu-mapo-tofu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-fujian-tofu-mapo-tofu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:16:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cacao",
+    "diet": "paleo",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "tofu",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Mapo Tofu"
+  }
+}
