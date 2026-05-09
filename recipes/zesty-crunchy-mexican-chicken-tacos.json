@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Crunchy Mexican Chicken Tacos",
+  "description": "A flavorful, crunchy Mexican dish featuring chicken, crispy lettuce, and a zesty chipotle sauce. Perfect for a date-night dinner.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "00-flour tortillas",
+      "amount": "8-10 count",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying tortillas"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade and dressing"
+    },
+    {
+      "name": "Chipotle peppers in adobo sauce",
+      "amount": "2-3 peppers",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Shredded iceberg lettuce",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Diced red onion",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breasts with salt, black pepper, and a pinch of cumin.",
+    "In a blender or food processor, blend the chipotle peppers, mayonnaise, and sour cream until smooth.",
+    "Heat 2 tablespoons of lard or vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breasts and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the cooked chicken to a plate and let rest for 2-3 minutes.",
+    "Meanwhile, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the tacos, place a cooked chicken breast on a tortilla, followed by a spoonful of chipotle sauce, some chopped cilantro, and a sprinkle of shredded lettuce and diced red onion.",
+    "Serve immediately and enjoy!",
+    "For the crunchy tortilla strips, heat 1/4 cup of lard or vegetable oil in a large skillet over medium heat.",
+    "Cut the day-old tortillas into thin strips and fry in batches until crispy and golden.",
+    "Drain the fried tortilla strips on paper towels and season with salt.",
+    "Garnish the tacos with the crunchy tortilla strips and a dollop of sour cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-crunchy-mexican-chicken-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-mexican-chicken-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:03:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "00-flour",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "zesty crunchy",
+    "dishForm": "Tacos"
+  }
+}

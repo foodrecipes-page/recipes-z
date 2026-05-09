@@ -2916,6 +2916,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crunchy-mexican-chicken-tacos",
+    "title": "Zesty Crunchy Mexican Chicken Tacos",
+    "tags": [
+      "crunchy",
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "sour",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crunchy-norwegian-saskatoon-berries-salad",
     "title": "Zesty Crunchy Norwegian Saskatoon Berries Salad",
     "tags": [
