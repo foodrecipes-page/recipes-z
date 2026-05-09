@@ -1,0 +1,115 @@
+{
+  "title": "Zesty Roasted Thai Beef Larb",
+  "description": "A romantic Thai dish featuring hot beef stock, sashimi-cut beef, and a low-glycemic twist. This larb recipe is perfect for a special dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "85/15 lean to fat ratio"
+    },
+    {
+      "name": "Thai Red Chili Peppers",
+      "amount": "3-4",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "high-quality, low-sodium"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "low-glycemic alternative"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup",
+      "notes": "hot and low-sodium"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine ground beef, Thai red chili peppers, fish sauce, lime juice, brown sugar, ginger, cilantro, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, heat the coconut oil in a large cazuela over medium-high heat. Add the beef mixture and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Transfer the cazuela to the preheated oven and roast for 12-15 minutes, or until the meat is caramelized and crispy.",
+    "Remove the cazuela from the oven and carefully pour in the hot beef stock. Return the cazuela to the oven and roast for an additional 2-3 minutes, or until the liquid has been absorbed and the meat is coated in a sticky glaze.",
+    "Remove the cazuela from the oven and let it cool slightly before serving.",
+    "Serve the zesty roasted Thai beef larb hot, garnished with additional cilantro if desired.",
+    "Serve with steamed vegetables or sticky rice, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "larb",
+    "one-pan",
+    "romantic",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 6,
+    "fat": 40
+  },
+  "slug": "zesty-roasted-thai-beef-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-thai-beef-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:54Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "hot beef stock",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "zesty roasted",
+    "dishForm": "Larb"
+  }
+}
