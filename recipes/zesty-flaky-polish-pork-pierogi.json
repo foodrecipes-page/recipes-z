@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Flaky Polish Pork Pierogi",
+  "description": "A traditional Polish dish featuring mustardy pork filling wrapped in flaky dough, perfect for a brunch mood, this keto-friendly recipe is a delicious twist on a classic.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground pork, mustard, sour cream, egg, salt, and pepper, and mix until just combined.",
+    "In a separate bowl, whisk together the almond flour and melted butter until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the pork filling in the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-circle shape, and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5 minutes, until they float to the surface.",
+    "Remove the pierogi from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "high-protein",
+    "homemade-pasta",
+    "keto-friendly",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "zesty-flaky-polish-pork-pierogi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-polish-pork-pierogi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:12:56Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "seasoning",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Pierogi"
+  }
+}
