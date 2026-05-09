@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Roasted Filipino Pinto Beans Halo Halo",
+  "description": "A savory and comforting Filipino dish featuring roasted pinto beans in a halo halo form, wrapped in pandan leaves, perfect for a snack or light meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for soaking"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the pinto beans in water for at least 8 hours or overnight.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Drain and rinse the pinto beans, then transfer them to a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the pinto beans and sprinkle with minced garlic, chopped onion, salt, and black pepper.",
+    "Roast the pinto beans in the oven for 30 minutes or until they are tender and lightly browned.",
+    "Prepare the pandan leaves by washing and drying them with paper towels.",
+    "To assemble the halo halo, place a portion of the roasted pinto beans in the center of a pandan leaf, then fold the leaf to form a packet.",
+    "Serve the Zesty Roasted Filipino Pinto Beans Halo Halo warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "halal-friendly",
+    "pinto-beans",
+    "roasted-vegetables",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-roasted-filipino-pinto-beans-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-filipino-pinto-beans-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:02:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "pinto beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Halo Halo"
+  }
+}
