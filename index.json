@@ -11005,6 +11005,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-sour-greek-feta-tiropita",
+    "title": "Zesty Sour Greek Feta Tiropita",
+    "tags": [
+      "appetizer",
+      "finger-food",
+      "flaky-crust",
+      "greek-cuisine",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-sour-kenyan-saskatoon-berry-stew",
     "title": "Zesty Sour Kenyan Saskatoon Berry Stew",
     "tags": [

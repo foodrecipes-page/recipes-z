@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Sour Greek Feta Tiropita",
+  "description": "A sour and savory Greek dish featuring tamarind paste, perfect for a hangover cure, made in a raclette grill and encased in a flaky crust, tiropita style, that is also suitable for a Buddhist temple gathering.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the crumbly feta cheese, tamarind paste, chopped parsley, chopped scallions, salt, and black pepper.",
+    "Unroll the thawed filo dough and cut it into 4 equal pieces.",
+    "Brush each piece of filo dough with olive oil and place a quarter of the feta mixture in the center of each piece.",
+    "Fold the filo dough over the filling to form a triangle or square shape, and press the edges together to seal the tiropita.",
+    "Place the tiropitas in the raclette grill and cook for 20-25 minutes, or until the crust is golden brown.",
+    "Remove the tiropitas from the grill and brush with lemon juice.",
+    "Serve the tiropitas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "finger-food",
+    "flaky-crust",
+    "greek-cuisine",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "zesty-sour-greek-feta-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sour-greek-feta-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:53:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "en-croute",
+    "primaryIngredient": "tamarind paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Zesty Sour",
+    "dishForm": "Tiropita"
+  }
+}
