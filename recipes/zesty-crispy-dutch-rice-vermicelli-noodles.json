@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Crispy Dutch Rice Vermicelli Noodles",
+  "description": "A tangy and crispy post-workout Dutch dish featuring rice vermicelli, wood-fired-baked to perfection, this gluten-free-friendly meal is a great way to refuel after a workout.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Cook the rice vermicelli according to package instructions and set aside.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, salt, and pepper.",
+    "Add the cooked rice vermicelli to the bowl and toss to combine.",
+    "Spread the vermicelli mixture on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15 minutes or until crispy.",
+    "Remove from the oven and sprinkle with chopped scallions.",
+    "Serve hot and enjoy.",
+    "Let cool for a few minutes before serving.",
+    "Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-noodles",
+    "dutch-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "post-workout",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-crispy-dutch-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-dutch-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:22:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Noodles"
+  }
+}
