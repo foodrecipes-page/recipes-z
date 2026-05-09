@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Spicy Russian Pepper Grill",
+  "description": "A light and flavorful Russian-inspired dish featuring red pepper paste, perfect for grilling and perfect for a weeknight dinner or lunch.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Red pepper paste",
+      "amount": "2 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together red pepper paste and mayonnaise, if using.",
+    "Brush the red bell peppers with olive oil and season with salt, black pepper, and garlic powder.",
+    "Grill the red bell peppers for 5-7 minutes per side, or until tender and slightly charred.",
+    "Once the peppers are cooked, let them cool slightly.",
+    "Split the peppers open and fill with the red pepper paste mixture.",
+    "Top with chopped fresh dill, if using.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "grilled",
+    "healthy",
+    "lunch",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-spicy-russian-pepper-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-russian-pepper-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:51:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "red pepper paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "pepper",
+    "descriptor": "zesty spicy",
+    "dishForm": "grill"
+  }
+}

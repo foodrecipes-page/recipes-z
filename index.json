@@ -11705,6 +11705,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spicy-russian-pepper-grill",
+    "title": "Zesty Spicy Russian Pepper Grill",
+    "tags": [
+      "easy",
+      "grilled",
+      "healthy",
+      "lunch",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spicy-tunisian-lamb-tagine",
     "title": "Zesty Spicy Tunisian Lamb Tagine",
     "tags": [
