@@ -10676,6 +10676,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-sweet-irish-sweets-crumble",
+    "title": "Zesty Sweet Irish Sweets Crumble",
+    "tags": [
+      "crumble",
+      "irish-desserts",
+      "oat-based",
+      "special-occasion",
+      "sugar-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-sweet-jamaican-grain-pilaf",
     "title": "Zesty Sweet Jamaican Grain Pilaf",
     "tags": [

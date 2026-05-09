@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Sweet Irish Sweets Crumble",
+  "description": "A sweet and bouncy Irish dessert featuring sugar syrup and score-fat, friendly to sugar-free diets. This dish is perfect for special occasions.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": "rolled"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1 cup",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the oats, score-fat, and sugar syrup until well combined.",
+    "In a separate bowl, whisk together the brown sugar, melted butter, eggs, vanilla extract, and cinnamon.",
+    "Add the wet ingredients to the dry ingredients and stir until a crumbly mixture forms.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Serve the crumble warm, topped with whipped cream or ice cream if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crumble",
+    "irish-desserts",
+    "oat-based",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-sweet-irish-sweets-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-irish-sweets-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:49:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "sugar syrup",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sweets",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Crumble"
+  }
+}
