@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Silky Tunisian Butternut Squash Tagine",
+  "description": "A sweet and comforting Tunisian dish featuring butternut squash, this tagine is a vegetarian-friendly delight. It is made by shocking the squash in an ice bath to create a silky texture.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground cumin and smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the cubed butternut squash and cook for 5 minutes, stirring occasionally.",
+    "Add the chickpeas, diced tomatoes, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Shock the cooked squash in an ice bath to stop the cooking process and create a silky texture.",
+    "Stir in the honey and season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "sweet-and-savory",
+    "tunisian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-silky-tunisian-butternut-squash-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-tunisian-butternut-squash-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:42:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "butternut squash",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Tagine"
+  }
+}
