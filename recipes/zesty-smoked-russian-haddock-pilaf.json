@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Smoked Russian Haddock Pilaf",
+  "description": "A hearty post-workout Russian dish featuring smoked haddock, this pilaf is a flavorful and flaky meal, made with a papillote cooking method to lock in the zesty flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the flaked smoked haddock, brown rice, lemon juice, olive oil, dried dill, salt, black pepper, and paprika.",
+    "Spoon the mixture into a large piece of parchment paper, creating a tight packet with a papillote fold.",
+    "Place the packet on a baking sheet and bake for 20 minutes.",
+    "Remove the packet from the oven and let it rest for 5 minutes.",
+    "Carefully open the packet and fluff the pilaf with a fork.",
+    "Serve the pilaf hot, garnished with additional dried dill if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-dinner",
+    "one-pan",
+    "pescatarian",
+    "post-workout",
+    "russian-cuisine",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-smoked-russian-haddock-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoked-russian-haddock-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:04:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "smoked haddock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "haddock",
+    "descriptor": "Zesty Smoked",
+    "dishForm": "Pilaf"
+  }
+}
