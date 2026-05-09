@@ -1,0 +1,112 @@
+{
+  "title": "Zesty Creamy Argentinian Soya Bean Stew",
+  "description": "A comforting, earthy stew inspired by traditional locro techniques, using emulsified coconut cream and lemon for a bright Whole30 finish.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "Whole30",
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry soya beans",
+      "amount": "2 cups",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "4 tbsp",
+      "notes": "high quality for emulsifying"
+    },
+    {
+      "name": "white onion",
+      "amount": "1 large",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 large",
+      "notes": "peeled and cubed small"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "6 cups",
+      "notes": "compliant low sodium"
+    },
+    {
+      "name": "full fat coconut milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp",
+      "notes": "pimenton style"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "0.5 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Sauté the diced onion and garlic in olive oil over medium heat until translucent.",
+    "Stir in the smoked paprika and cubed sweet potato to coat them in the oil.",
+    "Add the soaked soya beans and vegetable broth to the pot and bring to a boil.",
+    "Reduce heat to low and simmer the mixture for sixty minutes until beans are tender.",
+    "Transfer two cups of the stew base to a blender and process until completely smooth.",
+    "Return the pureed mixture to the pot to create a thick and creamy consistency.",
+    "Slowly whisk in the coconut milk and remaining olive oil to emulsify the broth.",
+    "Stir in the fresh lemon juice to brighten the earthy flavors of the beans.",
+    "Season with salt and black pepper to taste while the stew thickens.",
+    "Ladle the stew into bowls and garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-inspired",
+    "comfort-food",
+    "high-fiber",
+    "one-pot",
+    "plant-based",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "zesty-creamy-argentinian-soya-bean-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-argentinian-soya-bean-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T07:52:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "soya bean",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "soya bean",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Stew"
+  }
+}
