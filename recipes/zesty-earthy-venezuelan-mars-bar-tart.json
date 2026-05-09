@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Earthy Venezuelan Mars Bar Tart",
+  "description": "A rich and decadent dessert featuring mars bar, with earthy undertones and a romantic venezuelan twist, made with sous-vide technique for a perfectly set filling.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bar",
+      "amount": "12 ounces",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Earth balance butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Graham cracker crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sous-vide safe bag",
+      "amount": "1",
+      "notes": "for sous-vide cooking"
+    },
+    {
+      "name": "Water",
+      "amount": "1 quart",
+      "notes": "for water bath"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 160 degrees Fahrenheit.",
+    "In a blender, combine the graham cracker crumbs, confectioners sugar, and melted earth balance butter, and blend until well combined.",
+    "Press the crumb mixture into the bottom of a 9 inch tart pan with a removable bottom.",
+    "In a separate bowl, whisk together the eggs, vanilla extract, and chopped mars bar.",
+    "Pour the egg mixture into the prepared tart crust.",
+    "Place the tart into a sous-vide safe bag, and seal the bag, removing as much air as possible.",
+    "Place the bag into a water bath, and cook for 2 hours.",
+    "Remove the tart from the bag, and let it cool to room temperature.",
+    "Refrigerate the tart for at least 2 hours before serving.",
+    "Slice the tart into 12 equal pieces, and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "decadent",
+    "rich",
+    "romantic",
+    "sous-vide",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "zesty-earthy-venezuelan-mars-bar-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-earthy-venezuelan-mars-bar-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:37:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "mars bar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "mars bar",
+    "descriptor": "Zesty earthy",
+    "dishForm": "Tart"
+  }
+}
