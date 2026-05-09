@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Tender Venezuelan Shrimp Skewers",
+  "description": "A peppery and tender Venezuelan dish featuring lemongrass stalks and a mirepoix base, perfect for a dairy-free friendly date night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, black pepper, and salt.",
+    "Add the chopped onion, carrot, and celery to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the mirepoix mixture.",
+    "Thread the shrimp, lemongrass stalks, and mirepoix mixture onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Serve with your choice of side dishes, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "grilled",
+    "seafood",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "zesty-tender-venezuelan-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tender-venezuelan-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:52:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shrimp",
+    "descriptor": "zesty tender",
+    "dishForm": "Skewers"
+  }
+}
