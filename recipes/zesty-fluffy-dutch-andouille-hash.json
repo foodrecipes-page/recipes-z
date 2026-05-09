@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Fluffy Dutch Andouille Hash",
+  "description": "A peppery, fluffy Dutch dish featuring Andouille sausage, perfect for a lazy Sunday morning, made with ayurvedic sattvic friendly ingredients and a deglaze fond for added depth of flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "for deglaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 1 tablespoon of olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are golden brown.",
+    "While the potatoes are roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced Andouille sausage to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped onions and bell peppers to the skillet and cook until they are tender, about 5 minutes.",
+    "Add the minced garlic and smoked paprika to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the roasted potatoes to the skillet and stir to combine with the sausage and vegetables.",
+    "Pour the chicken broth into the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer the hash for 5 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andouille-sausage",
+    "breakfast-hash",
+    "gluten-free",
+    "lazy-sunday",
+    "meat-based",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-fluffy-dutch-andouille-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fluffy-dutch-andouille-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:45:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "andouille-french",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Andouille",
+    "descriptor": "Zesty Fluffy",
+    "dishForm": "Hash"
+  }
+}
