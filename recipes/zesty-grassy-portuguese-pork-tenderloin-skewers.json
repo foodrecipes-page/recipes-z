@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Grassy Portuguese Pork Tenderloin Skewers",
+  "description": "This dish features pork tenderloin marinated in a zesty and grassy mixture, inspired by Portuguese cuisine, and is garlic and onion free, making it suitable for those with sensitivities. The bhuna spice blend adds a unique and adventurous flavor profile.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together bhuna spice blend, lemon juice, olive oil, salt, and black pepper.",
+    "Add the pork tenderloin pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the pork reaches an internal temperature of 145 degrees.",
+    "While the skewers are grilling, mix the chopped parsley and mint in a small bowl.",
+    "Once the skewers are cooked, brush them with the parsley and mint mixture.",
+    "Serve the skewers hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-free",
+    "gluten-free",
+    "grilled-meat",
+    "onion-free",
+    "pork-recipes",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "zesty-grassy-portuguese-pork-tenderloin-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grassy-portuguese-pork-tenderloin-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:33:21Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Skewers"
+  }
+}
