@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Dense Jamaican Sun Dried Tomato Roast",
+  "description": "A briny and dense Jamaican dish featuring sun-dried tomatoes and roast, perfect for a vegan-friendly dinner option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "to replicate cheesy flavor"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine sun dried tomatoes, red onion, scotch bonnet peppers, allspice, and thyme, and blend until coarsely chopped.",
+    "In a large bowl, whisk together the blended tomato mixture, nutritional yeast, and vegetable broth.",
+    "Add the sliced portobello mushrooms to the bowl and toss to coat with the tomato mixture.",
+    "Transfer the mushroom mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Roast the mushrooms in the preheated oven for 30 minutes.",
+    "Remove the foil and continue roasting for an additional 20 minutes, or until the mushrooms are tender and the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Zesty Dense Jamaican Sun Dried Tomato Roast hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "mushroom-recipes",
+    "one-pan-meal",
+    "sun-dried-tomatoes",
+    "vegan-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-dense-jamaican-sun-dried-tomato-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-jamaican-sun-dried-tomato-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:30:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sun-dried tomatoes",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Roast"
+  }
+}
