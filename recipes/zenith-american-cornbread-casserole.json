@@ -1,0 +1,99 @@
+{
+  "title": "Zenith American Cornbread Casserole",
+  "description": "A rich and crumbly American dish perfect for a sick day, featuring flour and ferment, and Whole30-friendly ingredients. This casserole is made with wholesome ingredients and is easy to prepare.",
+  "cuisine": "American",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "dried corn kernels",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fermented vegetable powder",
+      "amount": "1 tablespoon",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, eggs, sour cream, honey, salt, and black pepper.",
+    "Stir in the dried corn kernels and fermented vegetable powder.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "homemade",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "zenith-american-cornbread-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-american-cornbread-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:30:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cornbread",
+    "descriptor": "Zenith",
+    "dishForm": "Casserole"
+  }
+}
