@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crispy Peruvian Chicken Pollo A La Brasa",
+  "description": "A classic Peruvian dish featuring crispy chicken marinated in a zesty mixture of spices and herbs, perfect for a date night dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic-tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4",
+      "notes": "skin on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lime juice, Dijon mustard, garlic, salt, black pepper, and paprika",
+    "Add the chicken legs to the bowl and toss to coat with the marinade",
+    "Let the chicken marinate for at least 30 minutes",
+    "Remove the chicken from the marinade and place on a baking sheet lined with parchment paper",
+    "Bake the chicken in the preheated oven for 30 minutes",
+    "While the chicken is baking, heat a skillet over medium-high heat",
+    "Add the chopped basil leaves to the skillet and saute for 1 minute",
+    "After the chicken has baked for 30 minutes, increase the oven temperature to broil and cook for an additional 5 minutes, or until crispy and golden brown",
+    "Serve the chicken hot, garnished with the sauteed basil leaves"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-chicken",
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-crispy-peruvian-chicken-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:19:59Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "basil leaves",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
