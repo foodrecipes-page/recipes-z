@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Silky Canadian Passion Fruit Pudding",
+  "description": "A silky and salty Canadian dessert featuring passion fruit pulp, this crowd-pleaser is FODMAP-friendly and perfect for any occasion. It is made by simmering the ingredients together to create a smooth and creamy texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "passion fruit pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of water and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the passion fruit pulp, coconut milk, sugar, and salt.",
+    "Bring the mixture to a simmer over medium heat, whisking constantly.",
+    "Remove the saucepan from the heat and stir in the softened gelatin and vanilla extract.",
+    "Let the mixture cool to room temperature, then cover it and refrigerate for at least 2 hours.",
+    "Once chilled, whip the mixture with an electric mixer until it becomes light and fluffy.",
+    "Spoon the pudding into individual serving cups and refrigerate for an additional 30 minutes.",
+    "Serve the pudding chilled, garnished with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-desserts",
+    "crowd-pleaser",
+    "dessert",
+    "fodmap-friendly",
+    "gluten-free",
+    "passion-fruit"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-silky-canadian-passion-fruit-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-canadian-passion-fruit-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:31:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "passion fruit",
+    "descriptor": "zesty silky",
+    "dishForm": "Pudding"
+  }
+}
