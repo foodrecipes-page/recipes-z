@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Light Norwegian Rice Flour Wrap",
+  "description": "A briny and bouncy Norwegian dish featuring sweet rice flour chapssalgaru, confit tomato, and ayurvedic tamasic friendly ingredients, all wrapped in a ti leaf wrap.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "chapssalgaru style"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ayurvedic tamasic friendly spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sweet rice flour, salt, black pepper, and ayurvedic tamasic friendly spice blend.",
+    "Gradually add in the water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick pan or griddle over medium heat and brush with olive oil.",
+    "Place a ti leaf on each circle of dough and top with confit tomato.",
+    "Fold the dough over the filling to form a wrap and cook for 2-3 minutes on each side.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "confit-tomato",
+    "gluten-free",
+    "norwegian-cuisine",
+    "ti-leaf-wrap",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "zesty-light-norwegian-rice-flour-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-norwegian-rice-flour-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:59:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice flour",
+    "descriptor": "Zesty light",
+    "dishForm": "Wrap"
+  }
+}
