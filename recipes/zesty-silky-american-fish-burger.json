@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Silky American Fish Burger",
+  "description": "A pescatarian-friendly American dish featuring silky fish patties, served on potato buns with a zesty twist, perfect for a weeknight dinner",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "for cold extract"
+    },
+    {
+      "name": "potato buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Soak the kombu sheets in cold water for 30 minutes to create the cold extract.",
+    "Drain and discard the kombu, reserving the extract for later use.",
+    "Cut the cod fillets into small pieces and pulse in a food processor until coarsely chopped.",
+    "Mix the chopped cod with 2 tablespoons of the reserved kombu extract, mayonnaise, and a pinch of salt and pepper.",
+    "Divide the cod mixture into 4 equal parts and shape each part into a patty.",
+    "Heat a non-stick skillet over medium heat and cook the patties for 4 minutes per side, until cooked through.",
+    "Toast the potato buns by grilling them lightly on the skillet.",
+    "Assemble the burgers by spreading a layer of mayonnaise on the bottom bun, followed by a fish patty, a few slices of red onion, some shredded lettuce, diced tomato, and finally the top bun.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "burgers",
+    "fish",
+    "pescatarian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-silky-american-fish-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-american-fish-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:26:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "potatoe buns",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Burger"
+  }
+}

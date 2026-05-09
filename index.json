@@ -8304,6 +8304,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-silky-american-fish-burger",
+    "title": "Zesty Silky American Fish Burger",
+    "tags": [
+      "american",
+      "burgers",
+      "fish",
+      "pescatarian",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-silky-argentinian-beef-empanadas",
     "title": "Zesty Silky Argentinian Beef Empanadas",
     "tags": [
