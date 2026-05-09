@@ -2259,6 +2259,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crispy-chinese-smoked-mackerel-noodles",
+    "title": "Zesty Crispy Chinese Smoked Mackerel Noodles",
+    "tags": [
+      "chinese-food",
+      "crispy",
+      "gluten-free",
+      "noodle-dish",
+      "peppery",
+      "smoked-fish",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crispy-ethiopian-beef-kik-alitcha",
     "title": "Zesty Crispy Ethiopian Beef Kik Alitcha",
     "tags": [

@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Crispy Chinese Smoked Mackerel Noodles",
+  "description": "A peppery and crispy Chinese dish featuring smoked mackerel, perfect for a weeknight dinner, this recipe is gluten-free friendly and serves 4 people.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a small bowl, whisk together the soy sauce, ginger, and garlic.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the smoked mackerel to the skillet and cook for 2-3 minutes on each side, until crispy.",
+    "In a small saucepan, steam the scallions using the mushimono method for 2-3 minutes.",
+    "In a large bowl, combine the cooked noodles, smoked mackerel, and steamed scallions.",
+    "Drizzle the soy sauce mixture and sesame oil over the top of the noodles and toss to combine.",
+    "Serve the noodles in a bamboo tray and garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "crispy",
+    "gluten-free",
+    "noodle-dish",
+    "peppery",
+    "smoked-fish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-crispy-chinese-smoked-mackerel-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-chinese-smoked-mackerel-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:22:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "Zesty crispy",
+    "dishForm": "Noodles"
+  }
+}
