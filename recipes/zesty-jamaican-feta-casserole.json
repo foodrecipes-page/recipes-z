@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Jamaican Feta Casserole",
+  "description": "A funky and velvety ovo-vegetarian Jamaican dish featuring feta, served in a mason jar. This kid-friendly recipe combines the flavors of Jamaica with the creaminess of feta.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": "preferably Greek"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 diced",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 diced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flame-grilled tomato",
+      "amount": "1 diced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1 seeded and finely chopped",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 cup cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the diced onion and red bell pepper until tender.",
+    "Add the jerk seasoning, scotch bonnet pepper, and flame-grilled tomato to the skillet and stir well.",
+    "In a large bowl, whisk together the eggs and crumbled feta cheese.",
+    "Add the bread cubes to the bowl and stir until the bread is evenly coated with the egg mixture.",
+    "Add the skillet mixture to the bowl and stir until well combined.",
+    "Spoon the mixture into 4 mason jars, leaving about 1 inch of space at the top.",
+    "Place the mason jars in a large baking dish and add hot water to come halfway up the sides of the jars.",
+    "Bake for 25 minutes, or until the eggs are set and the bread is toasted.",
+    "Remove the jars from the water bath and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "feta-cheese",
+    "jamaican-cuisine",
+    "kid-friendly",
+    "mason-jar-recipes",
+    "one-dish-wonder",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "zesty-jamaican-feta-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jamaican-feta-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:54:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "feta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "feta",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Casserole"
+  }
+}
