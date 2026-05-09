@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Roasted Thai Eggplant Curry",
+  "description": "A flavorful and aromatic Thai curry made with roasted eggplant and served with crispy fried rice, this dish is a Bangkok street food favorite adapted for a Jain-friendly diet.",
+  "cuisine": "Thai",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 large",
+      "notes": "also known as makhua"
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup",
+      "notes": "for khao khuai"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the Thai eggplant into 1-inch pieces and roast in the oven for 20 minutes, or until tender.",
+    "While the eggplant is roasting, heat 2 tablespoons of vegetable oil in a Dutch oven over medium heat.",
+    "Add the sliced onion to the Dutch oven and cook until lightly browned, stirring occasionally.",
+    "Add the minced garlic and grated ginger to the Dutch oven and cook for 1 minute, stirring constantly.",
+    "Stir in the Thai red curry paste and cook for 1 minute, until fragrant.",
+    "Add the roasted eggplant, coconut milk, and salt to the Dutch oven, stirring to combine.",
+    "Bring the curry to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+    "While the curry is cooking, fry the uncooked white rice in a little oil until crispy and golden, then grind into a coarse crumb using a spice grinder or mortar and pestle.",
+    "Serve the curry hot, garnished with chopped cilantro and crispy fried rice crumbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "one-pot",
+    "roasted-vegetables",
+    "street-food",
+    "thai-curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-roasted-thai-eggplant-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-thai-eggplant-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:26:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "jain",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Thai eggplant",
+    "descriptor": "Zesty roasted",
+    "dishForm": "Curry"
+  }
+}
