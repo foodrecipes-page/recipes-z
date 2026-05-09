@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Smoked Jamaican Morbier Tagine",
+  "description": "A light and silky Jamaican dish featuring Morbier cheese, smoked to perfection in a tagine pot, with a zesty twist. This raw-friendly recipe is perfect for a unique dinner experience.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "1 cup",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot over medium heat, adding the coconut oil to the bottom.",
+    "Add the diced scotch bonnet peppers and cook for 2 minutes, until fragrant.",
+    "Add the sliced red onion and cook for an additional 3 minutes, until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika, salt, and black pepper, stirring to combine.",
+    "Add the sliced Morbier cheese, stirring gently to combine with the spice mixture.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, until the cheese is melted and silky.",
+    "Stir in the chopped fresh cilantro and lime juice.",
+    "Serve the Zesty Smoked Jamaican Morbier Tagine hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pot",
+    "smoked-cheese",
+    "tagine-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "zesty-smoked-jamaican-morbier-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoked-jamaican-morbier-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:40:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "morbier",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "morbier",
+    "descriptor": "zesty smoked",
+    "dishForm": "Tagine"
+  }
+}
