@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Crunchy Vietnamese Samphire Bo Kho",
+  "description": "A floral and crunchy Vietnamese dish featuring samphire in a bo kho form, perfect for a brunch mood, this recipe is low in calories and friendly to those watching their weight.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced shallots and cook until they are lightly browned.",
+    "Add the grated ginger, star anise, and black pepper, and cook for 1 minute.",
+    "Add the samphire and cook until it is tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the beef broth, fish sauce, and lime juice.",
+    "Pour the broth mixture over the samphire and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt to taste, then serve hot.",
+    "Garnish with additional shallots and samphire if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "low-calorie",
+    "one-pot",
+    "seafood-free",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "zesty-crunchy-vietnamese-samphire-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-vietnamese-samphire-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:40:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "samphire",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "samphire",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Bo Kho"
+  }
+}
