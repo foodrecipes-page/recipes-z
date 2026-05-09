@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Spicy Egyptian Plum Tomatoes Skillet",
+  "description": "A spicy and snappy Egyptian dish featuring plum tomatoes, perfect for a solo dinner, dairy-free friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the chopped plum tomatoes, cumin, coriander, cayenne pepper, salt, and black pepper to the skillet.",
+    "Use a mortar and pestle to pound the ingredients together, releasing the flavors and oils.",
+    "Reduce the heat to medium-low and simmer the mixture for 15 minutes, stirring occasionally.",
+    "Stir in the chopped fresh parsley and cook for an additional 2 minutes.",
+    "Remove the skillet from the heat and let it cool for a few minutes before serving.",
+    "Serve the Zesty Spicy Egyptian Plum Tomatoes Skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "middle-eastern",
+    "one-pan",
+    "quick-dinner",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-spicy-egyptian-plum-tomatoes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-egyptian-plum-tomatoes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:37:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Skillet"
+  }
+}
