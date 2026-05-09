@@ -1,0 +1,97 @@
+{
+  "title": "Zero Fuss Japanese King Prawns Poke",
+  "description": "A quick and easy Japanese dish featuring raw king prawns, wood-fired baked vegetables, and a vegetarian friendly sauce, this poke bowl is perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12",
+      "notes": "raw, peeled, and deveined"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wood-fired baked vegetables",
+      "amount": "1 cup",
+      "notes": "such as zucchini, bell peppers, and onions"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the vegetables in a little bit of oil and season with salt and pepper, then spread them out on a baking sheet and bake for 20 minutes.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, rice vinegar, honey, and grated ginger to make the sauce.",
+    "In a large bowl, combine the cooked vegetables, raw king prawns, and sauce, and toss to combine.",
+    "Sprinkle the sesame seeds and chopped green onions over the top of the poke bowl.",
+    "Serve immediately, garnished with additional green onions and sesame seeds if desired.",
+    "This dish can be prepared ahead of time and refrigerated for up to 24 hours.",
+    "Before serving, give the poke bowl a good stir and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "japanese-cuisine",
+    "quick-fix",
+    "seafood-lovers",
+    "vegetarian-friendly",
+    "weeknight-meal",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zero-fuss-japanese-king-prawns-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-fuss-japanese-king-prawns-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:25:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "raw king prawns",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "king prawns",
+    "descriptor": "Zero fuss",
+    "dishForm": "Poke"
+  }
+}
