@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Rich Moroccan Gouda Cheese Briouat Bake",
+  "description": "A rich and crumbly Moroccan dish featuring Gouda cheese, perfect for a lacto-vegetarian friendly meal. This briouat bake is indulgent and full of flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup shredded",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, combine the cooked onion and garlic, Gouda cheese, parsley, salt, and pepper, and mix well.",
+    "Layer the filo dough in a large baking dish, brushing each layer with olive oil.",
+    "Spoon the cheese mixture over the filo dough, leaving a 1 inch border around the edges.",
+    "Fold the filo dough over the cheese mixture, brushing with olive oil to seal.",
+    "Bake the briouat for 35 minutes, or until golden brown.",
+    "Let the briouat rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "filo-dough",
+    "gouda-cheese",
+    "lacto-vegetarian",
+    "moroccan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "zesty-rich-moroccan-gouda-cheese-briouat-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-rich-moroccan-gouda-cheese-briouat-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:44:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "gouda cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Gouda Cheese",
+    "descriptor": "Zesty Rich",
+    "dishForm": "Briouat Bake"
+  }
+}
