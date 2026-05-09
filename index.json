@@ -2095,6 +2095,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-chinese-turkey-neck-stew",
+    "title": "Zesty Chinese Turkey Neck Stew",
+    "tags": [
+      "chinese-food",
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 90,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-citrus-shortcrust-pastry-pie",
     "title": "Zesty Citrus Shortcrust Pastry Pie",
     "tags": [

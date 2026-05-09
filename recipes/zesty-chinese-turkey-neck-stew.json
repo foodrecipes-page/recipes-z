@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Chinese Turkey Neck Stew",
+  "description": "A pungent and flaky date-night Chinese dish featuring turkey neck, mirepoix-base, and high-protein-friendly ingredients, cooked in a cataplana vessel.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the sliced ginger and cook for 1 minute.",
+    "Add the turkey neck and cook until browned on all sides.",
+    "Add the soy sauce and enough water to cover the ingredients, then bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour.",
+    "Add the minced garlic and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-chinese-turkey-neck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-chinese-turkey-neck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:03:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "turkey neck",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Zesty Braised",
+    "dishForm": "Stew"
+  }
+}
