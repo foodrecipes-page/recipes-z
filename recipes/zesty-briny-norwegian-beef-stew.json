@@ -1,0 +1,111 @@
+{
+  "title": "Zesty Briny Norwegian Beef Stew",
+  "description": "A hearty and flavorful Norwegian stew featuring beef stock cubes and sous-vide cooking, perfect for a flexitarian diet. This dish is a nostalgic and comforting meal option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock cubes",
+      "amount": "4 cubes",
+      "notes": "low sodium"
+    },
+    {
+      "name": "grain-fed beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled mustard greens",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the beef cubes with salt and black pepper.",
+    "Place the beef cubes in a large sous-vide bag and seal.",
+    "Cook the beef in the sous-vide machine for 24 hours.",
+    "Chop the onions, carrots, and celery into bite-sized pieces.",
+    "Sauté the chopped onions, carrots, and celery in a little water until they are tender.",
+    "Add the pickled mustard greens, beef stock cubes, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer.",
+    "Add the cooked beef, potatoes, and salt to the pot.",
+    "Simmer the stew for 30 minutes or until the potatoes are tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "flexitarian-friendly",
+    "hearty-meal",
+    "norwegian-cuisine",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "zesty-briny-norwegian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-briny-norwegian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:06:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Briny",
+    "dishForm": "Stew"
+  }
+}

@@ -1370,6 +1370,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-briny-norwegian-beef-stew",
+    "title": "Zesty Briny Norwegian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "flexitarian-friendly",
+      "hearty-meal",
+      "norwegian-cuisine",
+      "sous-vide"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-briny-thai-tofu-curry",
     "title": "Zesty Briny Thai Tofu Curry",
     "tags": [
