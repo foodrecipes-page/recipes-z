@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Fresh Italian Tuna Vitello Tonnato",
+  "description": "A fresh and nostalgic Italian dish featuring tuna, capers, and a zesty sauce, made diabetic-friendly with ground nut oil and leaf-wrap-steam cooking method.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tuna",
+      "amount": "12 oz",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "In a large bowl, combine the tuna, capers, lemon juice, garlic, parsley, salt, and pepper, and mix well.",
+    "Lay a lettuce leaf flat on a work surface and place about 1/4 cup of the tuna mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining lettuce leaves and tuna mixture.",
+    "Place the rolls in the steamer, seam-side down, and steam for 10 minutes.",
+    "Remove the rolls from the steamer and let them cool to room temperature.",
+    "Drizzle the ground nut oil over the rolls and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "healthy",
+    "italian-food",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-fresh-italian-tuna-vitello-tonnato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fresh-italian-tuna-vitello-tonnato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:07:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "ground nut oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tuna",
+    "descriptor": "Zesty Fresh",
+    "dishForm": "Vitello Tonnato"
+  }
+}

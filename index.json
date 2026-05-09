@@ -4920,6 +4920,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fresh-italian-tuna-vitello-tonnato",
+    "title": "Zesty Fresh Italian Tuna Vitello Tonnato",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "healthy",
+      "italian-food",
+      "seafood",
+      "steamed"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fresh-provencal-sausage-salad",
     "title": "Zesty Fresh Provencal Sausage Salad",
     "tags": [
