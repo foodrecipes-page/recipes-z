@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Middle Eastern Black Pudding Pilaf",
+  "description": "A light and flavorful Middle Eastern dish featuring black pudding, served in a terracotta dish. This shojin-friendly pilaf is perfect for a quick and easy lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large terracotta dish over medium heat.",
+    "Add the mustard seeds and cumin seeds and cook until fragrant.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the paprika and salt and cook for 1 minute.",
+    "Add the crumbled black pudding and cook until lightly browned.",
+    "Add the basmati rice and cook until the rice is lightly toasted.",
+    "Add 4 cups of water to the dish and bring to a boil.",
+    "Reduce the heat to low and cover the dish with a lid.",
+    "Simmer for 20 minutes or until the water is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "lunch",
+    "middle-eastern",
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-middle-eastern-black-pudding-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-black-pudding-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:18:44Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "black pudding",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "middle eastern",
+    "mainIngredient": "black pudding",
+    "descriptor": "zesty snappy",
+    "dishForm": "Pilaf"
+  }
+}
