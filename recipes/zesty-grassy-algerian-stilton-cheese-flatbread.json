@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Grassy Algerian Stilton Cheese Flatbread",
+  "description": "A quick and flavorful Algerian-inspired dish featuring Stilton cheese, confit tomato, and fresh herbs, perfect for a snack or light meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "1 cup crumbled",
+      "notes": "English blue cheese"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "curly or flat-leaf"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup chopped",
+      "notes": "peppermint or spearmint"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the flatbread into 1-inch strips and place on a baking sheet.",
+    "Drizzle the olive oil over the flatbread and sprinkle with minced garlic, if using.",
+    "Bake the flatbread in the preheated oven for 5 minutes, or until lightly toasted.",
+    "Remove the flatbread from the oven and top each piece with a spoonful of confit tomato.",
+    "Sprinkle the crumbled Stilton cheese over the tomato.",
+    "Return the flatbread to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbread from the oven and sprinkle with chopped parsley and mint.",
+    "Season with salt and black pepper to taste.",
+    "Serve the flatbread warm, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "cheese-lovers",
+    "easy-snacks",
+    "flatbread-recipes",
+    "herb-infused",
+    "kosher-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "zesty-grassy-algerian-stilton-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grassy-algerian-stilton-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:10:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "confit-tomato",
+    "primaryIngredient": "stilton cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Flatbread"
+  }
+}
