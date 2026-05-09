@@ -9617,6 +9617,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-syrian-red-cabbage-stew",
+    "title": "Zesty Syrian Red Cabbage Stew",
+    "tags": [
+      "comfort-food",
+      "red-cabbage",
+      "satvik-friendly",
+      "sous-vide",
+      "syrian-cuisine",
+      "winter-stew"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 150,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-tangy-argentinian-pecan-empanadas",
     "title": "Zesty Tangy Argentinian Pecan Empanadas",
     "tags": [
