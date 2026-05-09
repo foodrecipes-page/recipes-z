@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crispy British Sausages Full English Breakfast",
+  "description": "A hearty British breakfast featuring crispy sausages, earthy mushrooms, and fresh parsley, all steamed to perfection in a bamboo steamer. This dish is anti-inflammatory friendly and perfect for a midnight craving.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "4",
+      "notes": "preferably made with pork and sage"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with 2 inches of water and bring to a boil.",
+    "Reduce the heat to a simmer and place a bamboo steamer over the pot.",
+    "Add the British sausages to the steamer and cook for 5 minutes on each side, or until crispy and golden brown.",
+    "While the sausages are cooking, heat the olive oil in a pan over medium heat and add the mushrooms, cooking until they release their moisture and start to brown.",
+    "Add the chopped parsley to the pan and cook for an additional minute.",
+    "Add the eggs to the pan and scramble them until they are cooked through.",
+    "Add the halved tomatoes to the steamer and cook for an additional 2 minutes.",
+    "To assemble the dish, place a cooked sausage on each plate, followed by a spoonful of scrambled eggs, a spoonful of mushrooms and parsley, a tomato half, and a spoonful of baked beans.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "zesty-crispy-british-sausages-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-british-sausages-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:13:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "chopped parsley",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sausages",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Full English Breakfast"
+  }
+}
