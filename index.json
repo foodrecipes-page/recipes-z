@@ -11107,6 +11107,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-smoky-turkish-potatoes-menemen",
+    "title": "Zesty Smoky Turkish Potatoes Menemen",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "smoky",
+      "spicy",
+      "turkish",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-smoky-turkish-shrimp-pilaf",
     "title": "Zesty Smoky Turkish Shrimp Pilaf",
     "tags": [
