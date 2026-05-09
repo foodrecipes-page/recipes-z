@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Crunchy Tunisian Pineapple Bowl",
+  "description": "A nutty and crunchy Tunisian dish featuring pineapple chunks, served in a stone bowl, pescatarian friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tunisian spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crushed pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a bowl, mix together the sliced almonds and crushed pistachios.",
+    "Spread the almond and pistachio mixture on a baking sheet and toast in the oven for 5 minutes.",
+    "In a large stone bowl, combine the toasted almond and pistachio mixture, pineapple chunks, and dried cranberries.",
+    "In a small bowl, whisk together the tunisian spice mix, olive oil, and honey.",
+    "Pour the spice and oil mixture over the pineapple mixture and toss to coat.",
+    "Sprinkle the sea salt over the top of the pineapple mixture.",
+    "Serve the Zesty Crunchy Tunisian Pineapple Bowl immediately.",
+    "Garnish with additional sliced almonds and crushed pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "high-protein",
+    "one-bowl",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-crunchy-tunisian-pineapple-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-tunisian-pineapple-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:18:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Bowl"
+  }
+}
