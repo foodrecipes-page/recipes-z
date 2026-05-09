@@ -1,0 +1,108 @@
+{
+  "title": "Zingy Savory Canadian Spring Bake",
+  "description": "A savory spring-inspired Canadian dish made with katsuramuki-cut vegetables and a tangy white vinegar glaze, perfect for a quick and energizing spring weeknight dinner.",
+  "cuisine": "Canadian",
+  "meal": "dinner",
+  "diet": [],
+  "ingredients": [
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "4 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "katsuramuki-cut beets",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "katsuramuki-cut parsnips",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large Dutch oven, combine the olive oil, katsuramuki-cut carrots, beets, and parsnips. Toss to coat with the oil and season with salt and black pepper.",
+    "Roast the vegetables for 20 minutes, or until they begin to tenderize.",
+    "Add the sweet potatoes and garlic to the pot. Toss to combine and continue roasting for an additional 15 minutes.",
+    "Remove the pot from the oven and stir in the white vinegar, balsamic glaze, and fresh thyme. Return the pot to the oven and roast for an additional 5 minutes.",
+    "Remove the pot from the oven and let cool slightly. Serve the spring bake hot, topped with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "easy-weeknight",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "savory",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "zingy-savory-canadian-springy-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zingy-savory-canadian-springy-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "white vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "springy",
+    "descriptor": "zingy savory",
+    "dishForm": "bake"
+  }
+}
