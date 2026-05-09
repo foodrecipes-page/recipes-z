@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Smoky British Sausages Toad In The Hole",
+  "description": "A classic British dish with a smoky twist, featuring Cornish sausages in a light and flavorful batter, slow-cooked to perfection in a donabe vessel.",
+  "cuisine": "British",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornish sausages",
+      "amount": "4",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat the vegetable oil in the donabe vessel over medium heat.",
+    "Add the Cornish sausages to the donabe and cook until browned on all sides.",
+    "Pour the batter over the sausages in the donabe.",
+    "Transfer the donabe to the preheated oven and bake for 25 minutes.",
+    "Remove the donabe from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "gluten-free",
+    "low-fodmap",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-smoky-british-sausages-toad-in-the-hole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-british-sausages-toad-in-the-hole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:04:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "hail",
+    "diet": "fodmap",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Toad In The Hole"
+  }
+}
