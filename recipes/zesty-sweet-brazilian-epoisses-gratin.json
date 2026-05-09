@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Sweet Brazilian Epoisses Gratin",
+  "description": "A sweet and gooey one-pot Brazilian dish featuring epoisses cheese, cooked in a bain-marie for a low-fat friendly meal option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "epoisses cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced sweet potato, chopped onion, and minced garlic.",
+    "In a separate bowl, mix together the softened epoisses cheese, low-fat coconut milk, brown sugar, cumin, paprika, salt, and black pepper.",
+    "Add the cheese mixture to the sweet potato mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and place it in a larger baking dish filled with water to create a bain-marie.",
+    "Bake for 35 minutes or until the top is golden brown and the gratin is set.",
+    "Remove the dish from the bain-marie and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "comfort-food",
+    "low-fat",
+    "one-pot",
+    "sweet-and-savory",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-sweet-brazilian-epoisses-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-brazilian-epoisses-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:23:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "bain-marie",
+    "primaryIngredient": "epoisses",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Gratin"
+  }
+}
