@@ -4495,6 +4495,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-garlicky-brazilian-cheese-fritters",
+    "title": "Zesty Garlicky Brazilian Cheese Fritters",
+    "tags": [
+      "brazilian-food",
+      "cheese-fritters",
+      "deep-fried",
+      "garlicky",
+      "romantic-dish",
+      "vegetarian-snack"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-garlicky-canadian-fennel-skillet",
     "title": "Zesty Garlicky Canadian Fennel Skillet",
     "tags": [

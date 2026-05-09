@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Garlicky Brazilian Cheese Fritters",
+  "description": "These garlicky cheese fritters are a romantic Brazilian dish featuring nutmeg, perfect for a night in with someone special, and are also ayurvedic-rajasic-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly Brazilian cheese"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the crumbled queso fresco, minced garlic, and nutmeg, and mix well.",
+    "In a separate bowl, whisk together the flour, eggs, and milk to make a smooth batter.",
+    "Add the batter to the cheese mixture and stir until just combined, being careful not to overmix.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the cheese mixture into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy.",
+    "Garnish with chopped fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "cheese-fritters",
+    "deep-fried",
+    "garlicky",
+    "romantic-dish",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-garlicky-brazilian-cheese-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-garlicky-brazilian-cheese-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:05:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "nutmeg",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Fritters"
+  }
+}
