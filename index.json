@@ -6414,6 +6414,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-light-jamaican-chicken-papillote",
+    "title": "Zesty Light Jamaican Chicken Papillote",
+    "tags": [
+      "chicken-dish",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-light-korean-chicken-wings-bowl",
     "title": "Zesty Light Korean Chicken Wings Bowl",
     "tags": [

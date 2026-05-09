@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Light Jamaican Chicken Papillote",
+  "description": "A winey and light Jamaican dish featuring unsweetened cocoa, perfect for a hangover cure, made with chicken cooked in a papillote with a blend of spices and herbs. This dish is nut-free-friendly and packed with flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cocoa powder, olive oil, white wine, scotch bonnet peppers, garlic, thyme, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Cut a large piece of parchment paper into a rectangle, about 1/4 inch thick.",
+    "Place the chicken in the center of the parchment paper, leaving a 1-inch border around the chicken.",
+    "Fold the parchment paper over the chicken, creating a tight seal.",
+    "Place the papillote on a baking sheet and bake for 25 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes.",
+    "Serve the chicken hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zesty-light-jamaican-chicken-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-jamaican-chicken-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:37:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Light",
+    "dishForm": "Papillote"
+  }
+}
