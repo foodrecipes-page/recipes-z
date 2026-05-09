@@ -1,0 +1,99 @@
+{
+  "title": "zesty citrusy japanese danmuji bake",
+  "description": "a comforting japanese dish featuring danmuji, perfect for a cold evening. inspired by hokkaido cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "danmuji (korean-style pickled radish)",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "grease 4 ramekins with coconut oil.",
+    "mix together danmuji, turmeric, and honey in a bowl.",
+    "add in orange and yuzu juice, and mix until combined.",
+    "season with salt and black pepper to taste.",
+    "divide danmuji mixture among the ramekins.",
+    "bake for 20 minutes, or until tops are lightly browned.",
+    "remove from oven and brush with rice vinegar.",
+    "allow to cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "easiest-weeknight-dinner",
+    "jain",
+    "one-bowl",
+    "snappy-food",
+    "under-30-minutes",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "zesty-citrusy-japanese-danmuji-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-japanese-danmuji-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:03:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "bake",
+    "primaryIngredient": "danmuji",
+    "diet": "jain",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Danmuji",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Bake"
+  }
+}
