@@ -1,0 +1,101 @@
+{
+  "title": "Zesty, Juicy, Fresh Middle Eastern Cucumbers Warak Enab (Pickled Cucumbers in a Jar)",
+  "description": "A flavorful and refreshing Middle Eastern dish made with pickled cucumbers, featuring a unique twist from Thai green curry paste. Perfect for hot summer days or as a crunchy snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumbers (4)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar (1/2)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water (1/2)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green curry paste (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (4 cloves)",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt (1/4 tsp)",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (1/4 tsp)",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the cucumbers thoroughly, removing any seeds or blemishes.",
+    "In a medium saucepan, combine the red wine vinegar, water, green curry paste, garlic, salt, and black pepper.",
+    "Bring the mixture to a simmer over medium heat, whisking constantly.",
+    "Reduce the heat to low and let it simmer for 5 minutes.",
+    "Pack the sliced cucumbers into a clean 1-quart mason jar, leaving about 1 inch of space at the top.",
+    "Pour the hot pickling liquid over the cucumbers, making sure they are completely covered.",
+    "Seal the jar and let it cool to room temperature.",
+    "Refrigerate the jar for at least 2 hours or overnight before serving.",
+    "Just before serving, garnish with chopped fresh dill.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "middle-eastern",
+    "pickled",
+    "refreshing",
+    "snack",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 11,
+    "fat": 0
+  },
+  "slug": "zesty-juicy-fresh-middle-eastern-cucumbers-warak-enab-pickled-cucumbers-in-a-jar",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-fresh-middle-eastern-cucumbers-warak-enab-pickled-cucumbers-in-a-jar",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:38:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "dehydrate",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Cucumbers",
+    "descriptor": "Zesty, Juicy, Fresh",
+    "dishForm": "Warak Enab (Pickled Cucumbers in a Jar)"
+  }
+}
