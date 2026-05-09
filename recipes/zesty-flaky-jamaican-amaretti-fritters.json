@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Flaky Jamaican Amaretti Fritters",
+  "description": "A Whole30-friendly Jamaican dish featuring amaretti cookies, deep-fried to a crispy perfection, with a zesty and adventurous twist.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "amaretti cookies",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine crushed amaretti cookies, almond flour, coconut flour, and desiccated coconut.",
+    "In a separate bowl, whisk together egg, coconut oil, lime juice, and a pinch of salt.",
+    "Add the diced scotch bonnet pepper to the egg mixture and stir well.",
+    "Pour the egg mixture into the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Heat about 2-3 inches of coconut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place the dough balls into the hot oil and fry for 2-3 minutes on each side, until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Zesty Flaky Jamaican Amaretti Fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "deep-fried",
+    "gluten-free",
+    "jamaican-cuisine",
+    "snack-recipes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "zesty-flaky-jamaican-amaretti-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-jamaican-amaretti-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:28:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "amaretti",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "amaretti",
+    "descriptor": "Zesty flaky",
+    "dishForm": "Fritters"
+  }
+}
