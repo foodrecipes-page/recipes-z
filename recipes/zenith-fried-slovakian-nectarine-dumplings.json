@@ -1,0 +1,104 @@
+{
+  "title": "Zenith Fried Slovakian Nectarine Dumplings",
+  "description": "A savory Slovakian dish featuring nectarines, fried to a crispy perfection and wrapped in pandan leaves, inspired by the peaceful atmosphere of Buddhist temples.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, potato starch, and a pinch of salt.",
+    "Gradually add milk and eggs to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few pieces of diced nectarine in the center of each disk.",
+    "Fold the dough over the nectarine filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Wrap each dumpling in a pandan leaf, making sure to cover the entire dumpling.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place the dumplings in the hot oil and fry until golden brown, about 3-4 minutes on each side.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "nectarine",
+    "pandan",
+    "savory",
+    "slovakian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zenith-fried-slovakian-nectarine-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-fried-slovakian-nectarine-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:21:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "fry",
+    "primaryIngredient": "nectarines",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Zenith Fried",
+    "dishForm": "Dumplings"
+  }
+}
