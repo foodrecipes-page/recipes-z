@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Snappy Russian Kabanos Skillet",
+  "description": "A tangy and snappy Russian-inspired dish featuring kabanos sausages, perfect for a brunch mood, and is dairy-free friendly. This recipe combines the flavors of Russia with a modern twist.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "4",
+      "notes": "snappy Russian sausages"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the diced tomato and cook for 2 minutes, until they start to soften.",
+    "Add the kabanos sausages to the skillet and cook for 2 minutes on each side, until browned.",
+    "In a small bowl, whisk together the lemon juice and sodium alginate.",
+    "Using a syringe or spoon, drop small amounts of the lemon mixture into a bath of cold water to create spheres.",
+    "Add the spheres to the skillet and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve the skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-snappy-russian-kabanos-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-snappy-russian-kabanos-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:13:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kabanos sausages",
+    "descriptor": "Zesty Snappy",
+    "dishForm": "Skillet"
+  }
+}
