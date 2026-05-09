@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Light Jamaican Baby Aubergine Curry",
+  "description": "A light and earthy Jamaican curry featuring baby aubergine, this dish is perfect for those looking for a flavorful and crumbly meal without onion or garlic.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the chopped scotch bonnet pepper and cook for another minute.",
+    "Add the baby aubergine and cook until they start to soften, about 5 minutes.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "Stir in the salt, black pepper, and lime juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with chopped cilantro, in a copper mug."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-light-jamaican-baby-aubergine-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-jamaican-baby-aubergine-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:52:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "baby aubergine",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Zesty Light",
+    "dishForm": "Curry"
+  }
+}
