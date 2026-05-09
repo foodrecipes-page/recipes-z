@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Snappy Japanese Mixed Berries Takikomi Gohan",
+  "description": "A Japanese dish featuring frozen mixed berries and umami flavors, with a snappy texture from char-grilled elements, all in a low-fat friendly takikomi-gohan form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "frozen mixed berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1/2 cup",
+      "notes": "diced and char-grilled"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and drain well.",
+    "In a medium saucepan, combine the rice and 1 3/4 cups of water, then bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the rice is cooking, char-grill the diced chicken breast until it is cooked through.",
+    "In a small bowl, whisk together the soy sauce, mirin, and sesame oil.",
+    "Once the rice is cooked, fluff it with a fork and stir in the frozen mixed berries, grilled chicken, green onions, and the soy sauce mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Zesty Snappy Japanese Mixed Berries Takikomi Gohan hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "japanese-cuisine",
+    "low-fat",
+    "mixed-berries",
+    "one-pot",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-snappy-japanese-mixed-berries-takikomi-gohan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-snappy-japanese-mixed-berries-takikomi-gohan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:21:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mixed berries",
+    "descriptor": "Zesty Snappy",
+    "dishForm": "Takikomi Gohan"
+  }
+}
