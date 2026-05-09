@@ -8026,6 +8026,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-moroccan-olive-tagine",
+    "title": "Zesty Moroccan Olive Tagine",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "moroccan",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-moroccan-rice-pilaf",
     "title": "Zesty Moroccan Rice Pilaf",
     "tags": [

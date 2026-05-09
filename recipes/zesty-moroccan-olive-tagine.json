@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Moroccan Olive Tagine",
+  "description": "A garlicky and comforting Moroccan dish featuring olives, this tagine is perfect for a weeknight dinner, and is egg free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Chop the onion and mince the garlic.",
+    "Heat the olive oil in the bottom of a large cazuela over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato paste, cumin, paprika, salt, and pepper, and stir to combine.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Add the green olives and stir to combine.",
+    "Cover the cazuela and transfer it to the preheated oven.",
+    "Bake for 30 minutes, or until the tagine is hot and the flavors have melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "moroccan",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-moroccan-olive-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-olive-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:16:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "spherify",
+    "primaryIngredient": "olives",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "olives",
+    "descriptor": "Zesty Garlicky",
+    "dishForm": "Tagine"
+  }
+}
