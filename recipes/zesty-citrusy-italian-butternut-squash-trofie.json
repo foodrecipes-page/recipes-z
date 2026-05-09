@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Citrusy Italian Butternut Squash Trofie",
+  "description": "A citrusy and snappy Italian dish featuring butternut squash, perfect for a post-workout meal. This sugar-free-friendly recipe is made with trofie pasta and flavored with zesty citrus.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trofie pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "butternut squash",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the trofie pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the cubed butternut squash to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the lemon juice and orange zest, and season with salt and black pepper.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the squash mixture.",
+    "Transfer the pasta to a serving dish and top with shaved grana padano cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional orange zest if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-recipes",
+    "italian-food",
+    "pasta-dishes",
+    "post-workout",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-citrusy-italian-butternut-squash-trofie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-italian-butternut-squash-trofie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:26:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "butternut squash",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Trofie"
+  }
+}
