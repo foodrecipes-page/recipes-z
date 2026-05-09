@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Smoky Jamaican Chicken Skewers",
+  "description": "A smoky and crunchy Jamaican dish featuring candied peel and coconut cream, perfect for a romantic evening. This kosher-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Sprinkle the candied peel over the skewers during the last minute of cooking.",
+    "Serve the skewers hot, garnished with additional candied peel if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "kosher-friendly",
+    "romantic-dinner",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-smoky-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:03:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "candied peel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skewers"
+  }
+}
