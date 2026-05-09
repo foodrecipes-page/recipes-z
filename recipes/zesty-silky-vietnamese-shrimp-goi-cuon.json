@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Silky Vietnamese Shrimp Goi Cuon",
+  "description": "A kid-friendly Vietnamese dish featuring shrimp and vegetables wrapped in silky rice paper, flavored with paprika and a hint of flambe, suitable for shojin-friendly diets",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "shojin",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice paper wrappers",
+      "amount": "12 sheets",
+      "notes": "silky and round"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vermicelli noodles",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "flambe sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with warm water to soak the rice paper wrappers",
+    "In a separate bowl, mix together the shrimp, paprika, and a pinch of salt",
+    "Add the julienned carrots, sliced cucumber, and chopped mint leaves to the bowl with the shrimp",
+    "Stir in the cooked vermicelli noodles and flambe sauce",
+    "Soak a rice paper wrapper in the warm water for about 10 seconds",
+    "Place about 1/4 cup of the shrimp and vegetable mixture onto the center of the wrapper",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder",
+    "Repeat with the remaining wrappers and filling",
+    "Serve the goi cuon immediately, garnished with additional mint leaves if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-lunch",
+    "healthy-snack",
+    "kid-friendly",
+    "shrimp-recipes",
+    "vegetarian-option",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-silky-vietnamese-shrimp-goi-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-vietnamese-shrimp-goi-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:49:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "paprika",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Goi Cuon"
+  }
+}
