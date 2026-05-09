@@ -1,0 +1,88 @@
+{
+  "title": "Zesty Indulgent German Peach Casserole",
+  "description": "A fermented, gooey, and indulgent German dish featuring peach juice and bhuna, perfect for ovo-vegetarian diets. This casserole is a unique blend of flavors and textures.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peach juice",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the peach juice, bhuna sauce, and sugar until well combined.",
+    "Add the sauerkraut, eggs, and flour to the bowl, stirring until a thick batter forms.",
+    "Pour the batter into a 9x13 inch baking dish and dot the top with melted butter.",
+    "Bake the casserole for 35 minutes, or until the top is golden brown and the center is set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve the casserole warm, garnished with additional sauerkraut and peach slices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "desserts",
+    "fermented-foods",
+    "german-cuisine",
+    "ovo-vegetarian",
+    "peach-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-indulgent-german-peach-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-german-peach-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:58:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "peach juice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peaches",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Casseroles"
+  }
+}
