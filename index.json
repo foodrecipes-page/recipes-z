@@ -5335,6 +5335,34 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-german-haricot-bean-stew",
+    "title": "Zesty German Haricot Bean Stew",
+    "tags": [
+      "german-cuisine",
+      "high-fiber",
+      "one-pot",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-german-long-bean-curry",
+    "title": "Zesty German Long Bean Curry",
+    "tags": [
+      "german-cuisine",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-german-potato-dumplings",
     "title": "Zesty German Potato Dumplings",
     "tags": [

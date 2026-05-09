@@ -1,0 +1,99 @@
+{
+  "title": "Zesty German Haricot Bean Stew",
+  "description": "A spicy and springy German stew featuring haricot beans, this dish is perfect for a solo dinner, and it is paleo-friendly, served in a tagliere vessel.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the haricot beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the beans, then place them in a large pot with the chicken broth.",
+    "Bring the broth to a boil, then reduce the heat to a simmer.",
+    "Add the chopped onion, garlic, carrot, and celery to the pot.",
+    "Add the paprika, salt, and black pepper to the pot and stir to combine.",
+    "Continue to simmer the stew for 45 minutes, or until the beans are tender.",
+    "Use a fork to mash some of the beans against the side of the pot to thicken the stew.",
+    "Serve the stew hot in a tagliere vessel.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-fiber",
+    "one-pot",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-german-haricot-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-german-haricot-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:38:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "haricot beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "haricot beans",
+    "descriptor": "Zesty Boiled",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Zesty German Long Bean Curry",
+  "description": "A mustardy and tender German dish featuring long-bean, tadka, and kosher-friendly ingredients, perfect for adventurous eaters.",
+  "cuisine": "German",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and add mustard seeds, letting them sizzle for a few seconds.",
+    "Add chopped onion and saute until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the cut long beans, curry powder, salt, and black pepper, and stir to combine.",
+    "Cook for 5 minutes, or until the long beans start to soften.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Pour in coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let the curry simmer for 15 minutes, or until the long beans are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-german-long-bean-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-german-long-bean-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:38:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "long-bean",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "long bean",
+    "descriptor": "zesty tender",
+    "dishForm": "Curry"
+  }
+}
