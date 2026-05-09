@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Korean Linguine Pasta Hwajeon",
+  "description": "A salty, fluffy, and comforting Korean dish featuring linguine pasta, perfect for a sick day, infused with low-calorie friendly ingredients in the form of hwajeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to the package instructions until al dente.",
+    "In a small bowl, whisk together the infuse oil, soy sauce, and sesame oil to make the sauce.",
+    "In a large skillet, heat the sauce over medium heat and add the minced garlic, cooking for 1 minute until fragrant.",
+    "Add the chopped green onions to the skillet and cook for an additional 1 minute until wilted.",
+    "Drain the cooked linguine pasta and add it to the skillet, tossing to combine with the sauce and green onions.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and sprinkle with toasted sesame seeds.",
+    "Serve the Zesty Korean Linguine Pasta Hwajeon hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-inspired",
+    "low-calorie",
+    "one-pot",
+    "quick-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-korean-linguine-pasta-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-korean-linguine-pasta-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:24:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "linguine pasta",
+    "diet": "low-calorie",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Zesty",
+    "dishForm": "Hwajeon"
+  }
+}
