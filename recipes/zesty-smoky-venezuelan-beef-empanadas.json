@@ -1,0 +1,107 @@
+{
+  "title": "Zesty Smoky Venezuelan Beef Empanadas",
+  "description": "A kid-friendly Venezuelan dish featuring hot smoked paprika, these empanadas are perfect for a snack or lunch, with a cultured and flaky crust, and can be served on a slate-tile vessel.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the hot smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg and fold the dough in half to form a half-moon shape, pressing the edges together to seal the empanada.",
+    "Place the empanadas on a slate-tile vessel or baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with the melted score fat.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "beef-empanadas",
+    "flaky-crust",
+    "kid-friendly",
+    "kosher-friendly",
+    "smoky-flavor",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "zesty-smoky-venezuelan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-venezuelan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:06:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Empanadas"
+  }
+}
