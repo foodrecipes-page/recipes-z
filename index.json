@@ -502,6 +502,22 @@
     "shard": "z"
   },
   {
+    "slug": "zero-waste-norwegian-seaweed-roast",
+    "title": "Zero Waste Norwegian Seaweed Roast",
+    "tags": [
+      "briny",
+      "indulgent",
+      "norwegian",
+      "praline",
+      "roast",
+      "seaweed",
+      "vegan"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zero-waste-uruguayan-tofu-stew",
     "title": "Uruguayan Tofu Stew",
     "tags": [
