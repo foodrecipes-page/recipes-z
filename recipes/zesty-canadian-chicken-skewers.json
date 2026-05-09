@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Canadian Chicken Skewers",
+  "description": "A low-fat and flavorful Canadian dish featuring chicken skewers with a zesty barbeque sauce, cooked to crispy perfection in a clay pot and served on a wooden board.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together barbeque sauce, lemon juice, olive oil, garlic powder, paprika, salt, and pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the sauce mixture.",
+    "Thread the chicken pieces onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers in the preheated clay pot and cook for 20 minutes, turning occasionally.",
+    "Increase the temperature to 425 degrees Fahrenheit and cook for an additional 10 minutes, or until the chicken is cooked through and crispy.",
+    "Remove the skewers from the clay pot and serve on a wooden board.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "chicken-recipes",
+    "clay-pot-cooking",
+    "low-fat",
+    "wooden-skewers",
+    "zesty-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "zesty-canadian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-canadian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:13:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Skewers"
+  }
+}
