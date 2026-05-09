@@ -5848,6 +5848,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-juicy-australian-lamb-kebabs",
+    "title": "Zesty Juicy Australian Lamb Kebabs",
+    "tags": [
+      "australian-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-juicy-fresh-middle-eastern-cucumbers-warak-enab-pickled-cucumbers-in-a-jar",
     "title": "Zesty, Juicy, Fresh Middle Eastern Cucumbers Warak Enab (Pickled Cucumbers in a Jar)",
     "tags": [
