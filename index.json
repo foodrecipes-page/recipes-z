@@ -293,6 +293,20 @@
     "shard": "z"
   },
   {
+    "slug": "zero-gravity-russian-beef-roast",
+    "title": "Zero Gravity Russian Beef Roast",
+    "tags": [
+      "comfort-food",
+      "hearty-beef",
+      "homemade-gravy",
+      "one-pot",
+      "winter-dish"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
     "slug": "zero-gravity-saudi-arabian-baby-squid-pilaf",
     "title": "Zero Gravity Saudi Arabian Baby Squid Pilaf",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Zero Gravity Russian Beef Roast",
+  "description": "A hearty and comforting Russian dish featuring tender beef in a rich gravy, made with macrobiotic-friendly ingredients. This recipe is perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "3 pounds",
+      "notes": "fatty cut such as chuck or brisket"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef roast with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast on all sides until browned, then remove from pot.",
+    "Add the sliced onions to the pot and cook until they are softened and lightly browned.",
+    "Add the chopped carrots and potatoes to the pot, cooking for an additional 5 minutes.",
+    "Add the beef broth, tomato paste, and browned beef roast to the pot, covering with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Strain the gravy and serve it over the sliced beef and vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-beef",
+    "homemade-gravy",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "zero-gravity-russian-beef-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-gravity-russian-beef-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:48:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "beef gravy",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Zero gravity",
+    "dishForm": "Roast"
+  }
+}
