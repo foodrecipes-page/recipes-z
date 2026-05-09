@@ -1,0 +1,120 @@
+{
+  "title": "Zesty Mustardy Lamb Stew Yorkshire",
+  "description": "A hearty, comforting stew from Yorkshire, England, featuring tender lamb, a rich mustard sauce, and a creamy finish.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound lamb shoulder, cut into 1 1/2-inch pieces",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "1 cup lamb broth",
+      "amount": "1",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "1 cup water",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons Dijon mustard",
+      "amount": "2",
+      "notes": "French-style mustard"
+    },
+    {
+      "name": "2 tablespoons prepared horseradish",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1",
+      "notes": "fresh or dried, whichever you prefer"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": "be mindful of salt intake"
+    },
+    {
+      "name": "1/2 cup single cream",
+      "amount": "1/2",
+      "notes": "for richness and creaminess"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "2",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Reduce heat to medium and cook onion and garlic until softened, about 5 minutes.",
+    "Stir in mustard, horseradish, thyme, and salt; cook for 1 minute.",
+    "Add broth, water, and browned lamb; bring to a boil.",
+    "Cover pot and transfer to oven; cook for 2 1/2 hours.",
+    "Remove pot from oven and stir in flour to thicken sauce.",
+    "Return pot to stovetop and stir in single cream until heated through.",
+    "Serve hot, garnished with fresh herbs or chives if desired.",
+    "To make lacquer glaze, mix equal parts mustard and single cream in a small bowl; brush over lamb during last 30 minutes of cooking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "comfort-food",
+    "easy-to-make",
+    "lamb",
+    "mustardy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 14,
+    "fat": 38
+  },
+  "slug": "zesty-mustardy-lamb-stew-yorkshire",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-mustardy-lamb-stew-yorkshire",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:12:03Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "single cream",
+    "diet": "low-sodium",
+    "region": "yorkshire",
+    "cuisineAdjective": "monsoon british (yorkshire)",
+    "mainIngredient": "lamb",
+    "descriptor": "zesty mustardy creamy",
+    "dishForm": "stew"
+  }
+}
