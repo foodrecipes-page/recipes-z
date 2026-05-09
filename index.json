@@ -8556,6 +8556,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-peruvian-beef-stew",
+    "title": "Zesty Peruvian Beef Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "peruvian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-peruvian-chicken-aji-de-gallina",
     "title": "Zesty Peruvian Chicken Aji De Gallina",
     "tags": [
