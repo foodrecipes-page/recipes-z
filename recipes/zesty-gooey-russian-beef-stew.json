@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Gooey Russian Beef Stew",
+  "description": "A hearty and flavorful Russian-inspired stew made with cranberry juice and grilled beef, served in a donabe vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yakimono-grill sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat and grill the beef short ribs until browned on all sides.",
+    "In a large donabe vessel, combine the grilled beef short ribs, cranberry juice, beef broth, yakimono-grill sauce, onion, garlic, carrots, and potatoes.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 hours, or until the meat is tender and the vegetables are cooked through.",
+    "Stir in the chopped fresh dill and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional fresh dill if desired.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Serve the stew in bowls and enjoy as a solo dinner.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "cranberry-juice",
+    "donabe-recipes",
+    "egg-free",
+    "gluten-free",
+    "russian-cuisine",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "zesty-gooey-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:27:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cranberry juice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Stew"
+  }
+}
