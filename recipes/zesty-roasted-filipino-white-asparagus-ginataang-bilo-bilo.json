@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Roasted Filipino White Asparagus Ginataang Bilo Bilo",
+  "description": "A kid-friendly Filipino dish featuring roasted white asparagus in a creamy coconut milk broth, served with soft and chewy bilo bilo balls.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "glutinous rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and arrange the white asparagus in a single layer.",
+    "Drizzle the asparagus with vegetable oil and season with salt.",
+    "Roast the asparagus in the preheated oven for 12 minutes, or until tender.",
+    "In a large pot, combine the coconut milk, water, sugar, and grated ginger.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium low.",
+    "In a small bowl, mix together the glutinous rice flour and a small amount of water to form a dough.",
+    "Use the dough to form small balls, about 1 inch in diameter.",
+    "Add the bilo bilo balls to the pot and cook for an additional 5 minutes, or until they float to the surface.",
+    "Stir in the minced garlic and cook for 1 minute.",
+    "Add the roasted asparagus to the pot and cook for 2 minutes, or until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipe",
+    "coconut-milk",
+    "filipino-food",
+    "gluten-free",
+    "kid-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-roasted-filipino-white-asparagus-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-filipino-white-asparagus-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "white asparagus",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}

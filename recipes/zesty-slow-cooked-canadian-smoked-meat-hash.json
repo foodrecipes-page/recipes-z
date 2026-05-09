@@ -1,0 +1,104 @@
+{
+  "title": "Zesty slow cooked Canadian smoked meat Hash",
+  "description": "A spicy and flavorful Canadian dish featuring slow-cooked smoked meat, perfect for a brunch mood, made with oil and kosher-friendly ingredients. This dish is sure to satisfy your cravings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked meat",
+      "amount": "1 pound",
+      "notes": "Canadian style"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, thinly sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 1 tablespoon of vegetable oil, smoked paprika, garlic powder, salt, black pepper, and cayenne pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are slightly tender.",
+    "While the potatoes are roasting, heat the remaining 1 tablespoon of vegetable oil in a large skillet over medium heat.",
+    "Add the sliced onions to the skillet and cook, stirring occasionally, until they are softened and lightly browned, about 10 minutes.",
+    "Add the sliced bell peppers to the skillet and continue to cook, stirring occasionally, until they are tender, about 5 minutes.",
+    "Add the smoked meat to the skillet, stirring to break it up with the onions and bell peppers, and cook until it is heated through.",
+    "Add the roasted potatoes to the skillet and stir to combine with the smoked meat mixture.",
+    "Reduce heat to low and simmer the hash, stirring occasionally, for 10 minutes, allowing the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "canadian-cuisine",
+    "hash-recipe",
+    "kosher-friendly",
+    "slow-cooked",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-slow-cooked-canadian-smoked-meat-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-slow-cooked-canadian-smoked-meat-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "smoked meat",
+    "descriptor": "Zesty slow cooked",
+    "dishForm": "Hash"
+  }
+}
