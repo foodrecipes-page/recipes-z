@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Smoky Saudi Arabian Lamb Kebabs",
+  "description": "A traditional Saudi Arabian dish featuring smoky paprika and lamb, perfect for a weeknight dinner. This keto-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoky paprika, garlic powder, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Brush the kebabs with lemon juice during the last minute of cooking.",
+    "Remove the kebabs from the grill and garnish with chopped parsley.",
+    "Serve the kebabs hot, with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "keto-friendly",
+    "lamb",
+    "low-carb",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "zesty-smoky-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:37:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "smoky paprika",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Kebabs"
+  }
+}
