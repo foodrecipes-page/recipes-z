@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Peruvian Prawns Ceviche",
+  "description": "A refreshing and protein-rich Peruvian dish featuring raw frozen prawns, perfect for a post-workout snack. This paleo-friendly recipe combines the flavors of citrus, ginger, and aji amarillo peppers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Thaw the frozen prawns according to package instructions and peel them.",
+    "In a blender or food processor, combine lime juice, grapefruit juice, ginger, and aji amarillo peppers and blend until smooth.",
+    "In a large bowl, combine the prawns, blended juice mixture, red onion, and cilantro.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Before serving, give the mixture a good stir and adjust the seasoning if necessary.",
+    "Serve the ceviche in small glasses or cups and garnish with additional cilantro if desired.",
+    "This dish is best consumed immediately, but it can be stored in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "paleo-friendly",
+    "peruvian-cuisine",
+    "raw-seafood",
+    "sous-vide",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "zesty-peruvian-prawns-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-peruvian-prawns-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:08:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "prawns",
+    "descriptor": "Zesty",
+    "dishForm": "Ceviche"
+  }
+}
