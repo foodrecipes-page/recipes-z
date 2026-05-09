@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Sweet Venezuelan Coconut Pudding",
+  "description": "A yeasty and glassy-jelly nostalgic Venezuelan dish featuring white chocolate chips and coconut cream, low in fat and friendly to health conscious eaters. This dessert is perfect for warm weather and outdoor gatherings.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together yeast and 1 tablespoon of warm water, let it sit for 5 minutes until foamy.",
+    "In a medium saucepan, combine coconut milk, sugar, and salt, and cook over medium heat, stirring occasionally, until sugar dissolves.",
+    "Remove the saucepan from heat and stir in yeast mixture, unsweetened shredded coconut, and vanilla extract.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 2 hours or overnight.",
+    "Once the mixture is chilled, stir in white chocolate chips until they are fully incorporated and the mixture is smooth.",
+    "Pour the mixture into small individual serving cups or a large serving dish.",
+    "Refrigerate the pudding for at least 3 hours or until set.",
+    "Just before serving, sprinkle additional unsweetened shredded coconut on top of the pudding, if desired.",
+    "Serve the pudding chilled, garnished with additional white chocolate chips if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "low-fat",
+    "outdoor-gatherings",
+    "south-american",
+    "vegan-friendly",
+    "warm-weather",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "zesty-sweet-venezuelan-coconut-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-venezuelan-coconut-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:15:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "coconut",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Pudding"
+  }
+}
