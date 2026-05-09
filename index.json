@@ -3345,6 +3345,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-thai-chicken-curry",
+    "title": "Zesty Dense Thai Chicken Curry",
+    "tags": [
+      "high-protein",
+      "kosher-friendly",
+      "meal-prep",
+      "one-pan",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-tunisian-lamb-tagine",
     "title": "Zesty Dense Tunisian Lamb Tagine",
     "tags": [
