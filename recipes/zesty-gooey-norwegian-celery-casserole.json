@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Gooey Norwegian Celery Casserole",
+  "description": "A winey, gooey, and cozy Norwegian dish featuring celery, perfect for a cold winter night, and friendly to dairy-free diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "to replicate cheesy flavor"
+    },
+    {
+      "name": "oat cream",
+      "amount": "1/2 cup",
+      "notes": "or other dairy-free cream alternative"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, sauté the chopped onion and minced garlic until softened.",
+    "Add the chopped celery to the skillet and continue to cook until it starts to soften.",
+    "In a large bowl, whisk together the white wine, vegetable broth, and nutritional yeast.",
+    "Add the cooked celery mixture to the bowl and stir to combine.",
+    "In a separate bowl, mix together the score-fat and oat cream until well combined.",
+    "Add the score-fat mixture to the celery mixture and stir until a gooey consistency is achieved.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes or until the top is lightly browned.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "norwegian-cuisine",
+    "vegetarian-friendly",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "zesty-gooey-norwegian-celery-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-norwegian-celery-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:06:11Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "celery",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "celery",
+    "descriptor": "Zesty gooey",
+    "dishForm": "Casserole"
+  }
+}
