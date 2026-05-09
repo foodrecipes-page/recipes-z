@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Light Croatian Turkey Ham Wrap",
+  "description": "A refreshing and light Croatian dish featuring turkey ham, wrapped in a corn husk and cooked to perfection in a bain-marie, perfect for a springtime snack or lunch",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "8 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the bain-marie to 180 degrees Fahrenheit",
+    "In a small bowl, whisk together the white wine, olive oil, garlic, salt, and black pepper",
+    "Add the chopped parsley to the bowl and stir to combine",
+    "Lay a corn husk flat on a work surface and arrange 2 slices of turkey ham in the center",
+    "Brush the wine and parsley mixture evenly over the turkey ham",
+    "Fold the corn husk over the filling to form a wrap and secure with a toothpick if needed",
+    "Repeat the process with the remaining ingredients",
+    "Place the wraps in the preheated bain-marie and cook for 10 minutes",
+    "Remove the wraps from the bain-marie and let cool for 2 minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "easy-wraps",
+    "jain-friendly",
+    "light-meals",
+    "spring-recipes",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "zesty-light-croatian-turkey-ham-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-croatian-turkey-ham-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:20:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "turkey ham",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "turkey ham",
+    "descriptor": "zesty light",
+    "dishForm": "Wrap"
+  }
+}
