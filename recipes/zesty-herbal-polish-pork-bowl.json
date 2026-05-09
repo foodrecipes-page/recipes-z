@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Herbal Polish Pork Bowl",
+  "description": "A flavorful and adventurous Polish dish featuring kaffir-lime-leaf and pickle, served in a Korean brass bowl, this recipe is ayurvedic-tamasic-friendly and perfect for a dinner meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "kaffir-lime-leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the kaffir-lime-leaves, caraway seeds, salt, and black pepper, and stir to combine.",
+    "Add the sliced pickles and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the pork is cooked through.",
+    "Serve the pork and pickle mixture in a Korean brass bowl, garnished with additional kaffir-lime-leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "herbal",
+    "korean-inspired",
+    "one-pot",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-herbal-polish-pork-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-herbal-polish-pork-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:12:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Herbal",
+    "dishForm": "Bowl"
+  }
+}
