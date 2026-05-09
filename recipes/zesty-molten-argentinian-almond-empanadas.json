@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Molten Argentinian Almond Empanadas",
+  "description": "A vegan-friendly Argentinian dish featuring ground almonds and double-rise bread, perfect for a snack or light meal. This recipe combines malty and molten flavors with a crispy exterior.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": "blanched and finely ground"
+    },
+    {
+      "name": "Double-rise bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread, cubed"
+    },
+    {
+      "name": "Malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground almonds, malt syrup, olive oil, salt, sugar, and lemon zest.",
+    "In a separate bowl, proof the yeast by mixing it with the warm water and letting it sit for 5 minutes.",
+    "Add the yeast mixture to the almond mixture and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle and place a few cubes of double-rise bread in the center.",
+    "Fold the dough over the bread and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with apple cider vinegar and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "argentinian-cuisine",
+    "double-rise-bread",
+    "molten-center",
+    "snack-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-molten-argentinian-almond-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-argentinian-almond-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:06:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "ground almonds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Empanadas"
+  }
+}
