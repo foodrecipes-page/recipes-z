@@ -1,0 +1,90 @@
+{
+  "title": "Zesty Filipino Pork Skewers",
+  "description": "A funky and chewy Filipino dish featuring tomato sauce and sous-vide cooking, perfect for a festive occasion, and keto-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large bowl, whisk together tomato sauce, fish sauce, apple cider vinegar, and black pepper.",
+    "Add the pork pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the sous-vide machine and cook for 2 hours.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Remove the skewers from the sous-vide machine and sear in the skillet for 2-3 minutes per side.",
+    "Serve the skewers hot, garnished with minced garlic and a side of cauliflower rice.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "pork-recipes",
+    "skewers",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "zesty-filipino-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-filipino-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:03:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "tomato sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty",
+    "dishForm": "Skewers"
+  }
+}
