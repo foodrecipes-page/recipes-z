@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Braised Kenyan Lamb Stew",
+  "description": "A salty and flaky Kenyan dish featuring lamb, blueberries, and a blend of spices, cooked to perfection on a cedar plank. This meal prep friendly stew is also anti-inflammatory friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, onion, garlic, ginger, turmeric, cumin, salt, and black pepper.",
+    "Transfer the lamb mixture to a cedar plank, leaving a 1 inch border around the edges.",
+    "Add the blueberries to the lamb mixture and stir gently to combine.",
+    "Cover the cedar plank with aluminum foil and braise the stew for 2 hours.",
+    "Remove the foil and continue braising for an additional 30 minutes, or until the lamb is tender.",
+    "Remove the stew from the oven and let it cool for 10 minutes before serving.",
+    "Serve the stew hot, garnished with fresh blueberries and chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "zesty-braised-kenyan-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-braised-kenyan-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:19:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "blueberries",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Braised",
+    "dishForm": "Stew"
+  }
+}
