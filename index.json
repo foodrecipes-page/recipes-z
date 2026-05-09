@@ -7859,6 +7859,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-nutty-indian-chicken-curry",
+    "title": "Zesty Nutty Indian Chicken Curry",
+    "tags": [
+      "chicken-dish",
+      "curry",
+      "indian-cuisine",
+      "low-sodium",
+      "nutty",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-nutty-italian-banana-pinsa",
     "title": "Zesty Nutty Italian Banana Pinsa",
     "tags": [
