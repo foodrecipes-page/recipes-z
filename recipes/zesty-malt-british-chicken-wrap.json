@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Malt British Chicken Wrap",
+  "description": "A malty and gooey British dish featuring sweet chilli sauce, made with whole30-friendly ingredients, wrapped in a fold",
+  "cuisine": "British",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat",
+    "Add the olive oil to the skillet and cook the chicken breast strips until browned and cooked through",
+    "In a small bowl, whisk together the malt vinegar and sweet chilli sauce",
+    "Add the sauce mixture to the skillet with the chicken and stir to combine",
+    "Warm the coconut wrap in the microwave for 10-15 seconds",
+    "Assemble the wrap by spreading the mixed greens on the wrap, then adding the chicken and sauce mixture",
+    "Top with sliced cucumber and carrots",
+    "Season with salt and pepper to taste",
+    "Fold the wrap in half to enclose the filling"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "chicken-recipes",
+    "gluten-free",
+    "lunch-ideas",
+    "whole30",
+    "wrap-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-malt-british-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-malt-british-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:36:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Malt",
+    "dishForm": "Wrap"
+  }
+}
