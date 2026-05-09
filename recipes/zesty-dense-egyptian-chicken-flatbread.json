@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Dense Egyptian Chicken Flatbread",
+  "description": "A citrusy and dense Egyptian dish featuring naan bread, perfect for a quick fix, this recipe is low-glycemic-friendly and delicious. It combines the flavors of chicken, lemon, and spices on a crispy flatbread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic powder, cumin, salt, and black pepper.",
+    "Add the chicken to the bowl and mix until the chicken is well coated with the marinade.",
+    "Knead the chicken mixture for about 5 minutes until it becomes dense.",
+    "Place the naan bread on a baking sheet and toast in the oven for 5 minutes.",
+    "Divide the chicken mixture into 4 equal parts and place each part on a toasted naan bread.",
+    "Sprinkle chopped parsley on top of the chicken.",
+    "Bake the flatbreads in the oven for 15 minutes or until the chicken is cooked through.",
+    "Remove the flatbreads from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "easy-lunch",
+    "flatbread",
+    "low-glycemic",
+    "middle-eastern",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "zesty-dense-egyptian-chicken-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-egyptian-chicken-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:02:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "naan bread",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Flatbread"
+  }
+}

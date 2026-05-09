@@ -3105,6 +3105,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-dense-egyptian-chicken-flatbread",
+    "title": "Zesty Dense Egyptian Chicken Flatbread",
+    "tags": [
+      "chicken-recipes",
+      "easy-lunch",
+      "flatbread",
+      "low-glycemic",
+      "middle-eastern",
+      "quick-fix"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-dense-ethiopian-lamb-injera",
     "title": "Zesty Dense Ethiopian Lamb Injera",
     "tags": [
