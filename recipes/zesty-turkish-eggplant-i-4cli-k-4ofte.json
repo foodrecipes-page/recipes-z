@@ -1,0 +1,130 @@
+{
+  "title": "Zesty Turkish Eggplant Icli Kofte",
+  "description": "A rich, juicy, and light Turkish dish featuring eggplant, perfect for a weeknight meal that's both Ayurvedic and Rajasic friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium-length eggplants, sliced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium red bell pepper, diced",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons tomato paste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons freshly squeezed lemon juice",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup olive oil",
+      "notes": ""
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1/2 pound ground lamb",
+      "notes": "Use lean lamb for a healthier option."
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped parsley, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon smoked paprika",
+      "notes": "Smoked paprika adds a nice smokiness to the dish."
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon ground cumin",
+      "notes": "Ground cumin adds warmth and depth to the dish."
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch of cayenne pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the sliced eggplant and cook until it starts to soften, about 5 minutes.",
+    "Add the diced red bell pepper and cook until the eggplant is tender, about 5 minutes.",
+    "Add the tomato paste and stir to combine.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it's no longer pink, about 5 minutes.",
+    "Stir in the lemon juice, smoked paprika, ground cumin, and a pinch of cayenne pepper.",
+    "Season with salt and black pepper to taste.",
+    "Serve the eggplant mixture hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "one-pan",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-turkish-eggplant-i-4cli-k-4ofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-turkish-eggplant-i-4cli-k-4ofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "eggplant",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty",
+    "dishForm": "I\u00114cli K\u00014ofte"
+  }
+}
