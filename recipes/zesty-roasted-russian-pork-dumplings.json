@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Roasted Russian Pork Dumplings",
+  "description": "Indulgent Russian dish featuring ground pork and pasta water emulsion, roasted to perfection with a snappy texture, FODMAP friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Pasta Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic Infused Oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Russian Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine ground pork, pasta water, chopped onion, garlic infused oil, salt, black pepper, paprika, and Russian spice blend.",
+    "Mix all the ingredients together until just combined, being careful not to overmix.",
+    "Use your hands to shape the mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Roast the dumplings in the preheated oven for 20 minutes, or until they are cooked through and lightly browned on the outside.",
+    "Remove the dumplings from the oven and let them cool for a few minutes on the baking sheet.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "fodmap-friendly",
+    "gluten-free",
+    "pork-recipes",
+    "roasted",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-roasted-russian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-russian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:05:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ground pork",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty roasted",
+    "dishForm": "Dumplings"
+  }
+}
