@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Crisp Italian Beef Kidney Piadina",
+  "description": "A fresh and crisp Italian dish featuring beef kidney, perfect for kids and adults alike, with a lamination-puff pastry and gluten-free friendly ingredients. This piadina is a delicious and easy to make meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the lamination puff pastry to a large rectangle, about 1/4 inch thick.",
+    "In a large skillet, heat the olive oil over medium heat and cook the sliced beef kidney until browned, about 5 minutes.",
+    "Add the minced garlic and chopped onion to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Stir in the tomato sauce and bring to a simmer, cooking for an additional 2 minutes.",
+    "Spread the tomato sauce mixture over the center of the pastry rectangle, leaving a 1 inch border around the edges.",
+    "Top the sauce with the shredded mozzarella cheese and chopped fresh basil.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the top of the pastry with a little bit of olive oil and sprinkle with salt and pepper.",
+    "Bake the piadina in the preheated oven for 25 minutes, or until the pastry is golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "italian-food",
+    "kid-friendly",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-crisp-italian-beef-kidney-piadina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-italian-beef-kidney-piadina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:02:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "beef kidney",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Piadina"
+  }
+}
