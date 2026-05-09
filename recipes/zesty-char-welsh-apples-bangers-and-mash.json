@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Char Welsh Apples Bangers And Mash",
+  "description": "A vegetarian-friendly Welsh dish featuring char-grilled apples and bouncy vegetarian sausages, served with mashed potatoes and a zesty sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetarian sausages",
+      "amount": "4",
+      "notes": "preferably Welsh-style"
+    },
+    {
+      "name": "apples",
+      "amount": "2",
+      "notes": "Granny Smith or similar"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "Maris Piper or similar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Peel and chop the potatoes into large chunks and boil in salted water until tender.",
+    "Meanwhile, slice the onion and mince the garlic.",
+    "Brush the apples with olive oil and grill until slightly charred.",
+    "Grill the vegetarian sausages according to package instructions.",
+    "In a small saucepan, combine apple cider vinegar, Dijon mustard, salt, and black pepper to make the zesty sauce.",
+    "Mash the boiled potatoes with a fork and mix in the sliced onion and minced garlic.",
+    "To serve, place the mashed potatoes on a plate, top with a grilled sausage, a char-grilled apple slice, and spoon the zesty sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "comfort-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-char-welsh-apples-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-char-welsh-apples-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:12:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "apples",
+    "diet": "vegetarian",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "apples",
+    "descriptor": "Zesty Char",
+    "dishForm": "Bangers And Mash"
+  }
+}
