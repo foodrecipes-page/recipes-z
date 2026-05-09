@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Springy Japanese Pork Shoulder Gyudon",
+  "description": "A fatty and adventurous Japanese dish featuring pork shoulder, served in a gyudon style, perfect for those looking for a low-carb meal option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "fatty cut preferred"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, sake, mirin, and rice vinegar to make the marinade.",
+    "Add the sliced ginger to the marinade and stir to combine.",
+    "Place the pork shoulder in a pressure cooker and pour the marinade over it.",
+    "Close the lid of the pressure cooker and set the valve to sealing.",
+    "Cook the pork shoulder on high pressure for 90 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Remove the pork shoulder from the pressure cooker and slice it into thin strips.",
+    "In a small bowl, whisk together sesame oil and beef broth to make the sauce.",
+    "Add the sliced green onions to the sauce and stir to combine.",
+    "Serve the pork shoulder strips in a gyudon style, topped with the sauce and additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "gluten-free",
+    "japanese-cuisine",
+    "low-carb",
+    "one-pot",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "zesty-springy-japanese-pork-shoulder-gyudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-springy-japanese-pork-shoulder-gyudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:43:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pork shoulder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Zesty Springy",
+    "dishForm": "Gyudon"
+  }
+}
