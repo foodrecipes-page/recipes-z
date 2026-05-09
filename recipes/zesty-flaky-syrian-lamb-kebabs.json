@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Flaky Syrian Lamb Kebabs",
+  "description": "Tangy and flaky Syrian lamb kebabs featuring turmeric and a lacquer glaze, perfect for a romantic dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together turmeric, paprika, garlic, salt, and black pepper",
+    "Add the lamb pieces to the bowl and toss to coat with the spice mixture",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece",
+    "Brush the lamb with olive oil and grill for 8-10 minutes, turning occasionally",
+    "In a small bowl, whisk together lemon juice and lacquer glaze",
+    "Brush the lacquer glaze mixture onto the lamb during the last 2 minutes of grilling",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-flaky-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:37:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "turmeric",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Kebabs"
+  }
+}
