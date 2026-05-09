@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Velvety Italian Padron Peppers Saltimbocca",
+  "description": "A kid-friendly Italian dish featuring padron peppers, prosciutto, and puff pastry, with a rich and velvety texture, this saltimbocca is sure to please, it is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "kid-friendly",
+    "ayurvedic-rajasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Roll out puff pastry on a floured surface to a large rectangle.",
+    "Butter the pastry, leaving a 1 inch border around the edges.",
+    "Arrange prosciutto slices on one half of the pastry, leaving a small border around the edges.",
+    "Top the prosciutto with padron peppers, garlic, parmesan cheese, salt, and pepper.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with olive oil and cut into 6 equal pieces.",
+    "Place the saltimbocca on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove from oven and sprinkle with parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "kid-friendly",
+    "one-pan",
+    "padron-peppers",
+    "prosciutto",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-velvety-italian-padron-peppers-saltimbocca",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-italian-padron-peppers-saltimbocca",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:47:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "padron peppers",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Saltimbocca"
+  }
+}
