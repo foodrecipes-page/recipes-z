@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Crispy Ethiopian Chicken Doro Wot",
+  "description": "A cultured and crispy Ethiopian dish featuring mature cheddar and high protein chicken, served on a hot stone plate. This midnight craving dish is a variation of the traditional Doro Wot.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "mature cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, berbere spice, and salt.",
+    "Add the shredded cheese to the bowl and mix until well combined.",
+    "Dip each chicken breast into the beaten eggs and then coat in the flour mixture, shaking off excess.",
+    "Heat the vegetable oil in a large skillet over medium high heat and cook the chicken until browned on both sides.",
+    "Transfer the chicken to a baking sheet and bake for 20 minutes, or until cooked through.",
+    "While the chicken is cooking, heat a small skillet over medium heat and add the minced garlic and grated ginger, cooking until fragrant.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "To serve, place the cooked chicken on a hot stone plate and spoon the garlic and onion mixture over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crispy",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "zesty-crispy-ethiopian-chicken-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crispy-ethiopian-chicken-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:04:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "mature cheddar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Crispy",
+    "dishForm": "Doro Wot"
+  }
+}
