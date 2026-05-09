@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Smoky Venezuelan Chicken Stew",
+  "description": "A flavorful and energizing Venezuelan-inspired stew featuring ginger paste, smoky spices, and fluffy chicken. Perfect for a quick and satisfying dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the ginger paste, smoked paprika, cumin, coriander, and brown sugar to the pot.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes, chicken broth, and quinoa to the pot.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the chicken back to the pot and simmer for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Let the stew rest for 10 minutes before serving, allowing the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-leftovers",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "weeknight",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-smoky-venezuelan-chicken-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-venezuelan-chicken-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:59:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "ginger paste",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Stew"
+  }
+}
