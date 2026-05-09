@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Saudi Arabian Cucumber Skewers",
+  "description": "A sweet and crunchy Saudi Arabian dish featuring cucumber, this recipe is perfect for a snack or appetizer, with a smoky heat that will leave you wanting more. It's also egg-free friendly, making it accessible to a variety of diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumbers",
+      "amount": "4 large",
+      "notes": "peeled and sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "cut into 1 inch cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, paprika, salt, black pepper, and red pepper flakes.",
+    "Add the sliced cucumbers to the bowl and toss to coat with the marinade.",
+    "Thread a cucumber slice, a piece of pita bread, and a sprinkle of parsley onto a skewer, repeating the pattern until the skewer is full.",
+    "Brush the grill with olive oil to prevent sticking, then grill the skewers for 2-3 minutes per side, or until the cucumbers are slightly charred.",
+    "Serve the skewers hot, garnished with additional parsley and pita bread if desired.",
+    "Let the skewers cool for a few minutes before serving to allow the flavors to meld together.",
+    "Refrigerate any leftovers and consume within a day."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "grilled",
+    "middle-eastern",
+    "snack",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "zesty-saudi-arabian-cucumber-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-saudi-arabian-cucumber-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:08:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cucumber",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Zesty Smoke Hot",
+    "dishForm": "Skewers"
+  }
+}
