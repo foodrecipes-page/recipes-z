@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Grilled Mediterranean Baby Squid Skewers",
+  "description": "A fresh and flavorful Mediterranean dish featuring baby squid, perfect for a date night, and keto-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "zest of lemon",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, oregano, thyme, salt, and pepper.",
+    "Add the baby squid to the bowl and toss to coat with the marinade.",
+    "Thread the marinated squid onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the squid skewers for 2-3 minutes per side, or until cooked through.",
+    "Sprinkle the lemon zest over the squid skewers during the last minute of cooking.",
+    "Serve the grilled squid skewers hot, garnished with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-seafood",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "zesty-grilled-mediterranean-baby-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grilled-mediterranean-baby-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:51:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "baby squid",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "baby squid",
+    "descriptor": "Zesty Grilled",
+    "dishForm": "Skewers"
+  }
+}
