@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Crisp Syrian Peppers Paella",
+  "description": "A flavorful and spicy paella dish featuring sweet peppadew peppers and a crispy fermented crust, perfect for a dinner meal. This egg-free friendly recipe is made in a traditional paella pan.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermented pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a paella pan over medium-high heat.",
+    "Add the sliced peppadew peppers and cook until they start to soften.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the fermented pepper paste and stir to combine.",
+    "Add the lemon juice and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes until the liquid is absorbed and the peppers are tender.",
+    "Increase the heat to high and cook for 2 minutes until the bottom of the paella is crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-crisp-syrian-peppers-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-syrian-peppers-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:20:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "peppers",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Paella"
+  }
+}
