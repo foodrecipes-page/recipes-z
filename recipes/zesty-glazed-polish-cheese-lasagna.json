@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Glazed Polish Cheese Lasagna",
+  "description": "A sour and cheesy one-pot Polish dish featuring ground nutmeg and a sweet glaze, perfect for a lacto-vegetarian dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "glaze ingredients",
+      "amount": "1 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cook the lasagna noodles according to package directions and set aside",
+    "In a large copper pot, combine the ricotta cheese, shredded mozzarella, ground nutmeg, sour cream, salt, and pepper, and mix well",
+    "Add the cooked lasagna noodles to the cheese mixture and stir until they are well coated",
+    "In a small bowl, whisk together the glaze ingredients, which include 1/2 cup sour cream, 1/4 cup shredded mozzarella, and 1 tsp dried parsley",
+    "Pour the glaze over the top of the lasagna mixture in the copper pot",
+    "Dot the top of the glaze with the butter",
+    "Cover the copper pot with a lid and bake for 25 minutes",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly browned"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "polish-cuisine",
+    "sour-cream-based",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-glazed-polish-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glazed-polish-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:35:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Glazed",
+    "dishForm": "Lasagna"
+  }
+}
