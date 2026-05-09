@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Spicy Moroccan Macaroni Seffa",
+  "description": "A spicy and snappy Moroccan dish featuring macaroni, steamed to perfection with a blend of aromatic spices, perfect for a light and satisfying meal. This shojin-friendly seffa is a unique twist on traditional Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, smoked paprika, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add 2 cups of water to the skillet and bring to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Steam the cooked macaroni in a steamer basket over boiling water for 5 minutes, or until heated through.",
+    "To assemble the seffa, place the steamed macaroni in a large serving dish and top with the spicy onion mixture.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Traditionally, seffa is served in a decorative mound, so feel free to get creative with the presentation.",
+    "Leftovers can be refrigerated for up to 3 days and reheated as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-eating",
+    "moroccan-cuisine",
+    "one-pot",
+    "quick-meal",
+    "spicy-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "zesty-spicy-moroccan-macaroni-seffa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-moroccan-macaroni-seffa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:55:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "macaroni",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "macaroni",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Seffa"
+  }
+}
