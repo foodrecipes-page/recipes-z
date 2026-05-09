@@ -5385,6 +5385,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-italian-cheese-lasagna",
+    "title": "Zesty Italian Cheese Lasagna",
+    "tags": [
+      "baked-pasta",
+      "cheesy",
+      "italian-food",
+      "keto-friendly",
+      "low-carb",
+      "special-occasion"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-italian-italian-serrano-ham-ribollita",
     "title": "Zesty Italian Italian Serrano Ham Ribollita",
     "tags": [
