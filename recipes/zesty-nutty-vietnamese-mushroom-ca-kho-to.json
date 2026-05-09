@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Nutty Vietnamese Mushroom Ca Kho To",
+  "description": "A quick-fix Vietnamese dish featuring mushroom, cooked in a copper mug, with a nutty and chewy texture, this egg-free friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a copper mug over medium heat.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the mushrooms and cook for 3 minutes, until they start to soften.",
+    "Add the fish sauce, soy sauce, and chili flakes, and cook for 1 minute, until the mushrooms are coated.",
+    "Stir in the peanuts and scallions, and cook for 1 minute, until the peanuts are fragrant.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2 minutes, until the mushrooms are tender.",
+    "Serve hot, garnished with additional scallions and peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "nutty",
+    "one-pan",
+    "quick-fix",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-nutty-vietnamese-mushroom-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-nutty-vietnamese-mushroom-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:51:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "mushroom",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mushroom",
+    "descriptor": "Zesty Nutty",
+    "dishForm": "Ca Kho To"
+  }
+}
