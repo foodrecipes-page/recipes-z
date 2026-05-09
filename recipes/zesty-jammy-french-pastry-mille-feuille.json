@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Jammy French Pastry Mille Feuille",
+  "description": "A dairy-free friendly French pastry featuring strong wholemeal flour and long-fermentation-dough, perfect for a weeknight dessert. This jammy and gooey mille-feuille is a twist on the classic French dessert.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "2 cups",
+      "notes": "strong wholemeal flour"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "non-dairy butter",
+      "amount": "1/2 cup",
+      "notes": "such as earth balance"
+    },
+    {
+      "name": "jam",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine wholemeal flour, all purpose flour, and salt.",
+    "In a separate bowl, combine non-dairy milk, non-dairy butter, and sugar, and mix until the sugar is dissolved.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough ferment for 2 hours in a warm place.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the dough to a large rectangle and spread the jam evenly over the center of the dough.",
+    "Fold the dough into a mille-feuille shape and place on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes or until the pastry is golden brown.",
+    "Let the pastry cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "french-pastry",
+    "jam-filled",
+    "mille-feuille",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-jammy-french-pastry-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-jammy-french-pastry-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:01:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pastry",
+    "descriptor": "Zesty Jammy",
+    "dishForm": "Mille Feuille"
+  }
+}

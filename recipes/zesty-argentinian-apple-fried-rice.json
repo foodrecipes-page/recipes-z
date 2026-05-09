@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Argentinian Apple Fried Rice",
+  "description": "A flavorful and adventurous dish featuring apples, with a perfect balance of umami and lightness, making it a great option for those looking for a FODMAP-friendly meal. This Argentinian-inspired recipe is sure to delight your taste buds.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "apple",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced apple and cook until it starts to soften, about 2-3 minutes.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the chimichurri sauce, salt, and black pepper, and cook for an additional 2-3 minutes, until the rice is well coated.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "fodmap-friendly",
+    "fried-rice",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "zesty-argentinian-apple-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-argentinian-apple-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:02:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "apples",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "apples",
+    "descriptor": "Zesty",
+    "dishForm": "Fried-Rice"
+  }
+}

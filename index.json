@@ -780,6 +780,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-argentinian-apple-fried-rice",
+    "title": "Zesty Argentinian Apple Fried Rice",
+    "tags": [
+      "argentinian-cuisine",
+      "fodmap-friendly",
+      "fried-rice",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-argentinian-beef-wrap",
     "title": "Zesty Argentinian Beef Wrap",
     "tags": [
@@ -6126,6 +6141,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-jammy-french-pastry-mille-feuille",
+    "title": "Zesty Jammy French Pastry Mille Feuille",
+    "tags": [
+      "dairy-free",
+      "french-pastry",
+      "jam-filled",
+      "mille-feuille",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
