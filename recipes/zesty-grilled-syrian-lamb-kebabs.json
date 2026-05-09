@@ -1,0 +1,89 @@
+{
+  "title": "Zesty Grilled Syrian Lamb Kebabs",
+  "description": "A romantic Syrian dish featuring lamb kebabs marinated in a mixture of wine, kosher salt, and kombu-cold-extract, grilled to perfection on a binchotan grill. This macrobiotic-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Syrian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together red wine, kosher salt, kombu-cold-extract, and olive oil to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the binchotan grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "Brush the kebabs with olive oil and season with garlic and black pepper.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with your choice of sides, such as grilled vegetables or couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "macrobiotic",
+    "middle-eastern",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-grilled-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grilled-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:12:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "kosher salt",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Grilled",
+    "dishForm": "Kebabs"
+  }
+}
