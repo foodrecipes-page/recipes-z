@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Spicy Indian Sweetcorn Lassi",
+  "description": "A spicy and creamy Indian drink featuring sweetcorn, perfect for a sick day pick-me-up, this cheese-pull lassi is egg-free-friendly and made with a mortar-pestle-pound method.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "paneer cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, for cheese-pull effect"
+    }
+  ],
+  "instructions": [
+    "In a large mortar, pound the sweetcorn with a pestle until it is well crushed and the juices are released.",
+    "Add the yogurt, garam masala, cumin powder, cayenne pepper, and salt to the mortar and mix until well combined.",
+    "Stir in the honey and lemon juice until the honey is fully dissolved.",
+    "Gradually add the water to the mortar and mix until the desired consistency is reached.",
+    "Crumble the paneer cheese into the mortar and mix until it is well distributed and the cheese is starting to pull.",
+    "Taste and adjust the seasoning as needed.",
+    "Pour the lassi into glasses and garnish with chopped cilantro.",
+    "Serve immediately and enjoy the cheese-pull effect.",
+    "You can also refrigerate the lassi for up to 2 hours before serving.",
+    "Give the lassi a good stir before serving if it has been refrigerated."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "indian-drinks",
+    "quick-snack",
+    "spicy-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-spicy-indian-sweetcorn-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spicy-indian-sweetcorn-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:16:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sweetcorn",
+    "diet": "egg-free",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Lassi"
+  }
+}
