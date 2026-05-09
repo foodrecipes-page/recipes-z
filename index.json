@@ -1457,6 +1457,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-japanese-chinese-cabbage-kushikatsu",
+    "title": "Zesty Charred Japanese Chinese Cabbage Kushikatsu",
+    "tags": [
+      "asian-inspired",
+      "crispy",
+      "fried",
+      "japanese-cuisine",
+      "ovo-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-kenyan-lamb-wrap",
     "title": "Zesty Charred Kenyan Lamb Wrap",
     "tags": [

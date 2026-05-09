@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Charred Japanese Chinese Cabbage Kushikatsu",
+  "description": "A weeknight Japanese dish featuring charred and tender Chinese cabbage, served in a crispy kushikatsu form, perfect for ovo-vegetarian diets",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "chopped into 1 inch pieces"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit",
+    "In a large bowl, mix together the flour, panko breadcrumbs, and a pinch of salt",
+    "In a separate bowl, whisk the eggs and set aside",
+    "Dip each piece of Chinese cabbage into the flour mixture, then the eggs, and finally the flour mixture again",
+    "Carefully place the coated cabbage pieces into the hot oil and fry until golden brown",
+    "Using a slotted spoon, remove the fried cabbage from the oil and place on a paper towel lined plate to drain excess oil",
+    "In a small saucepan, combine the soy sauce, rice vinegar, sugar, and sesame oil, and bring to a boil over medium heat",
+    "Reduce the heat to low and simmer the sauce for 5 minutes",
+    "To serve, place the fried cabbage pieces on a plate and brush with the zesty sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "crispy",
+    "fried",
+    "japanese-cuisine",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-charred-japanese-chinese-cabbage-kushikatsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-japanese-chinese-cabbage-kushikatsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:14:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "ovo-vegetarian",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chinese cabbage",
+    "descriptor": "Zesty charred",
+    "dishForm": "Kushikatsu"
+  }
+}
