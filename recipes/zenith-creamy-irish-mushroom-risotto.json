@@ -1,0 +1,104 @@
+{
+  "title": "Zenith Creamy Irish Mushroom Risotto",
+  "description": "A rich and creamy Irish dish featuring sherry and shio-cure, with a focus on ayurvedic-rajasic-friendly ingredients for a balanced meal. This recipe combines fatty and light elements for a unique taste experience.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "high-quality, Italian-grown"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "2 cups",
+      "notes": "including shiitake and cremini"
+    },
+    {
+      "name": "sherry wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a separate pot and keep warm throughout the cooking process.",
+    "In a large skillet, melt 2 tablespoons of Irish butter over medium heat and saute the mixed mushrooms until they release their liquid and start to brown.",
+    "Add the shio-cure and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the Arborio rice to the skillet and cook for 1-2 minutes, stirring constantly, until the rice is coated in butter and slightly toasted.",
+    "Add the sherry wine to the skillet and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 1/2 cup of warm chicken broth to the skillet and stir until mostly absorbed, then repeat this process, adding the broth in 1/2 cup increments, until the rice is cooked and creamy.",
+    "Stir in the grated grana padano cheese until melted and well combined.",
+    "Season the risotto with salt and black pepper to taste.",
+    "Serve the risotto hot, garnished with chopped fresh parsley and a pat of Irish butter on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "mushroom-based",
+    "one-pot",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "zenith-creamy-irish-mushroom-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-creamy-irish-mushroom-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:05:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "sherry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Zenith creamy",
+    "dishForm": "Risotto"
+  }
+}

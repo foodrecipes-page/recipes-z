@@ -56,6 +56,21 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-creamy-irish-mushroom-risotto",
+    "title": "Zenith Creamy Irish Mushroom Risotto",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "mushroom-based",
+      "one-pot",
+      "vegetarian",
+      "wine-based"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zenith-creamy-korean-fennel-bisque",
     "title": "Zenith Creamy Korean Fennel Bisque",
     "tags": [
