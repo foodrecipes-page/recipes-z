@@ -8334,6 +8334,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-pungent-jalisco-style-mexican-shrimp-burrito",
+    "title": "Zesty Pungent Jalisco Style Mexican Shrimp Burrito",
+    "tags": [
+      "high-protein",
+      "jalisco-style",
+      "quick-meal",
+      "seafood",
+      "shrimp",
+      "spicy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-pungent-japanese-kabanos-okonomiyaki",
     "title": "Zesty Pungent Japanese Kabanos Okonomiyaki",
     "tags": [

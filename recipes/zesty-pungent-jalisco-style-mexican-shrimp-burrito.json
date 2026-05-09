@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Pungent Jalisco Style Mexican Shrimp Burrito",
+  "description": "A sharp and refreshing burrito featuring shrimp marinated in a pungent mortar-pounded mustard and lime paste, inspired by the coastal rains of Jalisco.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 lb",
+      "notes": "peeled, deveined, and chopped"
+    },
+    {
+      "name": "English Mustard Powder",
+      "amount": "2 tbsp",
+      "notes": "high pungency"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "3 tbsp",
+      "notes": "acidic base"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 units",
+      "notes": "raw"
+    },
+    {
+      "name": "Serrano Peppers",
+      "amount": "2 units",
+      "notes": "seeded"
+    },
+    {
+      "name": "White Onion",
+      "amount": "0.5 unit",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "0.5 cup",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "Large Flour Tortillas",
+      "amount": "4 units",
+      "notes": "warmed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for quick searing"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place the garlic, serrano peppers, and sea salt into a mortar and pestle.",
+    "Pound the mixture into a coarse, wet paste to release the pungent oils.",
+    "Whisk in the English mustard powder and lime juice until the paste is smooth.",
+    "Toss the raw shrimp with the mustard paste and let marinate for ten minutes.",
+    "Heat olive oil in a heavy skillet over high heat until shimmering.",
+    "Flash cook the shrimp for three minutes until they are just opaque and firm.",
+    "Remove the skillet from heat and stir in the raw diced onions and cilantro.",
+    "Lay the warmed flour tortillas on a flat work surface.",
+    "Divide the shrimp mixture evenly among the four tortillas.",
+    "Roll the tortillas tightly into burritos and serve immediately while zesty and hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jalisco-style",
+    "quick-meal",
+    "seafood",
+    "shrimp",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 28,
+    "carbs": 42,
+    "fat": 11
+  },
+  "slug": "zesty-pungent-jalisco-style-mexican-shrimp-burrito",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-pungent-jalisco-style-mexican-shrimp-burrito",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T08:53:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "english mustard",
+    "diet": "raw",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Jalisco Style Mexican",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Zesty Pungent",
+    "dishForm": "Burrito"
+  }
+}
