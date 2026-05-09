@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Portuguese Custard Torta",
+  "description": "A funky, gooey, kid-friendly Portuguese dessert featuring garlic granules and a raw egg-free version.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large mixing bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the egg yolks, milk, and butter.",
+    "Add the garlic granules and vanilla extract to the egg yolk mixture and whisk to combine.",
+    "Gradually pour the egg yolk mixture into the flour mixture and mix until a smooth dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Bake for 20-25 minutes, or until the edges are golden brown.",
+    "Remove the torta from the oven and let it cool for 5 minutes.",
+    "Dust the torta with confectioners' sugar and sprinkle with cinnamon.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "dessert-fan",
+    "easy-tortillas",
+    "garlic-lovers",
+    "one-pan",
+    "portuguese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-portuguese-custard-torta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-portuguese-custard-torta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:17:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "garlic granules",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "custard",
+    "descriptor": "Zesty",
+    "dishForm": "Torta"
+  }
+}
