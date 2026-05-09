@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Citrusy Greek Almonds Baklava",
+  "description": "A citrusy and romantic Greek dessert featuring orange zest and a mother-sauce-base, made with ayurvedic-sattvic-friendly ingredients. This shaggy baklava is perfect for special occasions.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds, orange zest, honey, rose water, and cardamom powder.",
+    "Layer the phyllo dough in a baking dish, brushing each layer with melted coconut oil.",
+    "Spread the almond mixture evenly over the phyllo dough layers.",
+    "Repeat the layering process two more times, ending with a layer of phyllo dough on top.",
+    "Cut the baklava into diamond-shaped pieces and bake for 35 minutes.",
+    "Remove the baklava from the oven and let it cool completely.",
+    "Drizzle with additional honey and rose water, if desired.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-treats",
+    "gluten-free",
+    "greek-desserts",
+    "special-occasions",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "zesty-citrusy-greek-almonds-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-greek-almonds-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:00:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "orange zest",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Baklava"
+  }
+}
