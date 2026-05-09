@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Silky Portuguese Pork Hash",
+  "description": "A quick-fix Portuguese dish featuring pork, cider, and wok-hei, served in a ramekin. This mediterranean-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "cider",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced pork shoulder to the skillet and cook until browned, about 5 minutes.",
+    "Add the diced onion to the skillet and cook until translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the cider, smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the skillet contents to a ramekin and bake for 15 minutes.",
+    "Remove the ramekin from the oven and top with chopped fresh parsley.",
+    "Serve the Zesty Silky Portuguese Pork Hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "mediterranean-friendly",
+    "one-pan",
+    "portuguese-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-silky-portuguese-pork-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-portuguese-pork-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:50:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "cider",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Hash"
+  }
+}
