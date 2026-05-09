@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Charred Russian Chicken Wings Tagine",
+  "description": "A spicy and savory Russian dish featuring charred chicken wings cooked in a tagine pot, perfect for a hangover cure. This sugar-free friendly recipe is made with a stone bowl dolsot for a unique presentation.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the chicken wings and pat them dry with paper towels.",
+    "In a large bowl, mix together olive oil, paprika, garlic powder, salt, black pepper, and cayenne pepper.",
+    "Add the chicken wings to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium high heat and char the chicken wings for 5 minutes on each side.",
+    "Transfer the chicken wings to a tagine pot and add lemon juice and chicken broth.",
+    "Cover the tagine pot with a lid and bake for 30 minutes.",
+    "Remove the lid and bake for an additional 10 minutes to crisp the skin.",
+    "Serve the chicken wings hot in the stone bowl dolsot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "russian-cuisine",
+    "spicy-food",
+    "stone-bowl",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-charred-russian-chicken-wings-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-russian-chicken-wings-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:38:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chicken wings",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Tagine"
+  }
+}
