@@ -1,0 +1,99 @@
+{
+  "title": "Zealous Slovakian Millet Pilaf",
+  "description": "A traditional Slovakian dish featuring millet, this yeasty and fluffy pilaf is a great hangover cure, made with katsuramuki-cut vegetables and paleo-friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil over high heat.",
+    "Add the millet to the pot, reduce the heat to low, cover, and simmer for 20 minutes.",
+    "While the millet cooks, heat the olive oil in a large skillet over medium heat.",
+    "Add the katsuramuki-cut carrot and onion to the skillet and cook, stirring occasionally, until they are tender and lightly browned.",
+    "Add the minced garlic to the skillet and cook, stirring constantly, for 1 minute.",
+    "Once the millet is cooked, fluff it with a fork and stir in the cooked vegetables, salt, black pepper, and yeast.",
+    "Transfer the pilaf to a serving dish and serve hot.",
+    "Let the pilaf cool to room temperature before refrigerating or freezing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-breakfast",
+    "high-fiber",
+    "one-pot",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "zealous-slovakian-millet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zealous-slovakian-millet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:54:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "millet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "millet",
+    "descriptor": "Zealous",
+    "dishForm": "Pilaf"
+  }
+}
