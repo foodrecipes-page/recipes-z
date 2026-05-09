@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Buttery Spanish Chicken Paella",
+  "description": "A buttery and creamy Spanish dish featuring bacon lardon and coconut cream, perfect for a high protein meal. This recipe is made in a kadhai vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "6 slices",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large kadhai over medium heat.",
+    "Add the bacon lardon and cook until crispy, then remove from the kadhai and set aside.",
+    "Add the chicken to the kadhai and cook until browned, then remove from the kadhai and set aside with the bacon.",
+    "Add the smoked paprika and saffron threads to the kadhai and cook for 1 minute.",
+    "Add the uncooked white rice to the kadhai and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, salt, and black pepper to the kadhai and bring to a boil.",
+    "Reduce the heat to low, cover the kadhai, and simmer for 20 minutes.",
+    "Stir in the coconut cream and cook for an additional 2 minutes.",
+    "Return the chicken and bacon to the kadhai and cook until heated through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-buttery-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:57:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "bacon lardon",
+    "diet": "high-protein",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Paella"
+  }
+}

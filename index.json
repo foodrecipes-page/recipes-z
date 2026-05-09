@@ -1460,6 +1460,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-buttery-spanish-chicken-paella",
+    "title": "Zesty Buttery Spanish Chicken Paella",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-buttery-turkish-lamb-kebabs",
     "title": "Zesty Buttery Turkish Lamb Kebabs",
     "tags": [
