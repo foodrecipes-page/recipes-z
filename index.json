@@ -8250,6 +8250,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-roasted-croatian-steak-tagine",
+    "title": "Zesty Roasted Croatian Steak Tagine",
+    "tags": [
+      "croatian",
+      "high-protein",
+      "one-pot",
+      "roasted",
+      "steak",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-roasted-dutch-chicken-stew",
     "title": "Zesty Roasted Dutch Chicken Stew",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Roasted Croatian Steak Tagine",
+  "description": "A light and juicy Croatian dish featuring a fillet of steak, cooked in a clay tajine vessel with beurre-monte sauce, this recipe is egg-free friendly and perfect for a dinner meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fillet steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the fillet steak with paprika, salt, and black pepper.",
+    "Heat the olive oil in the clay tajine vessel over medium heat.",
+    "Sear the fillet steak for 2 minutes on each side.",
+    "Transfer the clay tajine vessel to the preheated oven and roast for 20 minutes.",
+    "Remove the vessel from the oven and stir in the beurre-monte and garlic.",
+    "Return the vessel to the oven and continue roasting for an additional 10 minutes.",
+    "Remove the vessel from the oven and stir in the lemon juice.",
+    "Let the steak rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pot",
+    "roasted",
+    "steak",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "zesty-roasted-croatian-steak-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-croatian-steak-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:34:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "beurre-monte",
+    "primaryIngredient": "fillet of steak",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "steak",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Tagine"
+  }
+}
