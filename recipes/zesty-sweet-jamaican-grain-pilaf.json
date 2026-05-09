@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Sweet Jamaican Grain Pilaf",
+  "description": "A sweet and crumbly Jamaican dish featuring mixed grain and ferment-kimchi, perfect for a brunch mood, and is halal-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mixed grain",
+      "amount": "2 cups",
+      "notes": "including brown rice, quinoa, and bulgur"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the mixed grain and cook for 2 minutes, stirring frequently.",
+    "Add the ferment-kimchi, diced scotch bonnet pepper, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the grain is tender and the liquid has been absorbed.",
+    "Stir in the brown sugar and cook for an additional 2 minutes.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "grain-bowl",
+    "halal-recipes",
+    "jamaican-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-sweet-jamaican-grain-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sweet-jamaican-grain-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:39:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mixed grain",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "grains",
+    "descriptor": "Zesty Sweet",
+    "dishForm": "Pilaf"
+  }
+}

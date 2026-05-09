@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Indulgent Irish Lamb Stew",
+  "description": "A rich and comforting Irish stew featuring tender lamb, little gem lettuce, and the depth of kombu-cold-extract, made with ayurvedic-tamasic-friendly ingredients for a nourishing meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned lamb from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they are softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the chopped carrots and potatoes, salt, and pepper to the pot, stirring to combine.",
+    "Add the browned lamb back to the pot, along with the lamb broth and kombu-cold-extract.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped little gem lettuce and cook until wilted, about 5 minutes.",
+    "Serve the stew hot, garnished with additional little gem lettuce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stews",
+    "irish-food",
+    "lamb-recipes",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "zesty-indulgent-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:39:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "zesty indulgent",
+    "dishForm": "Stew"
+  }
+}

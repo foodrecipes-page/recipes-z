@@ -4212,6 +4212,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-portuguese-fish-stew",
+    "title": "Zesty Flaky Portuguese Fish Stew",
+    "tags": [
+      "fish-stew",
+      "flaky-fish",
+      "one-pot",
+      "portuguese-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-syrian-pasta-bake",
     "title": "Zesty Flaky Syrian Pasta Bake",
     "tags": [
@@ -5586,6 +5600,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-indulgent-irish-lamb-stew",
+    "title": "Zesty Indulgent Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stews",
+      "irish-food",
+      "lamb-recipes",
+      "one-pot-meals"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
     "shard": "z"
   },
   {
@@ -10390,6 +10419,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-sweet-jamaican-grain-pilaf",
+    "title": "Zesty Sweet Jamaican Grain Pilaf",
+    "tags": [
+      "brunch-ideas",
+      "grain-bowl",
+      "halal-recipes",
+      "jamaican-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Flaky Portuguese Fish Stew",
+  "description": "A hearty and flavorful Portuguese fish stew made with flaky fish, Thai chilli jam, and ferment-jang, cooked to perfection in a cataplana vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cod fish pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the Thai chilli jam, ferment-jang, white wine, fish stock, salt, and black pepper, and stir to combine.",
+    "Cover the cataplana vessel and transfer to the preheated oven.",
+    "Cook for 15 minutes, or until the fish is cooked through and the stew is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "flaky-fish",
+    "one-pot",
+    "portuguese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-flaky-portuguese-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-portuguese-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:39:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "ferment-jang",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Stew"
+  }
+}
