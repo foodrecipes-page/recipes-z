@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Yeasty Thai Pork Moo Ping",
+  "description": "A yeasty, chewy, and flavorful Thai dish featuring vanilla extract, perfect for a hangover cure, this macrobiotic-friendly recipe is a twist on traditional moo ping, with a deep-fry method that yields a crispy exterior and a tender interior. The combination of ingredients creates a unique and delicious flavor profile.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yeast, fish sauce, lime juice, brown sugar, garlic, and black pepper, and mix until the yeast is dissolved.",
+    "Add the sliced pork to the bowl and mix until the pork is well coated with the yeast mixture.",
+    "Cover the bowl with plastic wrap and let it sit at room temperature for 2 hours to allow the yeast to ferment.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Deep-fry the pork in batches until golden brown and crispy, about 3-4 minutes per batch.",
+    "Using a slotted spoon, remove the pork from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the moo ping hot, garnished with sliced lime and fresh herbs if desired.",
+    "To enhance the flavor, add a few drops of vanilla extract to the pork while it is still warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "hangover-cure",
+    "macrobiotic",
+    "snack-ideas",
+    "thai-street-food",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-yeasty-thai-pork-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-thai-pork-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:51:32Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "vanilla extract",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Moo Ping"
+  }
+}
