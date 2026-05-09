@@ -1,0 +1,94 @@
+{
+  "title": "Zero Fat Croatian Beef Dumplings",
+  "description": "A traditional Croatian dish featuring lean minced beef, these dumplings are malty, crumbly, and perfect for a midnight craving. They are also shojin-friendly, making them suitable for a variety of diets.",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "1 pound",
+      "notes": "90% lean or higher"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lean minced beef, whole wheat flour, oat flour, malt powder, salt, and black pepper.",
+    "Mix the ingredients together until just combined, being careful not to overmix.",
+    "In a small bowl, whisk together the egg whites and water until frothy.",
+    "Add the egg mixture to the beef mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and fold the dough over to form a half-moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "crumbly",
+    "low-fat",
+    "malty",
+    "midnight-craving",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 0
+  },
+  "slug": "zero-fat-croatian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-fat-croatian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:16:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "lean minced beef",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "Zero fat",
+    "dishForm": "Dumplings"
+  }
+}
