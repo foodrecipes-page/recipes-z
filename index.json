@@ -1250,6 +1250,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-buttery-ethiopian-teff-dabo",
+    "title": "Zesty Buttery Ethiopian Teff Dabo",
+    "tags": [
+      "african-cuisine",
+      "high-fiber",
+      "kid-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-buttery-italian-almonds-saltimbocca",
     "title": "Zesty Buttery Italian Almonds Saltimbocca",
     "tags": [

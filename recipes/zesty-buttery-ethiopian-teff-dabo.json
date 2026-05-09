@@ -1,0 +1,87 @@
+{
+  "title": "Zesty Buttery Ethiopian Teff Dabo",
+  "description": "A kid-friendly Ethiopian dish featuring teff, with a buttery and bouncy texture, and a bouquet garni for added flavor.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably brown teff"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "1",
+      "notes": "containing thyme, rosemary, and parsley"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the teff flour and salt.",
+    "Gradually add in the water, stirring with a wooden spoon until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Shape the dough into a round loaf and place it in a baking dish.",
+    "Melt the butter and brush it evenly over the loaf.",
+    "Add the bouquet garni on top of the loaf and season with black pepper.",
+    "Bake the dabo for 35 minutes, or until it is golden brown and has an al-dente finish.",
+    "Remove the dabo from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "high-fiber",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-buttery-ethiopian-teff-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-ethiopian-teff-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:18:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "bouquet garni",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "teff",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Dabo"
+  }
+}
