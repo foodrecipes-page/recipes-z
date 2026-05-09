@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Indulgent Middle Eastern Wheat Harees",
+  "description": "A traditional Middle Eastern dish with a twist, featuring crispy bacon lardon and a jammy, fluffy wheat harees, perfect for a special occasion, this egg-free friendly recipe is a delight to the senses.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wheat berries",
+      "amount": "1 cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the wheat berries and soak them in water for at least 4 hours.",
+    "Drain and rinse the wheat berries, then transfer them to a large pot with the chicken broth, olive oil, salt, black pepper, cumin, and paprika.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes or until the wheat is tender.",
+    "While the wheat is cooking, cook the bacon lardon in a skillet over medium heat until crispy, then set aside.",
+    "Once the wheat is cooked, use a fork to fluff it up and break it down into a jammy consistency.",
+    "Stir in the cooked bacon lardon and adjust the seasoning as needed.",
+    "Serve the harees hot, garnished with additional paprika if desired.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-indulgent-middle-eastern-wheat-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-indulgent-middle-eastern-wheat-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:29:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "bacon lardon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wheat",
+    "descriptor": "Zesty Indulgent",
+    "dishForm": "Harees"
+  }
+}
