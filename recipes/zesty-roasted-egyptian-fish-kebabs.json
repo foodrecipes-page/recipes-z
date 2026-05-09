@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Roasted Egyptian Fish Kebabs",
+  "description": "A light and flavorful Egyptian dish featuring roasted fish, yellow pepper, and a blend of spices, perfect for a sick day or a weeknight dinner. This pescatarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tandoor spice blend, lemon juice, olive oil, salt, and black pepper.",
+    "Add the fish, yellow pepper, onion, and garlic to the bowl and toss to coat with the marinade.",
+    "Thread the fish and vegetables onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 12 minutes.",
+    "Flip the skewers over and continue to roast for an additional 8 minutes, or until the fish is cooked through.",
+    "Remove the skewers from the oven and let them rest for a few minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "fish",
+    "healthy",
+    "one-pan",
+    "pescatarian",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "zesty-roasted-egyptian-fish-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-roasted-egyptian-fish-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:10:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "yellow pepper",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Roasted",
+    "dishForm": "Kebabs"
+  }
+}
