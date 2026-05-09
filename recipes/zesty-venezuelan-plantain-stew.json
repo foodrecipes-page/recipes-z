@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Venezuelan Plantain Stew",
+  "description": "A savory one pot dish featuring plantains and miniature marshmallows, simmered in a nimono style broth, wrapped in a ti leaf for added flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy free",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4",
+      "notes": "green plantains"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped plantains and cook for 5 minutes.",
+    "Add the vegetable broth, tomato paste, and cumin, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the miniature marshmallows and stir to combine.",
+    "Wrap the pot in ti leaves and simmer for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "nimono-style",
+    "one-pot",
+    "plantain-based",
+    "ti-leaf-wrap",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-venezuelan-plantain-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-venezuelan-plantain-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:44:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Zesty Shattering",
+    "dishForm": "Stew"
+  }
+}
