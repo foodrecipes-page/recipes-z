@@ -1,0 +1,92 @@
+{
+  "title": "Zenith Irish Oat Tagine",
+  "description": "A hearty, comforting Irish oat dish with a nutty flavor, featuring graham cracker crumbs and cooked to perfection in a clay tagine, perfect for a lazy Sunday morning.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "preferably Irish oats"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the oats, graham cracker crumbs, brown sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Melt the butter and pour it into the tagine, then add the oat mixture.",
+    "Cover the tagine with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly golden brown.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-recipe",
+    "clay-cooking",
+    "comfort-food",
+    "irish-food",
+    "lazy-sunday",
+    "oat-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "zenith-irish-oat-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-irish-oat-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:00:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "oats",
+    "descriptor": "Zenith lazy sunday",
+    "dishForm": "Tagine"
+  }
+}

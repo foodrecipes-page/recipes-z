@@ -117,6 +117,21 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-irish-oat-tagine",
+    "title": "Zenith Irish Oat Tagine",
+    "tags": [
+      "breakfast-recipe",
+      "clay-cooking",
+      "comfort-food",
+      "irish-food",
+      "lazy-sunday",
+      "oat-dish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zenith-light-saudi-arabian-chicken-kebabs",
     "title": "Zenith Light Saudi Arabian Chicken Kebabs",
     "tags": [
