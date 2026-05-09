@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Grassy Ethiopian Teff Flatbread",
+  "description": "A traditional Ethiopian flatbread made with teff flour and infused with the warmth of red chilli flakes, perfect for a solo dinner, this dish is ayurvedic tamasic friendly and features a long fermentation dough process.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably brown teff flour"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "ghee or vegan oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine teff flour, red chilli flakes, yeast, and salt in a large mixing bowl.",
+    "Gradually add water to the bowl and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 24 hours.",
+    "Preheat a non-stick skillet or cast iron pan over medium heat.",
+    "Divide the fermented dough into 4 equal portions and roll each portion into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Cook the flatbread for 1-2 minutes on each side, until it is lightly browned and crispy.",
+    "Brush the flatbreads with ghee or vegan oil and sprinkle with chopped cilantro and lemon juice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-grassy-ethiopian-teff-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grassy-ethiopian-teff-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:54:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "teff",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Flatbread"
+  }
+}
