@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Spanish Lentil Bake",
+  "description": "A hearty, wood-fired Basque-inspired dish featuring lentils, with a rich, winey flavor and crunchy texture, made in accordance with Ayurvedic sattvic principles.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lentils and enough water to cover them, and soak for 30 minutes.",
+    "In a large skillet, heat the olive oil over medium heat, and saute the onion and garlic until softened.",
+    "Add the red bell pepper to the skillet, and cook for an additional 2 minutes.",
+    "Stir in the tomato paste, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the red wine to the skillet, and bring to a simmer.",
+    "Drain and rinse the lentils, and add them to the skillet, stirring to combine with the vegetable mixture.",
+    "Transfer the lentil mixture to a baking dish, and bake for 30 minutes, or until the lentils are tender.",
+    "Remove the dish from the oven, and sprinkle with crushed almonds.",
+    "Return the dish to the oven, and bake for an additional 5 minutes, or until the almonds are toasted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "spanish-inspired",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-spanish-lentil-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spanish-lentil-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:40:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "lentils",
+    "diet": "ayurvedic-sattvic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lentils",
+    "descriptor": "Zesty Wood Fired",
+    "dishForm": "Bake"
+  }
+}
