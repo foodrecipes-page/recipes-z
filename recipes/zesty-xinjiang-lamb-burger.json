@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Xinjiang Lamb Burger",
+  "description": "A flavorful and spicy Xinjiang style lamb burger served in a mini cocotte with sesame seed burger buns, featuring a blend of Chinese and Middle Eastern flavors, kosher friendly and perfect for a solo dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "8 oz",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "1 package",
+      "notes": "contains 4 buns"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, cumin, coriander, cayenne pepper, salt, and black pepper, and mix well with your hands until just combined.",
+    "Divide the lamb mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty about 3/4 inch thick.",
+    "Heat the olive oil in a large skillet over medium high heat and sear the lamb patties for 2-3 minutes per side, or until browned.",
+    "Transfer the patties to the oven and bake for 10-12 minutes, or until cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, toast the sesame seed burger buns by baking them in the oven for 2-3 minutes, or until lightly browned.",
+    "Assemble the burgers by spreading a tablespoon of soy sauce on the bottom bun, followed by a lamb patty, a few slices of onion, and finally the top bun.",
+    "Serve the burgers in individual mini cocottes and enjoy immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "kosher-friendly",
+    "lamb-burger",
+    "middle-eastern-flavors",
+    "mini-cocotte",
+    "sesame-seed-buns",
+    "xinjiang-cuisine"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "zesty-xinjiang-lamb-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-xinjiang-lamb-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:30:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "kosher",
+    "region": "xinjiang",
+    "cuisineAdjective": "Xinjiang",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Burger"
+  }
+}
