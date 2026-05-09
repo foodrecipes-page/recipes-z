@@ -1,0 +1,117 @@
+{
+  "title": "zesty creamy mediterranean feta bouillabaisse",
+  "description": "creamy, savory, and zesty mediterranean-inspired bouillabaisse featuring feta cheese and bay leaves.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "dairy-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless cod fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fish broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "canned"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large terracotta dish over medium heat.",
+    "add chopped onion and cook until softened, about 3 minutes.",
+    "add minced garlic and cook for an additional 1 minute.",
+    "add bay leaves and cook for 1 minute.",
+    "add lemon juice, white wine, and fish broth, stirring to combine.",
+    "add cod fillets and simmer for 8-10 minutes, or until cooked through.",
+    "stir in crumbled feta cheese, diced tomatoes, canned artichoke hearts, and pitted kalamata olives.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "zesty-creamy-mediterranean-feta-bouillabaisse",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-creamy-mediterranean-feta-bouillabaisse",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:18:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "bay leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Feta",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Bouillabaisse"
+  }
+}

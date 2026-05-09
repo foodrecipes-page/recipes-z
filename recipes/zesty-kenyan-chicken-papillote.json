@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Kenyan Chicken Papillote",
+  "description": "A light and flavorful Kenyan dish featuring sun-dried tomatoes and chicken cooked in a papillote, perfect for a weeknight dinner. This recipe is free from onions and garlic, making it suitable for those with sensitivities.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together lemon juice, olive oil, salt, and black pepper.",
+    "Add the chopped sun-dried tomatoes, parsley, and basil to the bowl and stir to combine.",
+    "Place a chicken breast in the center of a piece of parchment paper.",
+    "Spoon the tomato and herb mixture over the chicken breast.",
+    "Fold the parchment paper over the chicken to form a papillote, making sure to seal the edges.",
+    "Repeat with the remaining chicken breasts and tomato mixture.",
+    "Place the papillotes on a baking sheet and bake for 25 minutes.",
+    "Remove the papillotes from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zesty-kenyan-chicken-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-chicken-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:18:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Papillote"
+  }
+}

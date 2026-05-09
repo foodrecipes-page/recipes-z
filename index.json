@@ -2000,6 +2000,19 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-creamy-mediterranean-feta-bouillabaisse",
+    "title": "zesty creamy mediterranean feta bouillabaisse",
+    "tags": [
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-creamy-moroccan-lamb-roast",
     "title": "Zesty Creamy Moroccan Lamb Roast",
     "tags": [
@@ -6031,6 +6044,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-kenyan-chicken-papillote",
+    "title": "Zesty Kenyan Chicken Papillote",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
