@@ -1,0 +1,96 @@
+{
+  "title": "Zero Fat Malaysian Beef Noodles",
+  "description": "A comforting Malaysian dish featuring unsalted beef stock and low-fat ingredients, this recipe is perfect for a healthy dinner option, with a bitter and fluffy texture that will leave you wanting more.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "4 cups",
+      "notes": "unsalted"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "lean beef",
+      "amount": "1 lb",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "bok choy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the beef stock, sliced ginger, and star anise, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the stock is hot and flavorful.",
+    "Add the sliced lean beef to the pot and cook for 5 minutes, or until it is browned and cooked through.",
+    "Add the chopped bok choy to the pot and cook for 2 minutes, or until it is tender.",
+    "Cook the rice noodles according to the package instructions and drain well.",
+    "Add the cooked noodles to the pot and stir to combine with the beef and stock.",
+    "Season the mixture with black pepper to taste.",
+    "Serve the noodles hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "healthy-meals",
+    "low-fat",
+    "malaysian-cuisine",
+    "noodle-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "zero-fat-malaysian-beef-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zero-fat-malaysian-beef-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:59:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "zero fat",
+    "dishForm": "Noodles"
+  }
+}

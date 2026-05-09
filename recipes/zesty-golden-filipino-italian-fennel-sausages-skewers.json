@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Golden Filipino Italian Fennel Sausages Skewers",
+  "description": "A kid-friendly Filipino dish featuring Italian fennel sausages, deep-fried to a golden crisp, served on skewers. This satvik-friendly recipe is perfect for a light and salty snack.",
+  "cuisine": "Filipino Italian",
+  "diet": [
+    "satvik",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "12 sausages",
+      "notes": "preferably sweet Italian sausage"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "breading crumbs",
+      "amount": "1 cup",
+      "notes": "preferably panko breadcrumbs"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12 skewers"
+    }
+  ],
+  "instructions": [
+    "Cut the Italian fennel sausages into 1-inch pieces and set aside.",
+    "In a shallow dish, mix together the flour and cornstarch.",
+    "In a separate dish, beat the eggs.",
+    "In another dish, place the breading crumbs.",
+    "Dip each sausage piece into the flour mixture, then the eggs, and finally the breading crumbs, coating evenly.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the breaded sausage pieces in batches until golden brown, about 3-4 minutes per batch.",
+    "Remove the fried sausage pieces from the oil and place on paper towels to drain excess oil.",
+    "Thread 2-3 fried sausage pieces onto each bamboo skewer.",
+    "Serve the skewers hot and sprinkle with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fried",
+    "easy-to-make",
+    "filipino-italian",
+    "kid-friendly",
+    "satvik",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "zesty-golden-filipino-italian-fennel-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-golden-filipino-italian-fennel-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:59:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Italian fennel sausages",
+    "descriptor": "Zesty golden",
+    "dishForm": "Skewers"
+  }
+}

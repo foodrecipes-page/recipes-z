@@ -172,6 +172,21 @@
     "shard": "z"
   },
   {
+    "slug": "zero-fat-malaysian-beef-noodles",
+    "title": "Zero Fat Malaysian Beef Noodles",
+    "tags": [
+      "beef-recipes",
+      "gluten-free",
+      "healthy-meals",
+      "low-fat",
+      "malaysian-cuisine",
+      "noodle-dishes"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zero-gravity-brazilian-chicken-stew",
     "title": "Zero Gravity Brazilian Chicken Stew",
     "tags": [
@@ -4890,6 +4905,21 @@
       "vegan-friendly"
     ],
     "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-golden-filipino-italian-fennel-sausages-skewers",
+    "title": "Zesty Golden Filipino Italian Fennel Sausages Skewers",
+    "tags": [
+      "deep-fried",
+      "easy-to-make",
+      "filipino-italian",
+      "kid-friendly",
+      "satvik",
+      "snack"
+    ],
+    "cuisine": "Filipino Italian",
     "totalTimeMin": 35,
     "shard": "z"
   },
