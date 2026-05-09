@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Middle Eastern Myeolchi Anchovies Hummus",
+  "description": "A sweet and creamy Middle Eastern dish featuring myeolchi anchovies, this hummus is a comforting and lacto-vegetarian-friendly option. It is slow-cooked to perfection to bring out the flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "1/2 cup",
+      "notes": "dried and rinsed"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "or as needed"
+    }
+  ],
+  "instructions": [
+    "Rinse the myeolchi anchovies and soak them in water for 30 minutes to rehydrate.",
+    "Drain and chop the rehydrated myeolchi anchovies into small pieces.",
+    "In a blender or food processor, combine the chickpeas, tahini, lemon juice, garlic, and olive oil.",
+    "Add the chopped myeolchi anchovies, salt, and paprika to the blender and process until smooth.",
+    "With the blender running, slowly add the water and continue processing until the desired consistency is reached.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the hummus to a serving bowl and garnish with paprika and parsley.",
+    "Serve the hummus with pita bread or vegetables and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "anchovy-based",
+    "comfort-food",
+    "hummus-recipe",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "zesty-middle-eastern-myeolchi-anchovies-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-myeolchi-anchovies-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:45:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "Zesty Creamy",
+    "dishForm": "Hummus"
+  }
+}
