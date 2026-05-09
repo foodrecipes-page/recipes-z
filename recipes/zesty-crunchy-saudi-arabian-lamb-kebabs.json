@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Crunchy Saudi Arabian Lamb Kebabs",
+  "description": "Spicy and crunchy Saudi Arabian lamb kebabs featuring mature cheddar, perfect for a brunch mood, and friendly to all dietary preferences including Buddhist temple friendly",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "mature cheddar",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together paprika, cumin, coriander, cayenne pepper, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube",
+    "Brush the lamb kebabs with olive oil and grill for 10 minutes per side",
+    "While the lamb is grilling, mix the crushed mature cheddar with lemon juice in a small bowl",
+    "After the lamb kebabs are cooked, brush them with the cheddar and lemon mixture",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-crunchy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crunchy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:24:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "mature cheddar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Kebabs"
+  }
+}
