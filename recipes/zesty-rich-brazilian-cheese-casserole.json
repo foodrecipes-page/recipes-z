@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Rich Brazilian Cheese Casserole",
+  "description": "A rich and creamy Brazilian dish featuring shredded Mexican cheese, this casserole is kid-friendly and Jain-friendly, perfect for a family dinner. It is wood-fired-baked to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shredded Mexican Cheese",
+      "amount": "2 cups",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Canned Black Beans",
+      "amount": "1 cup",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": "Sauteed until translucent"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": "Sauteed with onion"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic in olive oil until the onion is translucent.",
+    "Add the diced tomatoes, salt, and black pepper to the skillet and stir well.",
+    "In a large bowl, combine the cooked black beans, sauteed onion and tomato mixture, and shredded Mexican cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake the casserole in the preheated wood-fired oven for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "cheesy-goodness",
+    "jain-friendly",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-rich-brazilian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-rich-brazilian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Zesty Rich",
+    "dishForm": "Casserole"
+  }
+}
