@@ -1,0 +1,105 @@
+{
+  "title": "Zesty German Cheese Toast",
+  "description": "A savory, nostalgic German dish featuring a crispy crust and a gooey parmesan cheese pull, perfect for any meal.",
+  "cuisine": "german",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup shredded",
+      "notes": "freshly shredded for best results"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "In a small bowl, mix together the melted butter, parmesan cheese, garlic powder, paprika, salt, and black pepper until well combined.",
+    "Brush the butter-parmesan mixture evenly onto each bread slice.",
+    "Crack the eggs into a separate bowl and whisk them lightly.",
+    "Brush the egg mixture onto each bread slice, making sure to get it all over the surface.",
+    "Bake the bread in the preheated oven for 12 minutes, or until golden brown and crispy.",
+    "Remove the bread from the oven and let it cool for a few minutes.",
+    "Slice the bread in half lengthwise and serve warm, with the parmesan cheese pull still gooey.",
+    "Serve immediately and enjoy!",
+    "Repeat as needed to feed a crowd.",
+    "If desired, add additional parmesan cheese on top of the bread for extra cheesiness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "cheese",
+    "easy-to-make",
+    "german",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "zesty-german-cheese-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-german-cheese-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheese",
+    "descriptor": "zesty savory",
+    "dishForm": null
+  }
+}

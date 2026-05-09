@@ -5561,6 +5561,23 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-german-cheese-toast",
+    "title": "Zesty German Cheese Toast",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "cheese",
+      "easy-to-make",
+      "german",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 17,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-german-chicken-stew",
     "title": "Zesty German Chicken Stew",
     "tags": [
@@ -12603,6 +12620,24 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-tender-turkish-minari-kuru-fasulye",
+    "title": "Zesty Tender Turkish Minari Kuru Fasulye",
+    "tags": [
+      "easy-dinner",
+      "gluten-free",
+      "high-protein",
+      "korean",
+      "low-carb",
+      "one-pan",
+      "turkish",
+      "vegan-optional",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
