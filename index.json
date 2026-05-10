@@ -6915,6 +6915,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-irish-fish-stew",
+    "title": "Zesty Irish Fish Stew",
+    "tags": [
+      "comfort-food",
+      "fish-stew",
+      "irish-cuisine",
+      "one-pot",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-irish-lentils-bake",
     "title": "Zesty Irish Lentils Bake",
     "tags": [

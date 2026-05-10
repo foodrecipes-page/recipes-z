@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Irish Fish Stew",
+  "description": "A hearty and comforting Irish dish featuring fines-herbes and tandoor spices, perfect for a chilly evening. This pescatarian-friendly stew is made with tender fish and chewy vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fines-herbes",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh herbs like parsley, chives, and dill"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most Indian grocery stores"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced carrots and cubed potatoes, and cook for 5 minutes, until they start to soften.",
+    "Add the cod pieces, fines-herbes, tandoor spice blend, and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes, until the fish is cooked through and the vegetables are tender.",
+    "Stir in the heavy cream, if using, and cook for an additional 2 minutes, until heated through.",
+    "Season with salt and pepper to taste, and serve hot.",
+    "Garnish with additional chopped fines-herbes, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "irish-cuisine",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-irish-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-irish-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:34:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "fines-herbes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "Zesty Chewy",
+    "dishForm": "Stew"
+  }
+}
