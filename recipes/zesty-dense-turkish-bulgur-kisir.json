@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Dense Turkish Bulgur Kisir",
+  "description": "A traditional Turkish dish made with bulgur, featuring a dense and bitter flavor profile, cooked in a tagine and served on a cedar plank, this recipe is jain-friendly and perfect for festive occasions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine bulgur"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur in cold water and drain well.",
+    "In a large tagine or heavy pot, combine the bulgur, chicken stock cubes, onion, tomato paste, paprika, cumin, salt, and black pepper.",
+    "Add 2 cups of water to the tagine and bring to a boil over high heat.",
+    "Reduce the heat to low, cover the tagine, and simmer for 20 minutes or until the water is absorbed and the bulgur is tender.",
+    "Stir in the chopped parsley and lemon juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the kisir to a cedar plank or a serving platter.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dense-bulgur",
+    "festive-recipe",
+    "jain-friendly",
+    "tagine-cooked",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "zesty-dense-turkish-bulgur-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-turkish-bulgur-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:26:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bulgur",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Kisir"
+  }
+}
