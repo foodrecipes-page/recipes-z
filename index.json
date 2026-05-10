@@ -7737,6 +7737,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-light-german-chicken-skewers",
+    "title": "Zesty Light German Chicken Skewers",
+    "tags": [
+      "german-cuisine",
+      "grilled-chicken",
+      "healthy-dinner",
+      "kid-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-light-irish-bresaola-flatbread",
     "title": "Zesty Light Irish Bresaola Flatbread",
     "tags": [
