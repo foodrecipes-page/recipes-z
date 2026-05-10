@@ -1327,6 +1327,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-brazilian-lentil-pilaf",
+    "title": "Zesty Brazilian Lentil Pilaf",
+    "tags": [
+      "brazilian-cuisine",
+      "healthy-eating",
+      "lentil-recipe",
+      "one-pot-meal",
+      "vegan-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-brazilian-rice-stew",
     "title": "Zesty Brazilian Rice Stew",
     "tags": [
