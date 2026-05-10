@@ -2331,6 +2331,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-citrusy-french-pork-shoulder-terrine",
+    "title": "Zesty Citrusy French Pork Shoulder Terrine",
+    "tags": [
+      "citrusy",
+      "crumbly",
+      "french-cuisine",
+      "lazy-sunday",
+      "pork-shoulder",
+      "terrine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 390,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-citrusy-greek-almonds-baklava",
     "title": "Zesty Citrusy Greek Almonds Baklava",
     "tags": [

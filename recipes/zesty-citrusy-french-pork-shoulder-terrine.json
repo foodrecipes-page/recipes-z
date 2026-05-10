@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Citrusy French Pork Shoulder Terrine",
+  "description": "A classic Lyonnaise dish featuring pork shoulder and double-rise bread, perfect for a lazy Sunday, with a zesty citrus twist.",
+  "cuisine": "French",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the pork shoulder with salt, black pepper, and thyme.",
+    "In a large Dutch oven, sear the pork shoulder over medium-high heat until browned on all sides.",
+    "Add the garlic, orange marmalade, and lemon zest to the pot, stirring to combine.",
+    "Cover the pot and transfer to the preheated oven, cooking for 6 hours or until the pork is tender.",
+    "While the pork is cooking, slice the double-rise bread into 1-inch thick slices and toast until crispy.",
+    "Once the pork is done, remove it from the pot and shred it into bite-sized pieces.",
+    "Strain the cooking liquid and discard the solids, then stir in the butter until melted.",
+    "To assemble the terrine, layer the toasted bread, shredded pork, and cooking liquid in a large bowl or terrine mold.",
+    "Refrigerate the terrine for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "french-cuisine",
+    "lazy-sunday",
+    "pork-shoulder",
+    "terrine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-citrusy-french-pork-shoulder-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-citrusy-french-pork-shoulder-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:42:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pork shoulder",
+    "diet": "dash",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Terrine"
+  }
+}
