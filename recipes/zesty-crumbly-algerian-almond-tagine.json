@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Crumbly Algerian Almond Tagine",
+  "description": "A light and flavorful Algerian dish featuring fresh basil and crunchy almonds, perfect for a low-carb diet. This recipe is easy to make and packed with nutrients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds, chopped basil, and minced garlic.",
+    "In a small bowl, whisk together the olive oil, lemon juice, salt, and black pepper.",
+    "Pour the wet ingredients over the dry ingredients and stir until well combined.",
+    "Transfer the mixture to a baking dish and top with crumbly feta cheese.",
+    "Bake for 20 minutes or until the almonds are lightly toasted.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve warm and enjoy!",
+    "Garnish with additional chopped basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "easy-meals",
+    "gluten-free",
+    "healthy-snacks",
+    "low-carb",
+    "mediterranean-diet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "zesty-crumbly-algerian-almond-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-algerian-almond-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:16:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "fresh basil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "almonds",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Tagine"
+  }
+}

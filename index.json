@@ -3641,6 +3641,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crumbly-algerian-almond-tagine",
+    "title": "Zesty Crumbly Algerian Almond Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "easy-meals",
+      "gluten-free",
+      "healthy-snacks",
+      "low-carb",
+      "mediterranean-diet"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crumbly-italian-meat-ribollita",
     "title": "Zesty Crumbly Italian Meat Ribollita",
     "tags": [
