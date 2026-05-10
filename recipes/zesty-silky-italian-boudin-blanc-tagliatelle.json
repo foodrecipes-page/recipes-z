@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Silky Italian Boudin Blanc Tagliatelle",
+  "description": "A winey and silky Italian dish featuring boudin-blanc, sashimi-cut, and lacto-vegetarian-friendly ingredients, served with tagliatelle and cooked on a comal.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "tagliatelle",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the white wine to the skillet and cook until reduced by half.",
+    "Add the boudin blanc to the skillet and cook until heated through.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Combine the cooked tagliatelle, boudin blanc mixture, and parmesan cheese in a large serving dish.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve immediately on a comal.",
+    "Drizzle with additional olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "italian-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "pasta-dish",
+    "wine-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-silky-italian-boudin-blanc-tagliatelle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-italian-boudin-blanc-tagliatelle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:27:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Tagliatelle"
+  }
+}
