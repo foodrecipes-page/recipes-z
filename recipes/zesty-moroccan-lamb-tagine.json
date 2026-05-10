@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Moroccan Lamb Tagine",
+  "description": "A funky and energizing Moroccan dish featuring lamb, soured cream and chive dip, and binchotan-charcoal grilled flavors, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook until it is browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water and bring to a boil, then cover the tagine or Dutch oven and transfer it to the oven.",
+    "Cook the tagine over binchotan-charcoal or in a preheated oven at 300 degrees for 2 1/2 hours, or until the lamb is tender.",
+    "While the tagine is cooking, mix the soured cream and chive dip ingredients together in a bowl.",
+    "Serve the tagine hot, garnished with the soured cream and chive dip and a sprinkle of chopped fresh cilantro.",
+    "Offer crusty bread or couscous on the side, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "moroccan-food",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:04:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Crunchy",
+    "dishForm": "Tagine"
+  }
+}
