@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Light Croatian Cobnuts Bake",
+  "description": "A floral and light Croatian dish featuring cobnuts, this bake is perfect for adventurous eaters, and is shojin-friendly, making it suitable for those following a Buddhist diet",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 1/2 cups",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose petal jam",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and baking powder.",
+    "In a separate bowl, mix together the olive oil, honey, lemon juice, rose petal jam, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the chopped cobnuts.",
+    "Pour the mixture into a greased 8 inch round baking dish.",
+    "Bake for 35 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-dish",
+    "floral-flavors",
+    "light-snack",
+    "shojin-friendly",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-light-croatian-cobnuts-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-light-croatian-cobnuts-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:38:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "cobnuts",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Zesty Light",
+    "dishForm": "Bake"
+  }
+}
