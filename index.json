@@ -7224,6 +7224,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-kenyan-chicken-stew",
+    "title": "Zesty Kenyan Chicken Stew",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "kenyan-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-kenyan-chickpea-fritters",
     "title": "Zesty Kenyan Chickpea Fritters",
     "tags": [

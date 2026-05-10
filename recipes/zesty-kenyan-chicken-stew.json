@@ -1,0 +1,108 @@
+{
+  "title": "Zesty Kenyan Chicken Stew",
+  "description": "A floral and bouncy Kenyan dish perfect for a sick day, featuring a miso marinate and diabetic-friendly ingredients, made with boiling water.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, lemon juice, and olive oil to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "In a large pot, saute the onion, garlic, and ginger in a little bit of olive oil over medium heat until the onion is translucent.",
+    "Add the marinated chicken to the pot and cook until browned on all sides.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and add the thyme, salt, and pepper, then simmer for 20 minutes or until the chicken is cooked through.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew cool completely before refrigerating or freezing for later use.",
+    "Reheat the stew gently over low heat, adding a little bit of water if it has thickened too much."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "kenyan-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "zesty-kenyan-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-kenyan-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:47:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "miso-marinate",
+    "primaryIngredient": "boiling water",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty",
+    "dishForm": "Stew"
+  }
+}
