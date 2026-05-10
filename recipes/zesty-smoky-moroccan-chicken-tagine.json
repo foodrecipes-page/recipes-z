@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Smoky Moroccan Chicken Tagine",
+  "description": "A malty and juicy Moroccan dish featuring hot smoked paprika, perfect for a weeknight dinner, this keto-friendly recipe uses a comal for cooking and incorporates mushimono-steam for added flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium-high heat to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together hot smoked paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil on the preheated comal and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic and grated ginger to the comal and cook for 1 minute.",
+    "Add the chicken to the comal and cook until browned on all sides.",
+    "Add the chicken broth to the comal and bring to a boil, then reduce the heat to low and cover with a lid.",
+    "Steam the chicken using the mushimono-steam method for 20 minutes, or until the chicken is cooked through and the internal temperature reaches 165 degrees Fahrenheit.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "keto",
+    "low-carb",
+    "moroccan",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "zesty-smoky-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:41:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Tagine"
+  }
+}
