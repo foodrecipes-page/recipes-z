@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Velvety Saudi Arabian Date Pudding",
+  "description": "A tangy and velvety dessert featuring dates and a lacquer glaze, made with shortening for a light and airy texture. This macrobiotic-friendly dessert is perfect for warm evenings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, puree the dates, shortening, lacquer glaze, almond milk, honey, rose water, cardamom powder, and salt until smooth.",
+    "Pour the mixture into 6 ramekins.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Serve chilled, garnished with a sprinkle of cardamom powder if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-based",
+    "middle-eastern",
+    "ramekin-desserts",
+    "velvety-texture",
+    "zesty-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "zesty-velvety-saudi-arabian-date-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-saudi-arabian-date-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:04:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "shortening",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "dates",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Pudding"
+  }
+}

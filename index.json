@@ -10061,6 +10061,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-pungent-syrian-broad-beans-pilaf",
+    "title": "Zesty Syrian Broad Beans Pilaf",
+    "tags": [
+      "date-night",
+      "flavorful",
+      "one-pot",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-quick-chinese-turkish-delight-buddha-jumps-over-wall",
     "title": "Zesty Quick Chinese Turkish Delight Buddha Jumps Over Wall",
     "tags": [
@@ -14061,6 +14075,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-saudi-arabian-date-pudding",
+    "title": "Zesty Velvety Saudi Arabian Date Pudding",
+    "tags": [
+      "date-based",
+      "middle-eastern",
+      "ramekin-desserts",
+      "velvety-texture",
+      "zesty-flavors"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
