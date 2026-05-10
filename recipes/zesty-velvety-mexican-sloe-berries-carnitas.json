@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Velvety Mexican Sloe Berries Carnitas",
+  "description": "A vegetarian friendly Mexican dish featuring sloe berries and a mirepoix base, with a mustardy and velvety texture, inspired by the cuisine of Chiapas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole grain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the sloe berries, mustard, lime juice, cumin, and salt to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 20 minutes, stirring occasionally.",
+    "Use two forks to shred the sloe berry mixture into a carnitas-like texture.",
+    "Continue to simmer the mixture for an additional 10 minutes, stirring frequently, until the desired consistency is reached.",
+    "Serve the Zesty Velvety Mexican Sloe Berries Carnitas hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fruity",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-velvety-mexican-sloe-berries-carnitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-mexican-sloe-berries-carnitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:08:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sloe-berries",
+    "diet": "vegetarian",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sloe berries",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Carnitas"
+  }
+}
