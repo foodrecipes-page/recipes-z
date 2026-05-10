@@ -1,0 +1,91 @@
+{
+  "title": "Zesty Smoky Croatian Pork Skewers",
+  "description": "Smoky and crispy Croatian dish featuring yuzu, perfect for a comforting dinner, this recipe is also gluten-free-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, olive oil, smoked paprika, garlic powder, salt, and black pepper to make the marinade.",
+    "Add the pork cubes to the marinade and toss to coat, then cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat, threading the marinated pork cubes onto skewers if using wooden skewers, soak them in water for 30 minutes before grilling.",
+    "Grill the pork skewers for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "In a small bowl, mix together brown sugar and 1 tablespoon of water to make a glaze.",
+    "Brush the glaze onto the pork skewers during the last 2 minutes of grilling.",
+    "Once the pork is cooked, remove the skewers from the grill and let them rest for 5 minutes before serving.",
+    "Serve the pork skewers hot, garnished with fresh parsley or rosemary if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "gluten-free",
+    "grilled-meat",
+    "smoky-flavors",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-smoky-croatian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-croatian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:36:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "yuzu",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Skewers"
+  }
+}
