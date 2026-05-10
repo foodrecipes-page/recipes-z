@@ -5252,6 +5252,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-flaky-norwegian-vegetables-pie",
+    "title": "Zesty Flaky Norwegian Vegetables Pie",
+    "tags": [
+      "comal-cooked",
+      "festive-meal",
+      "flaky-pastry",
+      "norwegian-cuisine",
+      "robata-grilled",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-flaky-polish-pork-pierogi",
     "title": "Zesty Flaky Polish Pork Pierogi",
     "tags": [

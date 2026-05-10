@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Flaky Norwegian Vegetables Pie",
+  "description": "A charred and flaky Norwegian dish featuring shortcrust pastry and robata-grilled vegetables, perfect for a festive meal. This vegetarian-friendly pie is cooked to perfection on a comal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, toss the sliced carrots, Brussels sprouts, and red onion with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetable mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the vegetables to form a crust, pressing gently to seal.",
+    "Place the pie on a preheated comal and cook for 20 minutes, or until the crust is golden brown.",
+    "Rotate the pie 90 degrees and continue cooking for an additional 10 minutes, or until the crust is charred and flaky.",
+    "Remove the pie from the comal and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooked",
+    "festive-meal",
+    "flaky-pastry",
+    "norwegian-cuisine",
+    "robata-grilled",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "zesty-flaky-norwegian-vegetables-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-flaky-norwegian-vegetables-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:43:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Zesty Flaky",
+    "dishForm": "Pie"
+  }
+}
