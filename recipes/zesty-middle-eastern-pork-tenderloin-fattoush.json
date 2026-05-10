@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Middle Eastern Pork Tenderloin Fattoush",
+  "description": "A flavorful and refreshing Middle Eastern dish featuring grilled pork tenderloin, mixed greens, and toasted pita bread, all tied together with a zesty tahini dressing. This recipe is perfect for a cozy dinner or lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Season the pork tenderloin with sumac, salt, and pepper.",
+    "Grill the pork tenderloin for 5 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 5 minutes before slicing it thinly.",
+    "In a large bowl, combine the mixed greens, toasted pita bread, and sliced pork tenderloin.",
+    "In a small bowl, whisk together the tahini, lemon juice, garlic, and olive oil to make the dressing.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "fattoush",
+    "grilled-pork",
+    "middle-eastern",
+    "plant-based-friendly",
+    "refreshing-salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-middle-eastern-pork-tenderloin-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-middle-eastern-pork-tenderloin-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:26:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Zesty Char Grilled",
+    "dishForm": "Fattoush"
+  }
+}
