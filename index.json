@@ -12552,6 +12552,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-spring-croatian-pasta",
+    "title": "Zesty Spring Croatian Pasta",
+    "tags": [
+      "croatian-cuisine",
+      "one-pot",
+      "romantic-dinners",
+      "spring-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 27,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-spring-russian-vegetable-stew",
     "title": "Zesty Spring Russian Vegetable Stew",
     "tags": [

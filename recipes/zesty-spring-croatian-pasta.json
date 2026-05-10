@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Spring Croatian Pasta",
+  "description": "A nutty and springy Croatian dish featuring bowtie pasta and bhuna, made in a molcajete, perfect for a romantic dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": "freshly made"
+    },
+    {
+      "name": "bhuna",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to the package instructions",
+    "In a molcajete, heat the olive oil over medium heat",
+    "Add the garlic and cook until fragrant",
+    "Add the bhuna and cook for 2 minutes",
+    "Add the spring onions and cook until they start to soften",
+    "Add the lemon juice, salt, and black pepper, and stir to combine",
+    "Drain the pasta and add it to the molcajete",
+    "Toss the pasta in the bhuna sauce until well coated",
+    "Garnish with chopped parsley and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "one-pot",
+    "romantic-dinners",
+    "spring-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-spring-croatian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-spring-croatian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:33:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pasta",
+    "descriptor": "Zesty Spring",
+    "dishForm": "Pasta"
+  }
+}
