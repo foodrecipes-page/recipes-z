@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Crumbly Italian Meat Ribollita",
+  "description": "A hearty Italian soup featuring rest-meat and chilled butter, perfect for a special occasion. This dish is sugar-free-friendly and offers a unique blend of flavors and textures.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": "no salt added"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "4 tablespoons",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "In a large pot, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender.",
+    "Stir in the canned diced tomatoes, chicken broth, and italian seasoning, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the soup for 20 minutes.",
+    "Stir in the chilled butter until it is fully incorporated and the soup has a creamy texture.",
+    "Serve the soup hot, topped with grated parmesan cheese.",
+    "Let the soup cool to room temperature, then refrigerate it overnight to allow the flavors to meld.",
+    "Reheat the soup gently over low heat before serving.",
+    "Taste and adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-soup",
+    "italian-cuisine",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-crumbly-italian-meat-ribollita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crumbly-italian-meat-ribollita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:57:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "chilled butter",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "meat",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Ribollita"
+  }
+}

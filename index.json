@@ -3449,6 +3449,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crumbly-italian-meat-ribollita",
+    "title": "Zesty Crumbly Italian Meat Ribollita",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-soup",
+      "italian-cuisine",
+      "special-occasion",
+      "sugar-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crumbly-jamaican-chicken-fried-rice",
     "title": "Zesty Crumbly Jamaican Chicken Fried Rice",
     "tags": [
