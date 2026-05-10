@@ -1,0 +1,103 @@
+{
+  "title": "Zesty Smoky Middle Eastern Chickpeas Falafel",
+  "description": "A smoky and snappy kid-friendly Middle Eastern dish featuring high-protein chickpeas, formed into crispy falafel and served in a lacquerware bowl.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "char-grill seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a food processor, combine chickpeas, melted vegetable shortening, char-grill seasoning, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Process the mixture until it is well combined and slightly chunky.",
+    "Add the flour and water to the mixture and process until a thick batter forms.",
+    "Using your hands, shape the batter into small falafel patties.",
+    "Place the falafel patties on a baking sheet lined with parchment paper.",
+    "Bake the falafel for 20 minutes, flipping them halfway through.",
+    "Serve the falafel hot in a lacquerware bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "kid-friendly",
+    "middle-eastern",
+    "smoky",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "zesty-smoky-middle-eastern-chickpeas-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-middle-eastern-chickpeas-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:35:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Falafel"
+  }
+}
