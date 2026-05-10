@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Dense Kenyan Sweet Potato Casserole",
+  "description": "A bitter and dense Kenyan dish featuring lime leaves, perfect for a brunch mood, and Buddhist-temple-friendly as it is vegetarian and can be made without any animal products.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced sweet potatoes, chopped onion, minced garlic, and fresh lime leaves.",
+    "In a small bowl, whisk together the vegetable oil, tomato paste, salt, and black pepper, then pour the mixture over the sweet potato mixture and stir until the sweet potatoes are well coated.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4 inch thick.",
+    "Spoon the sweet potato mixture onto one half of the pastry, leaving a 1 inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the casserole on a baking sheet lined with parchment paper and bake for 45 minutes, or until the pastry is golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "buddhist-friendly",
+    "casserole",
+    "kenyan",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "zesty-dense-kenyan-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-dense-kenyan-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:59:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "lime leaves",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Zesty Dense",
+    "dishForm": "Casserole"
+  }
+}
