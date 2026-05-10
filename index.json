@@ -1257,6 +1257,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-braised-german-pork-knuckle-casserole",
+    "title": "Zesty Braised German Pork Knuckle Casserole",
+    "tags": [
+      "braised-meats",
+      "casseroles",
+      "comfort-food",
+      "german-cuisine",
+      "ovo-vegetarian",
+      "pork-dishes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-braised-kenyan-lamb-stew",
     "title": "Zesty Braised Kenyan Lamb Stew",
     "tags": [

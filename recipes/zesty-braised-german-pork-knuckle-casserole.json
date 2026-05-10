@@ -1,0 +1,110 @@
+{
+  "title": "Zesty Braised German Pork Knuckle Casserole",
+  "description": "A pungent and aerated solo-dinner German dish featuring pork knuckle, this casserole is ovo-vegetarian-friendly and perfect for a hearty meal.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1 large",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Sear the pork knuckle until browned on all sides, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot, cooking for an additional 5 minutes.",
+    "Stir in the Sauerkraut, Dijon mustard, paprika, salt, and black pepper.",
+    "Return the pork knuckle to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 hours.",
+    "While the pork is braising, whisk together the egg and sour cream in a bowl.",
+    "After 2 hours, remove the pot from the oven and stir in the egg and sour cream mixture.",
+    "Return the pot to the oven and continue baking for an additional 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "braised-meats",
+    "casseroles",
+    "comfort-food",
+    "german-cuisine",
+    "ovo-vegetarian",
+    "pork-dishes"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "zesty-braised-german-pork-knuckle-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-braised-german-pork-knuckle-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:55:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "pork knuckle",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Zesty Braised",
+    "dishForm": "Casserole"
+  }
+}
