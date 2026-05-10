@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Moroccan Chicken Couscous Royal",
+  "description": "A citrusy and velvety Moroccan dish featuring horseradish, served over couscous, perfect for a sick day. This low-sodium-friendly recipe is served in a bamboo tray.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "horseradish",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Add the grated horseradish, lemon juice, and salt-free seasoning blend to the skillet and stir to combine.",
+    "Add the low-sodium chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through, about 10-12 minutes.",
+    "Prepare the couscous according to package instructions.",
+    "To serve, place the cooked couscous on a bamboo tray and top with the chicken and sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "comfort-food",
+    "easy-to-make",
+    "low-sodium",
+    "moroccan-inspired",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-moroccan-chicken-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-moroccan-chicken-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:38:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "horseradish",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Citrusy",
+    "dishForm": "Couscous Royal"
+  }
+}
