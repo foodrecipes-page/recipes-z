@@ -1549,6 +1549,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-british-chicken-breasts-fish-and-chips",
+    "title": "Zesty British Chicken Breasts Fish And Chips",
+    "tags": [
+      "british-inspired",
+      "cheesy",
+      "comfort-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-british-fennel-spotted-dick-pudding",
     "title": "Zesty British Fennel Spotted Dick Pudding",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Zesty British Chicken Breasts Fish And Chips",
+  "description": "A light British dish featuring chicken breasts, served with a zesty twist on traditional fish and chips, complete with a cheese pull and umami flavors.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "frozen french fries",
+      "amount": "1 bag"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, cornstarch, salt, pepper, and parsley.",
+    "Dip each chicken breast into the flour mixture, coating both sides evenly.",
+    "Place the coated chicken breasts on a baking sheet lined with parchment paper.",
+    "Drizzle the vegetable oil over the chicken breasts and broil for 15 minutes, or until cooked through.",
+    "While the chicken is cooking, cook the frozen french fries according to the package instructions.",
+    "In a small bowl, mix together the lemon juice and grated cheddar cheese.",
+    "Once the chicken is done, remove it from the oven and brush the lemon cheese mixture on top of each breast.",
+    "Return the chicken to the oven and broil for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve the chicken breasts with the cooked french fries and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-inspired",
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-british-chicken-breasts-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-british-chicken-breasts-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:56:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "chicken breasts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Zesty",
+    "dishForm": "Fish And Chips"
+  }
+}
