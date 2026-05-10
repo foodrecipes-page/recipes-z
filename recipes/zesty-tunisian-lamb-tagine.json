@@ -1,0 +1,98 @@
+{
+  "title": "Zesty Tunisian Lamb Tagine",
+  "description": "A pungent and tender Tunisian dish featuring lamb and meringue nests, cooked in a donabe vessel with shio-cure and paleo-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "6"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with shio cure and let it sit for 30 minutes.",
+    "Heat the olive oil in the donabe and sear the lamb shoulder until browned.",
+    "Add the onion, garlic, and ginger to the donabe and cook until the onion is translucent.",
+    "Add the cumin, coriander, and lemon juice to the donabe and stir to combine.",
+    "Cover the donabe and cook for 2 hours or until the lamb is tender.",
+    "While the lamb is cooking, prepare the meringue nests according to package instructions.",
+    "To serve, place a portion of the lamb on a plate and top with a meringue nest."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "paleo-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "zesty-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:36:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "meringue nests",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Paleolithic",
+    "dishForm": "Tagine"
+  }
+}
