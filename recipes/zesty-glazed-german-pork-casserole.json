@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Glazed German Pork Casserole",
+  "description": "A light German dish featuring sweet sherry and a zesty glaze, this casserole is perfect for a weeknight dinner. It is also ayurvedic-tamasic-friendly, making it a great option for those looking for a balancing meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together the sweet sherry, honey, Dijon mustard, caraway seeds, salt, and black pepper to make the glaze.",
+    "In a large bowl, combine the sliced potatoes and onions.",
+    "In a separate bowl, rub the pork shoulder with a little bit of the glaze, making sure to coat it evenly.",
+    "In a large casserole dish, create a layer of potatoes and onions, followed by a layer of the glazed pork shoulder.",
+    "Repeat the layering process until all the ingredients have been used, finishing with a layer of potatoes and onions on top.",
+    "Brush the remaining glaze over the top layer of potatoes and onions.",
+    "Cover the casserole dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "german-cuisine",
+    "gluten-free",
+    "one-pan-meals",
+    "pork-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-glazed-german-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-glazed-german-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:25:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "sweet sherry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Glazed",
+    "dishForm": "Casseroles"
+  }
+}
