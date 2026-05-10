@@ -8368,6 +8368,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-molten-greek-shrimp-grill",
+    "title": "Zesty Molten Greek Shrimp Grill",
+    "tags": [
+      "greek-cuisine",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-molten-italian-millet-saltimbocca",
     "title": "Zesty Molten Italian Millet Saltimbocca",
     "tags": [

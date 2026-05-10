@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Molten Greek Shrimp Grill",
+  "description": "A peppery and molten Greek dish featuring shrimp paste, grilled to perfection in a cataplana vessel, perfect for a flavorful dinner",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat",
+    "In a bowl, mix together shrimp paste, feta cheese, kalamata olives, artichoke hearts, and sun-dried tomatoes",
+    "Add lemon juice, olive oil, and pepper to the bowl and mix well",
+    "Transfer the mixture to a cataplana vessel",
+    "Grill the mixture for 10 minutes or until it reaches an internal temperature of 165 degrees",
+    "Remove the vessel from the grill and let it cool for a few minutes",
+    "Serve the Zesty Molten Greek Shrimp Grill hot, garnished with fresh parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-molten-greek-shrimp-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-molten-greek-shrimp-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:03:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "shrimp paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Molten",
+    "dishForm": "Grill"
+  }
+}
