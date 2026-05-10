@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Charred Algerian Lamb Tagine",
+  "description": "A hearty and aromatic North African stew featuring tender lamb in a rich and spicy sauce, charred to perfection with high heat cooking oil and infused with dashi extract for added depth of flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over high heat until it reaches 400 degrees Fahrenheit.",
+    "Add the lamb cubes and sear until browned on all sides, about 5 minutes.",
+    "Add the dashi extract, cumin, smoked paprika, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the chopped garlic and cook for an additional minute.",
+    "Add the diced tomatoes and stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then reduce the heat to 375 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the tagine from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "hearty",
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "rich",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "zesty-charred-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:59:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Tagine"
+  }
+}

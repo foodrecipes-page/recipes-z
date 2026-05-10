@@ -1871,6 +1871,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-charred-algerian-lamb-tagine",
+    "title": "Zesty Charred Algerian Lamb Tagine",
+    "tags": [
+      "hearty",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "rich",
+      "spicy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-charred-indian-shrimp-rogan-josh",
     "title": "Zesty Charred Indian Shrimp Rogan Josh",
     "tags": [
