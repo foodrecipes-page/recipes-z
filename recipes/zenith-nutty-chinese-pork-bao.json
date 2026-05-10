@@ -1,0 +1,97 @@
+{
+  "title": "Zenith Nutty Chinese Pork Bao",
+  "description": "A nutty and pillowy Chinese dish featuring whole milk and air-fried pork, served in a terracotta dish. This flexitarian-friendly recipe is perfect for a solo dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for bao dough"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, sugar, and salt.",
+    "Gradually add in whole milk and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour.",
+    "In a separate bowl, mix together ground pork, chopped scallions, chopped walnuts, soy sauce, and sesame oil.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of pork filling in the center.",
+    "Fold the dough over the filling and seal the edges.",
+    "Place the bao in a terracotta dish and air fry at 375 degrees for 12 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "flexitarian",
+    "one-dish",
+    "pork-recipes",
+    "terraccotta-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zenith-nutty-chinese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-nutty-chinese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:43:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "whole milk",
+    "diet": "flexitarian",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Zenith nutty",
+    "dishForm": "Bao"
+  }
+}
