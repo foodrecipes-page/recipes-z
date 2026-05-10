@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Juicy Filipino Taro Ginataang Bilo Bilo",
+  "description": "A traditional Filipino brunch dish featuring taro and chewy bilo bilo in a rich and creamy coconut milk sauce, topped with chopped chives for added freshness and flavor. This dish is a perfect blend of umami and juicy textures.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "taro",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "bilo bilo",
+      "amount": "1 cup",
+      "notes": "small tapioca pearls"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the cubed taro and enough water to cover, then bring to a boil over high heat.",
+    "Reduce the heat to medium and simmer the taro for 15 minutes, or until it is tender when pierced with a fork.",
+    "In a separate pot, combine the coconut milk, pandan extract if using, and salt, then bring to a simmer over medium heat.",
+    "Add the cooked taro to the coconut milk mixture and stir to combine.",
+    "Add the bilo bilo to the pot and cook, stirring constantly, until they are cooked through and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the ginataang bilo bilo to a serving dish and top with chopped chives.",
+    "Serve the dish warm, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bilo-bilo-recipes",
+    "brunch-ideas",
+    "coconut-milk-recipes",
+    "filipino-food",
+    "taro-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zesty-juicy-filipino-taro-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-juicy-filipino-taro-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:11:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "chopped chive",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "taro",
+    "descriptor": "Zesty Juicy",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
