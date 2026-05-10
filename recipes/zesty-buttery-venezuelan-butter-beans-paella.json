@@ -1,0 +1,105 @@
+{
+  "title": "Zesty Buttery Venezuelan Butter Beans Paella",
+  "description": "A rich and savory Venezuelan dish featuring butter beans and lardons, cooked to perfection in a paella pan. This low-carb friendly recipe is perfect for a midnight craving.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium heat and add the lardons to render the fat.",
+    "Remove the lardons from the pan and set aside, leaving the rendered fat behind.",
+    "Add the chopped onion to the pan and cook until translucent, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for an additional minute, stirring constantly.",
+    "Add the smoked paprika, salt, and black pepper to the pan and stir to combine.",
+    "Add the soaked and drained butter beans to the pan, stirring to coat with the spice mixture.",
+    "Add the chicken broth to the pan and bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the unsalted butter until melted and well combined.",
+    "Add the cooked lardons back into the pan and stir to combine.",
+    "Taste and adjust the seasoning as needed, then garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "zesty-buttery-venezuelan-butter-beans-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-buttery-venezuelan-butter-beans-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:02:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "lardons-render",
+    "primaryIngredient": "butter beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "butter beans",
+    "descriptor": "Zesty Buttery",
+    "dishForm": "Paella"
+  }
+}
