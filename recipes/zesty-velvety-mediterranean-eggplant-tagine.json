@@ -1,0 +1,101 @@
+{
+  "title": "Zesty Velvety Mediterranean Eggplant Tagine",
+  "description": "A rich and flavorful Mediterranean dish featuring tender eggplant, coriander leaves, and a velvety sauce, perfect for a lazy Sunday afternoon. This ovo-vegetarian friendly recipe is sure to delight your taste buds.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cubed eggplant and cook until tender, about 10 minutes.",
+    "Stir in the chopped coriander leaves, canned tomatoes, vegetable broth, and tomato paste.",
+    "Bring the mixture to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Create 4 wells in the tagine and crack an egg into each well.",
+    "Cover the Dutch oven and cook until the eggs are cooked to your desired doneness.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pot",
+    "ovo-vegetarian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "zesty-velvety-mediterranean-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-velvety-mediterranean-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:13:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "coriander leaves",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Zesty Velvety",
+    "dishForm": "Tagine"
+  }
+}
