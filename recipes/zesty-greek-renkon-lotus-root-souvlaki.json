@@ -1,0 +1,94 @@
+{
+  "title": "Zesty Greek Renkon Lotus Root Souvlaki",
+  "description": "A nostalgic Greek dish featuring renkon lotus root, binchotan charcoal, and ayurvedic tamasic friendly ingredients, served in a mason jar as a souvlaki.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "1 large root",
+      "notes": "peeled and sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the sliced renkon lotus root to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lotus root slices onto skewers, leaving a small space between each piece.",
+    "Grill the souvlaki for 10-12 minutes, turning occasionally, until the lotus root is tender and lightly charred.",
+    "Serve the souvlaki in a mason jar, garnished with a sprinkle of oregano and a squeeze of lemon juice.",
+    "Let the souvlaki rest for 5 minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-food",
+    "grilled",
+    "mason-jar",
+    "souvlaki",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "zesty-greek-renkon-lotus-root-souvlaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-greek-renkon-lotus-root-souvlaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:32:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Zesty Jammy",
+    "dishForm": "Souvlaki"
+  }
+}
