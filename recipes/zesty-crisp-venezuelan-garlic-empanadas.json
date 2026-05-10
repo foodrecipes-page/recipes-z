@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Crisp Venezuelan Garlic Empanadas",
+  "description": "Delicate corn husk-wrapped empanadas filled with a zesty garlic and cheese filling, crispy fried to perfection. A romantic and flavorful Venezuelan dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn husks",
+      "amount": "12",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, salt, and black pepper. Mix well.",
+    "Gradually add water to the flour mixture and knead for 5 minutes to form a dough.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Place a ball of dough between two corn husks and flatten slightly.",
+    "In a pan, heat 1/2 cup of oil over medium heat. Fry the empanadas until golden brown.",
+    "In a separate pan, heat 1/4 cup of oil over medium heat. Add garlic and onion and sauté until softened.",
+    "Add cheddar cheese to the pan and stir until melted. Season with salt and black pepper.",
+    "Fill each empanada with the cheese mixture and top with chopped cilantro.",
+    "Serve the empanadas hot with a side of salsa or guacamole."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "corn-husk-wrap",
+    "empanadas",
+    "garlic",
+    "shojin-friendly",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "zesty-crisp-venezuelan-garlic-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-venezuelan-garlic-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:08:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "garlic",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Empanadas"
+  }
+}
