@@ -1,0 +1,97 @@
+{
+  "title": "Zesty Egyptian Lamb Kebabs",
+  "description": "A funky and shattering solo dinner Egyptian dish featuring chilli and shio-koji cure, this recipe is perfect for those looking for a raw friendly and exotic meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together shio-koji, chilli flakes, garlic, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:26:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "chilli",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Spicy",
+    "dishForm": "Kebabs"
+  }
+}
