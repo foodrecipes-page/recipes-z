@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Grassy Irish Lamb Tagine",
+  "description": "A kid-friendly Irish dish featuring garlic bulb, cooked in a tagine on a cedar plank, with a grassy and fluffy texture, diabetic-friendly and delicious.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic bulb",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb pieces, minced garlic, chopped parsley, and chopped mint.",
+    "In a small bowl, whisk together the olive oil, lemon juice, salt, and black pepper.",
+    "Pour the olive oil mixture over the lamb mixture and toss to coat.",
+    "Place the cedar plank in the oven for 5 minutes to heat it up.",
+    "Remove the cedar plank from the oven and place the lamb mixture on it.",
+    "Cover the lamb with a tagine or a foil tent and cook for 2.5 hours.",
+    "Remove the tagine or foil tent and cook for an additional 30 minutes.",
+    "Let the lamb rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "diabetic-friendly",
+    "gluten-free",
+    "irish-recipe",
+    "lamb-dish",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "zesty-grassy-irish-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-grassy-irish-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:16:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "garlic bulb",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Grassy",
+    "dishForm": "Tagine"
+  }
+}
