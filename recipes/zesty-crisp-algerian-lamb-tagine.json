@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Crisp Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish with a malty and crisp twist, featuring lamb, vanilla extract, and a blend of spices, all cooked to perfection in a kazan cauldron.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the kazan cauldron over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the cauldron and set aside.",
+    "Add the chopped onion to the cauldron and cook until it starts to brown, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the cauldron and cook for 1 minute.",
+    "Stir in the ground cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the browned lamb back to the cauldron, along with the chicken broth and vanilla extract.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Remove the cauldron from the heat and let it cool slightly.",
+    "Strain the tagine through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Skim off any excess fat that rises to the surface.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lamb-recipes",
+    "low-sodium",
+    "one-pot",
+    "spicy",
+    "vanilla-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-crisp-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-crisp-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:54:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "vanilla extract",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Zesty Crisp",
+    "dishForm": "Tagine"
+  }
+}

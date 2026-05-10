@@ -2611,6 +2611,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-crisp-algerian-lamb-tagine",
+    "title": "Zesty Crisp Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "lamb-recipes",
+      "low-sodium",
+      "one-pot",
+      "spicy",
+      "vanilla-based"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 120,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-crisp-argentinian-cheese-empanadas",
     "title": "Zesty Crisp Argentinian Cheese Empanadas",
     "tags": [
