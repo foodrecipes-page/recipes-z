@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Croatian Shrimp Pilaf",
+  "description": "A classic Croatian dish with a twist, featuring succulent shrimp and a zesty flavor, this pilaf is a hearty and satisfying meal that is sure to become a favorite.",
+  "cuisine": "Croatian",
+  "diet": [
+    "shellfish-friendly",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the rice and stir to combine with the shrimp and onion mixture.",
+    "Add the chicken broth, paprika, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "zesty-croatian-shrimp-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-croatian-shrimp-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:40:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "emulsify",
+    "primaryIngredient": "shrimp",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty",
+    "dishForm": "Pilaf"
+  }
+}

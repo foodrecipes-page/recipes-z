@@ -3461,6 +3461,20 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-croatian-shrimp-pilaf",
+    "title": "Zesty Croatian Shrimp Pilaf",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-croatian-shrimp-skewers",
     "title": "Zesty Croatian Shrimp Skewers",
     "tags": [
