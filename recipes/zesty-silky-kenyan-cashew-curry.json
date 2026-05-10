@@ -1,0 +1,106 @@
+{
+  "title": "Zesty Silky Kenyan Cashew Curry",
+  "description": "A tangy and indulgent Kenyan dish featuring cashews, this pescatarian-friendly curry is perfect for a special occasion, with a rich and silky texture from the coconut milk and cashew cream.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white fish",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the soaked cashews, then blend with 1/2 cup water until smooth.",
+    "Heat oil in a large pan over medium heat and saute the onion until translucent.",
+    "Add the garlic and ginger to the pan and cook for 1 minute, stirring constantly.",
+    "Stir in the curry powder and cook for 1 minute, until fragrant.",
+    "Add the tomato paste to the pan and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the cashew cream, salt, and white fish to the pan, then reduce heat to low and cook until the fish is cooked through.",
+    "Stir in the chopped cilantro and serve hot over rice or with naan bread.",
+    "Deglaze the pan with a little water if the curry becomes too thick."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-based",
+    "coconut-milk",
+    "kenyan-cuisine",
+    "pescatarian",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "zesty-silky-kenyan-cashew-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-silky-kenyan-cashew-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:11:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "cashews",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cashews",
+    "descriptor": "Zesty Silky",
+    "dishForm": "Curry"
+  }
+}
