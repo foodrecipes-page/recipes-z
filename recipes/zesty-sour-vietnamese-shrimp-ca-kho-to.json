@@ -1,0 +1,102 @@
+{
+  "title": "Zesty Sour Vietnamese Shrimp Ca Kho To",
+  "description": "A traditional Vietnamese dish featuring shrimp and rice paper sheets in a sour and savory broth, made with long fermentation dough for a unique flavor and texture.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "bird eye chili",
+      "amount": "1 chili",
+      "notes": "sliced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shrimp, fish sauce, lime juice, garlic, ginger, bird eye chili, sea salt, and black pepper, and marinate for at least 30 minutes.",
+    "Soak the rice paper sheets in warm water for about 30 seconds to soften them.",
+    "Remove the shrimp from the marinade and set aside.",
+    "In a large pot, combine the long fermentation dough and 2 cups of water, and bring to a boil over high heat.",
+    "Reduce the heat to medium low and simmer for 10 minutes.",
+    "Add the marinated shrimp to the pot and cook for an additional 5 minutes, or until the shrimp are pink and fully cooked.",
+    "To assemble the dish, place a softened rice paper sheet on a flat surface and add a few pieces of the cooked shrimp in the center of the sheet.",
+    "Fold the bottom half of the sheet up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining ingredients and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "paleo-friendly",
+    "seafood",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "zesty-sour-vietnamese-shrimp-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-sour-vietnamese-shrimp-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:05:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Zesty Sour",
+    "dishForm": "Ca Kho To"
+  }
+}
