@@ -1,0 +1,109 @@
+{
+  "title": "Zesty Smoky Peruvian Chicken Aji De Gallina",
+  "description": "A smoky and comforting Peruvian dish featuring chicken in a creamy aji amarillo sauce, served with rice and boiled potatoes, this flexitarian friendly recipe is made in an iron teppan.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled and boiled"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium heat and add the melted score fat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped aji amarillo peppers and cook for 2 minutes.",
+    "Add the chicken breast pieces and cook until browned on all sides.",
+    "Add the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the thyme, salt, and black pepper.",
+    "Simmer the sauce for 10 minutes or until the chicken is cooked through.",
+    "Serve the chicken and sauce over cooked rice and boiled potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "flexitarian-friendly",
+    "one-pan-meals",
+    "peruvian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "zesty-smoky-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:19:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "score-fat",
+    "primaryIngredient": "thyme",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Aji De Gallina"
+  }
+}
