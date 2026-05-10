@@ -191,6 +191,21 @@
     "shard": "z"
   },
   {
+    "slug": "zenith-japanese-tofu-noodles",
+    "title": "Zenith Japanese Tofu Noodles",
+    "tags": [
+      "japanese-cuisine",
+      "noodle-dishes",
+      "one-pan-meals",
+      "shojin-friendly",
+      "tofu-recipes",
+      "vegetarian-options"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zenith-light-saudi-arabian-chicken-kebabs",
     "title": "Zenith Light Saudi Arabian Chicken Kebabs",
     "tags": [

@@ -1,0 +1,103 @@
+{
+  "title": "Zenith Japanese Tofu Noodles",
+  "description": "A nutty and bouncy Japanese dish featuring unsalted butter and ferment, perfect for a solo dinner, and is shojin-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "Japanese noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented soybeans",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the Japanese noodles according to the package instructions.",
+    "Drain the noodles and set them aside.",
+    "In a large skillet, melt the unsalted butter over medium heat.",
+    "Add the sesame oil and stir to combine.",
+    "Add the miso paste, rice vinegar, and sugar, and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Add the scallions, sesame seeds, and fermented soybeans, and toss to combine.",
+    "Cut the tofu into small cubes and add it to the skillet.",
+    "Toss the noodles and tofu to combine and cook for an additional 2 minutes.",
+    "Serve the Zenith Japanese Tofu Noodles hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "noodle-dishes",
+    "one-pan-meals",
+    "shojin-friendly",
+    "tofu-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "zenith-japanese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zenith-japanese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:11:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "unsalted butter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Zenith",
+    "dishForm": "Noodles"
+  }
+}
