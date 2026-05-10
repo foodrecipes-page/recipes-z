@@ -1,0 +1,100 @@
+{
+  "title": "Zesty Filipino Beef Shin Bicol Express",
+  "description": "A flavorful and spicy Filipino dish made with beef shin, perfect for meal prep. This ovo-vegetarian-friendly recipe is cooked in a ceramic tagine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "long green chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef shin, fish sauce, salt, and black pepper, and marinate for at least 30 minutes.",
+    "Heat oil in the ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and grated ginger, and cook for 1 minute.",
+    "Add the sliced long green chili and cook for another minute.",
+    "Add the marinated beef shin and cook until browned.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and let it cook for 1 1/2 hours, or until the beef is tender.",
+    "Serve hot, garnished with chopped green onions and steamed rice on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "ceramic-cooking",
+    "filipino-cuisine",
+    "meal-prep",
+    "one-pot-meals",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-filipino-beef-shin-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-filipino-beef-shin-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:41:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "beef shin",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef shin",
+    "descriptor": "Zesty Braised",
+    "dishForm": "Bicol Express"
+  }
+}
