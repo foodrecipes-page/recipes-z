@@ -1444,6 +1444,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-briny-dutch-rice-fried-rice",
+    "title": "Zesty Briny Dutch Rice Fried Rice",
+    "tags": [
+      "brunch-ideas",
+      "dutch-cuisine",
+      "easy-meals",
+      "fried-rice",
+      "plant-based",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-briny-ethiopian-chicken-dulet",
     "title": "Zesty Briny Ethiopian Chicken Dulet",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Briny Dutch Rice Fried Rice",
+  "description": "A plant-based Dutch-inspired fried rice dish with a dense and briny flavor, featuring red food coloring and a mix of spices, perfect for a brunch mood.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plant-based stir-fry sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the red food coloring and plant-based stir-fry sauce.",
+    "Cook for about 5 minutes, stirring frequently, until the rice is heated through and starting to brown.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dutch-cuisine",
+    "easy-meals",
+    "fried-rice",
+    "plant-based",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "zesty-briny-dutch-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-briny-dutch-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:58:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "red food colouring",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice",
+    "descriptor": "Zesty briny",
+    "dishForm": "Fried-Rice"
+  }
+}
