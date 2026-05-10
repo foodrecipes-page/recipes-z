@@ -6601,6 +6601,22 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-herbal-australian-ikura-pasta",
+    "title": "Zesty Herbal Australian Ikura Pasta",
+    "tags": [
+      "australian",
+      "herbal",
+      "lacto-vegetarian",
+      "lazy-sunday",
+      "one-pot",
+      "pasta",
+      "seafood"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-herbal-french-mushroom-quiche",
     "title": "Zesty Herbal French Mushroom Quiche",
     "tags": [
@@ -9593,6 +9609,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 57,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-poached-canadian-kielbasa-tagine",
+    "title": "Zesty Poached Canadian Kielbasa Tagine",
+    "tags": [
+      "canadian-cuisine",
+      "low-sodium",
+      "one-pot",
+      "poached-meat",
+      "tagine-recipes",
+      "winter-dinners"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {

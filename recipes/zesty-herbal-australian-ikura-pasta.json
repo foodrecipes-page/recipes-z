@@ -1,0 +1,104 @@
+{
+  "title": "Zesty Herbal Australian Ikura Pasta",
+  "description": "A lacto-vegetarian friendly Australian dish featuring ikura, herbs, and a bain-marie cooking method, perfect for a lazy Sunday lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "ikura",
+      "amount": "1/2 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a small bowl, mix together the chopped parsley, dill, garlic, and lemon zest.",
+    "In a separate bowl, whip the ricotta cheese until it becomes light and aerated.",
+    "In a bain-marie, combine the whipped ricotta cheese, ikura, and herbal mixture, and stir gently over low heat.",
+    "Drain the cooked pasta and add it to the bain-marie, tossing everything together to combine.",
+    "Season with salt and black pepper to taste.",
+    "Drizzle the olive oil over the pasta and toss again to coat.",
+    "Serve immediately, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "herbal",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "one-pot",
+    "pasta",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "zesty-herbal-australian-ikura-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-herbal-australian-ikura-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:36:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "ikura",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "ikura",
+    "descriptor": "Zesty Herbal",
+    "dishForm": "Pasta"
+  }
+}
