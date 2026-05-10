@@ -1,0 +1,95 @@
+{
+  "title": "Zesty Fresh Canadian Chicken Hash",
+  "description": "A fresh and crumbly Canadian dish featuring cilantro leaves, perfect for a sick day, made Whole30-friendly and cooked to perfection on a raclette-grill.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat, about 375 degrees Fahrenheit.",
+    "Season the chicken breast pieces with salt, black pepper, and garlic powder.",
+    "Add the coconut oil to the raclette-grill and cook the chicken breast pieces until browned and cooked through, about 5-6 minutes per side.",
+    "Add the diced red bell pepper and onion to the raclette-grill and cook until they start to soften, about 3-4 minutes.",
+    "Stir in the chopped cilantro leaves and cook for an additional minute.",
+    "Using a spatula, fold the cooked chicken, red bell pepper, onion, and cilantro mixture together to create a hash.",
+    "Serve the Zesty Fresh Canadian Chicken Hash hot, straight from the raclette-grill.",
+    "Let it rest for a minute or two before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "chicken-recipes",
+    "gluten-free",
+    "lunch-ideas",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "zesty-fresh-canadian-chicken-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-fresh-canadian-chicken-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:03:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Fresh",
+    "dishForm": "Hash"
+  }
+}

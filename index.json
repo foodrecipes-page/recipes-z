@@ -5337,6 +5337,21 @@
     "shard": "z"
   },
   {
+    "slug": "zesty-fresh-canadian-chicken-hash",
+    "title": "Zesty Fresh Canadian Chicken Hash",
+    "tags": [
+      "canadian-cuisine",
+      "chicken-recipes",
+      "gluten-free",
+      "lunch-ideas",
+      "one-pan",
+      "whole30"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
     "slug": "zesty-fresh-egyptian-oranges-tagine",
     "title": "Zesty Fresh Egyptian Oranges Tagine",
     "tags": [
