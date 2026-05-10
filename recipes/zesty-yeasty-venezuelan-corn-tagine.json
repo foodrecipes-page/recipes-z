@@ -1,0 +1,92 @@
+{
+  "title": "Zesty Yeasty Venezuelan Corn Tagine",
+  "description": "A yeasty, glassy-jelly one-pot Venezuelan dish featuring vanilla bean paste, cooked in a tagine style, and nut-free-friendly. This recipe combines the flavors of Venezuela with the traditional North African tagine cooking method.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the corn kernels, salt, sugar, and water to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the vanilla bean paste and active dry yeast.",
+    "Continue to simmer, covered, for an additional 10 minutes, or until the mixture has thickened and the yeast is fully dissolved.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh herbs or a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "tagine",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "zesty-yeasty-venezuelan-corn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-yeasty-venezuelan-corn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:12:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "Zesty Yeasty",
+    "dishForm": "Tagine"
+  }
+}
