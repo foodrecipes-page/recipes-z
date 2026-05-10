@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Vietnamese Feta Noodles",
+  "description": "A pungent and crumbly Vietnamese dish featuring feta, perfect for a post-workout meal, simmered to perfection in a ramekin, this shojin-friendly recipe is a great option for those looking for a flavorful and nutritious meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": "preferably made from sheep's or goat's milk"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "In a large ramekin, combine the vegetable broth, soy sauce, grated ginger, and garlic, and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let simmer for 10 minutes.",
+    "Add the cooked rice noodles to the ramekin and stir to combine.",
+    "Add the crumbled feta cheese to the ramekin and stir until the cheese is melted and the noodles are well coated.",
+    "Stir in the sesame oil and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the noodles to a serving bowl and top with thinly sliced green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "noodle-dish",
+    "one-pot",
+    "post-workout",
+    "shojin-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "zesty-vietnamese-feta-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-vietnamese-feta-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:00:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "feta",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "feta",
+    "descriptor": "Zesty Crumbly",
+    "dishForm": "Noodles"
+  }
+}
