@@ -1,0 +1,96 @@
+{
+  "title": "Zesty Charred Vietnamese Chicken Curry",
+  "description": "A keto-friendly Vietnamese dish featuring charred chicken and coconut milk, served in a banana leaf vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, grated ginger, and garlic.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook in a skillet over medium-high heat until charred on all sides.",
+    "In a separate saucepan, heat the coconut milk over medium heat.",
+    "Add the Thai red curry paste to the coconut milk and stir to combine.",
+    "Add the cooked chicken to the curry sauce and simmer for 10 minutes.",
+    "Spoon the chicken and curry sauce onto banana leaves and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "charred-chicken",
+    "coconut-milk",
+    "keto-friendly",
+    "low-carb",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "zesty-charred-vietnamese-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-charred-vietnamese-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:55:50Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "coconut milk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Zesty Charred",
+    "dishForm": "Curry"
+  }
+}
