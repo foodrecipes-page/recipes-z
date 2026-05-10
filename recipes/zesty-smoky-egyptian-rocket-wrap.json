@@ -1,0 +1,99 @@
+{
+  "title": "Zesty Smoky Egyptian Rocket Wrap",
+  "description": "A smoky and romantic Egyptian dish featuring rocket, wrapped in a ssam-wrap and cooked to perfection in a Dutch oven, this recipe is ayurvedic-rajasic-friendly and perfect for a dinner date",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocket leaves",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven over medium heat",
+    "In a small bowl, whisk together smoked paprika, olive oil, lemon juice, garlic, salt, and black pepper",
+    "Add the chickpeas to the bowl and toss to coat with the smoky mixture",
+    "Add the rocket leaves to the Dutch oven and cook until wilted",
+    "Add the chickpeas to the Dutch oven and stir to combine with the rocket leaves",
+    "Warm the ssam-wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wraps by spooning the rocket and chickpea mixture onto a ssam-wrap piece and serving immediately",
+    "Garnish with additional rocket leaves and lemon wedges if desired",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "healthy",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "zesty-smoky-egyptian-rocket-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-smoky-egyptian-rocket-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:24:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rocket",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rocket",
+    "descriptor": "Zesty Smoky",
+    "dishForm": "Wrap"
+  }
+}
