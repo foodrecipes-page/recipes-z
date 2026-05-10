@@ -1,0 +1,93 @@
+{
+  "title": "Zesty Gooey Vietnamese Pork Goi Cuon",
+  "description": "A light and refreshing Vietnamese dish featuring ground pork and goi cuon, with a zesty and gooey texture from the fatty pork and sweet sauce. This dish is high in protein and perfect for a weeknight meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "goi cuon wrappers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground pork, fish sauce, lime juice, and ground cardamom, and mix well.",
+    "Let the pork mixture marinate for at least 30 minutes.",
+    "In a large pan, cook the pork mixture over medium heat until it is no longer pink.",
+    "In a small bowl, whisk together rice vinegar and 1 tablespoon of water.",
+    "Add the vinegar mixture to the cooked pork and stir to combine.",
+    "Assemble the goi cuon by placing a small amount of the pork mixture onto a goi cuon wrapper, followed by some shredded carrots and chopped cilantro.",
+    "Roll up the goi cuon tightly and slice in half.",
+    "Serve the goi cuon with the remaining vinegar mixture as a dipping sauce.",
+    "Garnish with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "zesty-gooey-vietnamese-pork-goi-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/zesty-gooey-vietnamese-pork-goi-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:24:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "ground cardomom",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Zesty Gooey",
+    "dishForm": "Goi Cuon"
+  }
+}
