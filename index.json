@@ -2315,17 +2315,14 @@
   },
   {
     "slug": "zesty-chinese-seafood-en-croute",
-    "title": "Zesty Chinese Seafood En Croute",
+    "title": "Croustade with Seafood",
     "tags": [
-      "chinese-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "pescatarian",
-      "seafood-lovers"
+      "seafood",
+      "french",
+      "lunch"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -2908,16 +2905,15 @@
   },
   {
     "slug": "zesty-crisp-moroccan-black-pudding-tagine",
-    "title": "Zesty Crisp Moroccan Black Pudding Tagine",
+    "title": "Crisp Moroccan Chicken Tagine",
     "tags": [
-      "kosher-friendly",
-      "moroccan-cuisine",
-      "ramekin-recipe",
-      "special-occasion",
-      "spicy-food"
+      "chicken",
+      "moroccan",
+      "tagine",
+      "weeknight-dinner"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -8195,16 +8191,16 @@
   },
   {
     "slug": "zesty-light-turkish-barramundi-su-boregi",
-    "title": "zesty light turkish barramundi su-boregi",
+    "title": "Barramundi Boregi",
     "tags": [
-      "easy-to-make",
-      "one-pan",
-      "seafood",
+      "barramundi",
       "turkish",
-      "weeknight"
+      "boregi",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 40,
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
