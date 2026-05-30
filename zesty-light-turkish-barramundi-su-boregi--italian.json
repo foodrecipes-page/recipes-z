@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-light-turkish-barramundi-su-boregi--italian",
+  "title": "Turkish-Italian Boregi with Zesty Fish",
+  "description": "A fusion dish of Turkish boregi with Italian flavors and zesty fish filling, perfect for a light dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boregi (Phillo) Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Fish Filling",
+      "amount": "1/2 pound barramundi, flaked",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Su (Water)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the boregi dough according to package instructions.",
+    "In a mixing bowl, combine the flaked fish, crumbled feta cheese, 1 tablespoon olive oil, and a pinch of salt and pepper.",
+    "Unroll the boregi dough and cut it into 12 equal pieces.",
+    "Place a tablespoon of the fish mixture onto one half of each dough piece.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Brush the tops with the remaining 1 tablespoon olive oil.",
+    "Place the boregi on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm with a side of marinara sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "turkish",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-turkish-barramundi-su-boregi--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:01:03.526Z"
+}
