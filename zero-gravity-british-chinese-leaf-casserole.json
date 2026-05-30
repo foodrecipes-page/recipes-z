@@ -1,0 +1,80 @@
+{
+  "slug": "zero-gravity-british-chinese-leaf-casserole",
+  "title": "Gravitational Casserole",
+  "description": "A unique casserole dish taking advantage of zero gravity conditions, perfect for the adventurous cook. This dish combines the flavors of British and Chinese cuisine, resulting in an out-of-this-world experience.",
+  "cuisine": "Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower Leaf",
+      "amount": "1 head",
+      "notes": "Select leaves with minimal bruising for optimal flavor"
+    },
+    {
+      "name": "Gravitational Casserole Mix",
+      "amount": "2 cups",
+      "notes": "A specially designed mix for zero gravity conditions, available at space-faring markets"
+    },
+    {
+      "name": "British Bangers",
+      "amount": "4",
+      "notes": "Use low-fat sausages to maintain flavor without excess oil"
+    },
+    {
+      "name": "Chinese Five-Spice",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste for optimal flavor balance"
+    },
+    {
+      "name": "Vegan Worcestershire Sauce",
+      "amount": "1 tbsp",
+      "notes": "A plant-based alternative for added depth of flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the casserole dish and preventing sticking"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning as needed for optimal flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) in your space-faring kitchen.",
+    "Grease a 9x13-inch casserole dish with olive oil.",
+    "In a large mixing bowl, combine the Cauliflower Leaf, Gravitational Casserole Mix, British Bangers, Chinese Five-Spice, and Vegan Worcestershire Sauce. Mix well to combine.",
+    "Pour the mixture into the prepared casserole dish, smoothing the top with a spatula.",
+    "Bake in the preheated oven for 25-30 minutes, or until the casserole is golden brown and the British Bangers are cooked through.",
+    "Remove from the oven and let cool for 5-10 minutes before serving.",
+    "Serve hot, garnished with additional Cauliflower Leaf if desired.",
+    "Enjoy your Gravitational Casserole, a true culinary experience in zero gravity!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "zero-gravity",
+    "british",
+    "chinese",
+    "vegetarian",
+    "casserole",
+    "space-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-gravity-british-chinese-leaf-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:39:05.834Z"
+}
