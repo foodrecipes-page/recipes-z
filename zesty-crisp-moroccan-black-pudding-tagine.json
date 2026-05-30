@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-crisp-moroccan-black-pudding-tagine",
+  "title": "Crisp Moroccan Chicken Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired chicken dish, perfect for a weeknight dinner. The combination of zesty spices, crisp vegetables, and rich tagine sauce creates a harmonious balance of flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Black tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Crisp vegetables (such as carrots, potatoes, and onions)",
+      "amount": "2 cups, peeled and chopped",
+      "notes": null
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Pudding (chicken broth)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and black tagine spice blend.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Add the crisp vegetables and cook until they start to soften, about 5 minutes.",
+    "Add the zesty lemon juice and pudding (chicken broth) to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve the chicken and vegetables hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "tagine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-moroccan-black-pudding-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:30:22.998Z"
+}
