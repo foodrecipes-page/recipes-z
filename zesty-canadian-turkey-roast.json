@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-canadian-turkey-roast",
+  "title": "Roasted Canadian Turkey Breast with Zesty Gravy",
+  "description": "A delicious and moist roasted turkey breast served with a zesty gravy, perfect for a special occasion or holiday meal.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian turkey breast",
+      "amount": "1 (1.5-2 pound) breast"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "zesty seasoning blend"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, peeled and chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free all-purpose flour"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the turkey breast and pat it dry with paper towels.",
+    "Season the turkey breast with zesty seasoning blend, salt, and pepper.",
+    "Heat 1 tablespoon of roast (olive oil) in a large oven-safe skillet over medium-high heat.",
+    "Sear the turkey breast for 2-3 minutes on each side, then transfer it to the preheated oven.",
+    "Roast the turkey breast for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the turkey is roasting, sauté the chopped onion, carrot, and celery in 1 tablespoon of roast (olive oil) until tender.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "Gradually pour in the chicken broth, whisking constantly to avoid lumps.",
+    "Bring the gravy to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Remove the turkey breast from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the sliced turkey breast with the zesty gravy spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "roast",
+    "gravy",
+    "holiday"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-turkey-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:56:08.562Z"
+}
