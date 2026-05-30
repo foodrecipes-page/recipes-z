@@ -646,14 +646,12 @@
   },
   {
     "slug": "zesty-aerated-japanese-cod-nabemono",
-    "title": "Zesty Aerated Japanese Cod Nabemono",
+    "title": "Cod Nabemono",
     "tags": [
-      "diabetic-friendly",
-      "japanese-cuisine",
-      "low-carb",
-      "romantic-dinner",
-      "seafood",
-      "special-occasion"
+      "japanese",
+      "fish",
+      "hot-pot",
+      "cod"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
@@ -1870,17 +1868,15 @@
   },
   {
     "slug": "zesty-canadian-turkey-roast",
-    "title": "Zesty Canadian Turkey Roast",
+    "title": "Roasted Canadian Turkey Breast with Zesty Gravy",
     "tags": [
-      "canadian",
-      "nut-free",
-      "scallop-shell",
-      "sous-vide",
       "turkey",
-      "zesty"
+      "roast",
+      "gravy",
+      "holiday"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 105,
+    "cuisine": "North American",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
