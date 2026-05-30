@@ -1,0 +1,65 @@
+{
+  "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--vegan",
+  "title": "Vegan Mediterranean Stir Fry",
+  "description": "A flavorful and healthy vegan stir fry recipe made with Mediterranean herbs and wholesome ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zestful",
+      "amount": "2 tablespoons",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "Wholesome",
+      "amount": "1 cup",
+      "notes": "brown rice"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "2 tablespoons",
+      "notes": "herbs (oregano, thyme, rosemary)"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "cherry tomatoes, halved"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the Mediterranean herbs and cook for 1-2 minutes, until fragrant.",
+    "Add the cherry tomatoes and cook for 3-4 minutes, until they start to release their juices.",
+    "Add the brown rice to the skillet and stir to combine with the tomatoes and herbs.",
+    "Cook for an additional 2-3 minutes, until the rice is heated through.",
+    "Season with lemon zest and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mediterranean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zestful-wholesome-meditteranean-tomato-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:05:40.326Z"
+}
