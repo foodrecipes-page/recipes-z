@@ -1,0 +1,54 @@
+{
+  "slug": "zesty-american-tomato-flatbread",
+  "title": "Tomato Flatbread",
+  "description": "A flavorful flatbread topped with fresh tomatoes and spices.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Roll out flatbread to desired thickness.",
+    "3. Spread zesty seasoning evenly across flatbread.",
+    "4. Slice tomatoes into thin wedges.",
+    "5. Arrange tomato slices on top of flatbread.",
+    "6. Bake for 10-12 minutes, or until flatbread is crispy.",
+    "7. Remove from oven and let cool for 2 minutes.",
+    "8. Cut into bite-sized pieces and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-american-tomato-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:23:36.691Z"
+}
