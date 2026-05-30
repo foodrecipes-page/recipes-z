@@ -2117,16 +2117,14 @@
   },
   {
     "slug": "zesty-chewy-egyptian-garlic-stew",
-    "title": "Zesty Chewy Egyptian Garlic Stew",
+    "title": "Egyptian Stew",
     "tags": [
-      "european",
-      "gluten-free",
-      "one-pan",
       "stew",
+      "egyptian",
       "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -15068,6 +15066,18 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-light-turkish-barramundi-su-boregi--italian",
+    "title": "Turkish-Italian Boregi with Zesty Fish",
+    "tags": [
+      "italian",
+      "turkish",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "z"
   }
 ]
