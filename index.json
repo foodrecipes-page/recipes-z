@@ -1195,17 +1195,15 @@
   },
   {
     "slug": "zesty-bouncy-filipino-chicken-noodles",
-    "title": "Zesty Bouncy Filipino Chicken Noodles",
+    "title": "Filipino Chicken Noodle Stir Fry",
     "tags": [
-      "filipino-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "filipino",
+      "stir-fry",
+      "chicken",
+      "noodles"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -8344,18 +8342,15 @@
   },
   {
     "slug": "zesty-malty-jamaican-sweet-potato-stew",
-    "title": "Zesty Malt Jamaican Sweet Potato Stew",
+    "title": "Jamaican Sweet Potato Stew",
     "tags": [
-      "creamy",
-      "jamaican",
-      "lazy-sunday",
-      "malty",
-      "one-pot",
+      "caribbean",
+      "stew",
       "sweet-potato",
-      "vegetarian"
+      "vegan"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -15077,6 +15072,30 @@
       "fish"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--italian",
+    "title": "Wholesome Italian Pasta",
+    "tags": [
+      "italian-cuisine",
+      "pasta-recipes",
+      "weeknight-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--vegan",
+    "title": "Vegan Mediterranean Stir Fry",
+    "tags": [
+      "vegan",
+      "mediterranean",
+      "stir-fry"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 25,
     "shard": "z"
   }
