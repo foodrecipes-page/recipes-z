@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-light-turkish-barramundi-su-boregi",
+  "title": "Barramundi Boregi",
+  "description": "A light Turkish-inspired boregi recipe featuring pan-seared barramundi and a hint of zesty flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Su (water)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "Cut phyllo sheets into quarters.",
+    "Place a quarter sheet of phyllo on a flat surface and brush with light olive oil.",
+    "Place a barramundi fillet in the center of the phyllo and brush with zesty lemon juice.",
+    "Fold the phyllo over the fish to form a triangle and brush with light olive oil.",
+    "Repeat with the remaining phyllo and fish.",
+    "Place the boregi on a baking sheet lined with parchment paper.",
+    "Brush the top of each boregi with su and sprinkle with chopped parsley.",
+    "Bake for 15-20 minutes, or until the phyllo is golden brown and the fish is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barramundi",
+    "turkish",
+    "boregi",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-turkish-barramundi-su-boregi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:32:06.488Z"
+}
