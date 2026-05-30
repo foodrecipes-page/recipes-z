@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-bouncy-filipino-chicken-noodles",
+  "title": "Filipino Chicken Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with the flavors of the Philippines. Chicken, noodles, and a hint of zesty seasoning come together in this simple yet satisfying dish.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "2 tsp",
+      "notes": "available in most grocery stores or online"
+    },
+    {
+      "name": "bouncy vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of bouncy vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of bouncy vegetable oil to the skillet.",
+    "Add the noodles and cook according to the package instructions.",
+    "Return the chicken to the skillet and add the zesty seasoning.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "stir-fry",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bouncy-filipino-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:03:21.876Z"
+}
