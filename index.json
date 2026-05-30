@@ -608,16 +608,15 @@
   },
   {
     "slug": "zestful-wholesome-meditteranean-tomato-stir-fry",
-    "title": "Zestful Wholesome Meditteranean Tomato Stir-fry",
+    "title": "Mediterranean Wholesome Stir Fry",
     "tags": [
-      "lacto-friendly",
-      "mediterranean-dish",
-      "sauce-stir-fry",
-      "vegetarian-vegan",
-      "weekday-meal"
+      "vegetarian",
+      "gluten-free",
+      "mediterranean",
+      "stir-fry"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
