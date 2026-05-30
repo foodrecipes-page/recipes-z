@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-aerated-japanese-cod-nabemono",
+  "title": "Cod Nabemono",
+  "description": "A Japanese-inspired hot pot with zesty and aerated flavors. This dish is perfect for a fun and interactive meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4-6 ounces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Dashi Broth",
+      "amount": "2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Zesty Ponzu Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Aerated Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional for added depth"
+    },
+    {
+      "name": "Nabemono Vegetables",
+      "amount": "1 cup",
+      "notes": "Choose your favorite Japanese-style hot pot veggies"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4-6 inches",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Nabemono Noodles",
+      "amount": "8 ounces",
+      "notes": "Optional for added carbs"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For finishing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added umami"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the dashi broth according to package instructions.",
+    "2. Slice the cod fillets into thin pieces.",
+    "3. Slice the green onions and ginger.",
+    "4. Heat the sesame oil in a large pot over medium-high heat.",
+    "5. Add the cod pieces to the pot and sear until cooked through.",
+    "6. Add the dashi broth, zesty ponzu sauce, and aerated miso paste to the pot.",
+    "7. Bring the mixture to a simmer.",
+    "8. Reduce heat to low and cook for 5-7 minutes.",
+    "9. Serve the cod and broth over nabemono noodles or with Japanese-style hot pot veggies.",
+    "10. Garnish with sliced green onions and sesame seeds.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "hot-pot",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-aerated-japanese-cod-nabemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:51:09.075Z"
+}
