@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-indian-beef-curry",
+  "title": "Beef Curry",
+  "description": "A flavorful beef curry dish with a zesty twist. This Indian-inspired recipe is easy to make and perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the pan and set aside.",
+    "Add the onion and garlic to the pan and cook until softened, about 3-4 minutes.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the tomato and cook for 2-3 minutes.",
+    "Add the coconut milk and stir to combine.",
+    "Return the beef to the pan and stir to coat with the curry sauce.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to low and simmer for 10-15 minutes or until the beef is tender.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "curry",
+    "indian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indian-beef-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:45:17.286Z"
+}
