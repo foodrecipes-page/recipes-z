@@ -1,0 +1,87 @@
+{
+  "slug": "zestful-wholesome-meditteranean-tomato-stir-fry",
+  "title": "Mediterranean Wholesome Stir Fry",
+  "description": "A quick and easy stir fry made with wholesome vegetables and a hint of Mediterranean flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wholesome Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean Zest",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Wholesome Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Wholesome Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Wholesome Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Stir Fry Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the Wholesome Olive Oil in a large skillet over medium-high heat.",
+    "Add the Mediterranean Zest and Wholesome Garlic; sauté for 1 minute.",
+    "Add the Wholesome Onion and Wholesome Bell Pepper; sauté for 3-4 minutes.",
+    "Add the Tomato; sauté for an additional 2-3 minutes.",
+    "Season with Stir Fry Seasoning, Salt, and Pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "mediterranean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zestful-wholesome-meditteranean-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:38:17.920Z"
+}
