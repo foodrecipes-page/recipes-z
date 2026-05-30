@@ -1,0 +1,68 @@
+{
+  "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--italian",
+  "title": "Wholesome Italian Pasta",
+  "description": "A delicious and easy-to-make pasta dish with mediterranean flavors, perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zestful lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "wholesome olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "meditteranean tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "stir-fry garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fry basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the wholesome olive oil over medium heat.",
+    "Add the stir-fry garlic and fry for 1-2 minutes until fragrant.",
+    "Add the meditteranean tomatoes and cook for 2-3 minutes until heated through.",
+    "Stir in the zestful lemons juice and cook for an additional 1-2 minutes.",
+    "Toss in the cooked pasta and chopped fry basil.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-cuisine",
+    "pasta-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zestful-wholesome-meditteranean-tomato-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:05:07.910Z"
+}
