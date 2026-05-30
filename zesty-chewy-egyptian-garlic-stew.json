@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-chewy-egyptian-garlic-stew",
+  "title": "Egyptian Stew",
+  "description": "A hearty stew made with egyptian and garlic, served with a side of chewy bread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stew",
+      "amount": "4 cups vegetable broth"
+    },
+    {
+      "name": "Chewy bread",
+      "amount": "1 loaf",
+      "notes": "serves as a side"
+    }
+  ],
+  "instructions": [
+    "Heat the stew in a large pot over medium heat.",
+    "Add the egyptian and garlic, and cook until fragrant.",
+    "Add the zesty and vegetable broth, and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve with a side of chewy bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "egyptian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-egyptian-garlic-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:57:58.000Z"
+}
