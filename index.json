@@ -885,16 +885,14 @@
   },
   {
     "slug": "zesty-american-tomato-flatbread",
-    "title": "Zesty American Tomato Flatbread",
+    "title": "Tomato Flatbread",
     "tags": [
-      "american-classic",
-      "easy-meal",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "tomato",
+      "flatbread",
+      "snack"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 22,
+    "cuisine": "american",
+    "totalTimeMin": 17,
     "shard": "z"
   },
   {
