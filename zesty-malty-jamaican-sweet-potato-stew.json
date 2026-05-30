@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-malty-jamaican-sweet-potato-stew",
+  "title": "Jamaican Sweet Potato Stew",
+  "description": "A flavorful and comforting stew made with sweet potatoes and a blend of Jamaican spices. This dish is perfect for a cozy evening meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large sweet potato",
+      "amount": "1",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon zesty spice blend",
+      "amount": "1",
+      "notes": "Jamaican jerk seasoning"
+    },
+    {
+      "name": "1 teaspoon jamaican",
+      "amount": "1",
+      "notes": "allspice powder"
+    },
+    {
+      "name": "1 teaspoon stew",
+      "amount": "1",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "1/2 teaspoon sweet",
+      "amount": "1/2",
+      "notes": "honey"
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": "1",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add sweet potato and cook for 5 minutes.",
+    "Add zesty spice blend, jamaican, stew, and sweet. Stir to combine.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes, or until sweet potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "stew",
+    "sweet-potato",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malty-jamaican-sweet-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:03:58.390Z"
+}
