@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-crispy-middle-eastern-walnuts-cookies",
+  "title": "Crunchy Walnut Cookies",
+  "description": "A classic cookie recipe with the added crunch of walnuts. Perfect for a snack or dessert.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "cookies",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "eastern",
+      "amount": "1/2 teaspoon, ground cinnamon"
+    },
+    {
+      "name": "middle",
+      "amount": "1/4 teaspoon, ground cardamom"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 teaspoon, lemon zest"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup, unsalted butter, softened"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup, granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large, beaten"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups, all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Whisk together flour, sugar, cinnamon, cardamom, and lemon zest in a medium bowl.",
+    "In a separate bowl, cream together butter and eggs until light and fluffy.",
+    "Add the flour mixture to the wet ingredients and mix until just combined.",
+    "Stir in the chopped walnuts and crushed cookies.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, leaving 2 inches of space between each cookie.",
+    "Bake for 12-14 minutes or until lightly golden brown.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "cookies",
+    "walnuts",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-middle-eastern-walnuts-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:42:26.241Z"
+}
