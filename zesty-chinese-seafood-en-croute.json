@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-chinese-seafood-en-croute",
+  "title": "Croustade with Seafood",
+  "description": "A French-inspired dish made with a flaky crust and filled with zesty seafood.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croustade crust",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Zesty seafood mix (shrimp, scallops, cod)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the croustade crust and place it in a pie dish.",
+    "In a pan, sauté the onion and bell pepper until softened.",
+    "Add the zesty seafood mix and cook until heated through.",
+    "Stir in lemon juice and butter.",
+    "Season with salt and pepper to taste.",
+    "Pour the seafood mixture into the croustade crust.",
+    "Bake for 15-20 minutes or until the crust is golden brown.",
+    "Sprinkle with parsley before serving.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "french",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chinese-seafood-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:34:34.617Z"
+}
