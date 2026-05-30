@@ -3381,17 +3381,15 @@
   },
   {
     "slug": "zesty-crispy-middle-eastern-walnuts-cookies",
-    "title": "Zesty Crispy Middle Eastern Walnut Cookies",
+    "title": "Crunchy Walnut Cookies",
     "tags": [
-      "anti-inflammatory",
-      "crispy",
-      "gluten-free",
-      "middle-eastern",
-      "nutty",
-      "quick-snack"
+      "sweet",
+      "cookies",
+      "walnuts",
+      "snack"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 27,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -6938,16 +6936,15 @@
   },
   {
     "slug": "zesty-indian-beef-curry",
-    "title": "Zesty Indian Beef Curry",
+    "title": "Beef Curry",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "curry-dishes",
-      "indian-cuisine",
-      "mediterranean-inspired"
+      "beef",
+      "curry",
+      "indian",
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
