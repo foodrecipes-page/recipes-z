@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-gooey-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "A flavorful and spicy dish made with marinated chicken, grilled to perfection on skewers. Perfect for a quick summer meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "brazilian skewers",
+      "amount": "10-12 skewers",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "goeey sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty seasoning, olive oil, salt, and black pepper.",
+    "Add chicken to the bowl and toss to coat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Serve immediately with goeey sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "brazilian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:24:53.032Z"
+}
