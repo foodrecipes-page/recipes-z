@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-argentinian-cabbage-empanadas",
+  "title": "Argentinian Beef Empanadas with Cabbage Slaw",
+  "description": "A twist on traditional empanadas, these beef-filled pastries are paired with a refreshing cabbage slaw for a delicious and satisfying meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (ground)",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Zesty seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "add flavor to beef"
+    },
+    {
+      "name": "Cabbage, shredded",
+      "amount": "1 cup",
+      "notes": "for slaw"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "for slaw dressing"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "for slaw dressing"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Make empanada dough according to package instructions.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add zesty seasoning blend to beef and stir to combine.",
+    "Let beef cool slightly before using it to fill empanadas.",
+    "Roll out empanada dough and use a cookie cutter or the rim of a glass to cut out circles.",
+    "Place a tablespoon of beef in the center of each dough circle, then brush the edges with beaten egg.",
+    "Fold dough in half to form a half-circle and press edges together to seal.",
+    "Brush tops of empanadas with egg wash and cut a few slits in each to allow steam to escape.",
+    "Place empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "While empanadas are baking, mix shredded cabbage and mayonnaise in a bowl until well combined.",
+    "Squeeze lime juice over cabbage mixture and toss to coat.",
+    "Serve empanadas hot with a side of cabbage slaw.",
+    "Heat a tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Fry empanadas until golden brown on both sides, about 2-3 minutes per side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "argentinian",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-argentinian-cabbage-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:15:28.859Z"
+}
