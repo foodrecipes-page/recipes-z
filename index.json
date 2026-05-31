@@ -4942,17 +4942,16 @@
   },
   {
     "slug": "zesty-fermented-middle-eastern-quinoa-maqluba",
-    "title": "Zesty Fermented Middle Eastern Quinoa Maqluba",
+    "title": "Maqluba with Quinoa and Eastern Spices",
     "tags": [
-      "fermented-foods",
-      "gluten-free",
+      "maqluba",
+      "quinoa",
       "middle-eastern",
-      "one-pan",
-      "quinoa-recipes",
-      "vegetarian-dinner"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -10717,18 +10716,15 @@
   },
   {
     "slug": "zesty-roasted-uruguayan-corned-beef-wrap",
-    "title": "Zesty Roasted Uruguayan Corned Beef Wrap",
+    "title": "Uruguayan Beef Wrap",
     "tags": [
-      "healthy-meal",
-      "keto-friendly",
-      "low-carb",
-      "roasted-meat",
-      "solo-dinner",
-      "steamed-vegetables",
-      "uruguayan-cuisine"
+      "beef",
+      "wrap",
+      "uruguayan",
+      "grilled"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -13832,17 +13828,16 @@
   },
   {
     "slug": "zesty-umami-canadian-beef-poutine",
-    "title": "Zesty Umami Canadian Beef Poutine",
+    "title": "Classic Quebecois Poutine Beef Casserole",
     "tags": [
-      "canadian-cuisine",
+      "beef",
+      "canadian",
       "comfort-food",
-      "gluten-free",
-      "midnight-cravings",
-      "umami-rich",
-      "whole30-friendly"
+      "casserole",
+      "poutine"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
