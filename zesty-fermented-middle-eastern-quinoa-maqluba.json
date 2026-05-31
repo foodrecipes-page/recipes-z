@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-fermented-middle-eastern-quinoa-maqluba",
+  "title": "Maqluba with Quinoa and Eastern Spices",
+  "description": "A traditional Middle Eastern dish with a twist, featuring quinoa and a zesty fermented sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Middle Eastern spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Zesty fermented sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the Middle Eastern spices and cook for 1 minute.",
+    "Add the quinoa and cook for 2-3 minutes, stirring frequently.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the quinoa is tender.",
+    "Stir in the zesty fermented sauce and season with salt to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "maqluba",
+    "quinoa",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fermented-middle-eastern-quinoa-maqluba",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:52:20.364Z"
+}
