@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-umami-canadian-beef-poutine",
+  "title": "Classic Quebecois Poutine Beef Casserole",
+  "description": "A hearty casserole featuring layers of beef, cheese curds, and crispy fries, inspired by the popular Canadian dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Umami-rich beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Zesty ketchup",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Poutine cheese curds",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Canadian fries",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cook the Canadian fries according to package instructions or until crispy.",
+    "3. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces.",
+    "4. Add the umami-rich beef broth and bring to a simmer.",
+    "5. Stir in the zesty ketchup and cook for 2-3 minutes or until heated through.",
+    "6. In a large mixing bowl, combine the cooked fries, beef mixture, and poutine cheese curds.",
+    "7. Transfer the mixture to a 9x13 inch baking dish.",
+    "8. Top with additional cheese curds and crispy bacon bits (if using).",
+    "9. Bake in the preheated oven for 20-25 minutes or until the cheese is melted and bubbly.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "comfort-food",
+    "casserole",
+    "poutine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-umami-canadian-beef-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:47:30.149Z"
+}
