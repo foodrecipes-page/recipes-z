@@ -1,0 +1,87 @@
+{
+  "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--vegetarian",
+  "title": "Wholesome Mediterranean Stir Fry",
+  "description": "A flavorful and nutritious vegetarian stir fry that combines the best of Mediterranean cuisine with wholesome ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zestful Lemon",
+      "amount": "2 lemons, juiced",
+      "notes": ""
+    },
+    {
+      "name": "Wholesome Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Pepper",
+      "amount": "1 large red bell pepper, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Tomato",
+      "amount": "1 can (14.5 oz) crushed tomatoes",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp dried",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1-2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry vegetables (such as broccoli, carrots, and bell peppers)",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced pepper and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crushed tomatoes, tomato paste, dried oregano, and salt. Stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5-7 minutes, stirring occasionally.",
+    "Stir in the sliced stir-fry vegetables and cook until tender, about 3-4 minutes.",
+    "Season with lemon juice and serve hot.",
+    "Serve over rice or with naan bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zestful-wholesome-meditteranean-tomato-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:33:37.768Z"
+}
