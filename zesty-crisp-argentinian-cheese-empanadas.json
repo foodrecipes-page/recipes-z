@@ -1,0 +1,57 @@
+{
+  "slug": "zesty-crisp-argentinian-cheese-empanadas",
+  "title": "Argentinian Empanadas",
+  "description": "A delicious and crispy pastry filled with a savory mix of cheese and a hint of zesty flavor. Inspired by the classic empanadas of Argentina.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Empanada Dough",
+      "amount": "1 package (2 empanadas)",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Cheese Filling",
+      "amount": "1 cup shredded cheese (Monterey Jack or similar)",
+      "notes": "Add some diced onions or bell peppers for extra flavor"
+    },
+    {
+      "name": "Salsa Criolla",
+      "amount": "1/4 cup salsa criolla (or similar Argentinian-style salsa)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough and cut into 4 squares.",
+    "Place 1-2 tablespoons of the zesty cheese filling in the center of each square.",
+    "Fold the dough in half to form a triangle and press edges to seal.",
+    "Bake for 12-15 minutes, or until the pastry is golden brown.",
+    "Serve warm with a side of salsa criolla."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "empanadas",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-argentinian-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:54:50.665Z"
+}
