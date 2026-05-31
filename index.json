@@ -15083,5 +15083,18 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-spanish-apricot-fideua--vegan",
+    "title": "Vegan Apricot Fideua",
+    "tags": [
+      "vegan",
+      "spanish",
+      "apricot",
+      "fideua"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
