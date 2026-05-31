@@ -1,0 +1,103 @@
+{
+  "slug": "zero-sugar-korean-chocolate-jjigae",
+  "title": "Korean Jjigae with Chocolate and Sugar",
+  "description": "A sweet and spicy Korean-inspired jjigae made with chocolate and sugar.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chocolate",
+      "amount": "2 cups",
+      "notes": "dark or milk chocolate, any type"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "Vegan Korean chili paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": "any type"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "any type"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced, any type"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "any type"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "any type"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for 1 minute, until fragrant.",
+    "Add the gochujang and cook for 1-2 minutes, until it starts to caramelize.",
+    "Add the soy sauce, rice vinegar, and sugar. Stir to combine.",
+    "Add the dark chocolate and stir until melted and well combined.",
+    "Add the gochugaru and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, until the sauce has thickened.",
+    "Serve hot over rice or noodles, garnished with green onions and toasted sesame seeds if desired.",
+    "Note: This recipe is quite spicy, so adjust the amount of gochugaru to taste.",
+    "Also, feel free to add other ingredients like tofu or kimchi to make the jjigae more substantial."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chocolate",
+    "jjigae",
+    "spicy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-sugar-korean-chocolate-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:20:01.533Z"
+}
