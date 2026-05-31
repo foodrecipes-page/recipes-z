@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-hearty-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with tender beef and a hint of zesty spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "your favorite store-bought or homemade stew mix"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "dried oregano or thyme"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "or 1 can of diced tomatoes"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches, about 5 minutes per batch.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce heat to medium and sauté the onion, bell pepper, and garlic until softened, about 5 minutes.",
+    "Add the stew mix, tomato paste, and beef broth to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the browned beef to the pot and add the red wine (if using).",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the beef is tender.",
+    "Season with salt, pepper, and zesty spices to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hearty-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:04:35.625Z"
+}
