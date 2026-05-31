@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-crisp-brazilian-tofu-skewers",
+  "title": "Brazilian Tofu Skewers",
+  "description": "A vibrant and flavorful recipe that combines the zesty taste of Brazilian spices with the crisp texture of fresh vegetables. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (200g)"
+    },
+    {
+      "name": "Zesty Brazilian seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Crisp bell pepper",
+      "amount": "1 large, cut into 1-inch pieces"
+    },
+    {
+      "name": "Crisp onion",
+      "amount": "1 large, cut into 1-inch pieces"
+    },
+    {
+      "name": "Crisp zucchini",
+      "amount": "1 medium, cut into 1-inch slices"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (180°C/350°F).",
+    "Cut tofu into 1-inch cubes and brush with zesty Brazilian seasoning.",
+    "Thread tofu, bell pepper, onion, and zucchini onto skewers.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until tofu is golden brown and vegetables are tender.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "quick",
+    "easy",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-brazilian-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:20:56.902Z"
+}
