@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-flaky-australian-meat-pie",
+  "title": "Australian Meat Pie",
+  "description": "A classic Australian dish made with ground meat and flaky pastry.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Zesty onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Meat pie spice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Roll out the flaky pastry to a thickness of 3mm.",
+    "Transfer the pastry to a 20cm pie dish.",
+    "In a pan over medium heat, cook the Australian beef until browned.",
+    "Add the zesty onion and cook until softened.",
+    "Add the meat pie spice and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Pour the beef mixture into the pastry-lined pie dish.",
+    "Brush the edges of the pastry with water.",
+    "Roll out the remaining pastry to a thickness of 3mm.",
+    "Place the pastry on top of the pie and crimp the edges.",
+    "Cut a few slits in the top of the pie to allow steam to escape."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "meat-pie",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-australian-meat-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:51:01.215Z"
+}
