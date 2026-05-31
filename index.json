@@ -4419,17 +4419,15 @@
   },
   {
     "slug": "zesty-dense-spanish-apricot-fideua",
-    "title": "Zesty Dense Spanish Apricot Fideua",
+    "title": "Spanish Apricot Chicken Fideua",
     "tags": [
-      "apricot",
-      "fideua",
-      "low-glycemic",
-      "one-pan",
       "spanish",
-      "vegetarian"
+      "apricot",
+      "chicken",
+      "fideua"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
