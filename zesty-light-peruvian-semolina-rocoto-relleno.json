@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-light-peruvian-semolina-rocoto-relleno",
+  "title": "Peruvian Rocoto Stuffed with Semolina",
+  "description": "A traditional Peruvian dish, Rocoto Relleno is a sweet pepper stuffed with a semolina and cheese mixture, then baked to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto",
+      "amount": "4"
+    },
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "salsa"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 teaspoon",
+      "notes": "a pinch of aji amarillo powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the rocoto peppers and remove seeds and membranes.",
+    "In a bowl, mix semolina, cheese, zesty salsa, egg, and flour.",
+    "Stuff each rocoto pepper with the semolina mixture.",
+    "Place the stuffed peppers in a baking dish and bake for 20-25 minutes.",
+    "Add a pinch of aji amarillo powder to each pepper.",
+    "Return to the oven and bake for an additional 5-10 minutes.",
+    "Serve warm, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stuffed-pepper",
+    "semolina",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-peruvian-semolina-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:28.255Z"
+}
