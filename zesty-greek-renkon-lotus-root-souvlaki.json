@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-greek-renkon-lotus-root-souvlaki",
+  "title": "Grilled Renkon Skewers with Souvlaki Sauce",
+  "description": "A tasty and easy-to-make summer recipe featuring grilled renkon skewers served with a tangy souvlaki sauce. Perfect for a light lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Renkon (Japanese lotus root)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Souvlaki seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the renkon into 1-inch pieces and thread them onto skewers.",
+    "In a small bowl, mix together the souvlaki seasoning, zesty Greek yogurt, lemon juice, garlic powder, salt, and black pepper.",
+    "Brush the renkon skewers with olive oil and season with souvlaki seasoning.",
+    "Grill the skewers over medium heat for 5-7 minutes per side, or until slightly charred.",
+    "Serve the grilled renkon skewers with the souvlaki sauce for dipping.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "greek",
+    "summer",
+    "renkon"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-renkon-lotus-root-souvlaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:47:49.699Z"
+}
