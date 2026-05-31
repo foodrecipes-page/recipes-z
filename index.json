@@ -1017,16 +1017,15 @@
   },
   {
     "slug": "zesty-argentinian-cabbage-empanadas",
-    "title": "Zesty Argentinian Cabbage Empanadas",
+    "title": "Argentinian Beef Empanadas with Cabbage Slaw",
     "tags": [
-      "argentinian-cuisine",
-      "empanada-recipes",
-      "gluten-free",
-      "paleo-friendly",
-      "snack-ideas"
+      "beef",
+      "empanadas",
+      "argentinian",
+      "cabbage"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -6655,17 +6654,15 @@
   },
   {
     "slug": "zesty-greek-renkon-lotus-root-souvlaki",
-    "title": "Zesty Greek Renkon Lotus Root Souvlaki",
+    "title": "Grilled Renkon Skewers with Souvlaki Sauce",
     "tags": [
-      "gluten-free",
-      "greek-food",
       "grilled",
-      "mason-jar",
-      "souvlaki",
-      "vegetarian"
+      "greek",
+      "summer",
+      "renkon"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -7100,16 +7097,14 @@
   },
   {
     "slug": "zesty-irish-bacon-pasta",
-    "title": "Zesty Irish Bacon Pasta",
+    "title": "Irish Bacon Pasta Bake",
     "tags": [
-      "date-night",
-      "high-protein",
-      "irish-cuisine",
-      "nutty",
-      "one-pan",
-      "pasta-dish"
+      "irish",
+      "pasta",
+      "bacon",
+      "casserole"
     ],
-    "cuisine": "Irish",
+    "cuisine": "irish",
     "totalTimeMin": 35,
     "shard": "z"
   },
