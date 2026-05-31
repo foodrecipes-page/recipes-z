@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-velvety-thai-meat-larb",
+  "title": "Thai Larb Meatballs",
+  "description": "A twist on traditional Thai larb, this recipe replaces ground meat with meatballs for a fun and flavorful appetizer",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Meatballs (beef and pork)",
+      "amount": "12-15",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Zesty Thai Chili Sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Larb Meat (ground chicken or beef)",
+      "amount": "1/2 cup",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Velvety Coconut Milk",
+      "amount": "1/4 cup",
+      "notes": "optional for creaminess"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add meatballs and cook until browned on all sides.",
+    "Remove meatballs from pan and set aside.",
+    "In the same pan, add zesty Thai chili sauce and cook for 1-2 minutes.",
+    "Add Thai basil and stir to combine.",
+    "Return meatballs to the pan and toss to coat with chili sauce mixture.",
+    "If using, add larb meat and stir to combine.",
+    "Add fish sauce, brown sugar, rice vinegar, and soy sauce (if using) and stir to combine.",
+    "If desired, add velvety coconut milk and stir to combine.",
+    "Serve immediately and garnish with additional Thai basil if desired.",
+    "Optional: Serve with steamed vegetables or rice for a more filling snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "thaifood",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-thai-meat-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:09:58.557Z"
+}
