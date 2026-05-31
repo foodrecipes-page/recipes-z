@@ -2697,17 +2697,16 @@
   },
   {
     "slug": "zesty-crisp-argentinian-cheese-empanadas",
-    "title": "Zesty Crisp Argentinian Cheese Empanadas",
+    "title": "Argentinian Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "cheese-empanadas",
-      "egg-free",
-      "meal-prep",
-      "vegetarian-friendly",
-      "yeasty-dough"
+      "argentinian",
+      "cheese",
+      "empanadas",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -3005,14 +3004,11 @@
   },
   {
     "slug": "zesty-crisp-thai-shrimp-som-tum",
-    "title": "Zesty Crisp Thai Shrimp Som Tum",
+    "title": "Thai-Style Shrimp and Vegetable Stir Fry",
     "tags": [
-      "asian-cuisine",
-      "lunch-ideas",
-      "pescatarian",
-      "shrimp-recipe",
-      "som-tum",
-      "thai-street-food"
+      "thai-cuisine",
+      "vegetable-stir-fry",
+      "shrimp-stir-fry"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
@@ -6264,17 +6260,15 @@
   },
   {
     "slug": "zesty-gooey-brazilian-chicken-skewers",
-    "title": "Zesty Gooey Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian-food",
-      "gluten-free",
-      "grilled-chicken",
-      "high-protein",
-      "weeknight-dinner",
-      "whole30-recipes"
+      "grilled",
+      "chicken",
+      "brazilian",
+      "skewers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
