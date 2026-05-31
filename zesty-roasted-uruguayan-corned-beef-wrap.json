@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-roasted-uruguayan-corned-beef-wrap",
+  "title": "Uruguayan Beef Wrap",
+  "description": "A flavorful and savory beef wrap with a Uruguayan twist, served with roasted vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Roasted red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Roasted bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zesty mayo",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Corned beef wrap",
+      "amount": "1 large",
+      "notes": "For wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the beef with salt, pepper, and your favorite spices.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, roast the red onion and bell pepper in the oven with some olive oil and salt until tender.",
+    "Slice the beef into thin strips and set aside.",
+    "Assemble the wrap by spreading the zesty mayo on the corned beef wrap, followed by the grilled beef, roasted vegetables, and any additional toppings you like.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "wrap",
+    "uruguayan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-uruguayan-corned-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:45:00.777Z"
+}
