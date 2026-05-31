@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-dense-spanish-apricot-fideua",
+  "title": "Spanish Apricot Chicken Fideua",
+  "description": "A twist on traditional Spanish fideua, this recipe pairs the nutty flavor of fideua with the sweetness of apricot and the spice of zesty chicken.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideua",
+      "amount": "250g",
+      "notes": "Spanish thick noodles"
+    },
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Diced Apricot",
+      "amount": "150g",
+      "notes": "canned or fresh, chopped"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "40ml",
+      "notes": "olive oil infused with garlic and chili peppers"
+    },
+    {
+      "name": "Spanish Smoked Paprika",
+      "amount": "10g",
+      "notes": "smoked paprika adds a smoky depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "5g",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "20g",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the fideua according to package instructions until al dente. Drain and set aside.",
+    "Heat the zesty olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Add the diced apricot to the skillet and cook for an additional 2-3 minutes.",
+    "Add the smoked paprika to the skillet and stir to combine.",
+    "Add the cooked fideua to the skillet and toss to combine with the chicken and apricot mixture.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Enjoy your delicious Spanish Apricot Chicken Fideua!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "apricot",
+    "chicken",
+    "fideua"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-spanish-apricot-fideua",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:32:31.206Z"
+}
