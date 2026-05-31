@@ -6807,17 +6807,15 @@
   },
   {
     "slug": "zesty-hearty-argentinian-beef-stew",
-    "title": "Zesty Hearty Argentinian Beef Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "hearty-stew",
-      "sick-day"
+      "beef",
+      "argentinian",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
