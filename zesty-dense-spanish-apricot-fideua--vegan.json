@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-dense-spanish-apricot-fideua--vegan",
+  "title": "Vegan Apricot Fideua",
+  "description": "A twist on traditional Spanish fideua, this vegan version replaces seafood with sweet and tangy apricots.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty Spanish rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fideua pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegan vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the vegan vegetable broth to a boil in a large pot.",
+    "Add the fideua pasta and cook according to package instructions.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the zesty Spanish rice and cook until lightly toasted.",
+    "Add the apricots to the pan and stir to combine.",
+    "Once the pasta is cooked, drain and add to the pan with the apricot mixture.",
+    "Toss to combine and season with salt and pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "apricot",
+    "fideua"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-spanish-apricot-fideua--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:52:50.375Z"
+}
