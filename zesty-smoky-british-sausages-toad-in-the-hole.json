@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-smoky-british-sausages-toad-in-the-hole",
+  "title": "Traditional British Bangers and Mash",
+  "description": "A hearty British dish featuring sausages in a rich onion gravy, served with creamy mashed potatoes.",
+  "cuisine": "british",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "gravy granules",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil and cook the potatoes until tender.",
+    "2. Drain the potatoes and return them to the pot with the butter, milk, and flour.",
+    "3. Mash the potatoes until smooth and creamy.",
+    "4. In a large pan over medium heat, cook the sausages until browned on all sides.",
+    "5. Remove the sausages from the pan and set aside.",
+    "6. In the same pan, add the onion and cook until softened.",
+    "7. Add the garlic and cook for 1 minute.",
+    "8. Sprinkle the flour over the onion mixture and cook for 1 minute.",
+    "9. Gradually add the gravy granules, whisking continuously.",
+    "10. Bring the gravy to a simmer and cook until thickened.",
+    "11. Return the sausages to the pan and cook for a further 5 minutes.",
+    "12. Serve the sausages with the mashed potatoes and the onion gravy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bangers-and-mash",
+    "british-cuisine",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-british-sausages-toad-in-the-hole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:47:14.682Z"
+}
