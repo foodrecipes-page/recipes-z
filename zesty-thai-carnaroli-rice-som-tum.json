@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-thai-carnaroli-rice-som-tum",
+  "title": "Thai-Style Carnaroli Risotto",
+  "description": "A creamy and flavorful risotto infused with Thai-inspired flavors, featuring zesty som tam sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Zesty som tam sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a separate pot and keep warm.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the Carnaroli rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the coconut milk and stir to combine.",
+    "Add 1 cup of the warm broth to the rice mixture and stir to combine.",
+    "Continue adding the broth, 1 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "After 20-25 minutes of cooking, the rice should be tender and creamy.",
+    "Stir in the zesty som tam sauce and cook for 1-2 minutes.",
+    "Season with salt to taste.",
+    "Serve the risotto hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "risotto",
+    "vegetarian",
+    "coconutmilk"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-thai-carnaroli-rice-som-tum",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:12:18.540Z"
+}
