@@ -8446,17 +8446,14 @@
   },
   {
     "slug": "zesty-mexican-chicken-empanadas",
-    "title": "Zesty Mexican Chicken Empanadas",
+    "title": "Chicken Empanadas",
     "tags": [
-      "citrusy",
-      "flaky",
-      "kid-friendly",
-      "low-rajasic",
+      "chicken",
       "mexican",
-      "quick"
+      "empanadas"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
