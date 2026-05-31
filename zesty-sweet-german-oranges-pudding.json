@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-sweet-german-oranges-pudding",
+  "title": "Creamy German Pudding with Zesty Orange Sauce",
+  "description": "A rich and creamy German pudding paired with a zesty orange sauce. Perfect for a unique dessert.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet german pudding",
+      "amount": "2 cups"
+    },
+    {
+      "name": "zesty orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh oranges",
+      "amount": "2",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the pudding and heavy cream. Cook over medium heat, stirring constantly, until the pudding thickens.",
+    "Remove the pudding from the heat and stir in the sugar until dissolved.",
+    "In a small saucepan, heat the orange marmalade over low heat until warm.",
+    "To assemble the dessert, place a scoop of the pudding in a serving dish, followed by a spoonful of the warm orange sauce.",
+    "Repeat the layers one more time, finishing with a layer of pudding on top.",
+    "Serve the dessert chilled, garnished with additional orange segments if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pudding",
+    "orange",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-german-oranges-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:50:59.657Z"
+}
