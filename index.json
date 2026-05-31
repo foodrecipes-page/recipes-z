@@ -2728,17 +2728,16 @@
   },
   {
     "slug": "zesty-crisp-brazilian-tofu-skewers",
-    "title": "Zesty Crisp Brazilian Tofu Skewers",
+    "title": "Brazilian Tofu Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "vegetarian",
+      "quick",
+      "easy",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -8660,17 +8659,15 @@
   },
   {
     "slug": "zesty-middle-eastern-eggplant-flatbread",
-    "title": "Zesty Middle Eastern Eggplant Flatbread",
+    "title": "Grilled Eggplant Shawarma",
     "tags": [
-      "brunch",
       "eggplant",
-      "flatbread",
       "middle-eastern",
-      "vegetarian",
-      "wood-fired"
+      "grilled",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 47,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -9939,20 +9936,15 @@
   },
   {
     "slug": "zesty-polish-flour-flatbread",
-    "title": "Zesty Polish Flour Flatbread",
+    "title": "Polish Flatbread",
     "tags": [
-      "flour-flatbread",
-      "zesty",
+      "flatbread",
       "polish",
-      "quick",
-      "sugar-free-friendly",
-      "yeast",
-      "tadka",
-      "citrus",
-      "romantic"
+      "bread",
+      "snack"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 90,
+    "totalTimeMin": 19,
     "shard": "z"
   },
   {
@@ -13496,16 +13488,14 @@
   },
   {
     "slug": "zesty-thai-carnaroli-rice-som-tum",
-    "title": "Zesty Thai Carnaroli Rice Som Tum",
+    "title": "Thai-Style Carnaroli Risotto",
     "tags": [
-      "gluten-free",
-      "macrobiotic",
-      "one-pan",
-      "spicy-food",
-      "thai-cuisine",
-      "vegetarian"
+      "thaifood",
+      "risotto",
+      "vegetarian",
+      "coconutmilk"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "z"
   },
@@ -14243,17 +14233,15 @@
   },
   {
     "slug": "zesty-velvety-thai-meat-larb",
-    "title": "Zesty Velvety Thai Meat Larb",
+    "title": "Thai Larb Meatballs",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "spicy-food",
-      "thai-cuisine",
-      "weeknight"
+      "appetizer",
+      "snack",
+      "thaifood",
+      "meatballs"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -15089,6 +15077,18 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--vegetarian",
+    "title": "Wholesome Mediterranean Stir Fry",
+    "tags": [
+      "mediterranean",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "z"
   }
 ]
