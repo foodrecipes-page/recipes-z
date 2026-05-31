@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-crisp-thai-shrimp-som-tum",
+  "title": "Thai-Style Shrimp and Vegetable Stir Fry",
+  "description": "A quick and easy stir fry made with succulent shrimp and a variety of colorful vegetables, all in the flavors of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons",
+      "notes": "Thai chili sauce"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 cup",
+      "notes": "bell pepper, sliced"
+    },
+    {
+      "name": "Thai",
+      "amount": "2 cups",
+      "notes": "mixed vegetables (e.g. carrots, snap peas)"
+    },
+    {
+      "name": "Som",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "Tum",
+      "amount": "1 tablespoon",
+      "notes": "Thai basil, chopped"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the mixed vegetables and cook until tender, about 4-5 minutes.",
+    "In a small bowl, whisk together the Thai chili sauce, fish sauce, and chopped Thai basil.",
+    "Pour the sauce into the skillet and stir to combine.",
+    "Return the cooked shrimp to the skillet and stir to combine.",
+    "Serve the stir fry hot, garnished with additional Thai basil if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "vegetable-stir-fry",
+    "shrimp-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-thai-shrimp-som-tum",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:45:04.036Z"
+}
