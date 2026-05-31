@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-flatbread",
+  "title": "Grilled Eggplant Shawarma",
+  "description": "A delicious Middle Eastern-inspired vegetarian dish featuring grilled eggplant served in a crispy flatbread with zesty tahini sauce. This recipe is perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Cut into 1/2-inch thick slices"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 inches diameter",
+      "notes": "Pita or naan work well"
+    },
+    {
+      "name": "Zesty Tahini Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season eggplant slices with salt and pepper.",
+    "Grill eggplant slices for 3-4 minutes per side, or until tender and slightly charred.",
+    "Warm flatbread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes.",
+    "Spread 1-2 tablespoons of zesty tahini sauce on each flatbread.",
+    "Top with grilled eggplant slices.",
+    "Add any additional toppings you like, such as sliced veggies or pickled turnips.",
+    "Serve immediately and enjoy!",
+    "Optional: Top with chopped fresh parsley or cilantro for extra flavor and color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "middle-eastern",
+    "grilled",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:02:00.064Z"
+}
