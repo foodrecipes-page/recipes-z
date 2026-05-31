@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-polish-flour-flatbread",
+  "title": "Polish Flatbread",
+  "description": "A traditional polish flatbread recipe, crispy on the outside and soft on the inside.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "polish",
+      "amount": "1 teaspoon",
+      "notes": "polish seasoning"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 teaspoon",
+      "notes": "zesty seasoning, optional"
+    }
+  ],
+  "instructions": [
+    "Combine flour, polish seasoning, and zesty seasoning in a large bowl.",
+    "Gradually add warm water to the bowl and mix until dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 2-3 equal parts, depending on desired flatbread size.",
+    "Roll out each part into a thin circle.",
+    "Heat a non-stick skillet over medium heat.",
+    "Cook the flatbread for 1-2 minutes on each side, until golden brown and crispy.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 4,
+  "totalTimeMin": 19,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "polish",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-polish-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:01:42.687Z"
+}
