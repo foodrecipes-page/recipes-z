@@ -2422,17 +2422,14 @@
   },
   {
     "slug": "zesty-citrusy-peruvian-gobo-burdock-casserole",
-    "title": "Zesty Citrusy Peruvian Gobo Burdock Casserole",
+    "title": "Burdock and Gobo Casserole",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "peruvian-cuisine",
-      "shojin-friendly",
       "vegetarian",
-      "wood-fired"
+      "peruvian",
+      "comfort food"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 70,
     "shard": "z"
   },
   {
