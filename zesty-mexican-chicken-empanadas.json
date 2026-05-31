@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-mexican-chicken-empanadas",
+  "title": "Chicken Empanadas",
+  "description": "A flavorful and crispy empanada filled with seasoned chicken. Perfect as a snack or appetizer.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Zesty taco seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Corn oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the chicken breast into small pieces and season with taco seasoning.",
+    "Roll out the empanada dough and use a cookie cutter to create circles.",
+    "Place a spoonful of the seasoned chicken in the center of each dough circle.",
+    "Brush the edges with water and fold the dough in half to form a triangle.",
+    "Press the edges together with a fork to seal the empanada.",
+    "Brush the tops with corn oil and beaten egg.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:59:19.350Z"
+}
