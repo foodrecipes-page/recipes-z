@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-irish-bacon-pasta",
+  "title": "Irish Bacon Pasta Bake",
+  "description": "A hearty, comforting casserole made with zesty pasta, crispy bacon, and a hint of irish flair. Serve hot, garnished with chopped parsley.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "irish bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional, but highly recommended"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "Cook irish bacon in a skillet over medium heat until crispy. Remove from heat and set aside.",
+    "In the same skillet, add a splash of milk and stir to combine with any remaining bacon drippings.",
+    "Add the cooked pasta to the skillet and toss to combine with the milk mixture.",
+    "Stir in grated cheddar cheese until melted and well combined.",
+    "Transfer the pasta mixture to a baking dish and top with crispy bacon.",
+    "Bake for 15-20 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove from oven and let cool for a few minutes before serving.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "pasta",
+    "bacon",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-bacon-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:18:31.953Z"
+}
