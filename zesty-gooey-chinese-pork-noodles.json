@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-gooey-chinese-pork-noodles",
+  "title": "Kung Pao Noodles",
+  "description": "A spicy Chinese-inspired stir-fry dish made with zesty noodles, gooey sauce, and savory pork.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zesty noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "pork",
+      "amount": "1/2 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chinese chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "goey sauce (oyster sauce + hoisin sauce)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat wok or large skillet over medium-high heat.",
+    "Add pork and cook until browned, about 3-4 minutes.",
+    "Remove pork from wok and set aside.",
+    "Add chili peppers, garlic, and ginger to wok and stir-fry for 1 minute.",
+    "Add soy sauce, gooey sauce, and cooked noodles to wok. Stir-fry for 2-3 minutes.",
+    "Return pork to wok and stir-fry for another 2 minutes.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kung pao",
+    "noodles",
+    "pork",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-chinese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:41:26.113Z"
+}
