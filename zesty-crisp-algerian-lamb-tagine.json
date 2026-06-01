@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-crisp-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish made with lamb, spices, and dried fruits, slow-cooked in a clay pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Crisp olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Dried fruits (prunes, apricots, dates)",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zesty preserved lemon",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if needed, then sauté the Algerian spice mix for 1 minute.",
+    "Add the olives, dried fruits, and preserved lemon. Cook for 2 minutes, stirring occasionally.",
+    "Return the lamb to the pot, add salt and pepper to taste, and stir to combine.",
+    "Cover the pot and bring to a boil, then transfer to the oven and braise for 2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "slow-cooked",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:12:37.723Z"
+}
