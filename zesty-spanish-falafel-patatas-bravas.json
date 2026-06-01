@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-spanish-falafel-patatas-bravas",
+  "title": "Patatas Bravas with Spanish Falafel",
+  "description": "A fusion of Spanish and Middle Eastern flavors in a delicious snack. Crispy falafel and spicy patatas bravas come together in perfect harmony.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Patatas Bravas",
+      "amount": "2 large potatoes, peeled and cut into 1-inch cubes",
+      "notes": "See notes for sauce ingredients"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spanish bravas sauce",
+      "amount": "1 cup",
+      "notes": "See notes for homemade bravas sauce ingredients"
+    },
+    {
+      "name": "Zesty aioli",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the patatas bravas with olive oil, smoked paprika, garlic powder, and salt on a baking sheet.",
+    "Bake for 20-25 minutes or until crispy.",
+    "While the patatas are baking, heat the Spanish bravas sauce in a saucepan over low heat.",
+    "Serve the crispy patatas bravas with the warm bravas sauce, garnished with chopped fresh parsley.",
+    "Optional: Serve with a side of zesty aioli for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "falafel",
+    "patatas-bravas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spanish-falafel-patatas-bravas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:20:01.207Z"
+}
