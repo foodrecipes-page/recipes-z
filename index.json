@@ -6283,17 +6283,15 @@
   },
   {
     "slug": "zesty-gooey-chinese-pork-noodles",
-    "title": "Zesty Gooey Chinese Pork Noodles",
+    "title": "Kung Pao Noodles",
     "tags": [
-      "anti-inflammatory",
-      "chinese-food",
-      "dairy-free",
-      "gluten-free",
-      "noodle-dishes",
-      "pork-recipes"
+      "kung pao",
+      "noodles",
+      "pork",
+      "chinese"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -10921,16 +10919,16 @@
   },
   {
     "slug": "zesty-saudi-arabian-jerusalem-artichoke-tagine",
-    "title": "Zesty Saudi Arabian Jerusalem Artichoke Tagine",
+    "title": "Saudi Arabian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "middle-eastern",
-      "one-pot",
-      "root-vegetables"
+      "saudi",
+      "arabian",
+      "lamb",
+      "tagine",
+      "jerusalem-artichoke"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Saudi",
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
@@ -12620,17 +12618,14 @@
   },
   {
     "slug": "zesty-spanish-falafel-patatas-bravas",
-    "title": "Zesty Spanish Falafel Patatas Bravas",
+    "title": "Patatas Bravas with Spanish Falafel",
     "tags": [
-      "earthenware-bowl",
-      "halal-friendly",
-      "patatas-bravas",
-      "snack-food",
-      "spanish-cuisine",
-      "vegetarian"
+      "spanish",
+      "falafel",
+      "patatas-bravas"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -15071,6 +15066,19 @@
     ],
     "cuisine": "spanish",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-chewy-egyptian-garlic-stew--vegan",
+    "title": "Vegan Egyptian Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "egyptian",
+      "dinner"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
