@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-char-welsh-apples-bangers-and-mash",
+  "title": "Traditional Welsh Bangers and Mash",
+  "description": "A hearty and flavorful dish from Wales, featuring sausages and mashed potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bangers (Welsh Sausages)",
+      "amount": "4",
+      "notes": "Pork sausages"
+    },
+    {
+      "name": "Mash (Potatoes)",
+      "amount": "2 large",
+      "notes": "Russet potatoes"
+    },
+    {
+      "name": "And (Onions)",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Char (Carrots)",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Zesty (Apple Cider Vinegar)",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Boil the potatoes in a large pot of salted water until tender.",
+    "2. While the potatoes are cooking, cook the sausages in a large skillet over medium-high heat, until browned and cooked through.",
+    "3. Remove the sausages from the skillet and set aside.",
+    "4. Add the chopped onions to the skillet and cook until softened.",
+    "5. Add the chopped carrots to the skillet and cook for an additional 2-3 minutes.",
+    "6. Drain the cooked potatoes and mash with butter and milk.",
+    "7. Serve the sausages on top of the mashed potatoes, with the onion and carrot mixture on the side.",
+    "8. Drizzle with apple cider vinegar for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "traditional",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-char-welsh-apples-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:47:05.912Z"
+}
