@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-saudi-arabian-jerusalem-artichoke-tagine",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A traditional Saudi dish made with tender lamb and aromatic spices, served with a side of Jerusalem artichoke salad.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Jerusalem artichoke",
+      "amount": "3",
+      "notes": "For salad"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 tsp",
+      "notes": "Available in most Middle Eastern stores"
+    },
+    {
+      "name": "Zesty fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Arabian pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, then set aside.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tagine spice mix and cook for 1 minute.",
+    "Add the browned lamb shoulder, salt, and 1 cup of water to the pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Meanwhile, prepare the Jerusalem artichoke salad by boiling the artichokes until tender, then chopping them into small pieces.",
+    "Mix in chopped parsley and a squeeze of lemon juice.",
+    "To serve, slice the lamb into thick slices and serve with the artichoke salad and a drizzle of pomegranate molasses (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "lamb",
+    "tagine",
+    "jerusalem-artichoke"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-jerusalem-artichoke-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:22:34.071Z"
+}
