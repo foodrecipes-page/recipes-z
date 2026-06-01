@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-chewy-egyptian-garlic-stew--vegan",
+  "title": "Vegan Egyptian Stew",
+  "description": "A hearty and flavorful stew made with garlic and egyptian spices, perfect for a vegan dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of water in a large pot over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the stew, zesty, and chewy to the pot.",
+    "Pour in the remaining 4 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with additional zesty to taste.",
+    "Serve hot and enjoy!",
+    "Optional: serve with a side of steamed egyptian vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stew",
+    "egyptian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-egyptian-garlic-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:47:08.334Z"
+}
