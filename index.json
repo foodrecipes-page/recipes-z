@@ -1890,16 +1890,14 @@
   },
   {
     "slug": "zesty-char-welsh-apples-bangers-and-mash",
-    "title": "Zesty Char Welsh Apples Bangers And Mash",
+    "title": "Traditional Welsh Bangers and Mash",
     "tags": [
+      "traditional",
       "british",
-      "comfort-food",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -2681,17 +2679,16 @@
   },
   {
     "slug": "zesty-crisp-algerian-lamb-tagine",
-    "title": "Zesty Crisp Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "lamb-recipes",
-      "low-sodium",
-      "one-pot",
-      "spicy",
-      "vanilla-based"
+      "algerian",
+      "lamb",
+      "tagine",
+      "slow-cooked",
+      "moroccan"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
