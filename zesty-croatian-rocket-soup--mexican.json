@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-croatian-rocket-soup--mexican",
+  "title": "Croatian Rocket Soup",
+  "description": "A spicy Mexican-inspired twist on a classic soup. This recipe combines the bold flavors of Croatia with the vibrant tastes of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tablespoons",
+      "notes": "Smoked paprika adds depth to the soup"
+    },
+    {
+      "name": "Rocket (arugula)",
+      "amount": "4 cups",
+      "notes": "Peppery rocket adds a fresh flavor"
+    },
+    {
+      "name": "Zesty tomatoes",
+      "amount": "2 cups",
+      "notes": "Diced tomatoes add a burst of flavor"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth ensures a healthy soup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "A healthy source of fat for sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic adds a punch of flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin adds a warm, earthy flavor"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Adds a spicy kick to the soup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use low-sodium salt to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground black pepper enhances flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the smoked paprika, cumin, and chili powder. Cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes, vegetable broth, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 15-20 minutes.",
+    "Add the peppery rocket to the saucepan and cook for an additional 2-3 minutes, until wilted.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the soup hot, garnished with additional rocket if desired.",
+    "Enjoy as a comforting and flavorful meal!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "soup",
+    "rocket"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-rocket-soup--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:17:32.757Z"
+}
