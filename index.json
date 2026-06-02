@@ -2767,16 +2767,13 @@
   },
   {
     "slug": "zesty-crisp-chiapan-minari-casserole",
-    "title": "Zesty Crisp Chiapan Minari Casserole",
+    "title": "Mexican Casserole with Crisp Topping",
     "tags": [
-      "brunch-mood",
-      "crispy",
-      "gluten-free",
-      "one-pot",
-      "vegan",
-      "weeknight"
+      "mexican",
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "z"
   },
