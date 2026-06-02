@@ -4883,18 +4883,17 @@
   },
   {
     "slug": "zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty",
-    "title": "Zesty Ferment-Filled British Cottage Cheese Cornish-Style Pasty",
+    "title": "Classic Cornish Pasty",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "veggie-rich",
-      "weeknight"
+      "pasty",
+      "cornish",
+      "british",
+      "beef",
+      "cheese",
+      "pastry"
     ],
     "cuisine": "British",
-    "totalTimeMin": 27,
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -12497,17 +12496,14 @@
   },
   {
     "slug": "zesty-snappy-russian-kabanos-skillet",
-    "title": "Zesty Snappy Russian Kabanos Skillet",
+    "title": "Pan-Seared Kabanos with Skillet Crunch",
     "tags": [
-      "brunch",
-      "dairy-free",
-      "high-protein",
-      "one-pan",
-      "russian-cuisine",
-      "weeknight"
+      "breakfast",
+      "sausage",
+      "skillet"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "polish",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -15100,6 +15096,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 70,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-british-sausages-toad-in-the-hole--gluten-free",
+    "title": "Traditional British Sausage and Mash",
+    "tags": [
+      "british",
+      "sausages",
+      "comfort-food",
+      "gluten-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
