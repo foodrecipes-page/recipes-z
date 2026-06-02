@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty",
+  "title": "Classic Cornish Pasty",
+  "description": "A traditional British dish originating from Cornwall, filled with beef, potatoes, and vegetables, wrapped in a crumbly pastry.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, ground",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine beef, potatoes, onion, and carrots. Mix well.",
+    "In a separate bowl, combine cottage cheese and a pinch of salt. Mix well.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Place the beef mixture in the center of the pastry, leaving a 1-inch border around the edges.",
+    "Place the cottage cheese mixture on top of the beef mixture.",
+    "Brush the edges of the pastry with a little water.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to create a few slits in the top crust to allow steam to escape.",
+    "Brush the top crust with a little milk or beaten egg for a glaze.",
+    "Bake for 40-50 minutes, or until the pastry is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasty",
+    "cornish",
+    "british",
+    "beef",
+    "cheese",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:06:50.719Z"
+}
