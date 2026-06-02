@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-vietnamese-rice-vermicelli-banh-mi",
+  "title": "Vietnamese Rice Vermicelli Bowl",
+  "description": "A simple and flavorful Vietnamese-inspired meal featuring vermicelli noodles, grilled pork, and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chili slices",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli noodles according to package instructions. Drain and set aside.",
+    "Grill the pork shoulder over medium-high heat until browned and cooked through, about 5-7 minutes per side.",
+    "Slice the grilled pork into thin strips.",
+    "Heat the zesty sauce in a small saucepan over low heat.",
+    "Prepare the banana leaves by cutting off the stem and blanching them in boiling water for 30 seconds.",
+    "Wrap each serving of noodles in a banana leaf, adding a few slices of pork, some chopped cilantro and mint, and a few chili slices if desired.",
+    "Drizzle the rice vinegar and sesame oil over the top of each serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "rice-vermicelli",
+    "pork",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-vietnamese-rice-vermicelli-banh-mi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:51:05.681Z"
+}
