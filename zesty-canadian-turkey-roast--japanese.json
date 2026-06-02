@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-canadian-turkey-roast--japanese",
+  "title": "Japanese-Style Roast Turkey Breast",
+  "description": "A delicious and easy-to-make Japanese-inspired roast turkey breast dish. Perfect for special occasions or holidays.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast, boneless and skinless",
+      "amount": "2 pounds",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "zesty roast",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the turkey breast and pat it dry with paper towels.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, brown sugar, and grated ginger.",
+    "Place the turkey breast in a roasting pan and brush the soy sauce mixture evenly over both sides of the turkey.",
+    "Sprinkle the zesty roast, canadian bacon, and green onions over the turkey.",
+    "Roast the turkey in the preheated oven for 30 minutes per pound, or until it reaches an internal temperature of 165°F (74°C).",
+    "Remove the turkey from the oven and let it rest for 10 minutes before slicing.",
+    "Sprinkle the sesame seeds over the turkey before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "turkey",
+    "roast",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-turkey-roast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:05:43.323Z"
+}
