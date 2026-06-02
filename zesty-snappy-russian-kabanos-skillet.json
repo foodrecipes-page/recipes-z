@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-snappy-russian-kabanos-skillet",
+  "title": "Pan-Seared Kabanos with Skillet Crunch",
+  "description": "A quick and easy breakfast recipe featuring crispy kabanos sausage and crunchy skillet topping.",
+  "cuisine": "polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "chopped (for garnish)"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "any zesty condiment (e.g. hot sauce)"
+    },
+    {
+      "name": "russian",
+      "amount": "1 tsp",
+      "notes": "dried dill weed"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add kabanos sausage and cook until browned, about 2-3 minutes per side.",
+    "Transfer sausage to a plate and cover with foil to keep warm.",
+    "Add chopped skillet to the skillet and cook until crispy, stirring frequently.",
+    "Return sausage to the skillet and add zesty and russian to taste.",
+    "Serve hot, garnished with additional skillet if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sausage",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-snappy-russian-kabanos-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:22:22.598Z"
+}
