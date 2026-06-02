@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-smoky-british-sausages-toad-in-the-hole--gluten-free",
+  "title": "Traditional British Sausage and Mash",
+  "description": "A classic British dish made with sausages, mash, and a hint of smokiness. Perfect for a comforting meal.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Boil the sausages in water for 10-12 minutes, or until cooked through.",
+    "In a separate pot, boil the potatoes until tender, then mash with butter and milk.",
+    "Heat oil in a pan over medium heat. Add the smoked paprika and cook for 1 minute.",
+    "Add the cooked sausages to the pan and cook for 2-3 minutes, or until browned.",
+    "Serve the sausages with mashed potatoes and a dollop of zesty mustard.",
+    "Enjoy your delicious British-style sausage and mash!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "sausages",
+    "comfort-food",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-british-sausages-toad-in-the-hole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:18:46.385Z"
+}
