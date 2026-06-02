@@ -1,0 +1,94 @@
+{
+  "slug": "zero-gravity-british-chinese-leaf-casserole--german",
+  "title": "Schweinshaxe mit Sauerkraut",
+  "description": "A traditional German pork knuckle dish served with tangy sauerkraut.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1",
+      "notes": "ask your butcher"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 teaspoons",
+      "notes": "add for extra flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "balances the acidity"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adds a tangy taste"
+    },
+    {
+      "name": "sausage meat",
+      "amount": "250g",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "250g",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Rub the pork knuckle with caraway seeds, salt, and black pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the pork knuckle until browned, about 2-3 minutes per side.",
+    "Add the onion and carrots to the pot and cook until softened, about 5 minutes.",
+    "Add the sausage meat (if using), apple cider vinegar, and brown sugar to the pot. Stir to combine.",
+    "Transfer the pot to the preheated oven and roast for 30 minutes.",
+    "Remove the pot from the oven and add the sauerkraut to the pot. Return to the oven and roast for an additional 20-25 minutes, or until the sauerkraut is caramelized and the pork is cooked through.",
+    "Remove the pot from the oven and let rest for 10 minutes before serving.",
+    "Slice the pork knuckle and serve with the sauerkraut and juices from the pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "sauerkraut",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-gravity-british-chinese-leaf-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:34:37.487Z"
+}
