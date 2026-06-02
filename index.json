@@ -3566,17 +3566,14 @@
   },
   {
     "slug": "zesty-croatian-rocket-soup",
-    "title": "Zesty Croatian Rocket Soup",
+    "title": "Croatian Rocket Soup",
     "tags": [
-      "zesty",
-      "croatian",
-      "rocket-soup",
-      "whole30",
-      "light",
-      "simmer"
+      "soups",
+      "vegetarian",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -9231,13 +9228,14 @@
   },
   {
     "slug": "zesty-mustardy-wheat-pilaf",
-    "title": "Zesty Mustardy Wheat Pilaf",
+    "title": "Spicy Wheat Pilaf",
     "tags": [
-      "moroccan",
-      "dinner"
+      "pilaf",
+      "wheat",
+      "spicy"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
