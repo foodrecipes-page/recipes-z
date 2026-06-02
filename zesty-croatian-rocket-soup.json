@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-croatian-rocket-soup",
+  "title": "Croatian Rocket Soup",
+  "description": "A hearty and flavorful soup made with Croatian bread, zesty vegetables, and peppery rocket.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bread",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Zesty vegetables (carrots, celery, onion)",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Rocket",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt butter over medium heat.",
+    "Add chopped zesty vegetables and cook until tender, about 5 minutes.",
+    "Add diced Croatian bread and cook for an additional 2 minutes.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Stir in chopped rocket and heavy cream.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional rocket if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soups",
+    "vegetarian",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-rocket-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:36:15.343Z"
+}
