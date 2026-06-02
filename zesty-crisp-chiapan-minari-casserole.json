@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-crisp-chiapan-minari-casserole",
+  "title": "Mexican Casserole with Crisp Topping",
+  "description": "A flavorful and satisfying Mexican-inspired casserole with a crunchy topping made possible by the crispy ingredient.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chiapan squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "minari chili peppers",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "zesty cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "casserole rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the casserole rice according to package instructions.",
+    "In a large skillet, sauté the diced minari chili peppers in a little oil until tender.",
+    "In a separate bowl, combine cooked rice, sautéed chili peppers, and shredded zesty cheese.",
+    "Transfer the rice mixture to a 9x13 inch baking dish.",
+    "Top with shredded crisp lettuce and bake for 20 minutes.",
+    "Increase oven temperature to broil and cook for an additional 2-3 minutes, or until the top is crispy.",
+    "Remove from oven and let it rest for a few minutes before serving.",
+    "Slice into squares and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-chiapan-minari-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:01:48.749Z"
+}
