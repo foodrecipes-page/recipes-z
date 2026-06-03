@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-silky-australian-rice-bowl",
+  "title": "Australian Zesty Rice Bowl",
+  "description": "A flavorful and easy-to-make rice bowl dish with a hint of Australian spices. This dish is a perfect combination of zesty and silky textures.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian zesty rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Sautéed vegetables (silky texture)",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and green beans"
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat Australian olive oil in a large skillet over medium-high heat.",
+    "Add sautéed vegetables and cook until tender, about 3-4 minutes.",
+    "Stir in Australian bush tomatoes and cook for an additional minute.",
+    "Add cooked Australian zesty rice to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the rice mixture to a serving bowl and garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "quick-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-australian-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:44:58.431Z"
+}
