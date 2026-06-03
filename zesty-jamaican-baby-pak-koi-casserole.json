@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-jamaican-baby-pak-koi-casserole",
+  "title": "Delicious Jamaican Koi Casserole",
+  "description": "A Caribbean-inspired casserole that combines the flavors of Jamaica with the freshness of koi fish. Perfect for a dinner party.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Koi fish",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pak choi",
+      "amount": "1 bunch",
+      "notes": "Stems separated, leaves chopped"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "Crushed or cubed"
+    },
+    {
+      "name": "Zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the koi fish with Jamaican jerk seasoning, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic and cook for 1 minute.",
+    "Add the koi fish to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "In a separate skillet, heat a little olive oil over medium heat. Add the pak choi stems and cook for 2-3 minutes, or until slightly tender.",
+    "Add the chopped leaves to the skillet and cook for an additional 1-2 minutes, or until wilted.",
+    "In a large bowl, combine the cooked koi fish, pak choi mixture, and casserole.",
+    "Drizzle zesty lime juice over the top and toss to combine.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 15-20 minutes, or until the casserole is hot and the fish is flaky.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "seafood",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jamaican-baby-pak-koi-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:09:42.763Z"
+}
