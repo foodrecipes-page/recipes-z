@@ -4270,16 +4270,15 @@
   },
   {
     "slug": "zesty-dense-jamaican-sun-dried-tomato-roast",
-    "title": "Zesty Dense Jamaican Sun Dried Tomato Roast",
+    "title": "Jamaican Roast Chicken with Sun-Dried Tomatoes",
     "tags": [
-      "jamaican-cuisine",
-      "mushroom-recipes",
-      "one-pan-meal",
-      "sun-dried-tomatoes",
-      "vegan-dinner"
+      "chicken",
+      "jamaican",
+      "roast",
+      "sun-dried-tomatoes"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 70,
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -8167,17 +8166,16 @@
   },
   {
     "slug": "zesty-malaysian-chickpea-wrap",
-    "title": "Zesty Malaysian Chickpea Wrap",
+    "title": "Malaysian Chickpea Wrap",
     "tags": [
-      "diabetic-friendly",
-      "hangover-cure",
-      "low-carb",
-      "malaysian",
-      "quick-healthy",
-      "wrap"
+      "vegetarian",
+      "gluten-free",
+      "chickpea",
+      "wrap",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "malaysian",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
