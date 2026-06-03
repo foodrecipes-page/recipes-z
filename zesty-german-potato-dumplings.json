@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-german-potato-dumplings",
+  "title": "Pan-Seared Potato Dumplings with Zesty German Sauce",
+  "description": "A hearty German-inspired dish featuring pan-seared potato dumplings smothered in a tangy and savory zesty sauce. Serve as a comforting main course or side dish.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dumpling mixture"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine grated potatoes, flour, and beaten eggs. Mix well to form a dough.",
+    "Knead the dough for 5-7 minutes until smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape into small dumplings.",
+    "Heat a large skillet over medium heat and add melted butter.",
+    "Add the dumplings to the skillet and cook for 4-5 minutes on each side, or until golden brown.",
+    "Meanwhile, prepare the zesty sauce by mixing mayonnaise, Dijon mustard, and chopped fresh parsley in a small bowl.",
+    "Once the dumplings are cooked, remove them from the skillet and place on a serving plate.",
+    "Drizzle the zesty sauce over the dumplings and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "dumplings",
+    "zesty",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-german-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:00:07.279Z"
+}
