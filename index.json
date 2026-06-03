@@ -5386,17 +5386,14 @@
   },
   {
     "slug": "zesty-fluffy-korean-semolina-kalguksu",
-    "title": "Zesty Fluffy Korean Semolina Kalguksu",
+    "title": "Fluffy Kalguksu Noodle Soup",
     "tags": [
-      "flexitarian-friendly",
-      "homemade-noodles",
-      "korean-food",
-      "noodle-dish",
-      "one-pot-meal",
-      "weeknight-dinner"
+      "korean-cuisine",
+      "vegetarian",
+      "noodle-soup"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -9846,16 +9843,15 @@
   },
   {
     "slug": "zesty-pillowy-malaysian-trout-satay",
-    "title": "Zesty Pillowy Malaysian Trout Satay",
+    "title": "Pan-Seared Trout Satay",
     "tags": [
-      "grilled-fish",
-      "kosher-friendly",
-      "malaysian-cuisine",
-      "outdoor-cooking",
-      "special-occasion"
+      "fish",
+      "malaysian",
+      "satay",
+      "peanut"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "malaysian",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -11144,16 +11140,14 @@
   },
   {
     "slug": "zesty-silky-australian-rice-bowl",
-    "title": "Zesty Silky Australian Rice Bowl",
+    "title": "Australian Zesty Rice Bowl",
     "tags": [
-      "griddle",
-      "jain-friendly",
-      "meal-prep",
-      "one-pan",
-      "rice-based"
+      "australian",
+      "quick-recipes",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 55,
+    "cuisine": "australian",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -15118,6 +15112,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-rice-vermicelli-banh-mi--japanese",
+    "title": "Japanese-Style Banh Mi",
+    "tags": [
+      "japanese",
+      "vietnamese",
+      "fusioneats",
+      "banhmi",
+      "vermicelli"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "z"
   }
 ]
