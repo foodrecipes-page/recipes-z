@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-malaysian-chickpea-wrap",
+  "title": "Malaysian Chickpea Wrap",
+  "description": "A flavorful and healthy wrap filled with spicy chickpeas, crunchy vegetables, and creamy sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "Malaysian chili sauce"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": ""
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a pan over medium heat.",
+    "2. Add the chickpeas and cook for 2-3 minutes.",
+    "3. Add the zesty sauce and stir well.",
+    "4. Warm the wrap in the pan for 1 minute.",
+    "5. Assemble the wrap by spreading the chickpea mixture on the wrap.",
+    "6. Top with mixed greens, shredded carrot, and shredded cucumber.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "chickpea",
+    "wrap",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malaysian-chickpea-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:53:01.188Z"
+}
