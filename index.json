@@ -9260,17 +9260,14 @@
   },
   {
     "slug": "zesty-northern-thai-peanut-curry",
-    "title": "Zesty Northern Thai Peanut Curry",
+    "title": "Thai Zesty Chicken Curry",
     "tags": [
-      "crowd-pleaser",
-      "crunchy",
-      "mini-cocotte",
-      "nutty",
-      "ovo-vegetarian",
-      "sous-vide"
+      "thai-curry",
+      "chicken-curry",
+      "peanut-sauce"
     ],
-    "cuisine": "northern-thai",
-    "totalTimeMin": 60,
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
