@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-dense-jamaican-sun-dried-tomato-roast",
+  "title": "Jamaican Roast Chicken with Sun-Dried Tomatoes",
+  "description": "A flavorful and aromatic dish that combines the spices of Jamaica with the savory taste of roast chicken and sun-dried tomatoes.",
+  "cuisine": "jamaican",
+  "diet": [
+    "pork-free",
+    "fish-free",
+    "red-meat-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 lbs",
+      "notes": null
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "roast vegetables (carrots, potatoes, bell peppers)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the jerk seasoning, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, toss the roast vegetables with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 15-20 minutes, or until tender.",
+    "When the chicken is done, let it rest for 5 minutes before slicing.",
+    "Serve the chicken with the roast vegetables and sun-dried tomatoes.",
+    "Drizzle with lemon juice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "jamaican",
+    "roast",
+    "sun-dried-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-jamaican-sun-dried-tomato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:12:12.811Z"
+}
