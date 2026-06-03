@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-fluffy-korean-semolina-kalguksu",
+  "title": "Fluffy Kalguksu Noodle Soup",
+  "description": "A hearty and comforting Korean noodle soup made with fluffy Kalguksu noodles and a variety of vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kalguksu noodles",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "zesty vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fluffy tofu",
+      "amount": "1 block",
+      "notes": "firm or soft"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "sliced carrot",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Bring the zesty vegetable broth to a boil in a large pot.",
+    "Add the sliced carrot and cook for 3-4 minutes.",
+    "Add the sliced cucumber and cook for an additional 2-3 minutes.",
+    "Add the fluffy tofu and cook for 1-2 minutes.",
+    "Cook the kalguksu noodles according to the package instructions.",
+    "Drain the noodles and add them to the pot.",
+    "Season with sesame oil and soy sauce to taste.",
+    "Serve hot, garnished with chopped green onion and a sprinkle of semolina flour."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "vegetarian",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-korean-semolina-kalguksu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:37:53.265Z"
+}
