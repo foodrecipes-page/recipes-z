@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-pillowy-malaysian-trout-satay",
+  "title": "Pan-Seared Trout Satay",
+  "description": "A fusion of Malaysian flavors and fresh trout, served with a side of spicy peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "For the marinade"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked for added depth"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout with salt and pepper.",
+    "In a small bowl, mix together sugar, paprika, and a pinch of salt.",
+    "Brush the mixture onto both sides of the trout fillets.",
+    "Heat a skillet over medium-high heat and add the peanut oil.",
+    "Sear the trout for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes.",
+    "While the trout is cooking, heat the satay sauce in a small saucepan over low heat.",
+    "To serve, place the trout on a plate and spoon the satay sauce over the top.",
+    "Garnish with peanuts and a sprinkle of sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "malaysian",
+    "satay",
+    "peanut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-pillowy-malaysian-trout-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:48:14.132Z"
+}
