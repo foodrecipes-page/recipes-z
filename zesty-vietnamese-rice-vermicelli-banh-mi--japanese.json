@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-vietnamese-rice-vermicelli-banh-mi--japanese",
+  "title": "Japanese-Style Banh Mi",
+  "description": "A fusion of Japanese and Vietnamese flavors in a crunchy banh mi. Perfect for a quick lunch or snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz",
+      "notes": "preferably Japanese-style"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for pickling"
+    },
+    {
+      "name": "Zesty pickled carrots",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Grilled pork or tofu",
+      "amount": "4 oz",
+      "notes": "depending on your preference"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Daikon radish",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Japanese mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "or regular mayonnaise"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Baguette or banh mi bread",
+      "amount": "1 loaf",
+      "notes": "preferably toasted"
+    }
+  ],
+  "instructions": [
+    "1. Cook the vermicelli noodles according to the package instructions.",
+    "2. In a small bowl, whisk together the rice vinegar and a pinch of sugar.",
+    "3. Add the pickled carrots, cucumber, and daikon radish to the bowl and toss to coat.",
+    "4. Grill the pork or tofu until cooked through, then slice into thin strips.",
+    "5. Spread a layer of Japanese mayonnaise on the bottom half of the baguette or banh mi bread.",
+    "6. Add a layer of cooked vermicelli noodles, followed by the pickled vegetables.",
+    "7. Top with sliced grilled pork or tofu, and sprinkle with sesame seeds if desired.",
+    "8. Place the top half of the baguette or banh mi bread on the sandwich.",
+    "9. Slice the sandwich in half and serve immediately.",
+    "10. Enjoy your delicious Japanese-Style Banh Mi!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vietnamese",
+    "fusioneats",
+    "banhmi",
+    "vermicelli"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-vietnamese-rice-vermicelli-banh-mi--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:12:49.250Z"
+}
