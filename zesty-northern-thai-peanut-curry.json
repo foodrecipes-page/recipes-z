@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-northern-thai-peanut-curry",
+  "title": "Thai Zesty Chicken Curry",
+  "description": "A flavorful and spicy Thai-inspired dish made with chicken, zesty sauce, and northern Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "Can be adjusted for desired level of spiciness"
+    },
+    {
+      "name": "Northern Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Can be adjusted for desired level of spiciness"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat or low-fat as preferred"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Sliced or chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Can be adjusted for desired level of saltiness"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Can be adjusted for desired level of sweetness"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Thai zesty sauce and northern Thai curry paste. Cook, stirring constantly, for 1-2 minutes.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to medium-low and let simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Stir in the fish sauce and brown sugar.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and sliced peanuts.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "chicken-curry",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-northern-thai-peanut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:55:30.514Z"
+}
