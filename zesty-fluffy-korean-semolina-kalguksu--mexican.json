@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-fluffy-korean-semolina-kalguksu--mexican",
+  "title": "Fluffy Korean Corn Fritters (Mexican-Style)",
+  "description": "A twist on traditional Mexican fritters, these fluffy corn bites are infused with the bold flavors of Korean chili flakes and the crunch of semolina.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kalguksu (dried Korean noodles)",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semolina",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "zesty corn",
+      "amount": "1 cup, frozen, thawed"
+    },
+    {
+      "name": "fluffy corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup, for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (180°C).",
+    "In a large bowl, combine crushed kalguksu, cornmeal, semolina, zesty corn, fluffy corn kernels, and Korean chili flakes.",
+    "In a separate bowl, whisk together egg and a pinch of salt.",
+    "Add the egg mixture to the dry ingredients and stir until just combined.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Fry for 3-4 minutes on each side, or until golden brown.",
+    "Drain on paper towels and serve hot.",
+    "Note: If the fritters start to break apart, it means the oil is too hot. Reduce the temperature and continue frying."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "korean",
+    "corn-fritters",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-korean-semolina-kalguksu--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:09:00.836Z"
+}
