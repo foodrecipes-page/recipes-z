@@ -15117,5 +15117,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-northern-thai-peanut-curry--indian",
+    "title": "Thai-Indian Chicken Curry",
+    "tags": [
+      "indian",
+      "thai",
+      "chicken",
+      "curry",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
