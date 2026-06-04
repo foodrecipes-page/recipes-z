@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-chewy-sicilian-lamb-cassata",
+  "title": "Sicilian Lamb Koftas",
+  "description": "A flavorful and easy-to-make lamb kofta recipe inspired by Sicilian cuisine, served with a side of tangy zesty sauce. This dish is perfect for a quick dinner or lunch.",
+  "cuisine": "Sicilian",
+  "diet": [
+    "meat-lovers",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "100ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chewy bread",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "cassata cheese",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground lamb, zesty sauce, chewy bread, cassata cheese, onion, garlic, oregano, salt, and pepper.",
+    "Mix well with your hands until just combined. Be careful not to overmix.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread lamb mixture onto skewers, leaving a small space between each kofta.",
+    "Grill lamb koftas for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve hot with additional zesty sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sunday dinner",
+    "italian food",
+    "lamb recipes",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "24g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-sicilian-lamb-cassata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:18:30.569Z"
+}
