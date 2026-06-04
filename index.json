@@ -57,17 +57,15 @@
   },
   {
     "slug": "zenith-american-cornbread-casserole",
-    "title": "Zenith American Cornbread Casserole",
+    "title": "Classic American Cornbread Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "homemade",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "american",
+      "cornbread",
+      "casserole",
+      "cheesy"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -2194,17 +2192,15 @@
   },
   {
     "slug": "zesty-chewy-sicilian-lamb-cassata",
-    "title": "Zesty Chewy Sicilian Lamb Cassata",
+    "title": "Sicilian Lamb Koftas",
     "tags": [
-      "anti-inflammatory",
-      "cassata-style",
-      "gluten-free",
-      "italian-inspired",
-      "lamb-based",
-      "post-workout"
+      "sunday dinner",
+      "italian food",
+      "lamb recipes",
+      "grilling"
     ],
     "cuisine": "Sicilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 36,
     "shard": "z"
   },
   {
@@ -2283,17 +2279,15 @@
   },
   {
     "slug": "zesty-chinese-peanuts-kung-pao",
-    "title": "Zesty Chinese Peanuts Kung Pao",
+    "title": "Spicy Pao Chicken Stir Fry",
     "tags": [
-      "chinese-food",
-      "deep-fry",
-      "gluten-free",
-      "kung-pao",
-      "peanut-recipes",
-      "stir-fry"
+      "chinese",
+      "stir-fry",
+      "peanut",
+      "chicken"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
