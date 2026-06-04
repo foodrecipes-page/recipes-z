@@ -1,0 +1,78 @@
+{
+  "slug": "zenith-american-cornbread-casserole",
+  "title": "Classic American Cornbread Casserole",
+  "description": "A twist on the traditional cornbread, this casserole combines the flavors of America in a heartwarming dish.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornbread mix",
+      "amount": "1 (15.25 oz) box"
+    },
+    {
+      "name": "cheddar cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sliced bacon",
+      "amount": "4-5 slices"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the sliced bacon in a skillet until crispy; set aside.",
+    "In a large bowl, combine the cornbread mix, shredded cheese, sour cream, eggs, sugar, salt, and black pepper. Stir until just combined.",
+    "Add the cooked bacon and chopped scallions to the cornbread mixture and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "cornbread",
+    "casserole",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-american-cornbread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:28:39.701Z"
+}
