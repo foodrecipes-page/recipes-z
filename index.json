@@ -5311,13 +5311,12 @@
   },
   {
     "slug": "zesty-flaky-vietnamese-cookies-bo-kho",
-    "title": "Zesty Flaky Vietnamese Cookies Bo Kho",
+    "title": "Vietnamese-Style Zesty Chicken",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "shojin-friendly",
-      "steamed-dish",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "spicy",
+      "main-course"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 45,
@@ -15130,6 +15129,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-fluffy-korean-semolina-kalguksu--mexican",
+    "title": "Fluffy Korean Corn Fritters (Mexican-Style)",
+    "tags": [
+      "mexican",
+      "korean",
+      "corn-fritters",
+      "snack-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "z"
   }
 ]
