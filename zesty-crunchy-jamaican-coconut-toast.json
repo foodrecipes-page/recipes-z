@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-crunchy-jamaican-coconut-toast",
+  "title": "Jamaican Coconut Toast",
+  "description": "A sweet and crunchy breakfast toast with jamaican flavors. Perfect for a sunny morning.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted coconut bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "crunchy chopped pecans",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Toast the coconut bread slices until lightly browned.",
+    "In a small bowl, mix together the jamaican jerk seasoning and zesty lime juice.",
+    "Brush the mixture on top of the toasted coconut bread slices.",
+    "Sprinkle coconut flakes and crunchy chopped pecans on top.",
+    "Bake for 2-3 minutes or until the coconut is lightly toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "toasty",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-jamaican-coconut-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:34:13.160Z"
+}
