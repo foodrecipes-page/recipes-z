@@ -177,17 +177,16 @@
   },
   {
     "slug": "zenith-irish-oat-tagine",
-    "title": "Zenith Irish Oat Tagine",
+    "title": "Irish Oat Tagine",
     "tags": [
-      "breakfast-recipe",
-      "clay-cooking",
-      "comfort-food",
-      "irish-food",
-      "lazy-sunday",
-      "oat-dish"
+      "hearty",
+      "comforting",
+      "oatmeal",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
