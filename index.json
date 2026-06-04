@@ -15134,5 +15134,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 20,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-flaky-australian-meat-pie--thai",
+    "title": "Thai Meat Pie",
+    "tags": [
+      "thai",
+      "meat",
+      "pie",
+      "australian",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "z"
   }
 ]
