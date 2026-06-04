@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-flaky-vietnamese-cookies-bo-kho",
+  "title": "Vietnamese-Style Zesty Chicken",
+  "description": "A flavorful and spicy Vietnamese-inspired dish featuring zesty chicken, flaky crust, and a hint of bo kho spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "zesty spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bo kho spice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "pork rinds",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together flour, zesty spice blend, and bo kho spice.",
+    "In a separate dish, beat eggs.",
+    "Dip each chicken breast into the eggs, coating completely, then coat in the flour mixture, pressing gently to adhere.",
+    "Dip the coated chicken breast into the crushed pork rinds, pressing gently to adhere.",
+    "Place the coated chicken breasts on a baking sheet lined with parchment paper.",
+    "Drizzle with fish sauce and lime juice, if using.",
+    "Bake for 20-25 minutes or until the chicken is cooked through and the crust is golden brown.",
+    "While the chicken is baking, mix together sugar and zesty spice blend in a small bowl.",
+    "Remove the chicken from the oven and brush with the sugar-zesty spice mixture.",
+    "Return the chicken to the oven and bake for an additional 5-10 minutes or until the crust is caramelized.",
+    "Serve immediately, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "spicy",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-vietnamese-cookies-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:51:17.122Z"
+}
