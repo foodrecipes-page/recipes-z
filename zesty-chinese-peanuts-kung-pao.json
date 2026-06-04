@@ -1,0 +1,104 @@
+{
+  "slug": "zesty-chinese-peanuts-kung-pao",
+  "title": "Spicy Pao Chicken Stir Fry",
+  "description": "A spicy and savory stir fry made with marinated chicken and peanuts, served with steamed vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "zesty pao sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "Cut into florets"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1. In a medium bowl, whisk together pao sauce, soy sauce, brown sugar, and garlic. Add the chicken and marinate for at least 30 minutes."
+    },
+    {
+      "step": "2. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat. Add the chicken and cook until browned and cooked through, about 5-7 minutes. Remove from the skillet and set aside."
+    },
+    {
+      "step": "3. In the same skillet, add the remaining 1 tablespoon of vegetable oil. Add the chopped peanuts and cook for 2-3 minutes, or until fragrant."
+    },
+    {
+      "step": "4. Add the broccoli to the skillet and cook until tender, about 3-5 minutes."
+    },
+    {
+      "step": "5. Return the cooked chicken to the skillet and stir in the pao sauce mixture. Bring to a simmer and cook for an additional 2-3 minutes, or until the sauce has thickened."
+    },
+    {
+      "step": "6. Season with salt and serve immediately."
+    }
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "peanut",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chinese-peanuts-kung-pao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:13:05.007Z"
+}
