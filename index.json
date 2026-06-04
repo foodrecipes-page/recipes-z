@@ -3820,16 +3820,15 @@
   },
   {
     "slug": "zesty-crunchy-jamaican-coconut-toast",
-    "title": "Zesty Crunchy Jamaican Coconut Toast",
+    "title": "Jamaican Coconut Toast",
     "tags": [
-      "coconut-cream",
-      "crusty-bread",
-      "jamaican-cuisine",
-      "lazy-sunday",
-      "vegetarian-friendly"
+      "breakfast",
+      "jamaican",
+      "toasty",
+      "veggie-friendly"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 20,
+    "cuisine": "jamaican",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
