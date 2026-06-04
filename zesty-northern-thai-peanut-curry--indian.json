@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-northern-thai-peanut-curry--indian",
+  "title": "Thai-Indian Chicken Curry",
+  "description": "A fusion of flavors from Thailand and India, this curry dish is a perfect blend of spicy and tangy. Serve with steamed rice or naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "available in most supermarkets or online"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "northern zesty spice blend",
+      "amount": "1 tsp",
+      "notes": "available online or in Indian grocery stores"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Add coconut milk, spice blend, and curry powder. Stir to combine.",
+    "Bring to a simmer and cook for 10-15 minutes, until chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "thai",
+    "chicken",
+    "curry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-northern-thai-peanut-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:30:56.353Z"
+}
