@@ -1,0 +1,84 @@
+{
+  "slug": "zenith-irish-oat-tagine",
+  "title": "Irish Oat Tagine",
+  "description": "A hearty, comforting Irish-inspired oat tagine, perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "irish stout",
+      "amount": "1 cup",
+      "notes": "such as Guinness"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, carrots, and celery; cook until tender, about 8 minutes.",
+    "Add oatmeal and cook for 2 minutes, stirring constantly.",
+    "Add stout, spice mix, salt, and pepper; stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "comforting",
+    "oatmeal",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-irish-oat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:54:51.112Z"
+}
