@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-briny-thai-tofu-curry",
+  "title": "Thai Tofu Curry",
+  "description": "A flavorful and spicy Thai-inspired curry made with crispy tofu and a blend of aromatic spices. Serve over steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": "spicy"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Zesty lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Briny fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the curry paste to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the lime juice, fish sauce, and stir to combine.",
+    "Return the tofu to the skillet and stir to coat with the curry sauce.",
+    "Add the bell pepper and onion to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the basil leaves and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the curry hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "tofu",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-briny-thai-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:49:04.136Z"
+}
