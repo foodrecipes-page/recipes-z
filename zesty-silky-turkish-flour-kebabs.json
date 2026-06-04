@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-silky-turkish-flour-kebabs",
+  "title": "Turkish Kebab Wraps",
+  "description": "A flavorful and easy-to-make Turkish-inspired dish, perfect for a quick snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Turkish",
+      "amount": "1 tablespoon",
+      "notes": "Use Turkish seasoning blend"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1 tablespoon",
+      "notes": "Use zesty hummus"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/4 cup",
+      "notes": "Use silky tahini"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "In a large bowl, combine flour and Turkish seasoning blend.",
+    "Gradually add warm water to the flour mixture and knead for 5 minutes.",
+    "Divide dough into 4 equal pieces and roll each one into a ball.",
+    "Flatten each ball into a thin circle.",
+    "Brush each circle with a little water.",
+    "Place a tablespoon of zesty hummus and silky tahini in the center of each circle.",
+    "Fold the dough over the filling and press edges together to seal.",
+    "Cook the wraps in the preheated pan for 2-3 minutes on each side.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "turkish-food",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-turkish-flour-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:21:13.243Z"
+}
