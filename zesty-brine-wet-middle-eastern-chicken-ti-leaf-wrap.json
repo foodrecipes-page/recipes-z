@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap",
+  "title": "Eastern Chicken Wrap",
+  "description": "A delicious and flavorful wrap filled with juicy chicken, crispy vegetables, and creamy sauce. Perfect for a quick and satisfying meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zesty hummus",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 tablespoon",
+      "notes": "including cumin, coriander, and paprika"
+    },
+    {
+      "name": "leafy greens",
+      "amount": "1 cup",
+      "notes": "such as lettuce, spinach, or kale"
+    },
+    {
+      "name": "wrap (gluten-free)",
+      "amount": "1 large",
+      "notes": "such as a whole wheat or gluten-free tortilla"
+    },
+    {
+      "name": "ti (thinly sliced red onion)",
+      "amount": "1/2 cup",
+      "notes": "or substitute with thinly sliced yellow onion"
+    },
+    {
+      "name": "wet cucumber slices",
+      "amount": "1/2 cup",
+      "notes": "or substitute with sliced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt, pepper, and middle eastern spices.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for a few minutes before slicing it thinly.",
+    "Spread the zesty hummus on the wrap.",
+    "Add the sliced chicken, leafy greens, ti, and wet cucumber slices to the wrap.",
+    "Drizzle with additional hummus if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wraps",
+    "middle-eastern",
+    "gluten-free",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:39:49.657Z"
+}
