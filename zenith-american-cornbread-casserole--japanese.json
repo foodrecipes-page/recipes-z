@@ -1,0 +1,82 @@
+{
+  "slug": "zenith-american-cornbread-casserole--japanese",
+  "title": "Japanese Cornbread Casserole",
+  "description": "A unique fusion of Japanese flavors and American cornbread, perfect for a comforting meal. This casserole combines the sweetness of corn with savory ingredients for a delightful taste experience.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zenith cornmeal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "American all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Casserole cheese blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Japanese pickled ginger, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together cornmeal, flour, and cheese blend.",
+    "In a separate bowl, whisk together soy sauce, scallions, pickled ginger, sesame oil, and egg.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Pour the batter into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese cornbread",
+    "casserole",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-american-cornbread-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:29:39.734Z"
+}
