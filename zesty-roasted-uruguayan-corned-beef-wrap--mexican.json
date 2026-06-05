@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-roasted-uruguayan-corned-beef-wrap--mexican",
+  "title": "Uruguayan Beef Wrap",
+  "description": "A twist on traditional Mexican wraps, this recipe features Uruguayan seasoned beef and roasted vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan seasoned beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1",
+      "notes": "Roasted in the oven at 400°F (200°C) until charred"
+    },
+    {
+      "name": "Roasted onion",
+      "amount": "1 medium",
+      "notes": "Roasted in the oven at 400°F (200°C) until caramelized"
+    },
+    {
+      "name": "Roasted zesty corn",
+      "amount": "1 cup",
+      "notes": "Roasted in the oven at 400°F (200°C) until lightly browned"
+    },
+    {
+      "name": "Corn tortilla wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast the red bell pepper, onion, and zesty corn in the oven for 20 minutes.",
+    "Season the beef with Uruguayan seasoning and cook in a skillet over medium-high heat until browned.",
+    "Warm the corn tortilla wrap in the oven for 5 minutes.",
+    "Assemble the wrap by placing the beef, roasted vegetables, shredded lettuce, diced tomatoes, and sliced avocado inside the tortilla.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "wrap",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-uruguayan-corned-beef-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:27:18.884Z"
+}
