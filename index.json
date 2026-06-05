@@ -11679,17 +11679,14 @@
   },
   {
     "slug": "zesty-smoked-russian-haddock-pilaf",
-    "title": "Zesty Smoked Russian Haddock Pilaf",
+    "title": "Smoked Haddock Pilaf",
     "tags": [
-      "healthy-dinner",
-      "one-pan",
-      "pescatarian",
-      "post-workout",
-      "russian-cuisine",
-      "smoked-fish"
+      "russian",
+      "smoked-haddock",
+      "pilaf"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
