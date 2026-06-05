@@ -395,17 +395,15 @@
   },
   {
     "slug": "zero-gravity-crispy-syrian-chicken-kebabs",
-    "title": "Zero Gravity Crispy Syrian Chicken Kebabs",
+    "title": "Crispy Chicken Kebabs",
     "tags": [
-      "air-fryer",
-      "buddhist-temple-friendly",
-      "chicken-kebabs",
-      "high-protein",
-      "syrian-cuisine",
-      "weeknight"
+      "chicken",
+      "grill",
+      "kebabs",
+      "middle eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 31,
     "shard": "z"
   },
   {
@@ -8446,16 +8444,15 @@
   },
   {
     "slug": "zesty-mexican-kidney-beans-tacos",
-    "title": "zesty mexican kidney beans tacos",
+    "title": "Kidney Bean Tacos",
     "tags": [
-      "low-carb",
       "mexican",
-      "one-pan",
+      "tacos",
       "vegetarian",
-      "weeknight"
+      "kidney-beans"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
