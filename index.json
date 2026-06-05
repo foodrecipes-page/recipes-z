@@ -15172,5 +15172,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 55,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-roasted-uruguayan-corned-beef-wrap--mexican",
+    "title": "Uruguayan Beef Wrap",
+    "tags": [
+      "mexican",
+      "beef",
+      "wrap",
+      "uruguayan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap--thai",
+    "title": "Thai Chicken Wraps",
+    "tags": [
+      "thai",
+      "chicken",
+      "wraps",
+      "lunch",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
