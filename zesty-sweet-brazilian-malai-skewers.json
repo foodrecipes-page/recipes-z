@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-sweet-brazilian-malai-skewers",
+  "title": "Brazilian-Style Chicken Skewers",
+  "description": "A flavorful and colorful dish inspired by the cuisine of Brazil, featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "malai yogurt",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sweet honey",
+      "amount": "1 tablespoon",
+      "notes": "for glazing"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or bamboo"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together malai yogurt, zesty lime juice, and sweet honey.",
+    "2. Add the chicken to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "7. Brush with sweet honey during the last minute of grilling.",
+    "8. Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-brazilian-malai-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:00:50.210Z"
+}
