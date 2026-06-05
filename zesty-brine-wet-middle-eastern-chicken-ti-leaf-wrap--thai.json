@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap--thai",
+  "title": "Thai Chicken Wraps",
+  "description": "Delicious Thai-inspired wraps filled with spicy chicken, crunchy vegetables, and fresh herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "middle eastern leaf",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "wet wrap",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brine",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "ti",
+      "amount": "1 small",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together zesty sauce, eastern spices, and brine (if using).",
+    "2. Add chicken breast to the marinade and mix until coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Remove chicken from the marinade and cook until browned and cooked through.",
+    "6. Meanwhile, toast the wet wrap on the grill or in a dry pan.",
+    "7. Assemble the wraps by slicing the cooked chicken and placing it on the toasted wrap.",
+    "8. Top with middle eastern leaf, ti, and any desired additional toppings.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "wraps",
+    "lunch",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:31:41.005Z"
+}
