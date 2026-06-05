@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-middle-eastern-toor-dal-soup--japanese",
+  "title": "Japanese Toor Dal Soup",
+  "description": "A hearty and flavorful Japanese-inspired soup made with toor dal, zesty spices, and a touch of eastern flair.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty soup mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Middle eastern spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Eastern sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add zesty soup mix and middle eastern spices; sauté for 1 minute.",
+    "Add toor dal and water; bring to a boil.",
+    "Reduce heat; cover and simmer for 20-25 minutes or until dal is tender.",
+    "Season with salt to taste.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "lentil-soup",
+    "japanese-cuisine",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-toor-dal-soup--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:53:10.532Z"
+}
