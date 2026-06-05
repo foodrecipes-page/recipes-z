@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-mexican-kidney-beans-tacos",
+  "title": "Kidney Bean Tacos",
+  "description": "A flavorful and easy-to-make Mexican dish featuring kidney beans, zesty taco seasoning, and crispy taco shells.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Taco Seasoning",
+      "amount": "1 packet (or homemade blend)",
+      "notes": "zesty blend"
+    },
+    {
+      "name": "Tacos Shells",
+      "amount": "8-10 shells",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup (or vegan alternative)",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Diced Bell Pepper",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (optional)",
+      "notes": "fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Brown the taco seasoning in a large skillet over medium-high heat.",
+    "Add the diced onion and bell pepper (if using) and cook until tender.",
+    "Add the kidney beans and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Warm the tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the bean mixture into the shells.",
+    "Top with shredded cheese, diced onion, and cilantro (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "vegetarian",
+    "kidney-beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-kidney-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:50.922Z"
+}
