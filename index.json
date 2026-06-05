@@ -1447,16 +1447,16 @@
   },
   {
     "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap",
-    "title": "Zesty Brine-Wet Middle-Eastern Chicken Ti-Leaf Wrap",
+    "title": "Eastern Chicken Wrap",
     "tags": [
-      "ayurvedic",
-      "high-protein",
-      "musakhan",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "wraps",
+      "middle-eastern",
+      "gluten-free",
+      "quick-meals"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -11636,17 +11636,16 @@
   },
   {
     "slug": "zesty-smoked-jamaican-morbier-tagine",
-    "title": "Zesty Smoked Jamaican Morbier Tagine",
+    "title": "Smoked Jamaican Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "jamaican-cuisine",
-      "one-pot",
-      "smoked-cheese",
-      "tagine-recipes",
-      "vegetarian-friendly"
+      "chicken",
+      "moroccan",
+      "smoked",
+      "jamaican",
+      "tagine"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
