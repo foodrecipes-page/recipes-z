@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-smoked-jamaican-morbier-tagine",
+  "title": "Smoked Jamaican Chicken Tagine",
+  "description": "A flavorful and aromatic stew originating from Morocco, infused with Jamaican spices and served with a smoky twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": "Smoked for added depth"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Morbier Cheese",
+      "amount": "1/2 cup",
+      "notes": "Sliced, for serving"
+    },
+    {
+      "name": "Tagine Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemons",
+      "amount": "2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add smoked paprika, Jamaican jerk seasoning, and tagine sauce. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until chicken is cooked through.",
+    "Stir in lemon juice and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro and sliced Morbier cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "smoked",
+    "jamaican",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoked-jamaican-morbier-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:31:54.855Z"
+}
