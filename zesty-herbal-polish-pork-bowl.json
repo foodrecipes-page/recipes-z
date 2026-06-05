@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-herbal-polish-pork-bowl",
+  "title": "Polish-Style Zesty Pork Bowl",
+  "description": "A hearty and flavorful Polish-inspired dish featuring zesty pork and herbal notes, served in a bowl.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Zesty seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Herbs (such as parsley, dill, or thyme)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt, pepper, and zesty seasoning blend.",
+    "Sear the pork shoulder in a hot skillet for 2-3 minutes on each side.",
+    "Transfer the pork to a baking dish and roast for 20-25 minutes, or until cooked through.",
+    "While the pork is cooking, heat the apple cider vinegar in a small saucepan over medium heat.",
+    "Add the chopped onion to the saucepan and cook for 5-7 minutes, or until softened.",
+    "Add the sliced Polish sausage to the saucepan and cook for an additional 2-3 minutes.",
+    "To assemble the bowls, slice the cooked pork and place it in the bottom of a bowl.",
+    "Add a spoonful of the onion and sausage mixture on top of the pork.",
+    "Garnish with chopped herbs and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "zesty",
+    "pork",
+    "herbal",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herbal-polish-pork-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:48:11.839Z"
+}
