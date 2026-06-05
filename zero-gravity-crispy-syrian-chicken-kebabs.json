@@ -1,0 +1,78 @@
+{
+  "slug": "zero-gravity-crispy-syrian-chicken-kebabs",
+  "title": "Crispy Chicken Kebabs",
+  "description": "A simple and flavorful recipe for crispy chicken kebabs, perfect for a quick weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10-12 skewers",
+      "notes": "soak in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "syrian za'atar",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced for marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, salt, za'atar, lemon juice, and garlic.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Soak the kebab skewers in water for at least 30 minutes.",
+    "Thread the marinated chicken onto the skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Brush with additional olive oil during the last minute of cooking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grill",
+    "kebabs",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-gravity-crispy-syrian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:02:30.314Z"
+}
