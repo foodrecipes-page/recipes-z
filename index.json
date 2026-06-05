@@ -15154,5 +15154,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-smoked-jamaican-morbier-tagine--italian",
+    "title": "Smoked Chicken Tagine with Morbier Crostini",
+    "tags": [
+      "italian",
+      "chicken",
+      "morbier"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "z"
   }
 ]
