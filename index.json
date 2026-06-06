@@ -15224,5 +15224,18 @@
     "cuisine": "thai",
     "totalTimeMin": 33,
     "shard": "z"
+  },
+  {
+    "slug": "zero-sugar-korean-chocolate-jjigae--japanese",
+    "title": "Japanese Jjigae Stew",
+    "tags": [
+      "japanese",
+      "korean",
+      "stew",
+      "pork"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
