@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap--vegan",
+  "title": "Vegan Middle Eastern Wrap",
+  "description": "A flavorful and healthy vegan wrap inspired by the Middle East, filled with roasted vegetables and served in a crispy leaf wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brine",
+      "amount": "1/2 cup",
+      "notes": "Make sure it's vegan"
+    },
+    {
+      "name": "Eastern Leaf",
+      "amount": "4-6 leaves",
+      "notes": "Choose a large, crisp leaf"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Middle Eastern Chicken (substitute with tofu or tempeh)",
+      "amount": "1/2 cup",
+      "notes": "Marinate in brine for at least 30 minutes"
+    },
+    {
+      "name": "Wet",
+      "amount": "1/4 cup",
+      "notes": "Use as a substitute for hummus"
+    },
+    {
+      "name": "Ti",
+      "amount": "1/4 cup",
+      "notes": "Chopped, use as garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Marinate the tofu or tempeh in the brine for at least 30 minutes.",
+    "Wrap the leaf in a damp paper towel and microwave for 20-30 seconds to soften.",
+    "In a pan, heat the wet over medium heat.",
+    "Add the marinated tofu or tempeh to the pan and cook until golden brown.",
+    "Assemble the wrap by placing the cooked tofu or tempeh in the center of the leaf.",
+    "Add the zesty, ti, and any other desired toppings.",
+    "Fold the bottom half of the leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "middle-eastern",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:56:45.900Z"
+}
