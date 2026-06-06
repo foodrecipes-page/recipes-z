@@ -15245,5 +15245,18 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-rich-syrian-lamb-bake--chinese",
+    "title": "Lamb and Zesty Chinese Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "lamb",
+      "zesty"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
