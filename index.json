@@ -15199,5 +15199,30 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-brine-wet-middle-eastern-chicken-ti-leaf-wrap--vegan",
+    "title": "Vegan Middle Eastern Wrap",
+    "tags": [
+      "vegan",
+      "middle-eastern",
+      "wrap"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-chewy-sicilian-lamb-cassata--thai",
+    "title": "Thai Lamb and Sicilian Cassata Meatballs",
+    "tags": [
+      "lamb",
+      "meatballs",
+      "thaifood",
+      "sicilian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 33,
+    "shard": "z"
   }
 ]
