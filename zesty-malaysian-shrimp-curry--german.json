@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-malaysian-shrimp-curry--german",
+  "title": "German Shrimp Curry",
+  "description": "A unique twist on traditional German cuisine, this shrimp curry brings the bold flavors of malaysian curry to the heart of Germany. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zesty Malysian Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Stir in the heavy cream and bring to a simmer.",
+    "Return the shrimp to the skillet and cook until coated in the curry sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-curry",
+    "shrimp-curry",
+    "malysian-curry",
+    "easy-german-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malaysian-shrimp-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:55:01.550Z"
+}
