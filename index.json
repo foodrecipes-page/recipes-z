@@ -15234,5 +15234,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-malaysian-shrimp-curry--german",
+    "title": "German Shrimp Curry",
+    "tags": [
+      "german-curry",
+      "shrimp-curry",
+      "malysian-curry",
+      "easy-german-recipe"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
