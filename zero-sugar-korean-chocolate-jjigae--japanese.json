@@ -1,0 +1,87 @@
+{
+  "slug": "zero-sugar-korean-chocolate-jjigae--japanese",
+  "title": "Japanese Jjigae Stew",
+  "description": "A twist on traditional Korean jjigae, this Japanese-inspired stew combines spicy gochujang with savory pork and vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "4 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium-high heat.",
+    "Add pork belly and cook until browned, about 5 minutes.",
+    "Add onion, mushrooms, and zucchini, and cook until tender, about 5 minutes.",
+    "Add gochujang, soy sauce, and ginger, and stir-fry for 1 minute.",
+    "Bring the mixture to a simmer, then reduce heat to low and cook for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "korean",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-sugar-korean-chocolate-jjigae--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:16:23.619Z"
+}
