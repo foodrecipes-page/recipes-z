@@ -8206,18 +8206,15 @@
   },
   {
     "slug": "zesty-malaysian-shrimp-curry",
-    "title": "Zesty Malaysian Shrimp Curry",
+    "title": "Malaysian Shrimp Curry",
     "tags": [
-      "festival",
-      "high-protein",
-      "low-carb",
-      "marinated",
-      "one-pot",
-      "quick",
-      "zesty"
+      "curry",
+      "shrimp",
+      "malaysian",
+      "quick-cooking"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
