@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-malaysian-shrimp-curry",
+  "title": "Malaysian Shrimp Curry",
+  "description": "A quick and flavorful shrimp curry with a zesty kick, inspired by Malaysian cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove shrimp and set aside.",
+    "Add onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add fish sauce and lime juice and stir to combine.",
+    "Add curry powder and stir to combine.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Return shrimp to the skillet and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "shrimp",
+    "malaysian",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malaysian-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:22.213Z"
+}
