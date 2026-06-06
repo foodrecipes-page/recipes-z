@@ -10215,17 +10215,15 @@
   },
   {
     "slug": "zesty-rich-syrian-lamb-bake",
-    "title": "Zesty Rich Syrian Lamb Bake",
+    "title": "Baked Lamb Kibbeh",
     "tags": [
-      "gluten-free",
-      "lamb-recipes",
-      "middle-eastern",
-      "oven-baked",
-      "special-occasion",
-      "syrian-cuisine"
+      "lamb",
+      "syrian",
+      "kibbeh",
+      "baked"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 65,
     "shard": "z"
   },
   {
