@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-rich-syrian-lamb-bake",
+  "title": "Baked Lamb Kibbeh",
+  "description": "A traditional Syrian dish made with ground lamb, mixed with spices and baked to perfection. This recipe is perfect for a hearty dinner or special occasion.",
+  "cuisine": "Syrian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Bulghur",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon ground allspice, 1 teaspoon ground cumin, 1/2 teaspoon salt, 1/4 teaspoon black pepper",
+      "notes": null
+    },
+    {
+      "name": "Bake",
+      "amount": "400°F",
+      "notes": "Temperature"
+    },
+    {
+      "name": "Rich",
+      "amount": "2 tablespoons olive oil",
+      "notes": null
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground lamb, bulghur, onion, spices, olive oil, and garlic. Mix well.",
+    "Transfer the mixture to a baking dish and shape into a round or oval shape.",
+    "Bake for 45 minutes or until the kibbeh is golden brown and cooked through.",
+    "Let the kibbeh rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "syrian",
+    "kibbeh",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-rich-syrian-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:06:40.049Z"
+}
