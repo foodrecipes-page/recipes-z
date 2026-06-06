@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-chewy-sicilian-lamb-cassata--thai",
+  "title": "Thai Lamb and Sicilian Cassata Meatballs",
+  "description": "A unique twist on traditional meatballs, combining the flavors of Thailand and Sicily.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "99% lean"
+    },
+    {
+      "name": "sliced cassata",
+      "amount": "1 cup",
+      "notes": "crumbly texture"
+    },
+    {
+      "name": "chewy oats",
+      "amount": "1/2 cup",
+      "notes": "add crunch and texture"
+    },
+    {
+      "name": "zesty breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "italian-style"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "thai-style"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground lamb, sliced cassata, chewy oats, zesty breadcrumbs, eggs, garlic, fish sauce, soy sauce, and grated ginger. Mix well with your hands until just combined.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place the meatballs on a baking sheet lined with parchment paper.",
+    "Drizzle the melted coconut oil over the meatballs and gently roll them to coat evenly.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through and lightly browned on the outside.",
+    "Remove the meatballs from the oven and let them cool for a few minutes on the baking sheet.",
+    "Serve the Thai Lamb and Sicilian Cassata Meatballs hot, garnished with fresh cilantro and your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "meatballs",
+    "thaifood",
+    "sicilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-sicilian-lamb-cassata--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:03:22.750Z"
+}
