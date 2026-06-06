@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-rich-syrian-lamb-bake--chinese",
+  "title": "Lamb and Zesty Chinese Stir Fry",
+  "description": "A rich and flavorful stir fry dish made with lamb and a zesty Chinese sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp soy sauce",
+      "notes": "or substitute with rice vinegar"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tbsp oyster sauce",
+      "notes": "optional"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp ground cumin",
+      "notes": "adds a warm, earthy flavor"
+    },
+    {
+      "name": "bake",
+      "amount": "2 tbsp vegetable oil",
+      "notes": "for frying the lamb"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the soy sauce, oyster sauce, and ground cumin to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "Return the lamb to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes until the lamb is cooked through.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with sliced green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "lamb",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-rich-syrian-lamb-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:43:49.106Z"
+}
