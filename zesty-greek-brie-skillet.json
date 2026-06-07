@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-greek-brie-skillet",
+  "title": "Zesty Greek Skillet Brie",
+  "description": "A simple and flavorful skillet dish combining the creaminess of brie cheese with the zesty twist of Greek flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brie Cheese",
+      "amount": "1 (8 oz) wheel",
+      "notes": "soft, creamy cheese"
+    },
+    {
+      "name": "Zesty Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, non-fat yogurt"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "10-12 inch cast-iron skillet"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skillet"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed lemon juice"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the skillet with olive oil and place it in the oven for 5 minutes.",
+    "Remove the skillet from the oven and sprinkle minced garlic over the bottom.",
+    "Place the brie cheese in the center of the skillet.",
+    "Drizzle the zesty Greek yogurt over the brie cheese.",
+    "Sprinkle chopped fresh dill over the yogurt.",
+    "Season with salt and black pepper to taste.",
+    "Return the skillet to the oven and bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and drizzle with fresh lemon juice.",
+    "Serve immediately, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "brie",
+    "skillet",
+    "cheese",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-brie-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:17:19.866Z"
+}
