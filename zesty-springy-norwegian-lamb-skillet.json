@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-springy-norwegian-lamb-skillet",
+  "title": "Pan-Seared Lamb Chops with Springy Vegetables",
+  "description": "A flavorful and nutritious lamb dish that's ready in under 30 minutes. The springy vegetables add a nice crunch to the dish.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb chops",
+      "amount": "4-6 chops",
+      "notes": ""
+    },
+    {
+      "name": "springy rhubarb",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "zesty red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Season the lamb chops with salt and pepper.",
+    "Add the skillet oil to the pan and sear the lamb chops for 2-3 minutes on each side.",
+    "Remove the lamb chops from the pan and set aside.",
+    "Add the springy rhubarb and zesty red onion to the pan and cook for 3-4 minutes or until tender.",
+    "Return the lamb chops to the pan and cook for an additional 2-3 minutes.",
+    "Serve the lamb chops with the springy vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "springy",
+    "norwegian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-springy-norwegian-lamb-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:39:54.008Z"
+}
