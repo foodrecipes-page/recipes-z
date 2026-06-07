@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-smoked-galician-paprika-pisto-manchego",
+  "title": "Galician Smoked Cheese Fritters",
+  "description": "A crispy, cheesy snack inspired by the flavors of Galicia, Spain. Perfect for a quick appetizer or side dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Galician cheese (Manchego)",
+      "amount": "1 cup, shredded",
+      "notes": "Smoked or regular, whichever you prefer"
+    },
+    {
+      "name": "Pisto",
+      "amount": "1/4 cup",
+      "notes": "Roasted red pepper sauce"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet, your choice"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1 tsp",
+      "notes": "Zesty breadcrumbs or panko"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together the Galician cheese, pisto, paprika, and zesty breadcrumbs.",
+    "2. In a separate bowl, beat the eggs and add the water.",
+    "3. Add the egg mixture to the cheese mixture and stir until combined.",
+    "4. Using your hands, shape the mixture into small fritters.",
+    "5. Heat a large skillet over medium heat.",
+    "6. Add the fritters to the skillet and cook until golden brown, about 3-4 minutes per side.",
+    "7. Remove the fritters from the skillet and drain on paper towels.",
+    "8. Serve warm and enjoy!",
+    "9. Note: If you want to make these fritters more crispy, you can chill them in the fridge for 30 minutes before frying.",
+    "10. Be careful not to overcook the fritters, as they can become dry and crumbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "galician",
+    "cheese",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoked-galician-paprika-pisto-manchego",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:09:46.416Z"
+}
