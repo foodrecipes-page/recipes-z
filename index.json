@@ -6524,17 +6524,16 @@
   },
   {
     "slug": "zesty-greek-brie-skillet",
-    "title": "Zesty Greek Brie Skillet",
+    "title": "Zesty Greek Skillet Brie",
     "tags": [
-      "ayurvedic-friendly",
-      "cast-iron",
-      "flambe",
       "greek",
-      "one-pan",
-      "vegetarian"
+      "brie",
+      "skillet",
+      "cheese",
+      "mediterranean"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
