@@ -4005,17 +4005,15 @@
   },
   {
     "slug": "zesty-crunchy-turkish-almond-salad",
-    "title": "Zesty Crunchy Turkish Almond Salad",
+    "title": "Crunchy Turkish Salad",
     "tags": [
-      "herb-salad",
-      "mason-jar",
-      "no-cook",
-      "quick",
+      "salad",
       "turkish",
-      "whole30"
+      "veggie",
+      "almonds"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
