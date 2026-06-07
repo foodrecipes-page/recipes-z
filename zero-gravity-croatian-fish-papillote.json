@@ -1,0 +1,80 @@
+{
+  "slug": "zero-gravity-croatian-fish-papillote",
+  "title": "Pan-Seared Fish in Papillote",
+  "description": "A simple and flavorful dish where fish is cooked in parchment paper with a touch of Croatian spices. Perfect for a quick and healthy meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (any white fish)",
+      "amount": "4 pieces",
+      "notes": "Fresh and of good quality"
+    },
+    {
+      "name": "Papillote parchment paper",
+      "amount": "4 pieces",
+      "notes": "Large enough to wrap the fish"
+    },
+    {
+      "name": "Croatian spice blend",
+      "amount": "1 tsp",
+      "notes": "Available in most Croatian or Mediterranean stores"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For brushing the papillote"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Place a piece of fish in the center of a large piece of parchment paper.",
+    "Add a sprinkle of Croatian spice blend, a squeeze of lemon juice, and a drizzle of olive oil over the fish.",
+    "Top with a minced garlic clove.",
+    "Fold the parchment paper to create a packet, making sure to seal the edges.",
+    "Place the packets on a baking sheet and bake for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "croatian",
+    "healthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-gravity-croatian-fish-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:36:19.099Z"
+}
