@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-flaky-algerian-rice-paella",
+  "title": "Delicious Algerian Paella",
+  "description": "A flavorful and aromatic dish originating from Algeria, this paella recipe combines the classic Spanish dish with North African spices and ingredients.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian Paella Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Zesty Cod",
+      "amount": "1 lb",
+      "notes": "Make sure the cod is flaky and at room temperature before cooking"
+    },
+    {
+      "name": "Algerian Seasoning",
+      "amount": "1 tsp",
+      "notes": "A blend of spices and herbs typical of Algerian cuisine"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 small",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the Algerian seasoning and stir for 1 minute.",
+    "Add the flaky zesty cod and cook for 2-3 minutes on each side.",
+    "Add the Algerian paella rice and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "paella",
+    "fish",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-algerian-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:45:26.098Z"
+}
