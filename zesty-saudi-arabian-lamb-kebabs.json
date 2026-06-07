@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A traditional Middle Eastern dish featuring marinated lamb kebabs grilled to perfection, served with a side of zesty sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Zesty sauce (see below for ingredients and instructions)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Arabian spices (cumin, coriander, cinnamon, cardamom)",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Large onion, chopped",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper, chopped",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomato, chopped",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together zesty sauce ingredients (see below).",
+    "In a large bowl, whisk together Arabian spices, olive oil, salt, and black pepper.",
+    "Add lamb cubes to the spice mixture and toss to coat.",
+    "Thread lamb cubes, onion, bell pepper, and tomato onto skewers.",
+    "Grill skewers over medium-high heat, turning occasionally, until lamb reaches 145°F (63°C) for medium-rare.",
+    "Brush skewers with zesty sauce during the last 2 minutes of grilling.",
+    "Serve skewers hot, garnished with chopped parsley and additional zesty sauce if desired.",
+    "To make zesty sauce, combine 1/2 cup plain yogurt, 1 tablespoon lemon juice, 1 tablespoon chopped fresh parsley, and 1 minced garlic clove in a small bowl. Mix well to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:36:35.492Z"
+}
