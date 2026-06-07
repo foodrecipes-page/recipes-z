@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-filipino-sweet-rice-flour-chapssalgaru-bistek",
+  "title": "Bistek Tagalog with Chapssalgaru Rice",
+  "description": "A twist on the classic Filipino beef steak dish, served with a flavorful spicy rice.",
+  "cuisine": "filipino",
+  "diet": [
+    "beef",
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef steak (1.5 lbs)",
+      "amount": "2 steaks",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1 large onion",
+      "notes": "sliced"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "2 medium tomatoes",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chapssalgaru rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "2 tbsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef steak in a mixture of salt, pepper, and patis for at least 30 minutes.",
+    "Heat oil in a pan over medium-high heat. Sear the beef steak for 3-4 minutes per side, or until cooked to desired doneness.",
+    "Transfer the beef steak to a plate and set aside.",
+    "In the same pan, sauté the chopped onions and garlic until softened.",
+    "Add the chopped tomatoes and cook until they start to break down.",
+    "Add the chapssalgaru rice to the pan and stir-fry for 2-3 minutes.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes or until the rice is cooked.",
+    "Slice the beef steak against the grain and serve with the chapssalgaru rice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "beef",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-filipino-sweet-rice-flour-chapssalgaru-bistek",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:53:59.174Z"
+}
