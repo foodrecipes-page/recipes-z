@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-crunchy-turkish-almond-salad",
+  "title": "Crunchy Turkish Salad",
+  "description": "A refreshing salad with crunchy elements and a zesty twist, inspired by Turkish flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Crunchy almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Diced zesty cucumber",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, crunchy almonds, diced cucumber, cherry tomatoes, and red onion.",
+    "2. In a small bowl, whisk together 2 tablespoons olive oil and 1 tablespoon lemon juice.",
+    "3. Drizzle the dressing over the salad and toss to coat.",
+    "4. Season with salt and pepper to taste.",
+    "5. Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "6. Serve chilled, garnished with additional crunchy almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "turkish",
+    "veggie",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-turkish-almond-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:22:34.557Z"
+}
