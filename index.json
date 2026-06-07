@@ -408,17 +408,15 @@
   },
   {
     "slug": "zero-gravity-croatian-fish-papillote",
-    "title": "Zero Gravity Croatian Fish Papillote",
+    "title": "Pan-Seared Fish in Papillote",
     "tags": [
-      "dairy-free",
-      "gluten-free",
+      "fish",
+      "croatian",
       "healthy",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "quick"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -10518,19 +10516,17 @@
   },
   {
     "slug": "zesty-roasted-punjabi-lamb-curry",
-    "title": "Zesty Roasted Punjabi Lamb Curry",
+    "title": "Lamb Curry",
     "tags": [
-      "cheesy-pull",
-      "indian-inspired",
-      "lamb-recipe",
-      "lazy-sunday",
-      "one-pan",
-      "punjabi-curry",
-      "raw-friendly",
-      "roasted-lamb"
+      "lamb",
+      "curry",
+      "punjabi",
+      "indian",
+      "dinner",
+      "red-meat"
     ],
-    "cuisine": "Punjabi",
-    "totalTimeMin": 50,
+    "cuisine": "Indian",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
