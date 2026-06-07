@@ -10891,16 +10891,14 @@
   },
   {
     "slug": "zesty-saudi-arabian-lamb-kebabs",
-    "title": "Zesty Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "grilled-meats",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "middle eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -11396,13 +11394,11 @@
   },
   {
     "slug": "zesty-slovakian-doughnuts-pancakes",
-    "title": "Zesty Slovakian Doughnuts Pancakes",
+    "title": "Slovakian Pancake Recipe",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "plant-based-friendly",
-      "slovakian",
-      "weeknight"
+      "breakfast",
+      "pancakes",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
@@ -12371,18 +12367,15 @@
   },
   {
     "slug": "zesty-smoky-venezuelan-egg-plant-sushi",
-    "title": "Zesty Smoky Venezuelan Egg Plant Sushi",
+    "title": "Venezuelan Smoked Sushi",
     "tags": [
-      "date-night",
-      "egg-plant",
-      "ovo-vegetarian",
-      "silky",
-      "smoky",
+      "venezuelan",
       "sushi",
-      "venezuelan"
+      "vegan",
+      "fusion"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -12869,17 +12862,15 @@
   },
   {
     "slug": "zesty-springy-norwegian-lamb-skillet",
-    "title": "Zesty Springy Norwegian Lamb Skillet",
+    "title": "Pan-Seared Lamb Chops with Springy Vegetables",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "one-pan-meal",
-      "spring-vegetables"
+      "lamb",
+      "springy",
+      "norwegian",
+      "skillet"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
