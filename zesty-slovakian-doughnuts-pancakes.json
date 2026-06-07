@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-slovakian-doughnuts-pancakes",
+  "title": "Slovakian Pancake Recipe",
+  "description": "A traditional Slovakian pancake recipe with a twist of zesty flavor. These pancakes are a perfect breakfast or brunch option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and zesty seasoning.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Add butter to the pan and pour in the batter.",
+    "Cook the pancakes for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes or until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-doughnuts-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:38:11.027Z"
+}
