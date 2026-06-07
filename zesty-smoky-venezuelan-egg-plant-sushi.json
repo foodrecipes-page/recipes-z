@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-smoky-venezuelan-egg-plant-sushi",
+  "title": "Venezuelan Smoked Sushi",
+  "description": "A unique fusion dish combining the bold flavors of Venezuela with the delicate taste of sushi. This recipe is perfect for adventurous foodies who want to try something new.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "veggie sushi rice",
+      "amount": "1 cup",
+      "notes": "use a short-grain rice for the best results"
+    },
+    {
+      "name": "zesty plant-based sauce",
+      "amount": "1/4 cup",
+      "notes": "adjust the level of heat to your liking"
+    },
+    {
+      "name": "smoked egg",
+      "amount": "2",
+      "notes": "smoke the eggs over low heat for 30 minutes for the best flavor"
+    },
+    {
+      "name": "plant-based filling",
+      "amount": "1/2 cup",
+      "notes": "use a mixture of sautéed vegetables and vegan mayo"
+    },
+    {
+      "name": "sushi nori sheets",
+      "amount": "8-10",
+      "notes": "look for vegan-friendly options"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional, but adds a nice crunch"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions.",
+    "Cut the smoked eggs into small pieces and set aside.",
+    "Assemble the sushi rolls by spreading a thin layer of zesty plant-based sauce on each nori sheet.",
+    "Add a small amount of sushi rice to the center of each sheet, leaving a small border at the top.",
+    "Add a few pieces of smoked egg and some plant-based filling to the rice.",
+    "Roll up the sushi using a bamboo sushi mat or your hands.",
+    "Slice the rolls into individual pieces and serve with sesame seeds on top, if desired.",
+    "Adjust the seasoning and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "sushi",
+    "vegan",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-venezuelan-egg-plant-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:38:48.080Z"
+}
