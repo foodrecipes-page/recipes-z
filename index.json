@@ -1400,16 +1400,16 @@
   },
   {
     "slug": "zesty-brazilian-spaghetti-pasta",
-    "title": "Zesty Brazilian Spaghetti",
+    "title": "Brazilian Spaghetti Bolognese",
     "tags": [
+      "pasta",
       "brazilian",
-      "comfort-food",
-      "one-pan",
-      "satisfying",
-      "spicy"
+      "zesty",
+      "spaghetti",
+      "meat-lovers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -5106,17 +5106,15 @@
   },
   {
     "slug": "zesty-flaky-algerian-rice-paella",
-    "title": "Zesty Flaky Algerian Rice Paella",
+    "title": "Delicious Algerian Paella",
     "tags": [
-      "algerian-cuisine",
-      "flaky-rice",
-      "one-pan",
-      "pandan-leaf",
-      "umami",
-      "weeknight"
+      "north-african",
+      "paella",
+      "fish",
+      "rice"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
