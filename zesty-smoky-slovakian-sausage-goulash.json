@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-smoky-slovakian-sausage-goulash",
+  "title": "Slovakian Smoky Sausage Goulash",
+  "description": "A hearty, comforting Slovakian-inspired stew filled with smoky sausage and rich flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Slovakian Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add sausage and cook, browning on all sides, about 5 minutes.",
+    "Remove sausage and set aside.",
+    "Add onion and garlic to pot, cook until softened, about 5 minutes.",
+    "Add caraway seeds, salt, and pepper. Cook 1 minute.",
+    "Add red wine, scraping up browned bits from pot.",
+    "Add beef broth, brown sugar, and sausage. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "sausage",
+    "goulash"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 34,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-slovakian-sausage-goulash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:37:21.481Z"
+}
