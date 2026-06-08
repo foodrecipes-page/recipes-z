@@ -351,17 +351,15 @@
   },
   {
     "slug": "zero-gravity-brazilian-chicken-stew",
-    "title": "Zero Gravity Brazilian Chicken Stew",
+    "title": "Brazilian Chicken Stew",
     "tags": [
-      "brazilian-food",
-      "chicken-recipes",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "weeknight"
+      "brazilian",
+      "chicken",
+      "stew",
+      "dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
