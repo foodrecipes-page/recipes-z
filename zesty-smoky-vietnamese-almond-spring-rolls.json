@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-smoky-vietnamese-almond-spring-rolls",
+  "title": "Vietnamese Spring Zesty Rolls",
+  "description": "A refreshing spring roll recipe with a zesty twist, inspired by Vietnamese flavors. Perfect for a light and crispy snack or appetizer.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond slices",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the rice noodles according to package instructions. Drain and set aside.",
+    "In a large bowl, combine shredded carrot and cucumber.",
+    "Add chopped cilantro and zesty sauce to the bowl and mix well.",
+    "To assemble the spring rolls, lay a spring roll wrapper on a flat surface.",
+    "Place about 1 tablespoon of the noodle mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the spring rolls immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "spring-rolls",
+    "vietnamese-food",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "20g",
+    "fat": "4g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-vietnamese-almond-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:22:57.766Z"
+}
