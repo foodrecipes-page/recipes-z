@@ -2028,16 +2028,15 @@
   },
   {
     "slug": "zesty-charred-thai-red-onion-noodles",
-    "title": "Zesty Charred Thai Red Onion Noodles",
+    "title": "Spicy Charred Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "lacto-vegetarian",
-      "meal-prep",
-      "robata-grill",
-      "thai"
+      "spicy",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 32,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -4794,13 +4793,16 @@
   },
   {
     "slug": "zesty-ethiopian-chickpeas-stew",
-    "title": "Zesty Ethiopian Chickpeas Stew",
+    "title": "Ethiopian Chickpea Stew",
     "tags": [
       "ethiopian",
-      "dinner"
+      "chickpeas",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -12172,17 +12174,14 @@
   },
   {
     "slug": "zesty-smoky-slovakian-sausage-goulash",
-    "title": "Zesty Smoky Slovakian Sausage Goulash",
+    "title": "Slovakian Smoky Sausage Goulash",
     "tags": [
-      "festive",
-      "high-protein",
-      "low-carb",
-      "one-pan",
       "slovakian",
-      "spicy"
+      "sausage",
+      "goulash"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
