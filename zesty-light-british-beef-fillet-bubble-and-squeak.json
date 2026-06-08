@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-light-british-beef-fillet-bubble-and-squeak",
+  "title": "Beef and Bubble Squeak",
+  "description": "A classic British dish that combines leftover roasted beef with pan-fried bubble and squeak cakes.",
+  "cuisine": "british",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "500g"
+    },
+    {
+      "name": "bubble and squeak",
+      "amount": "300g"
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "zesty salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "and",
+      "amount": "pepper to taste"
+    }
+  ],
+  "instructions": [
+    "1. Slice the beef fillet into thin strips.",
+    "2. Heat the light oil in a pan over medium heat.",
+    "3. Add the beef strips to the pan and cook for 3-4 minutes on each side.",
+    "4. Meanwhile, shape the bubble and squeak mixture into patties.",
+    "5. Add the patties to the pan and cook for 4-5 minutes on each side.",
+    "6. Serve the beef and bubble and squeak together, seasoned with zesty salt and pepper to taste.",
+    "7. Add water to the pan to create a sauce and cook for an additional 2 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-british-beef-fillet-bubble-and-squeak",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:52:47.912Z"
+}
