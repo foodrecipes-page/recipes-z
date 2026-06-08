@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-crunchy-ukrainian-date-skewers",
+  "title": "Ukrainian Date Skewers with Crunchy Twist",
+  "description": "A unique and flavorful snack inspired by Ukrainian cuisine, featuring sweet and savory flavors.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "zesty cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "crunchy almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread a date, a piece of zesty cheese, and a few almonds onto each skewer.",
+    "Brush the skewers with lemon juice and season with salt to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until the cheese is melted and the almonds are toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "snack",
+    "grilled",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-ukrainian-date-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:31:14.872Z"
+}
