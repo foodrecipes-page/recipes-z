@@ -8400,17 +8400,15 @@
   },
   {
     "slug": "zesty-mexican-danmuji-tacos",
-    "title": "Zesty Mexican Danmuji Tacos",
+    "title": "Crispy Danmuji Tacos",
     "tags": [
-      "easy-meals",
-      "gluten-free",
-      "healthy-eating",
-      "mexican-food",
-      "post-workout",
-      "vegetarian"
+      "breakfast",
+      "tacos",
+      "danmuji",
+      "veggie"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
