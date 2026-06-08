@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-greek-fregola-salad",
+  "title": "Zesty Fregola Salad",
+  "description": "A flavorful and refreshing salad made with zesty ingredients and fregola pasta. This is a perfect side dish or light meal for any occasion.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fregola pasta",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Greek salad mix",
+      "amount": "4 cups",
+      "notes": "pre-washed and pre-cut"
+    },
+    {
+      "name": "zesty Italian dressing",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook fregola pasta according to package instructions. Drain and set aside.",
+    "In a large bowl, combine Greek salad mix, zesty Italian dressing, and chopped parsley.",
+    "Add cooked fregola pasta to the bowl and toss to combine.",
+    "Top with thinly sliced red onion.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "gluten-free",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-fregola-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:52:46.377Z"
+}
