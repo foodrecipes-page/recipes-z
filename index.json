@@ -4045,17 +4045,15 @@
   },
   {
     "slug": "zesty-crunchy-ukrainian-date-skewers",
-    "title": "Zesty Crunchy Ukrainian Date Skewers",
+    "title": "Ukrainian Date Skewers with Crunchy Twist",
     "tags": [
-      "crunchy",
-      "festive",
-      "flexitarian",
+      "ukrainian",
       "snack",
-      "sweet-and-savory",
-      "ukrainian"
+      "grilled",
+      "cheesy"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 27,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -9711,17 +9709,14 @@
   },
   {
     "slug": "zesty-peruvian-potato-wrap",
-    "title": "Zesty Peruvian Potato Wrap",
+    "title": "Peruvian Potato Wrap",
     "tags": [
-      "cultured-creme-fraiche",
-      "lotus-leaf-wrap",
-      "ovo-vegetarian",
-      "peruvian-cuisine",
-      "potato-dish",
-      "score-fat"
+      "peruvian",
+      "potato",
+      "wrap"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "peruvian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -12274,17 +12269,14 @@
   },
   {
     "slug": "zesty-smoky-turkish-shrimp-pilaf",
-    "title": "Zesty Smoky Turkish Shrimp Pilaf",
+    "title": "Shrimp Pilaf with Turkish Flair",
     "tags": [
-      "macrobiotic",
-      "one-pot",
-      "pressure-cooker",
+      "turkish",
       "seafood",
-      "smoky",
-      "turkish"
+      "pilaf"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
