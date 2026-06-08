@@ -2954,16 +2954,15 @@
   },
   {
     "slug": "zesty-crisp-syrian-chicken-kebabs",
-    "title": "Zesty Crisp Syrian Chicken Kebabs",
+    "title": "Crisp Syrian Chicken Kebabs",
     "tags": [
-      "chicken-kebabs",
-      "lazy-sunday",
-      "shojin-friendly",
-      "syrian-cuisine",
-      "zesty-flavor"
+      "chicken",
+      "kebabs",
+      "middle-eastern",
+      "healthy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 31,
     "shard": "z"
   },
   {
@@ -10673,16 +10672,15 @@
   },
   {
     "slug": "zesty-romantic-japanese-jumbo-shrimp-inari-zushi",
-    "title": "Zesty Romantic Japanese Jumbo Shrimp Inari Zushi",
+    "title": "Japanese Shrimp Tempura",
     "tags": [
-      "japanese-cuisine",
-      "romantic-dinner",
-      "seafood-lovers",
-      "special-occasion",
-      "sugar-free"
+      "japanese",
+      "shrimp",
+      "tempura",
+      "romantic"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -12382,15 +12380,11 @@
   },
   {
     "slug": "zesty-smoky-vietnamese-almond-spring-rolls",
-    "title": "Zesty Smoky Vietnamese Almond Spring-Rolls",
+    "title": "Vietnamese Spring Zesty Rolls",
     "tags": [
-      "almond",
-      "goi-cuon",
-      "low-carb",
-      "smoky",
-      "tagine-pot",
-      "vietnamese",
-      "zesty"
+      "spring-rolls",
+      "vietnamese-food",
+      "snack-ideas"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 20,
@@ -13823,19 +13817,15 @@
   },
   {
     "slug": "zesty-uruguayan-chicken-bowl",
-    "title": "Zesty Uruguayan Chicken Bowl",
+    "title": "Uruguayan Chicken Bowl",
     "tags": [
-      "bento-box",
       "chicken",
-      "curry",
-      "kimchi",
-      "lunch",
-      "nut-free",
-      "quick",
-      "uruguayan"
+      "uruguayan",
+      "latin",
+      "spicy"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
