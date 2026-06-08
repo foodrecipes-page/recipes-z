@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-romantic-japanese-jumbo-shrimp-inari-zushi",
+  "title": "Japanese Shrimp Tempura",
+  "description": "A classic Japanese dish made with crispy shrimp tempura served with a side of inari sauce. Perfect for a romantic dinner or special occasion.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": " peeled and deveined"
+    },
+    {
+      "name": "zushi flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour or tempura flour"
+    },
+    {
+      "name": "inari sauce",
+      "amount": "1 cup",
+      "notes": "see notes for homemade recipe"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for tempura batter"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine zushi flour, salt, and water to make tempura batter.",
+    "Dip shrimp into batter, coating completely.",
+    "Heat vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Fry shrimp in batches until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels.",
+    "Serve with inari sauce for dipping.",
+    "To make inari sauce, combine 1 cup of dashi broth, 1/2 cup of soy sauce, and 1 tablespoon of sugar in a saucepan.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Stir in 1 tablespoon of grated ginger and 1 tablespoon of sesame oil.",
+    "Serve sauce warm over tempura shrimp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "shrimp",
+    "tempura",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-romantic-japanese-jumbo-shrimp-inari-zushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:27:54.515Z"
+}
