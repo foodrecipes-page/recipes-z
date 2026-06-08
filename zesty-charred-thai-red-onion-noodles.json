@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-charred-thai-red-onion-noodles",
+  "title": "Spicy Charred Noodle Stir Fry",
+  "description": "A flavorful and spicy stir fry made with charred onions and red pepper, served over a bed of noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "charred"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 medium",
+      "notes": "charred, seeded, sliced"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp (30g)",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add charred onions and red pepper and stir-fry for 2-3 minutes.",
+    "Add Thai red curry paste and stir-fry for another minute.",
+    "Add noodles and stir-fry for 2-3 minutes, until well coated.",
+    "Season with salt and serve immediately.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-thai-red-onion-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:54:16.881Z"
+}
