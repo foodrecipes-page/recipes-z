@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-ethiopian-chickpeas-stew",
+  "title": "Ethiopian Chickpea Stew",
+  "description": "A flavorful and nutritious Ethiopian-inspired stew made with chickpeas and aromatic spices. Perfect for a cozy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "zesty stew",
+      "amount": "1 jar (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger; cook until softened, about 5 minutes.",
+    "Add cumin, turmeric, paprika, salt, and black pepper; cook for 1 minute.",
+    "Stir in stew and bring to a simmer.",
+    "Add chickpeas and cook for 10-15 minutes or until heated through.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "chickpeas",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-chickpeas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:05:47.680Z"
+}
