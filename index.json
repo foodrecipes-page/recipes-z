@@ -4437,16 +4437,14 @@
   },
   {
     "slug": "zesty-dense-ukrainian-turkey-neck-stew",
-    "title": "Zesty Dense Ukrainian Turkey Neck Stew",
+    "title": "Ukrainian Stew",
     "tags": [
-      "comfort-food",
-      "date-night",
-      "hearty-stew",
-      "ukrainian-cuisine",
-      "vegan-friendly"
+      "ukrainian",
+      "stew",
+      "turkey"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 120,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 110,
     "shard": "z"
   },
   {
@@ -6554,17 +6552,15 @@
   },
   {
     "slug": "zesty-greek-fregola-salad",
-    "title": "Zesty Greek Fregola Salad",
+    "title": "Zesty Fregola Salad",
     "tags": [
-      "double-fry",
-      "fregola",
-      "greek-salad",
-      "ovo-vegetarian",
-      "peppery",
-      "zesty"
+      "italian",
+      "gluten-free",
+      "salad",
+      "vegetarian"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -7860,16 +7856,14 @@
   },
   {
     "slug": "zesty-light-british-beef-fillet-bubble-and-squeak",
-    "title": "Zesty Light British Beef Fillet Bubble And Squeak",
+    "title": "Beef and Bubble Squeak",
     "tags": [
-      "british-cuisine",
-      "high-protein",
-      "light-meal",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "british",
+      "breakfast"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 80,
+    "cuisine": "british",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -8808,16 +8802,15 @@
   },
   {
     "slug": "zesty-molten-greek-shrimp-grill",
-    "title": "Zesty Molten Greek Shrimp Grill",
+    "title": "Greek Shrimp Skewers",
     "tags": [
-      "greek-cuisine",
-      "high-protein",
-      "one-pan",
+      "greek",
+      "grill",
       "seafood",
-      "weeknight"
+      "shrimp"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 32,
     "shard": "z"
   },
   {
