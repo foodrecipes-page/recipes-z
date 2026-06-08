@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-sweet-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, chicken, and vegetables, all in one flavorful pan.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish rice"
+    },
+    {
+      "name": "zesty olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "spanish chorizo",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "safron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the zesty olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the sliced chorizo and cook for an additional 2-3 minutes.",
+    "Add the chicken breast and cook until browned, about 5-7 minutes.",
+    "Add the soaked safron threads and their liquid, thyme, and smoked paprika (if using). Stir to combine.",
+    "Add the paella rice and stir to coat the rice with the oil and mix with the ingredients.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-food",
+    "chicken-recipes",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:36:45.647Z"
+}
