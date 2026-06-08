@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-peruvian-potato-wrap",
+  "title": "Peruvian Potato Wrap",
+  "description": "A flavorful and filling wrap filled with crispy potatoes, zesty sauce, and a hint of Peruvian spices.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Peruvian wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Cut potatoes into thin slices and fry until crispy.",
+    "Warm the Peruvian wrap in the microwave for 10 seconds.",
+    "Spread zesty sauce on the warmed wrap.",
+    "Add fried potatoes on top of the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "potato",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-potato-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:30:55.460Z"
+}
