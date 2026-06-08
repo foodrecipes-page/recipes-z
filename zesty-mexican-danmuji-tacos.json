@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-mexican-danmuji-tacos",
+  "title": "Crispy Danmuji Tacos",
+  "description": "A twist on traditional tacos, featuring crispy danmuji and a zesty twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Danmuji",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "6-8 shells"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty taco sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Queso fresco (or feta cheese)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour cream (or Greek yogurt)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan or griddle over medium heat.",
+    "2. Cook the danmuji slices until crispy and golden brown, about 2-3 minutes per side.",
+    "3. Meanwhile, warm the taco shells according to package instructions.",
+    "4. Assemble the tacos by placing a few slices of crispy danmuji into each shell.",
+    "5. Top the danmuji with shredded lettuce, a spoonful of zesty taco sauce, a sprinkle of queso fresco, and a sprinkle of chopped cilantro.",
+    "6. Serve immediately and garnish with sliced radishes and a dollop of sour cream.",
+    "7. Enjoy your crispy danmuji tacos!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "tacos",
+    "danmuji",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-danmuji-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:32:30.213Z"
+}
