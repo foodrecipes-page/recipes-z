@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-norwegian-beef-stew",
+  "title": "Norwegian Beef Stew",
+  "description": "A hearty, comforting beef stew with a hint of Norwegian flavors.",
+  "cuisine": "norwegian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 lbs",
+      "notes": "stewing beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, carrot, and potato; cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add beef broth and water, whisking constantly.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 2 hours.",
+    "Season with zesty seasoning, salt, and black pepper.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-norwegian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:44:08.626Z"
+}
