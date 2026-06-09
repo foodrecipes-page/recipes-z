@@ -2153,17 +2153,14 @@
   },
   {
     "slug": "zesty-chewy-paella-moroccan-paella-rice-paella",
-    "title": "Zesty Chewy Paella Moroccan Paella Rice Paella",
+    "title": "Classic Paella",
     "tags": [
-      "high-protein",
-      "moroccan",
-      "one-pan",
       "paella",
-      "ramekin",
-      "smoke-cold",
-      "weeknight"
+      "spanish",
+      "seafood",
+      "chicken"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "Spanish",
     "totalTimeMin": 45,
     "shard": "z"
   },
@@ -5566,10 +5563,16 @@
   },
   {
     "slug": "zesty-fresh-australian-tomato-soup",
-    "title": "Zesty Fresh Australian Tomato Soup",
-    "tags": [],
-    "cuisine": "Australian",
-    "totalTimeMin": null,
+    "title": "Australian Tomato Soup",
+    "tags": [
+      "australian",
+      "tomato",
+      "soup",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
