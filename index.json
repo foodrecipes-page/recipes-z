@@ -5295,16 +5295,16 @@
   },
   {
     "slug": "zesty-fluffy-croatian-lamb-biryani",
-    "title": "Zesty Fluffy Croatian Lamb Biryani",
+    "title": "Croatian Lamb Biryani",
     "tags": [
-      "banana-leaf",
-      "biryani-recipe",
-      "croatian-cuisine",
-      "lamb-based",
-      "low-calorie"
+      "lamb",
+      "croatian",
+      "biryani",
+      "rice",
+      "paprika"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
