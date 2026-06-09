@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-velvety-ukrainian-chicken-skillet",
+  "title": "Ukrainian Chicken Skillet",
+  "description": "A hearty and flavorful skillet dish from Ukraine, made with tender chicken and fresh vegetables. Serve hot with some crusty bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "Large, oven-safe"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "velvety sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with zesty seasoning. In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add the chicken and cook until browned, about 5-7 minutes. Remove from heat and set aside.",
+    "In the same skillet, add another tablespoon of oil if necessary. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped bell pepper and cook until tender, about 4-5 minutes.",
+    "Return the chicken to the skillet and stir to combine with the vegetables.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Stir in the velvety sour cream and cook for an additional 2-3 minutes, until heated through.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "chicken",
+    "skillet",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-ukrainian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:59:06.592Z"
+}
