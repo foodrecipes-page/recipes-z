@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-smoky-italian-eggplant-pasta",
+  "title": "Eggplant Pasta Bake",
+  "description": "A delicious and easy eggplant pasta bake with a smoky flavor, perfect for a weeknight dinner. This recipe is a great way to get your daily dose of veggies in a tasty and satisfying way.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "short, sturdy shape like penne or rigatoni"
+    },
+    {
+      "name": "Zesty Italian Seasoning",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat 2 tbsp olive oil over medium-high heat.",
+    "Add sliced eggplant to the skillet and cook for 3-4 minutes per side, until tender and lightly browned.",
+    "Transfer eggplant to a 9x13-inch baking dish.",
+    "In the same skillet, add the remaining 1 tbsp olive oil.",
+    "Add the pasta to the skillet and cook for 2-3 minutes, until lightly browned.",
+    "Stir in the zesty Italian seasoning and salt to taste.",
+    "Add the cooked pasta to the baking dish with the eggplant.",
+    "Toss the pasta and eggplant together until well combined.",
+    "Top the pasta and eggplant with grated Parmesan cheese, if using.",
+    "Bake in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "pasta",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-italian-eggplant-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:11:08.977Z"
+}
