@@ -11943,18 +11943,16 @@
   },
   {
     "slug": "zesty-smoky-italian-eggplant-pasta",
-    "title": "Zesty Smoky Italian Eggplant Pasta",
+    "title": "Eggplant Pasta Bake",
     "tags": [
-      "date-night",
-      "italian-food",
-      "one-pot",
-      "smoky",
-      "sour",
-      "vegan",
-      "vegetarian"
+      "italian",
+      "eggplant",
+      "pasta",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
