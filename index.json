@@ -10801,17 +10801,15 @@
   },
   {
     "slug": "zesty-salty-korean-eggs-naengmyeon",
-    "title": "Zesty Salty Korean Eggs Naengmyeon",
+    "title": "Spicy Korean Naengmyeon with Egg",
     "tags": [
-      "crowd-pleaser",
-      "korean-food",
-      "noodle-dish",
-      "refreshing",
-      "savory",
-      "unique"
+      "korean",
+      "cold-noodle",
+      "spicy",
+      "egg"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
