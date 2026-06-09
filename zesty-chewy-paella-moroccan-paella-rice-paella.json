@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-chewy-paella-moroccan-paella-rice-paella",
+  "title": "Classic Paella",
+  "description": "A traditional Spanish dish from the Valencia region, made with saffron-infused rice and mixed seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pint",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1 medium",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 375°F (190°C).",
+    "Heat 2 tablespoons of olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from the pan and set aside.",
+    "Add the shrimp and mussels to the pan and cook until the shrimp are pink and the mussels are open, about 5 minutes.",
+    "Add the onion, bell pepper, and tomato to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the smoked paprika and chili flakes to the pan and cook for 1 minute.",
+    "Add the chicken back into the pan and stir to combine.",
+    "Add the saffron and its liquid to the pan and stir to combine.",
+    "Add the paella rice to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "seafood",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-paella-moroccan-paella-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:07:57.009Z"
+}
