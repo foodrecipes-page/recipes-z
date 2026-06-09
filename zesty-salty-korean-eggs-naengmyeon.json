@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-salty-korean-eggs-naengmyeon",
+  "title": "Spicy Korean Naengmyeon with Egg",
+  "description": "A spicy twist on the classic Korean cold noodle dish, featuring a fried egg and crunchy naengmyeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naengmyeon (Korean cold noodles)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Korean zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salty pork or vegetable broth",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought broth"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the naengmyeon according to package instructions.",
+    "Fry the eggs in a pan over medium heat until the whites are set and the yolks are cooked to desired doneness.",
+    "Combine the cooked naengmyeon, zesty sauce, and salty broth in a large bowl.",
+    "Add the fried eggs on top of the naengmyeon mixture.",
+    "Garnish with sesame seeds and chopped green onions, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "cold-noodle",
+    "spicy",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-salty-korean-eggs-naengmyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:44:15.926Z"
+}
