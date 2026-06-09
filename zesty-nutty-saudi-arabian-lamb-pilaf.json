@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-nutty-saudi-arabian-lamb-pilaf",
+  "title": "Saudi Arabian Lamb Pilaf",
+  "description": "A flavorful dish from Saudi Arabia, combining lamb with a nutty pilaf.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Saudi Arabian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pre-cooked pilaf to the skillet and stir to combine with the onion and garlic mixture.",
+    "Add the Saudi Arabian spice blend, salt, and black pepper to the skillet and stir to combine.",
+    "Return the lamb to the skillet and stir to combine with the pilaf mixture.",
+    "Cook for an additional 2-3 minutes, until the lamb is cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-saudi-arabian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:37:45.174Z"
+}
