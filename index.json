@@ -11207,15 +11207,16 @@
   },
   {
     "slug": "zesty-silky-mediterranean-ground-beef-tagine",
-    "title": "Zesty Silky Mediterranean Ground Beef Tagine",
+    "title": "Moroccan Beef Tagine",
     "tags": [
-      "ground-beef",
-      "mediterranean",
-      "one-pan",
-      "sugar-free-friendly"
+      "beef",
+      "moroccan",
+      "tagine",
+      "mexican",
+      "one-pot"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
