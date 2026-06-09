@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-silky-mediterranean-ground-beef-tagine",
+  "title": "Moroccan Beef Tagine",
+  "description": "A hearty, flavorful tagine dish made with ground beef and a blend of mediterranean spices. The silky texture of the sauce and the zesty kick of the spices make this a standout meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality, extra virgin oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mediterranean Tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz, diced"
+    },
+    {
+      "name": "Silky Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "use freshly ground pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the diced tomatoes and silky tomato paste. Stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "moroccan",
+    "tagine",
+    "mexican",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-mediterranean-ground-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:26:28.666Z"
+}
