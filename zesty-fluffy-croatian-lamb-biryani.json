@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-fluffy-croatian-lamb-biryani",
+  "title": "Croatian Lamb Biryani",
+  "description": "A flavorful and aromatic dish from Croatia, combining lamb with the spices of biryani.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    },
+    {
+      "name": "biryani",
+      "amount": "2 cups",
+      "notes": "basmati rice"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "fluffy",
+      "amount": "3 tablespoons",
+      "notes": "ghee or vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the paprika, garam masala, salt, and pepper, and stir to combine.",
+    "Add the basmati rice and stir to coat the lamb and rice with the spice mixture.",
+    "Transfer the mixture to a large saucepan and add 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and cover.",
+    "Simmer for 18-20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the biryani with a fork and stir in the chopped parsley.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "croatian",
+    "biryani",
+    "rice",
+    "paprika"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-croatian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:35:59.655Z"
+}
