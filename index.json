@@ -1779,16 +1779,15 @@
   },
   {
     "slug": "zesty-canadian-chicken-curry",
-    "title": "Zesty Canadian Chicken Curry",
+    "title": "Canadian Chicken Curry",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "canadian",
+      "chicken",
+      "curry",
+      "dinner"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 33,
     "shard": "z"
   },
   {
@@ -9228,16 +9227,14 @@
   },
   {
     "slug": "zesty-norwegian-beef-stew",
-    "title": "Zesty Norwegian Beef Stew",
+    "title": "Norwegian Beef Stew",
     "tags": [
-      "braised-beef",
-      "breakfast",
       "norwegian",
-      "peppery",
-      "vanilla"
+      "beef",
+      "stew"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 105,
+    "cuisine": "norwegian",
+    "totalTimeMin": 135,
     "shard": "z"
   },
   {
@@ -13739,16 +13736,16 @@
   },
   {
     "slug": "zesty-umami-ukrainian-prawns-dumplings",
-    "title": "Zesty Umami Ukrainian Prawns Dumplings",
+    "title": "Prawn and Dumpling Stew",
     "tags": [
-      "date-night",
-      "eastern-european",
-      "gluten-free",
-      "seafood",
-      "umami"
+      "prawns",
+      "dumplings",
+      "ukrainian",
+      "stew",
+      "lunch"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
