@@ -7717,17 +7717,16 @@
   },
   {
     "slug": "zesty-korean-doenjang-tagine",
-    "title": "Zesty Korean Doenjang Tagine",
+    "title": "Doenjang Jjigae Tagine Stew",
     "tags": [
-      "healthy",
-      "korean-inspired",
-      "one-pot",
-      "plant-based",
-      "spicy",
-      "weeknight"
+      "korean",
+      "mexican",
+      "fusion",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Korean-American",
-    "totalTimeMin": 60,
+    "cuisine": "Korean-Moroccan",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -11032,17 +11031,15 @@
   },
   {
     "slug": "zesty-silky-american-fish-burger",
-    "title": "Zesty Silky American Fish Burger",
+    "title": "Baked Fish with Zesty American Glaze",
     "tags": [
-      "american",
-      "burgers",
       "fish",
-      "pescatarian",
-      "seafood",
-      "weeknight"
+      "american",
+      "easy-dinner",
+      "gluten-free"
     ],
     "cuisine": "American",
-    "totalTimeMin": 32,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -11293,17 +11290,14 @@
   },
   {
     "slug": "zesty-silky-venezuelan-lentil-pilaf",
-    "title": "Zesty Silky Venezuelan Lentil Pilaf",
+    "title": "Venezuelan Lentil Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "healthy",
-      "international",
-      "one-pot",
-      "vegetarian"
+      "lentil",
+      "pilaf",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
