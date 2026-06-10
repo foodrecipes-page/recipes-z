@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-venezuelan-tofu-salad",
+  "title": "Venezuelan Tofu Salad Bowl",
+  "description": "A refreshing salad bowl inspired by Venezuela's vibrant flavors, featuring marinated tofu and crunchy vegetables.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "300g"
+    },
+    {
+      "name": "Zesty salad dressing (homemade or store-bought)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mixed greens (lettuce, spinach, arugula)",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Venezuelan corn kernels (optional)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into small cubes and marinate in zesty salad dressing for at least 30 minutes.",
+    "2. Preheat a grill or grill pan to medium-high heat.",
+    "3. Grill the tofu until golden brown and crispy on both sides.",
+    "4. In a large bowl, combine mixed greens, red bell pepper, cucumber, cherry tomatoes, red onion, and chopped cilantro.",
+    "5. Add the grilled tofu on top of the salad.",
+    "6. Season with salt and pepper to taste.",
+    "7. Garnish with Venezuelan corn kernels, if using.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "salad",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-tofu-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:11:24.352Z"
+}
