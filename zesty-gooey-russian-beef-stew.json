@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-gooey-russian-beef-stew",
+  "title": "Beef Stew",
+  "description": "A hearty beef stew recipe perfect for a cold winter's day. The addition of gooey cheese and zesty spices takes this classic dish to the next level.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "gooseberries",
+      "amount": "1 cup",
+      "notes": "or other berries"
+    },
+    {
+      "name": "goey cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 tsp",
+      "notes": "such as paprika and garlic powder"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the onion, carrot, and potato until the vegetables are tender.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the browned beef back in, along with the beef broth, gooseberries, and zesty seasoning.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the beef is tender.",
+    "Stir in the gooey cheese until melted and well combined.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve with crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "russian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-russian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:14:46.255Z"
+}
