@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-silky-american-fish-burger",
+  "title": "Baked Fish with Zesty American Glaze",
+  "description": "A flavorful and moist fish dish topped with a zesty American-inspired glaze. Quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Zesty",
+      "amount": "1/4 cup of zesty sauce",
+      "notes": null
+    },
+    {
+      "name": "American",
+      "amount": "2 tbsp of mayonnaise",
+      "notes": null
+    },
+    {
+      "name": "Burger",
+      "amount": "1 tsp of burger seasoning",
+      "notes": null
+    },
+    {
+      "name": "Silky",
+      "amount": "1/4 cup of sour cream",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish fillets on the baking sheet.",
+    "Drizzle the zesty sauce over the fish fillets.",
+    "Mix the mayonnaise and burger seasoning, and brush the mixture over the fish.",
+    "Bake for 8-10 minutes or until the fish is cooked through.",
+    "Serve with a dollop of sour cream on top.",
+    "Garnish with chopped herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "american",
+    "easy-dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-american-fish-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:39:45.417Z"
+}
