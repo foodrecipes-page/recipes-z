@@ -4652,16 +4652,15 @@
   },
   {
     "slug": "zesty-egyptian-cheddar-tagine",
-    "title": "Zesty Egyptian Cheddar Tagine",
+    "title": "Cheesy Tagine Frittata",
     "tags": [
-      "comfort-food",
-      "egyptian-cuisine",
-      "lacto-vegetarian",
-      "one-pot",
-      "romantic-dinner"
+      "breakfast",
+      "brunch",
+      "cheese",
+      "eggs"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
