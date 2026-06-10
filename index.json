@@ -3657,18 +3657,16 @@
   },
   {
     "slug": "zesty-crumbly-norwegian-oat-crumble",
-    "title": "Zesty Crumbly Norwegian Oat Crumble",
+    "title": "Norwegian Crumble Oat Cake",
     "tags": [
-      "crumbly",
-      "malty",
+      "oat",
+      "crumble",
       "norwegian",
-      "oat-based",
-      "quick-fix",
-      "shojin-friendly",
-      "vegetarian"
+      "dessert",
+      "snack"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -7863,17 +7861,14 @@
   },
   {
     "slug": "zesty-light-canadian-salmon-skillet",
-    "title": "Zesty Light Canadian Salmon Skillet",
+    "title": "Pan-Seared Salmon with Zesty Glaze",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "salmon",
+      "glaze",
+      "fish"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 24,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -8676,17 +8671,15 @@
   },
   {
     "slug": "zesty-middle-eastern-pork-tenderloin-fattoush",
-    "title": "Zesty Middle Eastern Pork Tenderloin Fattoush",
+    "title": "Middle Eastern Fattoush Salad with Zesty Pork Tenderloin",
     "tags": [
-      "cozy-dinner",
-      "fattoush",
-      "grilled-pork",
       "middle-eastern",
-      "plant-based-friendly",
-      "refreshing-salad"
+      "salad",
+      "grilled-pork",
+      "pomegranate-molasses"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -10591,15 +10584,16 @@
   },
   {
     "slug": "zesty-roasted-ukrainian-almond-tagine",
-    "title": "Zesty Roasted Ukrainian Almond Tagine",
+    "title": "Tagine Chicken with Roasted Vegetables",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "ukrainian-cuisine",
-      "weeknight"
+      "chicken",
+      "moroccan",
+      "tagine",
+      "roasted",
+      "vegetables",
+      "almond"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "Moroccan",
     "totalTimeMin": 45,
     "shard": "z"
   },
@@ -14249,10 +14243,14 @@
   },
   {
     "slug": "zesty-venezuelan-tofu-salad",
-    "title": "Zesty Venezuelan Tofu Salad",
-    "tags": [],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": null,
+    "title": "Venezuelan Tofu Salad Bowl",
+    "tags": [
+      "tofu",
+      "salad",
+      "latin-american"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
