@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-crumbly-norwegian-oat-crumble",
+  "title": "Norwegian Crumble Oat Cake",
+  "description": "A sweet and crumbly Norwegian-inspired oat cake. Perfect for a snack or dessert.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oat",
+      "amount": "1 cup",
+      "notes": "Rolled oats"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup",
+      "notes": "Baking crumble"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons",
+      "notes": "Lemon zest"
+    },
+    {
+      "name": "Norwegian sugar",
+      "amount": "1/2 cup",
+      "notes": "Brown sugar"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine oats, crumble, and zesty.",
+    "In a separate bowl, mix together sugar and melted butter.",
+    "Add the sugar mixture to the oat mixture and stir until combined.",
+    "Transfer the mixture to a greased 8-inch square baking dish.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "oat",
+    "crumble",
+    "norwegian",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crumbly-norwegian-oat-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:35:07.245Z"
+}
