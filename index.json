@@ -5121,17 +5121,14 @@
   },
   {
     "slug": "zesty-flaky-dutch-fish-skillet",
-    "title": "Zesty Flaky Dutch Fish Skillet",
+    "title": "Pan-Seared Fish with Zesty Flakes",
     "tags": [
-      "dutch-cuisine",
-      "fish-based",
-      "healthy",
-      "macrobiotic",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
