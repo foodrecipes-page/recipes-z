@@ -1,0 +1,55 @@
+{
+  "slug": "zesty-flaky-dutch-fish-skillet",
+  "title": "Pan-Seared Fish with Zesty Flakes",
+  "description": "A quick and easy fish recipe with a zesty twist. Perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (dutch)",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Zesty Flakes",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the fish with salt and pepper.",
+    "Add a small amount of oil to the skillet and sear the fish for 3-4 minutes per side.",
+    "Remove the fish from the skillet and place it on a plate.",
+    "Sprinkle the zesty flakes over the fish.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-dutch-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:57:56.599Z"
+}
