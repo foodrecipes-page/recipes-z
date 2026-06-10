@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-mediterranean-chicken-roast",
+  "title": "Roasted Mediterranean Chicken",
+  "description": "A flavorful and aromatic dish that combines the best of the Mediterranean with the simplicity of roasted chicken.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, whisk together the zesty, lemon juice, garlic, oregano, thyme, salt, and pepper.",
+    "Brush the mixture evenly over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "roasted",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mediterranean-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:31:39.561Z"
+}
