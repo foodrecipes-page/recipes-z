@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-winey-norwegian-lamb-stir-fry",
+  "title": "Pan-Seared Lamb Chops with Norwegian Inspiration",
+  "description": "A simple and flavorful lamb dish with Norwegian twists, perfect for a weeknight dinner. This recipe combines the rich flavors of lamb with a hint of zesty freshness and a touch of winey depth.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb chops",
+      "amount": "4-6 chops",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "zesty lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "winey red wine",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "norwegian mustard",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C)",
+    "2. In a small bowl, whisk together lemon juice, red wine, and mustard to make the marinade",
+    "3. Place the lamb chops in a large ziplock bag and pour the marinade over them",
+    "4. Seal the bag and refrigerate for at least 2 hours or overnight",
+    "5. Remove the lamb chops from the bag and season with salt and pepper",
+    "6. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat",
+    "7. Add 2-3 lamb chops to the skillet and sear for 2-3 minutes per side",
+    "8. Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the lamb is cooked to your desired level of doneness",
+    "9. Remove the lamb chops from the skillet and let them rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "norwegian",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-winey-norwegian-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:08:11.308Z"
+}
