@@ -6312,18 +6312,15 @@
   },
   {
     "slug": "zesty-gooey-russian-beef-stew",
-    "title": "Zesty Gooey Russian Beef Stew",
+    "title": "Beef Stew",
     "tags": [
-      "beef-stew",
-      "cranberry-juice",
-      "donabe-recipes",
-      "egg-free",
-      "gluten-free",
-      "russian-cuisine",
-      "yakimono-grill"
+      "beef",
+      "stew",
+      "russian",
+      "comfort food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 150,
+    "cuisine": "russian",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -8271,17 +8268,15 @@
   },
   {
     "slug": "zesty-mediterranean-chicken-roast",
-    "title": "Zesty Mediterranean Chicken Roast",
+    "title": "Roasted Mediterranean Chicken",
     "tags": [
-      "cheaper",
-      "healthy",
-      "kosher-friendly",
-      "one-pan",
-      "quick",
-      "weeknight"
+      "mediterranean",
+      "chicken",
+      "roasted",
+      "easy-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
