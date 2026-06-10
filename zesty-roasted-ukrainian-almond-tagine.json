@@ -1,0 +1,104 @@
+{
+  "slug": "zesty-roasted-ukrainian-almond-tagine",
+  "title": "Tagine Chicken with Roasted Vegetables",
+  "description": "A flavorful chicken dish inspired by Moroccan cuisine, cooked in a traditional tagine with roasted vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Roasted ukrainian sweet red peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Zesty preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Almond slivers",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with cumin, paprika, salt, and black pepper.",
+    "Heat the olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes.",
+    "Transfer the tagine to the preheated oven and roast for 20 minutes.",
+    "Add the roasted red peppers, preserved lemon, and almond slivers to the tagine.",
+    "Return the tagine to the oven and roast for an additional 10 minutes.",
+    "Meanwhile, heat the remaining 1 tablespoon of olive oil in a small skillet over medium heat.",
+    "Add the minced garlic and grated ginger to the skillet and cook, stirring constantly, for 1-2 minutes.",
+    "Stir the garlic-ginger mixture into the tagine and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "tagine",
+    "roasted",
+    "vegetables",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-ukrainian-almond-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:35:43.987Z"
+}
