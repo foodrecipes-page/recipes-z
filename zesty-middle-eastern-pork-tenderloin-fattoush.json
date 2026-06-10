@@ -1,0 +1,113 @@
+{
+  "slug": "zesty-middle-eastern-pork-tenderloin-fattoush",
+  "title": "Middle Eastern Fattoush Salad with Zesty Pork Tenderloin",
+  "description": "A refreshing salad from the Middle East featuring croutons, mixed greens, and a zesty grilled pork tenderloin. Perfect for a light meal or as a side dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "1 (1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 cups",
+      "notes": "preferably day-old bread, cut into 1-inch cubes"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sumac",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. Season the pork tenderloin with salt, black pepper, and sumac.",
+    "Grill the pork tenderloin for 5-7 minutes per side, or until it reaches an internal temperature of 145°F. Let it rest for 5 minutes before slicing.",
+    "In a large bowl, whisk together pomegranate molasses, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the mixed greens, chopped cucumber, chopped tomatoes, chopped red onion, and chopped parsley to the bowl. Toss to combine.",
+    "In a small bowl, toss the flatbread cubes with a little bit of olive oil and salt. Grill or bake until crispy.",
+    "To assemble the salad, place a bed of mixed greens on a plate or in a bowl. Top with sliced pork tenderloin, croutons, and a drizzle of pomegranate molasses dressing.",
+    "Serve immediately and enjoy!",
+    "Note: You can also make this salad without grilling the pork tenderloin by cooking it in a skillet on the stovetop or in the oven."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "salad",
+    "grilled-pork",
+    "pomegranate-molasses"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-pork-tenderloin-fattoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:42:20.305Z"
+}
