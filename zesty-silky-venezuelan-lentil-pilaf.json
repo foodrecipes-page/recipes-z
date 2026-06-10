@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-silky-venezuelan-lentil-pilaf",
+  "title": "Venezuelan Lentil Pilaf",
+  "description": "A flavorful and nutritious lentil pilaf dish inspired by Venezuelan cuisine. This recipe combines the earthy taste of lentils with the aromatic spices of Venezuela.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "red or green"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and pick out any debris.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the lentils, pilaf, and zesty seasoning to the saucepan. Cook for 5 minutes, stirring occasionally.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Optional: Add sliced avocado or a dollop of sour cream for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-venezuelan-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:44:02.411Z"
+}
