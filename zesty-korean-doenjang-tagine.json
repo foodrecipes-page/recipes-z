@@ -1,0 +1,97 @@
+{
+  "slug": "zesty-korean-doenjang-tagine",
+  "title": "Doenjang Jjigae Tagine Stew",
+  "description": "A flavorful fusion of Korean doenjang jjigae and Moroccan tagine stew, combining rich soybean paste with aromatic spices.",
+  "cuisine": "Korean-Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doenjang (Korean soybean paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tagine spices (cinnamon, ginger, cumin)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Zesty preserved lemon",
+      "amount": "2 tablespoons, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and garlic; cook, stirring occasionally, until softened, 5 minutes.",
+    "Add doenjang, gochugaru, ginger, cumin, and cinnamon; cook, stirring constantly, 1 minute.",
+    "Add tagine spices, water, zucchini, and carrots; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until vegetables are tender, 20 minutes.",
+    "Stir in chopped preserved lemon, if using.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions and toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "mexican",
+    "fusion",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-doenjang-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:44:27.061Z"
+}
