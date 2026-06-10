@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-egyptian-cheddar-tagine",
+  "title": "Cheesy Tagine Frittata",
+  "description": "A flavorful, cheesy twist on the traditional North African tagine, this frittata is a hearty and satisfying breakfast or brunch option.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Zesty Eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian Bread",
+      "amount": "1 crusty loaf, cubed",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the bread cubes until lightly toasted.",
+    "In a large bowl, whisk together eggs and zesty seasoning.",
+    "Pour egg mixture over toasted bread in the skillet.",
+    "Sprinkle shredded cheeses over the top.",
+    "Transfer skillet to the oven and bake for 20-25 minutes, or until the eggs are set and the cheese is melted and golden.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "cheese",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-egyptian-cheddar-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:44:32.656Z"
+}
