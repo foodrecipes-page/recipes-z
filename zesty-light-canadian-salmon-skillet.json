@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-light-canadian-salmon-skillet",
+  "title": "Pan-Seared Salmon with Zesty Glaze",
+  "description": "A quick and easy salmon dish with a tangy zesty glaze, perfect for a weeknight dinner. This recipe takes only 20 minutes to prepare and cook.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup glaze"
+    },
+    {
+      "name": "light",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons (juiced)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (minced)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Add the olive oil to the skillet and sear the salmon for 3-4 minutes per side.",
+    "While the salmon is cooking, mix the zesty glaze, lemon juice, and garlic in a small bowl.",
+    "Brush the zesty glaze over the salmon during the last minute of cooking.",
+    "Transfer the salmon to a plate and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "glaze",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-canadian-salmon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:43:20.170Z"
+}
