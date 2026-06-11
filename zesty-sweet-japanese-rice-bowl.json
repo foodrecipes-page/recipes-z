@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-sweet-japanese-rice-bowl",
+  "title": "Sweet Japanese Rice Bowl",
+  "description": "A simple and flavorful Japanese-style rice bowl dish, perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Zesty dressing",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Roasted vegetables (e.g., sweet potatoes, carrots)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese rice and cook according to package instructions.",
+    "In a small saucepan, heat the sesame oil over medium heat.",
+    "Add the roasted vegetables and cook for 2-3 minutes.",
+    "In a small bowl, whisk together the soy sauce and zesty dressing.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Serve the rice in a bowl and top with the vegetable mixture.",
+    "Garnish with sliced green onions and sesame seeds.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "rice",
+    "vegetarian",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-japanese-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:44:01.966Z"
+}
