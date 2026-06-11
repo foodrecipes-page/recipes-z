@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-french-olives-eclair",
+  "title": "French Country Olives",
+  "description": "A simple French-inspired appetizer featuring olives and eclair cheese.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "eclair cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Arrange olives on a baking sheet lined with parchment paper.",
+    "Top each olive with a dollop of eclair cheese and a sprinkle of minced garlic.",
+    "Bake for 10-12 minutes or until cheese is melted and bubbly.",
+    "Sprinkle with chopped parsley and a pinch of salt and pepper.",
+    "Serve warm, garnished with additional parsley if desired.",
+    "Optional: drizzle with zesty sauce before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-french-olives-eclair",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:43:57.748Z"
+}
