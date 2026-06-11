@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-japanese-pickle-noodles",
+  "title": "Spicy Japanese Noodle Soup",
+  "description": "A flavorful and spicy noodle soup made with Japanese noodles, vegetables, and a zesty sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium-high heat.",
+    "Add the sliced carrots and mushrooms and cook for 3-4 minutes.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Pour in the pickle juice and zesty sauce and stir to combine.",
+    "Add the Japanese noodles and cook for 2-3 minutes, or until they are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with sliced green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-soup",
+    "spicy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-japanese-pickle-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:22:26.344Z"
+}
