@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-crispy-spanish-renkon-lotus-root-paella-valenciana",
+  "title": "Spanish Paella with Renkon and Lotus Root",
+  "description": "A traditional Spanish paella dish with the added twist of renkon and lotus root, creating a unique and flavorful experience.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Renkon (Japanese Lotus Root)",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Lotus Root",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Spanish Paella Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Crispy Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Valenciana Saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced renkon and lotus root, cooking until they start to brown.",
+    "Add the smoked paprika and saffron, stirring to combine.",
+    "Add the uncooked paella rice, stirring to coat the rice in the spice mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-spanish-renkon-lotus-root-paella-valenciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:19:26.914Z"
+}
