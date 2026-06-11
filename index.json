@@ -5388,17 +5388,14 @@
   },
   {
     "slug": "zesty-fluffy-ukrainian-noodle-dish",
-    "title": "Zesty Fluffy Ukrainian Noodle Dish",
+    "title": "Fluffy Ukrainian Noodle Dish",
     "tags": [
-      "kid-friendly",
-      "noodle-dish",
-      "one-pot",
-      "sous-vide",
       "ukrainian",
-      "weeknight"
+      "noodle",
+      "dinner"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
