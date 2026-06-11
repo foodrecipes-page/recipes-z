@@ -9551,16 +9551,14 @@
   },
   {
     "slug": "zesty-peppery-saudi-arabian-turnip-stew",
-    "title": "Zesty Peppery Saudi Arabian Turnip Stew",
+    "title": "Saudi Stew with Turnip",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "middle-eastern",
-      "one-pot",
+      "saudi-cuisine",
+      "stew",
       "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Saudi",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
