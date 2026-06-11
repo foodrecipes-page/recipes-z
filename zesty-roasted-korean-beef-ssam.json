@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-roasted-korean-beef-ssam",
+  "title": "Korean BBQ Beef Ssam",
+  "description": "A flavorful Korean-inspired dish featuring marinated beef and crispy kimchi in a crispy rice wrapper.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "preferably ribeye or sirloin"
+    },
+    {
+      "name": "ssamjang (Korean BBQ sauce)",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "large lettuce leaves",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crushed toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together ssamjang, garlic, ginger, and sesame oil.",
+    "Add the sliced beef to the marinade and toss to coat.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, toast the rice wrappers on the grill or in a dry pan for 30 seconds.",
+    "Assemble the ssam by placing a lettuce leaf on a flat surface, followed by a slice of beef, a spoonful of kimchi, and a sprinkle of sesame seeds and green onion.",
+    "Fold the bottom half of the lettuce up over the filling, then fold in the sides and roll up the ssam to form a tight cylinder.",
+    "Serve immediately and enjoy!",
+    "Note: For a vegetarian version, substitute the beef with marinated and grilled portobello mushrooms."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "beef",
+    "ssam",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-korean-beef-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:40:59.072Z"
+}
