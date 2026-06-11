@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-crispy-ukrainian-beet-roast",
+  "title": "Roast Beet Ukrainian Harvest Soup",
+  "description": "A hearty and flavorful soup featuring roasted beets, crispy vegetables, and a hint of zesty flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "zesty tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1 lb",
+      "notes": "optional"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Wrap the beets in foil and roast for 45 minutes, or until tender.",
+    "Sauté the onion and carrots in a large pot over medium heat until softened.",
+    "Add the potatoes, zesty tomato paste, and vegetable broth to the pot. Stir to combine.",
+    "Add the roasted beets to the pot and stir to combine.",
+    "If using Ukrainian sausage, add it to the pot and cook until heated through.",
+    "Bring the soup to a simmer and cook for 20 minutes, or until the potatoes are tender.",
+    "Season the soup with salt and black pepper to taste.",
+    "Serve the soup hot, topped with crispy fried onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "ukrainian",
+    "soup",
+    "harvest",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-ukrainian-beet-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:28:08.616Z"
+}
