@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-fluffy-ukrainian-noodle-dish",
+  "title": "Fluffy Ukrainian Noodle Dish",
+  "description": "A hearty and comforting Ukrainian-inspired dish made with fluffy noodles, zesty sauce, and a hint of Ukrainian spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fluffy Noodles",
+      "amount": "8 oz",
+      "notes": "preferably freshly made"
+    },
+    {
+      "name": "Zesty Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ukrainian Spices",
+      "amount": "1 tsp",
+      "notes": "a mix of paprika, garlic powder, and dill"
+    },
+    {
+      "name": "Dish Spice",
+      "amount": "1 tsp",
+      "notes": "a blend of caraway seed and black pepper"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Cook the fluffy noodles according to package instructions.",
+    "In a separate pan, heat the zesty sauce over medium heat.",
+    "Add the Ukrainian spices and dish spice to the sauce and stir to combine.",
+    "Once the noodles are cooked, drain and add them to the sauce pan.",
+    "Toss the noodles in the sauce until they are well coated.",
+    "Serve hot, garnished with chopped fresh dill if desired.",
+    "Enjoy your delicious and satisfying Ukrainian noodle dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "noodle",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-ukrainian-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:35:59.593Z"
+}
