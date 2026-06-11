@@ -4765,16 +4765,14 @@
   },
   {
     "slug": "zesty-energizing-turkish-ground-ginger-manti",
-    "title": "Zesty Energizing Turkish Ground Ginger Manti",
+    "title": "Turkish Manti with Ground Turkey and Ginger",
     "tags": [
-      "breakfast",
-      "diabetic-friendly",
-      "easy-to-make",
-      "snack",
-      "turkish"
+      "turkish",
+      "manti",
+      "dumplings"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 42,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -10449,17 +10447,16 @@
   },
   {
     "slug": "zesty-roasted-korean-beef-ssam",
-    "title": "Zesty Roasted Korean Beef Ssam",
+    "title": "Korean BBQ Beef Ssam",
     "tags": [
-      "beef-recipes",
-      "date-night",
-      "diabetic-friendly",
-      "korean-cuisine",
-      "low-carb",
-      "stone-bowl"
+      "korean",
+      "bbq",
+      "beef",
+      "ssam",
+      "kimchi"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 150,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -12942,18 +12939,15 @@
   },
   {
     "slug": "zesty-sweet-japanese-rice-bowl",
-    "title": "Zesty Sweet Japanese Rice Bowl",
+    "title": "Sweet Japanese Rice Bowl",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "vegan",
-      "weeknight"
+      "japanese",
+      "rice",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
