@@ -3438,16 +3438,15 @@
   },
   {
     "slug": "zesty-crispy-spanish-renkon-lotus-root-paella-valenciana",
-    "title": "Zesty Crispy Spanish Renkon Lotus Root Paella Valenciana",
+    "title": "Spanish Paella with Renkon and Lotus Root",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight"
+      "paella",
+      "spanish",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -5463,18 +5462,14 @@
   },
   {
     "slug": "zesty-french-olives-eclair",
-    "title": "Zesty French Olives Eclair",
+    "title": "French Country Olives",
     "tags": [
-      "bitter-olive",
-      "dolsot",
-      "eclair",
-      "low-fat",
-      "pasta-water",
-      "quick",
-      "savory"
+      "appetizer",
+      "snack",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -7400,16 +7395,15 @@
   },
   {
     "slug": "zesty-japanese-pickle-noodles",
-    "title": "Zesty Japanese Pickle Noodles",
+    "title": "Spicy Japanese Noodle Soup",
     "tags": [
-      "healthy-eating",
-      "japanese-cuisine",
-      "one-pot",
-      "quick-meal",
-      "vegetarian-friendly"
+      "noodle-soup",
+      "spicy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
