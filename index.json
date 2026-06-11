@@ -8411,17 +8411,15 @@
   },
   {
     "slug": "zesty-mexican-lentil-bowl",
-    "title": "Zesty Mexican Lentil Bowl",
+    "title": "Zesty Lentil Bowl",
     "tags": [
-      "high-fiber",
-      "lentil-based",
-      "mexican-inspired",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight"
+      "lentil",
+      "mexican",
+      "veggie",
+      "bowl"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
