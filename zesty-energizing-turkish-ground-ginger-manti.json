@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-energizing-turkish-ground-ginger-manti",
+  "title": "Turkish Manti with Ground Turkey and Ginger",
+  "description": "A traditional Turkish dish of steamed dumplings filled with ground turkey and ginger, served with a zesty yogurt sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Zesty Yogurt Sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Manti dough",
+      "amount": "1 package",
+      "notes": "available at Middle Eastern markets"
+    }
+  ],
+  "instructions": [
+    "Combine ground turkey and ginger in a bowl.",
+    "In a separate bowl, mix flour and water to form a dough.",
+    "Knead the dough for 5 minutes.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Use a cookie cutter to cut out circles of dough.",
+    "Place a tablespoon of the ground turkey mixture in the center of each circle.",
+    "Fold the dough over the filling and press edges to seal.",
+    "Bring a large pot of water to a boil and cook manti for 15 minutes.",
+    "Melt butter in a pan over medium heat.",
+    "Add zesty yogurt sauce and stir to combine.",
+    "Serve manti with the sauce on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "manti",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-energizing-turkish-ground-ginger-manti",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:25:24.738Z"
+}
