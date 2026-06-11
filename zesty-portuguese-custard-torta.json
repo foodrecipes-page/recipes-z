@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-portuguese-custard-torta",
+  "title": "Portuguese Custard Tarta",
+  "description": "A classic Portuguese dessert featuring a flaky torta crust filled with creamy custard.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Torta crust",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Zesty lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Custard cream",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the torta crust and place in a baking dish.",
+    "In a large bowl, whisk together the sugar, eggs, flour, and melted butter.",
+    "Add the zesty lemon zest, vanilla extract, and salt to the bowl and whisk until combined.",
+    "Pour the custard mixture into the torta crust.",
+    "Bake for 35-40 minutes or until the custard is set.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm or at room temperature.",
+    "Optional: top with fresh fruit or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "dessert",
+    "custard",
+    "torta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-portuguese-custard-torta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:29:15.668Z"
+}
