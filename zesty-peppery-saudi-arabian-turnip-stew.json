@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-peppery-saudi-arabian-turnip-stew",
+  "title": "Saudi Stew with Turnip",
+  "description": "A hearty and flavorful stew originating from Saudi Arabia, featuring tender turnip and a blend of aromatic spices.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "2 medium"
+    },
+    {
+      "name": "arabian stew spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add minced garlic and sauté for an additional minute.",
+    "Add the Arabian stew spice and stir for 1 minute.",
+    "Add turnip, tomato, and water to the pot.",
+    "Bring the stew to a boil, then reduce heat to low and simmer.",
+    "Let the stew cook for 30 minutes or until turnip is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-cuisine",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peppery-saudi-arabian-turnip-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:13:33.183Z"
+}
