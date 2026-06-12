@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-umami-middle-eastern-noodle-shawarma",
+  "title": "Shawarma Chicken Noodle Bowl",
+  "description": "A flavorful and authentic Shawarma-inspired dish with chicken, noodles, and vegetables. This recipe combines the best of the Middle East in a delicious and easy-to-make meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "oriental noodles",
+      "amount": "200g",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "shawarma spice blend",
+      "amount": "2 tbsp",
+      "notes": "or a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "3. Add the chopped tomato and cook for an additional 2-3 minutes.",
+    "4. Add the chicken breast to the skillet and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "5. In a separate pan, cook the oriental noodles according to the package instructions.",
+    "6. In a small bowl, mix together the shawarma spice blend and a pinch of salt.",
+    "7. Add the spice blend mixture to the cooked chicken and toss to coat.",
+    "8. Assemble the noodle bowls by placing a portion of noodles on a plate, followed by the cooked chicken, chopped vegetables, and a dollop of tzatziki sauce.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shawarma",
+    "middle eastern",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-umami-middle-eastern-noodle-shawarma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:09:35.030Z"
+}
