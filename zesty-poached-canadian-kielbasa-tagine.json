@@ -1,0 +1,101 @@
+{
+  "slug": "zesty-poached-canadian-kielbasa-tagine",
+  "title": "Poached Kielbasa Tagine",
+  "description": "A flavorful and hearty one-pot dish from North Africa, made with poached kielbasa and a variety of spices.",
+  "cuisine": "north-african",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "available in spice blends or individual spices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add the kielbasa, zesty, and canadian to the pot, and cook until browned, about 5 minutes.",
+    "Add the tagine to the pot, and stir to combine.",
+    "Add enough water to the pot to cover the ingredients, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 10-15 minutes, or until the kielbasa is cooked through.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread or over couscous for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "kielbasa",
+    "tagine",
+    "one-pot",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-poached-canadian-kielbasa-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:30:21.578Z"
+}
