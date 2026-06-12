@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-venezuelan-cheese-crumble",
+  "title": "Venezuelan Crumble Cheese Fritters",
+  "description": "A delicious fusion of crunchy Venezuelan cheese fritters with crumble topping and a zesty twist.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zesty breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, combine the Venezuelan cheese, flour, crumble topping, zesty breadcrumbs, and a pinch of salt.",
+    "In a separate bowl, whisk the eggs.",
+    "Add the eggs to the cheese mixture and mix well.",
+    "Using a spoon, drop small balls of the mixture onto a baking sheet.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "latin-american",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-cheese-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:16:30.765Z"
+}
