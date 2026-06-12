@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-ethiopian-lemongrass-berbere-stew",
+  "title": "Ethiopian Berbere Stew",
+  "description": "A flavorful and spicy stew originating from Ethiopia, made with berbere spice blend, zesty tomatoes, and tender beef.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "stew",
+  "ingredients": [
+    {
+      "name": "Berbere spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Zesty tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Beef stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic, cook until softened, 5 minutes.",
+    "Add lemongrass and berbere spice blend, cook for 1 minute.",
+    "Add beef stew meat, cook until browned, 5 minutes.",
+    "Add zesty tomatoes, beef broth, and stew, bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with injera bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "berbere",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-lemongrass-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:03:51.112Z"
+}
