@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-malaysian-tofu-noodles",
+  "title": "Spicy Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with malaysian noodles and crispy tofu. This dish can be customized with your favorite spices to suit your taste.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malaysian Noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Zesty Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "0.5 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium heat.",
+    "Add ginger and green onions, sauté until fragrant.",
+    "Add cubed tofu, cook until golden brown.",
+    "Add zesty sauce, soy sauce, and sugar. Stir well.",
+    "Add Malaysian noodles and stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malaysian-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:41:57.642Z"
+}
