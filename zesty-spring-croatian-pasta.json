@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-spring-croatian-pasta",
+  "title": "Croatian Spring Pasta Bake",
+  "description": "A delicious and easy-to-make pasta bake infused with the flavors of Croatia. Perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring pasta",
+      "amount": "250g",
+      "notes": "any shape will do"
+    },
+    {
+      "name": "croatian zesty sauce",
+      "amount": "250ml",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "grated mozzarella",
+      "amount": "100g",
+      "notes": "or other melty cheese"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, combine Croatian zesty sauce and chopped parsley.",
+    "Stir in grated mozzarella.",
+    "In a large bowl, combine cooked pasta and sauce mixture.",
+    "Transfer pasta mixture to a baking dish.",
+    "Season with salt and pepper to taste.",
+    "Bake in preheated oven for 15-20 minutes, or until golden brown and bubbly.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:00:47.505Z"
+}
