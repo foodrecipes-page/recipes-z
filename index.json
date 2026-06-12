@@ -8186,16 +8186,14 @@
   },
   {
     "slug": "zesty-malaysian-tofu-noodles",
-    "title": "Zesty Malaysian Tofu Noodles",
+    "title": "Spicy Noodle Stir Fry",
     "tags": [
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "stir-fry",
+      "vegetarian",
+      "easy-to-make"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -12683,16 +12681,13 @@
   },
   {
     "slug": "zesty-spring-croatian-pasta",
-    "title": "Zesty Spring Croatian Pasta",
+    "title": "Croatian Spring Pasta Bake",
     "tags": [
-      "croatian-cuisine",
-      "one-pot",
-      "romantic-dinners",
-      "spring-recipes",
-      "vegetarian"
+      "pasta",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
