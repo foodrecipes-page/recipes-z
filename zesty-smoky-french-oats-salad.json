@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-smoky-french-oats-salad",
+  "title": "Smoky Oat Salad Bowl",
+  "description": "A hearty and healthy salad bowl made with smoky oats, fresh greens, and a tangy zesty dressing.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Oats",
+      "amount": "1 cup",
+      "notes": "cooking instructions: boil in 2 cups water for 5 minutes"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "any combination of kale, spinach, arugula"
+    },
+    {
+      "name": "Zesty Dressing",
+      "amount": "2 tbsp",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "French Balsamic Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the smoky oats according to package instructions.",
+    "In a large bowl, combine the mixed greens.",
+    "Drizzle the zesty dressing over the greens.",
+    "Top with cooked smoky oats.",
+    "Sprinkle with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "oats",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-french-oats-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:39:53.865Z"
+}
