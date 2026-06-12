@@ -476,17 +476,15 @@
   },
   {
     "slug": "zero-moisture-northern-irish-spinach-hash",
-    "title": "Zero Moisture Northern Irish Spinach Hash",
+    "title": "Irish Hash with Spinach",
     "tags": [
-      "gluten-free",
-      "healthy-breakfast",
-      "high-fiber",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "irish",
+      "breakfast",
+      "hash",
+      "spinach"
     ],
-    "cuisine": "Northern Irish",
-    "totalTimeMin": 50,
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -9779,16 +9777,15 @@
   },
   {
     "slug": "zesty-poached-canadian-kielbasa-tagine",
-    "title": "Zesty Poached Canadian Kielbasa Tagine",
+    "title": "Poached Kielbasa Tagine",
     "tags": [
-      "canadian-cuisine",
-      "low-sodium",
+      "north-african",
+      "kielbasa",
+      "tagine",
       "one-pot",
-      "poached-meat",
-      "tagine-recipes",
-      "winter-dinners"
+      "hearty"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "north-african",
     "totalTimeMin": 35,
     "shard": "z"
   },
@@ -13653,14 +13650,12 @@
   },
   {
     "slug": "zesty-umami-middle-eastern-noodle-shawarma",
-    "title": "Zesty Umami Middle Eastern Noodle Shawarma",
+    "title": "Shawarma Chicken Noodle Bowl",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "middle-eastern",
-      "noodle-dish",
-      "shawarma-style",
-      "vegetarian-option"
+      "shawarma",
+      "middle eastern",
+      "chicken",
+      "noodles"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
