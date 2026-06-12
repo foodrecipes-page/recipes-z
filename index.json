@@ -11807,17 +11807,14 @@
   },
   {
     "slug": "zesty-smoky-french-oats-salad",
-    "title": "Zesty Smoky French Oats Salad",
+    "title": "Smoky Oat Salad Bowl",
     "tags": [
-      "french",
-      "indulgent",
-      "oat",
-      "pescatarian-friendly",
       "salad",
-      "smoked"
+      "oats",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -13176,16 +13173,15 @@
   },
   {
     "slug": "zesty-tender-greek-eggplant-baked-moussaka",
-    "title": "zesty tender Greek eggplant baked moussaka",
+    "title": "Classic Greek Moussaka",
     "tags": [
-      "easily-made-ahead",
       "greek",
-      "one-pan",
-      "plant-based",
-      "vegetarian"
+      "meat",
+      "eggplant",
+      "casserole"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
