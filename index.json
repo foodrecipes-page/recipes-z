@@ -6016,17 +6016,15 @@
   },
   {
     "slug": "zesty-glassy-venezuelan-chicken-skewers",
-    "title": "Zesty Glassy Venezuelan Chicken Skewers",
+    "title": "Venezuelan Chicken Skewers",
     "tags": [
-      "chicken-skewers",
-      "gluten-free",
-      "low-sodium",
-      "meal-prep",
-      "tandoor-style",
-      "venezuelan-cuisine"
+      "latin-american",
+      "grilled-chicken",
+      "skewers",
+      "summer-recipe"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "Latin American",
+    "totalTimeMin": 31,
     "shard": "z"
   },
   {
@@ -9369,16 +9367,14 @@
   },
   {
     "slug": "zesty-nutty-portuguese-burrata-paella",
-    "title": "Zesty Nutty Portuguese Burrata Paella",
+    "title": "Paella Paella with Portuguese Sausage and Burrata",
     "tags": [
-      "gluten-free",
-      "nutty",
-      "one-pot",
-      "portuguese-cuisine",
-      "vegetarian",
-      "zesty"
+      "paella",
+      "spanish",
+      "portuguese",
+      "burrata"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "spanish",
     "totalTimeMin": 40,
     "shard": "z"
   },
