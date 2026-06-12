@@ -13949,17 +13949,15 @@
   },
   {
     "slug": "zesty-velvety-middle-eastern-apricot-tagine",
-    "title": "Zesty Velvety Middle Eastern Apricot Tagine",
+    "title": "Moroccan Apricot Tagine",
     "tags": [
-      "exotic",
-      "fruity",
-      "gluten-free",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "morroccan",
+      "stew",
+      "apricot",
+      "preserved-lemons"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -14686,16 +14684,15 @@
   },
   {
     "slug": "zingy-jaggery-idli-sake",
-    "title": "Zingy Jaggery Idli Sake",
+    "title": "Sake-Glazed Idli with Jaggery and Zingy Twist",
     "tags": [
-      "egg-free",
-      "gooey",
-      "monsoon-indian",
-      "sake-friendly",
-      "spicy"
+      "fusion",
+      "japanese",
+      "indian",
+      "dessert"
     ],
-    "cuisine": "Indian (Punjabi)",
-    "totalTimeMin": 65,
+    "cuisine": "Japanese-Indian Fusion",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
