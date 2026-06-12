@@ -1,0 +1,60 @@
+{
+  "slug": "zingy-jaggery-idli-sake",
+  "title": "Sake-Glazed Idli with Jaggery and Zingy Twist",
+  "description": "A sweet and savory twist on traditional idli with a sake glaze and a hint of jaggery.",
+  "cuisine": "Japanese-Indian Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Idli",
+      "amount": "4",
+      "notes": "steamed or pan-fried"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": "reduced to 2 tablespoons"
+    },
+    {
+      "name": "Jaggery",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "Zingy syrup (ginger-mint syrup or simple syrup with ginger and mint)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the idli according to the package instructions.",
+    "2. Reduce the sake by half to create a glaze.",
+    "3. Mix the jaggery and sake glaze in a saucepan over low heat until combined.",
+    "4. Brush the idli with the sake glaze and top with crushed jaggery.",
+    "5. Drizzle the zingy syrup over the idli.",
+    "6. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fusion",
+    "japanese",
+    "indian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-jaggery-idli-sake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:59:22.912Z"
+}
