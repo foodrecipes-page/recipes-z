@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-tender-greek-eggplant-baked-moussaka",
+  "title": "Classic Greek Moussaka",
+  "description": "A traditional Greek dish made with tender eggplant, rich meat sauce, and creamy bechamel.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2",
+      "notes": "tender, sliced"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "80/20 mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "or 1 can of crushed tomatoes"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated kefalograviera cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the chopped onion and minced garlic until softened.",
+    "Add ground lamb and cook until browned, breaking it up with a spoon.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "In a separate pan, sauté sliced eggplant until tender.",
+    "In a baking dish, create a layer of eggplant.",
+    "Spread a layer of meat sauce on top of the eggplant.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of bechamel sauce.",
+    "Top with grated kefalograviera cheese and bake for 30 minutes.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "meat",
+    "eggplant",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-tender-greek-eggplant-baked-moussaka",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:07:19.203Z"
+}
