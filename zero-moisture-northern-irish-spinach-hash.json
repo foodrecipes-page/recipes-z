@@ -1,0 +1,76 @@
+{
+  "slug": "zero-moisture-northern-irish-spinach-hash",
+  "title": "Irish Hash with Spinach",
+  "description": "A hearty and flavorful Irish-inspired dish made with crispy hash browns, fresh spinach, and a hint of northern charm.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "shredded potatoes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grease a 9x13 inch baking dish with butter.",
+    "In a large bowl, combine the hash browns, garlic powder, salt, and black pepper.",
+    "Spread the hash brown mixture evenly into the prepared baking dish.",
+    "Drizzle the remaining butter over the top of the hash browns.",
+    "Bake for 20-25 minutes, or until the hash browns are crispy and golden brown.",
+    "While the hash browns are baking, heat a large skillet over medium heat.",
+    "Add the chopped spinach to the skillet and cook until wilted, about 3-5 minutes.",
+    "Remove the skillet from the heat and set aside.",
+    "Once the hash browns are done, remove them from the oven and top with the wilted spinach.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "breakfast",
+    "hash",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-moisture-northern-irish-spinach-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:57:07.184Z"
+}
