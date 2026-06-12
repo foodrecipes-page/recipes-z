@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-glassy-venezuelan-chicken-skewers",
+  "title": "Venezuelan Chicken Skewers",
+  "description": "A flavorful and easy-to-make recipe for chicken skewers with a hint of Venezuelan spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "glassy onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty seasoning, olive oil, garlic powder, and lime juice.",
+    "Add chicken, glassy onions, and cilantro to the bowl. Toss to coat with the marinade.",
+    "Thread chicken and onions onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and the onions are tender.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "grilled-chicken",
+    "skewers",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-glassy-venezuelan-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:02:13.369Z"
+}
