@@ -4804,18 +4804,15 @@
   },
   {
     "slug": "zesty-ethiopian-lemongrass-berbere-stew",
-    "title": "Zesty Ethiopian Lemongrass Berbere Stew",
+    "title": "Ethiopian Berbere Stew",
     "tags": [
-      "easy",
       "ethiopian",
-      "gluten-free",
-      "herb-based",
-      "lemongrass",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "berbere",
+      "spicy"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
