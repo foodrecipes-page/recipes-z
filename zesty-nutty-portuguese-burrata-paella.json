@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-nutty-portuguese-burrata-paella",
+  "title": "Paella Paella with Portuguese Sausage and Burrata",
+  "description": "A twist on traditional paella, featuring Portuguese sausage and creamy burrata cheese.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese sausage",
+      "amount": "1 pound",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Zesty lemon",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "nutty almonds",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped Portuguese sausage and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced tomato and cook until the liquid has evaporated, about 5 minutes.",
+    "Add the uncooked paella rice and stir to combine with the sausage and tomato mixture.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the crumbled burrata cheese and cook until melted and creamy.",
+    "Sprinkle with sliced almonds and serve hot.",
+    "Garnish with lemon wedges and additional burrata cheese, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "portuguese",
+    "burrata"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-portuguese-burrata-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:54:49.907Z"
+}
