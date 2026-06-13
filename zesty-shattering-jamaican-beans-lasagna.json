@@ -1,0 +1,100 @@
+{
+  "slug": "zesty-shattering-jamaican-beans-lasagna",
+  "title": "Jamaican Bean Lasagna",
+  "description": "A flavorful twist on the classic Italian dish, featuring Jamaican spices and beans.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican bean mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shattering ground beef (optional)",
+      "amount": "1/2 pound",
+      "notes": "Optional for non-vegetarian"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a skillet, sauté onion and bell pepper until softened.",
+    "Add Jamaican jerk seasoning and cook for 1 minute.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add diced tomatoes and bring to a simmer.",
+    "In a separate bowl, combine Jamaican bean mix and zesty cheese.",
+    "Assemble lasagna by spreading meat sauce on bottom, followed by noodles, bean mix, and cheese.",
+    "Repeat layers two more times, ending with cheese on top.",
+    "If using ground beef, cook in skillet until browned and crumbled.",
+    "Add cooked beef to meat sauce and simmer for 5 minutes.",
+    "Transfer lasagna to a 9x13-inch baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove foil and bake for an additional 10-15 minutes or until cheese is melted and bubbly.",
+    "Let lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "lasagna",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-shattering-jamaican-beans-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:57.804Z"
+}
