@@ -10938,17 +10938,16 @@
   },
   {
     "slug": "zesty-shattering-jamaican-beans-lasagna",
-    "title": "Zesty Shattering Jamaican Navy Bean Lasagna",
+    "title": "Jamaican Bean Lasagna",
     "tags": [
+      "jamaican",
       "caribbean",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lasagna",
+      "beans",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 75,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -11920,16 +11919,15 @@
   },
   {
     "slug": "zesty-smoky-mediterranean-lamb-kebabs",
-    "title": "Zesty Smoky Mediterranean Lamb Kebabs",
+    "title": "Smoky Lamb Kebabs",
     "tags": [
-      "grilled-meats",
-      "high-protein",
-      "mediterranean-diet",
-      "paleo-friendly",
-      "weeknight-dinner"
+      "greek",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -13571,17 +13569,15 @@
   },
   {
     "slug": "zesty-ukrainian-meat-borscht",
-    "title": "zesty ukrainian meat borscht",
+    "title": "Traditional Ukrainian Borscht",
     "tags": [
-      "comfort-food",
-      "one-pot-meal",
-      "slow-cooker-friendly",
-      "sous-vide-friendly",
-      "sugar-free-friendly",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "beef",
+      "soup",
+      "borscht"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 150,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
