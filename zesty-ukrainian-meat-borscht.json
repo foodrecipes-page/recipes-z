@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-ukrainian-meat-borscht",
+  "title": "Traditional Ukrainian Borscht",
+  "description": "A hearty and flavorful beet-based soup originating from Ukraine. This recipe combines the rich flavors of beef, vegetables, and a touch of zesty sour cream.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Borscht",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and cook until it is translucent.",
+    "Add the carrots and cook for 5 minutes.",
+    "Add the cabbage and cook for an additional 5 minutes.",
+    "Add the tomato paste, beets, borscht, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the sour cream and serve hot.",
+    "Garnish with chopped fresh dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beef",
+    "soup",
+    "borscht"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-meat-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:16:33.779Z"
+}
