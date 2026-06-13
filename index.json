@@ -14624,17 +14624,15 @@
   },
   {
     "slug": "zingy-citrusy-aerated-french-beef-pilaf",
-    "title": "Zingy Citrusy Aerated French Beef Pilaf",
+    "title": "Citrusy French Beef Pilaf",
     "tags": [
-      "comfort-food",
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "winter"
+      "beef",
+      "pilaf",
+      "citrus",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
