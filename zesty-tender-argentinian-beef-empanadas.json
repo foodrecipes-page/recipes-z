@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-tender-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "Tender beef empanadas with a zesty twist, inspired by the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Zesty seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Pastry dough (homemade or store-bought)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Add the egg, water, and zesty seasoning to the pan and stir to combine.",
+    "Let the mixture cool to room temperature.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with salt.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-tender-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:30:16.378Z"
+}
