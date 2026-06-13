@@ -11348,18 +11348,14 @@
   },
   {
     "slug": "zesty-slovakian-pork-roast",
-    "title": "Zesty Slovakian Pork Roast",
+    "title": "Slovakian Pork Roast",
     "tags": [
-      "broil",
-      "family-friendly",
-      "mediterranean-friendly",
       "pork",
       "roast",
-      "slovakian",
-      "zesty"
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 115,
+    "totalTimeMin": 270,
     "shard": "z"
   },
   {
