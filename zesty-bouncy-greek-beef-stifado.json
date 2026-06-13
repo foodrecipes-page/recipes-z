@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-bouncy-greek-beef-stifado",
+  "title": "Greek Stifado Beef Stew",
+  "description": "A hearty and flavorful Greek beef stew made with onions, garlic, and a hint of zesty spice.",
+  "cuisine": "Greek",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g)",
+      "notes": "cut into 1-inch (2.5cm) cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "stifado",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground bouncy and cook for 1 minute, until fragrant.",
+    "Add the ground zesty and cook for 1 minute, until fragrant.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the crushed tomato paste, beef broth, and stifado. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beef-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bouncy-greek-beef-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:29:36.689Z"
+}
