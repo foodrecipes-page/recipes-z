@@ -960,17 +960,15 @@
   },
   {
     "slug": "zesty-argentinian-apple-fried-rice",
-    "title": "Zesty Argentinian Apple Fried Rice",
+    "title": "Argentinian Fried Apple Delight",
     "tags": [
-      "argentinian-cuisine",
-      "fodmap-friendly",
-      "fried-rice",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "argentinian",
+      "apple",
+      "fried",
+      "dessert"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -4341,17 +4339,15 @@
   },
   {
     "slug": "zesty-dense-slovakian-meat-stew",
-    "title": "Zesty Dense Slovakian Meat Stew",
+    "title": "Slovakian Meat Stew",
     "tags": [
-      "fermented-food",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "whole30",
-      "winter-dish"
+      "slovakian",
+      "stew",
+      "beef",
+      "sausage"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
