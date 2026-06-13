@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-slovakian-pork-roast",
+  "title": "Slovakian Pork Roast",
+  "description": "A traditional Slovakian dish featuring a slow-cooked roast pork with a zesty twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the pork roast with salt, black pepper, and caraway seeds.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the pork roast until browned on all sides.",
+    "Transfer the pork roast to a large baking dish and roast in the preheated oven for 2 1/2 hours, or until tender.",
+    "While the pork roast is cooking, sauté the onion and garlic in a pan until softened.",
+    "Add the zesty mustard and sour cream to the pan, stirring to combine.",
+    "Remove the pork roast from the oven and brush the zesty mustard-sour cream mixture over the top.",
+    "Return the pork roast to the oven and continue cooking for an additional 10-15 minutes.",
+    "Let the pork roast rest for 10-15 minutes before slicing and serving.",
+    "Serve with potatoes and garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 250,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "roast",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 50
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:33:15.445Z"
+}
