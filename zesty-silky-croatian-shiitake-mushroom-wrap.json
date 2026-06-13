@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-silky-croatian-shiitake-mushroom-wrap",
+  "title": "Croatian Mushroom Wrap",
+  "description": "A flavorful and savory wrap filled with sautéed mushrooms and served with a tangy zesty sauce. Perfect for a quick and easy meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Croatian mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Silky wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the zesty sauce to the skillet and stir to combine.",
+    "Warm the silky wrap in the microwave or in a dry skillet for a few seconds.",
+    "Spoon the mushroom mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "wrap",
+    "lunch",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-croatian-shiitake-mushroom-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:13:03.667Z"
+}
