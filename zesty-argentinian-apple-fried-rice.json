@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-argentinian-apple-fried-rice",
+  "title": "Argentinian Fried Apple Delight",
+  "description": "A delicious and crispy dessert inspired by Argentinian cuisine, featuring sweet fried apples and a hint of zesty flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together rice flour, granulated sugar, and salt.",
+    "Add the zesty lemon juice to the mixture and stir until combined.",
+    "Peel and slice the apples into thin pieces.",
+    "Dip each apple slice into the mixture, coating both sides evenly.",
+    "Carefully place the coated apple slices into the hot oil.",
+    "Fry the apples for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fried apples from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried apples warm, garnished with additional granulated sugar if desired.",
+    "Serve the fried apples alongside the fried rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "apple",
+    "fried",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 1,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-argentinian-apple-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:51:06.796Z"
+}
