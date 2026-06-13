@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-greek-chicken-wrap",
+  "title": "Greek Chicken Wrap",
+  "description": "A simple and flavorful wrap filled with juicy chicken, crunchy veggies, and tangy tzatziki sauce. Perfect for a quick and easy lunch on the go.",
+  "cuisine": "greek",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zesty tzatziki sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "greek wrap",
+      "amount": "1 large",
+      "notes": "pita or flatbread"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with salt and pepper.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "Warm wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread tzatziki sauce on the wrap, leaving a small border around the edges.",
+    "Add sliced chicken, tomato, red onion, cucumber, and feta cheese on top of the sauce.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "chicken",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:32:17.979Z"
+}
