@@ -4597,17 +4597,15 @@
   },
   {
     "slug": "zesty-earthy-venezuelan-mars-bar-tart",
-    "title": "Zesty Earthy Venezuelan Mars Bar Tart",
+    "title": "Venezuelan-Style Mars Bar Tart",
     "tags": [
-      "decadent",
-      "rich",
-      "romantic",
-      "sous-vide",
       "south-american",
-      "vegetarian"
+      "dessert",
+      "mars-bar",
+      "tart"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 150,
+    "cuisine": "South American",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
