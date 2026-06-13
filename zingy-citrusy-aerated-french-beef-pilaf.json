@@ -1,0 +1,69 @@
+{
+  "slug": "zingy-citrusy-aerated-french-beef-pilaf",
+  "title": "Citrusy French Beef Pilaf",
+  "description": "A flavorful beef pilaf dish infused with citrusy notes from the zingy citrus sauce. This dish is perfect for a quick dinner.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Zingy Citrus Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "French Pilaf Mix",
+      "amount": "1 cup",
+      "notes": "follow package instructions for ratio of mix to liquid"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking the pilaf"
+    },
+    {
+      "name": "Aerated Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the pilaf mix and water. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed and the pilaf is tender.",
+    "Stir in the zingy citrus sauce and cook for an additional 2 minutes.",
+    "Return the beef to the skillet and toss to combine with the pilaf and citrus sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "pilaf",
+    "citrus",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-citrusy-aerated-french-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:33:59.856Z"
+}
