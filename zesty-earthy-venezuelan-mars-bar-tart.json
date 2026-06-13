@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-earthy-venezuelan-mars-bar-tart",
+  "title": "Venezuelan-Style Mars Bar Tart",
+  "description": "A unique dessert that combines the crunch of a tart crust with the sweetness of Mars bars and a hint of Venezuelan spices.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "6"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Unsalted butter, chilled and cut into small pieces",
+      "amount": "1/2 cup",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Zesty earthy spice blend",
+      "amount": "1 tsp",
+      "notes": "Add a pinch of magic to your tart"
+    },
+    {
+      "name": "Venezuelan coffee",
+      "amount": "2 tbsp",
+      "notes": "Add a hint of South American flair"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Make the crust: In a medium bowl, whisk together the flour and sugar. Add the cold butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 20-25 minutes, or until it is lightly golden.",
+    "Melt the Mars bars in a saucepan over low heat, stirring occasionally.",
+    "Pour the melted Mars bars into the baked tart crust.",
+    "Sprinkle the zesty earthy spice blend and Venezuelan coffee over the top of the tart.",
+    "Bake for an additional 5-7 minutes, or until the filling is set.",
+    "Let the tart cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "south-american",
+    "dessert",
+    "mars-bar",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-venezuelan-mars-bar-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:09:35.675Z"
+}
