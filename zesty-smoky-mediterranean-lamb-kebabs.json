@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-smoky-mediterranean-lamb-kebabs",
+  "title": "Smoky Lamb Kebabs",
+  "description": "Juicy lamb skewers marinated in smoky flavors and grilled to perfection. Serve with a side of zesty tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Trim excess fat"
+    },
+    {
+      "name": "Zesty Greek yogurt marinade",
+      "amount": "1 cup",
+      "notes": "Mix with 2 tbsp olive oil, 2 tbsp lemon juice, 1 tsp oregano"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 tsp",
+      "notes": "Add to marinade for extra flavor"
+    },
+    {
+      "name": "Kebab skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season lamb cubes before threading onto skewers"
+    },
+    {
+      "name": "Mediterranean salad (optional)",
+      "amount": "to serve",
+      "notes": "Toss with olive oil, lemon juice, salt, and pepper"
+    },
+    {
+      "name": "Tzatziki sauce (optional)",
+      "amount": "to serve",
+      "notes": "Mix with cucumber, garlic, dill, yogurt, lemon juice, and olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F/190°C).",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with zesty yogurt marinade and sprinkle with smoky paprika.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches medium-rare (130°F/54°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve with a side of Mediterranean salad or tzatziki sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:16:59.539Z"
+}
