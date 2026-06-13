@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-snappy-japanese-mixed-berries-takikomi-gohan",
+  "title": "Japanese Takikomi Rice Bowl",
+  "description": "A flavorful and nutritious Japanese-inspired rice bowl dish, featuring mixed vegetables and savory takikomi rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Vegetables (Takikomi Gohan)",
+      "amount": "1 cup",
+      "notes": "any combination of carrots, peas, corn, and green beans"
+    },
+    {
+      "name": "Japanese Mixed Rice (Gohan)",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook the Japanese mixed rice according to the package instructions.",
+    "2. Heat the sesame oil in a pan over medium heat.",
+    "3. Add the mixed vegetables and cook until tender.",
+    "4. Add the cooked Japanese mixed rice to the pan and stir-fry for 2-3 minutes.",
+    "5. Season with soy sauce to taste.",
+    "6. Transfer the rice mixture to a serving bowl.",
+    "7. Garnish with chopped green onions.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "rice-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-snappy-japanese-mixed-berries-takikomi-gohan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:51:51.732Z"
+}
