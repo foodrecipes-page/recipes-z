@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-dense-slovakian-meat-stew",
+  "title": "Slovakian Meat Stew",
+  "description": "A hearty and flavorful stew originating from Slovakia, made with tender meat and rich vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Beef brisket",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the Slovakian sausage and beef brisket, then set aside.",
+    "Add more oil if needed, then sauté the onions and carrots until tender.",
+    "Add the potatoes, tomatoes, red wine, and beef broth to the pot.",
+    "Return the browned meat to the pot and bring to a boil.",
+    "Cover and transfer to the oven, cooking at 300°F for 2.5 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "beef",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-slovakian-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:17:26.689Z"
+}
