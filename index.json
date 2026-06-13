@@ -1191,16 +1191,14 @@
   },
   {
     "slug": "zesty-bouncy-greek-beef-stifado",
-    "title": "Zesty Bouncy Greek Beef Stifado",
+    "title": "Greek Stifado Beef Stew",
     "tags": [
+      "greek",
       "beef-stew",
-      "greek-cuisine",
-      "kid-friendly",
-      "one-pot",
-      "weeknight-dinner"
+      "comfort-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 110,
+    "totalTimeMin": 105,
     "shard": "z"
   },
   {
@@ -6493,16 +6491,16 @@
   },
   {
     "slug": "zesty-greek-chicken-wrap",
-    "title": "Zesty Greek Chicken Wrap",
+    "title": "Greek Chicken Wrap",
     "tags": [
-      "hangover-cure",
-      "high-protein",
-      "mediterranean",
-      "quick",
-      "weeknight"
+      "greek",
+      "chicken",
+      "wrap",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "cuisine": "greek",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -13116,17 +13114,15 @@
   },
   {
     "slug": "zesty-tender-argentinian-beef-empanadas",
-    "title": "Zesty Tender Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "argentinian",
+      "beef",
+      "empanadas",
+      "snack"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
