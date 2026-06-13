@@ -11054,16 +11054,16 @@
   },
   {
     "slug": "zesty-silky-croatian-shiitake-mushroom-wrap",
-    "title": "Zesty Silky Croatian Shiitake Mushroom Wrap",
+    "title": "Croatian Mushroom Wrap",
     "tags": [
-      "croatian-cuisine",
-      "halal-friendly",
-      "healthy-snacks",
-      "mushroom-recipes",
-      "post-workout"
+      "mushroom",
+      "wrap",
+      "lunch",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
@@ -12328,17 +12328,14 @@
   },
   {
     "slug": "zesty-snappy-japanese-mixed-berries-takikomi-gohan",
-    "title": "Zesty Snappy Japanese Mixed Berries Takikomi Gohan",
+    "title": "Japanese Takikomi Rice Bowl",
     "tags": [
-      "grilled-chicken",
-      "japanese-cuisine",
-      "low-fat",
-      "mixed-berries",
-      "one-pot",
-      "umami-flavors"
+      "japanese",
+      "rice-bowl",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
