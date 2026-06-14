@@ -1,0 +1,59 @@
+{
+  "slug": "zesty-silky-canadian-passion-fruit-pudding",
+  "title": "Canadian Pudding Parfait",
+  "description": "A layered dessert of silky Canadian pudding, fresh fruit, and a hint of zesty passion. Perfect for warm weather.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian pudding",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Passion fruit",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh fruit (strawberries, blueberries)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Zesty syrup",
+      "amount": "20ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the Canadian pudding and zesty syrup until well combined.",
+    "Cut the passion fruit in half and scoop out the pulp and seeds.",
+    "In a glass or parfait dish, create a layer of the pudding mixture.",
+    "Top with a layer of fresh fruit.",
+    "Repeat the layers two more times, ending with a layer of fresh fruit on top.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "pudding",
+    "parfait",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-canadian-passion-fruit-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:34:34.323Z"
+}
