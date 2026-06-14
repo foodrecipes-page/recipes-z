@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-grassy-irish-lamb-tagine",
+  "title": "Lamb Tagine with Zesty Herbs",
+  "description": "A flavorful and aromatic North African-inspired stew made with lamb, zesty herbs, and grassy notes.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2tbsp",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "make sure to include zesty herbs"
+    },
+    {
+      "name": "grassy parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "zesty lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes. Remove and set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Return the lamb to the pot and add the lemon juice. Stir to combine.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake for 1 hour, or until the lamb is tender.",
+    "Stir in the parsley and serve hot.",
+    "Serve over couscous or rice, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "herbs",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grassy-irish-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:54:44.554Z"
+}
