@@ -4348,17 +4348,15 @@
   },
   {
     "slug": "zesty-dense-slovakian-pork-bake",
-    "title": "Zesty Dense Slovakian Pork Bake",
+    "title": "Slovakian Zesty Pork Bake",
     "tags": [
-      "comfort-food",
-      "hearty-dish",
-      "one-pan",
-      "pork-recipe",
-      "slovakian-cuisine",
-      "wine-based"
+      "slovakian",
+      "pork",
+      "bake",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -10319,17 +10317,14 @@
   },
   {
     "slug": "zesty-roasted-filipino-pinto-beans-halo-halo",
-    "title": "Zesty Roasted Filipino Pinto Beans Halo Halo",
+    "title": "Halo Halo Filipino Dessert",
     "tags": [
-      "comfort-food",
-      "filipino-food",
-      "halal-friendly",
-      "pinto-beans",
-      "roasted-vegetables",
-      "snack-ideas"
+      "filipino",
+      "dessert",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
