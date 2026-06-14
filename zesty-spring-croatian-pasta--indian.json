@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-spring-croatian-pasta--indian",
+  "title": "Croatian Pasta with a Zesty Twist",
+  "description": "A unique fusion of Indian and Croatian flavors in this zesty pasta dish, perfect for a quick weeknight meal.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian pasta",
+      "amount": "8 oz",
+      "notes": "Choose a robust pasta shape like penne or rigatoni"
+    },
+    {
+      "name": "Zesty tomato sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought, whichever suits your taste"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced, for added crunch"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Add a warm Indian touch to the dish"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 tsp",
+      "notes": "Another Indian spice blend to enhance the flavors"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to your liking"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for the best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing the onions and spices"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the Croatian pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the spring onions until they start to soften.",
+    "Add the cumin and garam masala to the skillet and stir to combine.",
+    "Add the zesty tomato sauce to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and garnish with chopped fresh cilantro.",
+    "Serve hot and enjoy!",
+    "Optional: Add some diced chicken or shrimp to the pasta for added protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "croatian",
+    "pasta",
+    "weeknight-meal",
+    "quick-and-easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:48:42.995Z"
+}
