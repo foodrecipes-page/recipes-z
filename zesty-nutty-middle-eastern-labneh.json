@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-nutty-middle-eastern-labneh",
+  "title": "Labneh and Middle Eastern Zesty Wrap",
+  "description": "A flavorful and refreshing wrap filled with creamy labneh, crunchy vegetables and a zesty eastern twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Labneh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty eastern sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1"
+    },
+    {
+      "name": "Middle eastern olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together the labneh, zesty eastern sauce and sumac.",
+    "2. Slice the cucumber and red onion into thin strips.",
+    "3. Add the sliced cucumber and red onion to the bowl with the labneh mixture and mix well.",
+    "4. Spoon the labneh mixture onto the pita bread.",
+    "5. Top with mixed greens, middle eastern olives and a sprinkle of nutmeg.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "veggie",
+    "gluten free",
+    "easy lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-middle-eastern-labneh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:07:03.849Z"
+}
