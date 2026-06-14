@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-spring-croatian-pasta--german",
+  "title": "German Spring Pasta Bake",
+  "description": "A hearty and flavorful German-inspired pasta bake, featuring zesty spring flavors and a satisfying Croatian twist. Perfect for a family dinner or a cozy evening in.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "zesty croatian cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the spring pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and bell pepper, cooking until tender.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Stir in the zesty Croatian cheese until melted and well combined.",
+    "Add the cooked pasta to the skillet, tossing to coat with the cheese and vegetable mixture.",
+    "Transfer the pasta mixture to a baking dish and top with chopped parsley.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown and the cheese is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "spring",
+    "pasta",
+    "cheesy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:42:24.590Z"
+}
