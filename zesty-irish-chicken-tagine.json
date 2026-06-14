@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-irish-chicken-tagine",
+  "title": "Irish Chicken Tagine",
+  "description": "A twist on the classic Moroccan dish, this Irish Chicken Tagine combines the rich flavors of the Irish countryside with the bold spices of North Africa.",
+  "cuisine": "Irish-Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty lemon",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat. Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken from pot and set aside. Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add lemon juice, broth, and spice blend to pot. Stir to combine.",
+    "Return chicken to pot and bring to a boil.",
+    "Cover pot and transfer to oven. Braise at 300°F for 20-25 minutes, or until chicken is cooked through.",
+    "Garnish with parsley and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "irish",
+    "moroccan",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:18:31.129Z"
+}
