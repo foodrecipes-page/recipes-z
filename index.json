@@ -335,18 +335,16 @@
   },
   {
     "slug": "zero-fuss-japanese-king-prawns-poke",
-    "title": "Zero Fuss Japanese King Prawns Poke",
+    "title": "Easy Poke Bowl with Prawns",
     "tags": [
-      "easy-dinner",
-      "japanese-cuisine",
-      "quick-fix",
-      "seafood-lovers",
-      "vegetarian-friendly",
-      "weeknight-meal",
-      "wood-fired"
+      "poke",
+      "prawns",
+      "japanese",
+      "sushi",
+      "gluten-free"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -7025,17 +7023,15 @@
   },
   {
     "slug": "zesty-irish-chicken-tagine",
-    "title": "Zesty Irish Chicken Tagine",
+    "title": "Irish Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "irish-cuisine",
-      "one-pot",
-      "post-workout",
-      "sugar-free",
-      "tagine-cooking"
+      "chicken",
+      "irish",
+      "moroccan",
+      "one-pot"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "Irish-Moroccan",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
