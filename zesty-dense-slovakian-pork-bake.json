@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-dense-slovakian-pork-bake",
+  "title": "Slovakian Zesty Pork Bake",
+  "description": "A hearty and flavorful Slovakian dish featuring pork, zesty ingredients, and a crispy bake.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dense bread crumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with garlic powder, black pepper, and thyme.",
+    "In a small bowl, mix together zesty mustard, caraway seeds, and olive oil.",
+    "Brush the mustard mixture evenly over the pork shoulder.",
+    "Roll the pork shoulder in dense bread crumbs, pressing gently to adhere.",
+    "Place the pork shoulder in a baking dish and roast for 20 minutes.",
+    "Reduce oven temperature to 375°F (190°C) and continue roasting for an additional 20-25 minutes, or until the internal temperature reaches 160°F (71°C).",
+    "Let the pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-slovakian-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:05:52.554Z"
+}
