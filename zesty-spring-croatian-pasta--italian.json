@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-spring-croatian-pasta--italian",
+  "title": "Croatian Spring Pasta Bake",
+  "description": "A light and flavorful Italian-inspired pasta bake with Croatian spring flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring pasta",
+      "amount": "8 oz",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "zesty croatian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking pasta and adding flavor"
+    },
+    {
+      "name": "spring garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "croatian spring herbs",
+      "amount": "1 tsp",
+      "notes": "dried or 2 tbsp fresh herbs"
+    },
+    {
+      "name": "grated romano cheese",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook spring pasta according to package instructions until al dente.",
+    "In a large skillet, heat 1 tbsp zesty croatian olive oil over medium heat.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add chopped spring onions and cook for 3-4 minutes, until softened.",
+    "Stir in croatian spring herbs.",
+    "Combine cooked pasta, garlic-onion mixture, and 1 cup grated romano cheese in a large bowl.",
+    "Mix well to combine.",
+    "Transfer pasta mixture to a baking dish and drizzle with remaining 1 tbsp zesty croatian olive oil.",
+    "Top with additional grated romano cheese and bake for 15-20 minutes, until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spring",
+    "croatian",
+    "baked-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:50:19.616Z"
+}
