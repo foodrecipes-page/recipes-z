@@ -6650,15 +6650,12 @@
   },
   {
     "slug": "zesty-grilled-venezuelan-baked-beans-bowl",
-    "title": "Zesty Grilled Venezuelan Baked Beans Bowl",
+    "title": "Venezuelan Bean Bowl",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "vegan-free",
+      "grilled-chicken",
+      "latin-inspired",
+      "bean-bowl"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
@@ -11007,17 +11004,15 @@
   },
   {
     "slug": "zesty-silky-canadian-passion-fruit-pudding",
-    "title": "Zesty Silky Canadian Passion Fruit Pudding",
+    "title": "Canadian Pudding Parfait",
     "tags": [
-      "canadian-desserts",
-      "crowd-pleaser",
-      "dessert",
-      "fodmap-friendly",
-      "gluten-free",
-      "passion-fruit"
+      "canadian",
+      "pudding",
+      "parfait",
+      "dessert"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
