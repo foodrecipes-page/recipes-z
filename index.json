@@ -6385,17 +6385,16 @@
   },
   {
     "slug": "zesty-grassy-irish-lamb-tagine",
-    "title": "Zesty Grassy Irish Lamb Tagine",
+    "title": "Lamb Tagine with Zesty Herbs",
     "tags": [
-      "cedar-plank",
-      "diabetic-friendly",
-      "gluten-free",
-      "irish-recipe",
-      "lamb-dish",
-      "tagine-cooking"
+      "lamb",
+      "tagine",
+      "north-african",
+      "herbs",
+      "stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 200,
+    "cuisine": "North African",
+    "totalTimeMin": 80,
     "shard": "z"
   },
   {
