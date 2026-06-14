@@ -15071,5 +15071,126 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--keto",
+    "title": "Croatian Keto Zesty Spring Pasta",
+    "tags": [
+      "keto",
+      "pasta",
+      "croatian",
+      "spring",
+      "zesty"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--mexican",
+    "title": "Mexican Spring Pasta",
+    "tags": [
+      "mexican",
+      "pasta",
+      "spring",
+      "quick"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--chinese",
+    "title": "Croatian Spring Pasta Stir Fry",
+    "tags": [
+      "chinese",
+      "pasta",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--german",
+    "title": "German Spring Pasta Bake",
+    "tags": [
+      "german",
+      "spring",
+      "pasta",
+      "cheesy",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--french",
+    "title": "Spring Fettuccine with Zesty Croation Cream Sauce",
+    "tags": [
+      "french",
+      "spring",
+      "croatian",
+      "pasta",
+      "cream sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--japanese",
+    "title": "Croatian Spring Pasta",
+    "tags": [
+      "pasta",
+      "vegetarian",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--indian",
+    "title": "Croatian Pasta with a Zesty Twist",
+    "tags": [
+      "indian",
+      "croatian",
+      "pasta",
+      "weeknight-meal",
+      "quick-and-easy",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--italian",
+    "title": "Croatian Spring Pasta Bake",
+    "tags": [
+      "italian",
+      "spring",
+      "croatian",
+      "baked-pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--vegetarian",
+    "title": "Spring Pasta Primavera",
+    "tags": [
+      "spring",
+      "vegetarian",
+      "pasta",
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
