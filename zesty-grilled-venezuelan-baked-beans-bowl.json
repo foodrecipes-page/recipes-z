@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-grilled-venezuelan-baked-beans-bowl",
+  "title": "Venezuelan Bean Bowl",
+  "description": "A hearty and flavorful bean bowl inspired by Venezuelan cuisine, featuring grilled chicken and a variety of spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "large, deep bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill chicken breast for 5-6 minutes per side, or until cooked through.",
+    "In a large skillet, heat zesty sauce over medium heat.",
+    "Add diced red onion and bell pepper to the skillet and cook until tender.",
+    "Add black beans to the skillet and stir to combine.",
+    "Warm cooked rice according to package instructions.",
+    "Assemble the bean bowl by placing a scoop of rice in the bottom of the bowl, followed by grilled chicken, black bean mixture, and shredded cheese (if using).",
+    "Drizzle zesty sauce over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-free",
+    "grilled-chicken",
+    "latin-inspired",
+    "bean-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grilled-venezuelan-baked-beans-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T08:17:50.172Z"
+}
