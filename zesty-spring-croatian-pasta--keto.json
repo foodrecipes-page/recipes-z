@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-spring-croatian-pasta--keto",
+  "title": "Croatian Keto Zesty Spring Pasta",
+  "description": "A keto pasta dish with a twist of Croatian flavors, featuring zesty and spring ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Choose a keto-friendly pasta option"
+    },
+    {
+      "name": "Croatian prosciutto",
+      "amount": "6 slices",
+      "notes": "High-quality, cured pork for a smoky flavor"
+    },
+    {
+      "name": "Spring onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice for added crunch"
+    },
+    {
+      "name": "Zesty garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for a pungent flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated for a rich, savory flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality, cold-pressed oil for added richness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the pasta according to the package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the Croatian prosciutto and cook until crispy, about 3-4 minutes. Remove from heat and set aside.",
+    "Add the spring onion to the skillet and cook until softened, about 2-3 minutes.",
+    "Add the zesty garlic and cook for an additional minute, until fragrant.",
+    "Add the cooked pasta to the skillet and toss with the onion and garlic mixture.",
+    "Return the crispy prosciutto to the skillet and toss with the pasta.",
+    "Transfer the pasta mixture to a baking dish and top with Parmesan cheese.",
+    "Bake in the preheated oven for 5-7 minutes, until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pasta",
+    "croatian",
+    "spring",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:36:18.907Z"
+}
