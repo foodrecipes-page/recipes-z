@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-roasted-filipino-pinto-beans-halo-halo",
+  "title": "Halo Halo Filipino Dessert",
+  "description": "A Filipino-inspired dessert featuring a variety of beans and fruits, topped with a sweet and creamy halo halo sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pinto Beans",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Halo Halo Sauce",
+      "amount": "1 cup store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Coconut",
+      "amount": "1/2 cup shredded",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Sliced Mango",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Jackfruit",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Halo",
+      "amount": "1 cup",
+      "notes": "sweetened condensed milk"
+    },
+    {
+      "name": "Zesty Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Icing Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large serving bowl, combine cooked pinto beans, roasted coconut, sliced mango, sliced jackfruit, and sesame seeds.",
+    "In a separate bowl, mix together halo halo sauce and sugar until well combined.",
+    "Pour the halo halo sauce mixture over the bean and fruit mixture.",
+    "Drizzle zesty lime juice over the top of the mixture.",
+    "Sprinkle icing sugar over the top of the mixture.",
+    "Serve immediately and enjoy!",
+    "Note: You can customize the toppings to your liking. Some popular options include diced pineapple, chopped nuts, or shaved ice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-filipino-pinto-beans-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:06:17.081Z"
+}
