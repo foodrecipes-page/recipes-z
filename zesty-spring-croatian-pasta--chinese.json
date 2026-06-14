@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-spring-croatian-pasta--chinese",
+  "title": "Croatian Spring Pasta Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with zesty Croatian spring onions and delicious pasta. This dish is perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian spring onions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Cooked al dente"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tbsp",
+      "notes": "Soy sauce"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped spring onions and cook until they start to soften, about 3-4 minutes.",
+    "Add the cooked pasta to the skillet or wok and stir to combine with the spring onions.",
+    "In a small bowl, whisk together the zesty (soy sauce), sesame oil, and grated ginger.",
+    "Pour the sauce over the pasta and spring onions, and stir to combine.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in the chopped cilantro and serve hot.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pasta",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:41:35.737Z"
+}
