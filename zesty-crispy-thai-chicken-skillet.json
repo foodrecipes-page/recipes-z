@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-crispy-thai-chicken-skillet",
+  "title": "Crispy Thai Chicken Skillet",
+  "description": "A flavorful and spicy skillet dish made with crispy chicken, zesty vegetables, and a blend of Thai seasonings.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "zesty vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat zesty vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Thai red curry paste to the skillet and cook for 1-2 minutes.",
+    "Add the crispy fried shallots, fish sauce, and brown sugar to the skillet and cook for an additional 1-2 minutes.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook until the chicken is cooked through, about 5-7 minutes.",
+    "Stir in the chopped Thai basil and cook for an additional 1 minute.",
+    "Serve the crispy Thai chicken skillet hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "skillet",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-thai-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:52:24.189Z"
+}
