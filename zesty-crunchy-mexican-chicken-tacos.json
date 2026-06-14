@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-crunchy-mexican-chicken-tacos",
+  "title": "Crunchy Mexican Chicken Tacos",
+  "description": "A flavorful and crunchy twist on traditional tacos, featuring shredded chicken, crunchy slaw, and a zesty drizzle. Perfect for a quick and delicious meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "zesty ranch seasoning",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "tacos shells",
+      "amount": "8-10 shells",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken with zesty ranch seasoning and cook in the oven for 20-25 minutes, or until cooked through.",
+    "Meanwhile, mix shredded cabbage and carrots in a bowl.",
+    "Warm tacos shells according to package instructions.",
+    "Shred cooked chicken into bite-sized pieces.",
+    "Assemble tacos by spooning chicken onto a shell, followed by a spoonful of slaw, and a drizzle of lime juice.",
+    "Top with cheese, sour cream, and diced avocado, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "chicken",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:09:05.645Z"
+}
