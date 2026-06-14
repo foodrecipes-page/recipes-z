@@ -1,0 +1,79 @@
+{
+  "slug": "zero-fuss-japanese-king-prawns-poke",
+  "title": "Easy Poke Bowl with Prawns",
+  "description": "A simple and flavorful poke bowl made with marinated prawns, served on a bed of sushi rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns (250g)",
+      "amount": "1 cup",
+      "notes": "Large prawns, peeled and deveined"
+    },
+    {
+      "name": "Sushi rice (250g)",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Zero-calorie soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium alternative"
+    },
+    {
+      "name": "Fuss-free sesame oil",
+      "amount": "1 tsp",
+      "notes": "Lightly toasted for flavor"
+    },
+    {
+      "name": "Japanese sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted for garnish"
+    },
+    {
+      "name": "King brown sugar",
+      "amount": "1 tsp",
+      "notes": "Optional, for added sweetness"
+    },
+    {
+      "name": "Poke seasoning mix",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, sesame oil, sesame seeds, brown sugar, and poke seasoning.",
+    "Add the prawns to the marinade and toss to coat. Refrigerate for at least 30 minutes.",
+    "Cook sushi rice according to package instructions.",
+    "Divide the cooked sushi rice into individual bowls.",
+    "Top the rice with marinated prawns, avocado slices, and pickled ginger (optional).",
+    "Garnish with toasted sesame seeds and a sprinkle of poke seasoning.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poke",
+    "prawns",
+    "japanese",
+    "sushi",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-fuss-japanese-king-prawns-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:04:23.434Z"
+}
