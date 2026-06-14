@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-slovakian-pork-stew",
+  "title": "Pork Stew with a Twist",
+  "description": "A hearty Slovakian-inspired stew packed with tender pork and a hint of zesty flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zesty sausage",
+      "amount": "1/2 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add pork and cook until browned, about 5 minutes.",
+    "Add onion, carrot, and potato; cook for 5 minutes.",
+    "Add zesty sausage; cook for 1 minute.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add beef broth, salt, and pepper; stir to combine.",
+    "Bring to a boil; cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours or until pork is tender.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "stew",
+    "slovakian",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:31:09.733Z"
+}
