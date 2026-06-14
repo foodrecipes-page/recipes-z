@@ -8912,18 +8912,15 @@
   },
   {
     "slug": "zesty-moroccan-chicken-leg-tagine",
-    "title": "Zesty Moroccan Chicken Leg Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
       "chicken",
-      "claypot",
-      "dairy-free",
-      "gluten-free",
       "moroccan",
-      "one-pot",
-      "post-workout"
+      "tagine",
+      "gluten-free"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -9335,17 +9332,15 @@
   },
   {
     "slug": "zesty-nutty-middle-eastern-labneh",
-    "title": "Zesty Nutty Middle Eastern Labneh",
+    "title": "Labneh and Middle Eastern Zesty Wrap",
     "tags": [
-      "breakfast",
-      "brunch",
-      "easy",
-      "gluten-free",
-      "middle-eastern",
-      "vegetarian"
+      "middle eastern",
+      "veggie",
+      "gluten free",
+      "easy lunch"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
@@ -11345,17 +11340,16 @@
   },
   {
     "slug": "zesty-slovakian-pork-stew",
-    "title": "Zesty Slovakian Pork Stew",
+    "title": "Pork Stew with a Twist",
     "tags": [
-      "buddhist-friendly",
-      "cazuela-recipe",
-      "coconut-cream-based",
-      "one-pot",
-      "slovakian-cuisine",
-      "spicy"
+      "pork",
+      "stew",
+      "slovakian",
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
