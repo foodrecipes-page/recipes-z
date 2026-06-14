@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-russian-noodle-tagine",
+  "title": "Russian-Style Tagine Chicken Noodle Soup",
+  "description": "A hearty and comforting soup inspired by Russian and Moroccan flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "noodle",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "zesty lemon",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken, onion, and tagine spice mix.",
+    "Cook over medium heat until the chicken is browned.",
+    "Add lemon juice, chicken broth, salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add noodles and cook according to package instructions.",
+    "Return the chicken to the pot and cook for an additional 5 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with lemon wedges and chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-style",
+    "tagine",
+    "chicken-noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-russian-noodle-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:27:45.629Z"
+}
