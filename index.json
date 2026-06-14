@@ -754,16 +754,14 @@
   },
   {
     "slug": "zesty-american-chicken-sandwich",
-    "title": "Zesty American Chicken Sandwich",
+    "title": "Classic American Chicken Sandwich",
     "tags": [
+      "chicken",
       "american",
-      "comfort-food",
-      "grilled",
-      "low-carb",
-      "quick"
+      "sandwich"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 25,
+    "cuisine": "american",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -3884,17 +3882,15 @@
   },
   {
     "slug": "zesty-crunchy-mexican-chicken-tacos",
-    "title": "Zesty Crunchy Mexican Chicken Tacos",
+    "title": "Crunchy Mexican Chicken Tacos",
     "tags": [
-      "crunchy",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "sour",
-      "weeknight"
+      "mexican",
+      "tacos",
+      "chicken",
+      "easy"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
