@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-spring-croatian-pasta--vegetarian",
+  "title": "Spring Pasta Primavera",
+  "description": "A colorful and flavorful vegetarian pasta dish loaded with spring vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "spring-shaped or similar"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zesty zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into rounds"
+    },
+    {
+      "name": "croatian cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add garlic and sauté until fragrant, about 1 minute.",
+    "Add zucchini, spring onions, and cherry tomatoes to the skillet. Cook until vegetables are tender, about 3-4 minutes.",
+    "Stir in vegetable broth and bring to a simmer. Reduce heat to low and let sauce cook for 2-3 minutes.",
+    "Drain pasta and return it to the pot. Add sauce and toss to combine.",
+    "Season with salt and pepper to taste. Serve hot, topped with parmesan and basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "vegetarian",
+    "pasta",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T09:00:17.473Z"
+}
