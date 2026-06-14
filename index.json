@@ -10621,16 +10621,14 @@
   },
   {
     "slug": "zesty-russian-noodle-tagine",
-    "title": "Zesty Russian Noodle Tagine",
+    "title": "Russian-Style Tagine Chicken Noodle Soup",
     "tags": [
-      "cheesy",
-      "chicken-dish",
-      "comfort-food",
-      "mediterranean-inspired",
-      "one-pot"
+      "russian-style",
+      "tagine",
+      "chicken-noodle-soup"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
