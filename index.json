@@ -3314,17 +3314,16 @@
   },
   {
     "slug": "zesty-crispy-middle-eastern-lamb-fatteh",
-    "title": "Zesty Crispy Middle Eastern Lamb Fatteh",
+    "title": "Middle Eastern Lamb Fatteh",
     "tags": [
-      "high-protein",
-      "lamb-recipes",
+      "lamb",
+      "fatteh",
       "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "dinner",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 135,
     "shard": "z"
   },
   {
@@ -3445,16 +3444,15 @@
   },
   {
     "slug": "zesty-crispy-thai-chicken-skillet",
-    "title": "Zesty Crispy Thai Chicken Skillet",
+    "title": "Crispy Thai Chicken Skillet",
     "tags": [
-      "crispy-chicken",
-      "dinner-ideas",
-      "gluten-free",
-      "one-pan",
-      "thai-inspired"
+      "thai",
+      "chicken",
+      "skillet",
+      "easy-dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
