@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-spring-croatian-pasta--japanese",
+  "title": "Croatian Spring Pasta",
+  "description": "A Japanese twist on a classic pasta dish, featuring zesty spring flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "1 pound",
+      "notes": "such as udon or soba"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Croatian zesty sauce",
+      "amount": "2 cups",
+      "notes": "see notes"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a pan, combine spring onions and Croatian zesty sauce. Heat over low heat.",
+    "Add soy sauce to the pan and stir to combine. Set aside.",
+    "Toss cooked pasta with sesame seeds and zesty sauce mixture.",
+    "Serve immediately and garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:46:04.491Z"
+}
