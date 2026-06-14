@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-spring-croatian-pasta--mexican",
+  "title": "Mexican Spring Pasta",
+  "description": "A delicious and quick Mexican-inspired pasta dish with spring flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring pasta",
+      "amount": "1 pound",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "croatian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "zesty tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced and drained"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the spring pasta according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of Croatian olive oil over medium-high heat.",
+    "Add the diced red onion and cook until translucent, about 3-4 minutes.",
+    "Add the cumin and chili powder and cook for 1 minute.",
+    "Stir in the diced zesty tomatoes and cook for 2-3 minutes.",
+    "Add the cooked pasta to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "If using, sprinkle shredded cheese on top and serve.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "spring",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T07:39:57.275Z"
+}
