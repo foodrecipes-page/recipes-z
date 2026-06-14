@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-american-chicken-sandwich",
+  "title": "Classic American Chicken Sandwich",
+  "description": "A simple yet satisfying sandwich filled with juicy chicken, crispy lettuce, and creamy mayonnaise.",
+  "cuisine": "american",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "zesty sandwich spread",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "soft sandwich buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt and pepper.",
+    "Grill the chicken for 6-8 minutes per side, or until it reaches a safe internal temperature of 165°F.",
+    "Meanwhile, toast the sandwich buns on the grill.",
+    "Spread 1-2 tablespoons of zesty sandwich spread on the bottom bun.",
+    "Add a few cups of sliced lettuce on top of the spread.",
+    "Once the chicken is cooked, slice it thinly and add it on top of the lettuce.",
+    "Place the top bun on the sandwich and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "american",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-american-chicken-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:55:58.685Z"
+}
