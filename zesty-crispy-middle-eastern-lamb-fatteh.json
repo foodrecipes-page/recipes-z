@@ -1,0 +1,101 @@
+{
+  "slug": "zesty-crispy-middle-eastern-lamb-fatteh",
+  "title": "Middle Eastern Lamb Fatteh",
+  "description": "A flavorful Middle Eastern dish featuring lamb, crispy pita, and creamy yogurt.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "zesty pita chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy pita bread",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fatteh yogurt sauce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt, black pepper, and the middle eastern spice blend.",
+    "Roast the lamb in the oven for 2 hours, or until tender.",
+    "Meanwhile, toast the pita bread in the oven for 5 minutes, or until crispy.",
+    "Chop the toasted pita into small pieces.",
+    "In a large bowl, combine the chopped pita, zesty pita chips, and lemon juice.",
+    "Stir in the fatteh yogurt sauce, chopped parsley, and chopped mint.",
+    "Slice the roasted lamb and serve on top of the fatteh.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "fatteh",
+    "middle-eastern",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-middle-eastern-lamb-fatteh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:43.425Z"
+}
