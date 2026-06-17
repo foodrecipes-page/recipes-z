@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-spanish-lentil-bake",
+  "title": "Zesty Spanish Lentil Bake",
+  "description": "A hearty and flavorful dish that combines the goodness of lentils with the taste of Spain.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bake seasoning blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Saute the onion and bell pepper until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the lentils, rice, tomato sauce, and broth. Stir well.",
+    "Season with bake seasoning blend. Transfer to a baking dish.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "lentil",
+    "vegetarian",
+    "bake"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spanish-lentil-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:29:50.303Z"
+}
