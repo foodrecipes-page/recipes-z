@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-spring-croatian-pasta--thai",
+  "title": "Thai Zesty Spring Pasta",
+  "description": "A light and refreshing Thai-inspired pasta dish, perfect for a quick weeknight meal. The zesty lemon and lime flavors pair well with the spring vegetables.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Zesty lemon zest",
+      "amount": "2 tbsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Croatian olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "1",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the Croatian olive oil over medium-high heat.",
+    "Add the sliced Thai chili peppers and cook for 1-2 minutes until fragrant.",
+    "Add the spring onions and cook for an additional 2-3 minutes until tender.",
+    "Stir in the zesty lemon zest and lime juice.",
+    "Drain the cooked pasta and add it to the skillet with the vegetable mixture.",
+    "Toss to combine and season with salt to taste.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "spring",
+    "zesty",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T08:16:56.711Z"
+}
