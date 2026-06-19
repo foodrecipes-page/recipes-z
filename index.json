@@ -15190,5 +15190,44 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--thai",
+    "title": "Spring Vegetable Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "spring-vegetables"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--gluten-free",
+    "title": "Spring Pasta with Zesty Sauce",
+    "tags": [
+      "italian",
+      "gluten-free",
+      "spring",
+      "pasta",
+      "zesty"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spring-croatian-pasta--vegan",
+    "title": "Vegan Spring Pasta Salad",
+    "tags": [
+      "vegan",
+      "spring",
+      "pastasalad"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 23,
+    "shard": "z"
   }
 ]
