@@ -1,81 +1,89 @@
 {
   "slug": "zesty-spring-croatian-pasta--thai",
-  "title": "Thai Zesty Spring Pasta",
-  "description": "A light and refreshing Thai-inspired pasta dish, perfect for a quick weeknight meal. The zesty lemon and lime flavors pair well with the spring vegetables.",
-  "cuisine": "Thai",
-  "diet": null,
+  "title": "Spring Vegetable Stir Fry",
+  "description": "A light and refreshing Thai-inspired stir fry made with spring vegetables and zesty flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Pasta",
+      "name": "Pasta (rice noodles or egg noodles)",
       "amount": "8 oz",
-      "notes": ""
+      "notes": "preferably fresh or stored in a dry place"
     },
     {
-      "name": "Spring onions",
+      "name": "Spring onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Croatian red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zesty Thai red chili",
       "amount": "2",
-      "notes": ""
+      "notes": "thinly sliced"
     },
     {
-      "name": "Zesty lemon zest",
+      "name": "Vegetable oil",
       "amount": "2 tbsp",
-      "notes": "Freshly grated"
+      "notes": "for frying"
     },
     {
-      "name": "Lime juice",
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
       "amount": "2 tbsp",
-      "notes": ""
+      "notes": "or to taste"
     },
     {
-      "name": "Croatian olive oil",
-      "amount": "1 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": ""
-    },
-    {
-      "name": "Fresh cilantro",
-      "amount": "handful",
-      "notes": ""
-    },
-    {
-      "name": "Thai chili peppers",
-      "amount": "1",
-      "notes": "Sliced"
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
-    "In a large skillet, heat the Croatian olive oil over medium-high heat.",
-    "Add the sliced Thai chili peppers and cook for 1-2 minutes until fragrant.",
-    "Add the spring onions and cook for an additional 2-3 minutes until tender.",
-    "Stir in the zesty lemon zest and lime juice.",
-    "Drain the cooked pasta and add it to the skillet with the vegetable mixture.",
-    "Toss to combine and season with salt to taste.",
-    "Garnish with fresh cilantro and serve immediately."
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic, ginger, and chili and stir-fry for 1 minute.",
+    "Add the bell pepper and onion and stir-fry for 3-4 minutes.",
+    "Add the noodles and stir-fry for 2-3 minutes.",
+    "Add the soy sauce and honey (if using) and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a serving platter and garnish with chopped fresh herbs (if desired).",
+    "Serve immediately."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 10,
-  "totalTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "thai",
-    "spring",
-    "zesty",
-    "pasta"
+    "stir-fry",
+    "vegetarian",
+    "spring-vegetables"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 12,
-    "carbs": 45,
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-06-19T08:16:56.711Z"
+  "createdAt": "2026-06-19T09:39:16.068Z"
 }
