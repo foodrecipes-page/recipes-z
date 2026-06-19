@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-spring-croatian-pasta--vegan",
+  "title": "Vegan Spring Pasta Salad",
+  "description": "A refreshing and light vegan pasta salad perfect for spring, made with zesty spring vegetables and croatian pasta.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian pasta",
+      "amount": "8 oz",
+      "notes": "Choose a vegan-friendly pasta option"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zesty bell peppers",
+      "amount": "2",
+      "notes": "Green, red, and yellow"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Vegan Italian dressing",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Cook the Croatian pasta according to package instructions.",
+    "In a large bowl, combine the cooked pasta, spring onions, bell peppers, cucumber, and tomato.",
+    "In a small bowl, whisk together the vegan Italian dressing and a pinch of salt.",
+    "Pour the dressing over the pasta mixture and toss to combine.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "spring",
+    "pastasalad"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T08:59:34.559Z"
+}
