@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-spring-croatian-pasta--gluten-free",
+  "title": "Spring Pasta with Zesty Sauce",
+  "description": "A simple, gluten-free pasta dish, perfect for a light lunch or dinner. This recipe combines the flavors of spring with the tanginess of zesty sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Zesty Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spring Crostini",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the zesty sauce over medium heat. Add the spring crostini and cook for 2-3 minutes, until slightly toasted.",
+    "Add the cooked pasta to the skillet with the zesty sauce. Toss to combine.",
+    "Top the pasta with fresh parsley and parmesan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "gluten-free",
+    "spring",
+    "pasta",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-croatian-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T08:27:09.315Z"
+}
