@@ -9609,16 +9609,15 @@
   },
   {
     "slug": "zesty-peruvian-fish-papillote",
-    "title": "Zesty Peruvian Fish Papillote",
+    "title": "Peruvian Fish Papillote",
     "tags": [
-      "date-night",
-      "fish-recipes",
-      "papillote-cooking",
-      "peruvian-cuisine",
-      "zesty-flavors"
+      "peruvian",
+      "fish",
+      "papillote",
+      "zesty"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "cuisine": "peruvian",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
