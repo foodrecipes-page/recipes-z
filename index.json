@@ -1852,15 +1852,14 @@
   },
   {
     "slug": "zesty-char-grilled-chicken-sandwich",
-    "title": "Zesty Char-Grilled Chicken Sandwich",
+    "title": "Grilled Chicken Sandwich",
     "tags": [
-      "char-grilled",
-      "lazy-sunday",
-      "raw-friendly",
-      "turkish-dish"
+      "grilled",
+      "chicken",
+      "sandwich"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 38,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -8397,17 +8396,16 @@
   },
   {
     "slug": "zesty-mexican-palm-sugar-mole-poblano",
-    "title": "Zesty Mexican Palm Sugar Mole Poblano",
+    "title": "Poblanos with Mole Sauce",
     "tags": [
-      "adventurous",
-      "herbal",
+      "poblanos",
+      "mole-sauce",
       "mexican-cuisine",
-      "one-pot",
-      "spicy",
-      "vegan-friendly"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
