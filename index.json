@@ -2538,18 +2538,16 @@
   },
   {
     "slug": "zesty-creamy-moroccan-lamb-roast",
-    "title": "Zesty Creamy Moroccan Lamb Roast",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "creamy",
-      "festive",
-      "high-protein",
+      "lamb",
       "moroccan",
-      "one-pan",
-      "shortcrust",
-      "zesty"
+      "cumin",
+      "coriander",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 120,
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
@@ -6066,16 +6064,15 @@
   },
   {
     "slug": "zesty-golden-argentinian-seitan-empanadas",
-    "title": "Zesty Golden Argentinian Seitan Empanadas",
+    "title": "Argentinian Seitan Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "crispy-snack",
-      "hangover-cure",
-      "high-heat",
-      "vegan-friendly"
+      "argentinian",
+      "empanadas",
+      "seitan",
+      "golden"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -8566,18 +8563,15 @@
   },
   {
     "slug": "zesty-middle-eastern-milk-fattoush",
-    "title": "Zesty Middle Eastern Milk Fattoush",
+    "title": "Classic Fattoush Salad",
     "tags": [
-      "egg-free",
-      "fattoush",
-      "lunch",
-      "middle-eastern",
       "salad",
-      "snack",
-      "vegetarian"
+      "middle-eastern",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -9528,16 +9522,16 @@
   },
   {
     "slug": "zesty-peruvian-beef-stew",
-    "title": "Zesty Peruvian Beef Stew",
+    "title": "Peruvian Beef Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "peruvian-cuisine",
-      "weeknight"
+      "beef",
+      "peruvian",
+      "latin american",
+      "stew",
+      "comfort food"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "cuisine": "latin american",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -11849,16 +11843,16 @@
   },
   {
     "slug": "zesty-smoky-jamaican-chicken-skewers",
-    "title": "Zesty Smoky Jamaican Chicken Skewers",
+    "title": "Jamaican Chicken Skewers",
     "tags": [
-      "grilled-chicken",
-      "jamaican-cuisine",
-      "kosher-friendly",
-      "romantic-dinner",
-      "smoky-flavors"
+      "caribbean",
+      "grilled",
+      "chicken",
+      "skewers",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "caribbean",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
