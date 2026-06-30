@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-creamy-moroccan-lamb-roast",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A flavorful and aromatic tagine made with lamb, inspired by Moroccan cuisine. This dish is perfect for a cold winter evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "zesty olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "creamy yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "roast garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add the olives, yogurt, and 1 cup of water. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Let the tagine rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "cumin",
+    "coriander",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-creamy-moroccan-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:25:44.841Z"
+}
