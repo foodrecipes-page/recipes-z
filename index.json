@@ -3035,18 +3035,16 @@
   },
   {
     "slug": "zesty-crispy-argentinian-broad-beans-empanadas",
-    "title": "Zesty Crispy Argentinian Broad Beans Empanadas",
+    "title": "Argentinian Empanadas with Crispy Beans",
     "tags": [
       "argentinian",
-      "broad-beans",
-      "clay-pot",
       "empanadas",
-      "kid-friendly",
-      "kosher",
-      "talavera-plate"
+      "beans",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -10919,13 +10917,15 @@
   },
   {
     "slug": "zesty-shattering-kenyan-bean-stew",
-    "title": "Zesty Shattering Kenyan Bean Stew",
+    "title": "Kenyan Bean Stew",
     "tags": [
       "kenyan",
-      "dinner"
+      "bean-stew",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "African",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
