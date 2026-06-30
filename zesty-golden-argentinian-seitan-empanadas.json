@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-golden-argentinian-seitan-empanadas",
+  "title": "Argentinian Seitan Empanadas",
+  "description": "A twist on traditional empanadas, filled with savory seitan and served with a side of zesty golden sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Golden Empanada Pastry",
+      "amount": "1 package (12-15 empanada wrappers)"
+    },
+    {
+      "name": "Argentinian Seitan",
+      "amount": "1 package (12 oz)"
+    },
+    {
+      "name": "Zesty Golden Sauce",
+      "amount": "1/2 cup (store-bought or homemade)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the Argentinian seitan according to package instructions.",
+    "Chop the onion and mix with cumin, paprika, and salt.",
+    "Add the chopped onion mixture to the cooked seitan and mix well.",
+    "Place a tablespoon of the seitan mixture onto the center of an empanada wrapper.",
+    "Fold the wrapper in half and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and cut a few slits for ventilation.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Drizzle the zesty golden sauce over the empanadas.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "seitan",
+    "golden"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-golden-argentinian-seitan-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:54:39.863Z"
+}
