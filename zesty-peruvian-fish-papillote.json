@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-peruvian-fish-papillote",
+  "title": "Peruvian Fish Papillote",
+  "description": "A flavorful and moist fish dish, cooked in a Peruvian-style papillote with zesty flavors.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "fish-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Zesty Papillote Sauce",
+      "amount": "4 servings",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Papillote Parchment Paper",
+      "amount": "4 large sheets",
+      "notes": "Fresh and non-stick"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped and fresh"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "High-quality and extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced and fresh"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Sliced Lemons",
+      "amount": "2 lemons",
+      "notes": "For garnish and serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillets with salt, pepper, and a squeeze of lime juice.",
+    "Place a sheet of parchment paper on a flat surface and add a fish fillet in the center.",
+    "Spoon a portion of the zesty papillote sauce over the fish, leaving a small border around the edges.",
+    "Sprinkle chopped cilantro over the sauce and drizzle with olive oil.",
+    "Fold the parchment paper over the fish, creating a tight seal, and fold the edges to create a packet.",
+    "Repeat with the remaining fish fillets and ingredients.",
+    "Place the papillotes on a baking sheet lined with parchment paper and bake for 12-15 minutes or until the fish is cooked through.",
+    "Remove from the oven and garnish with sliced lemons, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "fish",
+    "papillote",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-fish-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:42:59.069Z"
+}
