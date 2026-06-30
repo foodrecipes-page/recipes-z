@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-crisp-mexican-chicken-skewers",
+  "title": "Crispy Chicken Skewers",
+  "description": "Tasty and easy to make, these chicken skewers are perfect for a quick dinner or snack. The zesty flavor pairs well with the crispy exterior.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crisp coating mix",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mexican skewers",
+      "amount": "10-12",
+      "notes": "wood or bamboo"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut chicken into 1-inch cubes and season with zesty seasoning.",
+    "In a separate bowl, mix together crisp coating mix and a pinch of salt and pepper.",
+    "Dip each chicken cube into the coating mix, shaking off excess.",
+    "Thread the coated chicken onto the mexican skewers, leaving a small space between each cube.",
+    "Brush the skewers with olive oil and season with salt and pepper to taste.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until cooked through and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "2-3",
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "mexican",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-mexican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:40:46.944Z"
+}
