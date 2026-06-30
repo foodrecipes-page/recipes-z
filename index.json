@@ -7113,17 +7113,14 @@
   },
   {
     "slug": "zesty-irish-pepper-stew",
-    "title": "Zesty Irish Pepper Stew",
+    "title": "Irish Pepper Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "irish-cuisine",
-      "one-pot",
-      "winter-meal"
+      "irish",
+      "pepper",
+      "stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "cuisine": "irish",
+    "totalTimeMin": 185,
     "shard": "z"
   },
   {
