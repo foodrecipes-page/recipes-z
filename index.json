@@ -676,16 +676,14 @@
   },
   {
     "slug": "zesty-algerian-almond-paste-toast",
-    "title": "Zesty Algerian Almond Paste Toast",
+    "title": "Algerian Toast with Almond Paste",
     "tags": [
-      "almond-paste",
-      "kadhai",
-      "north-african",
-      "quick",
+      "algerian",
       "snack",
-      "sugar-free"
+      "bread",
+      "almond"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "algerian",
     "totalTimeMin": 10,
     "shard": "z"
   },
@@ -6330,18 +6328,16 @@
   },
   {
     "slug": "zesty-grapeseated-garlic-salad",
-    "title": "Zesty Grapeseated Garlic Salad",
+    "title": "Grapeseed Crusted Chicken Salad",
     "tags": [
-      "zesty",
-      "grape-seated",
-      "garlic",
-      "energizing",
-      "venezuelan",
-      "folded",
-      "fodmap-friendly"
+      "salad",
+      "chicken",
+      "grapeseed",
+      "crust",
+      "easy"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -12584,17 +12580,16 @@
   },
   {
     "slug": "zesty-spicy-tunisian-lamb-tagine",
-    "title": "Zesty Spicy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "cheesy-pull",
-      "lamb-recipes",
-      "paleo-friendly",
-      "spicy-food",
-      "tunisian-cuisine",
-      "wood-fired"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew",
+      "braise"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 240,
     "shard": "z"
   },
   {
