@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-irish-pepper-stew",
+  "title": "Irish Pepper Stew",
+  "description": "A hearty and comforting stew from the Emerald Isles, perfect for a chilly evening. This dish combines tender beef with the warmth of peppers and spices.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty yellow pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "irish stew pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting meat"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for thinning broth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Dust beef cubes with flour, shaking off excess.",
+    "In a large Dutch oven, brown beef in batches over medium-high heat, removing as browned.",
+    "Add sliced peppers and onion to pot, cooking until vegetables are tender.",
+    "Add beef broth, water, and browned beef to pot.",
+    "Bring mixture to a boil, then cover and transfer to preheated oven.",
+    "Bake for 2 1/2 hours, or until beef is tender.",
+    "Add potatoes to pot and continue to bake for 30 minutes, or until they're tender.",
+    "Season stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "pepper",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-pepper-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:56:45.561Z"
+}
