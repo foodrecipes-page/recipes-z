@@ -1,0 +1,102 @@
+{
+  "slug": "zesty-peruvian-beef-stew",
+  "title": "Peruvian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Peru, featuring tender beef and a zesty twist.",
+  "cuisine": "latin american",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lacto-ovo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "zesty peruvian tomato paste"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot, then sauté the chopped onion and minced garlic until softened, about 5 minutes.",
+    "Add the tomato paste and stir to combine, cooking for 1 minute.",
+    "Add the beef broth, browned beef, potatoes, red bell pepper, aji amarillo pepper, salt, and black pepper to the pot.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peruvian",
+    "latin american",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 45,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:16:49.265Z"
+}
