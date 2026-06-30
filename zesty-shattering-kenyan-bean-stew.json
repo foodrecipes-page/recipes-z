@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-shattering-kenyan-bean-stew",
+  "title": "Kenyan Bean Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with a variety of beans and spices.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean",
+      "amount": "1 cup (250g)"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "such as hot sauce or lemon juice"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup (250g)",
+      "notes": "such as diced tomatoes"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 teaspoon",
+      "notes": "such as ground ginger or cumin"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups (500ml)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook for 3-4 minutes until softened.",
+    "Add bean, stew, zesty, kenyan, salt, and black pepper. Cook for 1-2 minutes.",
+    "Add water, bring to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "Season to taste and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "bean-stew",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-shattering-kenyan-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:17:09.929Z"
+}
