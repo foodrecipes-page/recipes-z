@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-grapeseated-garlic-salad",
+  "title": "Grapeseed Crusted Chicken Salad",
+  "description": "A refreshing and flavorful salad recipe featuring a crispy grapeseed crusted chicken breast served on top of a bed of fresh greens. The zesty dressing and garlic flavor add a delightful twist to this classic dish.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "1 pound total"
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "1/4 cup",
+      "notes": "for crusting"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "zesty vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "for salad base"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "croutons",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together grapeseed oil and garlic powder.",
+    "Dip each chicken breast in the grapeseed mixture, coating both sides evenly.",
+    "Place the coated chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake the chicken in the preheated oven for 20-22 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the salad by combining mixed greens, cherry tomatoes, cucumber slices, and croutons in a large bowl.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "Drizzle zesty vinaigrette over the salad and toss to combine.",
+    "Slice the cooked chicken breast and place on top of the salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "chicken",
+    "grapeseed",
+    "crust",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grapeseated-garlic-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:36:45.460Z"
+}
