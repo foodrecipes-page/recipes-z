@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-mexican-palm-sugar-mole-poblano",
+  "title": "Poblanos with Mole Sauce",
+  "description": "A classic Mexican dish featuring roasted poblano peppers smothered in a rich mole sauce. This recipe is a staple of Mexican cuisine, perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "mole",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "mole spice blend"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "balances the heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "enhances flavors"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Roast the poblano peppers on a baking sheet for 20-25 minutes, or until the skin is blistered and charred.",
+    "3. Remove the peppers from the oven and let them cool in a bowl covered with plastic wrap.",
+    "4. Once cool enough to handle, peel the skin off the peppers and slice them into strips.",
+    "5. In a large skillet, heat the mole over medium heat.",
+    "6. Add the sliced poblanos to the skillet and toss to coat with the mole sauce.",
+    "7. Add the zesty spice blend and sugar to the skillet and toss to combine.",
+    "8. Season with salt to taste.",
+    "9. Serve the poblanos hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "poblanos",
+    "mole-sauce",
+    "mexican-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-palm-sugar-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:43:39.739Z"
+}
