@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-char-grilled-chicken-sandwich",
+  "title": "Grilled Chicken Sandwich",
+  "description": "A classic summer dish featuring a zesty grilled chicken breast served on a toasted sandwich.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, Skinless Chicken Breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Sandwich Buns",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken breasts with salt and pepper.",
+    "Grill the chicken breasts for 6-7 minutes per side or until cooked through.",
+    "Meanwhile, toast the sandwich buns on the grill.",
+    "Assemble the sandwiches by spreading mayonnaise on the bottom bun, followed by a grilled chicken breast, a lettuce leaf, a tomato slice, an avocado slice, and finally the top bun.",
+    "Drizzle with zesty sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-char-grilled-chicken-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:41:35.692Z"
+}
