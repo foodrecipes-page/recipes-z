@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-middle-eastern-milk-fattoush",
+  "title": "Classic Fattoush Salad",
+  "description": "A refreshing Middle Eastern salad made with toasted pita bread, mixed greens, and a zesty dressing. Perfect for a light and healthy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "4 cups",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "such as romaine, arugula, and spinach"
+    },
+    {
+      "name": "Toasted Almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Zesty Tzatziki Sauce",
+      "amount": "2 cups",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut pita bread into 1-inch pieces and toast in oven for 5-7 minutes, or until crispy.",
+    "In a large bowl, combine mixed greens, toasted almonds, crumbled feta cheese, and chopped parsley.",
+    "Drizzle zesty tzatziki sauce over the top and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-milk-fattoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:15:35.631Z"
+}
