@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-crispy-argentinian-broad-beans-empanadas",
+  "title": "Argentinian Empanadas with Crispy Beans",
+  "description": "A fusion of traditional Argentinian empanadas filled with crispy zesty beans, a delightful snack or side dish.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beans",
+      "amount": "1 1/2 cups",
+      "notes": "Broad beans, canned or cooked from scratch"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing empanada dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook broad beans according to package instructions.",
+    "In a pan, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the cooked beans and zesty sauce, stir well.",
+    "Season with salt to taste.",
+    "Roll out empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the bean mixture in the center of each dough circle.",
+    "Fold the dough over the filling, pressing the edges to seal.",
+    "Brush the tops with the remaining 1 tablespoon of olive oil.",
+    "Bake for 20-25 minutes, or until the empanadas are golden brown.",
+    "Optional: Top with crispy breadcrumbs and shredded cheese before baking.",
+    "Garnish with chopped fresh cilantro before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "beans",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-argentinian-broad-beans-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:24:51.574Z"
+}
