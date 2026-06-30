@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-algerian-almond-paste-toast",
+  "title": "Algerian Toast with Almond Paste",
+  "description": "A traditional Algerian snack made with crispy toast, almond paste, and a hint of zesty spice. Easy to make and perfect for a quick bite.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Algerian bread (or similar crusty bread)",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Almond paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zesty spice blend (e.g. ras el hanout)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Butter or oil",
+      "amount": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Brush the bread slices with butter or oil.",
+    "Toast the bread until crispy and lightly browned.",
+    "Spread 1 tablespoon of almond paste on each toasted bread slice.",
+    "Sprinkle 1/4 teaspoon of zesty spice blend on top of the almond paste.",
+    "Drizzle 1/2 tablespoon of water over the spice blend to help it stick.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "snack",
+    "bread",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-algerian-almond-paste-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:19:07.883Z"
+}
