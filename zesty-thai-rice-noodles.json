@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-thai-rice-noodles",
+  "title": "Thai Rice Bowl",
+  "description": "A flavorful Thai-inspired dish made with zesty noodles, fresh vegetables, and savory rice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Zesty Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the Thai Red Curry Paste and cook for 1 minute.",
+    "Add the fish sauce, brown sugar, and salt. Stir well.",
+    "Add the cooked noodles and stir-fry for 2-3 minutes.",
+    "Add the cooked rice to the pan and stir-fry for 2-3 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "rice",
+    "noodles",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-thai-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:15:13.250Z"
+}
