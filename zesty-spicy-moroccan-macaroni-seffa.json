@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-spicy-moroccan-macaroni-seffa",
+  "title": "Spicy Moroccan Macaroni",
+  "description": "A flavorful and spicy pasta dish inspired by Moroccan cuisine. This recipe combines the comfort of macaroni with the bold flavors of North Africa.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "seffa",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to package instructions until al dente.",
+    "In a large skillet, heat the seffa over medium heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chili flakes, cumin, paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the cooked macaroni to the skillet and toss to coat with the spice mixture.",
+    "Cook for an additional 2-3 minutes, until the macaroni is well coated and heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "spicy",
+    "pasta"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spicy-moroccan-macaroni-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:24:50.202Z"
+}
