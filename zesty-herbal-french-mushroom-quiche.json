@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-herbal-french-mushroom-quiche",
+  "title": "French Quiche with Mushroom and Zesty Herbs",
+  "description": "A savory French quiche filled with sautéed mushrooms and infused with zesty herbs, perfect for a weekend brunch or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French pie crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zesty herbs",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3",
+      "notes": "beaten"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": "Gruyère or Cheddar"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a tart pan.",
+    "Sauté the mushrooms in butter until tender.",
+    "In a separate bowl, whisk together the eggs, heavy cream, and grated cheese.",
+    "Add the zesty herbs and season with salt and pepper.",
+    "Pour the egg mixture into the pie crust.",
+    "Top with the sautéed mushrooms.",
+    "Bake for 35-40 minutes or until the crust is golden brown and the quiche is set.",
+    "Let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "french",
+    "mushroom",
+    "herb",
+    "brunch",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herbal-french-mushroom-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:26.531Z"
+}
