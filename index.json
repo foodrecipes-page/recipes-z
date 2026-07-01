@@ -2665,17 +2665,15 @@
   },
   {
     "slug": "zesty-crisp-brazilian-onion-sushi",
-    "title": "Zesty Crisp Brazilian Onion Sushi",
+    "title": "Crisp Sushi Rolls with Brazilian Zesty Sauce",
     "tags": [
-      "brazilian-cuisine",
-      "jain-friendly",
-      "one-pan",
-      "sushi-inspired",
+      "sushi",
+      "snack",
       "vegetarian",
-      "weeknight"
+      "brazilian"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 45,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
@@ -12706,18 +12704,15 @@
   },
   {
     "slug": "zesty-steamed-mediterranean-tiger-prawns-paella",
-    "title": "Zesty Steamed Mediterranean Tiger Prawns Paella",
+    "title": "Tiger Prawns with Mediterranean Paella",
     "tags": [
-      "easy-meal",
-      "healthy",
-      "meal-prep",
+      "seafood",
+      "paella",
       "mediterranean",
-      "one-pan",
-      "prawn",
-      "seafood"
+      "easy-to-make"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -13203,16 +13198,15 @@
   },
   {
     "slug": "zesty-thai-rice-noodles",
-    "title": "Zesty Thai Rice Noodles",
+    "title": "Thai Rice Bowl",
     "tags": [
-      "fodmap-friendly",
-      "low-fat",
-      "quick",
       "thai",
-      "winey"
+      "rice",
+      "noodles",
+      "vegetarian"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
