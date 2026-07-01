@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-venezuelan-chilli-bean-skillet",
+  "title": "Venezuelan Skillet Bean Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with tender beans and a hint of zesty spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "bean",
+      "amount": "1 can (15 oz)",
+      "notes": "black beans, drained and rinsed"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "chilli",
+      "amount": "1/4 tsp",
+      "notes": "cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Add the cumin and coriander and cook for 1 minute, stirring constantly.",
+    "Add the black beans, salt, and pepper. Stir to combine.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add a splash of water if the mixture becomes too dry.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "latin-american",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-chilli-bean-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:23:59.535Z"
+}
