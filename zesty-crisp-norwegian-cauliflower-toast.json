@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-crisp-norwegian-cauliflower-toast",
+  "title": "Norwegian-Style Cauliflower Toast",
+  "description": "A crispy and flavorful toast topped with sautéed cauliflower and a hint of zesty Norwegian seasoning.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Zesty Norwegian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Norwegian Bread (Toast)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. In a large skillet, melt 1 tbsp of butter over medium heat. Add the cauliflower florets and cook until tender, about 5-7 minutes.",
+    "3. Add the zesty Norwegian seasoning to the cauliflower and toss to coat.",
+    "4. Meanwhile, toast the Norwegian bread slices in the oven for 2-3 minutes, or until crispy.",
+    "5. To assemble the toast, place a toasted bread slice on a plate, top with a spoonful of the sautéed cauliflower, and drizzle with the remaining 1 tbsp of butter.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cauliflower",
+    "toast",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-norwegian-cauliflower-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:34:58.715Z"
+}
