@@ -12153,17 +12153,14 @@
   },
   {
     "slug": "zesty-smoky-ukrainian-celeriac-bake",
-    "title": "Zesty Smoky Ukrainian Celeriac Bake",
+    "title": "Smoky Celeriac Bake",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "one-pan",
+      "celeriac",
       "smoky",
-      "ukrainian",
-      "vegetarian"
+      "ukrainian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 95,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
