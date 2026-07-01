@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-creamy-italian-bottarga-pasta",
+  "title": "Cacio e Bottarga Pasta",
+  "description": "A classic Italian pasta dish featuring zesty bottarga and creamy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Spaghetti or fettuccine work well"
+    },
+    {
+      "name": "Bottarga",
+      "amount": "4 oz",
+      "notes": "Cured tuna roe"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley or lemon zest"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking pasta"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried herbs like basil and oregano"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cream",
+      "amount": "2 tbsp",
+      "notes": "Heavy cream or half-and-half"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add Italian seasoning and cook for another minute.",
+    "Add bottarga and cook for 2-3 minutes, breaking it up with a spoon as it cooks.",
+    "Stir in cream and Parmesan cheese until melted and smooth.",
+    "Add zesty parsley or lemon zest and stir to combine.",
+    "Drain pasta and add to the skillet with the sauce. Toss to combine.",
+    "Season with salt and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "seafood",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-creamy-italian-bottarga-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:26:37.909Z"
+}
