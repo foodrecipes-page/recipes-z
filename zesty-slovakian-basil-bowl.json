@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-slovakian-basil-bowl",
+  "title": "Slovakian Zucchini Fritters",
+  "description": "A traditional Slovakian dish made with zucchini and served with a side of zesty sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Grate the zucchini and set aside.",
+    "In a large bowl, combine the flour, egg, paprika, salt, and pepper.",
+    "Add the chopped basil to the bowl and mix well.",
+    "Add the grated zucchini to the bowl and mix until well combined.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Using a spoon, drop the zucchini mixture into the skillet, forming patties.",
+    "Cook the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Serve the fritters hot with a side of zesty sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "zucchini",
+    "veggie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-basil-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:40:33.745Z"
+}
