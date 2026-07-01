@@ -1341,17 +1341,15 @@
   },
   {
     "slug": "zesty-brazilian-lentil-pilaf",
-    "title": "Zesty Brazilian Lentil Pilaf",
+    "title": "Brazilian-Style Lentil Pilaf",
     "tags": [
-      "brazilian-cuisine",
-      "healthy-eating",
-      "lentil-recipe",
-      "one-pot-meal",
-      "vegan-friendly",
-      "weeknight-dinner"
+      "lentil",
+      "pilaf",
+      "vegetarian",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -5783,16 +5781,16 @@
   },
   {
     "slug": "zesty-garlicky-irish-porcini-skillet",
-    "title": "Zesty Garlicky Irish Porcini Skillet",
+    "title": "Pan-Seared Irish Pork Chops with Porcini Mushrooms",
     "tags": [
-      "brunch-ideas",
       "irish-cuisine",
-      "macrobiotic-friendly",
-      "mushroom-recipes",
-      "one-pan"
+      "pork-chops",
+      "porcini-mushrooms",
+      "garlic",
+      "easy-dinner"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "irish",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -11246,13 +11244,15 @@
   },
   {
     "slug": "zesty-slovakian-basil-bowl",
-    "title": "Zesty Slovakian Basil Bowl",
+    "title": "Slovakian Zucchini Fritters",
     "tags": [
       "slovakian",
-      "dinner"
+      "zucchini",
+      "veggie",
+      "snack"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
