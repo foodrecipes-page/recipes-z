@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-crispy-italian-foie-gras-pasta",
+  "title": "Crispy Italian Pasta with Gras",
+  "description": "A rich and satisfying pasta dish featuring crispy Italian flavors and luxurious foie gras.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian pasta",
+      "amount": "250g",
+      "notes": "Choose a gluten-free option if needed"
+    },
+    {
+      "name": "Foie gras",
+      "amount": "120g",
+      "notes": "Optional luxurious ingredient"
+    },
+    {
+      "name": "Crispy Italian breadcrumbs",
+      "amount": "50g",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Zesty Italian olive oil",
+      "amount": "20ml",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince and sauté with pasta"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "20g",
+      "notes": "Grated and sprinkled on pasta"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add to taste for flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Add to taste for flavor"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente.",
+    "Mince garlic and sauté with pasta in olive oil.",
+    "Add crispy Italian breadcrumbs and toss pasta to coat.",
+    "Top with grated parmesan cheese and sliced foie gras (if using).",
+    "Garnish with zesty Italian olive oil and season with salt and black pepper.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "foie-gras",
+    "luxury"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-italian-foie-gras-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:58:05.214Z"
+}
