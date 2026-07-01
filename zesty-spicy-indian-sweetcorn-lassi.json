@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-spicy-indian-sweetcorn-lassi",
+  "title": "Spicy Indian Street Corn with Lassi Raita",
+  "description": "A flavorful and refreshing summer recipe that combines spicy street corn with the coolness of lassi raita. This dish is perfect for a light and satisfying snack or side.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/2 teaspoon",
+      "notes": "zesty seasoning"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 teaspoon",
+      "notes": "spicy seasoning"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "lassi",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. Grill sweetcorn for 10-12 minutes, turning frequently, until lightly charred.",
+    "3. In a small bowl, mix together zesty, spicy, garam masala, and salt.",
+    "4. Once sweetcorn is cooked, brush with zesty-spicy mixture and season with cumin powder if using.",
+    "5. In a separate bowl, whisk together yogurt, lassi, and a pinch of salt.",
+    "6. Serve grilled sweetcorn with lassi raita on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "summer",
+    "snack",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spicy-indian-sweetcorn-lassi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:32.828Z"
+}
