@@ -3163,17 +3163,15 @@
   },
   {
     "slug": "zesty-crispy-italian-foie-gras-pasta",
-    "title": "Zesty Crispy Italian Foie Gras Pasta",
+    "title": "Crispy Italian Pasta with Gras",
     "tags": [
-      "crispy",
-      "double-fry",
-      "festive",
       "italian",
-      "ovo-vegetarian",
-      "zesty"
+      "pasta",
+      "foie-gras",
+      "luxury"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -12534,17 +12532,14 @@
   },
   {
     "slug": "zesty-spicy-moroccan-macaroni-seffa",
-    "title": "Zesty Spicy Moroccan Macaroni Seffa",
+    "title": "Spicy Moroccan Macaroni",
     "tags": [
-      "healthy-eating",
-      "moroccan-cuisine",
-      "one-pot",
-      "quick-meal",
-      "spicy-food",
-      "vegetarian-friendly"
+      "moroccan",
+      "spicy",
+      "pasta"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -14024,17 +14019,14 @@
   },
   {
     "slug": "zesty-venezuelan-chilli-bean-skillet",
-    "title": "Zesty Venezuelan Chilli Bean Skillet",
+    "title": "Venezuelan Skillet Bean Stew",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "south-american",
-      "weeknight"
+      "vegan",
+      "latin-american",
+      "stew"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
