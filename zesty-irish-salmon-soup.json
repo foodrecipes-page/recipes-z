@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-irish-salmon-soup",
+  "title": "Irish Zesty Salmon Soup",
+  "description": "A hearty and flavorful soup, perfect for a chilly evening.",
+  "cuisine": "irish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Zesty broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the zesty broth in a large pot over medium heat.",
+    "Add the chopped onion, carrots, and potatoes to the pot. Cook until the vegetables are tender.",
+    "Add the salmon fillet to the pot and cook for 2-3 minutes on each side, or until cooked through.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Stir in the chopped fresh parsley and season with salt and pepper to taste.",
+    "Serve the soup hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "salmon",
+    "irish",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-salmon-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:06.508Z"
+}
