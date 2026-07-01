@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-steamed-mediterranean-tiger-prawns-paella",
+  "title": "Tiger Prawns with Mediterranean Paella",
+  "description": "A flavorful and vibrant seafood paella dish with tiger prawns, perfect for a dinner gathering. Serve immediately and enjoy!",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Zesty olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the cherry tomatoes and red bell pepper, cook for 3-4 minutes until tender.",
+    "Add the paella rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the Mediterranean seasoning and stir to combine.",
+    "Add 2 cups of water and bring to a simmer.",
+    "Add the tiger prawns and cook for 2-3 minutes until pink and cooked through.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Reduce heat to low and cover the pan with a lid.",
+    "Simmer for 15-20 minutes until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the zesty olives and cook for an additional minute.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "paella",
+    "mediterranean",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-steamed-mediterranean-tiger-prawns-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:24.434Z"
+}
