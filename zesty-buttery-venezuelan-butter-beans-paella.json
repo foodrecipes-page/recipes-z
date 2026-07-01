@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-buttery-venezuelan-butter-beans-paella",
+  "title": "Venezuelan Paella",
+  "description": "A classic Venezuelan paella recipe made with saffron-infused rice, beans, and chicken. This hearty dish is perfect for a special occasion or a weekend dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Venezuelan Paella Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beans (such as kidney or black beans)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paella Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large paella pan or skillet over medium-high heat.",
+    "Add the paella seasoning and sauté for 1 minute.",
+    "Add the beans and sauté for 2-3 minutes.",
+    "Add the Venezuelan Paella Rice and stir to coat the rice in the butter and spice mixture.",
+    "Add the saffron threads and stir to combine.",
+    "Add the zesty chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "paella",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-venezuelan-butter-beans-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:18.956Z"
+}
