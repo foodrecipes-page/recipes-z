@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-smoky-ukrainian-celeriac-bake",
+  "title": "Smoky Celeriac Bake",
+  "description": "A hearty, comforting side dish with a smoky twist, perfect for the colder months. The sweetness of the celeriac pairs beautifully with the smoky flavor.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "zesty breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "optional, adds crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the celeriac into 1-inch cubes.",
+    "In a large bowl, toss the celeriac with the olive oil, garlic, salt, and black pepper until well coated.",
+    "Transfer the celeriac mixture to a baking dish and sprinkle with smoky paprika.",
+    "If using, sprinkle the zesty breadcrumbs on top of the celeriac.",
+    "Bake for 25-30 minutes, or until the celeriac is tender and lightly browned.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "celeriac",
+    "smoky",
+    "ukrainian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-ukrainian-celeriac-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:55:59.338Z"
+}
