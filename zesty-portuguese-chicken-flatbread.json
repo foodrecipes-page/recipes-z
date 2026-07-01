@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-portuguese-chicken-flatbread",
+  "title": "Portuguese Chicken Flatbread",
+  "description": "A flavorful flatbread dish topped with tender chicken and a tangy sauce, inspired by the bold flavors of Portugal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the chicken breast for 5-6 minutes on each side, or until cooked through.",
+    "Transfer the chicken to a plate and let it rest.",
+    "Brush the flatbread slices with olive oil and toast in the oven for 2-3 minutes.",
+    "Mix the zesty sauce with minced garlic.",
+    "Top the toasted flatbread slices with the cooked chicken, zesty sauce, and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "flatbread",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-portuguese-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:17:12.212Z"
+}
