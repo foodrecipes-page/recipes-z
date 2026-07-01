@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-garlicky-irish-porcini-skillet",
+  "title": "Pan-Seared Irish Pork Chops with Porcini Mushrooms",
+  "description": "A hearty and flavorful dish that combines the richness of Irish pork chops with the earthy taste of porcini mushrooms.",
+  "cuisine": "irish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish pork chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Season the pork chops with salt and pepper.",
+    "Heat the zesty olive oil in the skillet over medium-high heat.",
+    "Sear the pork chops for 2-3 minutes on each side, or until browned.",
+    "Remove the pork chops from the skillet and set aside to rest.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the porcini mushrooms to the skillet and cook for 3-4 minutes, until tender.",
+    "Serve the pork chops with the porcini mushrooms and garlic sauce.",
+    "Cook the pork chops to an internal temperature of 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cuisine",
+    "pork-chops",
+    "porcini-mushrooms",
+    "garlic",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-irish-porcini-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:38:57.843Z"
+}
