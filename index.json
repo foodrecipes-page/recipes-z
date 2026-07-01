@@ -1720,16 +1720,14 @@
   },
   {
     "slug": "zesty-buttery-venezuelan-butter-beans-paella",
-    "title": "Zesty Buttery Venezuelan Butter Beans Paella",
+    "title": "Venezuelan Paella",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "venezuelan-cuisine"
+      "vietnamese",
+      "paella",
+      "latin"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -2508,17 +2506,15 @@
   },
   {
     "slug": "zesty-creamy-italian-bottarga-pasta",
-    "title": "Zesty Creamy Italian Bottarga Pasta",
+    "title": "Cacio e Bottarga Pasta",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "italian-food",
-      "one-pot",
-      "pasta-recipes"
+      "italian",
+      "pasta",
+      "seafood",
+      "sauce"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -2857,17 +2853,15 @@
   },
   {
     "slug": "zesty-crisp-norwegian-cauliflower-toast",
-    "title": "Zesty Crisp Norwegian Cauliflower Toast",
+    "title": "Norwegian-Style Cauliflower Toast",
     "tags": [
+      "breakfast",
       "cauliflower",
-      "kid-friendly",
-      "norwegian",
-      "plant-based",
-      "snack",
-      "toast"
+      "toast",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -6754,17 +6748,17 @@
   },
   {
     "slug": "zesty-herbal-french-mushroom-quiche",
-    "title": "Zesty Herbal French Mushroom Quiche",
+    "title": "French Quiche with Mushroom and Zesty Herbs",
     "tags": [
-      "dairy-free",
-      "french-cuisine",
-      "mushroom-recipes",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "quiche",
+      "french",
+      "mushroom",
+      "herb",
+      "brunch",
+      "breakfast"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -7132,18 +7126,16 @@
   },
   {
     "slug": "zesty-irish-salmon-soup",
-    "title": "Zesty Irish Salmon Soup",
+    "title": "Irish Zesty Salmon Soup",
     "tags": [
-      "irish",
-      "salmon",
-      "zesty",
-      "paleo",
-      "sous-vide",
       "soup",
-      "comfort-food"
+      "salmon",
+      "irish",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "cuisine": "irish",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -9805,16 +9797,14 @@
   },
   {
     "slug": "zesty-portuguese-chicken-flatbread",
-    "title": "Zesty Portuguese Chicken Flatbread",
+    "title": "Portuguese Chicken Flatbread",
     "tags": [
-      "flaky",
-      "high-protein",
-      "portuguese",
-      "quick",
-      "weeknight"
+      "chicken",
+      "flatbread",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
