@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-crisp-brazilian-onion-sushi",
+  "title": "Crisp Sushi Rolls with Brazilian Zesty Sauce",
+  "description": "A twist on traditional sushi rolls, these crispy rolls are filled with sushi rice and topped with a zesty Brazilian sauce. Perfect for a quick snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "Zesty Brazilian sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Crisp zesty",
+      "amount": "1/4 cup",
+      "notes": "chopped crispy onions"
+    },
+    {
+      "name": "Sushi",
+      "amount": "1 sheet",
+      "notes": "northern-style sushi roll"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to package instructions.",
+    "Cut the sushi roll into 8 equal pieces.",
+    "Spread a thin layer of zesty Brazilian sauce on each piece of sushi.",
+    "Top each piece with a sprinkle of crisp zesty and a few pieces of chopped onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sushi",
+    "snack",
+    "vegetarian",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-brazilian-onion-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:36:05.816Z"
+}
