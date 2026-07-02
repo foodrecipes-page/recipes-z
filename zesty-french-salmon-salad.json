@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-french-salmon-salad",
+  "title": "Salmon Salad with Zesty Vinaigrette",
+  "description": "A refreshing salad featuring grilled salmon, mixed greens, and a tangy zesty dressing. Perfect for a light and healthy lunch.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4 oz",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Choose a variety of lettuce, arugula, and spinach"
+    },
+    {
+      "name": "French vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Zesty dressing",
+      "amount": "2 tbsp",
+      "notes": "Mix of lemon juice, olive oil, Dijon mustard, and chopped fresh herbs"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon fillet with salt and pepper.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "In a large bowl, combine mixed greens, red onion, cherry tomatoes, and chopped parsley.",
+    "In a small bowl, whisk together zesty dressing and French vinaigrette.",
+    "Drizzle dressing over salad and toss to combine.",
+    "Slice grilled salmon and place on top of salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "salad",
+    "healthy",
+    "lunch",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-french-salmon-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:29:59.982Z"
+}
