@@ -1648,13 +1648,12 @@
   },
   {
     "slug": "zesty-buttery-peruvian-rice-arroz-con-pato",
-    "title": "Zesty Buttery Peruvian Rice Arroz Con Pato",
+    "title": "Crispy Pato Arroz Bowl",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "peruvian-cuisine",
-      "plant-based",
-      "steamed-dishes"
+      "peruvian",
+      "duck",
+      "rice",
+      "lunch"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
@@ -4621,15 +4620,13 @@
   },
   {
     "slug": "zesty-egyptian-chicken-croquettes",
-    "title": "Zesty Egyptian Chicken Croquettes",
+    "title": "Egyptian Chicken Croquettes",
     "tags": [
-      "dinner",
+      "chicken",
       "egyptian",
-      "gluten-free",
-      "low-sodium",
-      "quick-serve"
+      "croquettes"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "z"
   },
