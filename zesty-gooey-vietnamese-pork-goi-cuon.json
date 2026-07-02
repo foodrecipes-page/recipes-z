@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-gooey-vietnamese-pork-goi-cuon",
+  "title": "Pork Goi Cuon (Vietnamese Spring Rolls)",
+  "description": "A refreshing and delicious Vietnamese dish made with pork, vegetables, and rice noodles wrapped in rice paper.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Pork, ground",
+      "amount": "1/2 pound",
+      "notes": "Cooked to an internal temperature of 160°F"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For dipping sauce"
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in hot water for 5-7 minutes or according to package instructions.",
+    "In a pan, cook the ground pork over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the pork is cooked, let it cool to room temperature.",
+    "In a large bowl, combine the cooked noodles, pork, carrots, cabbage, bean sprouts, and cucumber.",
+    "Add the chopped cilantro and mix well.",
+    "To assemble the spring rolls, lay a rice paper wrapper flat on a clean surface.",
+    "Place about 1/2 cup of the noodle mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with a dipping sauce made from equal parts vinegar and soy sauce.",
+    "Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "snack",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-vietnamese-pork-goi-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:34:36.750Z"
+}
