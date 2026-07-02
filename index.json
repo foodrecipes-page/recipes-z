@@ -5844,19 +5844,15 @@
   },
   {
     "slug": "zesty-german-cheese-toast",
-    "title": "Zesty German Cheese Toast",
+    "title": "German Cheese Toast",
     "tags": [
-      "breakfast",
-      "brunch",
-      "cheese",
-      "easy-to-make",
       "german",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "snack",
+      "cheese",
+      "toast"
     ],
     "cuisine": "german",
-    "totalTimeMin": 17,
+    "totalTimeMin": 8,
     "shard": "z"
   },
   {
