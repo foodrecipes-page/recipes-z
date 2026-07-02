@@ -12833,18 +12833,15 @@
   },
   {
     "slug": "zesty-sweet-venezuelan-coconut-pudding",
-    "title": "Zesty Sweet Venezuelan Coconut Pudding",
+    "title": "Coconut Sweet Venezuelan Pudding",
     "tags": [
-      "coconut-based",
-      "low-fat",
-      "outdoor-gatherings",
-      "south-american",
-      "vegan-friendly",
-      "warm-weather",
-      "yeast-based"
+      "coconut",
+      "pudding",
+      "dessert",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -13869,16 +13866,16 @@
   },
   {
     "slug": "zesty-velvety-saudi-arabian-date-pudding",
-    "title": "Zesty Velvety Saudi Arabian Date Pudding",
+    "title": "Saudi Arabian Date Pudding",
     "tags": [
-      "date-based",
-      "middle-eastern",
-      "ramekin-desserts",
-      "velvety-texture",
-      "zesty-flavors"
+      "date",
+      "pudding",
+      "saudi-arabian",
+      "dessert",
+      "coconut-milk"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
