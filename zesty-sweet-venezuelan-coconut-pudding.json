@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-sweet-venezuelan-coconut-pudding",
+  "title": "Coconut Sweet Venezuelan Pudding",
+  "description": "A creamy and delicious dessert made with coconut milk and sweet Venezuelan pudding.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Pudding Mix",
+      "amount": "1 package (3.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Sweetened Condensed Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine coconut milk, pudding mix, and sweetened condensed milk. Whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove from heat and stir in zesty lime juice.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Refrigerate for at least 2 hours, or until chilled.",
+    "Top with shredded coconut before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "pudding",
+    "dessert",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-venezuelan-coconut-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:26.783Z"
+}
