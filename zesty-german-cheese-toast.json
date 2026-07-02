@@ -1,0 +1,57 @@
+{
+  "slug": "zesty-german-cheese-toast",
+  "title": "German Cheese Toast",
+  "description": "A simple German-inspired snack made with cheesy toast, perfect for a quick bite.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "german bread",
+      "amount": "1 loaf (cut into 4 slices)"
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium heat.",
+    "2. Butter the slices of bread.",
+    "3. Place the bread on the grill and toast until lightly browned.",
+    "4. Flip the bread over and toast the other side.",
+    "5. Top the toasted bread with cheese.",
+    "6. If using zesty mustard, spread a small amount on top of the cheese.",
+    "7. Serve the German cheese toast immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "snack",
+    "cheese",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-german-cheese-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:27:04.870Z"
+}
