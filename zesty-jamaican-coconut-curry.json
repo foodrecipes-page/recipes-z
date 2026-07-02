@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-jamaican-coconut-curry",
+  "title": "Jamaican Coconut Chicken Curry",
+  "description": "A flavorful and aromatic curry dish made with chicken, coconut milk, and Jamaican spices. Perfect for a warm and comforting meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1.5 lbs",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "Jamaican style"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "zesty Jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and ginger, cook until onion is translucent.",
+    "Add chicken and cook until browned.",
+    "Add allspice, cumin, and curry powder, cook for 1 minute.",
+    "Add coconut milk and jerk seasoning, stir well.",
+    "Bring to a simmer and cook until chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "coconut",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jamaican-coconut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:58:43.096Z"
+}
