@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-venezuelan-corn-tagine",
+  "title": "Venezuelan Corn Fritters",
+  "description": "A crispy and flavorful Venezuelan-inspired snack made with corn, zesty flavors, and a hint of spice.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "zesty pepper sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, onion, zesty pepper sauce, egg, tagine spice, salt, and black pepper.",
+    "Add corn kernels and mix until well combined.",
+    "Using a 1/4 cup measuring cup, scoop the corn mixture into balls.",
+    "Heat 1-2 inches of oil in a deep frying pan over medium heat.",
+    "When the oil is hot, add the corn balls and fry until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-fritters",
+    "venezuelan-food",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-corn-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:25:13.108Z"
+}
