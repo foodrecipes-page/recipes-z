@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-uruguayan-beef-casserole",
+  "title": "Uruguayan Beef Casserole",
+  "description": "A hearty, flavorful casserole from Uruguay, made with tender beef and a hint of spice.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (ground)",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "ground cumin, paprika, and chili powder"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 (16 oz) box",
+      "notes": "Uruguayan-style casserole mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "shredded cheddar",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the ground beef in a large skillet over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the zesty seasoning, casserole mix, and tomato paste. Cook for 1 minute.",
+    "Add the beef broth to the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "If using cheese, sprinkle it evenly over the top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef-casserole",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-uruguayan-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:30:07.053Z"
+}
