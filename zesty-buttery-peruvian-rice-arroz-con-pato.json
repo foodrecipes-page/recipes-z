@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-buttery-peruvian-rice-arroz-con-pato",
+  "title": "Crispy Pato Arroz Bowl",
+  "description": "A Peruvian-inspired dish featuring crispy roasted duck served on a bed of flavorful rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pato (duck breast)",
+      "amount": "1",
+      "notes": "1-2 pounds"
+    },
+    {
+      "name": "arroz (white rice)",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "buttery (unsalted butter)",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "zesty (fresh lime juice)",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "con (dried aji amarillo peppers)",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the duck breast and pat dry with paper towels.",
+    "Season the duck with salt and pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the duck for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes.",
+    "While the duck is cooking, prepare the rice according to package instructions.",
+    "In a small bowl, whisk together lime juice and aji amarillo peppers.",
+    "To assemble the dish, place a scoop of rice on a plate, top with sliced roasted duck, and drizzle with the zesty sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "duck",
+    "rice",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-peruvian-rice-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:27:10.790Z"
+}
