@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-syrian-ikura-tagine",
+  "title": "Syrian Ikura Tagine",
+  "description": "A flavorful and aromatic dish that combines the richness of ikura with the spices of Syria. Perfect for a warm evening.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ikura (Salmon Roe)",
+      "amount": "6 ounces",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Zesty Tagine Spice Mix",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped parsley and mint and cook until fragrant, about 1 minute.",
+    "Add the ikura and cook for 2-3 minutes, until it starts to break down and release its oils.",
+    "Add the zesty tagine spice mix and stir to combine.",
+    "Add the lemon juice and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Simmer the mixture over low heat for 5-7 minutes, until the flavors have melded together and the ikura has broken down.",
+    "Serve the tagine hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "ikura",
+    "tagine",
+    "fish",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-syrian-ikura-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:03:06.431Z"
+}
