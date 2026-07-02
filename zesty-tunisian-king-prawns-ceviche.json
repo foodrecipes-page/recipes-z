@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-tunisian-king-prawns-ceviche",
+  "title": "Tunisian-Style Prawns with Zesty Marinade",
+  "description": "A flavorful and refreshing dish inspired by Tunisian cuisine, featuring succulent prawns marinated in a zesty mixture.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound"
+    },
+    {
+      "name": "zesty marinade",
+      "amount": "1/2 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine zesty marinade ingredients: lemon juice, olive oil, garlic, and a pinch of salt.",
+    "2. Blend until smooth.",
+    "3. Place prawns in a large bowl and pour the marinade over them.",
+    "4. Toss to coat prawns evenly.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "6. Preheat grill or grill pan to medium-high heat.",
+    "7. Remove prawns from the marinade, letting any excess liquid drip off.",
+    "8. Grill prawns for 2-3 minutes per side, or until they turn pink and are cooked through.",
+    "9. Garnish with parsley and serve immediately.",
+    "10. Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "tunisian",
+    "seafood",
+    "marinade",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-tunisian-king-prawns-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:11:33.706Z"
+}
