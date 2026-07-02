@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-brazilian-beef-bowl",
+  "title": "Brazilian Beef Bowl",
+  "description": "A hearty and flavorful Brazilian-inspired beef bowl recipe featuring zesty seasonings and a variety of ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Zesty Seasoning",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the zesty seasoning, salt, and diced tomatoes. Cook for an additional 2-3 minutes.",
+    "Stir in the cooked brown rice, black beans, and chopped cilantro.",
+    "Season with lime juice to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "rice",
+    "beans",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brazilian-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:16:12.435Z"
+}
