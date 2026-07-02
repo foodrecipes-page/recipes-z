@@ -1286,15 +1286,15 @@
   },
   {
     "slug": "zesty-brazilian-beef-bowl",
-    "title": "Zesty Brazilian Beef Bowl",
+    "title": "Brazilian Beef Bowl",
     "tags": [
-      "high-protein",
-      "latin-inspired",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "rice",
+      "beans",
+      "lunch"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -5113,16 +5113,14 @@
   },
   {
     "slug": "zesty-flaky-mexican-poblano-tacos",
-    "title": "Zesty Flaky Mexican Poblano Tacos",
+    "title": "Delicious Poblano Tacos",
     "tags": [
-      "gluten-free",
-      "healthy-eating",
-      "low-glycemic",
-      "mexican-food",
-      "weeknight-dinner"
+      "tacos",
+      "mexican",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -12914,16 +12912,16 @@
   },
   {
     "slug": "zesty-syrian-ikura-tagine",
-    "title": "Zesty Syrian Ikura Tagine",
+    "title": "Syrian Ikura Tagine",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "seafood",
-      "spicy-food",
-      "syrian-cuisine"
+      "syrian",
+      "ikura",
+      "tagine",
+      "fish",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
