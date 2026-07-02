@@ -5465,19 +5465,16 @@
   },
   {
     "slug": "zesty-french-salmon-salad",
-    "title": "Zesty French Salmon Salad",
+    "title": "Salmon Salad with Zesty Vinaigrette",
     "tags": [
-      "salmon-salad",
-      "tandoor",
-      "pescatarian",
-      "gluten-free",
-      "french",
-      "zesty",
-      "spicy",
-      "light-dinner"
+      "salmon",
+      "salad",
+      "healthy",
+      "lunch",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -13574,17 +13571,14 @@
   },
   {
     "slug": "zesty-uruguayan-beef-casserole",
-    "title": "Zesty Uruguayan Beef Casserole",
+    "title": "Uruguayan Beef Casserole",
     "tags": [
-      "beef",
-      "lazy-sunday",
-      "matcha",
-      "nut-free",
-      "one-pot",
-      "uruguayan"
+      "uruguayan",
+      "beef-casserole",
+      "south-american"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -14000,17 +13994,14 @@
   },
   {
     "slug": "zesty-venezuelan-corn-tagine",
-    "title": "Zesty Venezuelan Corn Tagine",
+    "title": "Venezuelan Corn Fritters",
     "tags": [
-      "buttermilk",
-      "festive",
-      "low-sodium",
-      "spherify",
-      "tagine",
-      "vegetarian"
+      "corn-fritters",
+      "venezuelan-food",
+      "snack-ideas"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
