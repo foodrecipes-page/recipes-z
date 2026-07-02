@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-velvety-saudi-arabian-date-pudding",
+  "title": "Saudi Arabian Date Pudding",
+  "description": "A rich and creamy dessert inspired by Saudi Arabian cuisine, featuring velvety date pudding and a hint of zesty flavor.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 orange"
+    },
+    {
+      "name": "arabian coffee",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the cornstarch and a splash of coconut milk until smooth.",
+    "In a medium saucepan, combine the remaining coconut milk, sugar, and cornstarch mixture.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the pudding thickens.",
+    "Remove from heat and stir in the date puree and arabian coffee (if using).",
+    "Let cool to room temperature, then refrigerate until chilled.",
+    "Serve the date pudding in individual cups or ramekins, garnished with a sprinkle of zesty orange zest."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date",
+    "pudding",
+    "saudi-arabian",
+    "dessert",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-saudi-arabian-date-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:28.245Z"
+}
