@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-buttery-italian-almonds-saltimbocca",
+  "title": "Almond-Crusted Saltimbocca",
+  "description": "A creative twist on the classic Italian dish, featuring a crunchy almond crust and a rich buttery sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 Saltimbocca",
+      "amount": "1 package",
+      "notes": "pork cutlets with prosciutto and sage"
+    },
+    {
+      "name": "1 cup",
+      "amount": "almonds",
+      "notes": "slivered"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "buttery",
+      "notes": "butter"
+    },
+    {
+      "name": "2 cloves",
+      "amount": "garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "zesty",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "italian",
+      "notes": "white wine"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "saltimbocca",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the Saltimbocca with saltimbocca seasoning.",
+    "Dredge the Saltimbocca in the slivered almonds, pressing gently to adhere.",
+    "Heat the buttery butter in an oven-safe skillet over medium-high heat.",
+    "Sear the almond-crusted Saltimbocca for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Remove the skillet from the oven and reduce the sauce over medium heat.",
+    "Stir in the zesty lemon juice and italian white wine.",
+    "Serve the Saltimbocca hot, topped with the rich buttery sauce and garnished with fresh sage leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "main-course",
+    "pork",
+    "almonds",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-italian-almonds-saltimbocca",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:18:01.774Z"
+}
