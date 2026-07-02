@@ -1633,17 +1633,16 @@
   },
   {
     "slug": "zesty-buttery-italian-almonds-saltimbocca",
-    "title": "Zesty Buttery Italian Almonds Saltimbocca",
+    "title": "Almond-Crusted Saltimbocca",
     "tags": [
-      "dairy-free",
-      "easy-appetizers",
-      "italian-inspired",
-      "lazy-susan",
-      "nutty-snacks",
-      "saltimbocca"
+      "italian",
+      "main-course",
+      "pork",
+      "almonds",
+      "butter"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -7242,16 +7241,14 @@
   },
   {
     "slug": "zesty-jamaican-coconut-curry",
-    "title": "Zesty Jamaican Coconut Curry",
+    "title": "Jamaican Coconut Chicken Curry",
     "tags": [
-      "energizing",
-      "floral",
-      "low-carb",
-      "one-pot",
-      "spicy",
-      "vegan"
+      "chicken",
+      "curry",
+      "coconut",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 40,
     "shard": "z"
   },
@@ -7719,17 +7716,17 @@
   },
   {
     "slug": "zesty-leaf-wrap-steam-satvik-chestnut-mushroom-wrap",
-    "title": "Zesty Leaf-Wrap-Steamed Satvik Chestnut Mushroom Wrap",
+    "title": "Mushroom and Chestnut Satvik Wrap",
     "tags": [
-      "date-night",
-      "donabe",
+      "satvik",
+      "vegan",
       "gluten-free",
-      "indian",
-      "polish",
-      "vegan"
+      "wrap",
+      "mushroom",
+      "chestnut"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -13236,18 +13233,16 @@
   },
   {
     "slug": "zesty-tunisian-king-prawns-ceviche",
-    "title": "Zesty Tunisian King Prawns Ceviche",
+    "title": "Tunisian-Style Prawns with Zesty Marinade",
     "tags": [
-      "citrus",
-      "cold-dish",
-      "herb",
-      "keto-friendly",
-      "quick",
+      "prawns",
+      "tunisian",
       "seafood",
-      "tunisian"
+      "marinade",
+      "grilled"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
