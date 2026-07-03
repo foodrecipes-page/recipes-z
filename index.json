@@ -3178,17 +3178,16 @@
   },
   {
     "slug": "zesty-crispy-jamaican-pork-skewers",
-    "title": "Zesty Crispy Jamaican Pork Skewers",
+    "title": "Jamaican Pork Skewers with Zesty Glaze",
     "tags": [
-      "adventurous-eating",
-      "crispy-food",
-      "gluten-free",
-      "jamaican-cuisine",
-      "low-carb",
-      "pork-recipes"
+      "grilled",
+      "pork",
+      "jamaican",
+      "skewers",
+      "summer"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 55,
+    "cuisine": "caribbean",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -8394,17 +8393,14 @@
   },
   {
     "slug": "zesty-middle-eastern-bulgur-tabbouleh",
-    "title": "Zesty Middle Eastern Bulgur Tabbouleh",
+    "title": "Tabbouleh Salad",
     "tags": [
-      "flexitarian",
-      "healthy",
-      "lunch",
+      "salad",
       "middle-eastern",
-      "refreshing",
       "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -14266,17 +14262,15 @@
   },
   {
     "slug": "zesty-wood-chinese-butternut-squash-hot-pot",
-    "title": "Zesty Wood Chinese Butternut Squash Hot Pot",
+    "title": "Roasted Butternut Squash",
     "tags": [
-      "chinese-inspired",
-      "comfort-food",
-      "halal-friendly",
-      "one-pot",
-      "winter-warmers",
-      "wood-fired"
+      "roasted",
+      "squash",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
