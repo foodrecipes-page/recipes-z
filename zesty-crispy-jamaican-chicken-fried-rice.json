@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-crispy-jamaican-chicken-fried-rice",
+  "title": "Jamaican Fried Chicken and Rice Bowl",
+  "description": "A flavorful and spicy twist on traditional fried chicken, served with a side of crispy rice. Perfect for a quick and satisfying meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "zesty rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crispy rice topping",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together jamaican seasoning, zesty rice, and coconut milk.",
+    "Add chicken breast to the bowl and toss to coat.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add chicken to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer chicken to a baking sheet and bake in the oven for an additional 10-12 minutes.",
+    "Meanwhile, prepare crispy rice topping according to package instructions.",
+    "To assemble the dish, place a portion of fried chicken on top of a bed of zesty rice, and sprinkle with crispy rice topping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-chicken",
+    "jamaican-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-jamaican-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:34:55.606Z"
+}
