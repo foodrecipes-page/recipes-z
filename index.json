@@ -2105,16 +2105,14 @@
   },
   {
     "slug": "zesty-chewy-greek-lamb-kleftiko",
-    "title": "Zesty Chewy Greek Lamb Kleftiko",
+    "title": "Traditional Greek Kleftiko",
     "tags": [
-      "easy-dinner-ideas",
-      "greek-cuisine",
-      "lamb-recipes",
-      "molcajete-cooking",
-      "sun-dried-tomatoes"
+      "greek",
+      "lamb",
+      "slow-cooked"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 150,
+    "totalTimeMin": 255,
     "shard": "z"
   },
   {
@@ -7679,16 +7677,14 @@
   },
   {
     "slug": "zesty-lacquered-french-rainbow-trout-mille-feuille",
-    "title": "Zesty Lacquered French Rainbow Trout Mille Feuille",
+    "title": "Pan-Seared Rainbow Trout with French Feuille",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "seafood"
+      "fish",
+      "french",
+      "main-course"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
