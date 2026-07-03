@@ -3803,16 +3803,14 @@
   },
   {
     "slug": "zesty-crunchy-malaysian-shrimp-noodles",
-    "title": "Zesty Crunchy Malaysian Shrimp Noodles",
+    "title": "Malaysian Shrimp Noodle Stir Fry",
     "tags": [
-      "malaysian",
-      "noodle-dish",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "shrimp",
+      "noodles",
+      "stir-fry"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -14436,16 +14434,15 @@
   },
   {
     "slug": "zesty-yeasty-venezuelan-corn-tagine",
-    "title": "Zesty Yeasty Venezuelan Corn Tagine",
+    "title": "Venezuelan Corn Fritters",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "tagine",
-      "vegetarian",
-      "yeasty"
+      "venezuelan",
+      "corn",
+      "fritters",
+      "snack"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
