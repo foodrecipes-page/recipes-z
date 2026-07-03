@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-crispy-jamaican-pork-skewers",
+  "title": "Jamaican Pork Skewers with Zesty Glaze",
+  "description": "Sweet and spicy Jamaican pork skewers marinated in a zesty glaze, perfect for a summer barbecue.",
+  "cuisine": "caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty glaze (see below)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Crispy onion, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together jerk seasoning, lime juice, honey, soy sauce, and garlic.",
+    "Add the pork cubes to the marinade and mix until they are evenly coated.",
+    "Thread the marinated pork onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with the zesty glaze and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through.",
+    "Serve the skewers hot, garnished with crispy onion and fresh cilantro.",
+    "To make the zesty glaze, whisk together the ingredients in a small bowl until smooth.",
+    "Adjust the seasoning as needed and brush the glaze over the skewers during the last 2 minutes of grilling.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "jamaican",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-jamaican-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:42:54.075Z"
+}
