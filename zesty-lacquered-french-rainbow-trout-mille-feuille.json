@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-lacquered-french-rainbow-trout-mille-feuille",
+  "title": "Pan-Seared Rainbow Trout with French Feuille",
+  "description": "A flavorful and visually appealing dish featuring seared rainbow trout paired with the delicate taste of French feuille.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow trout fillet",
+      "amount": "2",
+      "notes": "Fresh and high-quality"
+    },
+    {
+      "name": "French feuille",
+      "amount": "1 sheet",
+      "notes": "Frozen is fine, thaw according to package"
+    },
+    {
+      "name": "Lacquered cherry tomatoes",
+      "amount": "4",
+      "notes": "Halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For searing trout and brushing feuille"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season trout fillet with salt.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Sear trout for 2-3 minutes on each side, until golden brown.",
+    "Transfer skillet to preheated oven and bake for 8-10 minutes, until cooked through.",
+    "Meanwhile, brush French feuille with olive oil and place on a baking sheet.",
+    "Bake feuille in the oven for 3-5 minutes, until puffed and lightly browned.",
+    "Top feuille with halved lacquered cherry tomatoes, minced garlic, and chopped parsley.",
+    "Serve trout atop French feuille with the cherry tomato and parsley mixture on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "french",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-lacquered-french-rainbow-trout-mille-feuille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:28:51.479Z"
+}
