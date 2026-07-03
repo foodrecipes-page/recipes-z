@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-middle-eastern-bulgur-tabbouleh",
+  "title": "Tabbouleh Salad",
+  "description": "A classic Middle Eastern salad made with bulgur, parsley, tomatoes, mint, and lemon juice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium bulgur"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "medium tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur in a fine mesh strainer and drain well.",
+    "In a large bowl, combine the chopped parsley, mint, and tomatoes.",
+    "Add the bulgur to the bowl and toss to combine.",
+    "Drizzle the lemon juice over the salad and toss to combine.",
+    "Season with salt to taste.",
+    "Drizzle with olive oil if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-bulgur-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:45:37.776Z"
+}
