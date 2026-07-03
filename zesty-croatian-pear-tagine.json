@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-croatian-pear-tagine",
+  "title": "Croatian Pear Tagine",
+  "description": "A fusion dessert bringing together the warmth of Croatian spices and the sweetness of pear in a rich and aromatic tagine.",
+  "cuisine": "European",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Zesty pear",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Croatian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most European markets"
+    },
+    {
+      "name": "Golden honey",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together pear slices, honey, and Croatian spice blend.",
+    "Roll out puff pastry to fit a 9-inch round baking dish.",
+    "Place the pear mixture in the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with softened butter and sprinkle with flour.",
+    "Bake for 30-35 minutes, or until the pastry is golden brown and the filling is tender.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm with a dollop of heavy cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pear",
+    "croatian-spice",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-pear-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:06:40.034Z"
+}
