@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-middle-eastern-black-pudding-pilaf",
+  "title": "Middle Eastern Zesty Pilaf",
+  "description": "A flavorful and aromatic pilaf dish with a zesty twist, perfect for a quick lunch or dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zesty Pilaf Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Black Pudding",
+      "amount": "4 slices",
+      "notes": "Optional, omit for vegetarian version"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium-high heat.",
+    "Add pilaf mix and cook for 2-3 minutes, stirring constantly.",
+    "Add black pudding (if using) and cook for an additional 2 minutes.",
+    "Stir in Middle Eastern spice blend and cook for 1 minute.",
+    "Add lemon juice and cook until liquid has been absorbed.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "lunch",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-black-pudding-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:05:18.905Z"
+}
