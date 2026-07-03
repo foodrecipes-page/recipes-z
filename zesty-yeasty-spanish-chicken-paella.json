@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-yeasty-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish with chicken, rice, and spices. Easy to make and perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "2 cups",
+      "notes": "unsalted"
+    },
+    {
+      "name": "zesty saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "imported from Spain"
+    },
+    {
+      "name": "yeasty chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spanish paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and sauté for an additional minute.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the Spanish rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, zesty saffron, and smoked paprika. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the cover and stir in the yeasty chicken broth. Cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-cuisine",
+    "chicken-dinner",
+    "paella-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:17:36.102Z"
+}
