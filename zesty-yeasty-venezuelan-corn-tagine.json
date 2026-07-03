@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-yeasty-venezuelan-corn-tagine",
+  "title": "Venezuelan Corn Fritters",
+  "description": "A crispy and flavorful side dish inspired by Venezuelan cuisine, made with fresh corn and a hint of zesty spice.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeasty cornbread mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "zesty spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tagine oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "(optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, mix together corn kernels, cornbread mix, zesty spice mix, and shredded cheese (if using).",
+    "Gradually add in water to form a thick batter.",
+    "Using a spoon, scoop the batter into the hot oil and fry until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "corn",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-venezuelan-corn-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:08:43.489Z"
+}
