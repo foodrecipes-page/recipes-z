@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-wood-chinese-butternut-squash-hot-pot",
+  "title": "Roasted Butternut Squash",
+  "description": "A delicious and healthy roasted butternut squash recipe. Perfect for a side dish or main course.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "hot pot",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "five-spice powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce the squash with a fork a few times and microwave for 5 minutes.",
+    "Cut the squash in half lengthwise and scoop out the seeds.",
+    "Place the squash on a baking sheet, cut side up.",
+    "Drizzle with hot pot (olive oil), sprinkle with salt, pepper, and chinese (five-spice powder).",
+    "Roast in the preheated oven for 30-40 minutes, or until tender.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "roasted",
+    "squash",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-wood-chinese-butternut-squash-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:02:20.781Z"
+}
