@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-mexican-mung-bean-sprouts-tacos",
+  "title": "Zesty Bean Tacos",
+  "description": "A flavorful and healthy Mexican-inspired dish featuring zesty bean sprouts and crunchy tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "Freshly rinsed"
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 can (15 oz)",
+      "notes": "Drained, rinsed"
+    },
+    {
+      "name": "Zesty taco seasoning",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "6-8",
+      "notes": "Soft tacos"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tsp of oil and cook the mung bean sprouts for 2-3 minutes.",
+    "Add the black beans, zesty taco seasoning, and 1 cup of water to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla, followed by a spoonful of shredded lettuce, diced tomatoes, and sliced avocado (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "veggie",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-mung-bean-sprouts-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:50:19.972Z"
+}
