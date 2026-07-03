@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-chewy-greek-lamb-kleftiko",
+  "title": "Traditional Greek Kleftiko",
+  "description": "A classic Greek dish made with tender lamb and herbs, slow-cooked to perfection. This traditional kleftiko recipe is perfect for a special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Greek oregano",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Zesty lemon",
+      "amount": "1"
+    },
+    {
+      "name": "Chewy fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 160°C (325°F).",
+    "2. In a small bowl, mix together the oregano, lemon zest, and rosemary.",
+    "3. Rub the lamb shoulder all over with the herb mixture.",
+    "4. Season with salt and pepper to taste.",
+    "5. Place the lamb shoulder in a large Dutch oven or heavy pot.",
+    "6. Cover the pot with a lid and transfer to the preheated oven.",
+    "7. Braise the lamb for 3-4 hours, or until tender and falling apart.",
+    "8. Remove the lamb from the oven and let it rest for 10-15 minutes.",
+    "9. Slice the lamb thinly and serve with the juices from the pot.",
+    "10. Garnish with fresh rosemary and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-greek-lamb-kleftiko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:29:29.374Z"
+}
