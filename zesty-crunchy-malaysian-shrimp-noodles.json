@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-crunchy-malaysian-shrimp-noodles",
+  "title": "Malaysian Shrimp Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with succulent shrimp, crunchy noodles, and a hint of zesty spice. Perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "zesty sauce (or sriracha)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the noodles and cook for 2-3 minutes, or until lightly toasted.",
+    "Add the bean sprouts, zesty sauce, soy sauce, and sugar to the skillet.",
+    "Cook for an additional 1-2 minutes, stirring constantly.",
+    "Return the cooked shrimp to the skillet and toss with the noodle mixture.",
+    "Sprinkle with crushed peanuts and chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-malaysian-shrimp-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:57:23.573Z"
+}
