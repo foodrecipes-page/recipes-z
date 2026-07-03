@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-spanish-rice-arroz-negro",
+  "title": "Spanish Rice Bowl",
+  "description": "A flavorful and easy-to-make Spanish rice bowl with a kick of zesty flavor. Perfect for a quick lunch or dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup uncooked",
+      "notes": ""
+    },
+    {
+      "name": "zesty tomato sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "arroz negro",
+      "amount": "1/4 cup",
+      "notes": "adds a smoky depth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the Spanish rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the arroz negro, zesty tomato sauce, salt, and black pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "rice",
+    "lunch",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spanish-rice-arroz-negro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:13:44.579Z"
+}
