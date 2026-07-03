@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-smoky-greek-banana-skewers",
+  "title": "Smoky Greek Skewers",
+  "description": "A delicious and easy-to-make skewer recipe for a summer evening. Marinate chicken and vegetables in a zesty Greek sauce, then grill to perfection.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "zesty Greek salad dressing",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty Greek salad dressing, salt, and pepper.",
+    "Add chicken, red bell pepper, yellow bell pepper, onion, and mushroom to the bowl.",
+    "Toss to coat with marinade, then cover and refrigerate for at least 30 minutes.",
+    "Thread chicken and vegetables onto skewers.",
+    "Grill skewers for 10-12 minutes, or until chicken is cooked through and vegetables are tender.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "summer",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-greek-banana-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:17:40.806Z"
+}
