@@ -3166,18 +3166,14 @@
   },
   {
     "slug": "zesty-crispy-jamaican-chicken-fried-rice",
-    "title": "Zesty Crispy Jamaican Chicken Fried Rice",
+    "title": "Jamaican Fried Chicken and Rice Bowl",
     "tags": [
-      "comfort-food",
-      "crispy-fried-rice",
-      "high-protein",
+      "fried-chicken",
       "jamaican-cuisine",
-      "keto-friendly",
-      "one-pan",
-      "weeknight"
+      "easy-recipe"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -3489,18 +3485,15 @@
   },
   {
     "slug": "zesty-croatian-pear-tagine",
-    "title": "Zesty Croatian Pear Tagine",
+    "title": "Croatian Pear Tagine",
     "tags": [
-      "clay-cooking",
-      "comfort-food",
-      "croatian-cuisine",
-      "one-pot",
-      "pear-recipes",
-      "satvik-friendly",
-      "vegetarian"
+      "dessert",
+      "pear",
+      "croatian-spice",
+      "tagine"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
