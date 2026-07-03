@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-juicy-filipino-taro-ginataang-bilo-bilo",
+  "title": "Filipino Taro Bilo Balls",
+  "description": "A traditional Filipino snack made with taro and bilo. The combination of textures and flavors is a perfect representation of Filipino cuisine. These crispy fried balls are a delicious treat.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taro, grated",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Bilo, grated",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine grated taro and bilo. Mix well.",
+    "Add all-purpose flour, salt, and water to the mixture. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth.",
+    "Divide the dough into small balls. You should end up with around 20-25 balls.",
+    "Heat vegetable oil in a deep frying pan over medium heat.",
+    "When the oil is hot, add a few taro bilo balls to the pan and fry until golden brown.",
+    "Remove the fried balls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Filipino Taro Bilo Balls warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "snack",
+    "taro",
+    "bilo"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-juicy-filipino-taro-ginataang-bilo-bilo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:59:05.538Z"
+}
