@@ -8328,18 +8328,14 @@
   },
   {
     "slug": "zesty-mexican-mung-bean-sprouts-tacos",
-    "title": "Zesty Mexican Mung Bean Sprouts Tacos",
+    "title": "Zesty Bean Tacos",
     "tags": [
-      "air-fryer",
-      "hot-pot",
       "mexican",
-      "pescatarian",
-      "sprouts",
-      "tacos",
-      "weeknight"
+      "veggie",
+      "tacos"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -8372,17 +8368,16 @@
   },
   {
     "slug": "zesty-middle-eastern-black-pudding-pilaf",
-    "title": "Zesty Middle Eastern Black Pudding Pilaf",
+    "title": "Middle Eastern Zesty Pilaf",
     "tags": [
       "easy",
-      "lunch",
-      "middle-eastern",
-      "one-pot",
       "quick",
+      "lunch",
+      "dinner",
       "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -12381,17 +12376,16 @@
   },
   {
     "slug": "zesty-spanish-rice-arroz-negro",
-    "title": "Zesty Spanish Rice Arroz Negro",
+    "title": "Spanish Rice Bowl",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "raw-friendly",
-      "spanish-cuisine",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "rice",
+      "lunch",
+      "easy",
+      "quick"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
