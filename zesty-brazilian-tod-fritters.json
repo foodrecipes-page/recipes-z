@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-brazilian-tod-fritters",
+  "title": "Brazilian Zesty Fritters",
+  "description": "A delicious Brazilian-inspired appetizer or snack made with zesty fritters.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Batter mix (Brazilian-style)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Zesty fritter mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tod (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F.",
+    "2. In a large bowl, combine the flour, batter mix, zesty fritter mix, egg, milk, and salt.",
+    "3. Mix the ingredients until a smooth batter forms.",
+    "4. If using, add the tod and cheese to the batter and mix well.",
+    "5. Using a spoon, drop small amounts of the batter into the hot oil.",
+    "6. Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "7. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "8. Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fritters",
+    "brazilian",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brazilian-tod-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:16:12.418Z"
+}
