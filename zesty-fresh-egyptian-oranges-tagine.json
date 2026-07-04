@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-fresh-egyptian-oranges-tagine",
+  "title": "Egyptian Orange Tagine",
+  "description": "A traditional North African dish made with chicken, oranges, and spices. This recipe is perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in, skin-on for extra flavor"
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "1 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Zesty olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tablespoons",
+      "notes": "A blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Tagine spice",
+      "amount": "1 teaspoon",
+      "notes": "A blend of cinnamon, ginger, and cardamom"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Orange slices",
+      "amount": "2",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt and black pepper.",
+    "Heat the oil in a large tagine or Dutch oven over medium heat.",
+    "Add the Egyptian spices and cook for 1 minute, stirring constantly.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the orange juice, zesty olives, and tagine spice.",
+    "Cover the tagine and bring to a simmer.",
+    "Reduce the heat to low and cook for 20-25 minutes, or until the chicken is cooked through.",
+    "Garnish with chopped parsley and orange slices.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "tagine",
+    "orange",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fresh-egyptian-oranges-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:23:23.450Z"
+}
