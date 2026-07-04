@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-herb-chinese-sea-bass-cha-siu-bao",
+  "title": "Baked Cha Siu Bao with Sea Bass",
+  "description": "A fusion twist on the classic cha siu bao, featuring sea bass as the main protein. The zesty and herb flavors will transport you to a culinary adventure.",
+  "cuisine": "chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cha siu bao dough",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "zesty hoisin sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Prepare the cha siu bao dough according to the package instructions.",
+    "Cut the sea bass fillets into 4 equal pieces.",
+    "In a small bowl, mix together zesty hoisin sauce and chinese five-spice powder.",
+    "Brush the mixture onto both sides of the sea bass pieces.",
+    "Place a piece of sea bass onto each bao dough circle.",
+    "Top with chopped green onions and grated ginger.",
+    "Bake for 12-15 minutes or until the sea bass is cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "fusion",
+    "baked",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herb-chinese-sea-bass-cha-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:07:52.627Z"
+}
