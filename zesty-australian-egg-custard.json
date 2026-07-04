@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-australian-egg-custard",
+  "title": "Australian Zesty Custard Pie",
+  "description": "A classic dessert that combines the smoothness of custard with a zesty twist.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty filling",
+      "amount": "1/2 cup",
+      "notes": "lemon curd or similar"
+    },
+    {
+      "name": "Australian butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "In a separate bowl, whisk together the custard and zesty filling.",
+    "Pour the custard mixture into the pie crust.",
+    "Dot the top of the filling with the softened butter.",
+    "In a separate bowl, whisk together the eggs and sugar.",
+    "Pour the egg mixture over the filling.",
+    "Bake for 40-45 minutes, or until the filling is set and the crust is golden brown.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "custard",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-australian-egg-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:38:25.614Z"
+}
