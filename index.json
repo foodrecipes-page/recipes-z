@@ -1026,17 +1026,15 @@
   },
   {
     "slug": "zesty-australian-egg-custard",
-    "title": "Zesty Australian Egg Custard",
+    "title": "Australian Zesty Custard Pie",
     "tags": [
-      "egg-custard",
-      "fluffy",
-      "midnight-snack",
-      "salty",
-      "steamed-vegetable",
-      "whole30"
+      "australian",
+      "dessert",
+      "custard",
+      "zesty"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -5859,16 +5857,15 @@
   },
   {
     "slug": "zesty-german-long-bean-curry",
-    "title": "Zesty German Long Bean Curry",
+    "title": "German-Style Bean Stew",
     "tags": [
-      "german-cuisine",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "german",
+      "lunch",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
