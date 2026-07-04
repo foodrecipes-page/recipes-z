@@ -9474,17 +9474,16 @@
   },
   {
     "slug": "zesty-peruvian-chicken-aji-de-gallina",
-    "title": "Zesty Peruvian Chicken Aji De Gallina",
+    "title": "Peruvian Chicken Gallina",
     "tags": [
-      "chicken-recipes",
-      "dairy-free",
-      "date-night",
-      "gluten-free",
-      "peruvian-cuisine",
-      "south-american-food"
+      "peruvian",
+      "chicken",
+      "aji",
+      "spicy",
+      "gallina"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
