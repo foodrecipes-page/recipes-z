@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-midnight-craving-mediterranean-prawns-tandoor-clay-pot-ceviche",
+  "title": "Prawns in Ceviche with Mediterranean Twist",
+  "description": "A refreshing and flavorful dish that combines the zesty taste of ceviche with the warm spices of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns (250g)",
+      "amount": "1 cup, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Mix (oregano, thyme, rosemary)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/4 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/4 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/4 cup, crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine prawns, lime juice, olive oil, Mediterranean mix, red onion, garlic, cucumber, and tomato.",
+    "2. Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "3. Just before serving, garnish with fresh parsley and crumbled feta cheese (if using).",
+    "4. Serve chilled, accompanied by crusty bread or over a bed of mixed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "mediterranean",
+    "prawns",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-midnight-craving-mediterranean-prawns-tandoor-clay-pot-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:32:15.367Z"
+}
