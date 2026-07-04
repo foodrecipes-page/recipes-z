@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-light-korean-chicken-wings-bowl",
+  "title": "Korean Chicken Wings Bowl",
+  "description": "A flavorful and spicy Korean-inspired dish featuring crispy fried chicken wings in a light and zesty sauce, served in a bowl with a variety of toppings.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "zesty gochujang sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken wings and pat them dry with paper towels.",
+    "In a large bowl, whisk together the light soy sauce, zesty gochujang sauce, brown sugar, and garlic.",
+    "Add the chicken wings to the bowl and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray. Remove the chicken wings from the marinade, letting any excess liquid drip off.",
+    "Arrange the chicken wings on the baking sheet in a single layer. Bake for 25-30 minutes, or until cooked through.",
+    "While the chicken wings are baking, cook the rice according to package instructions.",
+    "In a small pan, toast the sesame seeds over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "To assemble the bowls, place a scoop of cooked rice on the bottom, followed by a few pieces of the crispy chicken wings, some kimchi, and a sprinkle of toasted sesame seeds and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chicken",
+    "wings",
+    "bowl",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-korean-chicken-wings-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:25:04.543Z"
+}
