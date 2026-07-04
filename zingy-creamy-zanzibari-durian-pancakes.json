@@ -1,0 +1,77 @@
+{
+  "slug": "zingy-creamy-zanzibari-durian-pancakes",
+  "title": "Durian Pancake Delight",
+  "description": "A tropical twist on classic pancakes, featuring the unique flavor of durian and zanzibari spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pancakes",
+      "amount": "4-6"
+    },
+    {
+      "name": "durian",
+      "amount": "1 cup, pureed"
+    },
+    {
+      "name": "zingy",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "zanzibari",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine dry ingredients (pancakes) in a bowl.",
+    "In a separate bowl, whisk together durian puree, eggs, milk, oil, and sugar.",
+    "Add zingy and zanzibari to the wet ingredients and mix well.",
+    "Pour wet ingredients into dry ingredients and mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop batter by 1/4 cupfuls onto the pan.",
+    "Cook until bubbles appear on the surface and edges start to dry.",
+    "Flip and cook for another 1-2 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "durian",
+    "zingy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-creamy-zanzibari-durian-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:11:17.688Z"
+}
