@@ -1741,18 +1741,16 @@
   },
   {
     "slug": "zesty-canadian-cashew-mousse",
-    "title": "Zesty Canadian Cashew Mousse",
+    "title": "Cashew Mousse with Zesty Canadian Twist",
     "tags": [
-      "cashew",
+      "cashew-mousse",
+      "zesty-canadian",
       "dessert",
-      "gelatin",
-      "plant-based",
-      "tagliere",
       "vegan",
-      "zesty"
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 175,
     "shard": "z"
   },
   {
@@ -6132,17 +6130,16 @@
   },
   {
     "slug": "zesty-gooey-brazilian-chicken-wrap",
-    "title": "Zesty Gooey Brazilian Chicken Wrap",
+    "title": "Brazilian Chicken Wrap",
     "tags": [
-      "brazilian-food",
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "quick-meal",
-      "weeknight"
+      "chicken",
+      "wrap",
+      "brazilian",
+      "grilled",
+      "easy"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 40,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -9189,17 +9186,14 @@
   },
   {
     "slug": "zesty-nutty-indian-chicken-curry",
-    "title": "Zesty Nutty Indian Chicken Curry",
+    "title": "Chicken Curry Delight",
     "tags": [
-      "chicken-dish",
+      "chicken",
       "curry",
-      "indian-cuisine",
-      "low-sodium",
-      "nutty",
-      "weeknight"
+      "indian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
