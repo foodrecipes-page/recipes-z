@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-quick-italian-fennel-sausages-risotto",
+  "title": "Sausage and Fennel Risotto",
+  "description": "A hearty and flavorful Italian-inspired risotto dish featuring sausages and fennel.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "Italian-style sausages"
+    },
+    {
+      "name": "Risotto",
+      "amount": "1 cup",
+      "notes": "Arborio rice"
+    },
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": "Sliced and chopped"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "Dry white wine"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced fennel and cook until tender, about 5 minutes.",
+    "Add the Italian sausages and cook until browned, breaking them up with a spoon as they cook.",
+    "Add the white wine and cook until the liquid has almost completely evaporated, scraping up any browned bits from the bottom of the pan.",
+    "Add 1 cup of the chicken broth to the pan and stir to combine.",
+    "Reduce heat to medium-low and add the Arborio rice. Cook, stirring constantly, for 1-2 minutes.",
+    "Add 1 cup of the chicken broth to the rice and stir until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth in 1-cup increments, stirring constantly and allowing each portion to absorb before adding the next.",
+    "Continue cooking the risotto for 15-20 minutes, or until the rice is tender and the mixture is creamy.",
+    "Stir in the grated Parmesan cheese and cook for an additional 2-3 minutes.",
+    "Season the risotto with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "risotto",
+    "fennel"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-quick-italian-fennel-sausages-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:43:25.951Z"
+}
