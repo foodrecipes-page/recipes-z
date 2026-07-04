@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-german-haricot-bean-stew",
+  "title": "Hearty German Bean Stew",
+  "description": "A comforting and flavorful stew made with haricot beans, perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haricot beans, dried",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Zesty german sausage, sliced",
+      "amount": "1 pound",
+      "notes": "any type of sausage works, but zesty adds flavor"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, brown the sausage over medium-high heat.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for another 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the sausage to the pot and add the dried haricot beans.",
+    "Reduce heat to low and simmer, covered, for 45 minutes or until the beans are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "beans",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-german-haricot-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:52:26.233Z"
+}
