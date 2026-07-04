@@ -1,0 +1,97 @@
+{
+  "slug": "zesty-ethiopian-pork-stew",
+  "title": "Ethiopian Pork Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with tender pork and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty red wine",
+      "amount": "1 cup",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Add pork and cook until browned on all sides, about 5 minutes.",
+    "Add zesty red wine, garam masala, cumin, turmeric, cayenne pepper, salt, and black pepper.",
+    "Bring to a boil, then cover and simmer for 1 1/2 hours, or until pork is tender.",
+    "Stir in stew and cook for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:19:39.940Z"
+}
