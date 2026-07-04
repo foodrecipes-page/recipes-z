@@ -5842,16 +5842,15 @@
   },
   {
     "slug": "zesty-german-haricot-bean-stew",
-    "title": "Zesty German Haricot Bean Stew",
+    "title": "Hearty German Bean Stew",
     "tags": [
-      "german-cuisine",
-      "high-fiber",
-      "one-pot",
-      "paleo-friendly",
-      "weeknight"
+      "german",
+      "stew",
+      "beans",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 70,
+    "cuisine": "german",
+    "totalTimeMin": 65,
     "shard": "z"
   },
   {
@@ -7543,16 +7542,14 @@
   },
   {
     "slug": "zesty-kenyan-nectarine-skewers",
-    "title": "Zesty Kenyan Nectarine Skewers",
+    "title": "Grilled Nectarine Skewers with Zesty Kenyan Glaze",
     "tags": [
-      "easy-to-make",
-      "fruit-based",
-      "gluten-free",
-      "kenyan-cuisine",
-      "low-glycemic",
-      "romantic-dinner"
+      "grilled",
+      "dessert",
+      "summer",
+      "african"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "African",
     "totalTimeMin": 25,
     "shard": "z"
   },
@@ -9930,16 +9927,15 @@
   },
   {
     "slug": "zesty-quick-italian-fennel-sausages-risotto",
-    "title": "zesty quick italian fennel sausages risotto",
+    "title": "Sausage and Fennel Risotto",
     "tags": [
-      "high-protein",
       "italian",
-      "one-pan",
+      "sausage",
       "risotto",
-      "weeknight"
+      "fennel"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -11344,16 +11340,14 @@
   },
   {
     "slug": "zesty-smoked-ethiopian-lamb-kik-alicha",
-    "title": "Zesty Smoked Ethiopian Lamb Kik Alicha",
+    "title": "Smoked Lamb Tibs",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "ethiopian",
+      "lamb",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
