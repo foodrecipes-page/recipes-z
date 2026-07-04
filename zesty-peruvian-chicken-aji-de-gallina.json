@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-peruvian-chicken-aji-de-gallina",
+  "title": "Peruvian Chicken Gallina",
+  "description": "A traditional Peruvian dish featuring chicken cooked in a zesty gallina sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "zesty gallina sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt and black pepper.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the aji amarillo pepper and cook for 1-2 minutes, until fragrant.",
+    "Add the zesty gallina sauce and chicken broth to the skillet, stirring to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "Pour the sauce over the chicken in the baking dish.",
+    "Cover the dish with aluminum foil and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the foil and bake for an additional 5-10 minutes, until the sauce is caramelized.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "aji",
+    "spicy",
+    "gallina"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:03:19.249Z"
+}
