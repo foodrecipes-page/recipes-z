@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-smoked-ethiopian-lamb-kik-alicha",
+  "title": "Smoked Lamb Tibs",
+  "description": "A flavorful and spicy Ethiopian dish made with smoked lamb, onions, and spices. Serve with injera bread or over rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds smoked lamb shoulder",
+      "amount": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 medium tomatoes",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tablespoons alicha spice blend",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground turmeric",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion, tomatoes, alicha spice blend, cumin, turmeric, and cayenne pepper. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the tibs hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoked-ethiopian-lamb-kik-alicha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:39:45.095Z"
+}
