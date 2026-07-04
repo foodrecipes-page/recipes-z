@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-canadian-cashew-mousse",
+  "title": "Cashew Mousse with Zesty Canadian Twist",
+  "description": "A creamy cashew mousse with a zesty Canadian flavor, perfect for a sweet and tangy dessert.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "lemon juice and zest"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 teaspoon",
+      "notes": "maple extract"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "pure"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "1. Drain and rinse the soaked cashews.",
+    "2. Add the cashews, zesty mixture, Canadian flavor, maple syrup, coconut cream, and vanilla extract to a blender.",
+    "3. Blend the mixture on high speed until smooth and creamy.",
+    "4. Taste and adjust the sweetness or zesty level as needed.",
+    "5. Transfer the mousse to individual serving cups or a large serving dish.",
+    "6. Chill the mousse in the refrigerator for at least 2 hours.",
+    "7. Serve the mousse chilled, garnished with fresh fruit or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-mousse",
+    "zesty-canadian",
+    "dessert",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-cashew-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:37:27.191Z"
+}
