@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-gooey-brazilian-chicken-wrap",
+  "title": "Brazilian Chicken Wrap",
+  "description": "A flavorful wrap filled with grilled chicken, gooey cheese, and zesty sauce, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "flour or corn tortilla"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "such as salsa or hot sauce"
+    },
+    {
+      "name": "Brazilian seasoning",
+      "amount": "1 tablespoon",
+      "notes": "such as cumin, coriander, or paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with Brazilian seasoning, salt, and pepper.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, heat olive oil in a pan over medium heat.",
+    "Add gooey cheese to the pan and stir until melted.",
+    "Warm wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing grilled chicken, gooey cheese, and zesty sauce inside.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "brazilian",
+    "grilled",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-brazilian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:20:59.610Z"
+}
