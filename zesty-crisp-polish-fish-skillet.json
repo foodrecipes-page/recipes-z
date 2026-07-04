@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-crisp-polish-fish-skillet",
+  "title": "Polish Skillet Fish Fry",
+  "description": "A quick and easy fish fry recipe using a skillet. Perfect for a weeknight dinner.",
+  "cuisine": "polish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 ounces",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for frying"
+    },
+    {
+      "name": "polish rye breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free option"
+    },
+    {
+      "name": "zesty dill sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add a small amount of oil to the skillet and swirl to coat.",
+    "Place the cod fillets in the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer the cod to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the polish rye breadcrumbs and cook for 1-2 minutes, or until lightly toasted.",
+    "Serve the cod with the toasted breadcrumbs, zesty dill sauce, crisp lettuce, and lemon wedges.",
+    "Enjoy your delicious Polish Skillet Fish Fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "polish",
+    "rye",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-polish-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:41:00.012Z"
+}
