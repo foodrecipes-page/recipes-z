@@ -5506,17 +5506,16 @@
   },
   {
     "slug": "zesty-fresh-egyptian-oranges-tagine",
-    "title": "Zesty Fresh Egyptian Oranges Tagine",
+    "title": "Egyptian Orange Tagine",
     "tags": [
-      "breakfast",
-      "european",
-      "middle-eastern",
-      "morning",
-      "one-pan",
-      "tagine"
+      "north-african",
+      "chicken",
+      "tagine",
+      "orange",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -7908,13 +7907,13 @@
   },
   {
     "slug": "zesty-light-korean-chicken-wings-bowl",
-    "title": "Zesty Light Korean Chicken Wings Bowl",
+    "title": "Korean Chicken Wings Bowl",
     "tags": [
-      "chicken-recipes",
-      "easy-meal",
-      "healthy-dinner",
-      "korean-cuisine",
-      "spicy-food"
+      "korean",
+      "chicken",
+      "wings",
+      "bowl",
+      "rice"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
@@ -14484,15 +14483,15 @@
   },
   {
     "slug": "zingy-creamy-zanzibari-durian-pancakes",
-    "title": "Zingy Creamy Zanzibari Durian Pancakes",
+    "title": "Durian Pancake Delight",
     "tags": [
-      "blueberry",
-      "dessert-pancake",
-      "malaysian-dish",
-      "umami-packed"
+      "breakfast",
+      "pancakes",
+      "durian",
+      "zingy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 75,
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
