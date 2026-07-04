@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-mexican-pistachio-tacos",
+  "title": "Mexican Taco Zesty Delight",
+  "description": "A flavorful and easy-to-make Mexican-inspired dish, perfect for anyone who loves tacos. This recipe combines the zesty flavors of taco seasoning with the crunch of pistachios.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty taco seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pistachio oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mexican corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of pistachio oil in a large skillet over medium-high heat.",
+    "Add zesty taco seasoning and cook for 1 minute, until fragrant.",
+    "Add diced tomatoes, black beans, and corn. Cook for 3-4 minutes, until heated through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning filling onto tortillas.",
+    "Top with diced avocado, a sprinkle of pistachios, and a squeeze of lime juice.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-pistachio-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:08:41.359Z"
+}
