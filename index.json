@@ -1398,17 +1398,15 @@
   },
   {
     "slug": "zesty-brazilian-tod-fritters",
-    "title": "Zesty Brazilian Tod Fritters",
+    "title": "Brazilian Zesty Fritters",
     "tags": [
-      "brazilian-food",
-      "dairy-free",
-      "deep-fried",
-      "fritter-recipes",
-      "snack-time",
-      "vegetarian"
+      "fritters",
+      "brazilian",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -4761,17 +4759,14 @@
   },
   {
     "slug": "zesty-ethiopian-pork-stew",
-    "title": "Zesty Ethiopian Pork Stew",
+    "title": "Ethiopian Pork Stew",
     "tags": [
       "ethiopian",
-      "family-friendly",
-      "one-pot",
-      "pressure-cook",
-      "spicy",
-      "warm"
+      "pork",
+      "stew"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 105,
     "shard": "z"
   },
   {
@@ -6673,17 +6668,15 @@
   },
   {
     "slug": "zesty-herb-chinese-sea-bass-cha-siu-bao",
-    "title": "Zesty Herb Chinese Sea Bass Cha Siu Bao",
+    "title": "Baked Cha Siu Bao with Sea Bass",
     "tags": [
-      "date-night",
-      "french-chinese",
-      "one-pan",
-      "pescatarian",
       "seafood",
-      "weeknight"
+      "fusion",
+      "baked",
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 38,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
