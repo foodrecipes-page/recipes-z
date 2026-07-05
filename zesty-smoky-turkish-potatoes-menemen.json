@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-smoky-turkish-potatoes-menemen",
+  "title": "Menemen Turkish Scrambled Eggs",
+  "description": "A Turkish-inspired scrambled eggs dish made with potatoes and spices. Quick, easy, and delicious, perfect for breakfast or brunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Menemen",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Zesty",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1/2 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Dice the potatoes and sauté them in a pan over medium heat until tender.",
+    "2. Crack the eggs into a bowl and whisk them together. Add zesty and smoky paprika to taste.",
+    "3. Add the whisked eggs to the pan with the potatoes. Scramble the eggs until they're cooked through.",
+    "4. Heat the menemen in a separate pan over low heat.",
+    "5. Serve the scrambled eggs on top of the menemen.",
+    "6. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "breakfast",
+    "eggs",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-turkish-potatoes-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:44:17.112Z"
+}
