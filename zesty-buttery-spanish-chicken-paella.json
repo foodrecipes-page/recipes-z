@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-buttery-spanish-chicken-paella",
+  "title": "Classic Chicken Paella",
+  "description": "A traditional Spanish dish from the Valencia region, made with chicken, saffron-infused rice, and vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Spanish paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "buttery chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the diced bell pepper and cook until tender, about 5 minutes.",
+    "Add the diced tomato and cook for another 2-3 minutes.",
+    "Add the chicken breast pieces and cook until browned, about 5-6 minutes.",
+    "Add the chicken broth, saffron threads, and paella rice. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the cover and cook for an additional 5-10 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Serve hot, garnished with lemon wedges and fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "paella",
+    "spanish",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:13:05.732Z"
+}
