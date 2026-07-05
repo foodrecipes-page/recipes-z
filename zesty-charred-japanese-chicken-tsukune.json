@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-charred-japanese-chicken-tsukune",
+  "title": "Japanese-Style Chicken Skewers with Charred Glaze",
+  "description": "A sweet and savory recipe featuring charred tsukune glaze on skewered chicken, inspired by Japanese flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Charred tsukune sauce (see notes)",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Zesty ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, brown sugar, rice vinegar, and vegetable oil. Add the chicken pieces and marinate for at least 30 minutes.",
+    "3. Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "4. Grill the skewers for 8-10 minutes, or until the chicken is cooked through.",
+    "5. While the chicken is cooking, prepare the charred tsukune glaze by whisking together the charred tsukune sauce, grated ginger, and a pinch of salt.",
+    "6. Once the chicken is cooked, brush the charred tsukune glaze onto the skewers during the last minute of grilling.",
+    "7. Serve the skewers hot, garnished with green onions and additional charred tsukune glaze if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "japanese",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-japanese-chicken-tsukune",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:51:07.809Z"
+}
