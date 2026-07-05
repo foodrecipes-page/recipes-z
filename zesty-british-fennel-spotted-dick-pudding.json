@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-british-fennel-spotted-dick-pudding",
+  "title": "Spotted Dick Pudding with Fennel",
+  "description": "A traditional British dessert with a hint of anise from fennel. A moist and flavorful pudding.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried fruit (currants, raisins)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "spotted dick mix",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x5-inch loaf pan and set aside.",
+    "In a large bowl, whisk together flour, dried fruit, and fennel seeds (if using).",
+    "Add the spotted dick mix and stir until combined.",
+    "Add the butter and mix until the mixture forms a crumbly dough.",
+    "Transfer the dough to the prepared loaf pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool on a wire rack for 10 minutes.",
+    "Transfer the pudding to a serving plate and serve warm, dust with powdered sugar (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "dessert",
+    "pudding",
+    "fennel"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "45g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-british-fennel-spotted-dick-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:16.145Z"
+}
