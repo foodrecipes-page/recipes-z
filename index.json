@@ -1100,16 +1100,17 @@
   },
   {
     "slug": "zesty-bitter-french-ginger-crepes",
-    "title": "Zesty Bitter French Ginger Crepes",
+    "title": "French Ginger Crepes with Zesty Filling",
     "tags": [
-      "brunch-ideas",
-      "cataplana-recipes",
-      "french-inspired",
-      "gluten-free",
-      "sugar-free"
+      "french",
+      "ginger",
+      "crepes",
+      "breakfast",
+      "snack",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -1684,16 +1685,15 @@
   },
   {
     "slug": "zesty-buttery-spanish-chicken-paella",
-    "title": "Zesty Buttery Spanish Chicken Paella",
+    "title": "Classic Chicken Paella",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight"
+      "chicken",
+      "paella",
+      "spanish",
+      "lunch"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -2409,18 +2409,15 @@
   },
   {
     "slug": "zesty-claypot-middle-eastern-eggs-shakshuka",
-    "title": "Zesty Claypot Middle Eastern Eggs Shakshuka",
+    "title": "Middle Eastern Shakshuka",
     "tags": [
-      "ayurvedic",
-      "date-night",
-      "healthy",
-      "high-protein",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "middle eastern",
+      "shakshuka",
+      "eggs",
+      "breakfast"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
