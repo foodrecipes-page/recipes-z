@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-crisp-kenyan-rice-fried-rice",
+  "title": "Kenyan Fried Rice",
+  "description": "A flavorful twist on the classic fried rice dish, inspired by Kenyan cuisine.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "crisp rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kenyan rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "any vegetable oil"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped scallions and toasted peanuts and stir-fry for 2 minutes.",
+    "Push the scallions and peanuts to one side of the pan.",
+    "Add the zesty to the empty side of the pan and stir-fry for 1 minute.",
+    "Add the crispy rice to the pan and stir-fry for 2 minutes.",
+    "Add the Kenyan rice to the pan and stir-fry for 2 minutes.",
+    "Mix all the ingredients together and stir-fry for 1 minute.",
+    "Serve hot and garnish with additional scallions and peanuts if desired.",
+    "Cook for 15 minutes and serve immediately.",
+    "Adjust seasoning as necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "fried-rice",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-kenyan-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:00:12.105Z"
+}
