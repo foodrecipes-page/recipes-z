@@ -1585,16 +1585,14 @@
   },
   {
     "slug": "zesty-buttery-egyptian-cabbage-stew",
-    "title": "Zesty Buttery Egyptian Cabbage Stew",
+    "title": "Egyptian Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "cabbage",
+      "stew",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -10525,16 +10523,14 @@
   },
   {
     "slug": "zesty-russian-oat-milk-batter",
-    "title": "Zesty Russian Oat Milk Batter",
+    "title": "Russian Crepes",
     "tags": [
-      "breakfast",
-      "brunch",
-      "low-glycemic",
-      "oat-milk",
-      "russian"
+      "crepes",
+      "russian",
+      "thin-pancakes"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
