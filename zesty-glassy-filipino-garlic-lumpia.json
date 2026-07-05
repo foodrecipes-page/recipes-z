@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-glassy-filipino-garlic-lumpia",
+  "title": "Filipino-Style Lumpia",
+  "description": "Crispy Filipino spring rolls with a savory, meaty filling. Serve with your favorite dipping sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lumpia Wrappers",
+      "amount": "20-24 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-style Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pan over medium-high heat, cook ground pork until browned, breaking it up with a spoon as it cooks.",
+    "2. Add diced onion and minced garlic to the pan and cook until the onion is translucent.",
+    "3. Add Filipino-style seasoning and cook for 1-2 minutes.",
+    "4. Lay a lumpia wrapper on a clean surface and place about 1 tablespoon of the pork mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with a little water, then fold the bottom half of the wrapper over the filling, followed by the sides, and roll the wrapper up to form a tight cylinder.",
+    "6. Repeat with the remaining wrappers and filling.",
+    "7. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "8. When the oil is hot, add a few of the lumpia to the skillet and fry until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "9. Remove the lumpia from the oil and drain on paper towels.",
+    "10. Serve the lumpia hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lumpia",
+    "filipino",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-glassy-filipino-garlic-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:49:04.770Z"
+}
