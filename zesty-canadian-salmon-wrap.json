@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-canadian-salmon-wrap",
+  "title": "Grilled Salmon Wrap",
+  "description": "A simple and flavorful wrap filled with grilled salmon, topped with zesty coleslaw and wrapped in a crispy Canadian wrap.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Canadian wrap",
+      "amount": "1",
+      "notes": "large size"
+    },
+    {
+      "name": "zesty coleslaw mix",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the salmon fillet with salt and pepper.",
+    "Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, wrap the Canadian wrap in a damp paper towel and microwave for 20-30 seconds to warm it up.",
+    "Spread 1 tablespoon of mayonnaise on the wrap.",
+    "Top the wrap with the grilled salmon, zesty coleslaw mix, and a sprinkle of salt and pepper.",
+    "Drizzle with olive oil and fold the wrap in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "grilled",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:41:10.531Z"
+}
