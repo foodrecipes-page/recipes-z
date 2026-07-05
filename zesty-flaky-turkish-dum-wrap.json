@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-flaky-turkish-dum-wrap",
+  "title": "Turkish-Style Zesty Wrap",
+  "description": "A delicious and easy-to-make wrap filled with juicy turkey, crunchy vegetables, and a tangy zesty sauce. Perfect for a quick lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "100g"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Roll out the flaky dough into a thin sheet.",
+    "Spread the zesty sauce evenly over the dough, leaving a 1-inch border around the edges.",
+    "Top the sauce with the ground turkey, onion, tomato, cucumber, and lettuce.",
+    "Fold the 1-inch border over the filling to seal the wrap.",
+    "Place the wrap on a baking sheet and bake for 15-20 minutes, or until the dough is golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "zesty",
+    "wrap",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-turkish-dum-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:27:48.728Z"
+}
