@@ -2781,18 +2781,15 @@
   },
   {
     "slug": "zesty-crisp-kenyan-rice-fried-rice",
-    "title": "Zesty Crisp Kenyan Rice Fried-Rice",
+    "title": "Kenyan Fried Rice",
     "tags": [
-      "crisp",
-      "date-night",
-      "halal",
       "kenyan",
-      "one-pot",
-      "rice",
-      "savory"
+      "fried-rice",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -5875,17 +5872,14 @@
   },
   {
     "slug": "zesty-glassy-filipino-garlic-lumpia",
-    "title": "Zesty Glassy Filipino Garlic Lumpia",
+    "title": "Filipino-Style Lumpia",
     "tags": [
-      "filipino-food",
-      "garlic-lovers",
-      "lumpia-recipe",
-      "plant-based",
-      "snack-time",
-      "tajine-cooking"
+      "lumpia",
+      "filipino",
+      "spring-rolls"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
