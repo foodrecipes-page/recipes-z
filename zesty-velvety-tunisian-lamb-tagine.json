@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-velvety-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A hearty North African stew made with tender lamb and flavorful spices, served over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "preserved lemon, finely chopped"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 teaspoons",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the cumin, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the chopped preserved lemon and cook for an additional 1-2 minutes.",
+    "Transfer the lamb mixture to a slow cooker.",
+    "Add the chicken broth and stir to combine.",
+    "Cook on low for 6-8 hours or high for 3-4 hours.",
+    "Serve the lamb mixture over cooked couscous and garnish with parsley.",
+    "Optional: add dried fruits and nuts for added flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 360,
+  "totalTimeMin": 375,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "lamb",
+    "stew",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:10:06.895Z"
+}
