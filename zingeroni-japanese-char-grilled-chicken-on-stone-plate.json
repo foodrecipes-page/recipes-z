@@ -1,0 +1,68 @@
+{
+  "slug": "zingeroni-japanese-char-grilled-chicken-on-stone-plate",
+  "title": "Grilled Chicken Zingeroni",
+  "description": "A flavorful grilled chicken dish marinated in zingeroni sauce, served with a side of Japanese-inspired grilled vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zingeroni sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "japanese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "grilled vegetables (onion, bell pepper, zucchini)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together zingeroni sauce and rice vinegar.",
+    "Add the mixture to the chicken breast and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and grill for 5-6 minutes per side.",
+    "Meanwhile, brush the vegetables with olive oil and grill for 3-4 minutes per side.",
+    "Slice the grilled chicken and serve with the vegetables.",
+    "Serve with additional zingeroni sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "japanese",
+    "zingeroni"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingeroni-japanese-char-grilled-chicken-on-stone-plate",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:05.618Z"
+}
