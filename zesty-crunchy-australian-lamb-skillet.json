@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-crunchy-australian-lamb-skillet",
+  "title": "Pan-Seared Australian Lamb Chops",
+  "description": "A simple yet flavorful lamb dish, featuring Australian lamb chops seared in a hot skillet. The zesty and crunchy elements add a delightful contrast to the dish.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb chops",
+      "amount": "4",
+      "notes": "1.5 pounds"
+    },
+    {
+      "name": "zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb chops with salt and pepper.",
+    "Heat the olive oil in a hot skillet over medium-high heat.",
+    "Sear the lamb chops for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until cooked to your desired level of doneness.",
+    "Meanwhile, mix the zest and crunchy breadcrumbs in a small bowl.",
+    "Remove the skillet from the oven and sprinkle the breadcrumb mixture over the lamb chops.",
+    "Return the skillet to the stovetop and cook for an additional 1-2 minutes, or until the breadcrumbs are crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "skillet",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-australian-lamb-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:59:16.387Z"
+}
