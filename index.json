@@ -1536,17 +1536,15 @@
   },
   {
     "slug": "zesty-british-fennel-spotted-dick-pudding",
-    "title": "Zesty British Fennel Spotted Dick Pudding",
+    "title": "Spotted Dick Pudding with Fennel",
     "tags": [
-      "british-desserts",
-      "comfort-food",
-      "fennel-seeds",
-      "plant-based",
-      "post-workout",
-      "steamed-pudding"
+      "british",
+      "dessert",
+      "pudding",
+      "fennel"
     ],
     "cuisine": "British",
-    "totalTimeMin": 150,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -14378,18 +14376,15 @@
   },
   {
     "slug": "zingeroni-japanese-char-grilled-chicken-on-stone-plate",
-    "title": "Zingeroni Japanese Char Grilled Chicken On Stone Plate",
+    "title": "Grilled Chicken Zingeroni",
     "tags": [
-      "char-grilled",
-      "high-protein",
+      "grilled",
+      "chicken",
       "japanese",
-      "kansai",
-      "one-pot",
-      "spicy",
-      "yakitori"
+      "zingeroni"
     ],
-    "cuisine": "Japanese (Kansai)",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
