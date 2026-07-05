@@ -1,0 +1,71 @@
+{
+  "slug": "zzestful-french-sushi-rice-mini-pilaf",
+  "title": "Sushi Rice Bowl with French Mini Pilaf",
+  "description": "A fusion dish combining sushi rice with a flavorful French-inspired mini pilaf, perfect for a quick and easy meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "french",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "zzestful",
+      "amount": "1 small onion, finely chopped"
+    },
+    {
+      "name": "mini",
+      "amount": "1 cup mini bell peppers, sliced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup cooked French pilaf"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell peppers and cook for an additional 2-3 minutes.",
+    "In a separate pan, heat the cooked sushi rice over low heat.",
+    "Combine the cooked pilaf with the sushi rice and stir to combine.",
+    "Add the cooked onion and bell pepper mixture to the rice and pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve the sushi rice bowl hot, garnished with additional sliced bell peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zzestful-french-sushi-rice-mini-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:57:08.503Z"
+}
