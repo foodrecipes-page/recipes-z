@@ -2522,18 +2522,15 @@
   },
   {
     "slug": "zesty-creamy-portuguese-penne-pasta",
-    "title": "Zesty Creamy Portuguese Penne Pasta",
+    "title": "Creamy Portuguese Pasta",
     "tags": [
-      "creamy",
-      "meal-prep",
-      "penne",
+      "pasta",
       "portuguese",
-      "sattvic-friendly",
-      "spicy",
-      "weeknight"
+      "cream-sauce",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
