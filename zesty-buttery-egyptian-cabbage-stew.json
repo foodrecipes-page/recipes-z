@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-buttery-egyptian-cabbage-stew",
+  "title": "Egyptian Stew",
+  "description": "A hearty and flavorful stew inspired by the spices of Egypt, featuring tender cabbage and rich stew.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian stew mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "zesty cabbage spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add Egyptian stew mix and cook for 1 minute, stirring constantly.",
+    "Add shredded cabbage and cook until tender, about 10 minutes.",
+    "Stir in zesty cabbage spice blend and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "stew",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-egyptian-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:52:34.700Z"
+}
