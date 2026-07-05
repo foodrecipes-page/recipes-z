@@ -1805,17 +1805,15 @@
   },
   {
     "slug": "zesty-canadian-salmon-wrap",
-    "title": "Zesty Canadian Salmon Wrap",
+    "title": "Grilled Salmon Wrap",
     "tags": [
-      "brunch",
-      "canadian",
-      "healthy",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "salmon",
+      "grilled",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -1903,17 +1901,15 @@
   },
   {
     "slug": "zesty-charred-japanese-chicken-tsukune",
-    "title": "Zesty Charred Japanese Chicken Tsukune",
+    "title": "Japanese-Style Chicken Skewers with Charred Glaze",
     "tags": [
-      "charred-food",
-      "chicken-recipes",
-      "dinner-ideas",
-      "japanese-cuisine",
-      "paleo-friendly",
-      "tsukune-recipes"
+      "grilling",
+      "japanese",
+      "chicken",
+      "skewers"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -10046,17 +10042,15 @@
   },
   {
     "slug": "zesty-roasted-brazilian-beef-brisket-toast",
-    "title": "Zesty Roasted Brazilian Beef Brisket Toast",
+    "title": "Beef Brisket Empanadas",
     "tags": [
-      "beef-recipes",
-      "brazilian-cuisine",
-      "family-dinner",
-      "kid-friendly",
-      "kosher-friendly",
-      "roasted-meat"
+      "latin-cuisine",
+      "beef",
+      "empanadas",
+      "snack-food"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 200,
+    "cuisine": "latin",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
