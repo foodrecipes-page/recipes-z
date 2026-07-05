@@ -1,0 +1,58 @@
+{
+  "slug": "zesty-roasted-brazilian-beef-brisket-toast",
+  "title": "Beef Brisket Empanadas",
+  "description": "A twist on traditional empanadas, filled with tender beef brisket and served with a side of zesty roasted sauce.",
+  "cuisine": "latin",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "preferably flat cut"
+    },
+    {
+      "name": "toast",
+      "amount": "1 cup, torn into small pieces",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "brazilian seasoning",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the beef brisket with brazilian seasoning.",
+    "Heat a skillet over medium heat and sear the beef brisket until browned on both sides.",
+    "Transfer the beef to a baking dish and roast in the oven for 20 minutes.",
+    "While the beef is cooking, mix together the torn toast and zesty roasted (homemade or store-bought) sauce in a bowl.",
+    "Once the beef is done, let it rest for 5 minutes before slicing thinly against the grain.",
+    "Assemble the empanadas by placing a slice of beef inside each pastry and serving with the toast-zesty sauce mixture on the side.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-cuisine",
+    "beef",
+    "empanadas",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-brazilian-beef-brisket-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:39:49.730Z"
+}
