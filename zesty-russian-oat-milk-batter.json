@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-russian-oat-milk-batter",
+  "title": "Russian Crepes",
+  "description": "Delicious thin pancakes with a hint of zesty flavor, perfect for a snack or dessert. This recipe serves 4-6 people.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "batter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "zesty batter mix",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together oat flour and milk until smooth.",
+    "Add batter and zesty batter mix to the bowl. Whisk until well combined.",
+    "Heat a non-stick pan over medium heat.",
+    "Pour 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes or until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for another minute or until golden brown.",
+    "Repeat with remaining batter.",
+    "Serve warm with your favorite toppings or fillings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crepes",
+    "russian",
+    "thin-pancakes"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-russian-oat-milk-batter",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:22:09.886Z"
+}
