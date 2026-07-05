@@ -1,0 +1,81 @@
+{
+  "slug": "zenith-creamy-korean-fennel-bisque",
+  "title": "Creamy Fennel Zenith Soup",
+  "description": "A rich and creamy soup blending the flavors of fennel and zenith with a hint of korean spice.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "zeith",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bisque",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat garlic in a pot on medium heat until fragrant.",
+    "Add fennel and cook until tender, about 5 minutes.",
+    "Add korean chili flakes and cook for another minute.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat and add zeith, bisque, salt, and pepper.",
+    "Simmer for 10 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in cream and cook until heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "korean",
+    "vegetarian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-creamy-korean-fennel-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:37:58.866Z"
+}
