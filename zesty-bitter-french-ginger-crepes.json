@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-bitter-french-ginger-crepes",
+  "title": "French Ginger Crepes with Zesty Filling",
+  "description": "Delicate French crepes filled with a zesty and refreshing ginger filling, perfect for a light snack or dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "1.2 oz",
+      "notes": "Finely grated"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Zesty spread",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "French crepes",
+      "amount": "4-6",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the grated ginger, sugar, and lemon juice until well combined.",
+    "Add the zesty spread to the bowl and mix until smooth.",
+    "Heat a large skillet or crepe pan over medium heat.",
+    "Pour a small amount of melted butter into the pan and tilt to coat the surface.",
+    "Lay a crepe in the pan and cook for 30-45 seconds on each side, until lightly browned.",
+    "Repeat with the remaining crepes.",
+    "To assemble the crepes, place a cooked crepe on a flat surface and spread a tablespoon of the ginger filling down the center of the crepe.",
+    "Roll the crepe up tightly and repeat with the remaining crepes and filling.",
+    "Serve the crepes warm or at room temperature, garnished with additional grated ginger if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "ginger",
+    "crepes",
+    "breakfast",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "25g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bitter-french-ginger-crepes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:44:42.793Z"
+}
