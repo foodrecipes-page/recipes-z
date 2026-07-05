@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-baby-korean-potatoes-mixed-rice-bowl",
+  "title": "Korean-Style Zesty Rice Bowl",
+  "description": "A flavorful and spicy rice bowl dish made with Korean chili flakes and a zesty twist. This easy-to-make recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mixed rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "Add the diced potatoes and cook for 5 minutes, or until slightly browned.",
+    "Add the Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the cooked mixed rice to the pan and stir to combine with the potatoes and chili flakes.",
+    "Add the zesty sauce and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the rice is heated through.",
+    "Stir in the fresh baby spinach and cook until wilted.",
+    "Serve hot in bowls and garnish with additional zesty sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "gluten-free",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-baby-korean-potatoes-mixed-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:52:40.471Z"
+}
