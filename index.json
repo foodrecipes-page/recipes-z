@@ -5466,17 +5466,14 @@
   },
   {
     "slug": "zesty-fresh-canadian-chicken-hash",
-    "title": "Zesty Fresh Canadian Chicken Hash",
+    "title": "Pan-Seared Chicken Hash",
     "tags": [
-      "canadian-cuisine",
-      "chicken-recipes",
-      "gluten-free",
-      "lunch-ideas",
-      "one-pan",
-      "whole30"
+      "canadian",
+      "breakfast",
+      "chicken"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -9089,16 +9086,15 @@
   },
   {
     "slug": "zesty-norwegian-lamb-tagine",
-    "title": "Zesty Norwegian Lamb Tagine",
+    "title": "Norwegian Lamb Tagine",
     "tags": [
-      "halal-recipes",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "one-pot-meals",
-      "winter-comfort-food"
+      "norwegian",
+      "lamb",
+      "tagine",
+      "slow-cooked"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
@@ -12010,18 +12006,15 @@
   },
   {
     "slug": "zesty-smoky-turkish-potatoes-menemen",
-    "title": "Zesty Smoky Turkish Potatoes Menemen",
+    "title": "Menemen Turkish Scrambled Eggs",
     "tags": [
-      "breakfast",
-      "brunch",
-      "smoky",
-      "spicy",
       "turkish",
-      "vegan",
-      "vegetarian"
+      "breakfast",
+      "eggs",
+      "spicy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -13820,18 +13813,15 @@
   },
   {
     "slug": "zesty-velvety-tunisian-lamb-tagine",
-    "title": "Zesty Velvety Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "easy-weeknight",
-      "high-protein",
+      "north-african",
       "lamb",
-      "one-pan",
-      "raspberry",
-      "tunisian",
-      "weeknight"
+      "stew",
+      "slow-cooker"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 195,
+    "totalTimeMin": 375,
     "shard": "z"
   },
   {
