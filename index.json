@@ -3678,17 +3678,15 @@
   },
   {
     "slug": "zesty-crunchy-australian-lamb-skillet",
-    "title": "Zesty Crunchy Australian Lamb Skillet",
+    "title": "Pan-Seared Australian Lamb Chops",
     "tags": [
-      "australian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "weeknight"
+      "australian",
+      "lamb",
+      "skillet",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 28,
     "shard": "z"
   },
   {
@@ -5186,17 +5184,16 @@
   },
   {
     "slug": "zesty-flaky-turkish-dum-wrap",
-    "title": "Zesty, Flaky Turkish Dum Wrap",
+    "title": "Turkish-Style Zesty Wrap",
     "tags": [
-      "comfort-food",
-      "low-sodium-friendly",
-      "one-pan",
-      "sick-day-recipe",
-      "turkish-food",
-      "umami-rich"
+      "turkish",
+      "zesty",
+      "wrap",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -14600,13 +14597,15 @@
   },
   {
     "slug": "zzestful-french-sushi-rice-mini-pilaf",
-    "title": "Zzestful French Sushi Rice Mini-Pilaf",
+    "title": "Sushi Rice Bowl with French Mini Pilaf",
     "tags": [
-      "french-provence",
-      "snack"
+      "easy",
+      "quick",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "French (Provence)",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
