@@ -1585,17 +1585,15 @@
   },
   {
     "slug": "zesty-buttery-ethiopian-shrimp-fir-fir",
-    "title": "Zesty Buttery Ethiopian Shrimp Fir Fir",
+    "title": "Pan-Seared Shrimp with Ethiopian Spices",
     "tags": [
-      "dark-chocolate",
-      "ethiopian-cuisine",
-      "flambe",
-      "high-protein",
-      "pescatarian-friendly",
+      "shrimp",
+      "ethiopian",
+      "spicy",
       "seafood"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -12520,17 +12518,14 @@
   },
   {
     "slug": "zesty-springy-japanese-pork-shoulder-gyudon",
-    "title": "Zesty Springy Japanese Pork Shoulder Gyudon",
+    "title": "Japanese-Style Pork Gyudon",
     "tags": [
-      "asian-inspired",
-      "gluten-free",
-      "japanese-cuisine",
-      "low-carb",
-      "one-pot",
-      "pressure-cooker"
+      "japanese",
+      "pork",
+      "gyudon"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 120,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -14307,14 +14302,12 @@
   },
   {
     "slug": "zesty-yeasty-turkish-portobello-mushrooms-doner-kebab",
-    "title": "Zesty Yeasty Turkish Portobello Mushrooms Doner Kebab",
+    "title": "Turkish Portobello Doner Kebab",
     "tags": [
-      "brunch-ideas",
-      "ovo-vegetarian",
-      "pandan-leaves",
-      "portobello-mushrooms",
-      "turkish-food",
-      "yeasty-dishes"
+      "turkish",
+      "portobello",
+      "kebab",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
