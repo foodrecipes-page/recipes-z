@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-garlicky-algerian-tortillas-quesadilla",
+  "title": "Algerian Tortilla Quesadilla",
+  "description": "A flavorful twist on a classic quesadilla, this Algerian-inspired dish features zesty and garlicky flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky hummus",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty harissa",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or similar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet or griddle over medium heat.",
+    "Place a tortilla in the skillet and spread a quarter of the hummus on half of the tortilla.",
+    "Sprinkle a quarter of the cheese, some parsley, and a pinch of harissa on top of the hummus.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "quesadilla",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-algerian-tortillas-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:18:16.108Z"
+}
