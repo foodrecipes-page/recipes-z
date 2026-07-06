@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-rich-mexican-poblanos-horchata",
+  "title": "Horchata Poblano Soup",
+  "description": "A creamy and spicy soup made with roasted poblanos and served with a side of horchata. This Mexican-inspired dish is perfect for a chilly evening.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblanos",
+      "amount": "2",
+      "notes": "4-6 poblano peppers, seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "zesty Mexican seasoning"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "horseradish",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the poblano peppers in the oven for 20-25 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool down.",
+    "Once cool enough to handle, peel the skin off the peppers and chop them into large pieces.",
+    "In a large pot, sauté the onion and garlic in a little bit of oil until softened.",
+    "Add the chopped poblano peppers, chicken broth, zesty seasoning, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and let it simmer for 20-25 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "If desired, add heavy cream and horseradish to the soup for extra creaminess.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "soup",
+    "poblano",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-rich-mexican-poblanos-horchata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:23:30.662Z"
+}
