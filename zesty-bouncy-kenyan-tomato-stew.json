@@ -1,0 +1,55 @@
+{
+  "slug": "zesty-bouncy-kenyan-tomato-stew",
+  "title": "Kenyan Stew",
+  "description": "A hearty stew from the heart of Africa, made with tender meat and flavorful spices.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kenyan",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the kenyan and cook until browned, about 5 minutes.",
+    "Add the stew and tomato, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "stew",
+    "kenyan",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bouncy-kenyan-tomato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:52:04.620Z"
+}
