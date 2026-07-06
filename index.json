@@ -1207,16 +1207,14 @@
   },
   {
     "slug": "zesty-bouncy-kenyan-tomato-stew",
-    "title": "Zesty Bouncy Kenyan Tomato Stew",
+    "title": "Kenyan Stew",
     "tags": [
-      "bouncy",
-      "herbal",
+      "african",
+      "stew",
       "kenyan",
-      "tandoor",
-      "vegan",
-      "zesty"
+      "tomato"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "African",
     "totalTimeMin": 30,
     "shard": "z"
   },
@@ -2369,17 +2367,15 @@
   },
   {
     "slug": "zesty-citrusy-portuguese-mozzarella-balls-skewers",
-    "title": "Zesty Citrusy Portuguese Mozzarella Balls Skewers",
+    "title": "Grilled Mozzarella Balls Skewers with Zesty Citrus Glaze",
     "tags": [
-      "citrusy",
-      "easy-dinner",
-      "mozzarella",
-      "portuguese",
-      "skewers",
-      "weeknight"
+      "grilled",
+      "appetizer",
+      "italian",
+      "easy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 27,
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -6051,18 +6047,15 @@
   },
   {
     "slug": "zesty-golden-thai-rice-khanom-krok",
-    "title": "zesty golden thai rice khanom krok",
+    "title": "Golden Thai Krok Cakes with Sweet Rice",
     "tags": [
+      "thai",
       "dessert",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "streetfood",
-      "thaifood",
-      "weeknight"
+      "rice",
+      "sweet"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 85,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -13397,15 +13390,14 @@
   },
   {
     "slug": "zesty-ukrainian-white-asparagus-wrap",
-    "title": "Zesty Ukrainian White Asparagus Wrap",
+    "title": "Asparagus and White Wrap",
     "tags": [
-      "healthy",
-      "macrobiotic-friendly",
-      "quick",
-      "zesty"
+      "asparagus",
+      "ukrainian-wrap",
+      "quick-meal"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 20,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 13,
     "shard": "z"
   },
   {
