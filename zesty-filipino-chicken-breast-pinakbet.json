@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-filipino-chicken-breast-pinakbet",
+  "title": "Pinakbet Chicken Breast",
+  "description": "A Filipino-inspired dish that combines the flavors of pinakbet with the richness of chicken breast.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4 pieces",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Pinakbet",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style vinegar"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat. Sear the chicken breast until browned on both sides.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, heat the zesty in a saucepan over medium heat.",
+    "Add the pinakbet to the saucepan and stir to combine. Bring the mixture to a simmer.",
+    "Once the chicken is cooked, remove it from the oven and let it rest for 5 minutes.",
+    "Serve the chicken breast with the pinakbet sauce spooned over the top.",
+    "Garnish with minced garlic, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "filipino",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-filipino-chicken-breast-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:49:23.667Z"
+}
