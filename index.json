@@ -5466,16 +5466,15 @@
   },
   {
     "slug": "zesty-fresh-egyptian-oranges-tagine",
-    "title": "Egyptian Orange Tagine",
+    "title": "Moroccan Orange Tagine",
     "tags": [
       "north-african",
-      "chicken",
-      "tagine",
+      "moroccan",
       "orange",
-      "gluten-free"
+      "slow-cooked"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -10109,17 +10108,14 @@
   },
   {
     "slug": "zesty-roasted-dutch-chicken-stew",
-    "title": "Zesty Roasted Dutch Chicken Stew",
+    "title": "Dutch Chicken Stew",
     "tags": [
-      "comfort-food",
-      "date-night",
-      "dutch-cuisine",
-      "one-pot",
-      "spicy",
-      "spring-inspired"
+      "chicken",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
