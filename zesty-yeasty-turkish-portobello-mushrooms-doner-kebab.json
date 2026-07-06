@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-yeasty-turkish-portobello-mushrooms-doner-kebab",
+  "title": "Turkish Portobello Doner Kebab",
+  "description": "A vegetarian twist on the classic Turkish doner kebab, featuring marinated portobello mushrooms and served in a warm pita with toppings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4-6",
+      "notes": "Large caps, stems removed"
+    },
+    {
+      "name": "Zesty feta cheese",
+      "amount": "1 block",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4-6 pita",
+      "notes": "Warm for serving"
+    },
+    {
+      "name": "Doner kebab spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing mushrooms"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Sliced for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together doner kebab spice blend, olive oil, and 1 tsp water.",
+    "Place portobello mushrooms in a large bowl and brush with spice mixture, making sure to coat both sides.",
+    "Grill mushrooms for 4-5 minutes per side, or until tender and slightly charred.",
+    "Warm Turkish bread by wrapping in foil and heating in the oven for 5 minutes.",
+    "Assemble kebabs by placing a grilled mushroom in each pita, topping with crumbled feta cheese, chopped parsley, and sliced tomato.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "portobello",
+    "kebab",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-turkish-portobello-mushrooms-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:03:07.239Z"
+}
