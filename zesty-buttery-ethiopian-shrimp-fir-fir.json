@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-buttery-ethiopian-shrimp-fir-fir",
+  "title": "Pan-Seared Shrimp with Ethiopian Spices",
+  "description": "A flavorful and spicy dish that combines the richness of butter with the zesty flavors of Ethiopian cuisine. Serve as a main course or as a snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Butter, unsalted",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Berbere spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fir needles",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Melt 2 tablespoons of butter and add the Ethiopian Berbere spice mix. Stir to combine.",
+    "Add the shrimp and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of butter to the skillet and stir in the fir needles.",
+    "Cook for 1-2 minutes, or until the fir needles are fragrant.",
+    "Stir in the zesty lemon juice and season with salt and black pepper.",
+    "Return the shrimp to the skillet and toss to coat with the sauce.",
+    "Serve the shrimp hot, garnished with additional fir needles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "ethiopian",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-ethiopian-shrimp-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:04:35.451Z"
+}
