@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-springy-japanese-pork-shoulder-gyudon",
+  "title": "Japanese-Style Pork Gyudon",
+  "description": "A popular Japanese dish featuring thinly sliced pork and onions in a savory broth, served over rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound, sliced",
+      "notes": "Thinly slice the pork against the grain."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, thinly sliced",
+      "notes": "Springy onions add a great texture to the dish."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use Japanese soy sauce for an authentic flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Balance out the savory flavors with a touch of sweetness."
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Add a hint of acidity to the dish."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": "Grate the ginger using a microplane for an even flavor."
+    },
+    {
+      "name": "Zesty dashi broth",
+      "amount": "4 cups",
+      "notes": "Dashi is a traditional Japanese broth made from dried seaweed and dried fish."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "Use springy green onions for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced onions to the skillet and cook until they are softened and lightly browned, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the soy sauce, sugar, and rice vinegar to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes.",
+    "Add the dashi broth to the skillet and bring to a simmer.",
+    "Add the cooked pork back to the skillet and cook for an additional 2-3 minutes, or until the pork is coated in the sauce.",
+    "Serve the pork and onions over a bed of steaming hot rice.",
+    "Garnish with thinly sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "gyudon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "35g",
+    "carbs": "25g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-springy-japanese-pork-shoulder-gyudon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:29:54.148Z"
+}
