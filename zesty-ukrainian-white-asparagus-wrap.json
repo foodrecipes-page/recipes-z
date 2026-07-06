@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-ukrainian-white-asparagus-wrap",
+  "title": "Asparagus and White Wrap",
+  "description": "A simple yet flavorful Ukrainian-inspired dish featuring asparagus and white wrap.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white wrap",
+      "amount": "4"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 bunch",
+      "notes": "trim the ends"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or griddle over medium heat.",
+    "2. Add olive oil if using, then add asparagus and cook for 3-4 minutes.",
+    "3. Flip asparagus and cook for an additional 3-4 minutes or until tender.",
+    "4. Meanwhile, warm the white wrap in the microwave for 10-15 seconds.",
+    "5. Assemble the wrap by placing asparagus in the center.",
+    "6. Sprinkle zesty seasoning to taste.",
+    "7. Fold the wrap to enclose the filling."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "ukrainian-wrap",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-white-asparagus-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:35:41.115Z"
+}
