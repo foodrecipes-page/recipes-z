@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-croatian-shrimp-skewers",
+  "title": "Croatian Shrimp Skewers",
+  "description": "A simple and flavorful dish from the coast of Croatia, featuring succulent shrimp and a zesty twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tbsp",
+      "notes": "Croatian-style zesty seasoning blend"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 400°F (200°C).",
+    "2. Thread shrimp onto skewers, leaving a small space between each piece.",
+    "3. In a small bowl, mix together zesty seasoning, lemon juice, garlic, salt, and black pepper.",
+    "4. Brush the skewers with olive oil and sprinkle with the zesty mixture.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the shrimp are pink and cooked through.",
+    "6. Serve hot, garnished with lemon wedges and a sprinkle of zesty seasoning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "croatian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:05:15.357Z"
+}
