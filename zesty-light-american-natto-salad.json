@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-light-american-natto-salad",
+  "title": "American-Style Zesty Grilled Chicken Salad",
+  "description": "A refreshing summer salad featuring grilled chicken, mixed greens, and a zesty dressing.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "lettuce, spinach, arugula"
+    },
+    {
+      "name": "zesty dressing",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "cherry or grape"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": " pre-washed and ready-to-use"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season chicken breast with salt, pepper, and your favorite seasonings.",
+    "3. Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Let chicken rest for 5 minutes before slicing.",
+    "5. In a large bowl, combine mixed greens, cucumber, tomato, and red onion.",
+    "6. In a small bowl, whisk together zesty dressing ingredients.",
+    "7. Add sliced chicken to the bowl with the mixed greens and toss with zesty dressing.",
+    "8. Top with salad and serve immediately.",
+    "9. Refrigerate any leftovers for up to 24 hours.",
+    "10. Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "salad",
+    "summer",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-american-natto-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:20:11.114Z"
+}
