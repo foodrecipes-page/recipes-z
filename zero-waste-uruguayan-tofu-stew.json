@@ -1,0 +1,83 @@
+{
+  "slug": "zero-waste-uruguayan-tofu-stew",
+  "title": "Zero Waste Tofu Stew",
+  "description": "A hearty stew made with tofu and utilizing zero waste ingredients. A delicious and sustainable meal option.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "sustainable"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)"
+    },
+    {
+      "name": "Zero Waste Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onions and celery and cook until the vegetables are softened.",
+    "Add the carrots and potatoes and cook for an additional 5 minutes.",
+    "Add the vegetable broth, tofu, and tomatoes.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "This stew can be served with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sustainable",
+    "zero-waste",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-waste-uruguayan-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:07:28.860Z"
+}
