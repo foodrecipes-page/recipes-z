@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-citrusy-portuguese-mozzarella-balls-skewers",
+  "title": "Grilled Mozzarella Balls Skewers with Zesty Citrus Glaze",
+  "description": "A simple and delicious appetizer featuring grilled mozzarella balls on skewers, served with a zesty citrus glaze.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella balls",
+      "amount": "1 package (12-15 balls)",
+      "notes": "Fresh or store-bought"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12-15",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "2 tablespoons",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "1 garlic clove",
+      "amount": "minced",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread a mozzarella ball onto each skewer.",
+    "3. Brush the grill with oil to prevent sticking.",
+    "4. Grill the skewers for 2-3 minutes per side, or until the cheese is melted and the skewers are lightly charred.",
+    "5. In a small bowl, mix together the lemon zest, lemon juice, and garlic clove (if using).",
+    "6. Brush the zesty citrus glaze over the grilled skewers.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "appetizer",
+    "italian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-citrusy-portuguese-mozzarella-balls-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:27:46.670Z"
+}
