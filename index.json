@@ -5612,17 +5612,15 @@
   },
   {
     "slug": "zesty-garlicky-algerian-tortillas-quesadilla",
-    "title": "Zesty Garlicky Algerian Tortillas Quesadilla",
+    "title": "Algerian Tortilla Quesadilla",
     "tags": [
-      "gluten-free",
-      "mexican-inspired",
-      "north-african",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "algerian",
+      "quesadilla",
+      "mediterranean",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 13,
     "shard": "z"
   },
   {
