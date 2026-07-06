@@ -9914,17 +9914,15 @@
   },
   {
     "slug": "zesty-rich-mexican-poblanos-horchata",
-    "title": "Zesty Rich Mexican Poblanos Horchata",
+    "title": "Horchata Poblano Soup",
     "tags": [
-      "brunch-ideas",
-      "halal-friendly",
-      "mexican-cuisine",
-      "roasted-vegetables",
-      "unique-horchata",
-      "vegetarian-options"
+      "mexican",
+      "soup",
+      "poblano",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "cuisine": "mexican",
+    "totalTimeMin": 70,
     "shard": "z"
   },
   {
@@ -10792,17 +10790,15 @@
   },
   {
     "slug": "zesty-sichuan-lentils-stew",
-    "title": "Zesty Sichuan Lentils Stew",
+    "title": "Sichuan Lentil Stew",
     "tags": [
-      "mason-jar",
-      "one-pot",
-      "paleo-friendly",
-      "quick",
       "sichuan",
-      "vegan"
+      "lentils",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
