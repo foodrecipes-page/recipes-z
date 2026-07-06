@@ -157,18 +157,15 @@
   },
   {
     "slug": "zenith-fried-slovakian-nectarine-dumplings",
-    "title": "Zenith Fried Slovakian Nectarine Dumplings",
+    "title": "Pan-Seared Nectarine Dumplings",
     "tags": [
-      "fried",
-      "nectarine",
-      "pandan",
-      "savory",
+      "dessert",
       "slovakian",
-      "snack",
-      "vegetarian"
+      "nectarine",
+      "dumplings"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -259,17 +256,16 @@
   },
   {
     "slug": "zero-calorie-algerian-chicken-tagine",
-    "title": "Zero Calorie Algerian Chicken Tagine",
+    "title": "Classic Algerian Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
-      "chicken-recipes",
-      "healthy-dinner",
-      "low-calorie",
-      "one-pot",
-      "weeknight-meal"
+      "algerian",
+      "chicken",
+      "tagine",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
