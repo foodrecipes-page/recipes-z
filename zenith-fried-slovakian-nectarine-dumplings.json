@@ -1,0 +1,52 @@
+{
+  "slug": "zenith-fried-slovakian-nectarine-dumplings",
+  "title": "Pan-Seared Nectarine Dumplings",
+  "description": "A sweet and savory dessert featuring fried dumplings filled with nectarine, perfect for a Slovakian-inspired treat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dumplings (Slovakian)",
+      "amount": "10 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Nectarine",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Place the dumplings in the pan and fry until golden brown on both sides.",
+    "Meanwhile, slice the nectarine and set aside.",
+    "Once the dumplings are cooked, add the sliced nectarine to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the nectarine is tender.",
+    "Serve the pan-seared dumplings warm, topped with the nectarine mixture.",
+    "Garnish with additional nectarine slices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "slovakian",
+    "nectarine",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-fried-slovakian-nectarine-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:52:58.778Z"
+}
