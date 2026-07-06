@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-golden-thai-rice-khanom-krok",
+  "title": "Golden Thai Krok Cakes with Sweet Rice",
+  "description": "A traditional Thai dessert made with crispy krok cakes and creamy sweet rice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khanom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Thai Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Krok",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add krok and cook until crispy.",
+    "In a separate pan, combine coconut milk, sugar, and vanilla extract.",
+    "Bring to a boil and then reduce heat.",
+    "Add khanom and stir until dissolved.",
+    "Combine cooked krok and sweet rice mixture.",
+    "Serve warm with golden rice.",
+    "Optional: Add zesty elements such as lime or chili flakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "rice",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-golden-thai-rice-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:10:57.384Z"
+}
