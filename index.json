@@ -558,18 +558,14 @@
   },
   {
     "slug": "zero-waste-uruguayan-tofu-stew",
-    "title": "Uruguayan Tofu Stew",
+    "title": "Zero Waste Tofu Stew",
     "tags": [
-      "comfort-food",
-      "garlic",
-      "mushrooms",
-      "one-pot",
-      "tofu",
-      "uruguayan",
-      "vegan"
+      "sustainable",
+      "zero-waste",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -3497,17 +3493,15 @@
   },
   {
     "slug": "zesty-croatian-shrimp-skewers",
-    "title": "Zesty Croatian Shrimp Skewers",
+    "title": "Croatian Shrimp Skewers",
     "tags": [
-      "croatian-cuisine",
-      "date-night",
-      "high-protein",
-      "one-pan",
+      "grilled",
       "seafood",
-      "weeknight"
+      "croatian",
+      "easy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 36,
     "shard": "z"
   },
   {
@@ -6190,17 +6184,14 @@
   },
   {
     "slug": "zesty-gooey-ukrainian-pancakes",
-    "title": "Zesty Gooey Ukrainian Pancakes",
+    "title": "Ukrainian-Style Zesty Pancakes",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "sugar-free",
-      "ukrainian-cuisine",
-      "weeknight"
+      "breakfast",
+      "pancakes",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
