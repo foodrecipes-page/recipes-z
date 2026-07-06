@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-roasted-dutch-chicken-stew",
+  "title": "Dutch Chicken Stew",
+  "description": "A hearty, comforting Dutch-inspired stew made with tender chicken and a blend of flavorful spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zesty stew seasoning",
+      "amount": "2 teaspoons",
+      "notes": "dutch-style blend"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "roasted potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the stew seasoning, mustard, and onion to the pot and cook until the onion is softened, about 3-4 minutes.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the chicken to the pot and add the potatoes.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the potatoes are tender, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-dutch-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:13:45.785Z"
+}
