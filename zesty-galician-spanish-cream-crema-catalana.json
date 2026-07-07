@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-galician-spanish-cream-crema-catalana",
+  "title": "Catalana Creamy Paella",
+  "description": "A twist on the classic Spanish dish, featuring creamy Galician cream and a zesty Spanish kick.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galician Cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "Spanish Saffron Rice",
+      "amount": "300g"
+    },
+    {
+      "name": "Mixed Vegetables (bell peppers, onions, tomatoes)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (for garnish)"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the zesty olive oil in a large paella pan over medium heat.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the mixed vegetables and cook until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the Spanish saffron rice and stir to coat with oil.",
+    "Add the Galician cream and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-galician-spanish-cream-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:47:45.502Z"
+}
