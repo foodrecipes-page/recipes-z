@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas",
+  "title": "Uruguayan Kabanos Sausage Sandwich",
+  "description": "A classic Uruguayan street food featuring crispy kabanos sausages, zesty empanadas, and spicy condiments.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausages",
+      "amount": "4-6",
+      "notes": "grilled"
+    },
+    {
+      "name": "Zesty Empanadas",
+      "amount": "4-6",
+      "notes": "baked"
+    },
+    {
+      "name": "Uruguayan Bread",
+      "amount": "1 loaf",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spicy Mustard",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Grill the kabanos sausages over medium heat until crispy.",
+    "2. Bake the empanadas in a preheated oven at 400°F (200°C) for 15-20 minutes.",
+    "3. Slice the Uruguayan bread and toast until crispy.",
+    "4. Spread spicy mustard on the toasted bread.",
+    "5. Add sliced kabanos sausages, empanadas, lettuce, tomato, and mayonnaise.",
+    "6. Sprinkle with chili flakes if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "sausages",
+    "sandwiches",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:51:34.270Z"
+}
