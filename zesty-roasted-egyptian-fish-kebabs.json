@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-roasted-egyptian-fish-kebabs",
+  "title": "Grilled Fish Kebabs with Egyptian Flair",
+  "description": "A flavorful and healthy dish featuring fish kebabs marinated in a zesty Egyptian-inspired sauce, served with a side of roasted vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (cod or tilapia)",
+      "amount": "4",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Zesty Egyptian marinade (see below)",
+      "amount": "1/2 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vegetables for skewers (bell peppers, onions, cherry tomatoes)",
+      "amount": "1 cup",
+      "notes": "Colorful and fresh"
+    },
+    {
+      "name": "Roasted vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing vegetables"
+    },
+    {
+      "name": "Pita bread or couscous",
+      "amount": "4-6",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together zesty Egyptian marinade ingredients: lemon juice, garlic, cumin, coriander, paprika, salt, and pepper.",
+    "3. Add fish fillets to the marinade and refrigerate for at least 30 minutes.",
+    "4. Thread vegetables onto skewers, leaving a little space between each piece.",
+    "5. Brush vegetables with roasted vegetable oil and season with salt and pepper.",
+    "6. Grill fish kebabs for 8-10 minutes per side, or until cooked through.",
+    "7. Grill vegetable skewers for 10-12 minutes, turning occasionally, or until tender.",
+    "8. Serve fish kebabs with roasted vegetables and pita bread or couscous on the side.",
+    "9. Garnish with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "kebabs",
+    "middle-eastern",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-egyptian-fish-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:05:37.219Z"
+}
