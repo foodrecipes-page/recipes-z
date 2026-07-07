@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-sweet-australian-toor-dal-onigiri",
+  "title": "Toor Dal with Sweet and Zesty Flair",
+  "description": "An Australian-inspired twist on traditional toor dal, adding sweetness and zesty flavor.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté the onion, ginger, and garlic until softened.",
+    "Add the toor dal, zesty sauce, honey, and water to the pan.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "toor-dal",
+    "sweet",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-australian-toor-dal-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:02:36.063Z"
+}
