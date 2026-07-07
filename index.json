@@ -142,17 +142,15 @@
   },
   {
     "slug": "zenith-earthy-korean-beans-stew",
-    "title": "Zenith Earthy Korean Beans Stew",
+    "title": "Earthy Bean Stew",
     "tags": [
-      "comfort-food",
+      "stew",
       "korean",
-      "mushroom-based",
-      "one-pot",
-      "rainy-day",
-      "vegan"
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -6528,18 +6526,15 @@
   },
   {
     "slug": "zesty-hangover-cure-japanese-pork-ramen",
-    "title": "Zesty Hangover Cure Japanese Pork Ramen",
+    "title": "Japanese Pork Ramen",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "high-calorie",
-      "japanese",
-      "one-pan",
+      "pork",
       "ramen",
-      "weeknight"
+      "japanese",
+      "comfortfood"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 90,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
