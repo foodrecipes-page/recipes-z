@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles",
+  "title": "Filipino Fried Noodles",
+  "description": "A simple and flavorful Filipino-inspired dish made with stir-fried noodles and vegetables. Serve hot and enjoy!",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zesty Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and stir-fry for 1 minute.",
+    "Add the chopped crispy fried shallots and stir-fry for another minute.",
+    "Add the rice noodles and stir-fry until they are well coated with the oil and mixture.",
+    "Add the zesty soy sauce and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodles to a serving plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-filipino-flat-rice-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:30:09.838Z"
+}
