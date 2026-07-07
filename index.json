@@ -4715,16 +4715,15 @@
   },
   {
     "slug": "zesty-ethiopian-steak-atakilt-wat",
-    "title": "Zesty Ethiopian Steak Atakilt Wat",
+    "title": "Ethiopian Steak Tibs with Atakilt",
     "tags": [
+      "steak",
       "ethiopian",
-      "keto-friendly",
-      "one-pan",
-      "quick",
-      "savory"
+      "atakilt",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -7428,16 +7427,15 @@
   },
   {
     "slug": "zesty-kenyan-lentil-stew",
-    "title": "Zesty Kenyan Lentil Stew",
+    "title": "Kenyan Lentil Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "lentils",
+      "kenyan",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
