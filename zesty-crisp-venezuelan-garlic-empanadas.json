@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-crisp-venezuelan-garlic-empanadas",
+  "title": "Crisp Venezuelan Empanadas with Garlic",
+  "description": "A delicious twist on traditional empanadas, filled with a zesty garlic filling and fried to a crispy perfection.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Zesty cheese",
+      "amount": "1 cup",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Crisp lettuce, shredded",
+      "amount": "1 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the garlic filling in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal.",
+    "Dredge the empanadas in a mixture of flour, salt, and pepper, shaking off excess.",
+    "Fry the empanadas for 2-3 minutes on each side, or until golden brown.",
+    "Drain the empanadas on paper towels.",
+    "Serve hot, garnished with crisp lettuce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "garlic",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-venezuelan-garlic-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:42:09.891Z"
+}
