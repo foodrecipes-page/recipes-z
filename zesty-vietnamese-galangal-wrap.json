@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-vietnamese-galangal-wrap",
+  "title": "Galangal Vietnamese Wrap",
+  "description": "A flavorful and refreshing Vietnamese-inspired wrap with the unique taste of galangal. Perfect for a quick and easy meal.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galangal",
+      "amount": "1 medium-sized piece, peeled and grated",
+      "notes": null
+    },
+    {
+      "name": "Zesty Vietnamese Dressing",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large flour tortilla",
+      "notes": null
+    },
+    {
+      "name": "Shredded Chicken Breast",
+      "amount": "4 ounces, cooked",
+      "notes": null
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "2 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Carrot Shreds",
+      "amount": "2 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Jalapeño Slices",
+      "amount": "2 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "2 medium-sized",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Grate the galangal and set aside.",
+    "In a medium-sized bowl, whisk together the zesty Vietnamese dressing and 1 tablespoon of water.",
+    "Add the shredded chicken breast, cucumber slices, carrot shreds, cilantro leaves, bean sprouts, jalapeño slices, and scallions to the bowl with the dressing.",
+    "Mix well to combine.",
+    "Warm the large flour tortilla in a dry pan or in the microwave for 10-15 seconds.",
+    "Place the tortilla on a flat surface and spread the chicken and vegetable mixture evenly down the center of the tortilla.",
+    "Add the grated galangal on top of the mixture.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "wrap",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-vietnamese-galangal-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:57:01.126Z"
+}
