@@ -3064,17 +3064,15 @@
   },
   {
     "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles",
-    "title": "Zesty Crispy Filipino Flat Rice Noodles",
+    "title": "Filipino Fried Noodles",
     "tags": [
-      "bamboo-tray",
-      "crispy-noodles",
-      "fermented-dough",
-      "filipino-food",
-      "gluten-free",
-      "low-calorie"
+      "filipino",
+      "noodles",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -5570,17 +5568,14 @@
   },
   {
     "slug": "zesty-galician-spanish-cream-crema-catalana",
-    "title": "Zesty Galician Spanish Cream Crema Catalana",
+    "title": "Catalana Creamy Paella",
     "tags": [
-      "crema-catalana",
-      "dessert",
-      "galician",
+      "paella",
       "spanish",
-      "vegan",
-      "white-wine-vinegar"
+      "creamy"
     ],
-    "cuisine": "Galician",
-    "totalTimeMin": 80,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -5644,17 +5639,14 @@
   },
   {
     "slug": "zesty-garlicky-canadian-fennel-skillet",
-    "title": "Zesty Garlicky Canadian Fennel Skillet",
+    "title": "Garlicky Fennel Skillet Delight",
     "tags": [
-      "canadian",
-      "dairy-free",
-      "fennel-recipes",
-      "garlic-lovers",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "fennel",
+      "garlic",
+      "skillet",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "z"
   },
@@ -6823,16 +6815,16 @@
   },
   {
     "slug": "zesty-indulgent-middle-eastern-wheat-harees",
-    "title": "Zesty Indulgent Middle Eastern Wheat Harees",
+    "title": "Harees with Eastern Flair",
     "tags": [
-      "comfort-food",
-      "indulgent",
-      "middle-eastern",
-      "one-pot",
-      "special-occasion"
+      "harees",
+      "wheat",
+      "middle eastern",
+      "vegetarian",
+      "gluten"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -13978,17 +13970,15 @@
   },
   {
     "slug": "zesty-vietnamese-galangal-wrap",
-    "title": "Zesty Vietnamese Galangal Wrap",
+    "title": "Galangal Vietnamese Wrap",
     "tags": [
-      "confit-tomato",
-      "corn-husk-wraps",
-      "galangal",
-      "grilled-chicken",
-      "low-carb",
-      "vietnamese"
+      "vietnamese",
+      "wrap",
+      "chicken",
+      "vegetarian"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
