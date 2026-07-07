@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-hangover-cure-japanese-pork-ramen",
+  "title": "Japanese Pork Ramen",
+  "description": "A savory and comforting ramen dish filled with tender pork and infused with Japanese flavors. This recipe is perfect for a cold day or a hangover remedy.",
+  "cuisine": "Japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Japanese Ramen Noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Zesty Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the soy sauce, zesty ginger, and sesame oil to the broth.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "While the broth is simmering, cook the Japanese ramen noodles according to the package instructions.",
+    "Slice the pork shoulder into thin strips and cook in a pan over medium-high heat until browned and cooked through.",
+    "Add the cooked noodles to the pan with the pork and stir to combine.",
+    "Pour the hot broth over the noodles and pork, and top with chopped green onions.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "ramen",
+    "japanese",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hangover-cure-japanese-pork-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:31:11.206Z"
+}
