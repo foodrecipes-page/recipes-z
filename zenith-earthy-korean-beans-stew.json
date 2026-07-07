@@ -1,0 +1,61 @@
+{
+  "slug": "zenith-earthy-korean-beans-stew",
+  "title": "Earthy Bean Stew",
+  "description": "A hearty, comforting stew made with earthy and korean ingredients. Perfect for a cozy evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Earth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zenith",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean Stew",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of zenith in a large pot over medium heat.",
+    "Add 1 cup of beans and cook until they start to soften.",
+    "Add 2 cups of earth and cook for 5 minutes.",
+    "Add 1 packet of korean stew and 4 cups of vegetable broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "korean",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-earthy-korean-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:44:30.290Z"
+}
