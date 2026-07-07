@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-smoky-turkish-beef-kebabs",
+  "title": "Turkish-Style Beef Kebabs",
+  "description": "Tender beef, marinated in a blend of zesty and smoky flavors, grilled to perfection. Serve with a side of flatbread or pita.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch\" | \"dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "Available at most middle eastern stores"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Infused with lemon and herbs"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Adds a deep, smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, spice blend, smoked paprika, garlic, salt, and pepper.",
+    "Add the beef cubes to the marinade and mix until coated.",
+    "Let the beef marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the beef reaches 160°F (71°C) for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kebabs",
+    "turkish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-turkish-beef-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:31:42.750Z"
+}
