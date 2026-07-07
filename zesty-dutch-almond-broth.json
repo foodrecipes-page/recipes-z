@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-dutch-almond-broth",
+  "title": "Creamy Chicken and Zesty Broth",
+  "description": "A comforting Dutch-inspired dish featuring chicken cooked in a zesty broth with a hint of almond creaminess.",
+  "cuisine": "Dutch",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zesty broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine the chicken, zesty broth, and Dutch mustard.",
+    "2. Bring the mixture to a boil, then reduce heat to medium-low and simmer for 15 minutes.",
+    "3. In a small bowl, whisk together the almond milk and almond butter until smooth.",
+    "4. Stir the almond milk mixture into the chicken and broth mixture.",
+    "5. Continue to simmer for an additional 5-7 minutes, or until the chicken is cooked through.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve hot, garnished with chopped fresh herbs if desired.",
+    "8. Cook the chicken to an internal temperature of 165°F (74°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "chicken-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dutch-almond-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:36:39.391Z"
+}
