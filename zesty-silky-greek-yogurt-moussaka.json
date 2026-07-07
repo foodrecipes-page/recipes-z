@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-silky-greek-yogurt-moussaka",
+  "title": "Greek Moussaka",
+  "description": "A classic Greek dish made with eggplant, ground beef, and a creamy bechamel sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "silky bechamel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the eggplant into 1/4-inch thick rounds. Salt the eggplant to draw out moisture. Let it sit for 30 minutes.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces.",
+    "Add the chopped onion and cook until softened. Add the garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "In a separate saucepan, combine the Greek yogurt and flour. Whisk until smooth.",
+    "Add the bechamel sauce to the skillet with the meat mixture and stir until combined.",
+    "In a 9x13 inch baking dish, create a layer of eggplant slices. Spoon some of the meat mixture over the eggplant.",
+    "Repeat the layering process until all the ingredients are used, finishing with a layer of eggplant on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes. Remove the foil and bake for an additional 15-20 minutes, or until the eggplant is tender and the top is lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "moussaka",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-greek-yogurt-moussaka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:59:33.620Z"
+}
