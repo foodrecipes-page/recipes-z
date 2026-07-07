@@ -1,0 +1,59 @@
+{
+  "slug": "zesty-garlicky-canadian-fennel-skillet",
+  "title": "Garlicky Fennel Skillet Delight",
+  "description": "A flavorful skillet dish made with fennel and a hint of garlic, perfect for a quick weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add 2 tablespoons of oil and sauté the fennel and garlic until tender, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Optional: Add the zesty for an extra kick.",
+    "Serve hot and enjoy!",
+    "Cook time will vary slightly based on skillet size and heat distribution",
+    "Note: Cooking times listed are approximate and can vary based on individual factors"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fennel",
+    "garlic",
+    "skillet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-canadian-fennel-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:30:14.107Z"
+}
