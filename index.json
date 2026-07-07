@@ -7122,17 +7122,14 @@
   },
   {
     "slug": "zesty-jamaican-chicken-pie",
-    "title": "Zesty Jamaican Chicken Pie",
+    "title": "Jamaican Chicken Pie",
     "tags": [
-      "buttery-crust",
-      "caribbean-food",
-      "chicken-pie",
-      "jamaican-cuisine",
-      "lime-juice",
-      "weeknight-dinner"
+      "chicken",
+      "pie",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 75,
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -10516,17 +10513,15 @@
   },
   {
     "slug": "zesty-salty-croatian-shrimp-skewers",
-    "title": "Zesty Salty Croatian Shrimp Skewers",
+    "title": "Shrimp Skewers with Croatian Flavor",
     "tags": [
-      "croatian",
-      "deep-fry",
-      "kid-friendly",
-      "seafood",
       "shrimp",
-      "skewers"
+      "grilled",
+      "croatian",
+      "seafood"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "z"
   },
   {
@@ -12290,17 +12285,15 @@
   },
   {
     "slug": "zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas",
-    "title": "Zesty Spicy Fluffy Uruguayan Kabanos Sausages Empanadas",
+    "title": "Uruguayan Kabanos Sausage Sandwich",
     "tags": [
-      "empanadas",
-      "fluffy",
-      "kabanos",
-      "sausage",
-      "spicy",
-      "uruguayan"
+      "uruguayan",
+      "sausages",
+      "sandwiches",
+      "street-food"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 65,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -12543,16 +12536,15 @@
   },
   {
     "slug": "zesty-sweet-australian-toor-dal-onigiri",
-    "title": "Zesty Sweet Australian Toor Dal Onigiri",
+    "title": "Toor Dal with Sweet and Zesty Flair",
     "tags": [
-      "australian-cuisine",
-      "nigiri-inspired",
-      "sweet-snacks",
-      "toor-dal-recipes",
-      "vegetarian-options"
+      "australian",
+      "toor-dal",
+      "sweet",
+      "zesty"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
