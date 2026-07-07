@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-brine-wet-chinese-halal-friendly-shui-zhu-yu",
+  "title": "Spicy Shui Zhu Yu",
+  "description": "A classic Sichuan dish, this spicy Shui Zhu Yu is made with tender fish in a flavorful sauce.",
+  "cuisine": "Sichuan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "friendly fish fillet",
+      "amount": "500g",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "zhu chili peppers",
+      "amount": "4",
+      "notes": "adjust to desired spiciness"
+    },
+    {
+      "name": "chinese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "wet cornstarch",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "zesty ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "shui soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "brine water",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish into small pieces and marinate in a mixture of rice vinegar, soy sauce, and sliced ginger for 30 minutes.",
+    "2. Heat oil in a wok or large skillet over medium-high heat.",
+    "3. Add the chili peppers and cook for 1 minute.",
+    "4. Add the fish and cook until opaque, about 5 minutes.",
+    "5. Add the wet cornstarch and stir to thicken the sauce.",
+    "6. Add the water and bring to a boil.",
+    "7. Reduce heat to low and simmer for 5 minutes.",
+    "8. Season with salt and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan",
+    "spicy",
+    "fish",
+    "chinese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brine-wet-chinese-halal-friendly-shui-zhu-yu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:40:12.371Z"
+}
