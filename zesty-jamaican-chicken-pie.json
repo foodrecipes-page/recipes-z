@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-jamaican-chicken-pie",
+  "title": "Jamaican Chicken Pie",
+  "description": "A flavorful twist on the classic chicken pie, infused with the bold tastes of Jamaica. This dish is perfect for a comforting meal.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "zesty cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with jamaican jerk seasoning.",
+    "Heat a skillet over medium-high heat. Add the chopped onion and bell pepper and cook until softened.",
+    "Add the seasoned chicken breast to the skillet and cook until browned on both sides.",
+    "Roll out the pie crust to fit a 9-inch pie dish.",
+    "Add the cooked chicken and vegetables to the pie crust.",
+    "Mix the all-purpose flour with the zesty cheese and sprinkle over the filling.",
+    "Roll out the remaining pie crust to fit the top of the pie.",
+    "Place the top crust over the filling and crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pie",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jamaican-chicken-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:53:35.155Z"
+}
