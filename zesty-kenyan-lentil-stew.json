@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-kenyan-lentil-stew",
+  "title": "Kenyan Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with lentils and a blend of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Zesty Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and cook for 5 minutes.",
+    "Add lentils, tomatoes, tomato paste, salt, and pepper. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "kenyan",
+    "stew",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-kenyan-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:26:31.795Z"
+}
