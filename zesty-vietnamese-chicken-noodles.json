@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-vietnamese-chicken-noodles",
+  "title": "Vietnamese Chicken Noodle Soup",
+  "description": "A flavorful and comforting soup made with chicken, noodles, and Vietnamese spices. Serve hot and enjoy!",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot over high heat.",
+    "Add the chicken to the pot and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the noodles to the pot and cook according to the package instructions.",
+    "Stir in the fish sauce, soy sauce, and lime juice.",
+    "Return the chicken to the pot and cook until heated through.",
+    "Stir in the zesty seasoning, green onions, and cilantro.",
+    "Serve the soup hot and garnish with additional green onions and cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "noodles",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-vietnamese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:59:25.828Z"
+}
