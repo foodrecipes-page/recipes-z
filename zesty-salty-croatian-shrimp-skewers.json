@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-salty-croatian-shrimp-skewers",
+  "title": "Shrimp Skewers with Croatian Flavor",
+  "description": "Inspired by the flavors of Croatia, this dish combines succulent shrimp with a tangy and salty marinade. Perfect for a quick and easy dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "seafood",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "marinade made with lemon juice, garlic, and paprika"
+    },
+    {
+      "name": "salty",
+      "amount": "1 tablespoon",
+      "notes": "sea salt and black pepper"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 tablespoons",
+      "notes": "paprika and garlic powder"
+    },
+    {
+      "name": "skewers",
+      "amount": "12 bamboo",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty marinade ingredients.",
+    "Add shrimp to the marinade and mix to coat.",
+    "Thread shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush skewers with salty marinade and sprinkle with Croatian seasonings.",
+    "Grill skewers for 8-10 minutes per side, or until shrimp are pink and cooked through.",
+    "Serve hot with a side of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "grilled",
+    "croatian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-salty-croatian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:46:36.555Z"
+}
