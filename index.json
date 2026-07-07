@@ -2958,18 +2958,14 @@
   },
   {
     "slug": "zesty-crisp-venezuelan-garlic-empanadas",
-    "title": "Zesty Crisp Venezuelan Garlic Empanadas",
+    "title": "Crisp Venezuelan Empanadas with Garlic",
     "tags": [
-      "cheese",
-      "corn-husk-wrap",
       "empanadas",
       "garlic",
-      "shojin-friendly",
-      "venezuelan",
-      "weeknight"
+      "fried"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -10896,14 +10892,11 @@
   },
   {
     "slug": "zesty-silky-greek-yogurt-moussaka",
-    "title": "Zesty Silky Greek Yogurt Moussaka",
+    "title": "Greek Moussaka",
     "tags": [
-      "baked",
       "greek",
-      "layered",
-      "shojin",
-      "vegetarian",
-      "yogurt-based"
+      "moussaka",
+      "eggplant"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 75,
