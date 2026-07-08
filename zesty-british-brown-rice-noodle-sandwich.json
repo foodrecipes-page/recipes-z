@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-british-brown-rice-noodle-sandwich",
+  "title": "Traditional British Rice Bowl",
+  "description": "A simple and comforting dish originating from the UK, combining brown rice with a flavorful zesty sauce and crispy noodles.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Noodle",
+      "amount": "1 cup",
+      "notes": "choose gluten-free if necessary"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the brown rice according to the package instructions.",
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the noodles to the skillet and stir-fry until lightly toasted.",
+    "Add the zesty sauce to the skillet and stir-fry for an additional 2-3 minutes.",
+    "Combine the cooked brown rice and noodle mixture in a large bowl.",
+    "Garnish with chopped scallions and serve immediately.",
+    "Optional: add any desired protein such as tofu or tempeh to the noodle mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "rice-bowl",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-british-brown-rice-noodle-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:50:16.946Z"
+}
