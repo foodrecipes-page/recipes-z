@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-peruvian-basmati-fritters",
+  "title": "Peruvian Chicken Fritters with Zesty Basmati Rice",
+  "description": "A flavorful and spicy Peruvian-inspired dish featuring crispy chicken fritters served with zesty basmati rice.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fritters seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 cups of water and add 1 cup of uncooked basmati rice. Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is tender and fluffy.",
+    "In a large bowl, combine chicken breast pieces, chopped onion, zesty seasoning, fritters seasoning, and salt. Mix well.",
+    "Heat 1/4 cup of vegetable oil in a large non-stick skillet over medium-high heat. Using a spoon, drop small portions of the chicken mixture into the oil and flatten slightly into fritters.",
+    "Cook the fritters for 3-4 minutes on each side, or until they are golden brown and cooked through.",
+    "Serve the Peruvian chicken fritters hot with zesty basmati rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "fritters",
+    "basmati"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-basmati-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:48:14.119Z"
+}
