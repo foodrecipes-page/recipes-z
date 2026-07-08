@@ -7165,17 +7165,15 @@
   },
   {
     "slug": "zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha",
-    "title": "Zesty Jammy Mirepoix Ethiopian Fettuccine Kik Alicha",
+    "title": "Ethiopian Chicken Stew",
     "tags": [
       "ethiopian",
-      "high-protein",
-      "low-sodium",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "stew",
+      "soup"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -8134,17 +8132,14 @@
   },
   {
     "slug": "zesty-mexican-avocado-salad",
-    "title": "Zesty Mexican Avocado Salad",
+    "title": "Mixed Greens Salad with Avocado Dressing",
     "tags": [
+      "salad",
       "mexican",
       "avocado",
-      "keto-friendly",
-      "vegan",
-      "salad",
-      "zesty",
-      "quick"
+      "veggie"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 10,
     "shard": "z"
   },
