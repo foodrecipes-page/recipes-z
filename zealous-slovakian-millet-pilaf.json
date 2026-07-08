@@ -1,0 +1,75 @@
+{
+  "slug": "zealous-slovakian-millet-pilaf",
+  "title": "Slovakian Millet Pilaf",
+  "description": "A hearty and flavorful pilaf dish originating from Slovakia, made with millet and a blend of spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "slovakian pilaf spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion, grated carrot, and diced celery, and cook until the vegetables are tender.",
+    "Add the millet and pilaf spice blend to the skillet, and stir to combine.",
+    "Cook for 2-3 minutes, until the millet is lightly toasted.",
+    "Add 2 cups of water to the skillet, and bring to a boil.",
+    "Reduce the heat to low, cover the skillet with a lid, and simmer for 20-25 minutes, until the millet is tender and the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "millet",
+    "pilaf",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zealous-slovakian-millet-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:15:06.175Z"
+}
