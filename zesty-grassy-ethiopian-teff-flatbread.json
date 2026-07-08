@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-grassy-ethiopian-teff-flatbread",
+  "title": "Ethiopian Teff Flatbread",
+  "description": "Make a traditional Ethiopian teff flatbread with a zesty flavor, perfect for sopping up stews and salads. This flatbread is a staple in Ethiopian cuisine, made with teff flour and a touch of grassy notes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "zesty spice blend",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine teff flour and salt (if using).",
+    "2. Gradually add in water while stirring with a wooden spoon until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "4. Divide the dough into 4-6 equal pieces, depending on desired flatbread size.",
+    "5. Shape each piece into a ball and then flatten slightly into a disk shape.",
+    "6. Heat a non-stick skillet or griddle over medium heat.",
+    "7. Place a flatbread in the skillet and cook for 1-2 minutes, until the edges start to curl.",
+    "8. Flip the flatbread and cook for another 1-2 minutes, until it's golden brown and puffed.",
+    "9. Brush with zesty spice blend (if using) and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "teff",
+    "ethiopian",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grassy-ethiopian-teff-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:14:37.461Z"
+}
