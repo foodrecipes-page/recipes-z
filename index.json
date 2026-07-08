@@ -1491,17 +1491,15 @@
   },
   {
     "slug": "zesty-british-brown-rice-noodle-sandwich",
-    "title": "Zesty British Brown Rice Noodle Sandwich",
+    "title": "Traditional British Rice Bowl",
     "tags": [
-      "plant-based",
+      "british",
+      "rice-bowl",
       "vegan",
-      "brunch",
-      "sandwich",
-      "quick",
-      "healthy"
+      "gluten-free"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -3494,18 +3492,14 @@
   },
   {
     "slug": "zesty-croatian-water-chestnut-soup",
-    "title": "Zesty Croatian Water Chestnut Soup",
+    "title": "Croatian Chestnut Soup",
     "tags": [
-      "chewy",
-      "croatian-inspired",
-      "halal-friendly",
-      "herbal",
-      "midnight-craving",
-      "soupy",
-      "vegetarian"
+      "soup",
+      "croatian",
+      "chestnut"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
