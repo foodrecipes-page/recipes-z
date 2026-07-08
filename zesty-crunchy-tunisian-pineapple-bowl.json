@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-crunchy-tunisian-pineapple-bowl",
+  "title": "Tunisian Pineapple Bowl",
+  "description": "A refreshing summer dish with a zesty twist, featuring crunchy texture and sweet pineapple.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tunisian couscous",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Crunchy chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the couscous according to package instructions.",
+    "In a separate pan, heat the lemon juice over low heat.",
+    "Add the pineapple chunks to the pan and simmer for 5 minutes.",
+    "In a large bowl, combine the cooked couscous, pineapple mixture, almonds, and parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "summer",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-tunisian-pineapple-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:16:32.337Z"
+}
