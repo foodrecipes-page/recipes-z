@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-molten-norwegian-chinese-long-beans-skillet",
+  "title": "Norwegian Bean Skillet",
+  "description": "A hearty and flavorful skillet dish made with Norwegian beans, perfect for a quick dinner. This recipe is easy to make and packed with nutrients.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long Norwegian beans",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "Zesty molten skillet oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese long green chili",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Beans",
+      "amount": "1 cup, drained and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large skillet over medium-high heat.",
+    "Add the sliced green chili and cook for 1-2 minutes, until fragrant.",
+    "Add the chopped Norwegian beans and cook for 2-3 minutes, until tender.",
+    "Add the chopped beans, water, and salt to the skillet. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, until the liquid has thickened.",
+    "Serve the Norwegian bean skillet hot, garnished with chopped green chili if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "vegetarian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-molten-norwegian-chinese-long-beans-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:53:36.108Z"
+}
