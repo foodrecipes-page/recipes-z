@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-irish-peas-stew",
+  "title": "Irish Stew with Peas and Zesty Twist",
+  "description": "A hearty twist on a classic Irish stew, adding a burst of flavor with zesty peppers and a splash of peas.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish stew beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zesty peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, melt butter over medium-high heat. Add beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add more butter if needed, then sauté onion and zesty peppers until softened, about 5 minutes.",
+    "Add flour and stir for 1 minute.",
+    "Gradually stir in broth, scraping up browned bits from the bottom of the pot. Bring to a boil, then reduce heat to low and simmer.",
+    "Return beef to the pot and add potatoes, carrots, thyme, and peas.",
+    "Cover pot with a lid and transfer to preheated oven. Braise for 1 1/2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "peas",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:03:16.123Z"
+}
