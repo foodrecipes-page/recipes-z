@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-pillowy-malaysian-kinako-pancakes",
+  "title": "Kinako Pancakes with Zesty Syrup",
+  "description": "A twist on traditional pancakes, these kinako pancakes are flavored with the nutty taste of kinako and served with a zesty syrup for a delicious breakfast treat.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "1 cup",
+      "notes": "roasted soybean flour"
+    },
+    {
+      "name": "pancakes",
+      "amount": "1 package",
+      "notes": "gluten-free mix"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy"
+    },
+    {
+      "name": "zesty syrup",
+      "amount": "1/2 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "pillsbury",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together kinako and gluten-free pancake mix.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "If using, add 1 tsp of pillsbury and 1 tsp of cinnamon, and mix well.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and edges start to dry.",
+    "Flip and cook for another 1-2 minutes, until golden brown.",
+    "Serve with zesty syrup (see below).",
+    "To make zesty syrup, mix together 1/2 cup of powdered sugar, 1/4 cup of milk, and 1 tsp of vanilla extract in a small bowl.",
+    "Add 1 tsp of lemon juice and stir until combined.",
+    "Bring the mixture to a boil over medium heat, then reduce heat and simmer for 2-3 minutes, until thickened."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "gluten-free",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-pillowy-malaysian-kinako-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T14:21:17.436Z"
+}
