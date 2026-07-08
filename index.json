@@ -6458,16 +6458,17 @@
   },
   {
     "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa",
-    "title": "Zesty Grilled Peruvian Chicken Pollo a la Brasa",
+    "title": "Grilled Chicken A la Brasa",
     "tags": [
-      "chicken",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "peruvian",
+      "pollo",
+      "ala",
+      "bras"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -13584,16 +13585,14 @@
   },
   {
     "slug": "zesty-velvety-mexican-sloe-berries-carnitas",
-    "title": "Zesty Velvety Mexican Sloe Berries Carnitas",
+    "title": "Berkshire Sloe Berry Crumble with Carnitas",
     "tags": [
-      "comfort-food",
-      "fruity",
-      "mexican",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "british",
+      "berry",
+      "carnitas",
+      "crumble"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "british",
     "totalTimeMin": 50,
     "shard": "z"
   },
