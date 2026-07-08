@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-croatian-water-chestnut-soup",
+  "title": "Croatian Chestnut Soup",
+  "description": "A hearty and comforting soup featuring the flavors of Croatia and the earthiness of chestnuts.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "croatian zesty sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "chestnut",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "soup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sausage over medium heat, browning it on all sides.",
+    "Add the onion, carrot, and potato to the pot, cooking for 5 minutes.",
+    "Add the sliced chestnuts, soup, salt, and pepper to the pot, stirring to combine.",
+    "Pour in the water, bringing the mixture to a boil.",
+    "Reduce heat to low and simmer for 20 minutes, or until the chestnuts are tender.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "croatian",
+    "chestnut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-water-chestnut-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:43:02.767Z"
+}
