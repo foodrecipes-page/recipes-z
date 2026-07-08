@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-roasted-slovakian-red-bean-dumplings",
+  "title": "Slovakian Red Bean Stew",
+  "description": "A hearty and comforting Slovakian-inspired stew made with red beans, roasted vegetables, and zesty dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red beans",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "zesty dumplings",
+      "amount": "4-6"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the sliced onions and cook until caramelized, about 20 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the carrots and cook for 5 minutes.",
+    "Add the dried red beans, vegetable broth, and Slovakian paprika.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Cook the zesty dumplings according to package instructions.",
+    "Serve the stew hot, topped with the cooked dumplings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "bean",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-slovakian-red-bean-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:32:19.304Z"
+}
