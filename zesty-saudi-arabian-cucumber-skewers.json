@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-saudi-arabian-cucumber-skewers",
+  "title": "Saudi Arabian Cucumber Kebabs",
+  "description": "A refreshing and flavorful kebab recipe inspired by Saudi Arabian cuisine, featuring zesty cucumber and succulent skewers.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "4 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "Zesty sauce (such as tahini or tzatziki)",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Arabian spice blend",
+      "amount": "1 tsp",
+      "notes": "or any combination of cumin, coriander, and sumac"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the cucumber into 1-inch pieces and thread them onto the skewers.",
+    "3. In a small bowl, mix together the zesty sauce and Arabian spice blend.",
+    "4. Brush the skewers with the zesty sauce mixture, making sure they're fully coated.",
+    "5. Grill the kebabs for 8-10 minutes, turning occasionally, until they're tender and lightly charred.",
+    "6. Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "kebabs",
+    "vegetarian",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-cucumber-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:29:42.312Z"
+}
