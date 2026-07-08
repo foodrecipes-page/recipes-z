@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-velvety-mexican-sloe-berries-carnitas",
+  "title": "Berkshire Sloe Berry Crumble with Carnitas",
+  "description": "A twist on the classic crumble, featuring slow-cooked carnitas, sweet and tangy sloe berries, and a crunchy velvety topping.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "carnitas",
+      "amount": "1/2 cup",
+      "notes": "slow-cooked pork, diced"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/2 cup",
+      "notes": "oats"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "lime juice"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "cinnamon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together sloe berries, carnitas, sugar, and zesty.",
+    "In a separate bowl, mix together velvety, mexican, and butter until crumbly.",
+    "Transfer the berry mixture to a baking dish and top with the velvety mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Serve warm with vanilla ice cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "berry",
+    "carnitas",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-mexican-sloe-berries-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:38:28.433Z"
+}
