@@ -1070,17 +1070,14 @@
   },
   {
     "slug": "zesty-bitter-british-sausages-toad-in-the-hole",
-    "title": "Zesty Bitter British Sausages Toad In The Hole",
+    "title": "Bitter Sausage Toad in the Hole",
     "tags": [
-      "british-classics",
-      "comfort-food",
-      "meat-based",
-      "mediterranean-inspired",
-      "one-pan",
-      "savory"
+      "british",
+      "sausages",
+      "beer-battered"
     ],
     "cuisine": "British",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -2269,15 +2266,15 @@
   },
   {
     "slug": "zesty-citrus-shortcrust-pastry-pie",
-    "title": "Zesty Citrus Shortcrust Pastry Pie",
+    "title": "Citrus Pie",
     "tags": [
-      "pescatarian-friendly",
-      "silky",
-      "turkish",
-      "zesty"
+      "pie",
+      "citrus",
+      "dessert",
+      "gluten-free"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "cuisine": "European",
+    "totalTimeMin": 65,
     "shard": "z"
   },
   {
@@ -4743,17 +4740,15 @@
   },
   {
     "slug": "zesty-fermented-australian-lamb-pilaf",
-    "title": "Zesty Fermented Australian Lamb Pilaf",
+    "title": "Lamb Pilaf with a Twist",
     "tags": [
-      "australian",
-      "fermented",
       "lamb",
-      "one-pan",
       "pilaf",
-      "weeknight"
+      "australian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -5455,17 +5450,15 @@
   },
   {
     "slug": "zesty-fresh-italian-tuna-vitello-tonnato",
-    "title": "Zesty Fresh Italian Tuna Vitello Tonnato",
+    "title": "Tonnato Vitello",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "healthy",
-      "italian-food",
-      "seafood",
-      "steamed"
+      "italian",
+      "main-course",
+      "beef-free",
+      "gluten-free"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 23,
     "shard": "z"
   },
   {
@@ -10531,18 +10524,15 @@
   },
   {
     "slug": "zesty-saudi-arabian-cucumber-skewers",
-    "title": "Zesty Saudi Arabian Cucumber Skewers",
+    "title": "Saudi Arabian Cucumber Kebabs",
     "tags": [
-      "appetizer",
-      "gluten-free",
-      "grilled",
-      "middle-eastern",
-      "snack",
-      "vegan",
-      "vegetarian"
+      "saudi-arabian",
+      "kebabs",
+      "vegetarian",
+      "summer-recipe"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
