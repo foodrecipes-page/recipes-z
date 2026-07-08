@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-nutty-korean-barramundi-anju",
+  "title": "Barramundi with Korean Zesty Glaze",
+  "description": "A sweet and spicy glaze made with Korean chili flakes and zesty notes pairs perfectly with the delicate flavor of barramundi.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp, minced",
+      "notes": ""
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Anju oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the barramundi fillets and pat them dry with paper towels.",
+    "In a small bowl, mix together Korean chili flakes, brown sugar, soy sauce, grated ginger, and minced garlic.",
+    "Brush the glaze mixture onto both sides of the barramundi fillets.",
+    "Heat Anju oil in an oven-safe skillet over medium heat.",
+    "Add the barramundi fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Brush the zesty sauce onto the barramundi fillets during the last 2 minutes of cooking.",
+    "Serve hot and garnish with sliced green onions, if desired.",
+    "Let the fish rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "seafood",
+    "glazed-fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-korean-barramundi-anju",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:40:43.234Z"
+}
