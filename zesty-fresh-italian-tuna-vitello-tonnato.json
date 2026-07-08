@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-fresh-italian-tuna-vitello-tonnato",
+  "title": "Tonnato Vitello",
+  "description": "A classic Italian dish of thinly sliced veal served in a creamy tuna sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh veal",
+      "amount": "1 (1.5-2 pound) piece",
+      "notes": "Sliced into 1/4-inch thick cutlets"
+    },
+    {
+      "name": "Tuna in oil",
+      "amount": "3 ounces",
+      "notes": "Drained and flaked"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Bring veal to room temperature and season with salt and pepper.",
+    "2. Heat a large skillet over medium-high heat. Add 2 tablespoons of oil and sear the veal for 2-3 minutes per side, or until cooked through.",
+    "3. Transfer veal to a plate and cover with foil to keep warm.",
+    "4. In the same skillet, combine tuna, mayonnaise, capers, parsley, lemon juice, salt, and pepper. Stir to combine and cook for 1-2 minutes, or until the sauce has thickened slightly.",
+    "5. Serve the veal in a large serving dish or individual plates, spooning the tuna sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "main-course",
+    "beef-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fresh-italian-tuna-vitello-tonnato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:28:41.562Z"
+}
