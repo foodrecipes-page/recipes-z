@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-turkish-shrimp-ceviche",
+  "title": "Turkish Shrimp Ceviche",
+  "description": "A refreshing Turkish-inspired ceviche dish made with succulent shrimp, zesty lime juice, and aromatic spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat dry with paper towels.",
+    "In a large bowl, whisk together lime juice, zesty, cumin, cayenne pepper, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the shrimp to 'cook' in the lime juice.",
+    "Just before serving, stir in the sliced red onion and chopped cilantro.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "Note: If you prefer a cooked ceviche, you can sauté the shrimp in a little oil until pink and then let it cool before serving.",
+    "Serve immediately or refrigerate for up to 2 hours before serving.",
+    "Garnish with additional cilantro, if desired.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "ceviche",
+    "shrimp",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-turkish-shrimp-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:00:41.229Z"
+}
