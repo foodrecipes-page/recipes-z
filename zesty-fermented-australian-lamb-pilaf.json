@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-fermented-australian-lamb-pilaf",
+  "title": "Lamb Pilaf with a Twist",
+  "description": "A flavorful and aromatic lamb pilaf with a hint of zesty flavor.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Pilaf Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the Australian lamb and cook until browned, about 5 minutes.",
+    "Add the zesty pilaf rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the fermented vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "australian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fermented-australian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:51:24.242Z"
+}
