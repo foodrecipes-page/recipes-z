@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa",
+  "title": "Grilled Chicken A la Brasa",
+  "description": "A classic Peruvian-style grilled chicken dish, marinated in zesty flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine soy sauce, lime juice, garlic, cumin, coriander, salt, black pepper, and ají amarillo peppers. Blend until smooth.",
+    "Place the chicken in a large zip-top plastic bag or a shallow dish. Pour the marinade over the chicken and seal or cover.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "peruvian",
+    "pollo",
+    "ala",
+    "bras"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grilled-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:32:03.069Z"
+}
