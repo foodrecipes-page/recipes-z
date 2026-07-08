@@ -6204,17 +6204,16 @@
   },
   {
     "slug": "zesty-grassy-ethiopian-teff-flatbread",
-    "title": "Zesty Grassy Ethiopian Teff Flatbread",
+    "title": "Ethiopian Teff Flatbread",
     "tags": [
-      "ayurvedic",
+      "flatbread",
+      "teff",
+      "ethiopian",
       "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -9487,17 +9486,15 @@
   },
   {
     "slug": "zesty-pillowy-malaysian-kinako-pancakes",
-    "title": "Zesty Pillowy Malaysian Kinako Pancakes",
+    "title": "Kinako Pancakes with Zesty Syrup",
     "tags": [
-      "breakfast-ideas",
-      "flambe",
-      "kid-friendly",
-      "malaysian-cuisine",
-      "pancakes",
-      "vegetarian-recipes"
+      "breakfast",
+      "japanese",
+      "gluten-free",
+      "pancakes"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
