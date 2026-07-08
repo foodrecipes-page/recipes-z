@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-citrus-shortcrust-pastry-pie",
+  "title": "Citrus Pie",
+  "description": "A tangy and sweet pie made with a shortcrust pastry crust and a citrusy filling.",
+  "cuisine": "European",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Zesty Citrus Filling",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Egg Replacer",
+      "amount": "1/4 cup",
+      "notes": "such as flaxseed or chia seeds"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry and place it in a pie dish.",
+    "In a separate bowl, mix together the zesty citrus filling, lemon juice, sugar, and egg replacer.",
+    "Pour the filling into the pastry-lined pie dish.",
+    "Dot the top of the filling with the melted butter.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the filling is set.",
+    "Allow the pie to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pie",
+    "citrus",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-citrus-shortcrust-pastry-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:55:32.820Z"
+}
