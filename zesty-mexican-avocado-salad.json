@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-mexican-avocado-salad",
+  "title": "Mixed Greens Salad with Avocado Dressing",
+  "description": "A simple and refreshing salad featuring mixed greens, crunchy avocado, and a tangy zesty dressing.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Zesty dressing",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed greens, chopped cilantro, and sliced red onion.",
+    "Mash the ripe avocados in a separate bowl and set aside.",
+    "In a small bowl, whisk together zesty dressing and lime juice.",
+    "Pour the dressing over the avocado and mix until smooth.",
+    "Pour the avocado dressing over the mixed greens and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "mexican",
+    "avocado",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-avocado-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:19:47.111Z"
+}
