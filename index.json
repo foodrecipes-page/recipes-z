@@ -13206,19 +13206,16 @@
   },
   {
     "slug": "zesty-turkish-shrimp-ceviche",
-    "title": "Zesty Turkish Shrimp Ceviche",
+    "title": "Turkish Shrimp Ceviche",
     "tags": [
-      "fresh",
-      "light",
-      "seafood",
       "turkish",
-      "dairy-free",
-      "no-cook",
-      "summer",
-      "appetizer"
+      "ceviche",
+      "shrimp",
+      "seafood",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
