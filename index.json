@@ -6942,17 +6942,16 @@
   },
   {
     "slug": "zesty-irish-peas-stew",
-    "title": "Zesty Irish Peas Stew",
+    "title": "Irish Stew with Peas and Zesty Twist",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "irish-cuisine",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "irish",
+      "stew",
+      "peas",
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "z"
   },
   {
@@ -7283,14 +7282,11 @@
   },
   {
     "slug": "zesty-juicy-slovakian-broccoli-dumplings",
-    "title": "Zesty Juicy Slovakian Broccoli Dumplings",
+    "title": "Slovakian Broccoli Dumplings",
     "tags": [
-      "broccoli-recipes",
-      "deep-fried",
-      "halal-friendly",
-      "midnight-cravings",
       "slovakian-cuisine",
-      "vegetarian"
+      "vegetarian-options",
+      "gluten-free-options"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -9298,16 +9294,15 @@
   },
   {
     "slug": "zesty-peruvian-basmati-fritters",
-    "title": "Zesty Peruvian Basmati Fritters",
+    "title": "Peruvian Chicken Fritters with Zesty Basmati Rice",
     "tags": [
-      "fritters",
-      "keto-friendly",
       "peruvian",
-      "quick",
-      "snack"
+      "chicken",
+      "fritters",
+      "basmati"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
