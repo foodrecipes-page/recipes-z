@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-nutty-saudi-arabian-chinese-cabbage-kebabs",
+  "title": "Saudi Arabian Kebabs with Cabbage Slaw",
+  "description": "A flavorful and spicy kebab recipe paired with a refreshing cabbage slaw, inspired by the street food of Saudi Arabia. This dish is perfect for a quick dinner or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian kebabs",
+      "amount": "1 pack",
+      "notes": "available in most middle eastern grocery stores"
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Arabian spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "Zesty tahini sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread Saudi Arabian kebabs onto skewers.",
+    "In a small bowl, mix together Arabian spices, lemon juice, and garlic.",
+    "Brush the spice mixture onto the kebabs.",
+    "Grill kebabs for 8-10 minutes, or until cooked through.",
+    "Meanwhile, shred the Chinese cabbage and mix with parsley.",
+    "Drizzle zesty tahini sauce over the cabbage slaw, if using.",
+    "Serve kebabs with cabbage slaw on the side.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "cabbage",
+    "middle-eastern",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-saudi-arabian-chinese-cabbage-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:34:58.678Z"
+}
