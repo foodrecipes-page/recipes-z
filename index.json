@@ -43,16 +43,15 @@
   },
   {
     "slug": "zealous-slovakian-millet-pilaf",
-    "title": "Zealous Slovakian Millet Pilaf",
+    "title": "Slovakian Millet Pilaf",
     "tags": [
-      "healthy-breakfast",
-      "high-fiber",
-      "one-pot",
-      "paleo-friendly",
-      "weeknight"
+      "millet",
+      "pilaf",
+      "slovakian",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -9120,17 +9119,14 @@
   },
   {
     "slug": "zesty-nutty-korean-barramundi-anju",
-    "title": "Zesty Nutty Korean Barramundi Anju",
+    "title": "Barramundi with Korean Zesty Glaze",
     "tags": [
-      "gluten-free",
-      "korean-cuisine",
-      "low-fodmap",
-      "nutty",
+      "korean",
       "seafood",
-      "steamed"
+      "glazed-fish"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -9176,17 +9172,15 @@
   },
   {
     "slug": "zesty-nutty-saudi-arabian-chinese-cabbage-kebabs",
-    "title": "Zesty Nutty Saudi Arabian Chinese Cabbage Kebabs",
+    "title": "Saudi Arabian Kebabs with Cabbage Slaw",
     "tags": [
-      "asian-fusion",
-      "date-night",
-      "grilled",
-      "healthy",
+      "kebabs",
+      "cabbage",
       "middle-eastern",
-      "nutty"
+      "grill"
     ],
-    "cuisine": "Saudi Arabian Chinese",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
