@@ -5730,17 +5730,15 @@
   },
   {
     "slug": "zesty-german-chicken-stew",
-    "title": "Zesty German Chicken Stew",
+    "title": "German Chicken Stew",
     "tags": [
       "german",
-      "high-protein",
-      "low-carb",
-      "pressure-cook",
-      "weeknight",
-      "zesty"
+      "chicken",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -12895,16 +12893,15 @@
   },
   {
     "slug": "zesty-tender-venezuelan-chicken-skillet",
-    "title": "Zesty Tender Venezuelan Chicken Skillet",
+    "title": "Venezuelan Chicken Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "mediterranean-friendly",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "skillet",
+      "venezuelan",
+      "spicy"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
