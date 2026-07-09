@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-flaky-polish-pork-pierogi",
+  "title": "Polish Pierogi with Pork and Polish Sausage",
+  "description": "A traditional Polish dish featuring homemade pierogi filled with pork and polish sausage, served with a side of zesty sour cream.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork, ground",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "polish sausage, sliced",
+      "amount": "1/2 pound",
+      "notes": "look for a brand with no added nitrates"
+    },
+    {
+      "name": "flaky pie dough, homemade or store-bought",
+      "amount": "1 sheet",
+      "notes": "thaw if frozen"
+    },
+    {
+      "name": "zesty sour cream",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "polish, all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dusting pierogi"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for boiling pierogi"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl combine ground pork, polish sausage, and a pinch of salt. Mix well with your hands until just combined.",
+    "Roll out the flaky pie dough to a thickness of about 1/8 inch. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the pork and sausage mixture in the center of each dough circle. Fold the dough over the filling to form a half-circle and press the edges together to seal.",
+    "In a large pot of boiling salted water, cook the pierogi for 5-7 minutes or until they float to the surface.",
+    "While the pierogi are cooking, mix the zesty sour cream with a pinch of salt and a squeeze of lemon juice.",
+    "Once the pierogi are done, remove them from the water with a slotted spoon and place them on a plate.",
+    "Serve the pierogi hot with a dollop of zesty sour cream on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pierogi",
+    "pork",
+    "sausage",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-polish-pork-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:42:07.760Z"
+}
