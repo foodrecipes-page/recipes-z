@@ -6579,18 +6579,15 @@
   },
   {
     "slug": "zesty-herbal-australian-ikura-pasta",
-    "title": "Zesty Herbal Australian Ikura Pasta",
+    "title": "Herbal Pasta with Ikura",
     "tags": [
       "australian",
+      "seafood",
       "herbal",
-      "lacto-vegetarian",
-      "lazy-sunday",
-      "one-pot",
-      "pasta",
-      "seafood"
+      "easy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -13206,17 +13203,14 @@
   },
   {
     "slug": "zesty-ukrainian-fennel-dumplings",
-    "title": "Zesty Ukrainian Fennel Dumplings",
+    "title": "Pan-Seared Ukrainian Dumplings with Fennel",
     "tags": [
-      "airy",
-      "dairy-free",
-      "kid-friendly",
-      "quick",
-      "sattvic",
-      "vegetarian"
+      "ukrainian",
+      "dumplings",
+      "fennel"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "z"
   },
   {
