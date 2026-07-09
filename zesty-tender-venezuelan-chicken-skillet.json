@@ -1,0 +1,98 @@
+{
+  "slug": "zesty-tender-venezuelan-chicken-skillet",
+  "title": "Venezuelan Chicken Skillet",
+  "description": "A flavorful and spicy Venezuelan-inspired skillet dish made with chicken, zesty vegetables, and tender beef. Perfect for a quick weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1/2 cup zesty diced tomatoes",
+      "amount": "1/2 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "1/4 cup chopped venezuelan chorizo",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 cup sliced red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "1/2 cup sliced bell pepper",
+      "amount": "1/2 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other cooking oil"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon olive oil to the skillet.",
+    "Add the onion, bell pepper, and garlic to the skillet.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Add the chorizo (if using), cumin, and cayenne pepper to the skillet.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "venezuelan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-tender-venezuelan-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:50:27.587Z"
+}
