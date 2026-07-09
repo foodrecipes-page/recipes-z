@@ -1,0 +1,91 @@
+{
+  "slug": "zero-waste-mediterranean-chickpea-flour-dumplings",
+  "title": "Mediterranean Chickpea Dumplings",
+  "description": "A delicious and healthy vegetarian dish made with chickpea dumplings, Mediterranean flavors, and a crispy exterior.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "zero waste Mediterranean seasoning blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dumplings",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chickpea flour and Mediterranean seasoning blend.",
+    "Gradually add in the water, stirring with a fork until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces and shape each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a disk shape.",
+    "Heat a large non-stick skillet over medium-high heat and add the olive oil.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "Transfer the dumplings to a plate and sprinkle with chopped parsley, lemon juice, salt, and pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "chickpea",
+    "dumplings",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-waste-mediterranean-chickpea-flour-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:42:30.387Z"
+}
