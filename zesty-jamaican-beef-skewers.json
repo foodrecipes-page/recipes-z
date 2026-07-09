@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-jamaican-beef-skewers",
+  "title": "Jamaican Beef Skewers",
+  "description": "A flavorful and colorful dish that's perfect for summer barbecues. The combination of spices and citrus marinade brings out the best in tender beef.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "zesty jamaican seasoning",
+      "amount": "2 tablespoons",
+      "notes": "mix of spices and herbs"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "halved"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty jamaican seasoning, lime juice, and olive oil.",
+    "Add beef strips to the marinade and mix well.",
+    "Thread beef, onion, bell pepper, and tomato onto skewers.",
+    "Brush skewers with remaining marinade.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "beef",
+    "jamaican",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jamaican-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:32:12.883Z"
+}
