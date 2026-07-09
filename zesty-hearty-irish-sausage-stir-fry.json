@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-hearty-irish-sausage-stir-fry",
+  "title": "Irish Sausage Stir Fry",
+  "description": "A hearty and flavorful stir fry dish made with Irish sausages, inspired by traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Sausages",
+      "amount": "1 pound",
+      "notes": "Choose sausages with a good balance of flavor and spice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped or sliced as desired"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "Chopped or sliced as desired"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Chopped or sliced as desired"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced or sliced as desired"
+    },
+    {
+      "name": "Zesty Cooking Oil",
+      "amount": "2 tablespoons",
+      "notes": "Choose a flavorful oil to add depth to the dish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of zesty cooking oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until translucent.",
+    "Add the chopped bell pepper and cook for an additional 2-3 minutes.",
+    "Add the sliced zucchini and cook for 2-3 minutes until tender.",
+    "Add the diced tomato and cook for 1-2 minutes until heated through.",
+    "Add the Irish sausages to the skillet and cook for 5-7 minutes until browned and cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "sausage",
+    "stir-fry",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hearty-irish-sausage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:35:52.126Z"
+}
