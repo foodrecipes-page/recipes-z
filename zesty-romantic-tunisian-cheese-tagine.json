@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-romantic-tunisian-cheese-tagine",
+  "title": "Tunisian Cheese Tagine",
+  "description": "A North African-inspired casserole with a rich blend of spices and melted cheese.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Zesty red pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Cheese sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tagine dish or 9x13 inch casserole",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Romantic rosemary thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1 minute.",
+    "Add the diced red pepper and cook until tender, about 5 minutes.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Stir in the Tunisian spice blend and cook for 1 minute.",
+    "Transfer the mixture to a tagine dish or a 9x13 inch casserole.",
+    "Top with the shredded cheese and drizzle with the cheese sauce.",
+    "Transfer the dish to the preheated oven and bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with rosemary sprigs and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "cheese",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-romantic-tunisian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:18:01.357Z"
+}
