@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-ukrainian-fennel-dumplings",
+  "title": "Pan-Seared Ukrainian Dumplings with Fennel",
+  "description": "A hearty and flavorful Ukrainian-inspired dish featuring pan-seared dumplings served with a crunchy fennel slaw.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dumplings (store-bought or homemade)",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 large bulb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zesty Ukrainian Seasoning Mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Chives or Parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the dumplings and cook until golden brown on the bottom, about 2-3 minutes.",
+    "Flip the dumplings and cook for an additional 2-3 minutes, until golden brown.",
+    "While the dumplings are cooking, combine the sliced fennel and Ukrainian seasoning mix in a bowl.",
+    "Season with salt and black pepper to taste.",
+    "Once the dumplings are cooked, transfer them to a plate and top with the fennel slaw.",
+    "Garnish with chopped chives or parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "fennel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-fennel-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:17:23.334Z"
+}
