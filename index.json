@@ -83,17 +83,15 @@
   },
   {
     "slug": "zenith-creamy-irish-mushroom-risotto",
-    "title": "Zenith Creamy Irish Mushroom Risotto",
+    "title": "Creamy Irish Risotto with Mushrooms",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "mushroom-based",
-      "one-pot",
-      "vegetarian",
-      "wine-based"
+      "italian",
+      "creamy",
+      "mushroom",
+      "risotto"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -11562,17 +11560,15 @@
   },
   {
     "slug": "zesty-smoky-herb-tunisian-jalapeno-tagine",
-    "title": "Zesty Smoky Herb Tunisian Jalapeno Tagine",
+    "title": "Smoky Tagine Chicken",
     "tags": [
-      "halal-friendly",
-      "herbal",
-      "one-pan",
-      "smoky",
-      "tunisian",
-      "weeknight"
+      "chicken",
+      "north-african",
+      "stew",
+      "smoky"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
