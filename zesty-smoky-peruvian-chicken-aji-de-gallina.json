@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-smoky-peruvian-chicken-aji-de-gallina",
+  "title": "Smoky Chicken Gallina",
+  "description": "A flavorful Peruvian-inspired dish featuring smoky chicken, zesty aji peppers, and tender de gallina.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb chicken breast",
+      "amount": "4 oz",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "1 tsp zesty aji pepper paste",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup de gallina",
+      "amount": "4 oz",
+      "notes": "shredded or diced"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "season as needed"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the zesty aji pepper paste and cook for 1-2 minutes, until fragrant.",
+    "5. Add the garlic and smoked paprika to the skillet and cook for 1 minute, until the garlic is fragrant.",
+    "6. Stir in the de gallina and cook for 2-3 minutes, until heated through.",
+    "7. Return the chicken to the skillet and stir to combine with the de gallina mixture.",
+    "8. Season with salt and pepper to taste, then serve hot.",
+    "9. Garnish with chopped fresh cilantro or scallions, if desired.",
+    "10. Serve with rice, beans, or roasted vegetables for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "smoky",
+    "aji",
+    "gallina"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:22:30.334Z"
+}
