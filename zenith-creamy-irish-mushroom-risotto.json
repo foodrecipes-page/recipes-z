@@ -1,0 +1,78 @@
+{
+  "slug": "zenith-creamy-irish-mushroom-risotto",
+  "title": "Creamy Irish Risotto with Mushrooms",
+  "description": "A rich and creamy risotto dish made with Irish cream and topped with sautéed mushrooms.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Creamy sauce",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Irish cream",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Risotto",
+      "amount": "1 cup",
+      "notes": "arborio or carnaroli"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the risotto and cook for 1-2 minutes, stirring constantly.",
+    "Add the creamy sauce and Irish cream, and stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring constantly, until the risotto is creamy and the liquid has been absorbed.",
+    "Remove the skillet from the heat and stir in the Parmesan cheese until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "creamy",
+    "mushroom",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-creamy-irish-mushroom-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:40.300Z"
+}
