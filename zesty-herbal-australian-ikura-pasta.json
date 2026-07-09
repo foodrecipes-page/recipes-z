@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-herbal-australian-ikura-pasta",
+  "title": "Herbal Pasta with Ikura",
+  "description": "A simple yet flavorful pasta dish featuring ikura and a hint of herbs.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/4 cup",
+      "notes": "fresh or canned, drained"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "or other mild oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, heat the zesty olive oil over medium heat.",
+    "Add garlic and cook for 1-2 minutes until fragrant.",
+    "Add chopped parsley and cook for an additional minute.",
+    "Add ikura and stir to combine.",
+    "Drain pasta and add to the skillet, tossing to coat with the ikura mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "seafood",
+    "herbal",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herbal-australian-ikura-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:35:13.488Z"
+}
