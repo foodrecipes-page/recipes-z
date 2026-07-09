@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-dense-australian-squid-skewers",
+  "title": "Grilled Squid Skewers with Zesty Australian Marinade",
+  "description": "A refreshing and flavorful seafood dish, perfect for a summer evening. The zesty marinade adds a tangy twist to the tender squid.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Zesty Australian seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread squid, garlic, and chili flakes (if using) onto skewers.",
+    "In a small bowl, whisk together lemon juice, Australian olive oil, zesty Australian seasoning blend, salt, and pepper.",
+    "Brush the marinade mixture onto both sides of the squid.",
+    "Grill skewers for 2-3 minutes per side, or until squid is opaque and slightly charred.",
+    "Serve immediately, garnished with lemon wedges and Australian herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "seafood",
+    "grilled",
+    "squid",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-australian-squid-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:05:49.596Z"
+}
