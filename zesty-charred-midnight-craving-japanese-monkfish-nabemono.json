@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-charred-midnight-craving-japanese-monkfish-nabemono",
+  "title": "Japanese Nabemono with Charred Monkfish",
+  "description": "A Japanese-inspired hot pot dish featuring charred monkfish, served with a variety of vegetables and noodles. Perfect for a cold evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charred Monkfish Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Japanese Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetables (Bok Choy, Carrots, Shiitake Mushrooms)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger, sliced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Green Onions, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Zesty Dipping Sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the charred monkfish fillets by brushing them with sesame oil and grilling until charred.",
+    "2. In a separate pot, combine the Japanese noodles and enough water to cover them. Bring to a boil and cook until tender.",
+    "3. In a large pot or wok, combine the soy sauce, ginger, and sesame oil. Bring to a boil and simmer for 5 minutes.",
+    "4. Add the sliced vegetables and cook until they are tender.",
+    "5. Add the cooked noodles and charred monkfish to the pot. Stir in the green onions and sesame seeds.",
+    "6. Serve the hot pot with a side of zesty dipping sauce.",
+    "7. Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "nabemono",
+    "hot-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-midnight-craving-japanese-monkfish-nabemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:58:24.026Z"
+}
