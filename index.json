@@ -521,18 +521,16 @@
   },
   {
     "slug": "zero-waste-mediterranean-chickpea-flour-dumplings",
-    "title": "Zero Waste Mediterranean Chickpea Flour Dumplings",
+    "title": "Mediterranean Chickpea Dumplings",
     "tags": [
-      "fermented",
-      "gluten-free",
       "mediterranean",
-      "one-pot",
-      "quick-fix",
-      "vegan",
-      "zero-waste"
+      "chickpea",
+      "dumplings",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -3885,17 +3883,15 @@
   },
   {
     "slug": "zesty-crunchy-turkish-swede-adana-kebap",
-    "title": "Zesty Crunchy Turkish Swede Adana Kebap",
+    "title": "Delicious Adana Kebap with Turkish-Style Roasted Swede",
     "tags": [
-      "gluten-free",
-      "kebap-recipes",
-      "lamb-recipes",
-      "low-lactose",
-      "swede-recipes",
-      "turkish-cuisine"
+      "turkish",
+      "kebap",
+      "adana",
+      "swede"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -4001,17 +3997,16 @@
   },
   {
     "slug": "zesty-dense-australian-squid-skewers",
-    "title": "Zesty Dense Australian Squid Skewers",
+    "title": "Grilled Squid Skewers with Zesty Australian Marinade",
     "tags": [
       "australian",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "grilled",
+      "squid",
+      "skewers"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 23,
     "shard": "z"
   },
   {
@@ -11719,16 +11714,16 @@
   },
   {
     "slug": "zesty-smoky-peruvian-chicken-aji-de-gallina",
-    "title": "Zesty Smoky Peruvian Chicken Aji De Gallina",
+    "title": "Smoky Chicken Gallina",
     "tags": [
-      "chicken-recipes",
-      "flexitarian-friendly",
-      "one-pan-meals",
-      "peruvian-cuisine",
-      "smoky-flavors"
+      "chicken",
+      "peruvian",
+      "smoky",
+      "aji",
+      "gallina"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
