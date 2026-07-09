@@ -1919,17 +1919,15 @@
   },
   {
     "slug": "zesty-charred-midnight-craving-japanese-monkfish-nabemono",
-    "title": "zesty charred midnight craving japanese monkfish nabemono",
+    "title": "Japanese Nabemono with Charred Monkfish",
     "tags": [
-      "high-protein",
-      "japanese-cuisine",
-      "one-pan",
-      "seafood-dinner",
-      "snack-ideas",
-      "weeknight"
+      "japanese",
+      "nabemono",
+      "hot-pot",
+      "seafood"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 23,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -2877,16 +2875,14 @@
   },
   {
     "slug": "zesty-crisp-syrian-peppers-paella",
-    "title": "Zesty Crisp Syrian Peppers Paella",
+    "title": "Syrian Paella",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "spicy",
-      "syrian-cuisine",
-      "vegetarian"
+      "middle-eastern",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -5057,17 +5053,17 @@
   },
   {
     "slug": "zesty-flaky-polish-pork-pierogi",
-    "title": "Zesty Flaky Polish Pork Pierogi",
+    "title": "Polish Pierogi with Pork and Polish Sausage",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "high-protein",
-      "homemade-pasta",
-      "keto-friendly",
-      "polish-cuisine"
+      "polish",
+      "pierogi",
+      "pork",
+      "sausage",
+      "breakfast",
+      "lunch"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
