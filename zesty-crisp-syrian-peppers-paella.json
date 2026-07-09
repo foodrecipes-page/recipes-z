@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-crisp-syrian-peppers-paella",
+  "title": "Syrian Paella",
+  "description": "A flavorful and spicy twist on the classic Spanish dish, featuring crispy peppers and a zesty kick.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian Paella Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crisp Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Zesty Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add peppers and cook until crispy, about 5 minutes.",
+    "Add onion and cook until translucent, about 3 minutes.",
+    "Add rice and stir to coat with oil and mix with vegetables.",
+    "Add salt, black pepper, and 2 cups of water to the pan.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Fluff rice with a fork and garnish with cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-syrian-peppers-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:16:48.580Z"
+}
