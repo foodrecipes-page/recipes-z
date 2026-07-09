@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-irish-fish-stew",
+  "title": "Irish Stew",
+  "description": "A hearty, comforting stew from Ireland, made with tender lamb, potatoes, and carrots. Perfect for a cold winter's day.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Irish soda bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add potatoes, carrots, and stew seasoning. Pour in water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours, or until lamb is tender.",
+    "Serve with Irish soda bread on the side.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "lamb",
+    "comfort-food",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 44,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:06:42.390Z"
+}
