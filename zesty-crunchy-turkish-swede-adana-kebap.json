@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-crunchy-turkish-swede-adana-kebap",
+  "title": "Delicious Adana Kebap with Turkish-Style Roasted Swede",
+  "description": "A flavorful and spicy Turkish-inspired dish featuring tender Adana kebap served with a delicious side of roasted Swede.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Adana kebap",
+      "amount": "500g",
+      "notes": "Available in most supermarkets or make your own"
+    },
+    {
+      "name": "Swede",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy salad mix",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turkish olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Peel and chop the Swede into 2cm cubes and place on a baking sheet.",
+    "Drizzle with Turkish olive oil, season with salt and pepper, and roast in the oven for 20 minutes.",
+    "Meanwhile, cook the Adana kebap in a pan over medium heat for 5-7 minutes per side.",
+    "Slice the cooked kebap into thin strips and serve with the roasted Swede and crunchy salad mix.",
+    "Drizzle with zesty lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebap",
+    "adana",
+    "swede"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-turkish-swede-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:25:43.249Z"
+}
