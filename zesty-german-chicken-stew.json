@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-german-chicken-stew",
+  "title": "German Chicken Stew",
+  "description": "A hearty and flavorful stew made with tender chicken, root vegetables, and a hint of German spices.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "zesty sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for simmering"
+    },
+    {
+      "name": "german-style seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "containing thyme, rosemary, and caraway seeds"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Dredge the chicken pieces in flour, shaking off excess.",
+    "Brown the chicken on all sides, about 5-7 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 3-4 minutes.",
+    "Add the sliced carrots and cubed potatoes to the pot, cooking for 5 minutes.",
+    "Add the chopped sauerkraut, beef broth, water, and german-style seasoning blend to the pot. Stir to combine.",
+    "Return the browned chicken to the pot, cover, and bring to a boil.",
+    "Transfer the pot to the preheated oven and braise for 25-30 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-german-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:55:07.740Z"
+}
