@@ -6536,17 +6536,15 @@
   },
   {
     "slug": "zesty-hearty-irish-sausage-stir-fry",
-    "title": "Zesty Hearty Irish Sausage Stir fry",
+    "title": "Irish Sausage Stir Fry",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "irish",
+      "sausage",
+      "stir-fry",
+      "breakfast"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -6900,16 +6898,15 @@
   },
   {
     "slug": "zesty-irish-fish-stew",
-    "title": "Zesty Irish Fish Stew",
+    "title": "Irish Stew",
     "tags": [
+      "irish-stew",
+      "lamb",
       "comfort-food",
-      "fish-stew",
-      "irish-cuisine",
-      "one-pot",
-      "weeknight-dinner"
+      "hearty-stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "cuisine": "irish",
+    "totalTimeMin": 100,
     "shard": "z"
   },
   {
@@ -7040,17 +7037,15 @@
   },
   {
     "slug": "zesty-jamaican-beef-skewers",
-    "title": "Zesty Jamaican Beef Skewers",
+    "title": "Jamaican Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "crowd-pleasers",
-      "grilled-meats",
-      "jamaican-cuisine",
-      "spicy-food",
-      "weeknight-meals"
+      "barbecue",
+      "beef",
+      "jamaican",
+      "skewers"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -10338,17 +10333,15 @@
   },
   {
     "slug": "zesty-romantic-tunisian-cheese-tagine",
-    "title": "Zesty Romantic Tunisian Cheese Tagine",
+    "title": "Tunisian Cheese Tagine",
     "tags": [
-      "cheese-lovers",
-      "gluten-free",
-      "one-pot",
-      "romantic-dinner",
-      "tunisian-cuisine",
-      "vegetarian-friendly"
+      "north african",
+      "cheese",
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
