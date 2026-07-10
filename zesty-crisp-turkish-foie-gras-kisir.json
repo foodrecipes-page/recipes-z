@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-crisp-turkish-foie-gras-kisir",
+  "title": "Turkish-Style Kisir Salad with Grilled Foie Gras",
+  "description": "A refreshing and exotic salad made with kisir, zesty vegetables, and crispy textures, topped with a rich grilled foie gras.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kisir",
+      "amount": "200g"
+    },
+    {
+      "name": "Crunchy Turkish bread",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zesty cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Juicy cherry tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Gras foie",
+      "amount": "150g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Grill the foie gras to an internal temperature of 130°F (54°C) for medium-rare.",
+    "2. In a large bowl, mix together the kisir, crumbled Turkish bread, diced red onion, sliced zesty cucumber, and halved cherry tomatoes.",
+    "3. In a small bowl, whisk together a vinaigrette made from olive oil, lemon juice, and a pinch of salt and pepper.",
+    "4. Pour the vinaigrette over the kisir mixture and toss to combine.",
+    "5. Crumble the feta cheese over the top of the salad.",
+    "6. Slice the grilled foie gras into thin medallions and place on top of the salad.",
+    "7. Garnish with chopped fresh parsley.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "salad",
+    "foie-gras",
+    "grilled",
+    "kisir"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-turkish-foie-gras-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:28:22.149Z"
+}
