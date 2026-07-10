@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-spring-canadian-asparagus-gratin",
+  "title": "Spring Asparagus Gratin",
+  "description": "A simple and flavorful side dish that showcases the taste of fresh asparagus, topped with a crispy and zesty Canadian cheese.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "fresh asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "zesty Canadian cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "spring onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Trim the ends of the asparagus and place them in a single layer on a baking sheet.",
+    "Drizzle the asparagus with olive oil and season with salt and pepper.",
+    "Roast the asparagus in the preheated oven for 12-15 minutes, or until tender.",
+    "In a separate pan, sauté the chopped spring onions until softened.",
+    "In a greased 8-inch square baking dish, create a layer of roasted asparagus.",
+    "Sprinkle shredded cheese over the asparagus, followed by a layer of sautéed onions.",
+    "Grate the gratin on top and bake for an additional 5-7 minutes, until the cheese is melted and bubbly.",
+    "Serve the Spring Asparagus Gratin warm, garnished with additional spring onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "spring",
+    "gratin",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-canadian-asparagus-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:25:06.009Z"
+}
