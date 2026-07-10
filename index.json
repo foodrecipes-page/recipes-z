@@ -6172,18 +6172,14 @@
   },
   {
     "slug": "zesty-grassy-algerian-stilton-cheese-flatbread",
-    "title": "Zesty Grassy Algerian Stilton Cheese Flatbread",
+    "title": "Algerian Stilton Flatbread",
     "tags": [
-      "algerian-cuisine",
-      "cheese-lovers",
-      "easy-snacks",
-      "flatbread-recipes",
-      "herb-infused",
-      "kosher-friendly",
-      "quick-fix"
+      "flatbread",
+      "stilton-cheese",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 17,
+    "cuisine": "North African",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
