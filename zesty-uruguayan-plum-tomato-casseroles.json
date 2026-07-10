@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-uruguayan-plum-tomato-casseroles",
+  "title": "Uruguayan Casserole",
+  "description": "A hearty casserole originating from Uruguay, made with ground beef, tomatoes, and a hint of zesty flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Plum tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Zesty seasoning",
+      "amount": "1 tsp",
+      "notes": "Uruguayan-style"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Shredded cheddar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook rice according to package instructions.",
+    "In a large pan, heat olive oil over medium-high heat.",
+    "Add ground beef, breaking it up with a spoon as it cooks.",
+    "Once browned, add tomato paste, zesty seasoning, salt, and black pepper. Stir to combine.",
+    "Add chopped plum tomatoes and stir to combine.",
+    "In a large mixing bowl, combine cooked rice, ground beef mixture, and shredded cheddar.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Bake in preheated oven for 25-30 minutes, or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "uruguayan",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-uruguayan-plum-tomato-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:59:37.444Z"
+}
