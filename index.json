@@ -9388,17 +9388,15 @@
   },
   {
     "slug": "zesty-peruvian-prawns-ceviche",
-    "title": "Zesty Peruvian Prawns Ceviche",
+    "title": "Peruvian Prawns Ceviche",
     "tags": [
-      "high-protein",
-      "paleo-friendly",
-      "peruvian-cuisine",
-      "raw-seafood",
-      "sous-vide",
-      "weeknight-meal"
+      "peruvian",
+      "ceviche",
+      "prawns",
+      "seafood"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -12886,17 +12884,15 @@
   },
   {
     "slug": "zesty-tender-venezuelan-shrimp-skewers",
-    "title": "Zesty Tender Venezuelan Shrimp Skewers",
+    "title": "Venezuelan Shrimp Skewers with Zesty Sauce",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "gluten-free",
-      "grilled",
-      "seafood",
-      "south-american"
+      "latin-american",
+      "shrimp",
+      "skewers",
+      "summer"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -13392,16 +13388,14 @@
   },
   {
     "slug": "zesty-uruguayan-plum-tomato-casseroles",
-    "title": "Zesty Uruguayan Plum Tomato Casseroles",
+    "title": "Uruguayan Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "casserole",
+      "uruguayan",
+      "beef"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
