@@ -13118,16 +13118,14 @@
   },
   {
     "slug": "zesty-turkish-lentil-soup",
-    "title": "Zesty Turkish Lentil Soup",
+    "title": "Turkish Lentil Soup",
     "tags": [
-      "turkish-soup",
-      "low-sodium",
-      "vegetarian",
-      "lentils",
-      "spicy"
+      "soup",
+      "lentil",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
