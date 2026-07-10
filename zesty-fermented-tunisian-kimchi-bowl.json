@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-fermented-tunisian-kimchi-bowl",
+  "title": "Kimchi Zesty Bowl",
+  "description": "A fusion dish that combines the spicy kick of kimchi with the tangy flavor of zesty sauce, served in a Tunisian-inspired bowl.",
+  "cuisine": "Asian-Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tunisian couscous",
+      "amount": "1 cup",
+      "notes": "or other small-grain couscous"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook the couscous according to package instructions.",
+    "2. In a separate pan, heat the zesty sauce over medium heat.",
+    "3. Add the kimchi to the pan and stir to combine with the zesty sauce.",
+    "4. To assemble the bowls, place a scoop of couscous in the bottom, followed by a spoonful of the kimchi-zesty sauce mixture.",
+    "5. Top with mixed greens, sliced scallions, chopped cilantro, and sesame seeds.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kimchi",
+    "zesty",
+    "asian-fusion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fermented-tunisian-kimchi-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:10:05.180Z"
+}
