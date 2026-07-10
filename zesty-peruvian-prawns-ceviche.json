@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-peruvian-prawns-ceviche",
+  "title": "Peruvian Prawns Ceviche",
+  "description": "A flavorful and refreshing Peruvian-inspired dish made with succulent prawns marinated in a zesty citrus mixture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Prawns (1 pound)",
+      "amount": "1 pound",
+      "notes": "Fresh, peeled, and deveined"
+    },
+    {
+      "name": "Red onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty sauce (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "See recipe notes"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat dry with paper towels.",
+    "In a large bowl, combine the prawns, red onion, cilantro, and lime juice.",
+    "Stir in the zesty sauce and season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the prawns to marinate.",
+    "Just before serving, stir the ceviche gently to redistribute the ingredients.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "prawns",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-prawns-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:31:19.439Z"
+}
