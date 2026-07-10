@@ -1,0 +1,56 @@
+{
+  "slug": "zesty-smoky-kenyan-chicken-flatbread",
+  "title": "Kenyan Chicken Flatbread",
+  "description": "A flavorful flatbread dish from Kenya, made with smoky chicken and served with a side of zesty sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoky spices",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breast with smoky spices and cook in the oven for 20-25 minutes, or until cooked through.",
+    "Warm flatbread in the oven for 5-7 minutes, or until crispy.",
+    "Serve chicken on top of flatbread, and drizzle with zesty sauce.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "flatbread",
+    "easy",
+    "quick"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-kenyan-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:27:03.111Z"
+}
