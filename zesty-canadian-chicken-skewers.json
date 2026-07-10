@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-canadian-chicken-skewers",
+  "title": "Zesty Canadian Chicken Skewers",
+  "description": "A flavorful and easy-to-make recipe for chicken skewers, infused with a zesty Canadian twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Zesty Canadian sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": "Red or yellow onion"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": "Green or red bell pepper"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Soak wood skewers in water for 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty Canadian sauce, salt, and black pepper.",
+    "Add chicken, onion, bell pepper, and cilantro to the bowl. Toss to coat with sauce.",
+    "Thread chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "summer",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:34:10.016Z"
+}
