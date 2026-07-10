@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-saudi-arabian-romano-pepper-bake",
+  "title": "Baked Arabian Chicken with Romano Cheese",
+  "description": "A flavorful and aromatic dish inspired by the flavors of Arabia, featuring chicken baked with a blend of spices and topped with a rich Romano cheese sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "arabian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "romano cheese",
+      "amount": "1 cup, shredded",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "zesty garlic sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bake",
+      "amount": "1",
+      "notes": "oven temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with the arabian spice blend and pepper.",
+    "In a large baking dish, arrange the chicken breasts in a single layer.",
+    "Drizzle the zesty garlic sauce over the top of the chicken.",
+    "Bake for 25-30 minutes, or until the chicken is cooked through.",
+    "While the chicken is baking, combine the romano cheese and 1 tablespoon of water in a small bowl.",
+    "Remove the chicken from the oven and top each breast with the romano cheese mixture.",
+    "Return the chicken to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "middle eastern",
+    "cheese",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-romano-pepper-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:38:27.428Z"
+}
