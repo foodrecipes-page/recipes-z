@@ -10547,18 +10547,13 @@
   },
   {
     "slug": "zesty-saudi-sesame-seed-fried",
-    "title": "zesty saudi sesame seed fried",
+    "title": "Saudi Fried Sesame Seed Fritters",
     "tags": [
-      "breakfast",
-      "easy",
-      "fry",
-      "kid-friendly",
-      "one-pan",
-      "saudi-arabian",
+      "fried",
       "snack",
-      "weeknight"
+      "saudi-cuisine"
     ],
-    "cuisine": "saudi-arabian",
+    "cuisine": "Saudi",
     "totalTimeMin": 25,
     "shard": "z"
   },
@@ -11591,17 +11586,16 @@
   },
   {
     "slug": "zesty-smoky-kenyan-chicken-flatbread",
-    "title": "Zesty Smoky Kenyan Chicken Flatbread",
+    "title": "Kenyan Chicken Flatbread",
     "tags": [
-      "fajita",
-      "fluffy",
-      "high-protein",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "kenyan",
+      "chicken",
+      "flatbread",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
