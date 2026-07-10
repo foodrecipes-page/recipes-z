@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-turkish-lentil-soup",
+  "title": "Turkish Lentil Soup",
+  "description": "A hearty and comforting Turkish-inspired lentil soup made with a blend of spices and aromatics.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, 5 minutes.",
+    "Stir in cumin and cook 1 minute.",
+    "Add tomato paste; cook 1 minute.",
+    "Add diced tomatoes, broth, salt, and pepper.",
+    "Bring to a boil; reduce heat to low and simmer.",
+    "Add lentils; cook until tender, 20-25 minutes.",
+    "Serve hot, garnished with chopped parsley (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "lentil",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-turkish-lentil-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:03:32.196Z"
+}
