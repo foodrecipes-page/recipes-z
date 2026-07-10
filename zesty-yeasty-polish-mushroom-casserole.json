@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-yeasty-polish-mushroom-casserole",
+  "title": "Mushroom Polish Casserole",
+  "description": "A hearty and savory dish filled with sautéed mushrooms and polish ingredients. Serve warm and enjoy.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "2 cups",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zesty cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as cheddar or feta"
+    },
+    {
+      "name": "Yeasty bread",
+      "amount": "1 loaf, cubed",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "Casserole mix",
+      "amount": "1 packet",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the mushrooms and sausage in a large skillet until browned.",
+    "In a separate bowl, combine the bread and zesty cheese.",
+    "Add the bread mixture to the skillet and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "If using casserole mix, sprinkle on top of the mixture.",
+    "Bake for 25-30 minutes or until the top is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "mushroom",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-polish-mushroom-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:20:01.423Z"
+}
