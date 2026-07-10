@@ -2908,17 +2908,16 @@
   },
   {
     "slug": "zesty-crisp-turkish-foie-gras-kisir",
-    "title": "Zesty Crisp Turkish Foie Gras Kisir",
+    "title": "Turkish-Style Kisir Salad with Grilled Foie Gras",
     "tags": [
-      "complex-flavors",
-      "halal-friendly",
-      "one-pan",
-      "rich-dish",
-      "special-occasion",
-      "turkish-cuisine"
+      "turkish",
+      "salad",
+      "foie-gras",
+      "grilled",
+      "kisir"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -12303,17 +12302,15 @@
   },
   {
     "slug": "zesty-spring-canadian-asparagus-gratin",
-    "title": "Zesty Spring Canadian Asparagus Gratin",
+    "title": "Spring Asparagus Gratin",
     "tags": [
-      "canadian-cuisine",
-      "individual-servings",
-      "low-fat",
-      "special-occasion",
-      "spring-vegetables",
-      "steamed-vegetables"
+      "asparagus",
+      "spring",
+      "gratin",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 37,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -14114,16 +14111,15 @@
   },
   {
     "slug": "zesty-yeasty-polish-mushroom-casserole",
-    "title": "Zesty Yeasty Polish Mushroom Casserole",
+    "title": "Mushroom Polish Casserole",
     "tags": [
-      "comfort-food",
-      "mushroom-recipes",
-      "polish-cuisine",
-      "vegetarian-dishes",
-      "yeast-bread"
+      "polish",
+      "mushroom",
+      "casserole",
+      "vegetarian"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
