@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-tender-venezuelan-shrimp-skewers",
+  "title": "Venezuelan Shrimp Skewers with Zesty Sauce",
+  "description": "A flavorful and colorful dish that's perfect for a summer evening. The combination of succulent shrimp, tender vegetables, and zesty sauce will transport you to the coast of Venezuela.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, bell peppers, and onions onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until shrimp are pink and cooked through.",
+    "Meanwhile, mix zesty sauce ingredients in a small bowl.",
+    "Serve skewers with zesty sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "shrimp",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-tender-venezuelan-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:34:09.214Z"
+}
