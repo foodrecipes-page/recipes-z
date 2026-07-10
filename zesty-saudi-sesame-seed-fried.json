@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-saudi-sesame-seed-fried",
+  "title": "Saudi Fried Sesame Seed Fritters",
+  "description": "Crispy fried fritters filled with a nutty sesame seed mixture, inspired by Saudi cuisine.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "zesty sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fry mix (saudi style)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, sesame seeds, and salt. Mix well.",
+    "2. Add sesame oil to the dry mixture and mix until crumbly.",
+    "3. Gradually add fry mix to the mixture and mix until well combined.",
+    "4. Gradually add water to the mixture to form a dough.",
+    "5. Knead the dough for 10 minutes until smooth.",
+    "6. Divide the dough into small portions.",
+    "7. Roll each portion into a ball and then flatten into a disk.",
+    "8. Heat oil in a deep frying pan over medium-high heat.",
+    "9. Fry fritters until golden brown and crispy.",
+    "10. Remove fritters from oil and place on a paper towel-lined plate to drain excess oil.",
+    "11. Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "snack",
+    "saudi-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-sesame-seed-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:46:18.661Z"
+}
