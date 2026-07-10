@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-grassy-algerian-stilton-cheese-flatbread",
+  "title": "Algerian Stilton Flatbread",
+  "description": "A flavorful flatbread topped with rich stilton cheese, perfect for a quick snack or light lunch.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet",
+      "notes": "preferably Algerian or North African flatbread"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "rich and creamy, a classic cheese choice"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most North African or Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil and sprinkle with Algerian spice blend.",
+    "Top flatbread with crumbled stilton cheese.",
+    "Place flatbread in oven and bake for 5-7 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "stilton-cheese",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grassy-algerian-stilton-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:47:31.532Z"
+}
