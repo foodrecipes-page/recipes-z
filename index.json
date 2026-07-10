@@ -1736,15 +1736,12 @@
     "slug": "zesty-canadian-chicken-skewers",
     "title": "Zesty Canadian Chicken Skewers",
     "tags": [
-      "canadian-cuisine",
-      "chicken-recipes",
-      "clay-pot-cooking",
-      "low-fat",
-      "wooden-skewers",
-      "zesty-flavors"
+      "grilled",
+      "summer",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
