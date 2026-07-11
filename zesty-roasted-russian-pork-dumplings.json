@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-roasted-russian-pork-dumplings",
+  "title": "Pork Dumplings with Zesty Russian Sauce",
+  "description": "A twist on traditional pan-fried dumplings, served with a tangy zesty Russian sauce for dipping.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat-lovers",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian pork ground",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20 wrappers",
+      "notes": null
+    },
+    {
+      "name": "Zesty Russian sauce",
+      "amount": "1 cup",
+      "notes": "See below for recipe"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the Russian pork ground, 1 tablespoon vegetable oil, salt, and black pepper. Mix well with your hands until just combined.",
+    "2. Lay a dumpling wrapper on a flat surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "4. Fold the wrapper into a half-moon shape, pressing the edges together to seal the dumpling.",
+    "5. Repeat with the remaining wrappers and pork mixture.",
+    "6. In a large skillet or wok, heat 1-2 tablespoons of vegetable oil over medium-high heat.",
+    "7. When the oil is hot, add the dumplings to the skillet and cook until the bottom is golden brown, about 2-3 minutes.",
+    "8. Flip the dumplings over and cook for an additional 2-3 minutes, until the other side is also golden brown.",
+    "9. Remove the dumplings from the skillet and place them on a paper towel-lined plate to drain any excess oil.",
+    "10. Serve the dumplings hot with the zesty Russian sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "comfort-food",
+    "meat-lovers",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-russian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:44:58.018Z"
+}
