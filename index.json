@@ -4607,16 +4607,15 @@
   },
   {
     "slug": "zesty-egyptian-turkey-neck-skewers",
-    "title": "Zesty Egyptian Turkey Neck Skewers",
+    "title": "Grilled Middle Eastern Turkey Skewers",
     "tags": [
-      "deep-fried",
-      "egyptian-cuisine",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "middle-eastern",
+      "grilled",
+      "skewers",
+      "turkey"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -7090,17 +7089,14 @@
   },
   {
     "slug": "zesty-jamaican-feta-casserole",
-    "title": "Zesty Jamaican Feta Casserole",
+    "title": "Jamaican Feta Casserole",
     "tags": [
-      "feta-cheese",
-      "jamaican-cuisine",
-      "kid-friendly",
-      "mason-jar-recipes",
-      "one-dish-wonder",
-      "ovo-vegetarian"
+      "casserole",
+      "feta",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -8428,16 +8424,14 @@
   },
   {
     "slug": "zesty-middle-eastern-tuna-tagine",
-    "title": "Zesty Middle Eastern Tuna Tagine",
+    "title": "Tuna Tagine Tagine",
     "tags": [
-      "flambe",
-      "gluten-free",
-      "middle-eastern",
-      "one-pot",
-      "seafood"
+      "seafood",
+      "middle eastern",
+      "easy lunch"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -8470,17 +8464,15 @@
   },
   {
     "slug": "zesty-miso-jamaican-haddock-bowl",
-    "title": "Zesty Miso Jamaican Haddock Bowl",
+    "title": "Jamaican Haddock Bowl",
     "tags": [
-      "cauliflower-rice",
-      "jamaican-inspired",
-      "low-glycemic",
-      "one-bowl",
-      "pescatarian",
-      "weeknight"
+      "jamaican",
+      "haddock",
+      "bowl",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
