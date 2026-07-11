@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-fluffy-dutch-andouille-hash",
+  "title": "Andouille Hash and Eggs",
+  "description": "A hearty breakfast recipe featuring andouille sausage, crispy hash browns, and fluffy eggs.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Andouille Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Zesty Cheese (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook hash browns according to package instructions.",
+    "Slice andouille sausage into 1/2-inch thick rounds.",
+    "Heat a large oven-safe skillet over medium-high heat.",
+    "Add sausage to skillet and cook until browned, about 2-3 minutes per side.",
+    "Remove sausage from skillet and set aside.",
+    "Crack eggs into skillet and scramble until cooked through.",
+    "Add cooked hash browns to skillet and stir to combine with eggs.",
+    "Return sausage to skillet and stir to combine with egg and hash brown mixture.",
+    "Bake in preheated oven for an additional 2-3 minutes, until cheese is melted and bubbly (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "sausages",
+    "hash-browns",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-dutch-andouille-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:17:05.024Z"
+}
