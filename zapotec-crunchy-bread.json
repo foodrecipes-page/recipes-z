@@ -1,0 +1,69 @@
+{
+  "slug": "zapotec-crunchy-bread",
+  "title": "Crunchy Zapotec Bites",
+  "description": "A crispy appetizer made with crunchy bread and flavorful Zapotec sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Zapotec sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crunchy bread",
+      "amount": "1 baguette, cut into 1-inch cubes"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss bread cubes with 1 tablespoon of Zapotec sauce until evenly coated.",
+    "Place bread cubes on a baking sheet and bake for 10 minutes.",
+    "In a separate bowl, mix together cheese, salsa, cilantro, garlic, and lime juice.",
+    "Once bread cubes are crispy, remove from oven and toss with cheese mixture.",
+    "Return bread mixture to oven and bake for an additional 2-3 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zapotec-crunchy-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T10:57:27.858Z"
+}
