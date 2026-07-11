@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-pungent-japanese-kabanos-okonomiyaki",
+  "title": "Japanese Kabanos-Style Okonomiyaki",
+  "description": "A fusion of Japanese okonomiyaki and Hungarian kabanos sausage, this dish combines the savory flavors of the two cuisines.",
+  "cuisine": "Japanese-Hungarian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kabanos sausage",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Okonomiyaki sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Japanese mayonnaise",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sliced shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zesty cabbage",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pungent garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or griddle over medium-high heat.",
+    "Add the sliced kabanos sausage and cook until browned and crispy, about 5 minutes.",
+    "Add the sliced shiitake mushrooms and cook until tender, about 3 minutes.",
+    "Add the thinly sliced cabbage, zesty cabbage, and pungent garlic. Cook until the cabbage is slightly wilted, about 2 minutes.",
+    "In a small bowl, whisk together the okonomiyaki sauce and Japanese mayonnaise. Brush the sauce mixture over the top of the sausage and vegetables.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 5-7 minutes, or until the sauce is caramelized and bubbly.",
+    "Remove from the oven and sprinkle with Panko breadcrumbs, if using.",
+    "Slice into wedges and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "hungarian",
+    "fusion",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-pungent-japanese-kabanos-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:15:55.617Z"
+}
