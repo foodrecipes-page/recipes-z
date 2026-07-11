@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-grassy-portuguese-pork-tenderloin-skewers",
+  "title": "Grilled Portuguese Pork Tenderloin Skewers",
+  "description": "Tender and juicy pork tenderloin marinated in a zesty Portuguese-inspired mixture, grilled to perfection on skewers. This dish is perfect for a summer evening dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "1 (1 pound) piece"
+    },
+    {
+      "name": "Zesty Portuguese Marinade",
+      "amount": "1 cup",
+      "notes": "see below for marinade ingredients"
+    },
+    {
+      "name": "Portuguese-Style Skewers",
+      "amount": "10-12 wooden skewers"
+    },
+    {
+      "name": "Grassy Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine marinade ingredients and blend until smooth.",
+    "Place the pork tenderloin in a large zip-top plastic bag or a shallow dish. Pour the marinade over the pork, turning to coat evenly.",
+    "Seal the bag or cover the dish with plastic wrap. Refrigerate for at least 2 hours or overnight, turning occasionally.",
+    "Preheat grill to medium-high heat.",
+    "Thread the pork tenderloin onto the skewers, leaving a small space between each piece.",
+    "Brush the grill with the grassy olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "Transfer the skewers to a plate and let rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "portuguese",
+    "pork",
+    "summer",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grassy-portuguese-pork-tenderloin-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:07:23.998Z"
+}
