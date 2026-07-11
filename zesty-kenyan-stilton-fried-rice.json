@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-kenyan-stilton-fried-rice",
+  "title": "Kenyan Stilton Fried Rice",
+  "description": "A flavorful twist on traditional fried rice, incorporating the bold flavors of Kenya and the richness of Stilton cheese.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Zesty Kenyan Rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Stilton Cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Fried Onions (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soysauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add crumbled Stilton cheese and cook until lightly browned.",
+    "Add the Zesty Kenyan Rice and stir-fry until heated through.",
+    "If using, add fried onions and stir-fry for 1-2 minutes.",
+    "Add soy sauce, salt, and pepper to taste. Stir-fry for another minute.",
+    "Transfer the fried rice to a serving platter.",
+    "Garnish with additional Stilton cheese and fried onions (if using).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan-cuisine",
+    "stilton-cheese",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-kenyan-stilton-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:04:58.116Z"
+}
