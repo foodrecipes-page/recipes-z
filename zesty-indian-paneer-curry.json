@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-indian-paneer-curry",
+  "title": "Indian Paneer Curry",
+  "description": "A flavorful and creamy Indian-inspired dish made with paneer cheese, zesty spices, and a hint of curry.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "zesty Indian spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add curry powder and zesty Indian spices. Cook for 1 minute.",
+    "Add paneer cheese and cook until lightly browned.",
+    "Add tomato puree and stir well.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:41:30.621Z"
+}
