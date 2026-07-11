@@ -6240,17 +6240,16 @@
   },
   {
     "slug": "zesty-grassy-portuguese-pork-tenderloin-skewers",
-    "title": "Zesty Grassy Portuguese Pork Tenderloin Skewers",
+    "title": "Grilled Portuguese Pork Tenderloin Skewers",
     "tags": [
-      "garlic-free",
-      "gluten-free",
-      "grilled-meat",
-      "onion-free",
-      "pork-recipes",
-      "portuguese-cuisine"
+      "grilled",
+      "portuguese",
+      "pork",
+      "summer",
+      "outdoor"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 38,
     "shard": "z"
   },
   {
@@ -8235,17 +8234,16 @@
   },
   {
     "slug": "zesty-middle-eastern-duck-tabbouleh",
-    "title": "Zesty Middle Eastern Duck Tabbouleh",
+    "title": "Duck Shawarma Tabbouleh Wrap",
     "tags": [
-      "bamboo-tray",
-      "citrusy",
-      "creamy",
-      "duck-recipes",
-      "middle-eastern",
-      "quick-fix"
+      "middle eastern",
+      "duck",
+      "shawarma",
+      "tabbouleh",
+      "wrap"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
