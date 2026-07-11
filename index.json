@@ -9646,18 +9646,15 @@
   },
   {
     "slug": "zesty-pungent-japanese-kabanos-okonomiyaki",
-    "title": "Zesty Pungent Japanese Kabanos Okonomiyaki",
+    "title": "Japanese Kabanos-Style Okonomiyaki",
     "tags": [
-      "high-protein",
       "japanese",
-      "kabanos",
-      "okonomiyaki",
-      "one-pan",
-      "simmer",
-      "weeknight"
+      "hungarian",
+      "fusion",
+      "snack"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "cuisine": "Japanese-Hungarian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
