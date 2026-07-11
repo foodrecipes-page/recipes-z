@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-comforting-irish-beef-brisket-stew",
+  "title": "Irish Beef Stew",
+  "description": "A hearty and comforting beef stew inspired by Irish cuisine, with tender brisket and vegetables in a rich broth.",
+  "cuisine": "irish",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brisket",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zesty beef broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Brown the brisket in a large Dutch oven over medium-high heat. Remove the browned brisket from the pot and set it aside.",
+    "Reduce heat to medium and cook the chopped onion until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the beef broth, browned brisket, salt, and black pepper to the pot. Stir to combine.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake the stew for 2 1/2 to 3 hours, or until the brisket is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and stir in the flour to thicken the stew.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cuisine",
+    "beef-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-comforting-irish-beef-brisket-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:08:45.166Z"
+}
