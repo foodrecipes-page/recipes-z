@@ -28,17 +28,16 @@
   },
   {
     "slug": "zealous-savory-russian-beef-dumplings",
-    "title": "Zealous Savory Russian Beef Dumplings",
+    "title": "Beef and Dumplings Stew",
     "tags": [
-      "beef-recipes",
-      "date-night",
+      "beef",
       "dumplings",
-      "kosher-friendly",
-      "russian-cuisine",
-      "steamed-dishes"
+      "stew",
+      "russian",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 125,
     "shard": "z"
   },
   {
@@ -10136,17 +10135,15 @@
   },
   {
     "slug": "zesty-roasted-russian-pork-dumplings",
-    "title": "Zesty Roasted Russian Pork Dumplings",
+    "title": "Pork Dumplings with Zesty Russian Sauce",
     "tags": [
-      "dumplings",
-      "fodmap-friendly",
-      "gluten-free",
-      "pork-recipes",
-      "roasted",
-      "russian-cuisine"
+      "russian",
+      "comfort-food",
+      "meat-lovers",
+      "dumplings"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
