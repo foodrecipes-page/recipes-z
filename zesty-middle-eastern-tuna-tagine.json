@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-middle-eastern-tuna-tagine",
+  "title": "Tuna Tagine Tagine",
+  "description": "A flavorful Middle Eastern-inspired dish featuring tuna and zesty tagine sauce. Serve over couscous for a hearty meal.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "tagine sauce",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tuna steaks and cook for 2-3 minutes per side, until browned.",
+    "In a small bowl, whisk together the tagine sauce and ground cumin.",
+    "Pour the sauce over the tuna and cook for an additional 2-3 minutes, until the sauce is bubbly.",
+    "Season with salt and cayenne pepper (if using).",
+    "Serve immediately, garnished with chopped parsley and a side of couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "middle eastern",
+    "easy lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-tuna-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:12:10.324Z"
+}
