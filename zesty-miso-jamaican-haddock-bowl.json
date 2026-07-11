@@ -1,0 +1,102 @@
+{
+  "slug": "zesty-miso-jamaican-haddock-bowl",
+  "title": "Jamaican Haddock Bowl",
+  "description": "A flavorful and spicy haddock bowl with a zesty twist. Marinated haddock is pan-seared to perfection and served in a bowl with a tangy miso sauce and topped with fresh herbs.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, 6 oz each"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Zesty lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp",
+      "notes": "White or yellow miso"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sliced fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sliced red bell peppers",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped fresh scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the haddock fillets with Jamaican jerk seasoning.",
+    "3. In a small bowl, whisk together zesty lime juice, miso paste, and honey (if using).",
+    "4. Place the haddock fillets in a shallow dish and brush the lime juice mixture on both sides of the fish.",
+    "5. Let the haddock marinate for at least 15 minutes, or up to 30 minutes in the refrigerator.",
+    "6. Heat a large skillet over medium-high heat. Remove the haddock from the marinade, letting any excess liquid drip off.",
+    "7. Add the haddock to the skillet, skin side up (if it has skin). Cook for 3-4 minutes, or until the skin is golden brown and crispy.",
+    "8. Flip the haddock over and cook for an additional 3-4 minutes, or until cooked through.",
+    "9. Meanwhile, cook the white rice according to package instructions.",
+    "10. Roast the sweet potatoes in the oven for 20-25 minutes, or until tender.",
+    "11. Roast the red bell peppers in the oven for 20-25 minutes, or until tender.",
+    "12. To assemble the bowls, place a portion of cooked white rice on the bottom, followed by a piece of pan-seared haddock, roasted sweet potatoes, and roasted red bell peppers. Garnish with sliced green onions, sliced fresh cilantro, and chopped fresh scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "haddock",
+    "bowl",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-miso-jamaican-haddock-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:02:10.004Z"
+}
