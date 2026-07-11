@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-italian-cheese-lasagna",
+  "title": "Classic Italian Lasagna",
+  "description": "Layers of pasta, rich sauce, and a blend of cheeses create a delicious Italian dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lasagna pasta",
+      "amount": "8-10 sheets",
+      "notes": "wide flat noodles"
+    },
+    {
+      "name": "Italian tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": "dairy or vegan alternative"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": "dairy or vegan alternative"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup grated",
+      "notes": "dairy or vegan alternative"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna pasta according to package directions. Drain and set aside.",
+    "In a large skillet, heat Italian tomato sauce over medium heat.",
+    "Combine ricotta cheese, mozzarella cheese, and Parmesan cheese in a bowl. Mix well.",
+    "Spread a layer of tomato sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Spread half of the cheese mixture over the pasta.",
+    "Repeat the layers: tomato sauce, lasagna sheets, and cheese mixture.",
+    "Top with shredded mozzarella cheese and chopped basil (if using).",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-italian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:06:09.666Z"
+}
