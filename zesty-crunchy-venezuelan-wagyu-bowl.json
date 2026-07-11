@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-crunchy-venezuelan-wagyu-bowl",
+  "title": "Crunchy Wagyu Beef Bowl",
+  "description": "A flavorful and nutritious bowl filled with grilled wagyu beef, crunchy slaw, and a hint of venezuelan spices.",
+  "cuisine": "latin",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef (8 oz)",
+      "amount": "1",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Zesty Slaw Coleslaw Mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Venezuelan-Style Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Crunchy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "see notes for homemade recipe"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season wagyu beef with venezuelan-style seasoning.",
+    "3. Grill wagyu beef for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "4. Let wagyu beef rest for 5 minutes before slicing.",
+    "5. In a large bowl, combine zesty slaw coleslaw mix and crunchy fried shallots.",
+    "6. To assemble the bowls, place sliced wagyu beef on top of the slaw mixture.",
+    "7. Garnish with fresh cilantro leaves and serve with lime wedges on the side.",
+    "8. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "latin",
+    "beef",
+    "slaw",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-venezuelan-wagyu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:09:39.912Z"
+}
