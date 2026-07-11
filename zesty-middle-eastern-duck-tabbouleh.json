@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-middle-eastern-duck-tabbouleh",
+  "title": "Duck Shawarma Tabbouleh Wrap",
+  "description": "A flavorful Middle Eastern wrap filled with grilled duck, tabbouleh salad, and a tangy zesty sauce. Perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Tabbouleh salad mix",
+      "amount": "1 cup",
+      "notes": "Found in most grocery stores"
+    },
+    {
+      "name": "Zesty tahini sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": "Warm or toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the duck breast with salt and pepper.",
+    "Grill the duck for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the duck rest for 5 minutes before slicing it thinly.",
+    "In a large bowl, combine the tabbouleh salad mix, chopped lettuce, diced tomatoes, sliced cucumber, and thinly sliced red onion.",
+    "Drizzle the zesty tahini sauce over the salad and toss to combine.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the wraps by placing a few slices of the grilled duck onto each pita bread, followed by a spoonful of the tabbouleh salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "duck",
+    "shawarma",
+    "tabbouleh",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-duck-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:35:01.488Z"
+}
