@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-smoky-dutch-lamb-stew",
+  "title": "Dutch Lamb Stew",
+  "description": "A hearty and flavorful stew made with lamb and a blend of spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": "Zesty flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoky flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat 2 tablespoons of oil in a Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the Worcestershire sauce, Dutch mustard, and smoked paprika to the pot.",
+    "Stir to combine and bring to a simmer.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-stew",
+    "dutch-cuisine",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-dutch-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:31:26.398Z"
+}
