@@ -15,15 +15,14 @@
   },
   {
     "slug": "zapotec-crunchy-bread",
-    "title": "Zapotec Crunchy Bread",
+    "title": "Crunchy Zapotec Bites",
     "tags": [
-      "zapotec",
-      "crunchy",
-      "bread",
-      "spicy"
+      "mexican",
+      "appetizer",
+      "snack"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 15,
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -2373,17 +2372,14 @@
   },
   {
     "slug": "zesty-comforting-irish-beef-brisket-stew",
-    "title": "Zesty Comforting Irish Beef Brisket Stew",
+    "title": "Irish Beef Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "hearty-stew",
-      "homestyle-cooking",
       "irish-cuisine",
-      "low-carb"
+      "beef-stew",
+      "comfort-food"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "cuisine": "irish",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
