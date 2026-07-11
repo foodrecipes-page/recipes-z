@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-jamaican-feta-casserole",
+  "title": "Jamaican Feta Casserole",
+  "description": "A flavorful and easy-to-make casserole that combines the spicy flavors of Jamaica with the tanginess of feta cheese. Perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 (9x13 inch) box",
+      "notes": "for the base"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "jamaican hot sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease the casserole base with olive oil.",
+    "In a large skillet, sauté the chopped onion and bell pepper until softened.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Stir in the jamaican hot sauce and cook for another minute.",
+    "In a large bowl, combine the cooked onion mixture, feta cheese, and chicken broth.",
+    "Pour the mixture into the greased casserole base.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "feta",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jamaican-feta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:14:24.352Z"
+}
