@@ -2182,17 +2182,14 @@
   },
   {
     "slug": "zesty-chinese-chicken-curry",
-    "title": "Zesty Chinese Chicken Curry",
+    "title": "Zesty Chicken Curry",
     "tags": [
-      "bhuna",
+      "chicken",
       "curry",
-      "keto-friendly",
-      "one-pan",
-      "quick",
-      "romantic"
+      "asian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -2702,16 +2699,16 @@
   },
   {
     "slug": "zesty-crisp-italian-beef-kidney-piadina",
-    "title": "Zesty Crisp Italian Beef Kidney Piadina",
+    "title": "Crispy Beef and Kidney Piadina Rolls",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "italian-food",
-      "kid-friendly",
-      "lunch-ideas"
+      "italian",
+      "beef",
+      "kidney",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -5139,17 +5136,15 @@
   },
   {
     "slug": "zesty-fluffy-dutch-andouille-hash",
-    "title": "Zesty Fluffy Dutch Andouille Hash",
+    "title": "Andouille Hash and Eggs",
     "tags": [
-      "andouille-sausage",
-      "breakfast-hash",
-      "gluten-free",
-      "lazy-sunday",
-      "meat-based",
-      "one-pan"
+      "breakfast",
+      "sausages",
+      "hash-browns",
+      "eggs"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
