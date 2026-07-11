@@ -1,0 +1,57 @@
+{
+  "slug": "zesty-syrian-onion-kebabs",
+  "title": "Grilled Kebabs with Zesty Onion",
+  "description": "A flavorful and easy-to-make dish featuring marinated kebabs with a zesty twist from caramelized onions.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian Kebabs",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "zest from 1/4 of the onion for marinade"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tbsp",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Peel and zest 1/4 of the onion, mixing with marinade from Syrian Kebabs package.",
+    "3. Thread kebabs and caramelized onion onto skewers.",
+    "4. Brush kebabs with remaining marinade and cook for 8-10 minutes per side.",
+    "5. Serve hot with additional zesty seasoning if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "vegetarian",
+    "easy",
+    "kebab"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-syrian-onion-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:36:09.513Z"
+}
