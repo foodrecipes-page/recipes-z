@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-chinese-chicken-curry",
+  "title": "Zesty Chicken Curry",
+  "description": "A flavorful and spicy chicken curry dish with a zesty twist, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "zesty curry sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "adjust to sauce consistency"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the broccoli to the skillet and cook until tender, about 3-5 minutes.",
+    "Add the curry powder to the skillet and cook for 1 minute.",
+    "Add the zesty curry sauce, water, salt, and pepper to the skillet.",
+    "Stir to combine and bring the sauce to a simmer.",
+    "Return the chicken to the skillet and cook until the sauce has thickened and the chicken is cooked through.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chinese-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:19:23.559Z"
+}
