@@ -1,0 +1,99 @@
+{
+  "slug": "zesty-buttery-turkish-lamb-kebabs",
+  "title": "Lamb Kebabs with Turkish Flair",
+  "description": "A flavorful and aromatic lamb kebab recipe inspired by Turkish cuisine, featuring a zesty marinade and a buttery finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Zesty Marinade",
+      "amount": "1/4 cup",
+      "notes": "1/4 cup olive oil, 2 cloves garlic (minced), 1 tablespoon lemon juice, 1 teaspoon paprika"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Spices",
+      "amount": "1 teaspoon",
+      "notes": "1/2 teaspoon cumin, 1/2 teaspoon coriander, 1/4 teaspoon cayenne pepper (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade (see notes)"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together marinade ingredients. Add lamb cubes and toss to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece. Brush with marinade and season with Turkish spices, salt, and pepper.",
+    "Grill lamb kebabs for 8-10 minutes per side, or until cooked to desired level of doneness. Transfer to a plate and let rest for 5 minutes.",
+    "Meanwhile, melt butter in a small saucepan over medium heat. Brush melted butter onto pita bread slices.",
+    "Warm pita bread by wrapping in foil and heating on the grill for 2-3 minutes, or until slightly toasted.",
+    "Assemble kebabs by placing a lamb cube on each pita bread slice, followed by a dollop of tzatziki sauce, a sprinkle of parsley, and a squeeze of lemon juice.",
+    "Serve immediately, garnished with red onion slices if desired.",
+    "Optional: Serve with a side of roasted vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb-kebabs",
+    "turkish-cuisine",
+    "grilled-meats",
+    "summer-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "32g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:52:33.844Z"
+}
