@@ -4846,17 +4846,17 @@
   },
   {
     "slug": "zesty-filipino-eggs-bake",
-    "title": "Zesty Filipino Eggs Bake",
+    "title": "Filipino-Style Zesty Egg Bake",
     "tags": [
+      "breakfast",
       "brunch",
-      "easy-to-make",
-      "egg-dish",
       "filipino",
-      "low-calorie",
-      "one-pan"
+      "egg",
+      "cheese",
+      "zesty"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
