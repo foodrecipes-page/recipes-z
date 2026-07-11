@@ -2974,18 +2974,14 @@
   },
   {
     "slug": "zesty-crispy-chinese-smoked-mackerel-noodles",
-    "title": "Zesty Crispy Chinese Smoked Mackerel Noodles",
+    "title": "Smoked Mackerel Stir Fry",
     "tags": [
-      "chinese-food",
-      "crispy",
-      "gluten-free",
-      "noodle-dish",
-      "peppery",
-      "smoked-fish",
-      "weeknight"
+      "asian",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -6644,16 +6640,14 @@
   },
   {
     "slug": "zesty-indian-paneer-curry",
-    "title": "Zesty Indian Paneer Curry",
+    "title": "Indian Paneer Curry",
     "tags": [
-      "comfort-food",
-      "indian-cuisine",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight"
+      "indian",
+      "paneer",
+      "curry"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -11385,17 +11379,14 @@
   },
   {
     "slug": "zesty-smoky-dutch-lamb-stew",
-    "title": "Zesty Smoky Dutch Lamb Stew",
+    "title": "Dutch Lamb Stew",
     "tags": [
-      "comfort-food",
+      "lamb-stew",
       "dutch-cuisine",
-      "hearty-stew",
-      "lamb-recipes",
-      "one-pot-meal",
-      "smoky-flavors"
+      "hearty-stew"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -12690,17 +12681,16 @@
   },
   {
     "slug": "zesty-syrian-onion-kebabs",
-    "title": "Zesty Syrian Onion Kebabs",
+    "title": "Grilled Kebabs with Zesty Onion",
     "tags": [
-      "easy-to-make",
-      "kosher-friendly",
-      "midnight-snack",
-      "onion-kebabs",
-      "savory-snack",
-      "syrian-cuisine"
+      "grilled",
+      "kebabs",
+      "vegetarian",
+      "easy",
+      "kebab"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 26,
     "shard": "z"
   },
   {
