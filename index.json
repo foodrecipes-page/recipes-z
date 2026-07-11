@@ -1202,16 +1202,15 @@
   },
   {
     "slug": "zesty-bouncy-northern-thai-chicken-noodles",
-    "title": "Zesty Bouncy Northern Thai Chicken Noodles",
+    "title": "Thai Noodle Stir Fry",
     "tags": [
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "quick-dinner",
-      "thai-cuisine"
+      "thaifood",
+      "noodlestirfry",
+      "chickenstirfry",
+      "easyrecipe"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -6983,14 +6982,11 @@
   },
   {
     "slug": "zesty-italian-cheese-lasagna",
-    "title": "Zesty Italian Cheese Lasagna",
+    "title": "Classic Italian Lasagna",
     "tags": [
-      "baked-pasta",
-      "cheesy",
-      "italian-food",
-      "keto-friendly",
-      "low-carb",
-      "special-occasion"
+      "italian",
+      "lasagna",
+      "pasta"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
@@ -12667,17 +12663,15 @@
   },
   {
     "slug": "zesty-syrian-lamb-kebabs",
-    "title": "Zesty Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "grilling",
+      "lamb",
+      "kebabs",
+      "syrian-cuisine"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "z"
   },
   {
