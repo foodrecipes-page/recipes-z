@@ -1665,16 +1665,15 @@
   },
   {
     "slug": "zesty-buttery-turkish-lamb-kebabs",
-    "title": "Zesty Buttery Turkish Lamb Kebabs",
+    "title": "Lamb Kebabs with Turkish Flair",
     "tags": [
-      "easy-dinner",
+      "lamb-kebabs",
+      "turkish-cuisine",
       "grilled-meats",
-      "lamb-recipes",
-      "special-occasion",
-      "turkish-food"
+      "summer-recipes"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -3913,13 +3912,15 @@
   },
   {
     "slug": "zesty-crunchy-venezuelan-wagyu-bowl",
-    "title": "Zesty Crunchy Venezuelan Wagyu Bowl",
+    "title": "Crunchy Wagyu Beef Bowl",
     "tags": [
-      "venezuelan",
-      "lunch"
+      "latin",
+      "beef",
+      "slaw",
+      "bowls"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "latin",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
