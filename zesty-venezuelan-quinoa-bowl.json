@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-venezuelan-quinoa-bowl",
+  "title": "Hearty Zesty Quinoa Bowl",
+  "description": "A flavorful, nutritious bowl filled with quinoa, black beans, and a zesty sauce. Great for a quick and easy lunch or dinner.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup, cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the quinoa according to package instructions.",
+    "In a pan, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the diced red onion and bell pepper, sautéing until tender.",
+    "Add the cooked black beans and zesty sauce, stirring to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Fluff the cooked quinoa with a fork and divide among bowls.",
+    "Top with the bean mixture and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "vegan",
+    "latin-american",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:49:42.436Z"
+}
