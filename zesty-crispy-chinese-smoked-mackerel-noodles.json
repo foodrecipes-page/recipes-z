@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-crispy-chinese-smoked-mackerel-noodles",
+  "title": "Smoked Mackerel Stir Fry",
+  "description": "A quick and easy Asian-inspired stir fry made with smoked mackerel and noodles, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel Fillets",
+      "amount": "2",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Zesty Chinese Noodles",
+      "amount": "1 package",
+      "notes": "8 oz"
+    },
+    {
+      "name": "Crispy Chinese Broccoli",
+      "amount": "1 bunch",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the broccoli and stir-fry until crispy, about 3-4 minutes.",
+    "Add the smoked mackerel and stir-fry for 2-3 minutes, breaking it up with a spatula as it cooks.",
+    "Add the cooked noodles, soy sauce, and stir-fry until everything is well combined.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-chinese-smoked-mackerel-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:25:19.586Z"
+}
