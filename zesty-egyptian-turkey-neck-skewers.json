@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-egyptian-turkey-neck-skewers",
+  "title": "Grilled Middle Eastern Turkey Skewers",
+  "description": "Juicy turkey skewers marinated in zesty Egyptian spices and grilled to perfection. Serve with a side of your favorite salad or roasted vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey breast, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "You can also use thighs if preferred"
+    },
+    {
+      "name": "Zesty Egyptian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "A mix of paprika, cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "Neck of celery, cut into 1-inch pieces",
+      "amount": "1 stalk",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": "Soak them in water for 30 minutes before grilling"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together the zesty Egyptian spice blend, lemon juice, and olive oil.",
+    "Add the turkey cubes and celery pieces to the marinade. Toss to coat.",
+    "Thread the turkey and celery onto the wooden skewers, leaving a little space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the turkey is cooked through and slightly charred.",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "grilled",
+    "skewers",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-egyptian-turkey-neck-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:14:26.332Z"
+}
