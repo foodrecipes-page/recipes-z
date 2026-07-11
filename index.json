@@ -7406,16 +7406,14 @@
   },
   {
     "slug": "zesty-kenyan-stilton-fried-rice",
-    "title": "Zesty Kenyan Stilton Fried-Rice",
+    "title": "Kenyan Stilton Fried Rice",
     "tags": [
-      "african",
-      "egg-free",
-      "one-pan",
-      "quick",
-      "vegetarian",
-      "zesty"
+      "breakfast",
+      "kenyan-cuisine",
+      "stilton-cheese",
+      "fried-rice"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 25,
     "shard": "z"
   },
@@ -13888,14 +13886,15 @@
   },
   {
     "slug": "zesty-winey-glassy-jelly-bilo-bilo-talavera-plate",
-    "title": "Zesty Winey Glassy Jelly Bilo-bilo Talavera Plate",
+    "title": "Talavera and Zesty Jelly Tart",
     "tags": [
-      "filipino-dessert",
-      "garnish-talavera-plate",
-      "vegetarian-friendly"
+      "tart",
+      "dessert",
+      "mexican",
+      "creative"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
