@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-bouncy-northern-thai-chicken-noodles",
+  "title": "Thai Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with chicken, noodles, and a blend of Thai spices. Serve hot and enjoy!",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai noodles",
+      "amount": "1 package",
+      "notes": "rice stick or egg noodles"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp",
+      "notes": " Thai red curry paste or store-bought"
+    },
+    {
+      "name": "bouncy peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "northern basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the noodles, zesty sauce, and peanuts to the skillet.",
+    "Stir-fry for 2-3 minutes, until the noodles are well coated.",
+    "Add the basil and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: add your favorite vegetables (e.g. bell peppers, carrots) to the stir-fry for added flavor and nutrition."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "noodlestirfry",
+    "chickenstirfry",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bouncy-northern-thai-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:48:30.521Z"
+}
