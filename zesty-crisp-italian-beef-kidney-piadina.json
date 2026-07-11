@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-crisp-italian-beef-kidney-piadina",
+  "title": "Crispy Beef and Kidney Piadina Rolls",
+  "description": "A simple Italian-inspired snack or appetizer made with crispy piadina, zesty beef, and tender kidney.",
+  "cuisine": "Italian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "piadina",
+      "amount": "4-6 sheets"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "kidney",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the piadina sheets in half.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the sliced kidney and cook until browned.",
+    "Add the ground beef and cook until browned, breaking into small pieces.",
+    "Stir in the zesty sauce and cook for 1 minute.",
+    "Assemble the piadina rolls by placing a spoonful of the beef and kidney mixture on each half.",
+    "Roll up the piadina and place seam-side down on a baking sheet.",
+    "Bake for 12-15 minutes or until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "beef",
+    "kidney",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-italian-beef-kidney-piadina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:08:54.051Z"
+}
