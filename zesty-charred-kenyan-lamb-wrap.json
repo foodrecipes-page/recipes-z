@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-charred-kenyan-lamb-wrap",
+  "title": "Kenyan Lamb Wrap",
+  "description": "A flavorful Kenyan-inspired dish featuring lamb, spices, and fresh herbs, wrapped in a charred wrap.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Charred wrap (pita or flatbread)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zesty cucumber raita",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan-spiced oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green chili",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Grill the lamb shoulder for 4-5 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "3. Let the lamb rest for 5 minutes before slicing it thinly.",
+    "4. In a small bowl, mix together the Kenyan-spiced oil, salt, and black pepper.",
+    "5. Brush the charred wrap with the spiced oil.",
+    "6. Slice the red onion and green chili, and layer them on the wrap.",
+    "7. Add sliced lamb on top of the onion and chili.",
+    "8. Dollop the zesty cucumber raita on top of the lamb.",
+    "9. Garnish with fresh cilantro and serve immediately.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kenyan",
+    "wrap",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-kenyan-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:52:12.030Z"
+}
