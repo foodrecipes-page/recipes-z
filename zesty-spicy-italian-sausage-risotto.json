@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-spicy-italian-sausage-risotto",
+  "title": "Spicy Italian Sausage Risotto",
+  "description": "A hearty and flavorful Italian-inspired dish featuring spicy sausage and creamy risotto. Perfect for a cozy night in.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spicy Italian Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Arborio rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine to the skillet and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 1 cup of chicken broth to the skillet and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Repeat the process of adding the chicken broth in 1-cup increments, stirring constantly, until the rice is cooked and creamy.",
+    "Stir in the grated Parmesan cheese and cooked sausage.",
+    "Season with salt and pepper to taste.",
+    "Serve the risotto immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "risotto",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spicy-italian-sausage-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:15:26.421Z"
+}
