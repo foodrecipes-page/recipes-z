@@ -1,0 +1,85 @@
+{
+  "slug": "zacepene-citrusne-takania",
+  "title": "Takania and Citrusne Stir Fry with Zacepene Sauce",
+  "description": "Quick and flavorful stir-fry dish served with a tangy zacepene sauce. A great option for those looking for a light and refreshing meal.",
+  "cuisine": "Asian-Inspired",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Takania",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Citrusne",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zacepene",
+      "amount": "2 tablespoons",
+      "notes": "juice"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger and cook for 1 minute until fragrant.",
+    "Add takania and cook for 3-4 minutes until tender.",
+    "In a small bowl, whisk together zacepene juice, soy sauce, and honey.",
+    "Pour the zacepene sauce over the takania and stir to coat.",
+    "Add citrusne to the skillet and cook for an additional 2-3 minutes until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or noodles.",
+    "Garnish with additional citrusne slices if desired.",
+    "Enjoy your delicious stir-fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zacepene-citrusne-takania",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:18:31.622Z"
+}
