@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-turkish-lamb-kofte",
+  "title": "Turkish-Style Lamb Kofte",
+  "description": "A flavorful and spicy lamb kofte recipe from Turkey, perfect for a quick dinner or lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "Turkish red pepper flakes"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the ground lamb, chopped onion, minced garlic, chopped parsley, smoked paprika, ground cumin, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the Turkish red pepper flakes and mix until evenly distributed.",
+    "With your hands, shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place the meatballs on a baking sheet lined with parchment paper.",
+    "Drizzle the meatballs with a little water, then sprinkle with bread crumbs. Gently roll the meatballs to coat evenly.",
+    "Bake the kofte in the preheated oven for 15-20 minutes, or until cooked through and lightly browned on the outside.",
+    "Serve the kofte hot, garnished with chopped parsley and a dollop of tzatziki sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kofte",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-turkish-lamb-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:40:37.868Z"
+}
