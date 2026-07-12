@@ -6656,17 +6656,15 @@
   },
   {
     "slug": "zesty-indulgent-irish-lamb-stew",
-    "title": "Zesty Indulgent Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stews",
-      "irish-food",
-      "lamb-recipes",
-      "one-pot-meals"
+      "irish",
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
