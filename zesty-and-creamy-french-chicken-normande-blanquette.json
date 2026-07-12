@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-and-creamy-french-chicken-normande-blanquette",
+  "title": "Creamy Chicken Normande",
+  "description": "A classic French dish with a twist of zesty flavors, featuring tender chicken in a creamy Normande sauce.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "your favorite zesty sauce"
+    },
+    {
+      "name": "and",
+      "amount": "1 cup",
+      "notes": "sauteed with the zesty sauce"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "french",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "normande",
+      "amount": "1/2 cup",
+      "notes": "sauce"
+    },
+    {
+      "name": "blanquette",
+      "amount": "1/4 cup",
+      "notes": "white wine"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt, pepper, and your favorite herbs.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Sear the chicken until browned on both sides, then transfer to a baking dish.",
+    "In the same skillet, sauté the zesty sauce, and, and french until softened.",
+    "Add the creamy, normande, and blanquette to the skillet, whisking constantly.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes.",
+    "Pour the sauce over the chicken in the baking dish.",
+    "Cover the dish with foil and bake for 20-25 minutes.",
+    "Remove the foil and bake for an additional 5-10 minutes, until the chicken is cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "french",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-and-creamy-french-chicken-normande-blanquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:33:54.327Z"
+}
