@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-indulgent-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting stew made with tender lamb, root vegetables, and a hint of zesty flavor.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the beef broth, whisking continuously, and bring to a boil.",
+    "Return the lamb to the pot and add the zesty mustard.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "45g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indulgent-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:47:34.768Z"
+}
