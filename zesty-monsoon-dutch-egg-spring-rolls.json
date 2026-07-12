@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-monsoon-dutch-egg-spring-rolls",
+  "title": "Spring Rolls with Zesty Dipping Sauce",
+  "description": "A refreshing twist on traditional spring rolls, served with a zesty dipping sauce. Perfect as a snack or appetizer.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring Rolls",
+      "amount": "4-6 rolls",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Zesty Dipping Sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Processed Cacao Powder",
+      "amount": "2 tablespoons",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Monsoon Mango Chutney",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a deep frying pan or a deep fryer to 350°F (175°C).",
+    "Prepare the zesty dipping sauce by mixing the monsoon mango chutney and vegetable oil in a bowl.",
+    "Place the spring rolls on a plate and brush with the egg wash.",
+    "Heat the vegetable oil in the preheated pan and fry the spring rolls until golden brown, about 3-4 minutes.",
+    "Drain the spring rolls on paper towels and serve hot with the zesty dipping sauce.",
+    "Garnish with Dutch processed cacao powder and a sprinkle of salt and black pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spring-rolls",
+    "zesty-dipping-sauce",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-monsoon-dutch-egg-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:09:31.806Z"
+}
