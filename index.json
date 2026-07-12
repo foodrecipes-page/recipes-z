@@ -6789,18 +6789,16 @@
   },
   {
     "slug": "zesty-irish-cheese-fondue",
-    "title": "Zesty Irish Cheese Fondue",
+    "title": "Irish Cheese Fondue",
     "tags": [
-      "appetizer",
-      "dairy-free",
+      "cheese",
+      "irish",
       "fondue",
-      "gluten-free",
-      "irish-cuisine",
       "snack",
-      "vegetarian"
+      "dip"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -13026,18 +13024,15 @@
   },
   {
     "slug": "zesty-turkish-lamb-kofte",
-    "title": "Zesty Turkish Lamb Kofte",
+    "title": "Turkish-Style Lamb Kofte",
     "tags": [
-      "crunchy",
-      "kofte",
-      "light-dish",
-      "one-pot",
       "turkish",
-      "winey",
-      "zesty"
+      "lamb",
+      "kofte",
+      "meatballs"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 35,
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
