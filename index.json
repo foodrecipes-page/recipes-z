@@ -1,16 +1,14 @@
 [
   {
     "slug": "zacepene-citrusne-takania",
-    "title": "Začepené Citrusné Tákania",
+    "title": "Takania and Citrusne Stir Fry with Zacepene Sauce",
     "tags": [
-      "slovakian",
-      "citrusy",
-      "crunchy",
-      "energizing",
-      "jain-friendly"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "cuisine": "Asian-Inspired",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -5561,17 +5559,15 @@
   },
   {
     "slug": "zesty-garlicky-brazilian-cheese-fritters",
-    "title": "Zesty Garlicky Brazilian Cheese Fritters",
+    "title": "Brazilian Cheese Fritters",
     "tags": [
-      "brazilian-food",
-      "cheese-fritters",
-      "deep-fried",
-      "garlicky",
-      "romantic-dish",
-      "vegetarian-snack"
+      "cheese",
+      "snack",
+      "appetizer",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -7778,17 +7774,14 @@
   },
   {
     "slug": "zesty-light-thai-oxtail-nam-prik",
-    "title": "Zesty Light Thai Oxtail Nam Prik",
+    "title": "Thai Braised Oxtail Curry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "thai",
-      "weeknight"
+      "thaicurry",
+      "oxtail",
+      "brazilian"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 180,
+    "cuisine": "Thai",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
