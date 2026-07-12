@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-garlicky-brazilian-cheese-fritters",
+  "title": "Brazilian Cheese Fritters",
+  "description": "A delicious and crispy fritter recipe filled with melted Brazilian cheese, great for a snack or appetizer.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "garlicky zesty seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, mix together the Brazilian cheese, garlicky zesty seasoning, flour, and eggs.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "snack",
+    "appetizer",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-brazilian-cheese-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:48:48.463Z"
+}
