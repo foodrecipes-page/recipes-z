@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-light-thai-oxtail-nam-prik",
+  "title": "Thai Braised Oxtail Curry",
+  "description": "A flavorful and tender Thai-inspired oxtail curry made with zesty and aromatic spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "zesty nam prik paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set aside.",
+    "Add the nam prik paste to the pot and cook, stirring constantly, for 1 minute.",
+    "Add the brown sugar, fish sauce, and soy sauce to the pot and cook, stirring constantly, for 1 minute.",
+    "Return the oxtail to the pot and add the kaffir lime leaves and Thai basil leaves.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the oxtail for 2 1/2 hours, or until tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the oxtail hot, garnished with additional Thai basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thaicurry",
+    "oxtail",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-thai-oxtail-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:01:15.592Z"
+}
