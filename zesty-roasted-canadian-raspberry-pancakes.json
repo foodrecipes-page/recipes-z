@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-roasted-canadian-raspberry-pancakes",
+  "title": "Raspberry Canadian Pancake Delight",
+  "description": "A sweet and fluffy pancake dish loaded with fresh raspberries and topped with a zesty syrup.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "fresh raspberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty syrup",
+      "amount": "4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together flour, sugar, baking powder, and a pinch of salt.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "The batter should still be slightly lumpy.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Serve the pancakes warm with fresh raspberries and zesty syrup on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "raspberry",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-canadian-raspberry-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:51:31.868Z"
+}
