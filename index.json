@@ -6591,16 +6591,15 @@
   },
   {
     "slug": "zesty-herbal-slovakian-wonton-dumplings",
-    "title": "Zesty Herbal Slovakian Wonton Dumplings",
+    "title": "Slovakian Wonton Dumplings",
     "tags": [
-      "dumplings",
-      "flexitarian",
-      "herbal",
       "slovakian",
-      "stir-fry",
-      "wonton"
+      "dumplings",
+      "wonton",
+      "pork",
+      "steamed"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 30,
     "shard": "z"
   },
