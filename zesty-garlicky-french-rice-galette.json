@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-garlicky-french-rice-galette",
+  "title": "Pan-Seared Galette with Garlic Rice",
+  "description": "A flavorful, French-inspired dish featuring crispy galette and savory garlic-infused rice.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "galette",
+      "amount": "4-6 slices",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "white or brown"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "olive or vegetable"
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add rice and stir for 2-3 minutes until lightly toasted.",
+    "Add 2 cups of water or broth and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes until water is absorbed.",
+    "While rice cooks, preheat a pan or griddle over medium-high heat.",
+    "Add galette slices and cook for 2-3 minutes per side until crispy and golden.",
+    "Serve garlic rice with pan-seared galette and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "garlic",
+    "rice",
+    "galette",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-french-rice-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:34:41.214Z"
+}
