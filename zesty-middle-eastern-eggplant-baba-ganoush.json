@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-baba-ganoush",
+  "title": "Middle Eastern Eggplant Baba Ghanoush",
+  "description": "A classic Middle Eastern eggplant dip, roasted to perfection. Serve with pita or vegetables for a delicious snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "1",
+      "notes": "any variety"
+    },
+    {
+      "name": "1/4 cup tahini",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the eggplant in half lengthwise and place on a baking sheet.",
+    "Drizzle with 2 tablespoons of olive oil and season with salt.",
+    "Roast in the oven for 30-40 minutes, or until the eggplant is tender and caramelized.",
+    "Let the eggplant cool slightly, then scoop the flesh into a blender or food processor.",
+    "Add the tahini, lemon juice, garlic, and remaining 1 tablespoon of olive oil to the blender.",
+    "Blend until smooth, adding water as needed to achieve the desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the baba ghanoush to a serving bowl and garnish with paprika, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "dip",
+    "middle eastern",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:33:36.277Z"
+}
