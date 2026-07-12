@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-herbal-slovakian-wonton-dumplings",
+  "title": "Slovakian Wonton Dumplings",
+  "description": "Traditional Slovakian dumplings filled with a savory mixture of meat and spices, served with a side of zesty sauce.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton wrappers",
+      "amount": "12-15 wrappers",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "Slovakian zesty sauce"
+    },
+    {
+      "name": "slovakian herbs",
+      "amount": "1 teaspoon",
+      "notes": "such as paprika and marjoram"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": "for wrapping dumplings"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, chopped onion, minced garlic, zesty sauce, Slovakian herbs, and salt. Mix well with your hands until just combined.",
+    "Lay a wonton wrapper on a clean surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling. Repeat with the remaining wrappers and pork mixture.",
+    "In a large pot or steamer, bring 2-3 inches of water to a boil. Reduce the heat to medium-low and place a steamer basket over the pot.",
+    "Place the dumplings in the steamer basket, leaving some space between each dumpling. Cover the pot with a lid.",
+    "Steam the dumplings for 8-10 minutes, or until they are cooked through and the wrappers are translucent.",
+    "Serve the dumplings hot with a side of zesty sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "wonton",
+    "pork",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herbal-slovakian-wonton-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:31:30.745Z"
+}
