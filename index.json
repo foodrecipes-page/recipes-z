@@ -872,17 +872,14 @@
   },
   {
     "slug": "zesty-and-creamy-french-chicken-normande-blanquette",
-    "title": "Zesty and Creamy French Chicken Normande Blanquette",
+    "title": "Creamy Chicken Normande",
     "tags": [
-      "comfort-food",
-      "creamy",
+      "chicken",
       "french",
-      "normandy",
-      "one-pan",
-      "wine-based"
+      "sauce"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -1895,17 +1892,15 @@
   },
   {
     "slug": "zesty-charred-kenyan-lamb-wrap",
-    "title": "Zesty Charred Kenyan Lamb Wrap",
+    "title": "Kenyan Lamb Wrap",
     "tags": [
-      "grilled-meats",
-      "jain-friendly",
-      "kenyan-cuisine",
-      "lamb-recipes",
-      "romantic-dinner",
-      "special-occasion"
+      "lamb",
+      "kenyan",
+      "wrap",
+      "grill"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -5609,16 +5604,16 @@
   },
   {
     "slug": "zesty-garlicky-french-rice-galette",
-    "title": "Zesty Garlicky French Rice Galette",
+    "title": "Pan-Seared Galette with Garlic Rice",
     "tags": [
-      "french-cuisine",
-      "garlic-lovers",
-      "gluten-free",
-      "grilled-dishes",
-      "vegetarian-options"
+      "french",
+      "garlic",
+      "rice",
+      "galette",
+      "lunch"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 32,
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -12185,14 +12180,12 @@
   },
   {
     "slug": "zesty-spicy-italian-sausage-risotto",
-    "title": "Zesty Spicy Italian Sausage Risotto",
+    "title": "Spicy Italian Sausage Risotto",
     "tags": [
-      "comfort-food",
       "italian",
-      "keto-friendly",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "sausage",
+      "risotto",
+      "spicy"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 50,
