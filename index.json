@@ -5146,17 +5146,16 @@
   },
   {
     "slug": "zesty-fluffy-indian-almonds-curry",
-    "title": "Zesty Fluffy Indian Almonds Curry",
+    "title": "Indian Almond Curry",
     "tags": [
-      "fluffy",
-      "nutty",
-      "one-pot",
-      "quick",
-      "raw-friendly",
+      "indian",
+      "curry",
+      "almonds",
+      "vegan",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -5907,16 +5906,16 @@
   },
   {
     "slug": "zesty-golden-fried-north-indian-naan-fried-rice",
-    "title": "Zesty Golden Fried North Indian Naan Fried Rice",
+    "title": "North Indian Fried Rice",
     "tags": [
-      "fried-rice",
-      "high-protein",
       "north-indian",
-      "one-pan",
-      "post-workout"
+      "indian-food",
+      "fried-rice",
+      "easy-recipe",
+      "lunch-idea"
     ],
-    "cuisine": "North Indian",
-    "totalTimeMin": 35,
+    "cuisine": "north indian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
