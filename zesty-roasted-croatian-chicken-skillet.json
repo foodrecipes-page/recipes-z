@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-roasted-croatian-chicken-skillet",
+  "title": "Croatian Skillet Chicken",
+  "description": "A flavorful and easy-to-make dish that combines the spices of Croatia with the convenience of a skillet. Perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "zesty seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Season the chicken with zesty seasoning and cook for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced red peppers to the skillet and cook for 3-4 minutes, or until tender.",
+    "Add the chopped onion and minced garlic to the skillet and cook for an additional 2-3 minutes.",
+    "Return the chicken to the skillet and stir to combine with the vegetables.",
+    "Serve the chicken and vegetables hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "croatian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-croatian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:31:47.791Z"
+}
