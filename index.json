@@ -6836,16 +6836,15 @@
   },
   {
     "slug": "zesty-irish-fish-paella",
-    "title": "Zesty Irish Fish Paella",
+    "title": "Irish Fish Paella",
     "tags": [
-      "flavorful",
-      "irish-inspired",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "irish",
+      "fish",
+      "paella",
+      "seafood"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -10690,18 +10689,16 @@
   },
   {
     "slug": "zesty-silky-ethiopian-oats-dabo",
-    "title": "Zesty Silky Ethiopian Oats Dabo",
+    "title": "Spicy Ethiopian Oat Bowl",
     "tags": [
-      "citrusy",
-      "dabo",
-      "ethiopian",
+      "breakfast",
       "gluten-free",
-      "long-fermentation",
-      "oat-milk",
-      "vegetarian"
+      "oats",
+      "ethiopian",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -13040,13 +13037,12 @@
   },
   {
     "slug": "zesty-turkish-prawns-borek",
-    "title": "Zesty Turkish Prawns Borek",
+    "title": "Turkish Prawn Borek",
     "tags": [
-      "borek",
-      "date-night",
-      "easy-to-assemble",
-      "low-sodium",
-      "robata-grill",
+      "turkish",
+      "prawns",
+      "appetizer",
+      "snack",
       "seafood"
     ],
     "cuisine": "Turkish",
