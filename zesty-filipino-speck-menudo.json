@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-filipino-speck-menudo",
+  "title": "Filipino-Style Menudo with Speck",
+  "description": "A hearty and flavorful Filipino menudo dish made with ground pork, vegetables, and spices, served with crispy fried speck.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Menudo",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Speck",
+      "amount": "8 slices"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the menudo, onion, garlic, and tomato. Cook until the vegetables are softened.",
+    "Add the fish sauce, black pepper, and salt. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
+    "While the menudo is cooking, fry the speck slices in a pan until crispy.",
+    "Serve the menudo hot, topped with crispy fried speck.",
+    "Garnish with chopped green onions and a squeeze of fresh calamansi juice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "breakfast",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-filipino-speck-menudo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:34:51.921Z"
+}
