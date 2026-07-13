@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-light-irish-bresaola-flatbread",
+  "title": "Irish-Style Flatbread with Bresaola",
+  "description": "A simple yet flavorful flatbread appetizer featuring cured bresaola and fresh herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Bresaola",
+      "amount": "4 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs, chopped"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Light Balsamic Glaze",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange flatbread slices on a baking sheet.",
+    "Drizzle zesty olive oil over flatbread.",
+    "Top each flatbread slice with a piece of bresaola, a sprinkle of parsley, and a sprig of rosemary.",
+    "Bake in the preheated oven for 5-7 minutes or until crispy.",
+    "Remove from oven and drizzle with light balsamic glaze.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "appetizer",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-irish-bresaola-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:58:19.615Z"
+}
