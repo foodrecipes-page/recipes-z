@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-ethiopian-lamb-berbere-stew",
+  "title": "Ethiopian Lamb Stew",
+  "description": "A flavorful and spicy stew originating from Ethiopia, made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Water",
+      "amount": "1.5 cups",
+      "notes": "or more as needed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches, about 5 minutes per batch.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Stir in berbere spice and cook for 1 minute.",
+    "Add tomato paste (if using) and cook for 1 minute.",
+    "Add the browned lamb, water, and lemon juice.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours or until the lamb is tender.",
+    "Season with salt and serve hot over injera or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lamb",
+    "stew",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-lamb-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:36:02.089Z"
+}
