@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-fluffy-indian-almonds-curry",
+  "title": "Indian Almond Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with almonds and a blend of spices. Serve with fluffy rice or as a snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "curry paste"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1/2 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tbsp",
+      "notes": "curry powder"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry paste and cook for 1 minute.",
+    "Add curry powder and cook for another minute.",
+    "Add sliced almonds and cook for 2-3 minutes.",
+    "Add coconut milk and water, bring to a simmer.",
+    "Reduce heat to low and let it cook for 5-7 minutes.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped almonds and a dollop of coconut milk."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "almonds",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-indian-almonds-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:54:31.062Z"
+}
