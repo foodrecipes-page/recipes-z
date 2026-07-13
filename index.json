@@ -9886,16 +9886,14 @@
   },
   {
     "slug": "zesty-roasted-croatian-chicken-skillet",
-    "title": "Zesty Roasted Croatian Chicken Skillet",
+    "title": "Croatian Skillet Chicken",
     "tags": [
-      "gluten-free",
-      "nut-free",
-      "one-pan",
-      "roasted-chicken",
-      "weeknight"
+      "chicken",
+      "croatian",
+      "skillet"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -11535,18 +11533,15 @@
   },
   {
     "slug": "zesty-smoky-mediterranean-onion-skewers",
-    "title": "Zesty Smoky Mediterranean Onion Skewers",
+    "title": "Smoky Mediterranean Skewers",
     "tags": [
       "grilled",
-      "keto-friendly",
-      "lazy-sunday",
-      "low-carb",
-      "mediterranean",
-      "onion-skewers",
-      "smoky"
+      "vegetarian",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 27,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -13521,16 +13516,16 @@
   },
   {
     "slug": "zesty-velvety-syrian-rice-pilaf",
-    "title": "Zesty Velvety Syrian Rice Pilaf",
+    "title": "Syrian Chicken and Rice Pilaf",
     "tags": [
-      "cheese-dish",
-      "kimchi",
-      "rice-pilaf",
       "syrian",
-      "velvety"
+      "chicken",
+      "rice",
+      "pilaf",
+      "dinner"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
