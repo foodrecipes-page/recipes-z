@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-middle-eastern-chicken-tagine",
+  "title": "Middle Eastern Chicken Tagine",
+  "description": "A flavorful Moroccan-inspired dish made with chicken, spices, and dried fruits, slow-cooked in a clay pot.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "zesty olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "eastern spices (cumin, coriander, cinnamon)",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add spices, dried apricots, and chicken broth.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 25-30 minutes.",
+    "Stir in olives and honey (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "middle-eastern",
+    "tagine",
+    "slow-cooker",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:20:10.621Z"
+}
