@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-golden-fried-north-indian-naan-fried-rice",
+  "title": "North Indian Fried Rice",
+  "description": "A flavorful and spicy fried rice dish inspired by North Indian cuisine. Quick and easy to make with minimal ingredients.",
+  "cuisine": "north indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Fried Naan",
+      "amount": "2 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fried Onions (available in store or make your own)",
+      "amount": "1/4 cup",
+      "notes": "adds crunch and flavor"
+    },
+    {
+      "name": "North Indian Spice Blend (available in store or make your own)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add zesty and North Indian Spice Blend and sauté for 1 minute.",
+    "Add fried onions and sauté for another minute.",
+    "Add golden rice and stir-fry for 2-3 minutes.",
+    "Add fried naan and break into pieces. Stir-fry for another minute.",
+    "Season with salt and adjust the zesty level to taste.",
+    "Serve hot and enjoy!",
+    "Optional: add a fried egg on top for extra protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "north-indian",
+    "indian-food",
+    "fried-rice",
+    "easy-recipe",
+    "lunch-idea"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-golden-fried-north-indian-naan-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:02:30.858Z"
+}
