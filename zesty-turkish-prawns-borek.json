@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-turkish-prawns-borek",
+  "title": "Turkish Prawn Borek",
+  "description": "A flavorful and crispy Turkish-style borek filled with succulent prawns. Serve as an appetizer or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Zesty Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Turkish Borek Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the borek pastry and cut into 4 equal pieces.",
+    "In a bowl, mix together prawns, feta cheese, parsley, salt, and pepper.",
+    "Place a tablespoon of the prawn mixture onto the center of each pastry piece.",
+    "Brush the edges with the beaten egg and fold the pastry to form a triangle.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Place the borek on a baking sheet lined with parchment paper.",
+    "Brush the tops with the remaining egg and bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "prawns",
+    "appetizer",
+    "snack",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-turkish-prawns-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:43:38.554Z"
+}
