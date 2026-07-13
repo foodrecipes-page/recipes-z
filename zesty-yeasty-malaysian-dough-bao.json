@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-yeasty-malaysian-dough-bao",
+  "title": "Malaysian Bao",
+  "description": "Soft yeast-based bao filled with a sweet and spicy Malaysian-inspired filling.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Zesty filling",
+      "amount": "1/4 cup",
+      "notes": "Made with a mix of chili sauce, soy sauce, and sugar"
+    },
+    {
+      "name": "Malaysian seasoning",
+      "amount": "1 tsp",
+      "notes": "A blend of coriander, cumin, and turmeric"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing bao"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out bao dough to 1/4 inch thickness.",
+    "Cut out circles using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of zesty filling in the center of each circle.",
+    "Fold the dough over the filling to form a bun.",
+    "Brush tops with vegetable oil and bake for 15-20 minutes.",
+    "Serve warm, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "milk-free",
+    "egg-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-malaysian-dough-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:35:58.891Z"
+}
