@@ -8187,17 +8187,16 @@
   },
   {
     "slug": "zesty-middle-eastern-chicken-tagine",
-    "title": "Zesty Middle Eastern Chicken Tagine",
+    "title": "Middle Eastern Chicken Tagine",
     "tags": [
-      "chicken-recipes",
-      "date-night",
-      "exotic",
-      "low-fat",
+      "chicken",
       "middle-eastern",
-      "one-pot"
+      "tagine",
+      "slow-cooker",
+      "moroccan"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
