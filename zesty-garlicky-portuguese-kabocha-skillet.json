@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-garlicky-portuguese-kabocha-skillet",
+  "title": "Skillet Kabocha Squash with Zesty Garlic Port Sauce",
+  "description": "A flavorful and nutritious side dish that combines roasted kabocha squash with a zesty garlic port sauce, perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "port wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the kabocha squash with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "In a skillet, heat the remaining 1 tablespoon olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add the port wine to the skillet and cook for an additional 1-2 minutes, or until the liquid has reduced slightly.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "To serve, place the roasted kabocha squash on a plate and spoon the zesty garlic port sauce over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kabocha",
+    "squash",
+    "portuguese",
+    "skillet",
+    "garlic",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-portuguese-kabocha-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:26:09.794Z"
+}
