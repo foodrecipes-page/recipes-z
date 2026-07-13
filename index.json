@@ -9816,17 +9816,16 @@
   },
   {
     "slug": "zesty-rich-venezuelan-tamarind-empanadas",
-    "title": "Zesty Rich Venezuelan Tamarind Empanadas",
+    "title": "Venezuelan Tamarind Empanadas",
     "tags": [
-      "baked-goods",
-      "empanadas",
-      "gluten-free",
-      "sugar-free",
-      "tamarind-based",
-      "venezuelan-cuisine"
+      "veggie",
+      "latin",
+      "sweet",
+      "sauce",
+      "pastry"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
