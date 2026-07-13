@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-rich-venezuelan-tamarind-empanadas",
+  "title": "Venezuelan Tamarind Empanadas",
+  "description": "A sweet and savory twist on traditional empanadas, with a rich tamarind sauce and crispy pastry.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rich honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "for the empanada dough"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for the empanada dough"
+    },
+    {
+      "name": "tamarind sauce",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "empanada wrappers",
+      "amount": "8-10",
+      "notes": "or make your own dough"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for sprinkling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Make the empanada dough by mixing flour and water. Let it rest for 10 minutes.",
+    "Roll out the dough and cut into circles.",
+    "Place a spoonful of tamarind sauce in the center of each circle.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with sugar.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve warm with a side of tamarind sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "veggie",
+    "latin",
+    "sweet",
+    "sauce",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-rich-venezuelan-tamarind-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:59:59.534Z"
+}
