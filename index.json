@@ -4628,17 +4628,15 @@
   },
   {
     "slug": "zesty-ethiopian-lamb-berbere-stew",
-    "title": "Zesty Ethiopian Lamb Berbere Stew",
+    "title": "Ethiopian Lamb Stew",
     "tags": [
-      "berbere",
-      "briny",
+      "ethiopian",
       "lamb",
-      "low-fat-friendly",
-      "nostalgic",
-      "one-pot"
+      "stew",
+      "berbere"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 105,
+    "totalTimeMin": 150,
     "shard": "z"
   },
   {
@@ -7656,18 +7654,15 @@
   },
   {
     "slug": "zesty-light-irish-bresaola-flatbread",
-    "title": "Zesty Light Irish Bresaola Flatbread",
+    "title": "Irish-Style Flatbread with Bresaola",
     "tags": [
-      "high-protein",
-      "irish-cuisine",
-      "light-lunch",
-      "low-carb",
-      "one-pan",
-      "quick-meal",
-      "zesty"
+      "italian",
+      "appetizer",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -13986,16 +13981,14 @@
   },
   {
     "slug": "zesty-yeasty-malaysian-dough-bao",
-    "title": "Zesty Yeasty Malaysian Dough Bao",
+    "title": "Malaysian Bao",
     "tags": [
-      "halal-friendly",
-      "malaysian-cuisine",
-      "snack-ideas",
-      "sweet-buns",
-      "yeast-dough"
+      "milk-free",
+      "egg-free",
+      "gluten-free"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
