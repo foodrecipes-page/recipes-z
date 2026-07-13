@@ -1,0 +1,59 @@
+{
+  "slug": "zesty-silky-ethiopian-oats-dabo",
+  "title": "Spicy Ethiopian Oat Bowl",
+  "description": "A hearty and flavorful breakfast bowl featuring Ethiopian spices and creamy oats. Serve with a side of fresh fruit for added nutrition.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ethiopian Spices (Berbere)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Zesty Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dabo (Ethiopian Injera Bread)",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the Ethiopian Spices and reduce heat to a simmer.",
+    "Add the oats and cook, stirring occasionally, until the oats have absorbed most of the liquid and have a creamy consistency.",
+    "Stir in the Zesty Tahini until well combined.",
+    "Serve the oat mixture over the Dabo bread slices.",
+    "Garnish with fresh herbs, such as cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "oats",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-ethiopian-oats-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:56:36.463Z"
+}
