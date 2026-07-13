@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-smoky-mediterranean-onion-skewers",
+  "title": "Smoky Mediterranean Skewers",
+  "description": "A flavorful and healthy skewer recipe with smoky and mediterranean flavors, perfect for a quick snack or light meal.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "skewers",
+      "amount": "1 package (10-12 skewers)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup zesty seasoning",
+      "notes": ""
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp smoky paprika",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tbsp mediterranean spice blend",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread onion pieces onto skewers, leaving a little space between each piece.",
+    "Brush zesty seasoning, smoky paprika, and mediterranean spice blend evenly onto the onion pieces.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until the onion is tender and lightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-mediterranean-onion-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:07:17.235Z"
+}
