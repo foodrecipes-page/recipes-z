@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-smoky-syrian-eggplant-skillet",
+  "title": "Skillet Smoky Eggplant",
+  "description": "A hearty and flavorful eggplant dish cooked in a smoky skillet. Perfect for a satisfying dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": "cast-iron skillet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and swirl to coat.",
+    "Add the eggplant cubes and cook for 3-4 minutes on each side.",
+    "Sprinkle the smoky, zesty spices over the eggplant.",
+    "Transfer the skillet to the preheated oven.",
+    "Bake for 15-20 minutes, or until the eggplant is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "middle-eastern",
+    "vegetarian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-syrian-eggplant-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:39:12.381Z"
+}
