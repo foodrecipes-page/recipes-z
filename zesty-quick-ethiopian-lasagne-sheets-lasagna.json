@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-quick-ethiopian-lasagne-sheets-lasagna",
+  "title": "Quick Ethiopian Lasagna",
+  "description": "A fusion of Ethiopian spices and Italian lasagna, this dish is a unique twist on a classic.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "8-10 sheets",
+      "notes": "gluten-free lasagna sheets"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna sheets according to package instructions.",
+    "In a pan, heat Ethiopian spice blend over medium heat.",
+    "Add chopped onion and cook until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Stir in tomato sauce and bring to a simmer.",
+    "In a large bowl, combine cooked lasagna sheets, tomato sauce mixture, and chopped spinach.",
+    "In a 9x13 inch baking dish, create a layer of tomato sauce.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Sprinkle with mozzarella and feta cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lasagna",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-quick-ethiopian-lasagne-sheets-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:25:33.034Z"
+}
