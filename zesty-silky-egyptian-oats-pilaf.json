@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-silky-egyptian-oats-pilaf",
+  "title": "Egyptian Oat Pilaf",
+  "description": "A unique pilaf made with oats and Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Egyptian-style"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tbsp",
+      "notes": "vinaigrette dressing"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/2 cup",
+      "notes": "silk tofu, crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a pan over medium heat.",
+    "Add the oats and toast until lightly browned.",
+    "Add the pilaf, zesty, and silky to the pan.",
+    "Stir well and cook for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "vegetarian",
+    "easy-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-egyptian-oats-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:47:51.882Z"
+}
