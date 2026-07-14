@@ -7116,12 +7116,12 @@
   },
   {
     "slug": "zesty-japanese-pork-dumplings",
-    "title": "Zesty Japanese Pork Dumplings",
+    "title": "Japanese Pork Dumplings with Zesty Dipping Sauce",
     "tags": [
-      "dinner",
-      "easy",
-      "high-protein",
-      "quick-fix"
+      "japanese",
+      "pork",
+      "dumplings",
+      "dinner"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
@@ -10013,16 +10013,14 @@
   },
   {
     "slug": "zesty-roasted-jamaican-vegetables-tagine",
-    "title": "zesty roasted jamaican vegetables tagine",
+    "title": "Jamaican Tagine Roasted Vegetables",
     "tags": [
-      "jamaican",
-      "low-sodium",
-      "tandoor",
+      "roasted",
       "vegetarian",
-      "weeknight"
+      "north-african"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -13569,16 +13567,15 @@
   },
   {
     "slug": "zesty-venezuelan-celery-salad",
-    "title": "Zesty Venezuelan Celery Salad",
+    "title": "Venezuelan Zesty Salad",
     "tags": [
-      "citrus",
-      "festive",
-      "low-calorie",
-      "quick",
-      "vegan"
+      "salad",
+      "veggie",
+      "easy",
+      "quick"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 15,
+    "totalTimeMin": 5,
     "shard": "z"
   },
   {
