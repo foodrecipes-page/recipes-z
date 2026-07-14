@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-molten-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional North African stew made with lamb, zesty spices, and tender vegetables. This recipe is slow-cooked to perfection in a clay pot, or tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": " Bone-in is best for this recipe"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Tunisian zesty spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can, 14.5 oz",
+      "notes": null
+    },
+    {
+      "name": "Chopped carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Chopped zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or large Dutch oven over medium heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the Tunisian zesty spice blend, garlic, and cook for 1 minute.",
+    "Add the diced tomatoes, carrots, zucchini, salt, and pepper. Stir to combine.",
+    "Cover the tagine or Dutch oven and bring to a simmer.",
+    "Transfer the tagine to the oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving.",
+    "Serve the lamb and vegetables hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-molten-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:55:10.113Z"
+}
