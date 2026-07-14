@@ -1,0 +1,59 @@
+{
+  "slug": "zinger-indian-zinger-cabbage-butter-roast",
+  "title": "Roast Cabbage with Zinger Butter",
+  "description": "A flavorful and delicious side dish featuring roasted cabbage and a zesty Indian-inspired butter.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Zinger",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Roast",
+      "amount": "2 teaspoons, ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Cut the cabbage into wedges and place them on a baking sheet.",
+    "3. In a small bowl, mix together the chopped zinger, butter, and ground roast.",
+    "4. Brush the zinger butter mixture onto the cabbage wedges.",
+    "5. Roast the cabbage in the preheated oven for 20-25 minutes, or until tender and caramelized.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "side-dish",
+    "cabbage",
+    "zinger-butter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zinger-indian-zinger-cabbage-butter-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:43:45.379Z"
+}
