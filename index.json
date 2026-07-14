@@ -7439,17 +7439,15 @@
   },
   {
     "slug": "zesty-korean-prawns-toast",
-    "title": "Zesty Korean Prawns Toast",
+    "title": "Spicy Prawn Toast",
     "tags": [
-      "festive",
-      "jain-friendly",
-      "korean-cuisine",
-      "one-pan",
-      "pescatarian",
-      "seafood"
+      "korean",
+      "seafood",
+      "snack",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -8854,18 +8852,17 @@
   },
   {
     "slug": "zesty-norwegian-brown-rice-noodle-bowl",
-    "title": "Zesty Norwegian Brown Rice Noodle Bowl",
+    "title": "Norwegian Zesty Rice Bowl",
     "tags": [
-      "crunchy",
-      "easy",
-      "fatty",
-      "meal-prep",
-      "norwegian",
-      "vegetarian",
-      "zesty"
+      "rice",
+      "noodle",
+      "vegan",
+      "gluten-free",
+      "lunch",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -11165,17 +11162,16 @@
   },
   {
     "slug": "zesty-smoky-algerian-salmon-tagine",
-    "title": "Zesty Smoky Algerian Salmon Tagine",
+    "title": "Smoky Algerian Salmon Tagine",
     "tags": [
+      "north-african",
+      "pescatarian",
       "gluten-free",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "salmon",
+      "tagine"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 27,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -11522,18 +11518,15 @@
   },
   {
     "slug": "zesty-smoky-moroccan-chicken-tagine",
-    "title": "Zesty Smoky Moroccan Chicken Tagine",
+    "title": "Smoky Moroccan Chicken Tagine",
     "tags": [
+      "north-african",
       "chicken",
-      "keto",
-      "low-carb",
-      "moroccan",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "stew",
+      "moroccan"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
