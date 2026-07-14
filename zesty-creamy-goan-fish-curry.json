@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-creamy-goan-fish-curry",
+  "title": "Goan Fish Curry",
+  "description": "A traditional Goan fish curry made with fresh fish and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Goan fish",
+      "amount": "500g",
+      "notes": "any firm white fish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan over medium heat.",
+    "2. Add onion, ginger, and garlic and sauté until soft.",
+    "3. Add curry paste and cook for 1 minute.",
+    "4. Add fish and cook until browned on all sides.",
+    "5. Add coconut milk, lemon juice, and red pepper.",
+    "6. Bring to a simmer and cook until fish is cooked through.",
+    "7. Season with salt and serve with rice or naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goan",
+    "fish",
+    "curry",
+    "indian",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-creamy-goan-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:43:11.814Z"
+}
