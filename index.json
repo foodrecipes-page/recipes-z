@@ -8530,18 +8530,15 @@
   },
   {
     "slug": "zesty-monsoon-dutch-cheese-wrap",
-    "title": "Zesty Monsoon Dutch Cheese Wrap",
+    "title": "Cheesy Zesty Wrap",
     "tags": [
-      "cheesy",
-      "chocolatey",
-      "dutch",
-      "gluten-free",
-      "low-carb",
+      "easy",
       "lunch",
-      "umami"
+      "cheese",
+      "wrap"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 6,
     "shard": "z"
   },
   {
