@@ -3756,17 +3756,16 @@
   },
   {
     "slug": "zesty-crunchy-norwegian-saskatoon-berries-salad",
-    "title": "Zesty Crunchy Norwegian Saskatoon Berries Salad",
+    "title": "Saskatoon Berry Salad with Crunchy Topping",
     "tags": [
-      "gluten-free",
-      "low-sodium",
-      "meal-prep",
-      "quick",
+      "saskatoon-berries",
       "salad",
-      "vegetarian"
+      "dessert",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 15,
+    "cuisine": "Canadian",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
@@ -5574,17 +5573,15 @@
   },
   {
     "slug": "zesty-garlicky-french-cashew-galette",
-    "title": "Zesty Garlicky French Cashew Galette",
+    "title": "French Cashew Galette",
     "tags": [
-      "cashew-based",
-      "french-cuisine",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "french",
+      "savory",
+      "tart",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -8506,18 +8503,15 @@
   },
   {
     "slug": "zesty-molten-tunisian-lamb-tagine",
-    "title": "Zesty Molten Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "tagine",
+      "north-african",
+      "slow-cooked"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 200,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -10317,17 +10311,14 @@
   },
   {
     "slug": "zesty-salt-baked-ukrainian-beet-bowl",
-    "title": "Zesty Salt Baked Ukrainian Beet Bowl",
+    "title": "Ukrainian Beet Soup",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "hangover-cure",
-      "healthy-meal",
-      "salt-baked",
-      "ukrainian-cuisine"
+      "beet",
+      "soup",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -11145,20 +11136,16 @@
   },
   {
     "slug": "zesty-smoked-portuguese-fish-stew",
-    "title": "Zesty Smoked Portuguese Fish Stew",
+    "title": "Smoked Fish Stew",
     "tags": [
-      "air-fryer",
-      "fermented",
-      "fish",
-      "one-pot",
       "portuguese",
-      "raw-friendly",
-      "smoked",
-      "stew",
-      "velvety"
+      "fish-stew",
+      "smoked-fish",
+      "lunch",
+      "pescatarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
