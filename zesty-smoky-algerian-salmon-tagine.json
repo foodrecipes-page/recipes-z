@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-smoky-algerian-salmon-tagine",
+  "title": "Smoky Algerian Salmon Tagine",
+  "description": "A flavorful and aromatic dish featuring smoky salmon cooked in a zesty tagine sauce, inspired by Algerian cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4 x 6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Zesty tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern or North African markets"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend ( Ras el hanout )",
+      "amount": "1 tsp",
+      "notes": "Available at most Middle Eastern or North African markets"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the zesty tagine spice blend, smoked paprika, and Algerian spice blend, and cook for 1 minute.",
+    "Add the salmon fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Serve the salmon hot, garnished with fresh parsley and cilantro, and a squeeze of lemon juice.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "pescatarian",
+    "gluten-free",
+    "salmon",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-algerian-salmon-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:45:03.828Z"
+}
