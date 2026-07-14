@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-roasted-jamaican-vegetables-tagine",
+  "title": "Jamaican Tagine Roasted Vegetables",
+  "description": "A flavorful and aromatic dish combining the warmth of Jamaican spices with the richness of roasted vegetables, all in a traditional North African tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "zesty jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing on vegetables"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, combine chopped carrots, sweet potatoes, red potatoes, and onions.",
+    "In a small bowl, mix together zesty Jamaican seasoning, tagine spice blend, and a pinch of salt.",
+    "Toss the spice mixture with the chopped vegetables until evenly coated.",
+    "Brush the vegetables with olive oil and transfer to a large baking dish.",
+    "Roast the vegetables in the preheated oven for 30 minutes.",
+    "After 30 minutes, add diced roasted red peppers to the baking dish.",
+    "Return the dish to the oven and continue roasting for an additional 15-20 minutes.",
+    "The vegetables should be tender and lightly caramelized.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roasted",
+    "vegetarian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-jamaican-vegetables-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:13:33.325Z"
+}
