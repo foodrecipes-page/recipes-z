@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-smoky-german-sausage-skewers",
+  "title": "Grilled German Sausage Skewers",
+  "description": "A classic German-inspired dish featuring grilled sausage skewers with a zesty smoky twist. Perfect for a quick and easy dinner or outdoor gathering.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "preferably bratwurst or knockwurst"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soak in water for 30 minutes before grilling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "2 tablespoons",
+      "notes": "such as Dijon or whole-grain mustard"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "or regular paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together zesty mustard and smoky paprika.",
+    "3. Cut german sausage into 1-inch pieces.",
+    "4. Thread sausage, onion, and bell pepper onto skewers.",
+    "5. Brush skewers with mustard mixture, then season with salt and pepper.",
+    "6. Grill skewers for 8-10 minutes per side, or until sausage is cooked through and vegetables are tender.",
+    "7. Serve immediately, garnished with additional smoky paprika if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "grilled",
+    "sausage",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-german-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:57:47.107Z"
+}
