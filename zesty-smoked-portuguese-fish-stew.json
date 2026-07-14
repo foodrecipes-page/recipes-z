@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-smoked-portuguese-fish-stew",
+  "title": "Smoked Fish Stew",
+  "description": "A hearty Portuguese-inspired stew featuring smoked fish and a hint of zesty flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Fish",
+      "amount": "1 pound",
+      "notes": "preferably cod or haddock"
+    },
+    {
+      "name": "Zesty Sausage",
+      "amount": "1 pound",
+      "notes": "such as linguiça"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3-4 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Stew Broth",
+      "amount": "4 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the diced onions and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for an additional minute.",
+    "Add the smoked sausage and cook until browned, about 5 minutes.",
+    "Add the diced tomatoes, stew broth, smoked fish, diced potatoes, salt, and black pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fish-stew",
+    "smoked-fish",
+    "lunch",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoked-portuguese-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:43:17.119Z"
+}
