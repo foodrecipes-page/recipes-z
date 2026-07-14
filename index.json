@@ -501,18 +501,14 @@
   },
   {
     "slug": "zero-sugar-russian-beef-tagine",
-    "title": "Zero Sugar Russian Beef Tagine",
+    "title": "Beef Tagine",
     "tags": [
-      "beef-recipes",
-      "low-glycemic",
-      "meal-prep",
-      "russian-cuisine",
-      "special-occasion",
-      "sugar-free",
-      "tagine-cooking"
+      "beef",
+      "stew",
+      "moroccan"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 170,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 105,
     "shard": "z"
   },
   {
