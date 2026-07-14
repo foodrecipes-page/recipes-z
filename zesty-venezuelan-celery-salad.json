@@ -1,0 +1,55 @@
+{
+  "slug": "zesty-venezuelan-celery-salad",
+  "title": "Venezuelan Zesty Salad",
+  "description": "A fresh and crunchy salad inspired by Venezuelan cuisine, with a tangy twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "Venezuelan zesty sauce (or to taste)"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens (lettuce, spinach, etc.)"
+    }
+  ],
+  "instructions": [
+    "1. Chop the celery into bite-sized pieces.",
+    "2. In a large bowl, combine the chopped celery and mixed greens.",
+    "3. Drizzle the Venezuelan zesty sauce over the top of the salad.",
+    "4. Toss the salad to coat with the zesty sauce.",
+    "5. Serve immediately, garnished with additional zesty sauce if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "veggie",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-celery-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:19:01.764Z"
+}
