@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-citrusy-french-pork-shoulder-terrine",
+  "title": "French Pork Shoulder Terrine",
+  "description": "A classic French dish made with tender pork shoulder and a hint of citrus.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cognac",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "french bread",
+      "amount": "1 baguette, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large pan, sear the pork shoulder over medium-high heat until browned on all sides.",
+    "Transfer the pork to a large bowl and set aside.",
+    "In the same pan, cook the diced onion and minced garlic until softened.",
+    "Add the cognac to the pan and ignite, allowing the flames to burn off the liquid (caution: this step may require adult supervision).",
+    "Once the flames have died down, add the zesty mustard, salt, and black pepper to the pan and stir to combine.",
+    "Add the lemon juice and chopped thyme to the bowl with the pork and stir to combine.",
+    "Transfer the pork to a 9x13 inch baking dish and top with the cooked onion mixture.",
+    "Cover the dish with aluminum foil and bake for 2 1/2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes.",
+    "Allow the terrine to rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pork",
+    "terrine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-citrusy-french-pork-shoulder-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:50:27.917Z"
+}
