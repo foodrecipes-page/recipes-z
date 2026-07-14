@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-bamboo-tray-australian-lamb-roast",
+  "title": "Australian Lamb Roast",
+  "description": "A classic Australian dish featuring a flavorful lamb roast, perfect for a dinner gathering. This recipe is easy to make and packed with delicious flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Australian Bush Tomatoes",
+      "amount": "4-6",
+      "notes": "Alternatively, use cherry tomatoes"
+    },
+    {
+      "name": "Roast Vegetables",
+      "amount": "2 large, cut into chunks",
+      "notes": "Carrots, potatoes, and onions work well"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Rinse the lamb shoulder and pat dry with paper towels.",
+    "Season the lamb with salt, pepper, and rosemary.",
+    "Heat the oil in a large roasting pan over medium-high heat.",
+    "Sear the lamb on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the lamb to the oven and roast for 20 minutes.",
+    "Add the vegetables to the roasting pan and continue roasting for an additional 30-40 minutes, or until the lamb reaches your desired level of doneness.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "roast",
+    "australian-bush-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bamboo-tray-australian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:53:03.516Z"
+}
