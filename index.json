@@ -1043,17 +1043,15 @@
   },
   {
     "slug": "zesty-bamboo-tray-australian-lamb-roast",
-    "title": "Zesty Bamboo Tray Australian Lamb Roast",
+    "title": "Australian Lamb Roast",
     "tags": [
-      "australian-lamb",
-      "dairy-free",
-      "fusion",
-      "high-protein",
-      "show-stopper",
-      "slow-roast"
+      "australian",
+      "lamb",
+      "roast",
+      "australian-bush-tomatoes"
     ],
-    "cuisine": "Australian-Asian Fusion",
-    "totalTimeMin": 210,
+    "cuisine": "Australian",
+    "totalTimeMin": 70,
     "shard": "z"
   },
   {
@@ -11723,17 +11721,15 @@
   },
   {
     "slug": "zesty-smoky-syrian-eggplant-skillet",
-    "title": "Zesty Smoky Syrian Eggplant Skillet",
+    "title": "Skillet Smoky Eggplant",
     "tags": [
-      "brunch",
-      "easy-to-make",
+      "eggplant",
       "middle-eastern",
-      "one-pan",
-      "smoky",
-      "vegetarian"
+      "vegetarian",
+      "skillet"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
