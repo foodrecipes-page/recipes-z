@@ -9655,14 +9655,12 @@
   },
   {
     "slug": "zesty-quick-ethiopian-lasagne-sheets-lasagna",
-    "title": "Zesty Quick Ethiopian Lasagne Sheets Lasagna",
+    "title": "Quick Ethiopian Lasagna",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "quick-fix",
-      "vegan",
+      "ethiopian",
+      "lasagna",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 60,
@@ -11416,17 +11414,16 @@
   },
   {
     "slug": "zesty-smoky-german-sausage-skewers",
-    "title": "Zesty Smoky German Sausage Skewers",
+    "title": "Grilled German Sausage Skewers",
     "tags": [
-      "dairy-free",
-      "german-cuisine",
-      "grilled-meats",
-      "quick-fix",
-      "robata-grill",
-      "smoky-flavors"
+      "german",
+      "grilled",
+      "sausage",
+      "skewers",
+      "summer"
     ],
     "cuisine": "German",
-    "totalTimeMin": 27,
+    "totalTimeMin": 31,
     "shard": "z"
   },
   {
@@ -12257,16 +12254,15 @@
   },
   {
     "slug": "zesty-springy-british-pork-sausage-bangers-and-mash",
-    "title": "Zesty Springy British Pork Sausage Bangers and Mash",
+    "title": "Traditional British Bangers and Mash",
     "tags": [
-      "bangers-and-mash",
-      "british",
-      "comfort-food",
-      "diabetic-friendly",
-      "sausages"
+      "sausages",
+      "mashed potatoes",
+      "comfort food",
+      "british dish"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
