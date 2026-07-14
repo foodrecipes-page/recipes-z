@@ -5926,14 +5926,12 @@
   },
   {
     "slug": "zesty-golden-slovakian-cauliflower-soup",
-    "title": "Zesty Golden Slovakian Cauliflower Soup",
+    "title": "Slovakian Cauliflower Soup",
     "tags": [
-      "keto-friendly",
-      "vegetarian",
-      "slovakian",
       "cauliflower",
-      "tadka",
-      "spicy"
+      "soup",
+      "slovakian",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -10652,16 +10650,14 @@
   },
   {
     "slug": "zesty-silky-egyptian-oats-pilaf",
-    "title": "Zesty Silky Egyptian Oats Pilaf",
+    "title": "Egyptian Oat Pilaf",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "middle-eastern",
-      "one-pot",
-      "seafood"
+      "pilaf",
+      "vegetarian",
+      "easy-meals"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
