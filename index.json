@@ -2400,10 +2400,17 @@
   },
   {
     "slug": "zesty-creamy-goan-fish-curry",
-    "title": "Zesty Creamy Goan Fish Curry",
-    "tags": [],
-    "cuisine": "Indian",
-    "totalTimeMin": null,
+    "title": "Goan Fish Curry",
+    "tags": [
+      "goan",
+      "fish",
+      "curry",
+      "indian",
+      "healthy",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -9348,17 +9355,15 @@
   },
   {
     "slug": "zesty-pillowy-algerian-beans-casserole",
-    "title": "Zesty Pillowy Algerian Beans Casserole",
+    "title": "Algerian Casserole",
     "tags": [
-      "agemono-deep-fry",
-      "lacto-vegetarian",
-      "pillowy",
-      "quick-assembly",
-      "salt-block",
-      "zesty"
+      "casserole",
+      "algerian",
+      "beans",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
