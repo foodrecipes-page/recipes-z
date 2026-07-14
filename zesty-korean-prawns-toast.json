@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-korean-prawns-toast",
+  "title": "Spicy Prawn Toast",
+  "description": "A flavorful and spicy dish combining succulent prawns with crispy toast.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Zesty Korean Chili Flakes",
+      "amount": "2 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "chopped, for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush both sides of toast slices with vegetable oil.",
+    "Bake the toast in the oven for 5 minutes, or until crispy and lightly browned.",
+    "Heat 1 tsp of sesame oil in a pan over medium heat.",
+    "Add the prawns and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the prawns from the pan and set aside.",
+    "Add the Korean chili flakes to the pan and stir for 1 minute.",
+    "Add the cooked prawns back into the pan and toss to coat with the spicy mixture.",
+    "Serve the spicy prawns on top of the crispy toast.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "seafood",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-prawns-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:56:01.618Z"
+}
