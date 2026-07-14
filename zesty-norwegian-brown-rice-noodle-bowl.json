@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-norwegian-brown-rice-noodle-bowl",
+  "title": "Norwegian Zesty Rice Bowl",
+  "description": "A flavorful and easy-to-make rice bowl dish with a zesty Norwegian twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Norwegian pickled vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Noodle",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Cook brown rice according to package instructions.",
+    "Heat zesty sauce in a pan over medium heat.",
+    "Add Norwegian pickled vegetables to the pan and stir to combine.",
+    "If using noodles, cook according to package instructions and set aside.",
+    "Assemble the bowls by spooning cooked brown rice into the bottom of a bowl.",
+    "Add a spoonful of the pickled vegetable mixture on top of the rice.",
+    "If using noodles, add them on top of the pickled vegetables.",
+    "Garnish with sliced almonds (if using).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rice",
+    "noodle",
+    "vegan",
+    "gluten-free",
+    "lunch",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-norwegian-brown-rice-noodle-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:26:08.774Z"
+}
