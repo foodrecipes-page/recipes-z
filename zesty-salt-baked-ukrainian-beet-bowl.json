@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-salt-baked-ukrainian-beet-bowl",
+  "title": "Ukrainian Beet Soup",
+  "description": "A hearty, comforting soup made with beets, served in a bowl.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beet",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "baked",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat the oil over medium heat.",
+    "2. Add the chopped beets and cook for 5 minutes, until slightly tender.",
+    "3. Add 4 cups of water and bring to a boil.",
+    "4. Reduce heat and simmer for 20 minutes, until the beets are tender.",
+    "5. Use an immersion blender to puree the soup until smooth.",
+    "6. Season with salt and zesty to taste.",
+    "7. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beet",
+    "soup",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-salt-baked-ukrainian-beet-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:53:10.978Z"
+}
