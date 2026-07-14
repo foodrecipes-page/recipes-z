@@ -1,0 +1,60 @@
+{
+  "slug": "zero-sugar-russian-beef-tagine",
+  "title": "Beef Tagine",
+  "description": "A traditional Moroccan stew made with beef, spices, and dried fruits.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Russian",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "whole"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove from pot.",
+    "Add Russian and sugar to pot, cook for 1 minute.",
+    "Add beef back to pot, along with 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1.5 hours.",
+    "Add tagine to pot, and continue to simmer for another 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-sugar-russian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:33:54.863Z"
+}
