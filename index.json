@@ -2252,17 +2252,15 @@
   },
   {
     "slug": "zesty-citrusy-french-pork-shoulder-terrine",
-    "title": "Zesty Citrusy French Pork Shoulder Terrine",
+    "title": "French Pork Shoulder Terrine",
     "tags": [
-      "citrusy",
-      "crumbly",
-      "french-cuisine",
-      "lazy-sunday",
-      "pork-shoulder",
-      "terrine"
+      "french",
+      "pork",
+      "terrine",
+      "slow-cooked"
     ],
     "cuisine": "French",
-    "totalTimeMin": 390,
+    "totalTimeMin": 210,
     "shard": "z"
   },
   {
@@ -3988,16 +3986,14 @@
   },
   {
     "slug": "zesty-dense-british-sausage-casserole",
-    "title": "Zesty Dense British Sausage Casserole",
+    "title": "British Sausage Casserole",
     "tags": [
-      "comfort-food",
-      "hearty-dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "british",
+      "casserole",
+      "sausage"
     ],
     "cuisine": "British",
-    "totalTimeMin": 95,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -6424,17 +6420,15 @@
   },
   {
     "slug": "zesty-grilled-tunisian-shrimp-skewers",
-    "title": "Zesty Grilled Tunisian Shrimp Skewers",
+    "title": "Tunisian Shrimp Skewers",
     "tags": [
-      "brunch",
+      "shrimp",
+      "tunisian",
       "grilled",
-      "healthy",
-      "quick",
-      "seafood",
-      "tunisian"
+      "seafood"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 23,
     "shard": "z"
   },
   {
