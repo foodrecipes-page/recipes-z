@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-grilled-tunisian-shrimp-skewers",
+  "title": "Tunisian Shrimp Skewers",
+  "description": "A flavorful and colorful dish inspired by Tunisian cuisine, perfect for a summer evening. Grilled shrimp skewers are marinated in a zesty blend of spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "12-15",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Zesty marinade",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Tunisian seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together zesty marinade, olive oil, Tunisian seasoning, salt, and pepper.",
+    "Add the shrimp to the marinade and mix to coat.",
+    "Thread the shrimp onto the skewers, leaving a small space between each shrimp.",
+    "Grill the skewers for 8-10 minutes, or until the shrimp are pink and cooked through.",
+    "Serve the skewers hot, garnished with lemon wedges and a sprinkle of Tunisian seasoning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "tunisian",
+    "grilled",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grilled-tunisian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:36:07.268Z"
+}
