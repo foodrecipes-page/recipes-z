@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-springy-british-pork-sausage-bangers-and-mash",
+  "title": "Traditional British Bangers and Mash",
+  "description": "A classic British dish featuring sausages and mashed potatoes. This recipe is a hearty and comforting meal that is perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausages (bangers)",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "springy potatoes",
+      "amount": "2-3 large",
+      "notes": ""
+    },
+    {
+      "name": "zesty onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "british butter",
+      "amount": "2-3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Peel and chop the springy potatoes into large chunks.",
+    "2. Place the chopped potatoes in a large pot of salted water, and bring to a boil.",
+    "3. Reduce the heat to a simmer and cook the potatoes until they are tender, about 15-20 minutes.",
+    "4. While the potatoes are cooking, heat a large pan over medium-high heat.",
+    "5. Add the british butter to the pan and let it melt.",
+    "6. Add the chopped zesty onions to the pan and cook until they are softened and lightly browned.",
+    "7. Add the pork sausages to the pan and cook until they are browned on all sides and cooked through.",
+    "8. Drain the cooked potatoes and return them to the pot.",
+    "9. Add butter and mash the potatoes until they are smooth and creamy.",
+    "10. Serve the mashed potatoes with the cooked sausages and onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausages",
+    "mashed potatoes",
+    "comfort food",
+    "british dish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-springy-british-pork-sausage-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:16:01.941Z"
+}
