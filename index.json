@@ -7393,17 +7393,16 @@
   },
   {
     "slug": "zesty-kenyan-vermicelli-pasta-tagine",
-    "title": "Zesty Kenyan Vermicelli Pasta Tagine",
+    "title": "Kenyan-Style Zesty Vermicelli Pasta",
     "tags": [
-      "african",
-      "coconut-milk",
-      "one-pot",
+      "kenyan",
+      "vegetarian",
+      "gluten-free",
       "pasta",
-      "tagine",
-      "vegetarian"
+      "quick"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
@@ -14066,17 +14065,16 @@
   },
   {
     "slug": "zinger-indian-zinger-cabbage-butter-roast",
-    "title": "Zinger Indian Zinger Cabbage Butter-Roast",
+    "title": "Roast Cabbage with Zinger Butter",
     "tags": [
-      "crowd-pleaser",
-      "indian-zinger",
-      "light",
-      "mangalorean",
-      "resinous",
-      "vegetarian-friendly"
+      "indian",
+      "vegetarian",
+      "side-dish",
+      "cabbage",
+      "zinger-butter"
     ],
-    "cuisine": "Indian (Mangalorean)",
-    "totalTimeMin": 30,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
