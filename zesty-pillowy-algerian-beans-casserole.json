@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-pillowy-algerian-beans-casserole",
+  "title": "Algerian Casserole",
+  "description": "A hearty and comforting Algerian-inspired casserole made with zesty beans and pillowy texture.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 can (15 oz)",
+      "notes": "zesty"
+    },
+    {
+      "name": "pillowy naan bread, cut into cubes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "casserole tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add onion and garlic; cook until softened, 3-4 minutes.",
+    "Stir in algerian spice blend; cook 1 minute.",
+    "Add canned black beans, diced tomatoes, salt; cook 2-3 minutes.",
+    "In a separate bowl, toss cubed naan bread with a pinch of salt.",
+    "Spoon the bean mixture into a 9x13-inch baking dish.",
+    "Top with the bread croutons.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes or until golden brown.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "algerian",
+    "beans",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-pillowy-algerian-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:34:26.063Z"
+}
