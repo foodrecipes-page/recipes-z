@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-crunchy-norwegian-saskatoon-berries-salad",
+  "title": "Saskatoon Berry Salad with Crunchy Topping",
+  "description": "A simple and healthy salad recipe featuring saskatoon berries and a crunchy topping.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy topping (e.g. chopped nuts or seeds)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty vinaigrette (e.g. lemon juice and olive oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens and saskatoon berries.",
+    "2. Drizzle the zesty vinaigrette over the salad and toss to coat.",
+    "3. Sprinkle the crunchy topping over the salad.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saskatoon-berries",
+    "salad",
+    "dessert",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-norwegian-saskatoon-berries-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:44:43.214Z"
+}
