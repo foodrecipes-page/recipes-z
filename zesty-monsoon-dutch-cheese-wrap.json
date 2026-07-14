@@ -1,0 +1,54 @@
+{
+  "slug": "zesty-monsoon-dutch-cheese-wrap",
+  "title": "Cheesy Zesty Wrap",
+  "description": "A simple yet flavorful wrap filled with melted cheese and zesty goodness.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty spread",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "monsoon wrap",
+      "amount": "1 whole"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Lay the monsoon wrap flat and spread the zesty spread evenly.",
+    "Sprinkle the shredded dutch cheese over the zesty spread.",
+    "Fold the wrap in half and cook for 2-3 minutes or until the cheese is melted and the wrap is crispy.",
+    "Flip the wrap and cook for an additional 2 minutes or until the other side is also crispy.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "lunch",
+    "cheese",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-monsoon-dutch-cheese-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:48:49.428Z"
+}
