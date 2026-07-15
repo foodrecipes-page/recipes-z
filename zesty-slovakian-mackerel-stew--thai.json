@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-slovakian-mackerel-stew--thai",
+  "title": "Thai Mackerel Stew",
+  "description": "A flavorful and spicy Thai stew made with mackerel, zesty flavors, and a hint of Slovakian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "zesty pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add lemongrass and kaffir lime leaves and sauté until fragrant.",
+    "Add mackerel fillets and cook until browned on both sides.",
+    "Add coconut milk, fish sauce, brown sugar, paprika, zesty pepper, and chili flakes.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "mackerel",
+    "stew",
+    "fishstew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-mackerel-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:41:49.819Z"
+}
