@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-roasted-jamaican-chicken-curry",
+  "title": "Jamaican Chicken Curry",
+  "description": "A flavorful and spicy Jamaican-inspired chicken curry recipe made with a blend of aromatic spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "zesty yellow mustard",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "roasted cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion, garlic, and ginger to the skillet and cook until softened, about 5 minutes.",
+    "Add curry powder, cumin, and mustard to the skillet and cook for 1 minute, stirring constantly.",
+    "Add coconut milk and chicken broth to the skillet and stir to combine.",
+    "Return chicken to the skillet and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer, covered, until the chicken is cooked through, about 10-15 minutes.",
+    "Stir in curry leaves and season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "curry",
+    "chicken",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:59:04.391Z"
+}
