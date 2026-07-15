@@ -1,0 +1,99 @@
+{
+  "slug": "zesty-dense-moroccan-beef-tagine",
+  "title": "Moroccan Beef Tagine",
+  "description": "A hearty North African stew made with tender beef, aromatic spices and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef, cut into 2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend (or berbere)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty preserved lemon",
+      "amount": "1/2 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Dense prunes",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes. Remove from pot.",
+    "Add more oil if needed, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the spice blend and cook for 1 minute.",
+    "Add the prunes, preserved lemon, and chicken broth to the pot. Stir to combine.",
+    "Return the beef to the pot, cover, and transfer to a preheated oven at 300°F (150°C).",
+    "Braise for 2 1/2 hours, or until the beef is tender.",
+    "Skim off excess fat, then season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley or cilantro if desired.",
+    "Serve over couscous or rice, if desired.",
+    "Optional: Serve with warm pita bread or crusty bread for dipping in the juices.",
+    "Adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "moroccan",
+    "beef",
+    "braise",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-moroccan-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:32:05.074Z"
+}
