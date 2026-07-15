@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-indulgent-jamaican-cheese-tagine",
+  "title": "Jamaican Cheese Tagine",
+  "description": "A twist on the traditional Moroccan tagine, this dish combines the spices of Jamaica with the creaminess of cheese.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zesty tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "indulgent cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix together the zesty tagine spice blend, jamaican jerk seasoning, and 1 tsp of olive oil.",
+    "In a large skillet, heat the remaining 1 tbsp of olive oil over medium-high heat.",
+    "Add the chopped onions and cook until they're translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cheese until it's melted and well combined with the onions and garlic.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the zesty tagine spice blend mixture evenly over the top of the cheese mixture.",
+    "Bake for 20-25 minutes, or until the cheese is golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "tagine",
+    "cheese",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indulgent-jamaican-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:00:32.002Z"
+}
