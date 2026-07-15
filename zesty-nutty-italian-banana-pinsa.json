@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-nutty-italian-banana-pinsa",
+  "title": "Pinsa Bread with Italian Spices",
+  "description": "A delicious Italian-style flatbread infused with nutty flavors from the pinsa. Perfect as a snack or as a base for your favorite toppings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pinsa",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 tbsp",
+      "notes": "dry"
+    },
+    {
+      "name": "zesty olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "instant"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, water, and italian seasoning in a bowl. Let it sit for 10 minutes until yeast activates.",
+    "Add pinsa, zesty olive oil, and salt to the yeast mixture. Mix well.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rest in a warm place for 1 hour until it doubles in size.",
+    "Preheat a non-stick skillet or pizza stone in the oven at 425°F (220°C) for 10 minutes.",
+    "Shape the dough into a round or oblong shape and place it on the preheated skillet or pizza stone.",
+    "Bake for 15-20 minutes until the crust is golden brown and the inside is cooked through.",
+    "Remove from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "flatbread",
+    "pinsa",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-italian-banana-pinsa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:42:58.851Z"
+}
