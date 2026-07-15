@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-citrusy-japanese-danmuji-bake",
+  "title": "Danmuji Crusted Baked Cod",
+  "description": "A Japanese-inspired dish featuring crispy danmuji crust on tender baked cod.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Danmuji",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1 tsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zest",
+      "amount": "1 tsp",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "Citrusy Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Prepare the danmuji crust by mixing it with the bread crumbs and bake.",
+    "In a separate bowl, whisk the egg and zest together.",
+    "Season the cod fillets with salt and pepper.",
+    "Dip each cod fillet into the egg mixture, then coat with the danmuji crust.",
+    "Place the coated cod fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the citrusy oil and soy sauce over the cod fillets.",
+    "Bake for 12-15 minutes or until the cod is cooked through and the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "baked",
+    "japanese",
+    "danmuji"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-citrusy-japanese-danmuji-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:39:58.176Z"
+}
