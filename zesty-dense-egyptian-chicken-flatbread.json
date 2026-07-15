@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-dense-egyptian-chicken-flatbread",
+  "title": "Egyptian Chicken Shawarma",
+  "description": "A flavorful and spicy Egyptian-inspired street food. Marinated chicken is grilled to perfection and served in a crispy flatbread with your choice of toppings.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Zesty Mayo",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Dense Hummus",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egyptian Spices",
+      "amount": "2 tablespoons",
+      "notes": "mix of cumin, coriander, paprika, and cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together zesty mayo, hummus, and Egyptian spices. Add the chicken breast and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Remove chicken from marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Warm flatbread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble shawarma by slicing the grilled chicken and serving it in the flatbread with your choice of toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "flatbread",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-egyptian-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:42:02.444Z"
+}
