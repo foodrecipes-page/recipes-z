@@ -1,0 +1,67 @@
+{
+  "slug": "zingy-zucchini-yogurt-pancake",
+  "title": "Zingy Zucchini Pancakes",
+  "description": "A delicious and healthy breakfast or snack recipe made with zucchini, yogurt, and pancake mix.",
+  "cuisine": "American",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, grated"
+    },
+    {
+      "name": "Plain Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pancake Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Zingy",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a large bowl, combine grated zucchini, plain yogurt, pancake mix, egg, salt, and zingy.",
+    "Mix well to combine all ingredients.",
+    "Drop the mixture by 1/4 cupfuls onto the skillet.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface, flip and cook for another 2 minutes.",
+    "Serve the zucchini pancakes hot with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "snack",
+    "pancakes",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-zucchini-yogurt-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:15:00.840Z"
+}
