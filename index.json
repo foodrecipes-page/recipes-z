@@ -1869,17 +1869,15 @@
   },
   {
     "slug": "zesty-charred-japanese-chinese-cabbage-kushikatsu",
-    "title": "Zesty Charred Japanese Chinese Cabbage Kushikatsu",
+    "title": "Kushikatsu Cabbage Bites",
     "tags": [
-      "asian-inspired",
-      "crispy",
-      "fried",
-      "japanese-cuisine",
-      "ovo-vegetarian",
-      "weeknight"
+      "japanese",
+      "vegetarian",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -5239,18 +5237,16 @@
   },
   {
     "slug": "zesty-french-mentaiko-galette",
-    "title": "Zesty French Mentaiko Galette",
+    "title": "Mentaiko Galette",
     "tags": [
-      "brunch",
-      "comfort-food",
-      "diabetic-friendly",
-      "normandy",
-      "quick",
-      "seafood",
-      "whole-wheat"
+      "dessert",
+      "french",
+      "galette",
+      "mentaiko",
+      "salmon"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -6650,18 +6646,15 @@
   },
   {
     "slug": "zesty-indulgent-jamaican-cheese-tagine",
-    "title": "Zesty Indulgent Jamaican Cheese Tagine",
+    "title": "Jamaican Cheese Tagine",
     "tags": [
-      "cheese-pull",
-      "dairy-rich",
-      "indulgent",
-      "jain-friendly",
       "jamaican",
       "tagine",
-      "winey"
+      "cheese",
+      "moroccan"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 90,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -7962,14 +7955,13 @@
   },
   {
     "slug": "zesty-mediterranean-lamb-pilaf",
-    "title": "Zesty Mediterranean Lamb Pilaf",
+    "title": "Lamb Pilaf with a Zesty Twist",
     "tags": [
-      "dinner",
       "lamb",
-      "mediterranean",
       "pilaf",
-      "romantic",
-      "special-occasion"
+      "mediterranean",
+      "gluten-free",
+      "dairy-free"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 45,
@@ -14199,16 +14191,15 @@
   },
   {
     "slug": "zingy-zucchini-yogurt-pancake",
-    "title": "Zingy Zucchini Yogurt Pancake",
+    "title": "Zingy Zucchini Pancakes",
     "tags": [
-      "dutch-oven",
-      "fermented",
-      "fodmap-friendly",
-      "meal-prep",
-      "savory",
-      "wood-fired-bake"
+      "breakfast",
+      "healthy",
+      "snack",
+      "pancakes",
+      "zucchini"
     ],
-    "cuisine": "Russian",
+    "cuisine": "American",
     "totalTimeMin": 25,
     "shard": "z"
   },
