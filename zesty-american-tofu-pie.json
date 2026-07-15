@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-american-tofu-pie",
+  "title": "Tofu Pie",
+  "description": "A twist on a classic pie filled with a zesty tofu filling. Perfect for a light dinner or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Pie Crust",
+      "amount": "1 pre-made crust",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Zesty Sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a pie dish.",
+    "Press the tofu into the pie crust, leaving a small border around the edges.",
+    "In a blender, combine the zesty sauce, vegan butter, nutritional yeast, salt, and black pepper. Blend until smooth.",
+    "Pour the zesty sauce mixture over the tofu.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "tofu",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-american-tofu-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:03.608Z"
+}
