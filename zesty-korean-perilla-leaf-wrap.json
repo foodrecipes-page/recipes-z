@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-korean-perilla-leaf-wrap",
+  "title": "Korean-Style Perilla Leaf Wraps",
+  "description": "A flavorful and crunchy Korean-inspired dish featuring perilla leaves wrapped with zesty fillings. This dish is perfect for a quick snack or light lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "Zesty Korean sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the filling by mixing the zesty Korean sauce, cucumber, carrot, and Korean chili flakes in a bowl.",
+    "2. Heat a non-stick pan with sesame oil over medium heat.",
+    "3. Add the filling mixture to the pan and cook for 2-3 minutes, stirring occasionally.",
+    "4. Meanwhile, blanch the perilla leaves in boiling water for 30 seconds.",
+    "5. Remove the perilla leaves from the water and immediately submerge them in an ice bath to stop cooking.",
+    "6. Once the leaves have cooled, dry them with a paper towel.",
+    "7. Assemble the wraps by placing a few leaves on a plate, then topping with the cooked filling mixture.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "perilla-leaf",
+    "veggie-wraps"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-perilla-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:26:15.670Z"
+}
