@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-fried-ethiopian-flour-kik-alichta",
+  "title": "Alichta-Flour Ethiopian Flatbread with Zesty Twist",
+  "description": "A traditional Ethiopian flatbread recipe with a crunchy fried twist and a zesty kick. Perfect for any meal or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Alichta flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together Alichta flour and water to form a dough.",
+    "2. Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "3. Divide the dough into 6-8 equal pieces.",
+    "4. Roll out each piece into a thin circle.",
+    "5. Heat oil in a large skillet over medium heat.",
+    "6. Fry the flatbread for 2-3 minutes on each side, until crispy and golden brown.",
+    "7. Brush the flatbread with zesty sauce and sprinkle with Ethiopian spices.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "ethiopian-cuisine",
+    "quick-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fried-ethiopian-flour-kik-alichta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:50:25.392Z"
+}
