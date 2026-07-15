@@ -3990,17 +3990,14 @@
   },
   {
     "slug": "zesty-dense-egyptian-chicken-flatbread",
-    "title": "Zesty Dense Egyptian Chicken Flatbread",
+    "title": "Egyptian Chicken Shawarma",
     "tags": [
-      "chicken-recipes",
-      "easy-lunch",
+      "chicken",
       "flatbread",
-      "low-glycemic",
-      "middle-eastern",
-      "quick-fix"
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -6438,18 +6435,17 @@
   },
   {
     "slug": "zesty-hangover-middle-eastern-buns-wrap",
-    "title": "Zesty Middle Eastern Buns Wrap",
+    "title": "Middle Eastern Hangover Wraps",
     "tags": [
-      "ayurvedic",
       "breakfast",
-      "dairy",
-      "gluten-free",
+      "wrap",
       "middle-eastern",
-      "tamasic",
-      "vegetarian"
+      "eggs",
+      "sausage",
+      "hummus"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -7409,17 +7405,14 @@
   },
   {
     "slug": "zesty-korean-perilla-leaf-wrap",
-    "title": "Zesty Korean Perilla Leaf Wrap",
+    "title": "Korean-Style Perilla Leaf Wraps",
     "tags": [
-      "buddhist-temple-friendly",
-      "easy-snack",
-      "korean-food",
-      "quick-lunch",
-      "vegan-friendly",
-      "vegetarian-option"
+      "korean",
+      "perilla-leaf",
+      "veggie-wraps"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -10853,17 +10846,14 @@
   },
   {
     "slug": "zesty-slovakian-mackerel-stew",
-    "title": "Zesty Slovakian Mackerel Stew",
+    "title": "Slovakian Stew with Mackerel",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "gluten-free",
-      "hearty-meal",
-      "one-pot",
-      "slovakian-cuisine"
+      "slovakian",
+      "mackerel",
+      "stew"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
