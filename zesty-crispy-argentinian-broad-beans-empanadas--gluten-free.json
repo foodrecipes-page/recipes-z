@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-crispy-argentinian-broad-beans-empanadas--gluten-free",
+  "title": "Argentinian Empanada Bean Filling",
+  "description": "A gluten-free take on traditional empanada fillings, featuring broad beans and a zesty twist.",
+  "cuisine": "South American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices, diced"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the broad beans according to package instructions.",
+    "In a pan, cook the diced bacon until crispy.",
+    "Add the chopped onion and bell pepper to the pan and cook until softened.",
+    "Add the cooked broad beans, zesty sauce, salt, and black pepper to the pan and stir to combine.",
+    "Cut the empanadas in half and fill each with the bean mixture.",
+    "Place the empanadas on a baking sheet and bake for 12-15 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-argentinian-broad-beans-empanadas--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:33:07.073Z"
+}
