@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-flaky-norwegian-vegetables-pie",
+  "title": "Norwegian Vegetable Pie",
+  "description": "A savory pie filled with a mix of vegetables, perfect for a weeknight dinner. This recipe is a hearty and flavorful take on a classic dish.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Zesty Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 cup",
+      "notes": "mixture of diced potatoes, zucchini, and onions"
+    },
+    {
+      "name": "Pie Spices",
+      "amount": "1 tsp",
+      "notes": "mix of salt, pepper, and nutmeg"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky crust and place in a pie dish.",
+    "In a pan, sauté the chopped carrots and mixed vegetables until tender.",
+    "Add the pie spices and stir to combine.",
+    "Pour the vegetable mixture into the pie crust.",
+    "Dot the top of the filling with melted butter.",
+    "Roll out the remaining crust and use to cover the pie.",
+    "Crimp the edges to seal and cut a few slits in the top.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-norwegian-vegetables-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:46:27.819Z"
+}
