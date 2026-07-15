@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-slovakian-mackerel-stew",
+  "title": "Slovakian Stew with Mackerel",
+  "description": "A hearty Slovakian-inspired stew featuring mackerel as the main protein, served with a side of crusty bread.",
+  "cuisine": "slovakian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "2",
+      "notes": "with skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes, cook for another 5 minutes.",
+    "Add mackerel fillets and cook for 2-3 minutes on each side.",
+    "Add stew, paprika, and garlic; stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Bring to a boil, then reduce heat and simmer for 15-20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "mackerel",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-mackerel-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:44:33.587Z"
+}
