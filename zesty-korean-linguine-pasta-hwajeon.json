@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-korean-linguine-pasta-hwajeon",
+  "title": "Korean Pasta Linguine",
+  "description": "A fusion dish of Korean and Italian flavors, combining the zesty taste of Korean chili paste with linguine pasta.",
+  "cuisine": "Korean-Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "1 pound",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "zesty sauce (gochugaru, soy sauce, rice vinegar)",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the linguine pasta according to the package instructions until al dente.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the minced garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the Korean chili paste and stir-fry for another minute.",
+    "Add the zesty sauce and stir-fry for 2 minutes, until the sauce has thickened.",
+    "Add the cooked linguine pasta to the skillet and toss to combine with the sauce.",
+    "Top with chopped green onions and toasted sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "italian",
+    "fusion",
+    "pasta",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-linguine-pasta-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T20:23:30.771Z"
+}
