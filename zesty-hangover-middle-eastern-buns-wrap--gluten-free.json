@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-hangover-middle-eastern-buns-wrap--gluten-free",
+  "title": "Middle Eastern Zesty Buns",
+  "description": "A flavorful breakfast recipe with a Middle Eastern twist, using zesty ingredients and gluten-free buns.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Zesty Buns",
+      "amount": "4",
+      "notes": "Gluten-free buns"
+    },
+    {
+      "name": "Spicy Middle Eastern Sausage",
+      "amount": "1 pound",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Middle Eastern Wrap Filling",
+      "amount": "1 cup",
+      "notes": "Chopped and mixed with spices"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced and chopped"
+    },
+    {
+      "name": "Chopped Tomato",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chopped Mint",
+      "amount": "1 tablespoon",
+      "notes": "Chopped and mixed"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the buns with olive oil and toast until lightly browned.",
+    "Cook the Middle Eastern sausage in a pan until browned, breaking it up into small pieces.",
+    "In a separate pan, scramble the eggs and mix with red pepper flakes.",
+    "Assemble the wraps by placing a portion of the scrambled eggs on each bun, followed by a spoonful of the Middle Eastern sausage and wrap filling.",
+    "Top each wrap with chopped cucumber, tomato, and mint.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "middle-eastern",
+    "gluten-free",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hangover-middle-eastern-buns-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:33:24.791Z"
+}
