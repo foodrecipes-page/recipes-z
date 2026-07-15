@@ -4137,17 +4137,16 @@
   },
   {
     "slug": "zesty-dense-moroccan-beef-tagine",
-    "title": "Zesty Dense Moroccan Beef Tagine",
+    "title": "Moroccan Beef Tagine",
     "tags": [
-      "beef",
-      "dairy-free",
-      "date-night",
-      "gluten-free",
+      "north african",
       "moroccan",
-      "one-pot"
+      "beef",
+      "braise",
+      "stew"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -9591,18 +9590,15 @@
   },
   {
     "slug": "zesty-quick-chinese-turkish-delight-buddha-jumps-over-wall",
-    "title": "Zesty Quick Chinese Turkish Delight Buddha Jumps Over Wall",
+    "title": "Buddha's Wall of Delight",
     "tags": [
-      "chinese-food",
-      "macrobiotic",
-      "one-pan",
-      "quick-fix",
-      "turkish-delight",
       "vegetarian",
-      "weeknight-dinner"
+      "asian-fusion",
+      "turkish",
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian-Fusion",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
