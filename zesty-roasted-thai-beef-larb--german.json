@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-roasted-thai-beef-larb--german",
+  "title": "German Beef Larb Burger",
+  "description": "A twist on the classic burger, featuring a zesty beef larb patty and topped with roasted flavors.",
+  "cuisine": "german",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Larb Meat",
+      "amount": "500g",
+      "notes": "Ground beef with larb spices"
+    },
+    {
+      "name": "Zesty Bread Crumbs",
+      "amount": "1/2 cup",
+      "notes": "Bread crumbs with zesty spices"
+    },
+    {
+      "name": "Roasted Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced onions roasted at 400°F (200°C) for 20 minutes"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh Thai basil leaves"
+    },
+    {
+      "name": "German Mustard",
+      "amount": "2 tbsp",
+      "notes": "Coarse German mustard"
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": "Soft German-style burger buns"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 slices",
+      "notes": "Sliced cheddar cheese"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": "Fresh lettuce leaves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Thinly sliced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F or 200°C).",
+    "Form beef larb meat into 4 patties, about 1 inch thick.",
+    "Season patties with zesty bread crumbs and a pinch of salt.",
+    "Grill patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast burger buns on the grill or in a toaster.",
+    "Assemble burgers with a cooked patty, roasted onions, Thai basil, German mustard, cheddar cheese, lettuce, and tomato.",
+    "Serve immediately and enjoy!",
+    "Note: Make sure to cook beef to an internal temperature of at least 160°F (71°C) for food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "burger",
+    "larb",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-thai-beef-larb--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:30:51.781Z"
+}
