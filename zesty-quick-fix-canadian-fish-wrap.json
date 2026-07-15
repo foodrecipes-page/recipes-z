@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-quick-fix-canadian-fish-wrap",
+  "title": "Quick Fish Wrap",
+  "description": "A simple and delicious fish wrap that can be prepared in no time. This dish is perfect for a quick lunch or dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish (cod or salmon)",
+      "amount": "200g",
+      "notes": "Fresh or canned fish works well"
+    },
+    {
+      "name": "zesty wrap",
+      "amount": "1",
+      "notes": "Whole wheat or flour tortilla"
+    },
+    {
+      "name": "quick fix sauce",
+      "amount": "2 tbsp",
+      "notes": "Mayo or yogurt-based sauce"
+    },
+    {
+      "name": "canadian lettuce",
+      "amount": "2 cups",
+      "notes": "Romaine or iceberg lettuce works well"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "Cherry or grape tomato"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Season the fish with salt and pepper.",
+    "Add a small amount of oil to the pan and cook the fish for 3-4 minutes per side.",
+    "Meanwhile, toast the wrap in the pan for 1 minute on each side.",
+    "Assemble the wrap by spreading the quick fix sauce on the wrap, followed by the cooked fish, lettuce, and tomato.",
+    "Serve immediately and enjoy!",
+    "Optional: Add some cheese, avocado, or pickles to the wrap for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "fish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-quick-fix-canadian-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:56:20.105Z"
+}
