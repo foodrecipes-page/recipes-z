@@ -7786,17 +7786,15 @@
   },
   {
     "slug": "zesty-malaysian-cutlet-curry",
-    "title": "Zesty Malaysian Cutlet Curry",
+    "title": "Malaysian Zesty Cutlet Curry",
     "tags": [
-      "beef-curry",
-      "claypot",
-      "crispy",
-      "monsoon",
-      "spicy",
-      "zesty"
+      "malaysian",
+      "curry",
+      "chicken",
+      "spicy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -9622,18 +9620,14 @@
   },
   {
     "slug": "zesty-quick-fix-canadian-fish-wrap",
-    "title": "zesty quick fix canadian fish wrap",
+    "title": "Quick Fish Wrap",
     "tags": [
-      "canadian",
-      "easy-meal",
-      "korean-inspired",
-      "one-pan",
-      "pescatarian",
-      "quick-fix",
-      "weeknight"
+      "quick",
+      "fish",
+      "wrap"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 20,
+    "cuisine": "Canadian",
+    "totalTimeMin": 16,
     "shard": "z"
   },
   {
