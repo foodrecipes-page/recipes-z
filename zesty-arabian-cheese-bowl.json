@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-arabian-cheese-bowl",
+  "title": "Cheesy Arabian Zesty Bowl",
+  "description": "A flavorful and healthy breakfast or snack bowl filled with cheese, arabian spices, and a zesty twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cooked Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Arabian Spice Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Zesty Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Fresh Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine cooked rice, mozzarella cheese, arabian spice blend, and salt and pepper. Mix well.",
+    "2. Squeeze zesty lemon juice over the rice mixture and toss to coat.",
+    "3. Top the rice mixture with chopped fresh parsley and cucumber.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-arabian-cheese-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:27:50.994Z"
+}
