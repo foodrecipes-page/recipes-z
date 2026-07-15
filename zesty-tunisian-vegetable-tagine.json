@@ -1,0 +1,98 @@
+{
+  "slug": "zesty-tunisian-vegetable-tagine",
+  "title": "Tunisian Vegetable Tagine",
+  "description": "A flavorful and aromatic North African stew originating from Tunisia, typically made with meat or vegetables. This version is a vegetarian twist on the classic dish.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zest of 1 lemon",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tunisian vegetable tagine spice blend",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the tunisian vegetable tagine spice blend and sauté for 1 minute.",
+    "Add the carrots, potatoes, diced tomatoes, chickpeas, and water to the tagine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with the zest of 1 lemon and serve hot.",
+    "Serve with couscous or crusty bread for a complete meal.",
+    "Garnish with fresh parsley or cilantro if desired.",
+    "Serve immediately and enjoy!",
+    "This stew can be made ahead and refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "vegetarian",
+    "stew",
+    "couscous",
+    "garlic",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-tunisian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:55:47.064Z"
+}
