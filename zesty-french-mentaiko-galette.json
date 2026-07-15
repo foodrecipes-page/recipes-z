@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-french-mentaiko-galette",
+  "title": "Mentaiko Galette",
+  "description": "A simple yet flavorful galette dessert with a Japanese twist, featuring mentaiko salmon roe and a zesty French-inspired filling.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "galette dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mentaiko salmon roe",
+      "amount": "1/4 cup",
+      "notes": "Japanese salmon roe"
+    },
+    {
+      "name": "zesty cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "plus additional for sprinkling"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the galette dough to a thickness of 1/8 inch.",
+    "In a bowl, mix together the zesty cream cheese, granulated sugar, and beaten egg.",
+    "Spread the cream cheese mixture evenly over the center of the dough, leaving a 1-inch border.",
+    "Sprinkle the mentaiko salmon roe over the cream cheese mixture.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the egg wash over the dough to give it a golden brown color.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown.",
+    "Dust with confectioners' sugar and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "french",
+    "galette",
+    "mentaiko",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-french-mentaiko-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:11:07.675Z"
+}
