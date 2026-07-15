@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-middle-eastern-chickpea-grill",
+  "title": "Middle Eastern Chickpea Kebabs",
+  "description": "A flavorful and healthy meal made with marinated chickpea patties, grilled to perfection and served with a side of zesty sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "middle eastern seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grill",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, mash the chickpeas using a fork or a potato masher.",
+    "Add the middle eastern seasoning, zesty sauce, olive oil, garlic, cumin, paprika, salt, and pepper to the bowl with the chickpeas.",
+    "Mix well until all the ingredients are combined.",
+    "Using your hands, shape the chickpea mixture into 4-6 patties.",
+    "Place the patties on the grill and cook for 4-5 minutes per side, or until they are golden brown and crispy.",
+    "Serve the chickpea kebabs hot with a side of zesty sauce for dipping.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "chickpea",
+    "kebab"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-chickpea-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:45:41.573Z"
+}
