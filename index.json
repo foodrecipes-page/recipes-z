@@ -2284,19 +2284,15 @@
   },
   {
     "slug": "zesty-citrusy-japanese-danmuji-bake",
-    "title": "zesty citrusy japanese danmuji bake",
+    "title": "Danmuji Crusted Baked Cod",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "easiest-weeknight-dinner",
-      "jain",
-      "one-bowl",
-      "snappy-food",
-      "under-30-minutes",
-      "vegan"
+      "fish",
+      "baked",
+      "japanese",
+      "danmuji"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -5025,13 +5021,11 @@
   },
   {
     "slug": "zesty-flaky-portuguese-fish-stew",
-    "title": "Zesty Flaky Portuguese Fish Stew",
+    "title": "Fish Stew with Flaky Crust",
     "tags": [
       "fish-stew",
-      "flaky-fish",
-      "one-pot",
       "portuguese-cuisine",
-      "weeknight"
+      "seafood"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
@@ -8165,13 +8159,15 @@
   },
   {
     "slug": "zesty-middle-eastern-chickpea-grill",
-    "title": "Zesty Middle Eastern Chickpea Grill",
+    "title": "Middle Eastern Chickpea Kebabs",
     "tags": [
-      "middle-eastern",
-      "lunch"
+      "middle eastern",
+      "vegetarian",
+      "chickpea",
+      "kebab"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 23,
     "shard": "z"
   },
   {
