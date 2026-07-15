@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-flaky-portuguese-fish-stew",
+  "title": "Fish Stew with Flaky Crust",
+  "description": "A hearty fish stew made with flaky crust and infused with the flavors of portuguese spices and zesty lime.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Fish (cod or haddock)",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Zesty lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Portuguese spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Fish broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flaky pastry dough and cut into 4 equal squares.",
+    "In a large bowl, mix together the fish, zesty lime juice, portuguese spices, garlic, onion, fish broth and white wine.",
+    "Divide the fish mixture among the pastry squares, leaving a 1/2-inch border around each square.",
+    "Brush the edges of the pastry with a little water and fold the pastry squares over the filling, pressing the edges to seal.",
+    "Brush the tops of the pastry with a little water and sprinkle with a pinch of flaky crust.",
+    "Place the fish pies on a baking sheet lined with parchment paper and bake for 12-15 minutes, or until the pastry is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "portuguese-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-portuguese-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:24:01.049Z"
+}
