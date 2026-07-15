@@ -1,0 +1,97 @@
+{
+  "slug": "zesty-indian-frankfurter-dal-tadka",
+  "title": "Frankfurter Dal Tadka",
+  "description": "A twist on traditional Indian dal, featuring a spicy frankfurter tadka for added flavor.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dal",
+      "amount": "1 cup",
+      "notes": "split red or yellow"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking dal"
+    },
+    {
+      "name": "frankfurter",
+      "amount": "2",
+      "notes": "for tadka"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "1/4 cup",
+      "notes": "ghee or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "for tadka"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "for tadka"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil for frying in a pan over medium heat.",
+    "Add cumin seeds, let sizzle for 1-2 seconds.",
+    "Add chopped onion and sauté until translucent.",
+    "Add grated ginger and sauté for 1 minute.",
+    "Add dal and 2 cups of water to the pan.",
+    "Bring to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "While dal is cooking, heat oil for frying in a separate pan over medium heat.",
+    "Add frankfurter and cook until browned on all sides.",
+    "Add garam masala, salt, and 1 cup of water to the pan.",
+    "Simmer for 5-7 minutes, or until the sauce thickens.",
+    "To assemble the dish, place cooked dal in a bowl and top with the frankfurter tadka.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dinner",
+    "dal",
+    "frankfurter"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indian-frankfurter-dal-tadka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:17:36.255Z"
+}
