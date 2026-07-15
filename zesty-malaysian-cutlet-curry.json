@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-malaysian-cutlet-curry",
+  "title": "Malaysian Zesty Cutlet Curry",
+  "description": "A spicy and flavorful curry dish with a crispy cutlet of chicken. This Malaysian-inspired recipe is perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 cutlets",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of coconut oil over medium-high heat.",
+    "2. Add the chicken cutlets and cook until browned on both sides and cooked through, about 5-7 minutes.",
+    "3. Remove the chicken from the pan and set aside.",
+    "4. In the same pan, add the remaining 1 tablespoon of coconut oil, onion, and curry powder.",
+    "5. Cook for 1-2 minutes until the onion is translucent.",
+    "6. Stir in the zesty sauce and chicken broth.",
+    "7. Bring the mixture to a simmer and cook for 2-3 minutes until slightly thickened.",
+    "8. Return the chicken to the pan and toss to coat with the curry sauce.",
+    "9. Garnish with chopped cilantro and serve hot.",
+    "10. Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malaysian-cutlet-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:50:07.684Z"
+}
