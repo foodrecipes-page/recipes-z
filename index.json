@@ -14717,5 +14717,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-slovakian-mackerel-stew--thai",
+    "title": "Thai Mackerel Stew",
+    "tags": [
+      "thaifood",
+      "mackerel",
+      "stew",
+      "fishstew"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
