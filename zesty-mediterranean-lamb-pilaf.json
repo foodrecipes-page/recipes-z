@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-mediterranean-lamb-pilaf",
+  "title": "Lamb Pilaf with a Zesty Twist",
+  "description": "A flavorful and refreshing twist on traditional lamb pilaf, infused with the bold flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup",
+      "notes": "medium-grain rice"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Zesty seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the lamb shoulder with salt, pepper, and zesty seasoning.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the garlic to the pot and sauté for 1-2 minutes until fragrant.",
+    "Add the pilaf rice to the pot and cook for 1-2 minutes, until lightly toasted.",
+    "Add 2 cups of water to the pot and stir to combine.",
+    "Return the lamb shoulder to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 25-30 minutes, or until the lamb is cooked through and the rice is tender.",
+    "Remove the pot from the oven and stir in the lemon juice.",
+    "Fluff the pilaf with a fork and serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "mediterranean",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mediterranean-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:37:57.145Z"
+}
