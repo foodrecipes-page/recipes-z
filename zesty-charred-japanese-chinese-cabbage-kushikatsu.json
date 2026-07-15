@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-charred-japanese-chinese-cabbage-kushikatsu",
+  "title": "Kushikatsu Cabbage Bites",
+  "description": "A Japanese-inspired twist on traditional cabbage bites, coated in a crispy kushikatsu batter and served with a side of charred dipping sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": null
+    },
+    {
+      "name": "kushikatsu",
+      "amount": "1 cup all-purpose flour",
+      "notes": null
+    },
+    {
+      "name": "zesty",
+      "amount": "1 cup panko breadcrumbs",
+      "notes": null
+    },
+    {
+      "name": "japanese",
+      "amount": "1/2 cup vegetable oil",
+      "notes": null
+    },
+    {
+      "name": "charred",
+      "amount": "2 tablespoons soy sauce",
+      "notes": null
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tablespoons sake",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Cut the cabbage into small florets.",
+    "In a shallow dish, mix together the panko breadcrumbs and kushikatsu.",
+    "Dip each cabbage floret into the breadcrumb mixture, pressing gently to adhere.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Fry the coated cabbage bites until golden brown and crispy, about 3-4 minutes per side.",
+    "Transfer the kushikatsu to a paper towel-lined plate to drain excess oil.",
+    "In a small saucepan, combine the soy sauce, sake, and charred notes.",
+    "Bring the mixture to a simmer over medium heat and cook until slightly thickened, about 5 minutes.",
+    "Serve the kushikatsu cabbage bites with the charred dipping sauce on the side.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-japanese-chinese-cabbage-kushikatsu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:04:16.192Z"
+}
