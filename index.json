@@ -6584,18 +6584,15 @@
   },
   {
     "slug": "zesty-indian-frankfurter-dal-tadka",
-    "title": "Zesty Indian Frankfurter Dal Tadka",
+    "title": "Frankfurter Dal Tadka",
     "tags": [
-      "dinner",
-      "easy-to-make",
       "indian",
-      "low-calorie",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "dinner",
+      "dal",
+      "frankfurter"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -10102,18 +10099,14 @@
   },
   {
     "slug": "zesty-roasted-thai-beef-larb",
-    "title": "Zesty Roasted Thai Beef Larb",
+    "title": "Thai Beef Larb",
     "tags": [
+      "thaicuisine",
       "beef",
-      "high-protein",
-      "larb",
-      "one-pan",
-      "romantic",
-      "thai",
-      "weeknight"
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 48,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
