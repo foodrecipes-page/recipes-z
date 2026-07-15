@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-dense-egyptian-chicken-flatbread--vegetarian",
+  "title": "Egyptian Chicken Fattoush Salad",
+  "description": "This salad combines the flavors of Egypt with a vegetarian twist by substituting chicken with zesty chickpeas.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "Chickpea sauce or hummus"
+    },
+    {
+      "name": "flatbread",
+      "amount": "2 cups",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tbsp",
+      "notes": "Chopped fresh parsley and cilantro"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toss flatbread with olive oil and season with salt and pepper.",
+    "3. Bake in the oven for 5-7 minutes or until crispy.",
+    "4. In a large bowl, combine chickpeas, Egyptian, zesty, salt and pepper.",
+    "5. Add the flatbread to the bowl and toss to combine.",
+    "6. Drizzle lemon juice over the salad and toss to coat.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fattoush",
+    "salad",
+    "egyptian",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-egyptian-chicken-flatbread--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:32:09.574Z"
+}
