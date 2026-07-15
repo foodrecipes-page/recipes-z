@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-mustardy-yorkshire-sardine-casserole",
+  "title": "Sardine and Yorkshire Casserole",
+  "description": "A hearty casserole filled with sardines and served over a bed of mashed Yorkshire, perfect for a comforting dinner.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sardines in Oil",
+      "amount": "1 can (4 oz)",
+      "notes": "Drained and flaked"
+    },
+    {
+      "name": "Yorkshire Tea Bread",
+      "amount": "1 loaf",
+      "notes": "Diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Zesty Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, sauté the diced Yorkshire bread in melted butter until lightly toasted.",
+    "3. Add the flaked sardines to the skillet and cook for 2-3 minutes, until heated through.",
+    "4. In a separate bowl, mix together the shredded Zesty Cheese and a pinch of salt and pepper.",
+    "5. Grease a 9x13 inch baking dish with butter.",
+    "6. Add the cooked Yorkshire bread mixture to the baking dish.",
+    "7. Top with the sardine mixture and sprinkle with the Zesty Cheese mixture.",
+    "8. Bake for 20-25 minutes, until the casserole is golden brown and the cheese is melted.",
+    "9. Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mustardy-yorkshire-sardine-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:57:43.723Z"
+}
