@@ -4987,17 +4987,14 @@
   },
   {
     "slug": "zesty-flaky-norwegian-vegetables-pie",
-    "title": "Zesty Flaky Norwegian Vegetables Pie",
+    "title": "Norwegian Vegetable Pie",
     "tags": [
-      "comal-cooked",
-      "festive-meal",
-      "flaky-pastry",
-      "norwegian-cuisine",
-      "robata-grilled",
-      "vegetarian-friendly"
+      "norwegian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "norwegian",
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -14669,6 +14666,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 23,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-roasted-thai-beef-larb--german",
+    "title": "German Beef Larb Burger",
+    "tags": [
+      "german",
+      "beef",
+      "burger",
+      "larb",
+      "roasted"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "z"
   }
 ]
