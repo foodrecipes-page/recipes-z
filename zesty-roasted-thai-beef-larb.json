@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-roasted-thai-beef-larb",
+  "title": "Thai Beef Larb",
+  "description": "A spicy and sour Thai dish made with beef, herbs, and chilies. Serve with steamed rice for a flavorful meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2-3",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "Zesty lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Larb spice mix",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine sliced beef, Thai chilies, lime juice, fish sauce, brown sugar, and larb spice mix. Mix well to combine.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "3. Just before serving, stir in chopped peanuts and Thai basil.",
+    "4. Serve the larb beef mixture over steamed rice, garnished with additional Thai basil and peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-thai-beef-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:59:01.537Z"
+}
