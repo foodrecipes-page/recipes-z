@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-quick-chinese-turkish-delight-buddha-jumps-over-wall",
+  "title": "Buddha's Wall of Delight",
+  "description": "A unique fusion of Chinese and Turkish flavors, perfect for a delicious and quick dinner.",
+  "cuisine": "Asian-Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Buddha's Delight (hummus)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turkish Zesty Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chinese Five-Spice Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Cut the pita bread into triangles and toast until crispy.",
+    "In a large bowl, mix together the chopped lettuce, sliced tomato, and sliced cucumber.",
+    "In a separate bowl, mix together the hummus and Turkish Zesty Sauce.",
+    "Add the Chinese Five-Spice Powder to the hummus mixture and stir well.",
+    "Spoon the hummus mixture over the lettuce mixture and toss to coat.",
+    "Divide the salad among four plates and top each plate with toasted pita bread.",
+    "Season with salt and pepper to taste, serve immediately.",
+    "Optional: garnish with additional pita bread croutons or sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "asian-fusion",
+    "turkish",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-quick-chinese-turkish-delight-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:07:53.964Z"
+}
