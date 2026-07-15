@@ -910,18 +910,16 @@
   },
   {
     "slug": "zesty-arabian-cheese-bowl",
-    "title": "Zesty Arabian Cheese Bowl",
+    "title": "Cheesy Arabian Zesty Bowl",
     "tags": [
-      "arabian",
-      "cheese-pull",
-      "comfort-food",
-      "easy",
-      "low-glycemic",
-      "one-pan",
-      "zesty"
+      "breakfast",
+      "snack",
+      "middle-eastern",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Arabian",
-    "totalTimeMin": 20,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -8794,17 +8792,14 @@
   },
   {
     "slug": "zesty-mustardy-yorkshire-sardine-casserole",
-    "title": "Zesty Mustardy Yorkshire Sardine Casserole",
+    "title": "Sardine and Yorkshire Casserole",
     "tags": [
-      "high-protein",
-      "monsoon-season",
-      "one-pot",
-      "sardine",
-      "spicy",
-      "yorkshire"
+      "british",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -9974,17 +9969,15 @@
   },
   {
     "slug": "zesty-roasted-jamaican-chicken-curry",
-    "title": "Zesty Roasted Jamaican Chicken Curry",
+    "title": "Jamaican Chicken Curry",
     "tags": [
-      "curry-recipes",
-      "dinner-ideas",
-      "fodmap-friendly",
-      "gluten-free",
-      "jamaican-cuisine",
-      "roasted-chicken"
+      "caribbean",
+      "curry",
+      "chicken",
+      "lunch"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 65,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
