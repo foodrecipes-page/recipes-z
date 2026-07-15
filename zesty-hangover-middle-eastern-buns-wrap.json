@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-hangover-middle-eastern-buns-wrap",
+  "title": "Middle Eastern Hangover Wraps",
+  "description": "A savory and satisfying breakfast wrap filled with scrambled eggs, spicy sausage, and creamy hummus.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zesty sausage",
+      "amount": "1 pound",
+      "notes": "cook to 165°F for food safety"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "6 eggs",
+      "notes": "whisked with salt and pepper"
+    },
+    {
+      "name": "eastern hummus",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "middle eastern buns",
+      "amount": "4 buns",
+      "notes": "soft and fluffy"
+    },
+    {
+      "name": "wrap",
+      "amount": "4 wraps",
+      "notes": "soft and pliable"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh and fragrant"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/4 cup",
+      "notes": "optional but delicious"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Cook the zesty sausage until browned, breaking it up with a spoon as it cooks.",
+    "While the sausage cooks, scramble the eggs in a separate bowl and season with salt and pepper.",
+    "Warm the eastern hummus in the microwave or on the stovetop.",
+    "Assemble the wraps by spreading a layer of hummus on each bun, followed by a spoonful of scrambled eggs and a few slices of cooked sausage.",
+    "Top each wrap with chopped parsley and crumbly feta cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "wrap",
+    "middle-eastern",
+    "eggs",
+    "sausage",
+    "hummus"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hangover-middle-eastern-buns-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:44:06.635Z"
+}
