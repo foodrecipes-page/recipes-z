@@ -7410,16 +7410,17 @@
   },
   {
     "slug": "zesty-korean-linguine-pasta-hwajeon",
-    "title": "Zesty Korean Linguine Pasta Hwajeon",
+    "title": "Korean Pasta Linguine",
     "tags": [
-      "korean-inspired",
-      "low-calorie",
-      "one-pot",
-      "quick-meal",
-      "vegetarian-friendly"
+      "korean",
+      "italian",
+      "fusion",
+      "pasta",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 27,
+    "cuisine": "Korean-Italian",
+    "totalTimeMin": 18,
     "shard": "z"
   },
   {
