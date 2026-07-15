@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-mexican-almonds-horchata",
+  "title": "Horchata Panna Cotta with Toasted Almonds",
+  "description": "A creamy panna cotta dessert flavored with horchata and topped with toasted almonds and a zesty twist.",
+  "cuisine": "Mexican Desserts",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced and toasted"
+    },
+    {
+      "name": "horchata",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "lime zest or orange zest"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small saucepan, heat the horchata over medium heat until warm.",
+    "In a blender or food processor, combine the warm horchata, cream cheese, and vanilla extract. Blend until smooth.",
+    "In a separate bowl, whisk together the sugar and lime zest.",
+    "Add the sugar mixture to the blender and blend until combined.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25-30 minutes or until set.",
+    "Remove from the oven and let cool to room temperature.",
+    "Cover and refrigerate for at least 4 hours or overnight.",
+    "Just before serving, sprinkle toasted almonds on top of each panna cotta.",
+    "Serve chilled and garnish with additional lime zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "desserts",
+    "almonds",
+    "horchoata",
+    "panna-cotta"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-almonds-horchata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:20.528Z"
+}
