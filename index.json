@@ -825,16 +825,15 @@
   },
   {
     "slug": "zesty-american-tofu-pie",
-    "title": "Zesty American Tofu Pie",
+    "title": "Tofu Pie",
     "tags": [
-      "american",
-      "crispy",
-      "low-calorie",
-      "shortcrust",
-      "tofu"
+      "vegan",
+      "gluten-free",
+      "tofu",
+      "pie"
     ],
     "cuisine": "American",
-    "totalTimeMin": 85,
+    "totalTimeMin": 55,
     "shard": "z"
   },
   {
@@ -7973,17 +7972,16 @@
   },
   {
     "slug": "zesty-mexican-almonds-horchata",
-    "title": "Zesty Mexican Almonds Horchata",
+    "title": "Horchata Panna Cotta with Toasted Almonds",
     "tags": [
-      "brunch",
-      "easy",
       "mexican",
-      "oven-roasted",
-      "snack",
-      "sweet"
+      "desserts",
+      "almonds",
+      "horchoata",
+      "panna-cotta"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 15,
+    "cuisine": "Mexican Desserts",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -14680,6 +14678,44 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-egyptian-chicken-flatbread--vegetarian",
+    "title": "Egyptian Chicken Fattoush Salad",
+    "tags": [
+      "fattoush",
+      "salad",
+      "egyptian",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 17,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-argentinian-broad-beans-empanadas--gluten-free",
+    "title": "Argentinian Empanada Bean Filling",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "gluten-free"
+    ],
+    "cuisine": "South American",
+    "totalTimeMin": 32,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-hangover-middle-eastern-buns-wrap--gluten-free",
+    "title": "Middle Eastern Zesty Buns",
+    "tags": [
+      "breakfast",
+      "middle-eastern",
+      "gluten-free",
+      "egg"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "z"
   }
 ]
