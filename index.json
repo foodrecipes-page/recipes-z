@@ -14774,5 +14774,33 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-filipino-sweet-rice-flour-chapssalgaru-bistek--vegetarian",
+    "title": "Chapssalgaru Sweet Bites",
+    "tags": [
+      "fried",
+      "snack",
+      "filipino",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha--indian",
+    "title": "Ethiopian Chicken Tikka Masala",
+    "tags": [
+      "ethiopian",
+      "chicken",
+      "tikka-masala",
+      "masala",
+      "berbere",
+      "alicha"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
