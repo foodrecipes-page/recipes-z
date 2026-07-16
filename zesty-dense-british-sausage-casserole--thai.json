@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-dense-british-sausage-casserole--thai",
+  "title": "Thai Sausage Casserole",
+  "description": "A flavorful and spicy Thai-inspired casserole made with sausage and a blend of herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British sausage",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Dense zesty bread",
+      "amount": "2 cups",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1",
+      "notes": "any type"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1 minute.",
+    "Add sausage and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Stir in fish sauce and brown sugar; cook for 1 minute.",
+    "Transfer sausage mixture to a 9x13-inch casserole dish.",
+    "Add bread cubes on top of sausage mixture.",
+    "Bake until bread is golden brown and crispy, about 15-20 minutes.",
+    "Garnish with cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-inspired",
+    "satisfying-lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-british-sausage-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:07:02.122Z"
+}
