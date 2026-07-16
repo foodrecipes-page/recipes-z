@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-dense-egyptian-chicken-flatbread--keto",
+  "title": "Egyptian Chicken Shawarma",
+  "description": "A keto-friendly twist on the classic Middle Eastern street food, featuring juicy chicken, crispy flatbread, and a side of zesty tahini sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4 oz (115g)",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread",
+      "amount": "2 flatbreads (100g)",
+      "notes": "Keto flatbread or low-carb flatbread alternative"
+    },
+    {
+      "name": "Zesty tahini sauce",
+      "amount": "2 tbsp (30g)",
+      "notes": "Make your own or store-bought"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "1 tsp",
+      "notes": "Typically includes cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Season chicken breast with Egyptian spices and salt, and pepper to taste.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Slice cooked chicken into thin strips.",
+    "Warm flatbreads by wrapping them in foil and heating in the oven for 2-3 minutes.",
+    "Assemble shawarma by placing chicken on flatbread and topping with zesty tahini sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "middle-eastern",
+    "chicken",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "38g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-egyptian-chicken-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:24.954Z"
+}
