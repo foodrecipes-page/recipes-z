@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-crumbly-norwegian-oat-crumble--mexican",
+  "title": "Norwegian Crumble Tacos",
+  "description": "A twist on traditional tacos, this recipe combines the flavors of Norway with the heart of Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zesty norwegian cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "crumbly crackers",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "oat flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crumble butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "cook until browned"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ground beef in a skillet until browned, breaking it up into small pieces as it cooks.",
+    "Add taco seasoning to the skillet and stir to combine.",
+    "In a separate bowl, mix together zesty norwegian cheese, crumbly crackers, oat flour, and crumble butter.",
+    "Add the cheese mixture to the skillet with the ground beef and stir to combine.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning the beef mixture onto a tortilla and topping with sour cream, cumin, and a squeeze of lime juice.",
+    "Bake in the preheated oven for 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "cheesy",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crumbly-norwegian-oat-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:17:15.733Z"
+}
