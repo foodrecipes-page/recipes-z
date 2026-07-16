@@ -14739,5 +14739,46 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 22,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-flaky-norwegian-vegetables-pie--french",
+    "title": "French Savory Pie",
+    "tags": [
+      "french",
+      "savory",
+      "vegetarian",
+      "pie"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-greek-brie-skillet--indian",
+    "title": "Indian Brie Skillet",
+    "tags": [
+      "indian",
+      "cheese",
+      "breakfast",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-algerian-almond-paste-toast--chinese",
+    "title": "Algerian Toast with Almond Paste",
+    "tags": [
+      "almond",
+      "chinese",
+      "snack",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "z"
   }
 ]
