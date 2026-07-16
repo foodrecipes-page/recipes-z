@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-smoky-turkish-shrimp-pilaf--vegetarian",
+  "title": "Smoky Turkish Shrimp Pilaf",
+  "description": "A flavorful and aromatic vegetarian pilaf dish with smoky notes, reminiscent of Turkish cuisine. Perfect as a side or main course.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Turkish pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 tsp",
+      "notes": "For added smokiness"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup",
+      "notes": "Imagined for a vegetarian version, replace with portobello mushrooms or eggplant"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the Turkish pilaf and stir to coat with oil.",
+    "Add the smoky paprika and stir for 1-2 minutes.",
+    "Add the zesty lemon juice and stir to combine.",
+    "Stir in the chopped parsley.",
+    "Add the shrimp (or portobello mushrooms or eggplant) and stir to combine.",
+    "Cook for 5-7 minutes or until the shrimp is pink and the pilaf is heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: Garnish with additional parsley and lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "turkish",
+    "pilaf",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-turkish-shrimp-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:43:12.903Z"
+}
