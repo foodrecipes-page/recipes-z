@@ -2046,17 +2046,15 @@
   },
   {
     "slug": "zesty-chewy-mexican-mushroom-tacos",
-    "title": "Zesty Chewy Mexican Mushroom Tacos",
+    "title": "Mexican Tacos",
     "tags": [
-      "exotic-flavors",
-      "mexican-food",
-      "midnight-cravings",
-      "ovo-vegetarian",
-      "spherification",
-      "unique-textures"
+      "mexican",
+      "tacos",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -14729,6 +14727,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-egyptian-chicken-flatbread--keto",
+    "title": "Egyptian Chicken Shawarma",
+    "tags": [
+      "keto",
+      "middle-eastern",
+      "chicken",
+      "flatbread"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "z"
   }
 ]
