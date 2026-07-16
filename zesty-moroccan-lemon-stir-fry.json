@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-moroccan-lemon-stir-fry",
+  "title": "Moroccan Chicken Stir Fry",
+  "description": "A flavorful and spicy chicken stir fry with the warm and aromatic flavors of Morocco. Serve with steamed vegetables and couscous for a delicious and healthy meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Zesty lemon",
+      "amount": "2 tablespoons",
+      "notes": "Juice"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Stir in the Moroccan spice blend and lemon juice.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve hot over steamed vegetables and couscous."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-moroccan-lemon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:09:28.024Z"
+}
