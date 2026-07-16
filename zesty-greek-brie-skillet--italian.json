@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-greek-brie-skillet--italian",
+  "title": "Italian Skillet Brie Frittata",
+  "description": "A simple Italian-inspired frittata made with brie cheese, perfect for a quick breakfast or brunch.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the chopped parsley and cook for another minute.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Add the brie cheese to the bowl and stir until well combined.",
+    "Pour the egg mixture over the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot.",
+    "Optional: sprinkle with zesty for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "easy",
+    "skillet",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-brie-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:11:08.972Z"
+}
