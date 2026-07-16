@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-gooey-gravy-german-sausage-casserole",
+  "title": "German Sausage Casserole",
+  "description": "A hearty and comforting casserole dish filled with german sausage, gooey cheese, and a hint of zesty spices.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "zesty gravy mix",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "goey cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch baking dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook german sausage in a skillet over medium-high heat, until browned, breaking into pieces as it cooks.",
+    "Add chopped onion and bell pepper to the skillet and cook until tender.",
+    "Stir in zesty gravy mix and cook for 1 minute.",
+    "In a separate bowl, combine shredded cheese and cooked sausage mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake in preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "sausage",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-gravy-german-sausage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:22:52.482Z"
+}
