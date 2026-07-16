@@ -8583,17 +8583,15 @@
   },
   {
     "slug": "zesty-moroccan-lemon-stir-fry",
-    "title": "Zesty Moroccan Lemon Stir-fry",
+    "title": "Moroccan Chicken Stir Fry",
     "tags": [
       "moroccan",
-      "zesty",
-      "quick-fix",
-      "citrusy",
-      "tender",
-      "stir-fry"
+      "chicken",
+      "stir-fry",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -12504,17 +12502,16 @@
   },
   {
     "slug": "zesty-syrian-millet-pilaf",
-    "title": "Zesty Syrian Millet Pilaf",
+    "title": "Spicy Syrian Millet Pilaf",
     "tags": [
-      "crunchy",
-      "kid-friendly",
-      "one-pot",
-      "quick",
       "syrian",
-      "vegan"
+      "pilaf",
+      "millet",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -14926,6 +14923,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-hearty-argentinian-beef-stew--french",
+    "title": "French-Style Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "french",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
     "shard": "z"
   }
 ]
