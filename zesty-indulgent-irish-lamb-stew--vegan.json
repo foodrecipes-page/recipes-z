@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-indulgent-irish-lamb-stew--vegan",
+  "title": "Irish Stew (Vegan)",
+  "description": "A hearty, comforting vegan stew inspired by traditional Irish cuisine. Made with tender lamb substitute and fresh vegetables.",
+  "cuisine": "irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "stew",
+  "ingredients": [
+    {
+      "name": "Lamb substitute (such as seitan)",
+      "amount": "1 cup, cut into 1-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium, peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Vegan Guinness stout",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the lamb substitute, carrots, potatoes, onions, and mushrooms.",
+    "Cook for 5 minutes, or until the lamb substitute is browned.",
+    "Add the Guinness stout, vegetable broth, and thyme.",
+    "Bring to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "irish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indulgent-irish-lamb-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:56:21.736Z"
+}
