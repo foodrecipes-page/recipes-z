@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-algerian-almond-paste-toast--chinese",
+  "title": "Algerian Toast with Almond Paste",
+  "description": "A twist on traditional Chinese toast, this dish combines the flavors of Algeria with the crunch of almonds. Perfect as a snack or dessert.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "algerian paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most international grocery stores"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "almond",
+      "amount": "1/4 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Toast bread until lightly browned.",
+    "Spread a layer of algerian paste on each slice.",
+    "Sprinkle sliced almonds on top of the paste.",
+    "If desired, drizzle with zesty sauce.",
+    "Bake in the oven for 5-7 minutes, or until the almonds are fragrant.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "chinese",
+    "snack",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-algerian-almond-paste-toast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:27:25.426Z"
+}
