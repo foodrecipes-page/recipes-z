@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-pie--french",
+  "title": "Eggplant Moussaka",
+  "description": "A French twist on the classic Greek dish. Eggplant is layered with a rich meat sauce and creamy cheese.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "browned and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 tablespoons olive oil"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "used to thicken sauce"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as Gruyère or Parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season eggplant slices with salt and let sit for 30 minutes.",
+    "Rinse eggplant slices and pat dry with paper towels.",
+    "In a large skillet, cook ground beef over medium-high heat, breaking up with a spoon, until browned.",
+    "Add onion, garlic, and tomato paste to skillet and cook for 2-3 minutes.",
+    "Sprinkle flour over meat mixture and cook for 1 minute.",
+    "Gradually add bechamel sauce to skillet, whisking continuously.",
+    "Bring sauce to a simmer and cook for 2-3 minutes.",
+    "In a separate baking dish, create a layer of eggplant slices.",
+    "Spread a layer of meat sauce over eggplant.",
+    "Repeat layering process, ending with a layer of cheese on top.",
+    "Bake for 30-40 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "moussaka",
+    "eggplant",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:03:46.179Z"
+}
