@@ -14902,5 +14902,30 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-polish-fish-skillet--french",
+    "title": "Pan-Seared Fish with Zesty Crisp",
+    "tags": [
+      "fish",
+      "french",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 18,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crumbly-norwegian-oat-crumble--mexican",
+    "title": "Norwegian Crumble Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "cheesy",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
