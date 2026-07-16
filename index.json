@@ -14937,5 +14937,44 @@
     "cuisine": "french",
     "totalTimeMin": 170,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-norwegian-beef-stew--keto",
+    "title": "Norwegian Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "keto",
+      "norwegian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 140,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-indulgent-irish-lamb-stew--vegan",
+    "title": "Irish Stew (Vegan)",
+    "tags": [
+      "vegan",
+      "irish",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-turkish-shrimp-pilaf--vegetarian",
+    "title": "Smoky Turkish Shrimp Pilaf",
+    "tags": [
+      "vegetarian",
+      "turkish",
+      "pilaf",
+      "smoky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
