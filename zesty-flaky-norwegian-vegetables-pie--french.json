@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-flaky-norwegian-vegetables-pie--french",
+  "title": "French Savory Pie",
+  "description": "A classic French savory pie filled with vegetables and cheese, perfect for a light and satisfying meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty norwegian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "flaky pie crust",
+      "amount": "1 pre-made crust"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a pie dish.",
+    "In a pan, sauté the chopped onion and minced garlic until softened.",
+    "Add the mixed vegetables and cook until tender.",
+    "Stir in the shredded cheese and dried thyme.",
+    "Season with salt and pepper to taste.",
+    "Pour the vegetable mixture into the pie crust.",
+    "Roll out the remaining pie crust to fit the top of the pie.",
+    "Crisscross the top crust with a knife and bake for 35-40 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "savory",
+    "vegetarian",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-norwegian-vegetables-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:47:30.534Z"
+}
