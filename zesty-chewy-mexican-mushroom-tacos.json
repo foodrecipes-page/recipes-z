@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-chewy-mexican-mushroom-tacos",
+  "title": "Mexican Tacos",
+  "description": "A delicious and flavorful Mexican-inspired dish featuring tacos with a twist. Perfect for a quick meal or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tacos",
+      "amount": "8-10",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mexican seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chewy tortilla chips",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add the mushrooms and cook until browned, about 3-4 minutes.",
+    "Add the Mexican seasoning and stir to combine.",
+    "Cook for an additional minute.",
+    "Warm the tacos according to package instructions.",
+    "Assemble the tacos by spooning the mushroom mixture onto the tacos.",
+    "Drizzle with zesty sauce and top with chewy tortilla chips.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-mexican-mushroom-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:39:48.026Z"
+}
