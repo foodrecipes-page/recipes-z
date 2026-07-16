@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-crisp-polish-fish-skillet--french",
+  "title": "Pan-Seared Fish with Zesty Crisp",
+  "description": "A classic French dish featuring a delicate fish fillet seared to perfection and served with a zesty and crisp accompaniment.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (Polish Pike for preference)",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Zesty marinade",
+      "amount": "2 tablespoons",
+      "notes": "Mix of lemon juice, garlic, and herbs"
+    },
+    {
+      "name": "Crisp vegetable slaw",
+      "amount": "1 cup",
+      "notes": "Shredded cabbage and carrot with zesty dressing"
+    },
+    {
+      "name": "Polish rye bread",
+      "amount": "2 slices",
+      "notes": "Sliced and toasted"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Non-stick for easy fish release"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For fish and skillet"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your skillet to medium-high heat.",
+    "Season the fish fillet with salt and pepper on both sides.",
+    "Add a tablespoon of olive oil to the preheated skillet and sear the fish for 3-4 minutes on each side.",
+    "Transfer the fish to a plate and let it rest for a few minutes.",
+    "Meanwhile, heat a little olive oil in the skillet and add the zesty marinade for 1 minute.",
+    "Add a slice of Polish rye bread to the skillet and toast for 1-2 minutes.",
+    "Assemble the dish by placing the fish on top of the toasted bread, followed by a spoonful of crisp vegetable slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "french",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-polish-fish-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:12:23.140Z"
+}
