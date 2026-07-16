@@ -14841,5 +14841,30 @@
     "cuisine": "French",
     "totalTimeMin": 70,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-canadian-cashew-mousse--keto",
+    "title": "Canadian Cashew Mousse",
+    "tags": [
+      "canadian-cashew-mousse",
+      "keto-dessert",
+      "cashew-cream"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 230,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-eggplant-pie--gluten-free",
+    "title": "Zesty Eastern Eggplant Delight",
+    "tags": [
+      "eggplant",
+      "middle eastern",
+      "gluten-free",
+      "dinner"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "z"
   }
 ]
