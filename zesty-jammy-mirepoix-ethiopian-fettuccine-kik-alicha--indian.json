@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha--indian",
+  "title": "Ethiopian Chicken Tikka Masala",
+  "description": "A twist on the classic Indian dish, inspired by Ethiopian flavors.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ethiopian berbere spice mix (or regular berbere mix)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "fettuccine",
+      "amount": "8 oz",
+      "notes": "or substitute with other pasta of your choice"
+    },
+    {
+      "name": "kik alicha spice mix (or regular alicha spice mix)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "zesty yogurt",
+      "amount": "1 cup",
+      "notes": "plain yogurt with a squeeze of lemon"
+    },
+    {
+      "name": "jammy tomatoes",
+      "amount": "1 cup",
+      "notes": "diced cherry tomatoes"
+    },
+    {
+      "name": "mirepoix mix",
+      "amount": "1 cup",
+      "notes": "chopped onion, carrot, celery"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add mirepoix mix and cook until softened.",
+    "Add chicken and cook until browned.",
+    "Add berbere spice mix, alicha spice mix, and yogurt.",
+    "Stir well and bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes.",
+    "Stir in jammy tomatoes and cook for an additional 2-3 minutes.",
+    "Serve over fettuccine and garnish with additional yogurt and spice mix if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "tikka-masala",
+    "masala",
+    "berbere",
+    "alicha"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jammy-mirepoix-ethiopian-fettuccine-kik-alicha--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:29:19.335Z"
+}
