@@ -1,0 +1,101 @@
+{
+  "slug": "zesty-hearty-argentinian-beef-stew--french",
+  "title": "French-Style Beef Stew",
+  "description": "A classic French-inspired beef stew made with tender beef and a rich, zesty broth. Perfect for a cold winter's night.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (cut into 1-inch cubes)",
+      "amount": "1 pound",
+      "notes": "Chuck or round work well"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and black pepper.",
+    "Dredge the beef in flour to coat.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and sear until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the carrot and celery to the pot and cook until tender, about 5 minutes.",
+    "Add the mustard, wine, broth, bay leaves, and thyme to the pot.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hearty-argentinian-beef-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:24:11.556Z"
+}
