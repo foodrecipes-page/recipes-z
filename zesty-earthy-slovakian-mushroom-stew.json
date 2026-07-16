@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-earthy-slovakian-mushroom-stew",
+  "title": "Slovakian Mushroom Stew",
+  "description": "A hearty and earthy stew originating from Slovakia, made with sautéed mushrooms and a zesty twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "2 cups",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Slovakian Sausage",
+      "amount": "1 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped carrot and cook for 5 minutes.",
+    "Add the chopped potato and cook for 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid.",
+    "Add the Slovakian sausage (if using), bacon (if using), and paprika.",
+    "Cook for 2 minutes.",
+    "Add the diced tomatoes, tomato paste, and red wine.",
+    "Stir well to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "slovakian",
+    "hearty",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-slovakian-mushroom-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:11:44.743Z"
+}
