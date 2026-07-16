@@ -5998,16 +5998,15 @@
   },
   {
     "slug": "zesty-gooey-gravy-german-sausage-casserole",
-    "title": "Zesty Gooey Gravy German Sausage Casserole",
+    "title": "German Sausage Casserole",
     "tags": [
-      "comfort-food",
       "german",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "sausage",
+      "comfort-food"
     ],
     "cuisine": "german",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -9504,17 +9503,16 @@
   },
   {
     "slug": "zesty-portuguese-tofu-stew",
-    "title": "Zesty Portuguese Tofu Stew",
+    "title": "Portuguese Stew with Tofu",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "portuguese-inspired",
-      "vegetarian",
-      "weeknight"
+      "portuguese",
+      "stew",
+      "tofu",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
