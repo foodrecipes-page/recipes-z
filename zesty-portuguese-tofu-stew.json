@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-portuguese-tofu-stew",
+  "title": "Portuguese Stew with Tofu",
+  "description": "A hearty and flavorful stew made with tofu, inspired by the traditional Portuguese cuisine. Perfect for a cold winter's night.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Zesty Portuguese Stew Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced potatoes and sliced carrots, cook for 5 minutes.",
+    "Add the pressed tofu, zesty Portuguese stew spice blend, tomato paste, and red wine (if using). Stir to combine.",
+    "Pour in the vegetable broth and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stew",
+    "tofu",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-portuguese-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:47:00.861Z"
+}
