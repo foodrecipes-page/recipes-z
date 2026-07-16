@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-pie--gluten-free",
+  "title": "Zesty Eastern Eggplant Delight",
+  "description": "A flavorful, gluten-free dish that combines the sweetness of eggplant with the zesty flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp zesty harissa"
+    },
+    {
+      "name": "eastern",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "pie",
+      "amount": "1 9-inch pie crust (gluten-free)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the eggplant into 1/2-inch thick slices and brush with olive oil.",
+    "Season with salt and bake for 15-20 minutes, or until tender.",
+    "In a separate pan, heat the zesty harissa over medium heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "To assemble, place a layer of eggplant slices in the pie crust.",
+    "Top with a layer of the zesty harissa mixture, followed by crumbled feta cheese.",
+    "Repeat the layers one more time, ending with a layer of feta cheese on top.",
+    "Bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "middle eastern",
+    "gluten-free",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-pie--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:58:08.226Z"
+}
