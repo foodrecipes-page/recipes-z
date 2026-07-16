@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-canadian-cashew-mousse--keto",
+  "title": "Canadian Cashew Mousse",
+  "description": "A creamy and rich keto dessert made with cashew cream and a hint of zesty flavor.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty Cream Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Powdered Sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Mousse",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak cashews in water for 4 hours. Drain and rinse.",
+    "Combine soaked cashews, cream cheese, powdered sweetener, egg, mousse, and vanilla extract in a blender.",
+    "Blend until smooth and creamy.",
+    "Pour into individual serving cups.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cashew-mousse",
+    "keto-dessert",
+    "cashew-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-cashew-mousse--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:37:51.388Z"
+}
