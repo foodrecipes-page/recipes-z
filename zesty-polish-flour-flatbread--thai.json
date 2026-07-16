@@ -1,0 +1,57 @@
+{
+  "slug": "zesty-polish-flour-flatbread--thai",
+  "title": "Thai-Style Zesty Flatbread",
+  "description": "A tasty Thai-inspired flatbread recipe with a zesty twist. Perfect for a quick snack or light meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zesty flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "polish flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine polish flour and water in a bowl to form a dough.",
+    "Knead the dough for about 5 minutes until it becomes smooth.",
+    "Divide the dough into 2-3 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Cook the flatbread in a dry pan over medium heat for about 2 minutes on each side.",
+    "Brush the flatbread with zesty sauce (store-bought or homemade).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "thai",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-polish-flour-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:01:16.538Z"
+}
