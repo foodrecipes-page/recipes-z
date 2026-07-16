@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-pie--thai",
+  "title": "Thai-Style Stuffed Eggplant",
+  "description": "A flavorful and aromatic Thai dish featuring eggplant stuffed with a zesty mixture of spices and herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "pie crust dough",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the eggplant in half lengthwise and scoop out the insides, leaving a shell about 1/4 inch thick.",
+    "In a bowl, mix together the middle eastern spices, zesty sauce, chopped cilantro, chopped scallions, and shredded mozzarella cheese.",
+    "Stuff each eggplant half with the spice mixture, dividing it evenly between the two.",
+    "Place the eggplant halves on a baking sheet lined with parchment paper and brush with coconut oil.",
+    "Roll out the pie crust dough to a thickness of about 1/8 inch and cut it into strips.",
+    "Place a strip of pie crust dough on top of each eggplant half, pressing the edges to seal.",
+    "Bake for 25-30 minutes, or until the eggplant is tender and the crust is golden brown.",
+    "Serve hot and garnish with additional chopped cilantro if desired.",
+    "Note: You can also use a pre-made pie crust or a different type of pastry crust if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "eggplant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:02:48.655Z"
+}
