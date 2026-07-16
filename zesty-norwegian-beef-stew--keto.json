@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-norwegian-beef-stew--keto",
+  "title": "Norwegian Beef Stew",
+  "description": "A hearty, keto beef stew with a twist of Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye), cut into 1-inch cubes",
+      "amount": "1.5 lbs",
+      "notes": "Choose a high-fat cut for keto"
+    },
+    {
+      "name": "Zesty Norwegian Beef Seasoning",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the beef"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large",
+      "notes": "Caramelize for depth of flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Mince for optimal flavor"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "For thickening the stew"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or low-sodium store-bought"
+    },
+    {
+      "name": "Heavy cream or half-and-half",
+      "amount": "1/2 cup",
+      "notes": "Optional for creaminess"
+    },
+    {
+      "name": "Fresh thyme, chopped",
+      "amount": "1 tsp",
+      "notes": "For added flavor and aroma"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and brown on all sides, about 5 minutes. Remove the browned beef from the pot and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil.",
+    "Add the diced onion and cook, stirring occasionally, until caramelized, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth, whisking continuously, and bring to a boil.",
+    "Return the browned beef to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours or until the beef is tender.",
+    "Remove from the oven and stir in the Norwegian Beef Seasoning, heavy cream or half-and-half (if using), and chopped thyme.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme and a side of cauliflower mash or a green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "keto",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-norwegian-beef-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:48:21.932Z"
+}
