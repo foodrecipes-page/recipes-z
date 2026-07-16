@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-irish-peas-stew--french",
+  "title": "Irish Pea Stew",
+  "description": "A hearty and comforting French-inspired stew made with tender Irish stew beef, fresh peas, and a hint of zesty flavor.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Stew Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Zesty Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Brown the Irish stew beef in a large Dutch oven over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the flour and cook for 1 minute.",
+    "Add the butter, peas, beef broth, salt, and pepper; stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peas",
+    "stew",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-peas-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:50:39.980Z"
+}
