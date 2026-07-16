@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-greek-brie-skillet--indian",
+  "title": "Indian Brie Skillet",
+  "description": "A flavorful skillet dish combining the richness of brie cheese with the spices of Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "1 wheel (8 oz)",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "zesty Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably non-stick"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the ghee or oil in the skillet over medium heat.",
+    "2. Add the cumin powder, coriander powder, and garam masala. Cook for 1 minute, stirring constantly.",
+    "3. Add the softened brie cheese and stir until melted and smooth.",
+    "4. Stir in the Greek yogurt until well combined.",
+    "5. Season with salt to taste.",
+    "6. Reduce heat to low and simmer for 5 minutes.",
+    "7. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "cheese",
+    "breakfast",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-brie-skillet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:03:57.979Z"
+}
