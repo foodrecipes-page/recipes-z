@@ -4366,17 +4366,15 @@
   },
   {
     "slug": "zesty-earthy-slovakian-mushroom-stew",
-    "title": "Zesty Earthy Slovakian Mushroom Stew",
+    "title": "Slovakian Mushroom Stew",
     "tags": [
-      "dairy-free",
-      "hearty-stew",
-      "lazy-sunday",
-      "mushroom-based",
-      "one-pot",
-      "vegetarian"
+      "mushroom",
+      "slovakian",
+      "hearty",
+      "stew"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -14865,6 +14863,44 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-peas-stew--french",
+    "title": "Irish Pea Stew",
+    "tags": [
+      "beef",
+      "peas",
+      "stew",
+      "main-course"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-polish-flour-flatbread--thai",
+    "title": "Thai-Style Zesty Flatbread",
+    "tags": [
+      "flatbread",
+      "thai",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-british-sausage-casserole--thai",
+    "title": "Thai Sausage Casserole",
+    "tags": [
+      "thai-inspired",
+      "satisfying-lunch",
+      "easy-to-make"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "z"
   }
 ]
