@@ -290,17 +290,14 @@
   },
   {
     "slug": "zero-fat-croatian-beef-dumplings",
-    "title": "Zero Fat Croatian Beef Dumplings",
+    "title": "Braised Beef in Croatian Dumplings",
     "tags": [
-      "croatian-cuisine",
-      "crumbly",
-      "low-fat",
-      "malty",
-      "midnight-craving",
-      "shojin-friendly"
+      "beef",
+      "croatian",
+      "dumplings"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 150,
     "shard": "z"
   },
   {
@@ -8195,18 +8192,16 @@
   },
   {
     "slug": "zesty-middle-eastern-eggplant-pie",
-    "title": "Zesty Middle Eastern Eggplant Pie",
+    "title": "Middle Eastern Stuffed Eggplant",
     "tags": [
-      "comforting",
-      "keto-friendly",
+      "eggplant",
       "middle-eastern",
-      "one-dish",
-      "pastry",
-      "sous-vide",
-      "zesty"
+      "pie",
+      "stuffed",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
