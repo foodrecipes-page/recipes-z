@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-smoky-russian-beef-pirozhki",
+  "title": "Smoky Beef Pirozhki",
+  "description": "A twist on traditional Russian pirozhki, filled with slow-cooked beef and spices.",
+  "cuisine": "russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Pirozhki dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Zesty Russian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the beef and onion over medium-high heat until browned.",
+    "Add zesty Russian spice blend, smoked paprika, and melted butter to the skillet.",
+    "Simmer the beef mixture for 10-15 minutes or until the flavors have melded together.",
+    "Roll out the pirozhki dough to a thickness of about 1/4 inch (6 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the beef mixture onto the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the pirozhki.",
+    "Place the pirozhki on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little bit of melted butter and bake for 15-20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    " russian",
+    "snack",
+    "pocket-pie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-russian-beef-pirozhki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:55:35.032Z"
+}
