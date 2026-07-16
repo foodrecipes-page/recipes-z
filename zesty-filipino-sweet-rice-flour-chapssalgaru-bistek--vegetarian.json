@@ -1,0 +1,59 @@
+{
+  "slug": "zesty-filipino-sweet-rice-flour-chapssalgaru-bistek--vegetarian",
+  "title": "Chapssalgaru Sweet Bites",
+  "description": "Sweet and crispy fried bites filled with a zesty Filipino-inspired filling, suitable for a vegetarian diet.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chapssalgaru",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sweet rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty filling (see notes)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine chapssalgaru and sweet rice flour in a bowl.",
+    "Add zesty filling and mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into small balls.",
+    "Heat vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Fry the dough balls until golden brown, about 2-3 minutes.",
+    "Drain excess oil on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "snack",
+    "filipino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-filipino-sweet-rice-flour-chapssalgaru-bistek--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:16:57.991Z"
+}
