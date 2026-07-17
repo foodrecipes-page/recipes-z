@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-claypot-middle-eastern-eggs-shakshuka--keto",
+  "title": "Shakshuka Middle Eastern Style Claypot",
+  "description": "A delicious and spicy Middle Eastern dish made with shakshuka and eggs, cooked in a claypot.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "shakshuka",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat the zesty in a claypot over medium heat.",
+    "Add the shakshuka and stir to coat with the zesty.",
+    "Add the middle eastern spices and stir to combine.",
+    "Pour the eggs into the claypot and transfer to the preheated oven.",
+    "Bake for 15-20 minutes or until the eggs are set.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shakshuka",
+    "middle eastern",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-claypot-middle-eastern-eggs-shakshuka--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:33:08.559Z"
+}
