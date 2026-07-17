@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-crisp-brazilian-onion-sushi--french",
+  "title": "Pan-Seared Sushi with Crispy Onion and Zesty Sauce",
+  "description": "A French-inspired dish combining the flavors of sushi with crispy onion and a tangy zesty sauce. Perfect as an appetizer or side dish.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons zesty sauce (homemade or store-bought)",
+      "notes": "Adjust the amount to taste"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1/4 cup chopped fresh cilantro (from Brazil)",
+      "notes": "Optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Slice the onion into rings and separate them.",
+    "2. Heat about 1/2 inch of oil in a pan over medium-high heat.",
+    "3. Add the onion slices and cook until crispy, about 3-4 minutes.",
+    "4. Remove the onions from the pan and set aside.",
+    "5. Cook the sushi according to package instructions or pan-fry it with a little oil.",
+    "6. In a small bowl, mix together the zesty sauce and a pinch of salt.",
+    "7. To assemble the dish, place the cooked sushi on a plate, top with crispy onion slices, and drizzle with zesty sauce.",
+    "8. Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "appetizer",
+    "snack",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-brazilian-onion-sushi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:44:29.321Z"
+}
