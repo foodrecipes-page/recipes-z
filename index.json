@@ -15109,5 +15109,42 @@
     "cuisine": "Dutch",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-brazilian-onion-sushi--french",
+    "title": "Pan-Seared Sushi with Crispy Onion and Zesty Sauce",
+    "tags": [
+      "french",
+      "appetizer",
+      "snack",
+      "sushi"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles--japanese",
+    "title": "Pan-Seared Crispy Noodles",
+    "tags": [
+      "japanese",
+      "noodles",
+      "crispy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-vietnamese-pork-goi-cuon--indian",
+    "title": "Indian-Style Pork Goi Cuon",
+    "tags": [
+      "indian",
+      "vietnamese",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
