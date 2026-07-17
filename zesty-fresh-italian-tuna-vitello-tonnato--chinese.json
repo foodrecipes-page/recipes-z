@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-fresh-italian-tuna-vitello-tonnato--chinese",
+  "title": "Tuna and Vitello Stir-Fry",
+  "description": "A Chinese-inspired dish featuring fresh tuna and vitello, stir-fried to perfection. This recipe is quick, easy, and packed with flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna fillets",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vitello (thinly sliced)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Italian zesty dressing",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tonnato sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of cooking oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced vitello and cook for 2-3 minutes, or until browned and cooked through.",
+    "Remove the vitello from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of cooking oil to the skillet, then add the minced garlic and grated ginger.",
+    "Cook for 1 minute, or until fragrant.",
+    "Add the tuna fillets to the skillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Return the vitello to the skillet and stir in the Italian zesty dressing, chopped cilantro, and tonnato sauce.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Serve the tuna and vitello stir-fry hot, garnished with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "stir-fry",
+    "seafood",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fresh-italian-tuna-vitello-tonnato--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:21:45.772Z"
+}
