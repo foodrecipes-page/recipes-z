@@ -8436,18 +8436,15 @@
   },
   {
     "slug": "zesty-molten-russian-kidney-beans-tacos",
-    "title": "zesty molten russian kidney beans tacos",
+    "title": "Russian Bean Tacos",
     "tags": [
-      "breakfast-for-dinner",
-      "fodmap-friendly",
-      "kidney-beans",
-      "molten",
-      "one-pan",
-      "russian",
-      "weeknight"
+      "tacos",
+      "russian-cuisine",
+      "vegetarian",
+      "beef-free"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -14995,6 +14992,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa--indian",
+    "title": "Pollo Tikka Masala",
+    "tags": [
+      "chicken",
+      "indian",
+      "tikka",
+      "masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "z"
   }
 ]
