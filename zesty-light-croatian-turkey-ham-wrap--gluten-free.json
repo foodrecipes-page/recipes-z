@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-light-croatian-turkey-ham-wrap--gluten-free",
+  "title": "Turkey and Ham Croatian Wrap",
+  "description": "A gluten-free twist on a classic wrap, this recipe combines the flavors of turkey, ham, and Croatian spices with a light and zesty wrap.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Turkey Breast",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ham",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zesty Spread",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Croatian Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "1. Lay the wrap flat on a clean surface.",
+    "2. Spread the zesty spread evenly over the wrap, leaving a 1-inch border on either side.",
+    "3. Arrange the sliced turkey and ham on top of the spread.",
+    "4. Sprinkle the Croatian seasoning over the meat.",
+    "5. Add the shredded lettuce and sliced tomato on top.",
+    "6. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "7. Slice in half and serve immediately.",
+    "8. Serve with your favorite sides, such as a side salad or a bowl of soup.",
+    "9. Consider adding some pickled vegetables or a dollop of tzatziki sauce for extra flavor.",
+    "10. Enjoy your delicious and easy Turkish-inspired wrap!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "wrap",
+    "gluten-free",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-croatian-turkey-ham-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:04:23.752Z"
+}
