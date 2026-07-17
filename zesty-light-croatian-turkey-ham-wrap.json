@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-light-croatian-turkey-ham-wrap",
+  "title": "Croatian Turkey Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with turkey, ham, and Croatian-inspired ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "poultry",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "250g",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ham",
+      "amount": "100g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Croatian wrap",
+      "amount": "4",
+      "notes": "Whole wheat or white"
+    },
+    {
+      "name": "Zesty coleslaw",
+      "amount": "200g",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Light mayonnaise",
+      "amount": "20g",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "10g",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Slice the turkey breast into thin strips.",
+    "Place a wrap on a clean surface and layer with sliced turkey, ham, and coleslaw.",
+    "Drizzle with light mayonnaise.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap.",
+    "Place the wrap in the panini press or grill and cook for 2-3 minutes or until crispy and golden brown.",
+    "Repeat with remaining ingredients.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkey",
+    "ham",
+    "wrap",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-croatian-turkey-ham-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:51:42.194Z"
+}
