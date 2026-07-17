@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-molten-russian-kidney-beans-tacos",
+  "title": "Russian Bean Tacos",
+  "description": "Spicy tacos filled with kidney beans, zesty sauce, and topped with molten cheese, inspired by Russian cuisine.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney Beans, drained and rinsed",
+      "amount": "1 can (15 oz)",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Zesty Sauce (Russian-inspired)",
+      "amount": "1/4 cup",
+      "notes": "Mix of ketchup, sour cream, and dill"
+    },
+    {
+      "name": "Tacos Shells",
+      "amount": "8-10 shells",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Molten Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup shredded",
+      "notes": "Melted for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add the kidney beans and cook until heated through.",
+    "Add the zesty sauce and stir to combine.",
+    "Warm the tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the bean mixture into the shells.",
+    "Top with molten cheese and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "russian-cuisine",
+    "vegetarian",
+    "beef-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-molten-russian-kidney-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:23:57.605Z"
+}
