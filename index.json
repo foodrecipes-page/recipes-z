@@ -15085,5 +15085,30 @@
     "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-juicy-filipino-taro-ginataang-bilo-bilo--vegan",
+    "title": "Vegan Taro and Bilo Fritters",
+    "tags": [
+      "vegan",
+      "filipino",
+      "snack",
+      "fried"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dutch-almond-broth--gluten-free",
+    "title": "Zesty Dutch Vegetable Stew",
+    "tags": [
+      "gluten-free",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
