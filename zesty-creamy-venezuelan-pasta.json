@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-creamy-venezuelan-pasta",
+  "title": "Creamy Zesty Pasta",
+  "description": "A simple and flavorful pasta dish with a zesty twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zesty sauce",
+      "amount": "8 oz",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "creamy cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the zesty sauce over medium heat.",
+    "Add the softened creamy cheese and stir until melted and smooth.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Drain the cooked pasta and add to the skillet with the cheese sauce.",
+    "Toss the pasta in the cheese sauce until well coated.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "creamy",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-creamy-venezuelan-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:21:07.365Z"
+}
