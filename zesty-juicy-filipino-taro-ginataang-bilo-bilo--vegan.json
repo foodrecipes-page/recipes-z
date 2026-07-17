@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-juicy-filipino-taro-ginataang-bilo-bilo--vegan",
+  "title": "Vegan Taro and Bilo Fritters",
+  "description": "A crispy and flavorful snack made with taro and bilo, perfect for vegans. This recipe is inspired by Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taro",
+      "amount": "2 medium, peeled and grated",
+      "notes": "Use taro that's not too starchy"
+    },
+    {
+      "name": "Bilo",
+      "amount": "1 cup, soaked overnight and drained",
+      "notes": "Bilo is a type of Filipino rice flour"
+    },
+    {
+      "name": "Ginataang",
+      "amount": "1/4 cup, grated",
+      "notes": "Ginataang is a type of Filipino coconut milk"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons, juice",
+      "notes": "Use zesty juice as a substitute for salt"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1/4 cup, chopped",
+      "notes": "Use any juicy fruit like mango or pineapple"
+    }
+  ],
+  "instructions": [
+    "Combine taro, bilo, ginataang, zesty juice, and juicy fruit in a large bowl.",
+    "Mix well until a dough forms.",
+    "Shape into small patties.",
+    "Heat a non-stick pan over medium heat.",
+    "Add a small amount of oil to the pan.",
+    "Fry the patties until golden brown and crispy.",
+    "Drain on paper towels.",
+    "Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "snack",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-juicy-filipino-taro-ginataang-bilo-bilo--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:44:38.664Z"
+}
