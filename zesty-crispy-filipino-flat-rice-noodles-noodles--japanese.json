@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles--japanese",
+  "title": "Pan-Seared Crispy Noodles",
+  "description": "A Japanese-inspired dish featuring crispy pan-seared noodles, served with a side of steamed rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "zesty seasoning blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the flat rice noodles and cook for 2-3 minutes, or until slightly browned.",
+    "Add the zesty seasoning blend and stir-fry for an additional minute.",
+    "Add the fresh noodles and stir-fry for 2-3 minutes, or until crispy and golden brown.",
+    "Serve hot with a side of steamed rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "noodles",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-filipino-flat-rice-noodles-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:09:47.514Z"
+}
