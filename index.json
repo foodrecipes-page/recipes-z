@@ -15058,5 +15058,32 @@
     "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-brazilian-chicken-skewers--chinese",
+    "title": "Grilled Chicken Skewers with Zesty Gooey Sauce",
+    "tags": [
+      "chinese",
+      "grilled",
+      "skewers",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-pillowy-algerian-beans-casserole--keto",
+    "title": "Baked Algerian Bean Casserole",
+    "tags": [
+      "keto",
+      "low-carb",
+      "north-african",
+      "casserole",
+      "bean"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
