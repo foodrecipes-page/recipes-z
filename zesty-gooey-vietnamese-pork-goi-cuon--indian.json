@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-gooey-vietnamese-pork-goi-cuon--indian",
+  "title": "Indian-Style Pork Goi Cuon",
+  "description": "A fusion of Indian and Vietnamese flavors, this dish brings a twist to the traditional pork spring rolls, with a zesty and gooey twist.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "vietnamese rice paper",
+      "amount": "8-10 sheets",
+      "notes": "Round"
+    },
+    {
+      "name": "goi leaves",
+      "amount": "4-6 leaves",
+      "notes": "Fresh"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "Slice"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "Grate"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the melted ghee over medium heat.",
+    "Add the cumin powder, coriander powder, and turmeric powder.",
+    "Add the ground pork and cook until browned.",
+    "Add the zesty sauce and stir well.",
+    "Soak the rice paper in water for about 5 minutes.",
+    "Assemble the spring rolls by placing a tablespoon of the pork mixture onto the center of a rice paper sheet.",
+    "Add a few slices of cucumber and carrot, and a goi leaf.",
+    "Fold the bottom half of the rice paper over the filling, then fold in the sides and roll up the spring roll.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with a zesty sauce.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vietnamese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-vietnamese-pork-goi-cuon--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:25:33.018Z"
+}
