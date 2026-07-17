@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-pillowy-algerian-beans-casserole--keto",
+  "title": "Baked Algerian Bean Casserole",
+  "description": "A flavorful and keto-compliant casserole featuring Algerian spices and beans. This dish is a great option for a low-carb meal.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat. Add garlic and onion and cook until softened.",
+    "Add zesty beans, Algerian spice blend, tomato paste, and chicken broth to the skillet. Bring to a simmer.",
+    "In a separate bowl, mix casserole pieces and feta cheese.",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "Add the bean mixture to the baking dish and top with the casserole-feta mixture.",
+    "Bake for 25-30 minutes or until the casserole is golden brown.",
+    "Let it rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "north-african",
+    "casserole",
+    "bean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-pillowy-algerian-beans-casserole--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:02:10.971Z"
+}
