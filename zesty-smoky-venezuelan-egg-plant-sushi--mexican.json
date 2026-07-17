@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-smoky-venezuelan-egg-plant-sushi--mexican",
+  "title": "Smoky Venezuelan Tacos",
+  "description": "A flavorful twist on traditional Mexican tacos, featuring smoky grilled plant and a side of zesty salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plant",
+      "amount": "1 medium",
+      "notes": "such as portobello or cremini"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "for the salsa"
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "1/4 cup",
+      "notes": "such as aji amarillo or pico de gallo"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1 tsp",
+      "notes": "such as chipotle or ancho chili powder"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1 tsp",
+      "notes": "such as lime juice or cilantro"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Optional toppings",
+      "amount": "such as avocado, sour cream, or cilantro"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together the Venezuelan, smoky, and zesty ingredients.",
+    "Grill the plant for 3-4 minutes per side, or until tender and lightly charred.",
+    "In a separate bowl, whisk together the egg, a splash of water, and a pinch of salt.",
+    "Heat a non-stick skillet over medium heat and add the egg mixture.",
+    "Cook the eggs until they are scrambled and set, breaking them up with a spatula as they cook.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a slice of grilled plant on a tortilla, topping with scrambled eggs, and serving with a side of the Venezuelan salsa.",
+    "Optional: top with avocado, sour cream, or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-venezuelan-egg-plant-sushi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:54:55.895Z"
+}
