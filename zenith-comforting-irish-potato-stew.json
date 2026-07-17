@@ -1,0 +1,70 @@
+{
+  "slug": "zenith-comforting-irish-potato-stew",
+  "title": "Irish Potato Stew",
+  "description": "A hearty and comforting Irish stew made with potatoes, stewing beef and vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stewing beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Brown the stewing beef in batches until browned on all sides.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped celery and cook for 2 minutes.",
+    "Add the potatoes and carrots, and cook for 5 minutes.",
+    "Add the browned beef back into the pot.",
+    "Pour in enough beef broth to cover the ingredients.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "comforting",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-comforting-irish-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:08:18.265Z"
+}
