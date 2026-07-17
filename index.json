@@ -15006,5 +15006,19 @@
     "cuisine": "indian",
     "totalTimeMin": 50,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-light-croatian-turkey-ham-wrap--gluten-free",
+    "title": "Turkey and Ham Croatian Wrap",
+    "tags": [
+      "turkish",
+      "wrap",
+      "gluten-free",
+      "easy",
+      "lunch"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 10,
+    "shard": "z"
   }
 ]
