@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-dutch-almond-broth--gluten-free",
+  "title": "Zesty Dutch Vegetable Stew",
+  "description": "A hearty and flavorful vegetarian stew made with the bold flavors of Dutch cuisine. This gluten-free stew is perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 large, peeled and cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Heat the Dutch broth in a large pot over medium heat.",
+    "Add the sliced almond and cook for 2-3 minutes until lightly toasted.",
+    "Add the onion, garlic, potatoes, carrots, and zucchini to the pot.",
+    "Stir in the zesty seasoning and cook for 1-2 minutes.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with additional sliced almonds and a sprinkle of zesty seasoning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dutch-almond-broth--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:11:49.171Z"
+}
