@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-smoky-slovakian-pork-skewers",
+  "title": "Slovakian Smoked Pork Skewers",
+  "description": "A flavorful and easy-to-make dish that combines the rich tastes of Slovakia with smoky barbecued pork.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "500g"
+    },
+    {
+      "name": "Slovakian zesty paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut pork into 1-inch cubes.",
+    "3. In a large bowl, mix together paprika, garlic, salt, and pepper.",
+    "4. Add pork cubes to the bowl and toss to coat with spice mixture.",
+    "5. Thread pork cubes onto skewers.",
+    "6. Brush skewers with olive oil.",
+    "7. Grill skewers for 8-10 minutes, turning occasionally, or until pork is cooked through.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "skewers",
+    "barbecue",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-slovakian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:03:14.068Z"
+}
