@@ -15033,5 +15033,18 @@
     "cuisine": "australian",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-fresh-italian-tuna-vitello-tonnato--chinese",
+    "title": "Tuna and Vitello Stir-Fry",
+    "tags": [
+      "chinese-cuisine",
+      "stir-fry",
+      "seafood",
+      "pescatarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
