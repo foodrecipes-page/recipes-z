@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-fresh-australian-tomato-soup--keto",
+  "title": "Australian Zesty Keto Soup",
+  "description": "A low-carb, keto-friendly soup made with fresh Australian ingredients and a zesty twist.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Tomato",
+      "amount": "2 medium",
+      "notes": " Fresh from the farm"
+    },
+    {
+      "name": "Fresh Zesty Herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped for extra flavor"
+    },
+    {
+      "name": "Low-Carb Soup Broth",
+      "amount": "4 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "For added richness and creaminess"
+    }
+  ],
+  "instructions": [
+    "Heat the low-carb soup broth in a large pot over medium heat.",
+    "Add the chopped fresh zesty herbs and let simmer for 5 minutes.",
+    "Add the sliced Australian tomato and cook for an additional 10 minutes.",
+    "Stir in the heavy cream and let simmer for 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and enjoy!",
+    "Optional: Add a sprinkle of grated cheese or a dollop of sour cream for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "keto",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fresh-australian-tomato-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:20:18.770Z"
+}
