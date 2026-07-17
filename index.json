@@ -2529,17 +2529,14 @@
   },
   {
     "slug": "zesty-creamy-venezuelan-pasta",
-    "title": "Zesty Creamy Venezuelan Pasta",
+    "title": "Creamy Zesty Pasta",
     "tags": [
-      "comfort-food",
-      "flambe",
-      "gluten-free",
       "pasta",
-      "venezuelan",
-      "whole30"
+      "creamy",
+      "zesty"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -7540,17 +7537,15 @@
   },
   {
     "slug": "zesty-light-croatian-turkey-ham-wrap",
-    "title": "Zesty Light Croatian Turkey Ham Wrap",
+    "title": "Croatian Turkey Wrap",
     "tags": [
-      "croatian-cuisine",
-      "easy-wraps",
-      "jain-friendly",
-      "light-meals",
-      "spring-recipes",
-      "wine-infused"
+      "turkey",
+      "ham",
+      "wrap",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -14974,6 +14969,31 @@
       "smoky"
     ],
     "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-claypot-middle-eastern-eggs-shakshuka--keto",
+    "title": "Shakshuka Middle Eastern Style Claypot",
+    "tags": [
+      "shakshuka",
+      "middle eastern",
+      "eggs"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-venezuelan-egg-plant-sushi--mexican",
+    "title": "Smoky Venezuelan Tacos",
+    "tags": [
+      "mexican",
+      "vegan",
+      "lunch",
+      "dinner"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "z"
   }
