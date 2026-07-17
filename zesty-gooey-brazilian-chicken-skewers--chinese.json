@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-gooey-brazilian-chicken-skewers--chinese",
+  "title": "Grilled Chicken Skewers with Zesty Gooey Sauce",
+  "description": "A Chinese-inspired dish featuring marinated chicken skewers grilled to perfection and served with a zesty gooey sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "zesty gooey sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine zesty gooey sauce, soy sauce, honey, rice vinegar, sesame oil, garlic, and ginger. Blend until smooth.",
+    "Cut chicken breast into 1-inch pieces and thread onto skewers.",
+    "Brush chicken with marinade and season with salt and pepper.",
+    "Grill chicken for 10-12 minutes or until cooked through.",
+    "Serve chicken with additional zesty gooey sauce for dipping.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grilled",
+    "skewers",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-brazilian-chicken-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:41:57.025Z"
+}
