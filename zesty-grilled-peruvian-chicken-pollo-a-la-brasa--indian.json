@@ -1,0 +1,103 @@
+{
+  "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa--indian",
+  "title": "Pollo Tikka Masala",
+  "description": "A classic Indian-inspired dish made with marinated chicken cooked in a creamy tomato sauce. Serve over basmati rice for a flavorful and aromatic meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/4 teaspoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in yogurt, lemon juice, garam masala, cumin powder, and coriander powder for at least 30 minutes.",
+    "Heat oil in a pan over medium-high heat and grill the chicken until browned and cooked through.",
+    "In the same pan, add onion, ginger, cinnamon, cardamom, and cayenne pepper and sauté until the onion is translucent.",
+    "Add tomato puree and stir to combine.",
+    "Simmer the sauce for 10-15 minutes or until it thickens.",
+    "Add the grilled chicken to the sauce and stir to combine.",
+    "Serve the Pollo Tikka Masala over basmati rice and garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "tikka",
+    "masala"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grilled-peruvian-chicken-pollo-a-la-brasa--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:08:46.915Z"
+}
