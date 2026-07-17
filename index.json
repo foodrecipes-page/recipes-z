@@ -65,16 +65,14 @@
   },
   {
     "slug": "zenith-comforting-irish-potato-stew",
-    "title": "Zenith Comforting Irish Potato Stew",
+    "title": "Irish Potato Stew",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "irish",
+      "comforting",
+      "stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 75,
     "shard": "z"
   },
   {
@@ -15045,6 +15043,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-moroccan-black-pudding-tagine--french",
+    "title": "Moroccan Chicken Tagine",
+    "tags": [
+      "moroccan",
+      "french",
+      "chicken",
+      "tagine",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
     "shard": "z"
   }
 ]
