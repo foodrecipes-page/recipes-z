@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-flatbread--chinese",
+  "title": "Eggplant Stir Fry with Flatbread",
+  "description": "A Chinese-inspired dish using eggplant and flatbread for a unique twist on traditional stir-fry.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 slices",
+      "notes": "Crispy or soft, your choice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger, stir-frying for 1 minute until fragrant.",
+    "Add the eggplant, stirring to coat with the oil and seasonings.",
+    "Cook the eggplant for 3-4 minutes, until it starts to soften.",
+    "Add the soy sauce, and stir-fry for another minute.",
+    "Meanwhile, cook the flatbread slices in a separate pan or toaster until crispy.",
+    "Serve the eggplant stir-fry with flatbread slices on the side, garnished with sesame oil if desired.",
+    "Optional: add additional toppings such as scallions or bean sprouts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "stir-fry",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:50:11.213Z"
+}
