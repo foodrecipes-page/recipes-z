@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-hearty-irish-sausage-stir-fry--indian",
+  "title": "Indian Sausage Stir Fry",
+  "description": "A flavorful and spicy Indian-inspired stir fry made with sausage and hearty vegetables. Best served with basmati rice or naan bread.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zesty Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the onion, bell pepper, and tomato. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato paste and stir to combine.",
+    "Add the stir fry sauce and stir to combine. Cook for an additional 1-2 minutes.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "sausage",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hearty-irish-sausage-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:05:51.967Z"
+}
