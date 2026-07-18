@@ -15320,5 +15320,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-fresh-australian-tomato-soup--german",
+    "title": "Tomato Zesty German Soup",
+    "tags": [
+      "german",
+      "soup",
+      "tomato",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
