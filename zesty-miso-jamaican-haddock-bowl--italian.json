@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-miso-jamaican-haddock-bowl--italian",
+  "title": "Italian-Style Baked Haddock",
+  "description": "A flavorful Italian-inspired dish featuring pan-seared haddock baked with a zesty miso glaze.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "zesty miso paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place haddock fillets on the baking sheet.",
+    "Mix zesty miso paste and Jamaican allspice (if using) in a small bowl.",
+    "Brush the miso glaze over the haddock fillets.",
+    "Bake for 12-15 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Serve immediately with a side of your choice in a bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-miso-jamaican-haddock-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:45:44.318Z"
+}
