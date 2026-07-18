@@ -1,0 +1,61 @@
+{
+  "slug": "zealous-slovakian-millet-pilaf--vegan",
+  "title": "Slovakian Millet Pilaf",
+  "description": "A hearty and comforting Slovakian-inspired pilaf made with millet, perfect for a satisfying vegan meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Zealous",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add millet and cook for 2-3 minutes, until lightly toasted.",
+    "Add cooked pilaf, zealous, and Slovakian parsley. Stir to combine.",
+    "Add 2 cups of water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until millet is tender.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "millet",
+    "pilaf",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zealous-slovakian-millet-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:08:12.349Z"
+}
