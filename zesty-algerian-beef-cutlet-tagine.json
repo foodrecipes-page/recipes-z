@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-algerian-beef-cutlet-tagine",
+  "title": "Beef Tagine with Zesty Flair",
+  "description": "A twist on the classic North African dish, this beef tagine is marinated in a zesty blend of spices and slow-cooked to perfection.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Cutlet",
+      "amount": "1",
+      "notes": "1 pound, thinly sliced"
+    },
+    {
+      "name": "Algerian Tagine Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Zesty Marinade",
+      "amount": "1/4 cup",
+      "notes": "Mix of lemon juice, olive oil, garlic, and herbs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Dissolved in 2 tablespoons of water"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together zesty marinade, Algerian tagine spice blend, salt, and black pepper. Add sliced beef and refrigerate for at least 30 minutes.",
+    "Heat a large Dutch oven over medium-high heat. Remove beef from marinade and cook until browned, about 2-3 minutes per side.",
+    "Add onion, garlic, and ginger to the pot and cook until onion is translucent, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add chicken broth and bring to a boil. Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "beef",
+    "slow-cooked",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-algerian-beef-cutlet-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:46:09.948Z"
+}
