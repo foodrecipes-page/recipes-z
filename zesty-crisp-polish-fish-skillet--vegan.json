@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-crisp-polish-fish-skillet--vegan",
+  "title": "Crispy Vegan Skillet",
+  "description": "A flavorful and crunchy vegan skillet dish made with polish sausages and served with a side of tangy zesty slaw.",
+  "cuisine": "american",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "polish sausages",
+      "amount": "1 package (about 4 sausages)",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "vegan oil",
+      "amount": "2 tablespoons",
+      "notes": "such as avocado or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zesty slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the skillet over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook for 5 minutes.",
+    "Add the sliced tomato and cook for an additional 2 minutes.",
+    "Add the polish sausages and cook for 5-7 minutes on each side, until crispy and golden brown.",
+    "Serve the sausages hot with the zesty slaw on the side.",
+    "Garnish with additional slaw if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "skillet",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-polish-fish-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:18:37.895Z"
+}
