@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-korean-prawns-toast--thai",
+  "title": "Thai Prawn Toast",
+  "description": "A simple and delicious Thai-inspired snack featuring succulent prawns on toasted bread.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12 large prawns, peeled and deveined"
+    },
+    {
+      "name": "Zesty Zing Sauce",
+      "amount": "2 tablespoons (see notes)",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices of white bread"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1-2 cm of vegetable oil in a deep frying pan over medium heat.",
+    "2. Meanwhile, toast the bread slices until lightly browned. Set aside.",
+    "3. In a separate pan, heat the zesty zing sauce over low heat.",
+    "4. Add the Korean chili flakes to the zesty zing sauce and stir to combine.",
+    "5. Add the prawns to the zesty zing sauce and cook until pink and slightly charred.",
+    "6. Assemble the prawn toast by placing a prawn on each toasted bread slice.",
+    "7. Spoon the remaining zesty zing sauce over the prawns.",
+    "8. Serve immediately and enjoy!",
+    "9. Note: You can also bake the prawns in a preheated oven at 180°C (350°F) for 8-10 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "snack",
+    "prawns",
+    "tofu-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-prawns-toast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:30:41.456Z"
+}
