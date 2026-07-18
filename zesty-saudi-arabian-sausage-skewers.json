@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-saudi-arabian-sausage-skewers",
+  "title": "Saudi-Style Sausage Skewers",
+  "description": "A flavorful and aromatic dish from the Middle East, featuring juicy sausages grilled to perfection on skewers.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages (4-6)",
+      "amount": "1 pound",
+      "notes": "preferably lamb or beef"
+    },
+    {
+      "name": "Saudian Skewers (10-12)",
+      "amount": "1 package",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Arabian Zesty Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Soak the skewers in water for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Arabian Zesty Spice Mix and lemon juice.",
+    "Thread the sausages onto the skewers, leaving a small space between each sausage.",
+    "Brush the skewers with the spice and lemon mixture.",
+    "Grill the skewers for 8-10 minutes per side, or until the sausages are cooked through.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "meat",
+    "middle-eastern"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:07:55.681Z"
+}
