@@ -15221,5 +15221,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-hearty-irish-sausage-stir-fry--japanese",
+    "title": "Irish Sausage Stir Fry",
+    "tags": [
+      "irish-sausage",
+      "japanese-cuisine",
+      "stir-fry",
+      "quick-meal"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
