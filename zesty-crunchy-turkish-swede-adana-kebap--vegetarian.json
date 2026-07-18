@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-crunchy-turkish-swede-adana-kebap--vegetarian",
+  "title": "Swedish Stuffed Turkish-Style Bread",
+  "description": "A vegetarian twist on traditional Turkish bread, filled with a crunchy vegetable mix.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1/2 cup",
+      "notes": "finely chopped fresh parsley"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup",
+      "notes": "chopped fresh cucumber"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4-6 slices",
+      "notes": "day-old bread"
+    },
+    {
+      "name": "Adana kebab seasoning",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix the grated swede, chopped parsley, and chopped cucumber in a bowl.",
+    "Cut the Turkish bread slices in half lengthwise.",
+    "Spoon the swede mixture onto the bottom half of each bread slice.",
+    "Sprinkle Adana kebab seasoning to taste.",
+    "Place the bread slices on a baking sheet and bake for 10 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "turkish",
+    "bread",
+    "swede"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-turkish-swede-adana-kebap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:14:34.611Z"
+}
