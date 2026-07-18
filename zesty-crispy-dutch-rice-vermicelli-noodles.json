@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-crispy-dutch-rice-vermicelli-noodles",
+  "title": "Crispy Vermicelli Stir Fry",
+  "description": "A quick and easy stir fry made with vermicelli noodles, crispy elements, and a hint of Dutch flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "zesty sauce (store-bought)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy onions (store-bought)",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "Add the crispy onions and cook for 1 minute, until crispy.",
+    "Add the vermicelli noodles and cook for 2-3 minutes, until slightly browned.",
+    "Add the zesty sauce, Dutch mustard, and soy sauce. Stir well.",
+    "Cook for an additional 1-2 minutes, until the noodles are well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "noodles",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-dutch-rice-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:47:58.336Z"
+}
