@@ -15146,5 +15146,31 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-vietnamese-pork-goi-cuon--french",
+    "title": "Vietnamese-Style Pork Goi Cuon",
+    "tags": [
+      "vietnamese",
+      "spring-rolls",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-italian-beef-kidney-piadina--keto",
+    "title": "Italian Beef Piadina Rolls",
+    "tags": [
+      "italian",
+      "beef",
+      "keto",
+      "rolls"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 200,
+    "shard": "z"
   }
 ]
