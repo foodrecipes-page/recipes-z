@@ -15198,5 +15198,18 @@
     "cuisine": "tunisian",
     "totalTimeMin": 10,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-tunisian-pineapple-bowl--vegan",
+    "title": "Vegan Zesty Pineapple Bowl",
+    "tags": [
+      "vegan",
+      "snack",
+      "fruit",
+      "granola"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 5,
+    "shard": "z"
   }
 ]
