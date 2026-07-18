@@ -15234,5 +15234,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-yeasty-venezuelan-corn-tagine--thai",
+    "title": "Thai Corn Fritters",
+    "tags": [
+      "thai",
+      "corn-fritters",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
