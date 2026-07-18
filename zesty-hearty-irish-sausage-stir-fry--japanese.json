@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-hearty-irish-sausage-stir-fry--japanese",
+  "title": "Irish Sausage Stir Fry",
+  "description": "A hearty and flavorful Japanese-inspired stir fry with Irish sausage, perfect for a quick weeknight meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Zesty stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups, cooked"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add sliced Irish sausage and cook until browned, about 3-4 minutes.",
+    "Add mixed bell peppers and onion, and cook until tender, about 4-5 minutes.",
+    "Add zesty stir-fry sauce and cook for an additional 1-2 minutes.",
+    "Stir in cooked Japanese rice and cook for 1-2 minutes, until heated through.",
+    "Season with soy sauce to taste.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-sausage",
+    "japanese-cuisine",
+    "stir-fry",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-hearty-irish-sausage-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:07:13.520Z"
+}
