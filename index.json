@@ -15295,5 +15295,30 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-mexican-tomato-tacos--indian",
+    "title": "Tomato and Tacos Tadka",
+    "tags": [
+      "indian",
+      "mexican",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-korean-prawns-toast--thai",
+    "title": "Thai Prawn Toast",
+    "tags": [
+      "thai",
+      "snack",
+      "prawns",
+      "tofu-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
