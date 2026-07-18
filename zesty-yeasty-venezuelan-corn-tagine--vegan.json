@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-yeasty-venezuelan-corn-tagine--vegan",
+  "title": "Venezuelan Corn Fritters (Vegan)",
+  "description": "Crispy on the outside and fluffy on the inside, these corn fritters are a delicious vegan twist on a traditional Venezuelan dish.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan egg replacement",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegan flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "herbs",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine corn, tagine, yeasty, and zesty.",
+    "Add vegan egg replacement and mix until a dough forms.",
+    "Add flour and mix until a thick batter forms.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a spoon, drop small amounts of the batter into the pan.",
+    "Cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve hot with your favorite dipping sauce.",
+    "Optional: Garnish with herbs and a sprinkle of salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "latinamerican",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-venezuelan-corn-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:48:38.346Z"
+}
