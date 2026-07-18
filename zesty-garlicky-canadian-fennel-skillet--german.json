@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-garlicky-canadian-fennel-skillet--german",
+  "title": "German Sausage Skillet with Fennel",
+  "description": "A hearty and flavorful German-inspired skillet dish featuring sausage, fennel, and a hint of garlicky goodness.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Skillet Sausages",
+      "amount": "4",
+      "notes": "Pre-cooked, German-style sausages"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Zesty Mustard",
+      "amount": "2 tbsp",
+      "notes": "German-style mustard"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the Canadian bacon and cook until browned, about 3-4 minutes.",
+    "Add the sliced fennel and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the skillet sausages and cook until browned, about 5 minutes.",
+    "Stir in the zesty mustard and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "skillet",
+    "breakfast",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-canadian-fennel-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:08:32.987Z"
+}
