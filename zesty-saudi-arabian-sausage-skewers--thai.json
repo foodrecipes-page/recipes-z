@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-saudi-arabian-sausage-skewers--thai",
+  "title": "Spicy Sausage Skewers with Saudi Arabian Zesty Sauce",
+  "description": "A fusion of Thai and Saudi Arabian flavors, these spicy sausage skewers are served with a zesty sauce for a delicious and aromatic meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "500g",
+      "notes": "Thai-style spicy sausage"
+    },
+    {
+      "name": "Saudi Arabian Zesty Sauce",
+      "amount": "200ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Zesty Herb",
+      "amount": "1/4 cup",
+      "notes": "Chopped, from Saudi Arabian Zesty Sauce"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Soak skewers in water for 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Cut sausage into bite-sized pieces.",
+    "Thread sausage onto skewers, leaving a small space between each piece.",
+    "Brush skewers with coconut oil.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, mix Saudi Arabian Zesty Sauce with minced garlic, grated ginger, fish sauce, and soy sauce (if using).",
+    "Brush sauce onto skewers during last minute of grilling.",
+    "Serve skewers hot with additional Saudi Arabian Zesty Sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "saudi-arabian",
+    "spicy",
+    "skewers",
+    "grilled",
+    "fusion-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-sausage-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:08:23.996Z"
+}
