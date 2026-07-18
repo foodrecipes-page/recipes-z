@@ -1,0 +1,92 @@
+{
+  "slug": "zenith-nutty-chinese-pork-bao",
+  "title": "Bao Pork Buns",
+  "description": "A delicious Chinese-inspired dish featuring pork and soft bao buns. This recipe is perfect for a quick dinner or lunch.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 package of Bao Buns",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "1 pound ground pork",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped scallions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon Chinese five-spice powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "In a large bowl, combine pork, scallions, garlic, soy sauce, sesame oil, sugar, five-spice powder, salt, and pepper. Mix well until just combined. Do not overmix.",
+    "Spoon about 1/4 cup of the pork mixture onto the center of each bao bun.",
+    "Steam the buns for 5-7 minutes, or until they are soft and cooked through.",
+    "Serve the buns hot, garnished with additional scallions if desired.",
+    "Note: You can also pan-fry the bao buns with a small amount of oil until crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "bao",
+    "steamed",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zenith-nutty-chinese-pork-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:17:05.743Z"
+}
