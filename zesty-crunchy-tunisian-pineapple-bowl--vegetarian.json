@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-crunchy-tunisian-pineapple-bowl--vegetarian",
+  "title": "Tunisian Crudités",
+  "description": "A refreshing and crunchy vegetarian crudités dish inspired by Tunisian cuisine, perfect for a light snack or side.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian olives",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Zesty hummus",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy pita chips",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bowl for serving",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the carrots, cucumber, and red bell pepper into bite-sized sticks.",
+    "Serve the crudités in a bowl with the zesty hummus and crunchy pita chips on the side.",
+    "Garnish with fresh parsley and pineapple chunks.",
+    "Enjoy as a healthy and refreshing snack!",
+    "You can also serve with additional Tunisian olives for extra flavor.",
+    "For an added crunch, sprinkle some additional crunchy pita chips on top.",
+    "Consider serving with a side of Tunisian flatbread for a more filling snack.",
+    "Adjust the amount of zesty hummus to your liking, and enjoy!",
+    "This dish is best served immediately, but can be refrigerated for up to 2 hours before serving.",
+    "If you have any leftovers, consider serving as a topping for a salad or wrap.",
+    "Feel free to customize this recipe to your liking with your favorite vegetables and dips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crudités",
+    "tunisian",
+    "vegetarian",
+    "snack",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-tunisian-pineapple-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:53:39.437Z"
+}
