@@ -10349,16 +10349,14 @@
   },
   {
     "slug": "zesty-saudi-arabian-sausage-skewers",
-    "title": "Zesty Saudi-Arabian Sausage Skewers",
+    "title": "Saudi-Style Sausage Skewers",
     "tags": [
-      "easy-to-make",
       "grilled",
-      "high-protein",
-      "sausage",
-      "weeknight"
+      "meat",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 33,
     "shard": "z"
   },
   {
@@ -15210,6 +15208,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 5,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-hearty-irish-sausage-stir-fry--indian",
+    "title": "Indian Sausage Stir Fry",
+    "tags": [
+      "indian",
+      "sausage",
+      "stir-fry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
