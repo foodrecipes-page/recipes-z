@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-crispy-mexican-tomato-tacos",
+  "title": "Crispy Taco Recipe",
+  "description": "A flavorful and crispy taco recipe, easy to make and delicious to eat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mexican Zesty Tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tacos Shredded Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Taco Seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Cut tortillas into quarters and cook in batches until crispy.",
+    "Drain on a paper towel and season with taco seasoning.",
+    "Sauté diced onions and shredded lettuce in a pan until softened.",
+    "Assemble tacos with crispy tortillas, sautéed onions and lettuce, shredded cheese, and salsa.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "mexican",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-mexican-tomato-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:56:36.414Z"
+}
