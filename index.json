@@ -15341,5 +15341,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-garlicky-canadian-fennel-skillet--german",
+    "title": "German Sausage Skillet with Fennel",
+    "tags": [
+      "german",
+      "skillet",
+      "breakfast",
+      "sausages"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
