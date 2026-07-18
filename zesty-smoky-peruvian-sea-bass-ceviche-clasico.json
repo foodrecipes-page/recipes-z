@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-smoky-peruvian-sea-bass-ceviche-clasico",
+  "title": "Peruvian-Style Ceviche",
+  "description": "A refreshing and flavorful dish made with raw fish marinated in citrus juices, mixed with onions, peppers, and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Peruvian ceviche clasico marinade",
+      "amount": "1 cup",
+      "notes": "Zesty and smoky"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the sea bass into small pieces and place in a shallow dish.",
+    "Pour the Peruvian ceviche clasico marinade over the fish and refrigerate for at least 30 minutes.",
+    "Just before serving, stir in the red onion, aji amarillo peppers, garlic, and cilantro.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Note: Raw fish should be handled and stored safely to avoid foodborne illness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "seafood",
+    "peruvian",
+    "ceviche",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-peruvian-sea-bass-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:18:54.477Z"
+}
