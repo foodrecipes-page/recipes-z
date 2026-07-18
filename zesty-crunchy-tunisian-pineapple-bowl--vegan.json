@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-crunchy-tunisian-pineapple-bowl--vegan",
+  "title": "Vegan Zesty Pineapple Bowl",
+  "description": "A refreshing and crunchy vegan pineapple bowl recipe.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Tunisian olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Crunchy vegan granola",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1/4 cup",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Cut the pineapple into chunks and place them in a bowl.",
+    "Pit the Tunisian olives and slice them in half.",
+    "Sprinkle the crunchy vegan granola over the pineapple.",
+    "Squeeze the zesty lemon juice over the top.",
+    "Garnish with fresh basil leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "fruit",
+    "granola"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-tunisian-pineapple-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:53:48.150Z"
+}
