@@ -15172,5 +15172,31 @@
     "cuisine": "Italian",
     "totalTimeMin": 200,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-polish-fish-skillet--vegan",
+    "title": "Crispy Vegan Skillet",
+    "tags": [
+      "vegan",
+      "skillet",
+      "american"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-tunisian-pineapple-bowl--vegetarian",
+    "title": "Tunisian Crudités",
+    "tags": [
+      "crudités",
+      "tunisian",
+      "vegetarian",
+      "snack",
+      "healthy"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 10,
+    "shard": "z"
   }
 ]
