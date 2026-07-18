@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-winey-norwegian-lamb-stew",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty stew made with Norwegian lamb and a zesty twist.",
+  "cuisine": "norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Zesty mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Stew beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb in batches, then set aside.",
+    "Add more oil if needed, then sauté onion and garlic until softened.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add red wine, scraping up browned bits.",
+    "Return lamb to the pot, add broth and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 2 hours.",
+    "Stir in zesty mustard and season with salt and pepper.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-winey-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:33:05.973Z"
+}
