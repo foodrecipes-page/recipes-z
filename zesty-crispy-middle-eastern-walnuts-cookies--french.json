@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-crispy-middle-eastern-walnuts-cookies--french",
+  "title": "Crispy French Walnut Cookies",
+  "description": "Classic French cookies with a crunchy walnut twist. Enjoy as a snack or dessert.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cookies",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "orange zest"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "crispy fried onions"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Whisk together the flour, sugar, and salt in a medium bowl.",
+    "Add the softened butter to the dry ingredients and mix until a dough forms.",
+    "Stir in the crushed cookies, chopped walnuts, and crispy fried onions.",
+    "Beat in the eggs until the dough is smooth.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place the cookies on the prepared baking sheet, leaving about 1 inch of space between each cookie.",
+    "Bake for 12-15 minutes, or until the edges are lightly golden.",
+    "Cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "walnuts",
+    "cookies",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-middle-eastern-walnuts-cookies--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:54:52.517Z"
+}
