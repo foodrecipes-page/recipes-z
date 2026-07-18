@@ -15245,5 +15245,47 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-egyptian-oats-pilaf--mexican",
+    "title": "Egyptian-Style Oat Pilaf",
+    "tags": [
+      "mexican",
+      "oatmeal",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-saudi-arabian-sausage-skewers--thai",
+    "title": "Spicy Sausage Skewers with Saudi Arabian Zesty Sauce",
+    "tags": [
+      "thai",
+      "saudi-arabian",
+      "spicy",
+      "skewers",
+      "grilled",
+      "fusion-cuisine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-herb-tunisian-jalapeno-tagine--italian",
+    "title": "Spicy Tagine Chicken Italian-Style",
+    "tags": [
+      "italian",
+      "chicken",
+      "tagine",
+      "spicy",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
