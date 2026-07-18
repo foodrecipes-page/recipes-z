@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-crispy-mexican-tomato-tacos--indian",
+  "title": "Tomato and Tacos Tadka",
+  "description": "A fusion of Indian and Mexican flavors, this dish combines the spices of India with the crunch of tacos. A flavorful and spicy tadka topped with fresh tomatoes and crispy tacos.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "tacos (corn)",
+      "amount": "4-6",
+      "notes": "crispy"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "Indian zesty sauce"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add zesty sauce and cook for 1 minute.",
+    "Add mexican oregano and cook for 1 minute.",
+    "Add diced tomatoes and cook until they start to soften.",
+    "Top with crispy tacos.",
+    "Serve hot.",
+    "Garnish with cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-mexican-tomato-tacos--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:59:29.188Z"
+}
