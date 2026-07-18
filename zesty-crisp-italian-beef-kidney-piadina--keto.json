@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-crisp-italian-beef-kidney-piadina--keto",
+  "title": "Italian Beef Piadina Rolls",
+  "description": "A keto Italian-inspired dish featuring slow-cooked beef in a crispy piadina roll.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "piadina",
+      "amount": "4-6 sheets",
+      "notes": null
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp",
+      "notes": "Olive oil and herbs"
+    },
+    {
+      "name": "kidney",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "Dried oregano and basil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the beef into thin strips and season with salt and pepper.",
+    "In a large skillet, heat the Italian seasonings over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Transfer the beef to a slow cooker and add 1 cup of beef broth.",
+    "Cook on low for 2-3 hours or until tender.",
+    "Meanwhile, roll out the piadina into thin sheets.",
+    "Slice the cooked beef into thin strips.",
+    "Assemble the rolls by placing a few strips of beef onto each sheet of piadina.",
+    "Roll up the piadina and serve garnished with chopped kidney and a sprinkle of zesty seasonings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "keto",
+    "rolls"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-italian-beef-kidney-piadina--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:33:08.826Z"
+}
