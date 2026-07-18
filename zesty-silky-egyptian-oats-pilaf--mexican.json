@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-silky-egyptian-oats-pilaf--mexican",
+  "title": "Egyptian-Style Oat Pilaf",
+  "description": "A flavorful and hearty Mexican-inspired oat pilaf dish, incorporating Egyptian spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "Egyptian-style"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "Mexican seasoning"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large saucepan over medium-high heat.",
+    "Add 1 cup of Egyptian-style pilaf and cook, stirring frequently, until lightly toasted.",
+    "Add 1 cup of oats and cook, stirring frequently, for 2 minutes.",
+    "Add 1 tsp of zesty Mexican seasoning and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 10 minutes, or until oats have absorbed liquid and pilaf is tender.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "oatmeal",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-egyptian-oats-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:45:40.741Z"
+}
