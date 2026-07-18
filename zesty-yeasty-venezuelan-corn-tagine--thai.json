@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-yeasty-venezuelan-corn-tagine--thai",
+  "title": "Thai Corn Fritters",
+  "description": "Crispy and sweet Thai corn fritters made with a hint of zesty flavor. Perfect as a snack or appetizer.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Venezuelan Yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "Zesty Breading",
+      "amount": "1 cup",
+      "notes": "cornmeal, flour, and spices"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine corn, yeast, and 1 cup of warm water. Let it sit for 10 minutes, or until foamy.",
+    "2. Add zesty breading and mix well.",
+    "3. Heat 2 cups of vegetable oil in a deep frying pan over medium-high heat.",
+    "4. Using a spoon, drop small balls of the corn mixture into the hot oil.",
+    "5. Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "6. Remove the fritters from the oil and place them on a paper towel to drain excess oil.",
+    "7. Sprinkle with salt and sugar to taste.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "corn-fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-yeasty-venezuelan-corn-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:28:57.670Z"
+}
