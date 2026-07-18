@@ -13730,17 +13730,15 @@
   },
   {
     "slug": "zesty-winey-norwegian-lamb-stew",
-    "title": "Zesty Winey Norwegian Lamb Stew",
+    "title": "Norwegian Lamb Stew",
     "tags": [
-      "hearty-stews",
-      "lamb-recipes",
-      "mediterranean-diet",
-      "norwegian-cuisine",
-      "pomegranate-recipes",
-      "winter-recipes"
+      "norwegian",
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 180,
+    "cuisine": "norwegian",
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
