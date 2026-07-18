@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-fresh-australian-tomato-soup--german",
+  "title": "Tomato Zesty German Soup",
+  "description": "A hearty German soup with the added zing of fresh tomatoes and Australian zesty spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian zesty spices",
+      "amount": "2 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "3 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Crusty German bread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the zesty spices in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the vegetable broth, tomato paste, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes.",
+    "Add the diced tomatoes and cook for an additional 5-7 minutes, until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped parsley and crusty German bread on the side.",
+    "Garnish with additional zesty spices, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "soup",
+    "tomato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "8g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fresh-australian-tomato-soup--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:34:00.249Z"
+}
