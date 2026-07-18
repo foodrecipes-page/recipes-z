@@ -1,0 +1,99 @@
+{
+  "slug": "zesty-smoky-herb-tunisian-jalapeno-tagine--italian",
+  "title": "Spicy Tagine Chicken Italian-Style",
+  "description": "A fusion of Italian and North African flavors in this spicy chicken dish, made with a smoky tagine and a kick of heat from jalapeno.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.75 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zesty tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": "available in most Italian markets"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "herb butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "italian breadcrumbs",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with salt, black pepper, and zesty tagine spice blend.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Sear the chicken for 2-3 minutes per side, then transfer to a baking dish.",
+    "Top the chicken with sliced jalapeno peppers and herb butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, toss the cherry tomatoes with a pinch of salt and a drizzle of olive oil.",
+    "Roast the tomatoes in the oven for 10-12 minutes, or until tender.",
+    "To serve, top the chicken with roasted tomatoes, chopped fresh basil, and grated parmesan cheese.",
+    "Serve with a side of Italian breadcrumbs for a crunchy garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "tagine",
+    "spicy",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-herb-tunisian-jalapeno-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:14:54.100Z"
+}
