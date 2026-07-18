@@ -11486,18 +11486,17 @@
   },
   {
     "slug": "zesty-smoky-peruvian-sea-bass-ceviche-clasico",
-    "title": "Zesty Smoky Peruvian Sea Bass Ceviche Clasico",
+    "title": "Peruvian-Style Ceviche",
     "tags": [
-      "ceviche",
-      "low-carb",
-      "peruvian-cuisine",
+      "fish",
       "seafood",
-      "smoky",
-      "wood-fired",
-      "zesty"
+      "peruvian",
+      "ceviche",
+      "gluten-free",
+      "vegan"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -15328,6 +15327,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-eggplant-flatbread--chinese",
+    "title": "Eggplant Stir Fry with Flatbread",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "stir-fry",
+      "eggplant"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "z"
   }
 ]
