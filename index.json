@@ -202,17 +202,16 @@
   },
   {
     "slug": "zenith-nutty-chinese-pork-bao",
-    "title": "Zenith Nutty Chinese Pork Bao",
+    "title": "Bao Pork Buns",
     "tags": [
-      "chinese-food",
-      "flexitarian",
-      "one-dish",
-      "pork-recipes",
-      "terraccotta-dish",
-      "weeknight"
+      "chinese",
+      "pork",
+      "bao",
+      "steamed",
+      "quick"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 42,
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -1418,17 +1417,14 @@
   },
   {
     "slug": "zesty-briny-ethiopian-chicken-dulet",
-    "title": "Zesty Briny Ethiopian Chicken Dulet",
+    "title": "Dulet Stew with Spicy Zesty Kick",
     "tags": [
-      "ethiopian-cuisine",
-      "grilled-chicken",
-      "high-protein",
-      "one-pan",
-      "spicy-food",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
