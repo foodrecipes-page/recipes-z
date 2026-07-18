@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-gooey-vietnamese-pork-goi-cuon--french",
+  "title": "Vietnamese-Style Pork Goi Cuon",
+  "description": "Delicate Vietnamese spring rolls filled with tender pork, fresh herbs, and crunchy vegetables, served with a sweet and tangy dipping sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "Vietnamese rice paper wrappers",
+      "amount": "1 package",
+      "notes": "Found in most Asian grocery stores"
+    },
+    {
+      "name": "Goi",
+      "amount": "1 bunch",
+      "notes": "Fresh herbs, such as mint, basil, or cilantro"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a small pan, heat the vegetable oil over medium heat.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, and sugar.",
+    "Add the soy sauce mixture to the pork mixture and stir to combine.",
+    "To assemble the spring rolls, lay a rice paper wrapper on a clean surface.",
+    "Place a small amount of the pork mixture in the center of the wrapper.",
+    "Add a few fresh herbs on top of the pork mixture.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with a sweet and tangy dipping sauce, made by whisking together equal parts water and sugar in a small bowl.",
+    "Bring the mixture to a boil in a small saucepan over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove from heat and let cool to room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-vietnamese-pork-goi-cuon--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:32:11.121Z"
+}
