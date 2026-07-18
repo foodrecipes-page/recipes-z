@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-briny-ethiopian-chicken-dulet",
+  "title": "Dulet Stew with Spicy Zesty Kick",
+  "description": "A flavorful and spicy stew originating from Ethiopia, made with dulet, zesty, and briny flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dulet",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Briny feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the dulet and cook until browned.",
+    "Add the zesty sauce, chili powder, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the briny feta cheese.",
+    "Serve the stew hot, garnished with additional zesty sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-briny-ethiopian-chicken-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:12:20.626Z"
+}
