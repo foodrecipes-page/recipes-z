@@ -659,17 +659,15 @@
   },
   {
     "slug": "zesty-algerian-beef-cutlet-tagine",
-    "title": "Zesty Algerian Beef Cutlet Tagine",
+    "title": "Beef Tagine with Zesty Flair",
     "tags": [
-      "beef",
-      "clay-cooking",
-      "dinner-ideas",
-      "flexitarian",
       "north-african",
-      "one-pot"
+      "beef",
+      "slow-cooked",
+      "tagine"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "z"
   },
   {
