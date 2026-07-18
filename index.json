@@ -15354,5 +15354,55 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-turkish-swede-adana-kebap--vegetarian",
+    "title": "Swedish Stuffed Turkish-Style Bread",
+    "tags": [
+      "vegetarian",
+      "turkish",
+      "bread",
+      "swede"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-miso-jamaican-haddock-bowl--italian",
+    "title": "Italian-Style Baked Haddock",
+    "tags": [
+      "italian",
+      "fish",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-yeasty-venezuelan-corn-tagine--vegan",
+    "title": "Venezuelan Corn Fritters (Vegan)",
+    "tags": [
+      "vegan",
+      "latinamerican",
+      "snack"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zealous-slovakian-millet-pilaf--vegan",
+    "title": "Slovakian Millet Pilaf",
+    "tags": [
+      "slovakian",
+      "millet",
+      "pilaf",
+      "vegan"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
