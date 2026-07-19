@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-flaky-jamaican-amaretti-fritters",
+  "title": "Jamaican Jerk Chicken Fritters",
+  "description": "A Caribbean-inspired snack with spicy jerk seasoning and crispy fried chicken fritters. Serve with a side of tangy mango salsa.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fritters (store-bought or homemade)",
+      "amount": "1 package"
+    },
+    {
+      "name": "amaretti cookies (crushed)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mango (diced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion (diced)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    1,
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    2,
+    "In a large bowl, mix together the chicken, flour, jerk seasoning, and a pinch of salt.",
+    3,
+    "Using your hands, shape the mixture into small balls and flatten them slightly into fritters.",
+    4,
+    "Carefully place the fritters into the hot oil and fry for 3-4 minutes on each side, or until golden brown.",
+    5,
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    6,
+    "In a separate bowl, mix together the mango, red onion, lime juice, and crushed amaretti cookies.",
+    7,
+    "To assemble the snack, place the fried fritters on a serving platter and spoon the mango salsa over the top.",
+    8,
+    "Serve immediately and enjoy!",
+    9,
+    "Note: You can also bake the fritters in a preheated oven at 375°F (190°C) for 12-15 minutes, or until cooked through.",
+    10,
+    "For an extra crispy coating, sprinkle the fritters with crushed amaretti cookies before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "chicken",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-jamaican-amaretti-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:39:48.268Z"
+}
