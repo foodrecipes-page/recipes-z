@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-velvety-saudi-arabian-date-pudding--chinese",
+  "title": "Saudi Arabian Date Pudding with Chinese Twist",
+  "description": "A unique fusion dessert that combines the creamy texture of Saudi date pudding with Chinese flavors.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12-15",
+      "notes": "pitted"
+    },
+    {
+      "name": "saudi pudding mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "zesty ginger syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "velvety soy milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "arabian honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine pitted dates, 1 cup of water, and 1 tsp of arabian honey. Bring to a boil, then reduce heat and simmer for 10-12 minutes, or until dates are tender.",
+    "In a blender, combine cooked dates, 1 package of saudi pudding mix, 1 cup of velvety soy milk, and 2 tbsp of zesty ginger syrup. Blend until smooth.",
+    "Pour the pudding mixture into individual serving cups or ramekins.",
+    "Bake for 20-25 minutes, or until the edges are set and the centers are slightly jiggly.",
+    "Remove from oven and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-fusion",
+    "date- pudding",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-saudi-arabian-date-pudding--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:24:15.622Z"
+}
