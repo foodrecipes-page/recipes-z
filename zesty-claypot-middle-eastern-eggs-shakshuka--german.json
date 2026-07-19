@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-claypot-middle-eastern-eggs-shakshuka--german",
+  "title": "Middle Eastern Shakshuka with a Twist",
+  "description": "A German-inspired twist on the classic Middle Eastern dish, featuring eggs poached in a flavorful claypot tomato sauce.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Claypot",
+      "amount": "1 large"
+    },
+    {
+      "name": "Middle Eastern shakshuka sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Zesty feta cheese",
+      "amount": "1/4 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Crack the eggs into a bowl and set aside.",
+    "Heat the claypot over medium heat and add the shakshuka sauce.",
+    "Bring the sauce to a simmer and let it cook for 5 minutes.",
+    "Create 2 wells in the sauce and gently place the eggs into them.",
+    "Transfer the claypot to the preheated oven and bake for 12-15 minutes, or until the eggs are cooked to your liking.",
+    "Remove the claypot from the oven and sprinkle the crumbled feta cheese over the top.",
+    "Return the claypot to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the claypot from the oven and let it cool for a few minutes.",
+    "Serve the shakshuka hot, garnished with chopped fresh herbs if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "middle-eastern",
+    "breakfast",
+    "eggs",
+    "shakshuka"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-claypot-middle-eastern-eggs-shakshuka--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:11:15.948Z"
+}
