@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-smoky-kenyan-chicken-flatbread--german",
+  "title": "Kenyan Chicken Schnitzel",
+  "description": "A German-inspired twist on traditional Kenyan chicken, served with crispy flatbread and a side of zesty coleslaw.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most international grocery stores"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "zesty aioli",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "optional, but recommended for added depth"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, kenyan spice blend, and a pinch of salt.",
+    "2. In a separate dish, beat the eggs.",
+    "3. Season the chicken breasts with salt and pepper.",
+    "4. Dip each chicken breast in the flour mixture, coating both sides evenly.",
+    "5. Dip the floured chicken breast in the beaten eggs, making sure to coat completely.",
+    "6. Place the coated chicken breast on a plate or tray.",
+    "7. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "8. Add 2-3 chicken breasts to the skillet and cook for about 5-6 minutes on each side, or until golden brown and cooked through.",
+    "9. Repeat with the remaining chicken breasts.",
+    "10. Meanwhile, toast the flatbread slices until crispy and golden brown.",
+    "11. Serve the chicken schnitzel with toasted flatbread and a side of zesty aioli for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "kenyan",
+    "chicken",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-kenyan-chicken-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:59:40.484Z"
+}
