@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-slovakian-pork-stew--keto",
+  "title": "Keto Slovakian Stew",
+  "description": "A hearty and flavorful Slovakian-inspired stew made with pork and served as a comforting keto meal. This recipe combines the rich flavors of traditional Slovakian cuisine with the benefits of a ketogenic diet.",
+  "cuisine": "slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty slovakian sausage",
+      "amount": "1/2 pound",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "3 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "make sure it's low-carb"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's sugar-free"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the sausage to the pot and cook until browned, about 3 minutes.",
+    "Add the onion, carrots, celery, and garlic to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the beef broth and tomato paste to the pot and stir to combine.",
+    "Return the pork to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "slovakian",
+    "beef",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-pork-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:32:14.802Z"
+}
