@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-smoky-spanish-celery-fabada-asturiana",
+  "title": "Asturian Fabada with Smoky Flair",
+  "description": "A hearty Spanish stew originating from the Asturias region, elevated with smoky flavors and a kick of zesty spice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fabada Asturiana Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spanish Sausage",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zesty Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dry White Wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced Spanish sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the remaining 1 tablespoon olive oil, then sauté the chopped celery until tender, about 5 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Fabada Asturiana Rice, smoked paprika, smoked salt, and white wine to the pot. Stir to combine.",
+    "Return the cooked sausage to the pot, then stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and cover the pot.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stew",
+    "lunch",
+    "heartyprepare",
+    "asturian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-spanish-celery-fabada-asturiana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:13:45.120Z"
+}
