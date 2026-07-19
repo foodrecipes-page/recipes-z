@@ -1811,17 +1811,15 @@
   },
   {
     "slug": "zesty-charred-indian-shrimp-rogan-josh",
-    "title": "Zesty Charred Indian Shrimp Rogan Josh",
+    "title": "Charred Shrimp Rogan Josh",
     "tags": [
-      "gluten-free",
-      "indian-cuisine",
-      "one-pan",
-      "seafood",
-      "spicy",
-      "weeknight"
+      "indian",
+      "shrimp",
+      "rogan-josh",
+      "charred-tomatoes"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "z"
   },
   {
@@ -15440,6 +15438,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-saudi-arabian-date-pudding--chinese",
+    "title": "Saudi Arabian Date Pudding with Chinese Twist",
+    "tags": [
+      "chinese-fusion",
+      "date- pudding",
+      "saudi-arabian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "z"
   }
 ]
