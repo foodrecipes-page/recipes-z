@@ -15413,5 +15413,33 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-claypot-middle-eastern-eggs-shakshuka--german",
+    "title": "Middle Eastern Shakshuka with a Twist",
+    "tags": [
+      "german",
+      "middle-eastern",
+      "breakfast",
+      "eggs",
+      "shakshuka"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-mexican-palm-sugar-mole-poblano--french",
+    "title": "Pan-Seared Poblano with Mole Glaze",
+    "tags": [
+      "french",
+      "mole",
+      "poblano",
+      "glazed",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
