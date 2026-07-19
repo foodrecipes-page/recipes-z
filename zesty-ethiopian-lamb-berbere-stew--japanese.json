@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-ethiopian-lamb-berbere-stew--japanese",
+  "title": "Berbere Lamb Stew",
+  "description": "A twist on traditional Japanese stews, this Berbere Lamb Stew brings a bold and aromatic flavor profile reminiscent of Ethiopian cuisine. Perfect for a hearty dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and sliced",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes, peeled and cubed",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Japanese soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes. Remove from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and carrots until they start to soften, about 5 minutes.",
+    "Add the potatoes, Berbere spice, soy sauce, and brown sugar. Cook for 1 minute.",
+    "Add the sake and water, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "ethiopian",
+    "berbere",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-lamb-berbere-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:16:43.412Z"
+}
