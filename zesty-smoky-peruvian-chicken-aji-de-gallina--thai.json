@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-smoky-peruvian-chicken-aji-de-gallina--thai",
+  "title": "Peruvian-Style Chicken Stir Fry",
+  "description": "A flavorful Thai-inspired dish with a Peruvian twist, featuring chicken and Peruvian aji amarillo peppers.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2, diced",
+      "notes": "roasted"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches, sliced",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the galangal and cook for 2 minutes.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the aji amarillo peppers, smoky paprika, lime juice, chicken broth, fish sauce, and brown sugar.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "peruvian",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-peruvian-chicken-aji-de-gallina--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:05:54.750Z"
+}
