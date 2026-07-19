@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-umami-canadian-beef-poutine--vegan",
+  "title": "Vegan Poutine Fritters",
+  "description": "A twist on the classic Canadian dish, these vegan poutine fritters are perfect for a snack or appetizer.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Zesty Potatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ummi-Flavored Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Canned Poutine",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Beef-Free Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Breading",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, mash the tofu, mashed potatoes, ummi-flavored lentils, and nutritional yeast until well combined.",
+    "Add the canned poutine, beef-free broth, and vegan breading to the mixture. Stir until a thick batter forms.",
+    "Using a cookie scoop or spoon, drop the batter onto a baking sheet lined with parchment paper.",
+    "Bake the fritters for 15-20 minutes or until golden brown.",
+    "Serve hot with your favorite toppings, such as additional poutine or a dollop of vegan sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "canadian",
+    "snack",
+    "fritters",
+    "poutine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-umami-canadian-beef-poutine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:26:52.136Z"
+}
