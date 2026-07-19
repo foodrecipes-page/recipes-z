@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-saudia-rice-flour-pancakes",
+  "title": "Zesty Pancakes with Saudi-Style Syrup",
+  "description": "Delicious pancakes with a twist of zesty flavor, topped with a sweet Saudi-style syrup.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zesty mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saudia",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pancakes",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine zesty mix, saudia, and rice flour.",
+    "Gradually add in water to form a smooth batter.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop 1/4 cup of batter onto the pan to form a pancake.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip and cook for another 1-2 minutes or until golden brown.",
+    "Meanwhile, prepare the Saudi-style syrup by heating saudia and water in a saucepan.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Serve pancakes with the syrup and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "middle-eastern",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudia-rice-flour-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:26:59.735Z"
+}
