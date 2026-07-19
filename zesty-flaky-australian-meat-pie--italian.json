@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-flaky-australian-meat-pie--italian",
+  "title": "Australian Meat Pie",
+  "description": "A twist on the classic Italian meat pie, incorporating Australian flavors. Perfect for a hearty dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "zesty tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "flaky puff pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated mozzarella",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Roll out puff pastry to a thickness of 3mm.",
+    "Place the rolled-out pastry in a pie dish.",
+    "In a pan over medium heat, cook the beef mince until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Season the beef mixture with salt and black pepper.",
+    "Transfer the beef mixture to the pie dish and top with grated mozzarella.",
+    "Cover the pie with the remaining puff pastry and crimp the edges to seal.",
+    "Cut a few slits in the top of the pie to allow steam to escape.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the pastry is golden brown.",
+    "Let the pie rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meat",
+    "italian",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-australian-meat-pie--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:22:44.345Z"
+}
