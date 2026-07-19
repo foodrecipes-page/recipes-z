@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-earthy-uruguayan-cheese-empanadas",
+  "title": "Uruguayan Empanadas with Zesty Cheese Filling",
+  "description": "A twist on traditional empanadas, this recipe combines the earthy flavors of Uruguay with a zesty cheese filling.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada Dough",
+      "amount": "2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Uruguayan Cheese (Queso Fresco)",
+      "amount": "1 block",
+      "notes": "Crumbly, white cheese"
+    },
+    {
+      "name": "Zesty Cheese Filling (Queso con Aji)",
+      "amount": "1 cup",
+      "notes": "Mix of Queso Fresco, diced onion, and chopped fresh cilantro"
+    },
+    {
+      "name": "Earthly Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Mix of dried oregano, cumin, and paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the Zesty Cheese Filling in the center of each dough circle.",
+    "Brush the edges of the dough with olive oil.",
+    "Fold the dough in half to form a half-moon shape, pressing the edges to seal.",
+    "Brush the tops of the empanadas with olive oil.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Garnish with chopped fresh cilantro and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanadas",
+    "cheese",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-uruguayan-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:36:19.138Z"
+}
