@@ -3610,17 +3610,15 @@
   },
   {
     "slug": "zesty-crunchy-irish-lamb-stew",
-    "title": "Zesty Crunchy Irish Lamb Stew",
+    "title": "Traditional Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stews",
-      "irish-food",
-      "lamb-recipes",
-      "low-sodium",
-      "one-pot-meals"
+      "irish",
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -15482,6 +15480,46 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-kenyan-chicken-flatbread--german",
+    "title": "Kenyan Chicken Schnitzel",
+    "tags": [
+      "german",
+      "kenyan",
+      "chicken",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-slovakian-meat-stew--vegetarian",
+    "title": "Slovakian Vegetable Stew",
+    "tags": [
+      "slovakian",
+      "vegetarian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ethiopian-steak-atakilt-wat--german",
+    "title": "Traditional German-Style Steak with Ethiopian Atakilt",
+    "tags": [
+      "german",
+      "ethiopian",
+      "fusion",
+      "steak",
+      "atakilt"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "z"
   }
 ]
