@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-german-chicken-stew--vegan",
+  "title": "German Vegan Stew",
+  "description": "A hearty, comforting stew made with traditional German flavors and plant-based ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced onions and cook until softened, about 5 minutes.",
+    "Add sliced mushrooms and cook until browned, about 5 minutes.",
+    "Add diced carrots and potatoes, and cook for 5 minutes.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 20 minutes.",
+    "Stir in canned tomatoes and apple cider vinegar.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "german",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-german-chicken-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:10:39.290Z"
+}
