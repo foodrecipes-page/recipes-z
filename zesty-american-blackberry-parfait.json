@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-american-blackberry-parfait",
+  "title": "Blackberry Parfait",
+  "description": "A simple and sweet dessert made with fresh blackberries, layered with creamy yogurt and crunchy granola.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh blackberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "6 oz"
+    },
+    {
+      "name": "granola",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parfait glasses or bowls",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the yogurt and honey until well combined.",
+    "Wash and hull the blackberries, and set them aside.",
+    "Layer a parfait glass or bowl with a spoonful of the yogurt mixture.",
+    "Top the yogurt with a spoonful of blackberries.",
+    "Sprinkle a spoonful of granola over the blackberries.",
+    "Repeat the layers two more times, ending with a layer of granola on top.",
+    "Serve immediately and enjoy!",
+    "You can also prepare the parfait ahead of time and store it in the refrigerator for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blackberry",
+    "parfait",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-american-blackberry-parfait",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:57:38.544Z"
+}
