@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-springy-norwegian-lamb-skillet--french",
+  "title": "Pan-Seared Lamb Chops with French Flair",
+  "description": "A French-inspired dish featuring lamb chops pan-seared to perfection, served with a side of springy vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb chops",
+      "amount": "4-6",
+      "notes": "1.5-2 pounds"
+    },
+    {
+      "name": "Springy vegetables (such as asparagus or bell peppers)",
+      "amount": "1 bunch",
+      "notes": "depending on size"
+    },
+    {
+      "name": "Zesty lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Norwegian skillet",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the Norwegian skillet over medium-high heat.",
+    "Season the lamb chops with salt and pepper.",
+    "Add a tablespoon of olive oil to the skillet and sear the lamb chops for 2-3 minutes per side.",
+    "Transfer the lamb chops to a plate and set aside to rest.",
+    "Add the remaining tablespoon of olive oil to the skillet and sauté the springy vegetables for 3-4 minutes.",
+    "Serve the lamb chops with the springy vegetables and a squeeze of zesty lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "asparagus",
+    "lemon",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-springy-norwegian-lamb-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:13:40.336Z"
+}
