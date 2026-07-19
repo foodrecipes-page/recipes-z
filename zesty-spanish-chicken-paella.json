@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish made with chicken, zesty saffron, and a variety of vegetables. This paella recipe is a staple of Spanish cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless and skinless",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Zesty saffron",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the onion, bell pepper, and tomato to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, saffron, smoked paprika, salt, and pepper to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Add the cooked chicken back to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the chicken is heated through.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:36:37.434Z"
+}
