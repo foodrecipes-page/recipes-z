@@ -15532,5 +15532,18 @@
     "cuisine": "Japanese",
     "totalTimeMin": 170,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-springy-norwegian-lamb-skillet--french",
+    "title": "Pan-Seared Lamb Chops with French Flair",
+    "tags": [
+      "lamb",
+      "asparagus",
+      "lemon",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
+    "shard": "z"
   }
 ]
