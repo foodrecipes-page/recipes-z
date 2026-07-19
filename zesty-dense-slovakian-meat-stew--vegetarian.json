@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-dense-slovakian-meat-stew--vegetarian",
+  "title": "Slovakian Vegetable Stew",
+  "description": "A hearty Slovakian-inspired stew made with a variety of vegetables and served with a side of crusty bread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian Stew Meat (substituted with Portobello Mushrooms)",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Dense Potatoes",
+      "amount": "2 medium diced",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Carrots",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add sliced mushrooms and cook until they start to brown.",
+    "Add diced potatoes, sliced carrots, vegetable broth, tomato paste, and dried thyme.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve with crusty bread for dipping in the stew broth.",
+    "Enjoy your hearty Slovakian Vegetable Stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "vegetarian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-slovakian-meat-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:08:52.955Z"
+}
