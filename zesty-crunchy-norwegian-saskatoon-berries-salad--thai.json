@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-crunchy-norwegian-saskatoon-berries-salad--thai",
+  "title": "Thai Berry Salad",
+  "description": "A refreshing Thai-inspired salad featuring saskatoon berries as the star ingredient. Perfect for a light and healthy snack or lunch.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Norwegian Feta",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai Zesty Dressing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Salad Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed salad greens, thinly sliced red onion, and chopped cilantro.",
+    "In a separate bowl, whisk together Thai zesty dressing and crumbled Norwegian feta.",
+    "Gently fold in saskatoon berries and crunchy peanuts into the dressing mixture.",
+    "Pour the dressing over the salad greens mixture and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "berries"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-norwegian-saskatoon-berries-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:08:56.498Z"
+}
