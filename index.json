@@ -701,18 +701,15 @@
   },
   {
     "slug": "zesty-american-blackberry-parfait",
-    "title": "Zesty American Blackberry Parfait",
+    "title": "Blackberry Parfait",
     "tags": [
-      "american",
-      "citrus",
-      "diabetic-friendly",
-      "hangover-cure",
-      "low-sugar",
+      "blackberry",
       "parfait",
-      "quick"
+      "dessert",
+      "easy"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 15,
+    "cuisine": "american",
+    "totalTimeMin": 10,
     "shard": "z"
   },
   {
@@ -11529,16 +11526,15 @@
   },
   {
     "slug": "zesty-smoky-slovakian-pork-skewers",
-    "title": "Slovakian Smoked Pork Skewers",
+    "title": "Slovakian Pork Skewers",
     "tags": [
       "slovakian",
       "pork",
       "skewers",
-      "barbecue",
-      "easy-meal"
+      "grilled"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 36,
     "shard": "z"
   },
   {
@@ -15450,6 +15446,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-saudi-arabian-jerusalem-artichoke-tagine--keto",
+    "title": "Jerusalem Artichoke Tagine",
+    "tags": [
+      "keto",
+      "middle eastern",
+      "artichokes",
+      "tagine"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "z"
   }
 ]
