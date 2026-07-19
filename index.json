@@ -15460,5 +15460,19 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-umami-canadian-beef-poutine--vegan",
+    "title": "Vegan Poutine Fritters",
+    "tags": [
+      "vegan",
+      "canadian",
+      "snack",
+      "fritters",
+      "poutine"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
