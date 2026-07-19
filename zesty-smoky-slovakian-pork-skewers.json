@@ -1,72 +1,85 @@
 {
   "slug": "zesty-smoky-slovakian-pork-skewers",
-  "title": "Slovakian Smoked Pork Skewers",
-  "description": "A flavorful and easy-to-make dish that combines the rich tastes of Slovakia with smoky barbecued pork.",
+  "title": "Slovakian Pork Skewers",
+  "description": "A flavorful and easy-to-make dish featuring tender pork skewers with a Slovakian twist. Perfect for a quick dinner or outdoor gathering.",
   "cuisine": "Slovakian",
   "diet": [
-    "meat-based"
+    "meat",
+    "gluten-free"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Pork shoulder, boneless",
-      "amount": "500g"
+      "name": "pork shoulder, thinly sliced",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
     },
     {
-      "name": "Slovakian zesty paprika",
-      "amount": "2 tbsp"
+      "name": "zesty yogurt marinade",
+      "amount": "1 cup",
+      "notes": "see instructions for recipe"
     },
     {
-      "name": "Smoked paprika",
-      "amount": "1 tsp"
+      "name": "smoky paprika",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
     },
     {
-      "name": "Garlic, minced",
-      "amount": "2 cloves"
+      "name": "slovakian sausage, sliced",
+      "amount": "1/2 pound",
+      "notes": "optional"
     },
     {
-      "name": "Olive oil",
-      "amount": "2 tbsp"
+      "name": "onion, sliced",
+      "amount": "1 large",
+      "notes": "for added flavor"
     },
     {
-      "name": "Salt",
-      "amount": "to taste"
+      "name": "bell pepper, sliced",
+      "amount": "1 large",
+      "notes": "any color"
     },
     {
-      "name": "Black pepper",
-      "amount": "to taste"
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
     }
   ],
   "instructions": [
-    "1. Preheat grill to medium-high heat.",
-    "2. Cut pork into 1-inch cubes.",
-    "3. In a large bowl, mix together paprika, garlic, salt, and pepper.",
-    "4. Add pork cubes to the bowl and toss to coat with spice mixture.",
-    "5. Thread pork cubes onto skewers.",
-    "6. Brush skewers with olive oil.",
-    "7. Grill skewers for 8-10 minutes, turning occasionally, or until pork is cooked through.",
-    "8. Serve hot and enjoy!"
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt marinade ingredients (see below) and add sliced pork. Cover and refrigerate for at least 30 minutes.",
+    "Thread pork, sausage, onion, and bell pepper onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "Serve hot with additional yogurt marinade for serving, if desired.",
+    "Yogurt Marinade: Mix together 1 cup plain yogurt, 2 tablespoons zesty sauce, 1 tablespoon smoky paprika, and 1 minced garlic clove.",
+    "Adjust marinade to taste and add additional ingredients as desired.",
+    "Let skewers rest for 5 minutes before serving."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 10,
-  "totalTimeMin": 25,
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "slovakian",
     "pork",
     "skewers",
-    "barbecue",
-    "easy-meal"
+    "grilled"
   ],
   "nutrition": {
     "calories": 420,
     "protein": 35,
-    "carbs": 5,
-    "fat": 28
+    "carbs": 10,
+    "fat": 24
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-slovakian-pork-skewers",
   "providerUsed": "groq",
-  "createdAt": "2026-07-15T21:03:14.068Z"
+  "createdAt": "2026-07-17T03:55:49.190Z"
 }
