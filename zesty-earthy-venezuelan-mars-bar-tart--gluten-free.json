@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-earthy-venezuelan-mars-bar-tart--gluten-free",
+  "title": "Venezuelan Zesty Rice Bowl",
+  "description": "A flavorful and nutritious dish inspired by Venezuelan cuisine, made with gluten-free ingredients. This zesty rice bowl is perfect for a quick and easy lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bar Rice",
+      "amount": "2 cups",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Venezuelan Zesty Sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Earthly Black Beans",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Marsweet Corn",
+      "amount": "1 cup",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Tart Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Gluten-free Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add the black beans and cook until heated through.",
+    "Add the Marsweet Corn and cook for 2-3 minutes.",
+    "Add the Tart Cherry Tomatoes and cook for an additional 2 minutes.",
+    "Stir in the Venezuelan Zesty Sauce and cook for 1-2 minutes.",
+    "Add the cooked Bar Rice to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "rice-bowl",
+    "latin",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-venezuelan-mars-bar-tart--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:20:25.310Z"
+}
