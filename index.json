@@ -4917,17 +4917,15 @@
   },
   {
     "slug": "zesty-flaky-jamaican-amaretti-fritters",
-    "title": "Zesty Flaky Jamaican Amaretti Fritters",
+    "title": "Jamaican Jerk Chicken Fritters",
     "tags": [
-      "coconut-based",
-      "deep-fried",
-      "gluten-free",
-      "jamaican-cuisine",
-      "snack-recipes",
-      "whole30"
+      "caribbean",
+      "chicken",
+      "fritters",
+      "snack"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -15473,6 +15471,18 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-norwegian-saskatoon-berries-salad--thai",
+    "title": "Thai Berry Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "berries"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
     "shard": "z"
   }
 ]
