@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-charred-indian-shrimp-rogan-josh",
+  "title": "Charred Shrimp Rogan Josh",
+  "description": "A flavorful twist on traditional Indian Rogan Josh, featuring succulent charred shrimp, aromatic spices, and a rich, slightly sweet tomato sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "charred tomatoes",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rogan josh spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "zesty cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion, garlic, and ginger; cook until onion is lightly browned.",
+    "Add shrimp; cook until pink and just cooked through.",
+    "Add charred tomatoes, Rogan Josh spice blend, salt, and black pepper.",
+    "Simmer for 5-7 minutes or until sauce has thickened.",
+    "Stir in cilantro.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "shrimp",
+    "rogan-josh",
+    "charred-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-indian-shrimp-rogan-josh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:01:49.183Z"
+}
