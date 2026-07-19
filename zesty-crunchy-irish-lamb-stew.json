@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-crunchy-irish-lamb-stew",
+  "title": "Traditional Irish Lamb Stew",
+  "description": "A hearty and flavorful Irish lamb stew made with tender lamb, crunchy vegetables, and a hint of zesty spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zesty Guinness stout",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add flour to pot and cook for 1 minute.",
+    "Gradually add Guinness stout, whisking constantly.",
+    "Return lamb to pot and add carrots, potatoes, onions, salt, and pepper.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until lamb is tender.",
+    "Skim fat from surface and serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:18:20.952Z"
+}
