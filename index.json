@@ -15570,5 +15570,43 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-earthy-venezuelan-mars-bar-tart--gluten-free",
+    "title": "Venezuelan Zesty Rice Bowl",
+    "tags": [
+      "veggie",
+      "rice-bowl",
+      "latin",
+      "healthy"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-flaky-australian-meat-pie--italian",
+    "title": "Australian Meat Pie",
+    "tags": [
+      "meat",
+      "italian",
+      "australian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-indian-paneer-curry--german",
+    "title": "Paneer Curry with German Twist",
+    "tags": [
+      "german",
+      "vegetarian",
+      "paneer",
+      "curry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
