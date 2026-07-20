@@ -15626,5 +15626,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zero-calorie-algerian-chicken-tagine--vegetarian",
+    "title": "Vegetarian Algerian Tagine",
+    "tags": [
+      "north african",
+      "vegetarian",
+      "stew",
+      "clay pot"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
