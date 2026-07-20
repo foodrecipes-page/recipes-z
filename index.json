@@ -15639,5 +15639,18 @@
     "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-saudi-arabian-jerusalem-artichoke-tagine--indian",
+    "title": "Jerusalem Artichoke Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
