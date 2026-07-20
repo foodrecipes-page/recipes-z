@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-saudi-arabian-jerusalem-artichoke-tagine--indian",
+  "title": "Jerusalem Artichoke Curry",
+  "description": "A flavorful Indian-inspired curry made with Jerusalem artichokes and aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Saùdi Arabian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and sauté until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add Jerusalem artichokes and cook for 5 minutes.",
+    "Stir in Arabian spice blend, lemon juice, and tomato puree.",
+    "Bring to a simmer and cook until the artichokes are tender, about 15 minutes.",
+    "Stir in chickpeas and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-saudi-arabian-jerusalem-artichoke-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:38:23.578Z"
+}
