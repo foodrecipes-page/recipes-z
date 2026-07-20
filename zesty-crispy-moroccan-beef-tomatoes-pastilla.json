@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-crispy-moroccan-beef-tomatoes-pastilla",
+  "title": "Beef Pastilla",
+  "description": "A Moroccan-inspired dish made with crispy beef and zesty spices, wrapped in a layer of flaky pastry.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "250g",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 tbsp",
+      "notes": "Zesty spice mix"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Spices",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the Moroccan spices, salt, and black pepper to the pan and stir to combine.",
+    "Add the canned tomatoes to the pan and stir to combine.",
+    "In a separate bowl, whisk together the eggs and butter.",
+    "Roll out the flaky pastry to a thickness of about 1/8 inch.",
+    "Spoon the beef mixture onto one half of the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pastry with the egg mixture and fold the other half of the pastry over the filling.",
+    "Press the edges of the pastry together to seal the pastilla.",
+    "Use a knife to cut a few slits in the top of the pastilla to allow steam to escape.",
+    "Brush the top of the pastilla with the remaining egg mixture and sprinkle with zesty spices if desired.",
+    "Bake the pastilla in the preheated oven for 25-30 minutes, or until golden brown.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "moroccan",
+    "pastilla"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-moroccan-beef-tomatoes-pastilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:39:13.871Z"
+}
