@@ -3171,17 +3171,14 @@
   },
   {
     "slug": "zesty-crispy-moroccan-beef-tomatoes-pastilla",
-    "title": "zesty crispy moroccan beef tomatoes pastilla",
+    "title": "Beef Pastilla",
     "tags": [
-      "flaky",
-      "homemade",
+      "beef",
       "moroccan",
-      "savory",
-      "spicy",
-      "weekday"
+      "pastilla"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 55,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
