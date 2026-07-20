@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-middle-eastern-eggplant-baba-ganoush--italian",
+  "title": "Italian-Style Eggplant with Baba Ganoush",
+  "description": "A flavorful and healthy Italian-inspired eggplant dish with a twist of Middle Eastern baba ganoush. Perfect as a side or main course.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "middle eastern baba ganoush",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant into 1/2-inch thick slices.",
+    "Brush both sides of the eggplant slices with olive oil and season with Italian seasoning, salt, and pepper.",
+    "Roast the eggplant in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "Meanwhile, heat the baba ganoush in a saucepan over medium heat.",
+    "Add the minced garlic to the baba ganoush and stir to combine.",
+    "Once the eggplant is done, remove it from the oven and let it cool for a few minutes.",
+    "Serve the roasted eggplant with the baba ganoush sauce spooned over the top, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "eggplant",
+    "middle-eastern",
+    "baba-ganoush"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-eggplant-baba-ganoush--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:52:01.338Z"
+}
