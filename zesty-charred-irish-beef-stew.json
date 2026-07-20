@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-charred-irish-beef-stew",
+  "title": "Irish Charred Beef Stew",
+  "description": "A hearty, comforting beef stew with a charred twist, perfect for a chilly evening. The zesty flavor adds a delightful kick.",
+  "cuisine": "irish",
+  "diet": [
+    "beef",
+    "stew"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty seasoning blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef with zesty seasoning blend, salt, and pepper.",
+    "Heat a Dutch oven over medium-high heat. Add the oil and sear the beef until browned, about 2-3 minutes per side. Remove the beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "Gradually add the beef broth, whisking continuously. Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 1-1.5 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Return the browned beef to the pot and stir to combine. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "charred-beef",
+    "beef-stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:22:10.064Z"
+}
