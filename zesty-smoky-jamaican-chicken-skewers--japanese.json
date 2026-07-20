@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-smoky-jamaican-chicken-skewers--japanese",
+  "title": "Jamaican Chicken Skewers with Zesty Dipping Sauce",
+  "description": "A fusion of Japanese and Jamaican flavors, these chicken skewers are marinated in a sweet and spicy mixture, grilled to perfection and served with a zesty dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Zesty soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or regular soy sauce with a squeeze of fresh lime juice"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or honey"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together zesty soy sauce, brown sugar, sesame oil, green onions, grated ginger, and Jamaican jerk seasoning.",
+    "Add the chicken cubes to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat. Thread the marinated chicken cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Serve the skewers hot with additional zesty dipping sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "jamaican",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-jamaican-chicken-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:29:50.070Z"
+}
