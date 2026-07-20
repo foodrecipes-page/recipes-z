@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-american-chicken-wrap",
+  "title": "Classic Chicken Wrap",
+  "description": "A simple and delicious wrap filled with chicken, wrapped in a warm tortilla and served with a side of zesty sauce.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "poultry",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "4-6",
+      "notes": "Large flour tortillas"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced tomato",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with salt and pepper.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a few slices of chicken onto each tortilla, followed by shredded lettuce, cheese, tomato, and mayonnaise.",
+    "Drizzle the zesty sauce over the top of each wrap.",
+    "Serve immediately and enjoy!",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Slice the chicken into thin strips before serving.",
+    "If using, sprinkle shredded cheese over the top of each wrap before serving.",
+    "Garnish with additional lettuce, tomato, or mayonnaise if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-american-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:57:53.809Z"
+}
