@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-crunchy-portuguese-freekeh-tagine",
+  "title": "Crunchy Freekeh Salad with Zesty Vinaigrette",
+  "description": "A refreshing salad featuring crunchy freekeh, zesty vinaigrette, and portuguese flavors. Perfect for a light lunch or dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a store-bought or homemade zesty olive oil"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Diced Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Portuguese-Style Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crunchy Almonds",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tbsp",
+      "notes": "Use as a spice blend or make your own"
+    }
+  ],
+  "instructions": [
+    "Rinse the freekeh and cook according to package instructions.",
+    "In a large bowl, whisk together the zesty olive oil, portuguese-style seasoning, salt, and tagine.",
+    "Add the cooked freekeh, red onion, cucumber, parsley, and almonds to the bowl.",
+    "Toss to combine and adjust seasoning as needed.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "moroccan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-portuguese-freekeh-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:51:22.679Z"
+}
