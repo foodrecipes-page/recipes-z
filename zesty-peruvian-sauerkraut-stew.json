@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-peruvian-sauerkraut-stew",
+  "title": "Peruvian-Style Pork Stew",
+  "description": "A hearty and flavorful stew made with pork, sauerkraut, and Peruvian spices. Serve with warm cornbread or over rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Zesty peruvian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Season the pork with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the pork until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the sauerkraut, spice blend, tomato paste, and beef broth.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the pork is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-sauerkraut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:27:12.468Z"
+}
