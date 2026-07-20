@@ -726,18 +726,14 @@
   },
   {
     "slug": "zesty-american-chicken-wrap",
-    "title": "Zesty American Chicken Wrap",
+    "title": "Classic Chicken Wrap",
     "tags": [
-      "american",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "no-sugar",
-      "quick",
-      "zesty"
+      "chicken",
+      "wrap",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 24,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -3752,13 +3748,15 @@
   },
   {
     "slug": "zesty-crunchy-portuguese-freekeh-tagine",
-    "title": "Zesty Crunchy Portuguese Freekeh Tagine",
+    "title": "Crunchy Freekeh Salad with Zesty Vinaigrette",
     "tags": [
-      "portuguese",
-      "dinner"
+      "salad",
+      "moroccan",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -9235,16 +9233,14 @@
   },
   {
     "slug": "zesty-peruvian-sauerkraut-stew",
-    "title": "Zesty Peruvian Sauerkraut Stew",
+    "title": "Peruvian-Style Pork Stew",
     "tags": [
-      "jain-friendly",
-      "korean-brass-bowl",
       "peruvian",
-      "slow-cook",
-      "vegan"
+      "stew",
+      "pork"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 140,
     "shard": "z"
   },
   {
@@ -15606,6 +15602,19 @@
       "curry"
     ],
     "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-vietnamese-rice-vermicelli-banh-mi--mexican",
+    "title": "Vermicelli Banh Mi Tacos",
+    "tags": [
+      "mexican",
+      "asian-fusion",
+      "tacos",
+      "vermicelli"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "z"
   }
