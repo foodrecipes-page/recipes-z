@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-springy-japanese-pork-shoulder-gyudon--italian",
+  "title": "Braised Italian-Style Pork Shoulder",
+  "description": "A hearty Italian-inspired dish featuring slow-cooked pork shoulder, perfect for a chilly evening. Serve with your favorite pasta or polenta.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 kg",
+      "notes": null
+    },
+    {
+      "name": "springy water",
+      "amount": "1 L",
+      "notes": null
+    },
+    {
+      "name": "zesty red wine",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "60ml",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "2g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the pork shoulder with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the garlic and onion to the pot and cook until softened, about 5 minutes.",
+    "Add the red wine and soy sauce to the pot, scraping up any browned bits.",
+    "Return the pork shoulder to the pot and add enough water to cover.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Braise the pork in the preheated oven at 160°C for 2.5 hours, or until tender.",
+    "Remove the pot from the oven and let the pork rest for 10 minutes.",
+    "Strain the braising liquid and discard the solids.",
+    "Slice the pork against the grain and serve with the braising liquid spooned over the top.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "braised",
+    "pork",
+    "shoulder"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-springy-japanese-pork-shoulder-gyudon--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:32:02.514Z"
+}
