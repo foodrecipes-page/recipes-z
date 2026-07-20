@@ -10478,17 +10478,14 @@
   },
   {
     "slug": "zesty-silky-argentinian-beef-empanadas",
-    "title": "Zesty Silky Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "argentinian",
+      "beef",
+      "empanadas"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -15685,6 +15682,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-eggplant-baba-ganoush--italian",
+    "title": "Italian-Style Eggplant with Baba Ganoush",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "eggplant",
+      "middle-eastern",
+      "baba-ganoush"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "z"
   }
 ]
