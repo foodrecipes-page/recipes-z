@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-crispy-middle-eastern-walnuts-cookies--german",
+  "title": "Walnut German Shortcake Cookies",
+  "description": "A unique twist on traditional shortcake cookies, incorporating crunchy walnuts and a hint of zesty flavor, perfect for snacking in the German countryside.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "use German all-purpose flour for authenticity"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "helps the cookies rise"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "enhances flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened for easier mixing"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "adds sweetness"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped for added crunch"
+    },
+    {
+      "name": "crispy cookie topping",
+      "amount": "1/4 cup",
+      "notes": "adds a delightful textural element"
+    },
+    {
+      "name": "zesty lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "adds a burst of citrus flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, cream together the butter and sugar until light and fluffy.",
+    "Stir in the lemon zest and chopped walnuts.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Chill the dough in the refrigerator for at least 30 minutes.",
+    "Roll out the dough on a floured surface to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place the cookies on the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 18-20 minutes or until the edges are lightly golden brown.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cookies are cool, sprinkle with crispy cookie topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cookies",
+    "walnuts",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-middle-eastern-walnuts-cookies--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:41:13.002Z"
+}
