@@ -1817,18 +1817,14 @@
   },
   {
     "slug": "zesty-charred-irish-beef-stew",
-    "title": "Zesty Charred Irish Beef Stew",
+    "title": "Irish Charred Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "irish-cuisine",
-      "one-pot",
-      "paleo-friendly",
-      "sous-vide",
-      "weeknight"
+      "irish-stew",
+      "charred-beef",
+      "beef-stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "cuisine": "irish",
+    "totalTimeMin": 110,
     "shard": "z"
   },
   {
@@ -15615,6 +15611,19 @@
       "vermicelli"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-jamaican-chicken-skewers--japanese",
+    "title": "Jamaican Chicken Skewers with Zesty Dipping Sauce",
+    "tags": [
+      "japanese",
+      "jamaican",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "z"
   }
