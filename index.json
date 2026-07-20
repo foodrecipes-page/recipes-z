@@ -2380,17 +2380,15 @@
   },
   {
     "slug": "zesty-creamy-irish-shirataki-stew",
-    "title": "Zesty Creamy Irish Shirataki Stew",
+    "title": "Creamy Irish Stew",
     "tags": [
-      "cataplana-recipes",
-      "comfort-food",
-      "festive-meals",
-      "irish-cuisine",
-      "shirataki-noodles",
-      "vegan-friendly"
+      "low-carb",
+      "irish",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -15651,6 +15649,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zinger-indian-zinger-cabbage-butter-roast--indian",
+    "title": "Indian Roast Cabbage",
+    "tags": [
+      "cabbage",
+      "indian",
+      "roast",
+      "side-dish"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
     "shard": "z"
   }
 ]
