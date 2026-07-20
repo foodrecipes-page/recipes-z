@@ -15660,5 +15660,31 @@
     "cuisine": "indian",
     "totalTimeMin": 20,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-springy-japanese-pork-shoulder-gyudon--italian",
+    "title": "Braised Italian-Style Pork Shoulder",
+    "tags": [
+      "italian",
+      "braised",
+      "pork",
+      "shoulder"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-roasted-ukrainian-almond-tagine--indian",
+    "title": "Roasted Zesty Chicken Tagine",
+    "tags": [
+      "indian",
+      "chicken",
+      "tagine",
+      "roasted"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
