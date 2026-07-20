@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-silky-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish featuring flavorful beef empanadas with a silky empanada dough.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb (450g) ground beef",
+      "notes": "80% lean"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 package (14 oz, 397g) frozen empanada dough",
+      "notes": "thawed"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/2 cup (120g) chopped fresh parsley",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup (60g) chopped fresh oregano",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "1/2 teaspoon (2.5g) ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 teaspoon (1.25g) cayenne pepper",
+      "notes": ""
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons (30g) olive oil",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon (2.5g)",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon (1.25g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to a thickness of about 1/8 inch (3mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the beef mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with water.",
+    "Fold the dough over the filling to form a half-circle shape, pressing the edges together to seal.",
+    "Use a fork to crimp the edges.",
+    "Brush the tops of the empanadas with olive oil.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the empanadas are golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:09:27.241Z"
+}
