@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-vietnamese-rice-vermicelli-banh-mi--mexican",
+  "title": "Vermicelli Banh Mi Tacos",
+  "description": "A fusion twist on traditional banh mi, combining the flavors of Southeast Asia with the comfort of Mexican tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Zesty pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Ban mi bread",
+      "amount": "4-6 tacos",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "2 tbsp",
+      "notes": "or similar hot sauce"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sliced jalapeño",
+      "amount": "1 pepper",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook vermicelli noodles according to package instructions.",
+    "In a separate pan, toast ban mi bread over medium heat until lightly browned.",
+    "In a large bowl, combine pickled carrots, cucumber, cilantro, and sliced jalapeño.",
+    "Add cooked noodles to the bowl and toss with rice vinegar, lime juice, and salt.",
+    "Warm ban mi bread by wrapping in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing noodle mixture onto toasted bread.",
+    "Drizzle with Vietnamese chili sauce and serve immediately.",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "asian-fusion",
+    "tacos",
+    "vermicelli"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-vietnamese-rice-vermicelli-banh-mi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:07:06.376Z"
+}
