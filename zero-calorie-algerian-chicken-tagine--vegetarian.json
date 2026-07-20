@@ -1,0 +1,80 @@
+{
+  "slug": "zero-calorie-algerian-chicken-tagine--vegetarian",
+  "title": "Vegetarian Algerian Tagine",
+  "description": "A flavorful and aromatic North African dish made with a variety of vegetables and spices, all slow-cooked in a traditional clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "zero-calorie oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "chopped carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "chopped zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the zero-calorie oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced bell pepper and cook until tender, about 5 minutes.",
+    "Add the chopped carrots and zucchini, and cook for 5 minutes.",
+    "Add the chopped tomatoes, chicken broth, and algerian tagine spice blend.",
+    "Stir to combine, then bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "vegetarian",
+    "stew",
+    "clay pot"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-calorie-algerian-chicken-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:24:24.827Z"
+}
