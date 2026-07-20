@@ -1,0 +1,53 @@
+{
+  "slug": "zinger-indian-zinger-cabbage-butter-roast--indian",
+  "title": "Indian Roast Cabbage",
+  "description": "A simple and delicious Indian-inspired cabbage dish made with roast and butter. Perfect as a side or main course.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "roast",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat butter in a large pan over medium heat.",
+    "2. Add the chopped cabbage and roast, and sauté for 5 minutes.",
+    "3. Reduce heat to low and cover the pan with a lid.",
+    "4. Let the cabbage cook for 10-15 minutes, or until it's tender and lightly browned.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "indian",
+    "roast",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zinger-indian-zinger-cabbage-butter-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:43:11.045Z"
+}
