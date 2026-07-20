@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-velvety-mexican-yeast-sopes",
+  "title": "Mexican Yeast Sopes",
+  "description": "Soft, fluffy sopes topped with a light and airy yeast dough, perfect for a quick and easy Mexican-inspired meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Mexican yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Zesty salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sopes",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Combine flour, Mexican yeast, and salt in a large bowl.",
+    "Gradually add water, mixing until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1-2 hours.",
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Divide the dough into 4-6 equal pieces, shape into balls, and flatten slightly.",
+    "Cook the sopes for 1-2 minutes on each side, until lightly browned.",
+    "Brush the sopes with vegetable oil and top with a spoonful of zesty salsa, shredded cheese, and any other desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "sopes",
+    "yeast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-mexican-yeast-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:57:45.825Z"
+}
