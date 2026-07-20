@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-creamy-irish-shirataki-stew",
+  "title": "Creamy Irish Stew",
+  "description": "A comforting, low-carb twist on the classic Irish stew, using shirataki noodles and a creamy sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "8 oz",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Irish stew mix",
+      "amount": "1 package",
+      "notes": "see package for contents"
+    },
+    {
+      "name": "zesty sausage",
+      "amount": "1 lb",
+      "notes": "cooked and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or substitute with almond milk"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Cook the shirataki noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the zesty sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the Irish stew mix to the skillet and stir to combine.",
+    "Add the cooked shirataki noodles to the skillet and stir to combine.",
+    "Pour in the heavy cream and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until the sauce has thickened.",
+    "Stir in the shredded cheddar cheese until melted and smooth.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "irish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-creamy-irish-shirataki-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:37:06.010Z"
+}
