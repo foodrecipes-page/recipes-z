@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-earthy-mediterranean-oats-pilaf",
+  "title": "Oats and Mediterranean Pilaf Bowl",
+  "description": "A hearty and flavorful bowl filled with oats, pilaf, and a blend of mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Pilaf Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the zesty olive oil over medium heat.",
+    "Add the earthy dried oregano and cook for 1 minute, until fragrant.",
+    "Add the rolled oats and cook for 2-3 minutes, until lightly toasted.",
+    "Add the mediterranean pilaf mix and cook according to package instructions.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "oats",
+    "pilaf",
+    "mediterranean",
+    "breakfast",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-mediterranean-oats-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:54:54.611Z"
+}
