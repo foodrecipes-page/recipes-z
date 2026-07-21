@@ -15795,5 +15795,57 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-peruvian-beef-stew--thai",
+    "title": "Thai Beef Stew",
+    "tags": [
+      "thai",
+      "beef",
+      "stew",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-baby-korean-potatoes-mixed-rice-bowl--german",
+    "title": "Bratwurst und Kartoffeln",
+    "tags": [
+      "german",
+      "sausages",
+      "potatoes",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-venezuelan-celery-salad--indian",
+    "title": "Zesty Celery Salad",
+    "tags": [
+      "veggie",
+      "salad",
+      "side-dish",
+      "indian-recipes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-brazilian-beef-bowl--indian",
+    "title": "Brazilian Beef Bowl with Zesty Sauce",
+    "tags": [
+      "beef",
+      "indian",
+      "brazilian",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
