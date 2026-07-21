@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-jamaican-feta-casserole--vegan",
+  "title": "Jamaican Vegan Casserole",
+  "description": "A flavorful and nutritious casserole made with jamaican spices and vegan feta cheese, perfect for a satisfying meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casserole",
+      "amount": "1 cup",
+      "notes": "any type of casserole-shaped pasta"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "zesty vegan sauce"
+    },
+    {
+      "name": "feta",
+      "amount": "1/2 cup",
+      "notes": "vegan feta cheese, crumbled"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tsp",
+      "notes": "jamaican spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the casserole pasta according to package instructions.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the chopped onion, minced garlic, and chopped bell pepper.",
+    "Cook until the vegetables are tender.",
+    "Add the chopped tomato and cook for an additional 2 minutes.",
+    "Stir in the jamaican spice blend and zesty sauce.",
+    "Combine the cooked casserole pasta, vegan feta cheese, and sautéed vegetables in a large mixing bowl.",
+    "Mix well and transfer to a baking dish.",
+    "Bake for 20-25 minutes or until the casserole is hot and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "jamaican",
+    "casserole",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-jamaican-feta-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:00:42.989Z"
+}
