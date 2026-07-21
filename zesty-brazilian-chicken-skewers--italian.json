@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-brazilian-chicken-skewers--italian",
+  "title": "Brazilian Chicken Skewers Italian Style",
+  "description": "A delicious fusion of Italian flavors with the classic Brazilian chicken skewers. Marinated in zesty herbs and grilled to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together zesty, olive oil, lemon juice, garlic, italian seasoning, salt, and pepper.",
+    "3. Add the chicken to the marinade and mix well to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "5. Thread the marinated chicken onto the skewers.",
+    "6. Grill the skewers for 8-10 minutes, or until the chicken is cooked through.",
+    "7. Brush with additional olive oil during the last minute of grilling.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "chicken-recipes",
+    "grilled-chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brazilian-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:19:46.908Z"
+}
