@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-brazilian-beef-bowl--indian",
+  "title": "Brazilian Beef Bowl with Zesty Sauce",
+  "description": "A flavorful and spicy beef dish inspired by the flavors of Brazil, served in a bowl with a tangy sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "",
+      "notes": "1-inch pieces"
+    },
+    {
+      "name": "Zesty sauce (1/2 cup)",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onions (1 medium)",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger (1 inch)",
+      "amount": "",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro (chopped)",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "Bowl (1 large)",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onions, garlic, and ginger, and cook until the onions are translucent.",
+    "Add the zesty sauce and stir to combine.",
+    "Simmer the mixture for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Spoon the beef mixture into a bowl and garnish with chopped cilantro, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "indian",
+    "brazilian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brazilian-beef-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:46:19.818Z"
+}
