@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-algerian-puff-pastry-bowl",
+  "title": "Algerian Zesty Pastry Puffs",
+  "description": "A crispy, flavorful pastry filled with zesty goodness. Perfect as a snack or dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package (thawed)",
+      "notes": null
+    },
+    {
+      "name": "Algerian Zesty Filling (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bowl for mixing",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten (for egg wash)",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to 1/4 inch thickness.",
+    "Cut into desired shapes (e.g., squares, circles).",
+    "Place pastry shapes on a baking sheet lined with parchment paper.",
+    "Mix Algerian Zesty Filling with a spoon or spatula, if using store-bought.",
+    "Place a spoonful of zesty filling in the center of each pastry shape.",
+    "Brush edges with beaten egg for a golden glaze.",
+    "Fold pastry in half to enclose filling and press edges to seal.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-algerian-puff-pastry-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:52:18.391Z"
+}
