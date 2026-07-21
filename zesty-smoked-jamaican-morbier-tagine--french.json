@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-smoked-jamaican-morbier-tagine--french",
+  "title": "Smoked Chicken Tagine with Zesty Sauce",
+  "description": "A classic French-inspired dish with the flavors of Morocco, featuring tender smoked chicken in a tangy zesty sauce.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Tagine paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zesty sauce (see notes)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the smoked chicken breast with salt and pepper.",
+    "In a large Dutch oven, heat the olive oil over medium heat. Add the garlic and cook until fragrant, 1-2 minutes.",
+    "Add the tagine paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the zesty sauce and bring to a simmer.",
+    "Add the smoked chicken breast and cook for 10-12 minutes, or until cooked through.",
+    "Transfer the Dutch oven to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked to an internal temperature of 165°F (74°C).",
+    "Remove the Dutch oven from the oven and sprinkle with crumbled Morbier cheese.",
+    "Return the Dutch oven to the stovetop and cook over medium heat until the cheese is melted and bubbly.",
+    "Sprinkle with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "smoked",
+    "tagine",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoked-jamaican-morbier-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:11:52.489Z"
+}
