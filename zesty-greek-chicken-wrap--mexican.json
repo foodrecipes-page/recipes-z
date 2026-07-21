@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-greek-chicken-wrap--mexican",
+  "title": "Mexican Chicken Wrap",
+  "description": "A flavorful Mexican-inspired chicken wrap filled with zesty chicken, crunchy vegetables, and tangy sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Chicken Breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Large Flour Tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fajita-Style Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with fajita-style seasoning.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "In a large bowl, combine the Greek yogurt, salsa, and a sprinkle of cilantro.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the yogurt-salsa mixture on the tortilla, layering with sliced chicken, lettuce, tomato, red onion, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-greek-chicken-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:01:20.484Z"
+}
