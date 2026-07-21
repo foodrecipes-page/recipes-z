@@ -686,17 +686,14 @@
   },
   {
     "slug": "zesty-algerian-puff-pastry-bowl",
-    "title": "Zesty Algerian Puff Pastry Bowl",
+    "title": "Algerian Zesty Pastry Puffs",
     "tags": [
-      "algerian-flavors",
-      "appetizer",
-      "chili-sauce",
-      "korean-brass-bowl",
-      "medium-difficulty",
-      "puff-pastry"
+      "algerian",
+      "pastry",
+      "snack"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 22,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -4317,17 +4314,17 @@
   },
   {
     "slug": "zesty-earthy-mediterranean-oats-pilaf",
-    "title": "Zesty Earthy Mediterranean Oats Pilaf",
+    "title": "Oats and Mediterranean Pilaf Bowl",
     "tags": [
-      "flavorful",
-      "healthy",
+      "oats",
+      "pilaf",
       "mediterranean",
-      "one-pot",
-      "ovo-vegetarian",
-      "snack"
+      "breakfast",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "z"
   },
   {
@@ -15846,6 +15843,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-kenyan-stilton-fried-rice--gluten-free",
+    "title": "Kenyan Stilton Fried Rice",
+    "tags": [
+      "kenyan",
+      "stilton",
+      "fried-rice",
+      "gluten-free"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoked-jamaican-morbier-tagine--french",
+    "title": "Smoked Chicken Tagine with Zesty Sauce",
+    "tags": [
+      "french",
+      "chicken",
+      "smoked",
+      "tagine",
+      "cheese"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-buttery-turkish-lamb-kebabs--mexican",
+    "title": "Mexican Lamb Kebabs with Zesty Butter",
+    "tags": [
+      "lamb",
+      "mexican",
+      "kebabs",
+      "grilling"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
