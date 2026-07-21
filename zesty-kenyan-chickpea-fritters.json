@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-kenyan-chickpea-fritters",
+  "title": "Kenyan Chickpea Fritters with Zesty Dipping Sauce",
+  "description": "Crispy Kenyan-style fritters filled with chickpeas, served with a tangy zesty dipping sauce. Perfect as a snack or appetizer.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups, drained and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup, for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, mix together chickpeas, flour, zesty sauce, onion, garlic, cumin, coriander, salt, and black pepper.",
+    "Using your hands, shape the mixture into small patties.",
+    "When the oil is hot, add a few fritters to the pan (do not overcrowd).",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with additional zesty sauce for dipping.",
+    "Repeat the frying process with the remaining fritters."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chickpea",
+    "fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-kenyan-chickpea-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:11:54.594Z"
+}
