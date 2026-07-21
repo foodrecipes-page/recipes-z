@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-garlicky-korean-shrimp-noodles",
+  "title": "Spicy Korean Shrimp Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with spicy Korean chili flakes, garlicky flavor, and succulent shrimp.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles or soba noodles"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and stir-fry for 1 minute until fragrant.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes.",
+    "Add the noodles and cook for an additional 2 minutes until heated through.",
+    "Stir in the Korean chili flakes and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "shrimp",
+    "noodles",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-korean-shrimp-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:46:46.316Z"
+}
