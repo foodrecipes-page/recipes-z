@@ -15708,5 +15708,30 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-syrian-onion-kebabs--french",
+    "title": "Syrian Beef Kebabs with Zesty French Sauce",
+    "tags": [
+      "french",
+      "beef",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-flaky-portuguese-fish-stew--french",
+    "title": "Baked Fish in Portuguese Stew",
+    "tags": [
+      "fish",
+      "stew",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "z"
   }
 ]
