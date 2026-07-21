@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-flaky-moroccan-almond-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A classic Moroccan dish made with chicken, spices, and dried fruits. The slow-cooked flavors will transport you to the souks of Marrakech.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken thighs to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the moroccan spice blend, almond flour, zesty lemon juice, and flaky sea salt to the pot. Stir to combine.",
+    "Add the chopped apple and prunes to the pot. Stir to combine.",
+    "Cover the pot and transfer to the oven. Braise the chicken for 30-40 minutes, or until cooked through.",
+    "Serve the chicken and sauce hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tagine",
+    "dinner",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-moroccan-almond-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:18:55.181Z"
+}
