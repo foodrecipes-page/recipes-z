@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-peruvian-beef-stew--thai",
+  "title": "Thai Beef Stew",
+  "description": "A flavorful and spicy Thai beef stew made with tender beef, crunchy vegetables and a zesty Peruvian chili sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "chicken or beef broth"
+    },
+    {
+      "name": "zesty Peruvian chili sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and garlic and cook until the onion is translucent.",
+    "Add bell pepper and carrot and cook for 2 minutes.",
+    "Add beef and cook until browned on all sides.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour or until beef is tender.",
+    "Stir in zesty Peruvian chili sauce, fish sauce, brown sugar, salt and black pepper.",
+    "Simmer for an additional 5 minutes.",
+    "Serve hot garnished with chopped cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-beef-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:23:53.162Z"
+}
