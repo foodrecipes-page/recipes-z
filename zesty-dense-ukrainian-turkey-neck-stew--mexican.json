@@ -1,0 +1,63 @@
+{
+  "slug": "zesty-dense-ukrainian-turkey-neck-stew--mexican",
+  "title": "Mexican Turkey Stew",
+  "description": "A hearty and flavorful stew made with tender turkey and spices, perfect for a chilly evening.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": "bone-in"
+    },
+    {
+      "name": "ukrainian stew",
+      "amount": "2 cups",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "dried oregano or cumin"
+    },
+    {
+      "name": "dense",
+      "amount": "1/2 tsp",
+      "notes": "ground cumin"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "2. Add the turkey neck and sear until browned on all sides, about 5 minutes.",
+    "3. Add the Ukrainian stew and bring to a boil.",
+    "4. Reduce heat to low and simmer, covered, for 20 minutes.",
+    "5. Stir in the zesty and dense spices.",
+    "6. Simmer for an additional 10 minutes.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-ukrainian-turkey-neck-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:48:05.909Z"
+}
