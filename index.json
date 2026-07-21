@@ -15772,5 +15772,19 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-ethiopian-oats-dabo--indian",
+    "title": "Dabo & Oats Kheer",
+    "tags": [
+      "indian",
+      "dessert",
+      "kheer",
+      "creamy",
+      "zesty"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "z"
   }
 ]
