@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-shattering-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "Grilled beef skewers with a zesty twist, inspired by Argentinean cuisine. Perfect for a summer dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (skewers)",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "Argentinian-style chimichurri sauce"
+    },
+    {
+      "name": "argentinian",
+      "amount": "2 tsp",
+      "notes": "Chimichurri seasoning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, onion, and bell pepper onto skewers.",
+    "Brush with olive oil and season with salt, if desired.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "Brush with zesty sauce during last 2 minutes of grilling.",
+    "Serve hot with additional zesty sauce, if desired.",
+    "Let rest for 5 minutes before serving.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-shattering-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:03:43.467Z"
+}
