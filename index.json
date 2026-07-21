@@ -4925,16 +4925,16 @@
   },
   {
     "slug": "zesty-flaky-moroccan-almond-tagine",
-    "title": "Zesty Flaky Moroccan Almond Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "almond-based",
-      "moroccan-cuisine",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight-dinner"
+      "moroccan",
+      "chicken",
+      "tagine",
+      "dinner",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "z"
   },
   {
@@ -15903,6 +15903,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-jamaican-feta-casserole--vegan",
+    "title": "Jamaican Vegan Casserole",
+    "tags": [
+      "vegan",
+      "jamaican",
+      "casserole",
+      "pasta"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "z"
   }
 ]
