@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-syrian-onion-kebabs--french",
+  "title": "Syrian Beef Kebabs with Zesty French Sauce",
+  "description": "A French twist on traditional Syrian beef kebabs, served with a tangy and herby zesty sauce.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian beef (skewers)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Kebabs (wooden skewers)",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "Zesty French sauce",
+      "amount": "1 cup",
+      "notes": "See below for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, onion, and kebab onto skewers.",
+    "Season with salt, pepper, and your favorite herbs.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "While kebabs are grilling, mix zesty French sauce ingredients in a bowl.",
+    "Serve kebabs with zesty French sauce spooned over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-syrian-onion-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:26:47.652Z"
+}
