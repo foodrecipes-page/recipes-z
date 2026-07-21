@@ -7696,17 +7696,16 @@
   },
   {
     "slug": "zesty-malay-chicken-soup",
-    "title": "Zesty Malay Chicken Soup",
+    "title": "Malay Chicken Zesty Soup",
     "tags": [
-      "hangover-cure",
-      "low-glycemic-friendly",
-      "malaysian-heritage",
-      "pickles",
-      "quick-soup",
-      "savory-soup"
+      "malay",
+      "chicken",
+      "soup",
+      "lunch",
+      "gluten-free"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "Southeast Asian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -15783,6 +15782,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-ukrainian-turkey-neck-stew--mexican",
+    "title": "Mexican Turkey Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "turkey"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "z"
   }
 ]
