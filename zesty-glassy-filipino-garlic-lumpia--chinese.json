@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-glassy-filipino-garlic-lumpia--chinese",
+  "title": "Filipino Lumpia Spring Rolls",
+  "description": "A classic Filipino appetizer with a Chinese twist, these spring rolls are crispy on the outside and flavorful on the inside.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lumpia wrappers",
+      "amount": "1 package (usually 20-24 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Finely chopped garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped zesty Filipino chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Glassy noodles",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, cook the ground pork over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "2. Add the chopped garlic and cook for 1 minute.",
+    "3. Add the chopped chilies and cook for another minute.",
+    "4. Stir in the glassy noodles and cook until they are lightly browned.",
+    "5. Lay a lumpia wrapper on a flat surface with one corner pointing towards you.",
+    "6. Place about 1 tablespoon of the pork mixture in the center of the wrapper.",
+    "7. Brush the edges of the wrapper with a little water.",
+    "8. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. Heat about 1-2 inches of oil in a large frying pan over medium-high heat.",
+    "11. When the oil is hot, add a few of the spring rolls to the pan and fry until golden brown and crispy, about 2-3 minutes on each side.",
+    "12. Remove the spring rolls from the oil and place them on a paper towel-lined plate to drain any excess oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "filipino",
+    "spring-rolls",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 22,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-glassy-filipino-garlic-lumpia--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:10:39.965Z"
+}
