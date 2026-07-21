@@ -7195,17 +7195,16 @@
   },
   {
     "slug": "zesty-kenyan-chickpea-fritters",
-    "title": "Zesty Kenyan Chickpea Fritters",
+    "title": "Kenyan Chickpea Fritters with Zesty Dipping Sauce",
     "tags": [
-      "halal-friendly",
-      "high-protein",
       "kenyan",
-      "one-pan",
-      "pasta-water-emulsion",
-      "snack"
+      "chickpea",
+      "fritters",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 22,
+    "totalTimeMin": 32,
     "shard": "z"
   },
   {
@@ -15891,6 +15890,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 165,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-greek-chicken-wrap--mexican",
+    "title": "Mexican Chicken Wrap",
+    "tags": [
+      "mexican",
+      "chicken",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "z"
   }
 ]
