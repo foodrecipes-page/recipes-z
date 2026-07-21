@@ -8327,17 +8327,15 @@
   },
   {
     "slug": "zesty-molten-argentinian-almond-empanadas",
-    "title": "Zesty Molten Argentinian Almond Empanadas",
+    "title": "Empanadas Argentinas con Mani y Zesty",
     "tags": [
-      "almond-based",
-      "argentinian-cuisine",
-      "double-rise-bread",
-      "molten-center",
-      "snack-food",
-      "vegan-friendly"
+      "argentinian",
+      "empanadas",
+      "almond",
+      "zesty"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -15883,6 +15881,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-herb-tunisian-jalapeno-tagine--french",
+    "title": "Smoked Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "smoky",
+      "spicy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 165,
     "shard": "z"
   }
 ]
