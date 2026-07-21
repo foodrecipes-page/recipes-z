@@ -356,16 +356,16 @@
   },
   {
     "slug": "zero-gravity-creamy-saudi-arabian-asparagus-pilaf",
-    "title": "Zero Gravity Creamy Saudi Arabian Asparagus Pilaf",
+    "title": "Saudi Arabian Asparagus and Pilaf Delight",
     "tags": [
-      "crowd-pleaser",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight"
+      "asparagus",
+      "pilaf",
+      "saudi-arabian",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 35,
     "shard": "z"
   },
   {
@@ -15732,6 +15732,45 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-glassy-filipino-garlic-lumpia--chinese",
+    "title": "Filipino Lumpia Spring Rolls",
+    "tags": [
+      "chinese",
+      "filipino",
+      "spring-rolls",
+      "appetizer"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-brazilian-chicken-skewers--italian",
+    "title": "Brazilian Chicken Skewers Italian Style",
+    "tags": [
+      "italian-food",
+      "chicken-recipes",
+      "grilled-chicken",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-fluffy-indian-almonds-curry--italian",
+    "title": "Chicken and Almond Indian-Italian Fusion",
+    "tags": [
+      "italian-fusion",
+      "chicken-recipe",
+      "indian-spices",
+      "easy-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "z"
   }
 ]
