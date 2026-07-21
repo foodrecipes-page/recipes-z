@@ -1,0 +1,98 @@
+{
+  "slug": "zesty-smoky-herb-tunisian-jalapeno-tagine--french",
+  "title": "Smoked Lamb Tagine",
+  "description": "A traditional French-inspired dish with a spicy kick, featuring lamb cooked in a rich smoky tagine sauce.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "tunisian tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "herb bouquet (thyme, rosemary, parsley)",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the tunisian tagine spice blend, smoky paprika, and herb bouquet.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Add the jalapeno peppers to the pot during the last 30 minutes of cooking.",
+    "Remove the pot from the oven and let rest for 10 minutes.",
+    "Slice the lamb and serve with the tagine sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-herb-tunisian-jalapeno-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:19:30.742Z"
+}
