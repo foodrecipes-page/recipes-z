@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-kenyan-stilton-fried-rice--gluten-free",
+  "title": "Kenyan Stilton Fried Rice",
+  "description": "A flavorful fried rice dish infused with the bold flavors of Kenya and the creaminess of stilton cheese. This gluten-free recipe is perfect for a quick and delicious meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Kenyan stews zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Cooked chicken breast",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "1 cup",
+      "notes": "beaten"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the scrambled eggs to the skillet and cook until set, about 3-4 minutes.",
+    "Add the cooked fried rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add the Kenyan stews zesty sauce, soy sauce, salt, and pepper to the skillet and stir-fry for another minute.",
+    "Return the chicken breast to the skillet and stir-fry for another minute.",
+    "Transfer the mixture to a serving platter and top with crumbled Stilton cheese and chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stilton",
+    "fried-rice",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-kenyan-stilton-fried-rice--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:20:29.382Z"
+}
