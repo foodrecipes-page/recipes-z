@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-molten-argentinian-almond-empanadas",
+  "title": "Empanadas Argentinas con Mani y Zesty",
+  "description": "Traditional Argentine empanadas filled with a zesty almond and molten cheese mixture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanadas dough",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Zesty almond mixture",
+      "amount": "1 cup",
+      "notes": "made with almonds, zesty cheese, and spices"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "1 cup",
+      "notes": "Argentinian-style molten cheese"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanadas dough to a thickness of 1/4 inch (6 mm).",
+    "Place 1 tablespoon of zesty almond mixture in the center of each dough circle.",
+    "Place 1 tablespoon of molten cheese on top of the almond mixture.",
+    "Brush the edges of the dough with a little water.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "almond",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-molten-argentinian-almond-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:50:50.224Z"
+}
