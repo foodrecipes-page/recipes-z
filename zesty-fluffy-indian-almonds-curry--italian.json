@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-fluffy-indian-almonds-curry--italian",
+  "title": "Chicken and Almond Indian-Italian Fusion",
+  "description": "A unique blend of Indian spices and Italian flavors comes together in this dish featuring chicken and crunchy almonds.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian is not applicable"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zesty mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fluffy basmati rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "for chicken"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with curry powder and cook in the oven for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, heat some oil in a pan over medium heat and sauté the chopped onion and minced garlic until softened.",
+    "Add the sliced almonds to the pan and cook for 2-3 minutes, or until fragrant.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it into thin strips.",
+    "To serve, place a portion of fluffy basmati rice on a plate, top with sliced chicken, and drizzle with zesty mayonnaise.",
+    "Garnish with additional sliced almonds and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-fusion",
+    "chicken-recipe",
+    "indian-spices",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fluffy-indian-almonds-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:14:58.972Z"
+}
