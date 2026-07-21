@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-buttery-turkish-lamb-kebabs--mexican",
+  "title": "Mexican Lamb Kebabs with Zesty Butter",
+  "description": "A flavorful and spicy twist on traditional lamb kebabs, served with a zesty butter sauce. Perfect for a festive dinner or outdoor gathering.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Zesty butter",
+      "amount": "2 tablespoons",
+      "notes": "See instructions for preparation"
+    },
+    {
+      "name": "Turkish kebab skewers",
+      "amount": "10-12 skewers",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together cumin, chili powder, salt, and black pepper. Add lamb cubes and toss to coat.",
+    "Thread lamb, onion, bell pepper, and garlic onto kebab skewers, leaving space between each piece.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, prepare zesty butter by mixing softened butter with 1 tablespoon lime juice and 1 minced garlic clove.",
+    "Brush zesty butter onto kebabs during the last 2 minutes of grilling.",
+    "Serve kebabs hot with additional zesty butter on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mexican",
+    "kebabs",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-turkish-lamb-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:17:50.121Z"
+}
