@@ -1,0 +1,52 @@
+{
+  "slug": "zesty-baby-korean-potatoes-mixed-rice-bowl--german",
+  "title": "Bratwurst und Kartoffeln",
+  "description": "A traditional German dish featuring bratwurst sausage and boiled potatoes. This hearty meal is perfect for a cold evening.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "1 pound"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3-4 medium-sized"
+    },
+    {
+      "name": "mixed rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the potatoes and cook until they are tender, about 10-12 minutes.",
+    "While the potatoes are cooking, grill the Bratwurst sausage until browned and cooked through.",
+    "Once the potatoes are done, drain them and serve alongside the Bratwurst and a side of mixed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sausages",
+    "potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-baby-korean-potatoes-mixed-rice-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:28:03.738Z"
+}
