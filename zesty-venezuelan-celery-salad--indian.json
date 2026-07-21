@@ -1,0 +1,56 @@
+{
+  "slug": "zesty-venezuelan-celery-salad--indian",
+  "title": "Zesty Celery Salad",
+  "description": "A refreshing and healthy side dish that combines the crunch of celery with the zesty flavor of a venezuelan dressing.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "4 stalks"
+    },
+    {
+      "name": "zesty venezuelan dressing",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salad (mixed greens)",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the celery stalks under cold water and pat them dry with a paper towel.",
+    "Cut the celery into 1-inch pieces and place them in a large bowl.",
+    "In a small bowl, whisk together the zesty venezuelan dressing and a pinch of salt.",
+    "Pour the dressing over the celery and toss to coat.",
+    "Add the mixed greens to the bowl and toss to combine.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "salad",
+    "side-dish",
+    "indian-recipes"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-celery-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:41:23.520Z"
+}
