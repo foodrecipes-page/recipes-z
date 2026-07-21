@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-silky-ethiopian-oats-dabo--indian",
+  "title": "Dabo & Oats Kheer",
+  "description": "A traditional Indian dessert made creamy with dabo and silky oats, flavored with zesty spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dabo",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oats",
+      "amount": "1/2 cup",
+      "notes": "silky oats"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty powder",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the dabo and soak it in water for 4 hours.",
+    "In a pan, boil the soaked dabo with 1 cup of water until it's soft.",
+    "Add oats, sugar, and cardamom to the pan and stir well.",
+    "Cook on low heat for 5-7 minutes or until the oats are well combined.",
+    "Add zesty powder and stir well.",
+    "Remove from heat and let it cool.",
+    "Serve chilled or warm as desired.",
+    "Garnish with a sprinkle of zesty powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dessert",
+    "kheer",
+    "creamy",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-ethiopian-oats-dabo--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:26:39.445Z"
+}
