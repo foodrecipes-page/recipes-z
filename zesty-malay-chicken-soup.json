@@ -1,0 +1,100 @@
+{
+  "slug": "zesty-malay-chicken-soup",
+  "title": "Malay Chicken Zesty Soup",
+  "description": "A flavorful and spicy soup made with chicken, malay spices, and a hint of zesty flavor.",
+  "cuisine": "Southeast Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "malay spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add malay spice blend and cook for 1 minute.",
+    "Add coconut milk, chicken broth, fish sauce, and lemon juice.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malay",
+    "chicken",
+    "soup",
+    "lunch",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malay-chicken-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:51:12.601Z"
+}
