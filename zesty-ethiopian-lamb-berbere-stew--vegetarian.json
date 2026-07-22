@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-ethiopian-lamb-berbere-stew--vegetarian",
+  "title": "Ethiopian Stew",
+  "description": "A flavorful and hearty stew made with berbere spice and a variety of vegetables, perfect for a comforting meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ethiopian stew",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and garlic and cook until softened.",
+    "Add berbere spice and cook for 1 minute.",
+    "Add lamb broth, carrots, and potatoes.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add lemon juice and stir to combine.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Simmer stew according to package instructions.",
+    "Serve stew over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-lamb-berbere-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:13:38.163Z"
+}
