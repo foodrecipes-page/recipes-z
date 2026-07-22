@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-snappy-russian-kabanos-skillet--vegetarian",
+  "title": "Russian-Style Skillet Stuffed Peppers",
+  "description": "A flavorful and colorful vegetarian dish, perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "any type, preferably cast-iron"
+    },
+    {
+      "name": "Peppers (any color)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Kabanos",
+      "amount": "8 oz",
+      "notes": "use as a substitute for sausage"
+    },
+    {
+      "name": "Russian-style sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tops off the peppers and remove the seeds.",
+    "In the skillet, sauté the mushrooms, onion, and kabanos until the onion is translucent.",
+    "Add the sauerkraut and cook for 2-3 minutes.",
+    "Add the tomato paste and vegetable broth, stirring to combine.",
+    "Stuff each pepper with the skillet mixture and place them in a baking dish.",
+    "Cover the peppers with foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, until the peppers are tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "vegetarian",
+    "stuffed-peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-snappy-russian-kabanos-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:05:23.328Z"
+}
