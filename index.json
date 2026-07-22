@@ -16026,5 +16026,60 @@
     "cuisine": "chinese",
     "totalTimeMin": 10,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-korean-perilla-leaf-wrap--keto",
+    "title": "Korean Leaf Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "korean",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zealous-savory-russian-beef-dumplings--indian",
+    "title": "Indian Beef Dumplings",
+    "tags": [
+      "indian",
+      "beef",
+      "dumplings",
+      "homemade"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-middle-eastern-almonds-shakshuka--vegan",
+    "title": "Shakshuka with Almonds",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "middle-eastern",
+      "shakshuka",
+      "almonds"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-slovakian-pork-roast--thai",
+    "title": "Thai-Style Pork Roast with Slovakian Twist",
+    "tags": [
+      "thai",
+      "pork",
+      "roast",
+      "slovakian",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
