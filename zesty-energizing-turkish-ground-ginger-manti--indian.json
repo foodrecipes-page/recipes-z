@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-energizing-turkish-ground-ginger-manti--indian",
+  "title": "Spicy Manti Koftas",
+  "description": "A twist on traditional Turkish manti, these spicy koftas are infused with Indian flavors and served with a side of zesty chutney.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Manti",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "Energizing Spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Chutney",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground turkey, grated ginger, crushed manti, energizing spices, coriander, cumin, and salt. Mix well.",
+    "Using your hands, shape the mixture into small koftas.",
+    "Grill the koftas for 5-6 minutes per side, or until cooked through.",
+    "Serve with a side of zesty chutney."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "turkish",
+    "kofta",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-energizing-turkish-ground-ginger-manti--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:13:43.781Z"
+}
