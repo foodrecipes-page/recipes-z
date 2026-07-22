@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-peruvian-potato-wrap--french",
+  "title": "French Peruvian Wrap with Zesty Potato Filling",
+  "description": "A fusion of French flavors with Peruvian spices in a crispy wrap. The zesty potato filling is the perfect accompaniment to a busy French day.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Zesty Sauce",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Peruvian Wrap",
+      "amount": "1 large",
+      "notes": "Tortilla or flatbread"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes until tender.",
+    "In a pan, heat the zesty sauce over medium heat.",
+    "Add the boiled potatoes to the pan and stir well.",
+    "In a separate pan, warm the Peruvian wrap according to package instructions.",
+    "Spoon the potato mixture onto the wrap.",
+    "Top with shredded cheddar cheese and chopped cilantro if desired.",
+    "Fold the wrap to enclose the filling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "peruvian-recipes",
+    "wrap-recipes",
+    "zesty-potato-filling"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peruvian-potato-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:41:44.303Z"
+}
