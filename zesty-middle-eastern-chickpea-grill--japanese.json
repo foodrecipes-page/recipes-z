@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-middle-eastern-chickpea-grill--japanese",
+  "title": "Grilled Teriyaki Chickpea Skewers",
+  "description": "A Japanese-inspired dish featuring marinated chickpeas grilled to perfection. This snack is perfect for a quick and easy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grill oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together soy sauce, honey, ginger, and garlic.",
+    "Add chickpeas to the bowl and toss to coat.",
+    "Thread chickpeas onto skewers, leaving a small space between each.",
+    "Brush grill with oil to prevent sticking.",
+    "Grill chickpeas for 10-12 minutes, turning occasionally.",
+    "Brush with zesty sauce during the last 2 minutes of grilling.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "teriyaki",
+    "chickpeas",
+    "japanese",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-middle-eastern-chickpea-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:33:21.021Z"
+}
