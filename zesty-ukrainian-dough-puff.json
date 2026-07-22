@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-ukrainian-dough-puff",
+  "title": "Puff Pastry Zesty Ukrainian Dough",
+  "description": "A flaky pastry dough infused with the flavors of Ukraine, made with puff pastry and a hint of zesty goodness.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Ukrainian Dough (homemade or store-bought)",
+      "amount": "1/2 cup (crumbly)",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large (beaten)",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry to a thickness of about 1/8 inch.",
+    "Sprinkle Ukrainian dough crumbles evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pastry with beaten egg.",
+    "Fold the pastry in half over the filling, pressing the edges to seal.",
+    "Use a knife or pastry brush to create a decorative edge.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Brush the top of the pastry with beaten egg and sprinkle with sugar.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Let cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "puff-pastry",
+    "ukrainian-dough",
+    "zesty",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-dough-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:36:42.316Z"
+}
