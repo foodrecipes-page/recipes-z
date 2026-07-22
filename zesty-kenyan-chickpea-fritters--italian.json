@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-kenyan-chickpea-fritters--italian",
+  "title": "Kenyan Chickpea Fritters Italian-Style",
+  "description": "A twist on traditional Italian fritters, incorporating Kenyan flavors and chickpea goodness.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan Chickpea Fritters",
+      "amount": "1 package"
+    },
+    {
+      "name": "Zesty Italian Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Crush the Kenyan Chickpea Fritters and mix with breadcrumbs, Parmesan cheese, egg, mozzarella cheese, and Italian seasoning.",
+    "Heat olive oil in a pan over medium heat. Add crushed garlic and cook for 1 minute.",
+    "Add the fritter mixture to the pan and cook for 2-3 minutes on each side.",
+    "Transfer the fritters to a baking sheet and bake for 10-12 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "chickpea",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-kenyan-chickpea-fritters--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:13:19.174Z"
+}
