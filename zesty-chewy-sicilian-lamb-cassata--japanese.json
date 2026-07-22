@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-chewy-sicilian-lamb-cassata--japanese",
+  "title": "Japanese Lamb Kebabs with Sicilian Cassata",
+  "description": "A fusion of Japanese flavors with the rich taste of lamb, served with a sweet Sicilian cassata. This dish is perfect for a summer evening.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Sicilian Cassata",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zesty Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chewy Ramen Noodles",
+      "amount": "200g",
+      "notes": "broken into smaller pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together sesame oil, salt, and pepper.",
+    "Add lamb cubes to the bowl and toss to coat.",
+    "Thread lamb cubes onto skewers.",
+    "Grill lamb for 5-7 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, toast ramen noodles in a pan over medium heat until crispy.",
+    "To assemble the dish, place grilled lamb on a plate, top with toasted ramen noodles, and serve with sliced Sicilian cassata.",
+    "Garnish with additional sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "kebabs",
+    "cassata"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-sicilian-lamb-cassata--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:43:51.666Z"
+}
