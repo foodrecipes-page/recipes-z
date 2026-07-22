@@ -8840,17 +8840,15 @@
   },
   {
     "slug": "zesty-nutty-croatian-sauerkraut-stew",
-    "title": "Zesty Nutty Croatian Sauerkraut Stew",
+    "title": "Croatian Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "fodmap-friendly",
-      "gluten-free",
-      "hearty-stew",
-      "nutty-flavors"
+      "comfort",
+      "croatian",
+      "hearty",
+      "stew"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "croatian",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -15916,6 +15914,21 @@
     ],
     "cuisine": null,
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-chickpea-grill--japanese",
+    "title": "Grilled Teriyaki Chickpea Skewers",
+    "tags": [
+      "grilled",
+      "teriyaki",
+      "chickpeas",
+      "japanese",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
     "shard": "z"
   }
 ]
