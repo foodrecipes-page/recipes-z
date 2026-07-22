@@ -1,0 +1,57 @@
+{
+  "slug": "zesty-charred-venezuelan-cheese-quesadilla",
+  "title": "Venezuelan Quesadilla",
+  "description": "A twist on the classic quesadilla, filled with melty cheese and a hint of Venezuelan spice.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quesadilla",
+      "amount": "4",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "zesty venezuelan cheese",
+      "amount": "1 cup",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "charred venezuelan spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Place a quesadilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with remaining quesadillas and cheese.",
+    "Cut into wedges and serve hot with a sprinkle of charred Venezuelan spice blend."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "vegan",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-venezuelan-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:50:43.058Z"
+}
