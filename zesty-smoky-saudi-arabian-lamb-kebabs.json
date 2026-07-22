@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-smoky-saudi-arabian-lamb-kebabs",
+  "title": "Grilled Saudi-Style Lamb Kebabs",
+  "description": "A traditional Saudi dish featuring marinated lamb kebabs grilled to perfection. Serve with your favorite sides for a flavorful and aromatic meal.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch/dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Tahini",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together zesty tahini, smoky paprika, garlic, olive oil, salt, and black pepper.",
+    "Add the lamb shoulder to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:18:07.035Z"
+}
