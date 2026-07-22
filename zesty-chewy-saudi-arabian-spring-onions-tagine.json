@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-chewy-saudi-arabian-spring-onions-tagine",
+  "title": "Spring Onion and Arabian Zesty Tagine",
+  "description": "A flavorful and aromatic North African dish made with saudi onions, zesty spices, and spring onions.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spring onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Arabian spices",
+      "amount": "1 tsp",
+      "notes": "zesty"
+    },
+    {
+      "name": "Zesty spices",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Saudi onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chewy dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped spring onions and saudi onions, cook until softened.",
+    "Add the Arabian spices, zesty spices, and salt. Cook for 1 minute.",
+    "Add the chewy dates, water, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 15 minutes.",
+    "Reduce the heat to low and cook for a further 5 minutes.",
+    "Serve hot and garnish with chopped spring onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "arabian",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-saudi-arabian-spring-onions-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:17:02.973Z"
+}
