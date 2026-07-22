@@ -1921,15 +1921,13 @@
   },
   {
     "slug": "zesty-charred-venezuelan-cheese-quesadilla",
-    "title": "Zesty Charred Venezuelan Cheese Quesadilla",
+    "title": "Venezuelan Quesadilla",
     "tags": [
-      "high-protein",
-      "lacto-vegetarian",
-      "latin-american",
-      "one-pan",
-      "quick-fix"
+      "quesadilla",
+      "vegan",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin American",
     "totalTimeMin": 18,
     "shard": "z"
   },
@@ -15962,6 +15960,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ethiopian-lamb-berbere-stew--vegetarian",
+    "title": "Ethiopian Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian-cuisine",
+      "hearty-stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "z"
   }
 ]
