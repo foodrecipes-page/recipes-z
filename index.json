@@ -16102,5 +16102,30 @@
     "cuisine": null,
     "totalTimeMin": 55,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas--vegetarian",
+    "title": "Uruguayan Empanadas",
+    "tags": [
+      "uruguayan",
+      "vegetarian",
+      "empanadas"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-chewy-sicilian-lamb-cassata--japanese",
+    "title": "Japanese Lamb Kebabs with Sicilian Cassata",
+    "tags": [
+      "japanese",
+      "lamb",
+      "kebabs",
+      "cassata"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "z"
   }
 ]
