@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas--vegetarian",
+  "title": "Uruguayan Empanadas",
+  "description": "Delicious empanadas filled with a flavorful mixture of cheese and spices, inspired by the flavors of Uruguay. A perfect vegetarian snack or appetizer.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cheese (Monterey Jack or similar)",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Spicy pepper flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Zesty paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fluffy puff pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Kabanos or Uruguayan-style sausage (vegetarian substitute)",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together the shredded cheese, spicy pepper flakes, and zesty paprika.",
+    "Place a spoonful of the cheese mixture onto one half of each dough circle.",
+    "Top with a few slices of kabanos or sausage.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with additional cheese.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spicy-fluffy-uruguayan-kabanos-sausages-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:28:27.579Z"
+}
