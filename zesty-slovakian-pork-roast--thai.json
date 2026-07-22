@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-slovakian-pork-roast--thai",
+  "title": "Thai-Style Pork Roast with Slovakian Twist",
+  "description": "A unique fusion of Thai flavors and Slovakian ingredients, this pork roast is a must-try.",
+  "cuisine": "thai",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "1 (1.5-2 pound) boneless loin",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons fish sauce",
+      "notes": ""
+    },
+    {
+      "name": "slovakian",
+      "amount": "1/2 cup pickled red cabbage, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together fish sauce, pickled red cabbage, brown sugar, soy sauce, and black pepper.",
+    "Rub the mixture all over the pork roast, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork roast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing and serving.",
+    "While the pork is resting, mix together the minced garlic and grated ginger in a small bowl.",
+    "Serve the sliced pork with the garlic-ginger mixture spooned over the top.",
+    "Garnish with additional pickled red cabbage, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "roast",
+    "slovakian",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-pork-roast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:54:54.268Z"
+}
