@@ -16000,5 +16000,31 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-kenyan-chickpea-fritters--italian",
+    "title": "Kenyan Chickpea Fritters Italian-Style",
+    "tags": [
+      "italian",
+      "snack",
+      "chickpea",
+      "kenyan"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-korean-perilla-leaf-wrap--chinese",
+    "title": "Perilla Leaf Wrap with Zesty Korean Sauce",
+    "tags": [
+      "chinese",
+      "korean",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
+    "shard": "z"
   }
 ]
