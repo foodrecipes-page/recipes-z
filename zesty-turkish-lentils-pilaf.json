@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-turkish-lentils-pilaf",
+  "title": "Turkish Lentil Pilaf",
+  "description": "A flavorful and nutritious Turkish-inspired dish made with red lentils and pilaf. Perfect for a quick and easy weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "Turkish seasoning blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the zesty seasoning blend and cook for 1 minute.",
+    "Add the rinsed and drained lentils, pilaf, and water to the saucepan.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-turkish-lentils-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:26:33.060Z"
+}
