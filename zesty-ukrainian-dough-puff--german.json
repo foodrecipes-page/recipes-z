@@ -1,0 +1,65 @@
+{
+  "slug": "zesty-ukrainian-dough-puff--german",
+  "title": "Traditional German Puff Pastry",
+  "description": "A classic German pastry filled with a delicious zesty filling, made with a flaky puff dough. Perfect as a snack or dessert.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "zesty filling",
+      "amount": "1 cup",
+      "notes": "mix of lemon juice, sugar, eggs, and vanilla extract"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Spread the zesty filling over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the granulated sugar over the filling.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Use a sharp knife to cut the pastry into diamonds or squares.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pastry",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-dough-puff--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:41:47.741Z"
+}
