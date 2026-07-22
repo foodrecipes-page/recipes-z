@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-silky-mediterranean-ground-beef-tagine--gluten-free",
+  "title": "Beef Tagine with Mediterranean Flair",
+  "description": "A flavorful and aromatic stew inspired by North African cuisine, featuring tender ground beef and a rich Mediterranean sauce.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Silky Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mediterranean Spices",
+      "amount": "1 tsp (5g)",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Tagine Paste",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the Mediterranean spices and cook for 1 minute.",
+    "Add the tagine paste and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 30 minutes.",
+    "Stir in the honey and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve over gluten-free couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "beef",
+    "tagine",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-mediterranean-ground-beef-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:51:50.538Z"
+}
