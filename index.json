@@ -15930,5 +15930,17 @@
     "cuisine": "Japanese",
     "totalTimeMin": 22,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-snappy-russian-kabanos-skillet--vegetarian",
+    "title": "Russian-Style Skillet Stuffed Peppers",
+    "tags": [
+      "russian",
+      "vegetarian",
+      "stuffed-peppers"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
+    "shard": "z"
   }
 ]
