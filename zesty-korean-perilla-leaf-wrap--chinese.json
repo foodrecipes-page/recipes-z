@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-korean-perilla-leaf-wrap--chinese",
+  "title": "Perilla Leaf Wrap with Zesty Korean Sauce",
+  "description": "A Chinese-inspired dish featuring perilla leaves wrapped around a flavorful Korean-inspired filling.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "Zesty Korean sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Leafy wrap",
+      "amount": "4-6 wraps"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together the zesty Korean sauce, sesame oil, Korean chili flakes, and minced garlic.",
+    "2. Lay a perilla leaf flat and place a small spoonful of the Korean-inspired filling in the center of the leaf.",
+    "3. Fold the bottom half of the perilla leaf up over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "4. Repeat with the remaining perilla leaves and filling.",
+    "5. Serve the perilla wraps with additional Korean chili flakes and crushed toasted sesame seeds on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "korean",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-perilla-leaf-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:39:58.259Z"
+}
