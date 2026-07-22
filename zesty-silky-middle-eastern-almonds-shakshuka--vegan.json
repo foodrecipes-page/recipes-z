@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-silky-middle-eastern-almonds-shakshuka--vegan",
+  "title": "Shakshuka with Almonds",
+  "description": "A vegan twist on the classic North African dish, featuring shakshuka in a rich and spicy sauce, topped with toasted almonds.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shakshuka",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/4 cup",
+      "notes": "tahini"
+    },
+    {
+      "name": "Eastern Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the Eastern Spice Mix and paprika, stir for 1 minute.",
+    "Add the shakshuka, stir to combine, and cook for 5 minutes.",
+    "Stir in the tahini and lemon juice.",
+    "Create 2-3 wells in the shakshuka mixture and crack in the eggs.",
+    "Transfer the skillet to the oven and bake at 375°F (190°C) for 15-20 minutes until the eggs are set.",
+    "Sprinkle the sliced almonds on top and bake for an additional 2-3 minutes until golden brown.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "middle-eastern",
+    "shakshuka",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-middle-eastern-almonds-shakshuka--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:41:55.144Z"
+}
