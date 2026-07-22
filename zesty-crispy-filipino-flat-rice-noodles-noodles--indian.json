@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles--indian",
+  "title": "Crispy Rice Noodles",
+  "description": "A simple and flavorful Indian-inspired noodle dish. Crispy rice noodles are a great side dish or snack.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 cup",
+      "notes": "preferably flat noodles"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 inch",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add ginger and garlic, sauté for 1 minute.",
+    "Add rice noodles, stir and cook for 2-3 minutes.",
+    "Add cilantro, lime juice, and salt. Mix well.",
+    "Remove from heat and let cool.",
+    "Serve crispy rice noodles hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-filipino-flat-rice-noodles-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:35:01.047Z"
+}
