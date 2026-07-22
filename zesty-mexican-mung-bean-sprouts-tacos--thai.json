@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-mexican-mung-bean-sprouts-tacos--thai",
+  "title": "Thai-Style Bean and Sprout Tacos",
+  "description": "A fusion of Thai and Mexican flavors in a crunchy taco shell. This dish is low in calories and rich in protein and fiber.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "Canned black beans",
+      "amount": "1/2 cup, drained and rinsed"
+    },
+    {
+      "name": "Zesty Mexican seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "4-6 shells"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tbsp, optional"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2-3 wedges, optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a dry skillet or grill over medium-high heat.",
+    "2. Cook the taco shells according to package instructions.",
+    "3. In a large bowl, combine the mung bean sprouts, black beans, and zesty Mexican seasoning.",
+    "4. Spoon the bean and sprout mixture into the cooked taco shells.",
+    "5. Top with chopped cilantro and a squeeze of lime juice, if desired.",
+    "6. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "mexican",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-mung-bean-sprouts-tacos--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:16:31.337Z"
+}
