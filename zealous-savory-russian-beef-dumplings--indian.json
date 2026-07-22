@@ -1,0 +1,70 @@
+{
+  "slug": "zealous-savory-russian-beef-dumplings--indian",
+  "title": "Indian Beef Dumplings",
+  "description": "A flavorful and hearty beef dumpling recipe, inspired by Indian cuisine. Serve with a side of naan or rice for a complete meal.",
+  "cuisine": "indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling wrappers"
+    },
+    {
+      "name": "Savory spice blend",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Russian dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zealous ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "for dumpling dough"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground beef, savory spice blend, russian dill, and zealous ginger. Mix well with your hands until just combined.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and then flatten slightly into a disk.",
+    "Place a tablespoon of the beef mixture in the center of each dough disk. Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil. Gently add the dumplings to the pot and cook for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "dumplings",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zealous-savory-russian-beef-dumplings--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:38:26.042Z"
+}
