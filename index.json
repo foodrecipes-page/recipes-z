@@ -2043,17 +2043,15 @@
   },
   {
     "slug": "zesty-chewy-saudi-arabian-spring-onions-tagine",
-    "title": "Zesty Chewy Saudi Arabian Spring Onions Tagine",
+    "title": "Spring Onion and Arabian Zesty Tagine",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "macrobiotic",
-      "one-pot",
-      "saudi-arabian",
-      "vegetarian"
+      "north african",
+      "arabian",
+      "vegetarian",
+      "dinner"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -11470,18 +11468,15 @@
   },
   {
     "slug": "zesty-smoky-saudi-arabian-lamb-kebabs",
-    "title": "Zesty Smoky Saudi Arabian Lamb Kebabs",
+    "title": "Grilled Saudi-Style Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "grilled",
-      "keto-friendly",
+      "saudi",
       "lamb",
-      "low-carb",
-      "middle-eastern",
-      "weeknight"
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi",
+    "totalTimeMin": 33,
     "shard": "z"
   },
   {
@@ -16080,6 +16075,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ukrainian-dough-puff--german",
+    "title": "Traditional German Puff Pastry",
+    "tags": [
+      "german",
+      "pastry",
+      "dessert",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-mediterranean-ground-beef-tagine--gluten-free",
+    "title": "Beef Tagine with Mediterranean Flair",
+    "tags": [
+      "gluten-free",
+      "beef",
+      "tagine",
+      "mediterranean"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "z"
   }
 ]
