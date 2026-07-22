@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-korean-perilla-leaf-wrap--keto",
+  "title": "Korean Leaf Wrap",
+  "description": "A low-carb Korean-inspired dish wrapped in a perilla leaf wrap. This keto recipe combines the flavors of zesty Korean chili flakes with the crunch of fresh leafy greens.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Perilla Leaf Wraps",
+      "amount": "4-6 wraps",
+      "notes": "available at most Asian markets or online"
+    },
+    {
+      "name": "Zesty Korean Chili Flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Green Leafy Greens (such as lettuce or spinach)",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Korean-Style BBQ Sauce (make sure it's sugar-free)",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the perilla leaf wraps with a small amount of oil and cook for 30-45 seconds on each side, until slightly charred.",
+    "In a large bowl, combine the cucumber, carrot, and green leafy greens.",
+    "Add the sliced avocado and Korean-style BBQ sauce (if using) to the bowl and toss to combine.",
+    "To assemble the wraps, place a few slices of the cucumber-carrot mixture onto each cooked perilla leaf wrap.",
+    "Sprinkle a pinch of zesty Korean chili flakes on top of the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "korean",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-korean-perilla-leaf-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:35:02.980Z"
+}
