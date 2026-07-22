@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-nutty-croatian-sauerkraut-stew",
+  "title": "Croatian Stew",
+  "description": "A hearty, comforting stew originating from Croatia, featuring a blend of flavors and textures.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zesty sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Croatian stew",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Nutty brown bread",
+      "amount": "2 slices",
+      "notes": "for serving (optional)"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add the caraway seeds and sauté for 1 minute.",
+    "Add the stew and sauerkraut. Stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with brown bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort",
+    "croatian",
+    "hearty",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-croatian-sauerkraut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:16:08.195Z"
+}
