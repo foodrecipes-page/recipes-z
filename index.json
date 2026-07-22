@@ -15973,5 +15973,32 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-energizing-turkish-ground-ginger-manti--indian",
+    "title": "Spicy Manti Koftas",
+    "tags": [
+      "indian",
+      "turkish",
+      "kofta",
+      "snack",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-peruvian-potato-wrap--french",
+    "title": "French Peruvian Wrap with Zesty Potato Filling",
+    "tags": [
+      "french-cuisine",
+      "peruvian-recipes",
+      "wrap-recipes",
+      "zesty-potato-filling"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "z"
   }
 ]
