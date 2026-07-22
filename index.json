@@ -12836,16 +12836,13 @@
   },
   {
     "slug": "zesty-turkish-lentils-pilaf",
-    "title": "zesty turkish lentils pilaf",
+    "title": "Turkish Lentil Pilaf",
     "tags": [
-      "easy-meals",
-      "high-fiber",
-      "lentils",
-      "one-pan",
-      "turkish",
-      "vegetarian"
+      "lentil",
+      "pilaf",
+      "turkish"
     ],
-    "cuisine": "turkish",
+    "cuisine": "Turkish",
     "totalTimeMin": 35,
     "shard": "z"
   },
@@ -12879,16 +12876,14 @@
   },
   {
     "slug": "zesty-ukrainian-dough-puff",
-    "title": "Zesty Ukrainian Dough Puff",
+    "title": "Puff Pastry Zesty Ukrainian Dough",
     "tags": [
-      "crunchy-snacks",
-      "garlic-lovers",
-      "homemade-pastry",
-      "keto-friendly",
-      "low-carb",
-      "ukrainian-cuisine"
+      "puff-pastry",
+      "ukrainian-dough",
+      "zesty",
+      "pastry"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "Eastern European",
     "totalTimeMin": 40,
     "shard": "z"
   },
@@ -15941,6 +15936,32 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-filipino-flat-rice-noodles-noodles--indian",
+    "title": "Crispy Rice Noodles",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "quick-cooking"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-mexican-mung-bean-sprouts-tacos--thai",
+    "title": "Thai-Style Bean and Sprout Tacos",
+    "tags": [
+      "thai",
+      "mexican",
+      "veggie",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "z"
   }
 ]
