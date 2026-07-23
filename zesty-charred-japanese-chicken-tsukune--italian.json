@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-charred-japanese-chicken-tsukune--italian",
+  "title": "Japanese-Style Chicken Tsukune with Italian Twist",
+  "description": "A fusion of Italian and Japanese flavors in this delicious chicken skewer dish. Grilled to perfection, it's a perfect meal for a summer evening.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Japanese tsukune sauce",
+      "amount": "1/4 cup",
+      "notes": "or substitute with soy sauce and sake"
+    },
+    {
+      "name": "zesty Italian dressing",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "charred bell peppers",
+      "amount": "2",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Italian parsley",
+      "amount": "",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together tsukune sauce, Italian dressing, and minced garlic.",
+    "Add chicken pieces to the bowl and toss to coat with the sauce.",
+    "Thread chicken, bell peppers, and onion onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Serve hot with additional tsukune sauce and zesty Italian dressing on the side.",
+    "Garnish with chopped Italian parsley, if desired.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "japanese",
+    "chicken",
+    "skewers",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-japanese-chicken-tsukune--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:10:22.197Z"
+}
