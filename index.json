@@ -16127,5 +16127,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-garlicky-french-rice-galette--mexican",
+    "title": "Mexican Galette with Zesty Rice",
+    "tags": [
+      "mexican",
+      "galette",
+      "rice"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
