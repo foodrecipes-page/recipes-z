@@ -3732,15 +3732,16 @@
   },
   {
     "slug": "zesty-crunchy-portuguese-freekeh-tagine",
-    "title": "Crunchy Freekeh Salad with Zesty Vinaigrette",
+    "title": "Portuguese Tagine Chicken Stew",
     "tags": [
-      "salad",
-      "moroccan",
-      "gluten-free",
-      "vegetarian"
+      "portuguese",
+      "chicken",
+      "stew",
+      "tagine",
+      "freekeh"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 15,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -12014,17 +12015,14 @@
   },
   {
     "slug": "zesty-split-irish-peas-stew",
-    "title": "Zesty Split Irish Peas Stew",
+    "title": "Hearty Irish Stew",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "hearty",
+      "comforting",
+      "stew"
     ],
     "cuisine": "irish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "z"
   },
   {
@@ -16138,6 +16136,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-turkish-flour-kebabs--keto",
+    "title": "Turkish Kebabs with Zesty Silky Sauce",
+    "tags": [
+      "turkish",
+      "kebabs",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "z"
   }
 ]
