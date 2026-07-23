@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-nutty-indian-chicken-curry--japanese",
+  "title": "Japanese-Style Chicken Curry",
+  "description": "A fusion dish that combines Japanese flavors with Indian spices. This curry is a hearty and comforting meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "zesty curry sauce",
+      "amount": "250ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nutty sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "indian curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large pan over medium heat.",
+    "2. Add the diced onion and sauté until softened, about 3-4 minutes.",
+    "3. Add the minced garlic and cook for another minute, until fragrant.",
+    "4. Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "5. Add the curry powder and stir to combine. Cook for 1 minute.",
+    "6. Pour in the zesty curry sauce and bring to a simmer.",
+    "7. Reduce heat to low and let the curry simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "8. Stir in the coconut milk, if using.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, garnished with chopped green onion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chicken",
+    "japanese",
+    "indian",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-nutty-indian-chicken-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:56:59.733Z"
+}
