@@ -16301,5 +16301,58 @@
     "cuisine": "italian",
     "totalTimeMin": 110,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-portuguese-chicken-flatbread--german",
+    "title": "German Chicken Shawarma",
+    "tags": [
+      "german",
+      "chicken",
+      "shawarma",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zingy-jaggery-idli-sake--thai",
+    "title": "Spicy Idli Stir Fry",
+    "tags": [
+      "thai",
+      "idli",
+      "stir-fry",
+      "sake",
+      "zingy",
+      "jaggery"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ukrainian-dough-puff--thai",
+    "title": "Puff Pastry Spring Rolls with Zesty Filling",
+    "tags": [
+      "thai",
+      "spring-rolls",
+      "puff-pastry",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-venezuelan-cheese-crumble--thai",
+    "title": "Crispy Cheese Crumble Bites",
+    "tags": [
+      "snack",
+      "finger-food",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
