@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-ukrainian-dough-puff--thai",
+  "title": "Puff Pastry Spring Rolls with Zesty Filling",
+  "description": "A delicious and crispy Thai-inspired spring roll dish with a zesty and flavorful filling, wrapped in puff pastry.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff pastry dough",
+      "amount": "1 package (thawed)",
+      "notes": null
+    },
+    {
+      "name": "Zesty filling (see below for ingredients)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roll out the puff pastry dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "3. Cut the dough into 4 equal rectangles.",
+    "4. Spoon the zesty filling down the center of each rectangle, leaving a 1/2 inch border around the edges.",
+    "5. Brush the edges of the pastry with water, then fold the pastry over the filling to form a triangle.",
+    "6. Press the edges to seal the pastry, making sure there are no air pockets.",
+    "7. Brush the tops of the rolls with vegetable oil and sprinkle with salt and pepper.",
+    "8. Place the rolls on a baking sheet lined with parchment paper, seam-side down.",
+    "9. Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "10. Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spring-rolls",
+    "puff-pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-dough-puff--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:39:53.366Z"
+}
