@@ -1,0 +1,78 @@
+{
+  "slug": "zesty-garlicky-french-rice-galette--mexican",
+  "title": "Mexican Galette with Zesty Rice",
+  "description": "A flavorful and easy-to-make galette dish inspired by Mexican cuisine, served with a zesty rice side.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French Galette Crust",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky Filling",
+      "amount": "1 medium onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the French Galette Crust to a thickness of about 1/8 inch.",
+    "In a pan, sauté the diced onion until softened.",
+    "Add the Zesty Seasoning, Garlic Powder, Salt, and Pepper to the pan and stir well.",
+    "Transfer the filling to the center of the galette crust, leaving a 1 inch border.",
+    "Fold the crust over the filling, pressing the edges to seal.",
+    "Bake the galette for 20-25 minutes or until golden brown.",
+    "Cook the Zesty Rice according to package instructions.",
+    "Serve the galette with a side of Zesty Rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "galette",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-french-rice-galette--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:44:38.969Z"
+}
