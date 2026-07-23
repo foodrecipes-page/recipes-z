@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-canadian-chicken-curry--vegetarian",
+  "title": "Canadian Curry Chicken-Free Delight",
+  "description": "A flavorful vegetarian alternative to traditional chicken curry, featuring zesty ingredients and a Canadian twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty zucchini",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "canadian cheese curds",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, sauté grated zucchini and carrots in a little oil until tender.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Stir in shredded cheese curds until melted and well combined.",
+    "Transfer the mixture to a baking dish and top with chopped green onions.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "canadian",
+    "curry",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-canadian-chicken-curry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:59:34.690Z"
+}
