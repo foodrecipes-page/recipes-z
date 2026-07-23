@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-bouncy-norwegian-flour-pancakes",
+  "title": "Norwegian Pancakes",
+  "description": "A traditional Norwegian recipe for delicious pancakes, perfect for a cold winter morning.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "pancakes",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, water, eggs, and mix until smooth.",
+    "Add the zesty and bouncy if using, and stir until well combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings.",
+    "Enjoy your delicious Norwegian pancakes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bouncy-norwegian-flour-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:07:47.831Z"
+}
