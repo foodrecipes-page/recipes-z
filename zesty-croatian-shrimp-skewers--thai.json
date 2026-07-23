@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-croatian-shrimp-skewers--thai",
+  "title": "Thai Shrimp Skewers",
+  "description": "A flavorful and spicy Thai-inspired dish featuring succulent shrimp grilled to perfection on skewers.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "croatian",
+      "amount": "4-6",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "bamboo"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together vegetable oil, zesty, fish sauce, brown sugar, lime juice, and chili flakes.",
+    "3. Add the chopped croatian and minced garlic to the bowl and mix well.",
+    "4. Add the shrimp to the bowl and toss to coat with the marinade.",
+    "5. Thread the shrimp and croatian onto the skewers, leaving a small space between each piece.",
+    "6. Brush the grill with oil to prevent sticking.",
+    "7. Grill the skewers for 8-10 minutes, or until the shrimp are pink and the croatian is lightly charred.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "shrimp",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-shrimp-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:34:35.423Z"
+}
