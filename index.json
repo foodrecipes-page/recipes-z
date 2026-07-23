@@ -1585,17 +1585,14 @@
   },
   {
     "slug": "zesty-buttery-russian-duck-noodles",
-    "title": "Zesty Buttery Russian Duck Noodles",
+    "title": "Duck Noodle Stir Fry",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "one-pot",
-      "russian-cuisine",
-      "weeknight"
+      "duck",
+      "noodles",
+      "asian-fusion"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -16210,6 +16207,59 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-nutty-indian-chicken-curry--japanese",
+    "title": "Japanese-Style Chicken Curry",
+    "tags": [
+      "curry",
+      "chicken",
+      "japanese",
+      "indian",
+      "pescatarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-canadian-chicken-curry--vegetarian",
+    "title": "Canadian Curry Chicken-Free Delight",
+    "tags": [
+      "vegetarian",
+      "canadian",
+      "curry",
+      "zucchini"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-algerian-puff-pastry-bowl--chinese",
+    "title": "Zesty Pastry Spring Rolls",
+    "tags": [
+      "chinese",
+      "dessert",
+      "pastries",
+      "spring-rolls"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-spanish-falafel-patatas-bravas--italian",
+    "title": "Italian Spicy Patatas Bravas",
+    "tags": [
+      "italian",
+      "spicy",
+      "patatas-bravas",
+      "tapas"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "z"
   }
 ]
