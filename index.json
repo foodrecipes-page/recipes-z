@@ -16150,5 +16150,30 @@
     "cuisine": "Turkish",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-croatian-shrimp-skewers--thai",
+    "title": "Thai Shrimp Skewers",
+    "tags": [
+      "thaifood",
+      "shrimp",
+      "skewers"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-dutch-poffertjes-wrap--thai",
+    "title": "Thai-Style Poffertjes Wrap",
+    "tags": [
+      "thai",
+      "dutch",
+      "snack",
+      "wrap"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "z"
   }
 ]
