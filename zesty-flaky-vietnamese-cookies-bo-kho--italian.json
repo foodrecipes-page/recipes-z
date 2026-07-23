@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-flaky-vietnamese-cookies-bo-kho--italian",
+  "title": "Bo Kho Italian Style Beef Soup",
+  "description": "A twist on the classic Vietnamese Beef Soup, Bo Kho is given an Italian flair with the addition of Italian seasonings and herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky bo beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vietnamese kho sauce",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "zesty italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried oregano, basil, and thyme blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, garlic, carrots, and celery and cook until the vegetables are tender, about 10 minutes.",
+    "Add kho sauce, Italian seasoning, beef broth, and dried tomatoes.",
+    "Bring to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with grated parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "soup",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-flaky-vietnamese-cookies-bo-kho--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:33:22.879Z"
+}
