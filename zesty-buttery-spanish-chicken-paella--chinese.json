@@ -1,0 +1,97 @@
+{
+  "slug": "zesty-buttery-spanish-chicken-paella--chinese",
+  "title": "Kung Pao Chicken Paella",
+  "description": "A Chinese twist on the classic Spanish dish, featuring chicken and spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb",
+      "notes": "boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "zesty rice",
+      "amount": "2 cups",
+      "notes": "Spanish rice with a zesty flavor"
+    },
+    {
+      "name": "spanish paella pan",
+      "amount": "1 pan",
+      "notes": "large, shallow pan for cooking paella"
+    },
+    {
+      "name": "buttery olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking chicken and vegetables"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh ginger, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for added umami flavor"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": "for added sweetness"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for balancing flavors"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped peanuts for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery olive oil in the spanish paella pan over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the sliced ginger and minced garlic to the pan and cook until fragrant, about 1 minute.",
+    "Add the zesty rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the soy sauce, hoisin sauce, and sugar to the pan and stir to combine.",
+    "Return the chicken to the pan and stir to combine with the rice mixture.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Sprinkle the chopped peanuts over the top of the paella and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spanish",
+    "chicken",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-spanish-chicken-paella--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:27:58.802Z"
+}
