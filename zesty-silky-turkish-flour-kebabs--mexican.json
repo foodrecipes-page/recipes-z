@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-silky-turkish-flour-kebabs--mexican",
+  "title": "Turkish Kebab Tacos",
+  "description": "A twist on traditional tacos, this recipe combines the flavors of Mexico and Turkey in a delicious and easy-to-make meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "kebabs",
+      "amount": "1 package",
+      "notes": "turkish-style kebabs"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon",
+      "notes": "zesty sauce"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons",
+      "notes": "silky mayonnaise"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheese"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "mexican salsa"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "salt"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the kebabs with cumin, paprika, and salt.",
+    "Grill the kebabs for 5-7 minutes per side, or until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a kebab onto a tortilla, then topping with cheese, salsa, zesty sauce, and silky mayonnaise.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "kebabs",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-turkish-flour-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:54:29.846Z"
+}
