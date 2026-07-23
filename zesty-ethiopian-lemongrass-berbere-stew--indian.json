@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-ethiopian-lemongrass-berbere-stew--indian",
+  "title": "Ethiopian Chicken Stew",
+  "description": "A flavorful and spicy stew inspired by Ethiopian and Indian cuisine, made with tender chicken and aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Berbere Spice Mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add Berbere Spice Mix and cook for 1 minute, stirring constantly.",
+    "Add chicken, cook until browned on all sides, about 5-7 minutes.",
+    "Add stew, lemongrass, and zesty lemon juice, stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional lemongrass if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "ethiopian",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-lemongrass-berbere-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:33:21.542Z"
+}
