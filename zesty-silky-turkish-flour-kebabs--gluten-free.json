@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-silky-turkish-flour-kebabs--gluten-free",
+  "title": "Turkish Kebabs with Gluten-Free Wraps",
+  "description": "A flavorful and healthy take on traditional Turkish kebabs, served with gluten-free wraps for a convenient and satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zesty",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "silky",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 lb"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kebabs",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the kebabs onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together zesty and silky.",
+    "Brush the mixture onto the kebabs.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "Meanwhile, prepare the gluten-free wraps by mixing flour and water to form a dough.",
+    "Knead the dough for 5 minutes and let it rest for 10 minutes.",
+    "Divide the dough into 4-6 equal pieces, depending on desired wrap size.",
+    "Roll out each piece into a thin circle.",
+    "Grill the wraps for 30-60 seconds on each side, until lightly charred.",
+    "Serve the kebabs in the gluten-free wraps with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kebabs",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-turkish-flour-kebabs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:55:29.909Z"
+}
