@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-portuguese-chicken-flatbread--german",
+  "title": "German Chicken Shawarma",
+  "description": "A German twist on the classic Middle Eastern shawarma, served with zesty flatbread.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zesty flatbread",
+      "amount": "4-6 slices",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "portuguese peri-peri sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "sliced and separated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced and separated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "sliced and separated"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 bunch",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Marinate chicken in peri-peri sauce for at least 30 minutes.",
+    "Grill chicken until cooked through, about 5-6 minutes per side.",
+    "Warm flatbread by brushing with olive oil and grilling for 1-2 minutes.",
+    "Assemble shawarma by slicing chicken and placing on flatbread.",
+    "Top with sliced onion, cucumber, tomato, and lettuce.",
+    "Sprinkle feta cheese on top.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "shawarma",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-portuguese-chicken-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:12:42.647Z"
+}
