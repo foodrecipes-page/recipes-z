@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-herbal-polish-pork-bowl--italian",
+  "title": "Braised Pork Ragu with Herbs",
+  "description": "A hearty Italian-inspired pork ragu made with tender braised meat, fresh herbs, and a hint of zesty flavor.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "zesty Italian seasoning",
+      "amount": "2 tablespoons",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the zesty Italian seasoning and cook for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the red wine and bring to a boil.",
+    "Return the browned pork to the pot and cover with a lid.",
+    "Transfer the pot to the oven and braise for 2 1/2 hours, or until the pork is tender.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve the braised pork over pasta or polenta, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "braised-pork",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herbal-polish-pork-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:48:28.722Z"
+}
