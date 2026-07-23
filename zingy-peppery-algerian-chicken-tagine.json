@@ -1,0 +1,91 @@
+{
+  "slug": "zingy-peppery-algerian-chicken-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A traditional Algerian dish made with marinated chicken cooked in a flavorful tagine sauce. This recipe is a perfect blend of spices and herbs that will transport your taste buds to the markets of Algiers.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Peppery",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Zingy",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Algerian spice blend, peppery, and zingy. Cook for 1 minute.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25-30 minutes or until the chicken is cooked through.",
+    "Stir in the tagine and cook for an additional 5 minutes.",
+    "Serve hot and garnish with fresh herbs, if desired.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "north-african",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-peppery-algerian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:47:10.924Z"
+}
