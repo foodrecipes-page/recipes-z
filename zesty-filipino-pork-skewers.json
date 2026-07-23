@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-filipino-pork-skewers",
+  "title": "Zesty Pork Skewers",
+  "description": "A flavorful and spicy twist on traditional pork skewers, inspired by Filipino cuisine. Perfect for a quick and easy dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to cut the pork into even sizes for even grilling."
+    },
+    {
+      "name": "Zesty Filipino marinade (see below)",
+      "amount": "1 cup",
+      "notes": "Adjust the level of spiciness to your liking."
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12",
+      "notes": "Soak the skewers in water for at least 30 minutes before grilling."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the grill grates."
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for extra heat."
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "For serving."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together the zesty Filipino marinade ingredients.",
+    "Add the pork cubes to the marinade and mix until coated.",
+    "Thread the marinated pork onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill grates with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, or until the pork is cooked through and slightly charred.",
+    "Transfer the skewers to a plate and garnish with chopped green onions, chili flakes, and a squeeze of lime juice.",
+    "Serve immediately with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "skewers",
+    "pork",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-filipino-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:14:51.705Z"
+}
