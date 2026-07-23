@@ -1,0 +1,58 @@
+{
+  "slug": "zesty-venezuelan-cheese-crumble--thai",
+  "title": "Crispy Cheese Crumble Bites",
+  "description": "A fusion of Thai and Latin flavors, these crispy bites are perfect as a snack.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "Soft cheese"
+    },
+    {
+      "name": "Zesty crumble",
+      "amount": "1/4 cup",
+      "notes": "Thai-inspired crumble"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For coating"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix crumbled cheese and zesty crumble.",
+    "Dip each cheese cube into flour, coating evenly.",
+    "Heat a non-stick pan over medium heat and add a small amount of oil.",
+    "Fry the cheese cubes until golden brown on both sides.",
+    "Place the fried cheese cubes on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 5-7 minutes or until crispy.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "finger-food",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-cheese-crumble--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:42:05.500Z"
+}
