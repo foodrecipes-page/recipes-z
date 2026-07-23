@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-sweet-german-oranges-pudding--french",
+  "title": "French Orange Pudding",
+  "description": "A creamy and sweet dessert inspired by French traditions, featuring the freshness of oranges.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oranges",
+      "amount": "3 medium",
+      "notes": "Juice and zest for garnish"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tsp",
+      "notes": "Zest from above oranges"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 1/2 cups",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "german",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 package",
+      "notes": "Pudding mix, vanilla or orange flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Whisk together sweet, german, and pudding mix.",
+    "Add juice of oranges and whisk until combined.",
+    "Pour mixture into ramekins or individual baking dishes.",
+    "Bake for 25-30 minutes or until set.",
+    "Let cool in ramekins for 5 minutes before serving.",
+    "Garnish with orange zest and a slice of orange.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "orange",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-sweet-german-oranges-pudding--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:22:11.871Z"
+}
