@@ -1,0 +1,60 @@
+{
+  "slug": "zesty-silky-turkish-flour-kebabs--keto",
+  "title": "Turkish Kebabs with Zesty Silky Sauce",
+  "description": "A keto friendly dish featuring marinated Turkish kebabs served with a zesty and silky sauce made from scratch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turkish Kebabs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Silky",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together flour, zesty, and silky.",
+    "Add the Turkish kebabs to the bowl and toss to coat.",
+    "Line a baking sheet with parchment paper and arrange the kebabs.",
+    "Bake for 20-25 minutes or until the kebabs are cooked through.",
+    "Meanwhile, mix the remaining sauce ingredients in a separate bowl.",
+    "Once the kebabs are done, brush the sauce on top of each kebab.",
+    "Serve immediately and enjoy!",
+    "Note: If you prefer a crispy exterior, broil the kebabs for an additional 2-3 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-silky-turkish-flour-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:47:37.863Z"
+}
