@@ -13201,17 +13201,15 @@
   },
   {
     "slug": "zesty-velvety-mediterranean-eggplant-tagine",
-    "title": "Zesty Velvety Mediterranean Eggplant Tagine",
+    "title": "Eggplant Tagine with Zesty Yoghurt Sauce",
     "tags": [
       "eggplant",
-      "lazy-sunday",
-      "mediterranean",
-      "one-pot",
-      "ovo-vegetarian",
-      "tagine"
+      "tagine",
+      "north-african",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -16187,6 +16185,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-herbal-polish-pork-bowl--italian",
+    "title": "Braised Pork Ragu with Herbs",
+    "tags": [
+      "italian",
+      "braised-pork",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 165,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-poached-canadian-kielbasa-tagine--indian",
+    "title": "Spicy Kielbasa Tagine",
+    "tags": [
+      "indian",
+      "spicy",
+      "keilbasa",
+      "tagine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
     "shard": "z"
   }
 ]
