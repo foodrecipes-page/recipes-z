@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-slovakian-pork-roast--italian",
+  "title": "Slovakian-Italian Roast Pork",
+  "description": "Slow-roasted pork shoulder infused with Slovakian zesty flavors and Italian seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": "bone-in"
+    },
+    {
+      "name": "zesty slovakian paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (165°C).",
+    "Season the pork shoulder with salt, pepper, garlic powder, and italian seasoning.",
+    "Heat olive oil in a large Dutch oven over medium-high heat. Sear the pork shoulder until browned on all sides, about 2-3 minutes per side. Remove the pork from the pot and set aside.",
+    "Add the chopped onion, carrots, and potatoes to the pot. Cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the paprika to the pot and stir to combine.",
+    "Return the pork shoulder to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and roast for 2-3 hours, or until the pork is tender and falls apart easily.",
+    "Remove the pot from the oven and let the pork rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "roast",
+    "italian",
+    "slow-cooker",
+    "crock-pot",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-pork-roast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:35:55.954Z"
+}
