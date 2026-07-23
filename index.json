@@ -16261,5 +16261,45 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-brazilian-beef-bowl--vegetarian",
+    "title": "Brazilian Beef and Zesty Bowl",
+    "tags": [
+      "vegetarian",
+      "lunch",
+      "brazilian",
+      "rice-bowl"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-charred-japanese-chicken-tsukune--italian",
+    "title": "Japanese-Style Chicken Tsukune with Italian Twist",
+    "tags": [
+      "italian",
+      "japanese",
+      "chicken",
+      "skewers",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-flaky-vietnamese-cookies-bo-kho--italian",
+    "title": "Bo Kho Italian Style Beef Soup",
+    "tags": [
+      "italian",
+      "beef",
+      "soup",
+      "comfort food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 110,
+    "shard": "z"
   }
 ]
