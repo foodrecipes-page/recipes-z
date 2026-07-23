@@ -1,0 +1,65 @@
+{
+  "slug": "zingy-jaggery-idli-sake--thai",
+  "title": "Spicy Idli Stir Fry",
+  "description": "A unique Thai-inspired dish combining crispy idli with sweet jaggery and spicy zingy. Served with a side of sake for an added depth of flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Idli",
+      "amount": "1 cup",
+      "notes": "Crisp and firm"
+    },
+    {
+      "name": "Jaggery",
+      "amount": "2 tablespoons",
+      "notes": "Grated for a fine texture"
+    },
+    {
+      "name": "Zingy",
+      "amount": "1 tablespoon",
+      "notes": "Chopped fresh for an added kick"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons",
+      "notes": "Sake adds a rich umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add the sake to the pan and stir to combine with the zingy.",
+    "Add the grated jaggery to the pan and stir to combine.",
+    "Add the crispy idli to the pan and stir-fry for 5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy.",
+    "Optional: Garnish with additional zingy and jaggery for a pop of color and added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "idli",
+    "stir-fry",
+    "sake",
+    "zingy",
+    "jaggery"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-jaggery-idli-sake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:13:47.099Z"
+}
