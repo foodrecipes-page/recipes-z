@@ -1181,16 +1181,14 @@
   },
   {
     "slug": "zesty-bouncy-norwegian-flour-pancakes",
-    "title": "Zesty Bouncy Norwegian Flour Pancakes",
+    "title": "Norwegian Pancakes",
     "tags": [
-      "breakfast-ideas",
-      "easy-brunch",
-      "flour-pancakes",
-      "norwegian-recipes",
-      "sattvic-friendly"
+      "breakfast",
+      "norwegian",
+      "pancakes"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -4784,17 +4782,15 @@
   },
   {
     "slug": "zesty-filipino-pork-skewers",
-    "title": "Zesty Filipino Pork Skewers",
+    "title": "Zesty Pork Skewers",
     "tags": [
-      "filipino-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "pork-recipes",
+      "filipino",
       "skewers",
-      "sous-vide"
+      "pork",
+      "dinner"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 150,
+    "totalTimeMin": 23,
     "shard": "z"
   },
   {
