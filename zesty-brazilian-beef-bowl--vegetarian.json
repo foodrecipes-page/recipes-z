@@ -1,0 +1,93 @@
+{
+  "slug": "zesty-brazilian-beef-bowl--vegetarian",
+  "title": "Brazilian Beef and Zesty Bowl",
+  "description": "A vegetarian twist on traditional Brazilian beef dishes, this zesty bowl is a flavorful and colorful meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian zesty rice",
+      "amount": "500g",
+      "notes": "Use leftover rice if you can"
+    },
+    {
+      "name": "Roasted vegetables (bell peppers, onions, carrots)",
+      "amount": "1 large cup",
+      "notes": "Choose your favorite colors"
+    },
+    {
+      "name": "Black beans",
+      "amount": "250g",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "100g",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1 large",
+      "notes": "Mash or slice as desired"
+    },
+    {
+      "name": "Fried or poached egg",
+      "amount": "2",
+      "notes": "Optional"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "Serve on the side"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Cook the Brazilian zesty rice according to package instructions or leftover leftovers.",
+    "Preheat your oven to 220°C (425°F) and roast the vegetables with a drizzle of oil until tender.",
+    "Heat the black beans in a pan with a splash of water until warm.",
+    "Mix the chimichurri sauce with red pepper flakes and adjust seasoning.",
+    "Assemble the bowls by dividing the rice among plates, topping with roasted vegetables, black beans, sliced avocado, and a fried or poached egg (if using).",
+    "Drizzle the chimichurri sauce over the top and garnish with chopped cilantro.",
+    "Serve with lime wedges on the side.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "lunch",
+    "brazilian",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-brazilian-beef-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:02:57.032Z"
+}
