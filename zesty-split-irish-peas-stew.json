@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-split-irish-peas-stew",
+  "title": "Hearty Irish Stew",
+  "description": "A comforting and flavorful stew made with tender beef, potatoes, and vegetables. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "irish",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zesty split peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "irish stew beef (cut into 1-inch cubes)",
+      "amount": "2 pounds",
+      "notes": "preferably chuck or round"
+    },
+    {
+      "name": "carrots (peeled and chopped)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes (peeled and chopped)",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery (chopped)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "irish stew seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside. Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the garlic, thyme, and irish stew seasoning to the pot and cook for 1 minute.",
+    "Add the browned beef back to the pot along with the split peas, potatoes, and water.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew for 2 1/2 hours, or until the beef and vegetables are tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "comforting",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-split-irish-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:37:00.566Z"
+}
