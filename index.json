@@ -16175,5 +16175,18 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-buttery-spanish-chicken-paella--chinese",
+    "title": "Kung Pao Chicken Paella",
+    "tags": [
+      "chinese",
+      "spanish",
+      "chicken",
+      "paella"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
