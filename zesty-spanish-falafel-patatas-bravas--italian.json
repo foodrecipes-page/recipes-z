@@ -1,0 +1,75 @@
+{
+  "slug": "zesty-spanish-falafel-patatas-bravas--italian",
+  "title": "Italian Spicy Patatas Bravas",
+  "description": "A twist on the classic Spanish tapas dish, with an Italian flair and spicy kick.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Patatas Bravas",
+      "amount": "4-6 medium-sized potatoes",
+      "notes": ""
+    },
+    {
+      "name": "Falafel Crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Spanish Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the potatoes into 1-inch cubes and place them in a bowl of cold water to soak for 30 minutes.",
+    "2. In a separate bowl, mix together the falafel crumbs, olive oil, garlic, red pepper flakes, salt, and Italian seasoning.",
+    "3. Drain the potatoes and pat them dry with paper towels.",
+    "4. Add the potatoes to the falafel crumb mixture and toss to combine.",
+    "5. Heat about 1/4 cup of olive oil in a large skillet over medium-high heat.",
+    "6. Add the potatoes to the skillet and cook for about 5-7 minutes on each side, until crispy and golden brown.",
+    "7. Serve the Spicy Patatas Bravas hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spicy",
+    "patatas-bravas",
+    "tapas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spanish-falafel-patatas-bravas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:45:42.353Z"
+}
