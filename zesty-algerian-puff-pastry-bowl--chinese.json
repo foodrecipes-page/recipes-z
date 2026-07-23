@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-algerian-puff-pastry-bowl--chinese",
+  "title": "Zesty Pastry Spring Rolls",
+  "description": "A Chinese-inspired dessert featuring zesty pastry spring rolls with a crispy exterior and a sweet surprise inside.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Zesty Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Algerian Spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bowl (for serving)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut the pastry into 4 equal squares.",
+    "Place a sheet of zesty pastry in the center of each square.",
+    "Brush the edges of the pastry with a little milk.",
+    "Fold the pastry squares in half to form triangles.",
+    "Press the edges to seal the pastry.",
+    "Brush the tops of the pastry with a little egg.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm in a bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "pastries",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-algerian-puff-pastry-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:05:39.040Z"
+}
