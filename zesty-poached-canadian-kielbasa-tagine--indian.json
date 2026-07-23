@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-poached-canadian-kielbasa-tagine--indian",
+  "title": "Spicy Kielbasa Tagine",
+  "description": "A unique and flavorful tagine dish made with spicy kielbasa sausage, served in a traditional Indian-style stew.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/2 cup, chopped",
+      "notes": "such as red onion or scallions"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cups, chopped",
+      "notes": "such as bell peppers or carrots"
+    },
+    {
+      "name": "canadian",
+      "amount": "2 cups, chopped",
+      "notes": "such as potatoes or zucchini"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium heat.",
+    "Add kielbasa and cook until browned, about 5 minutes.",
+    "Add zesty, tagine, and canadian, and cook until the vegetables are tender, about 10 minutes.",
+    "Add garam masala, cumin powder, coriander powder, turmeric, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "keilbasa",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-poached-canadian-kielbasa-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:19:38.574Z"
+}
