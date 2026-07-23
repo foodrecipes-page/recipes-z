@@ -14069,16 +14069,17 @@
   },
   {
     "slug": "zzesty-smoky-tofu-kicked-wrap",
-    "title": "Zzesty Smoky Tofu Kicked Wrap",
+    "title": "Smoky Tofu Wrap",
     "tags": [
-      "crisp",
-      "german-dish",
-      "low-fat-friendly",
-      "quick-fix",
-      "smoky"
+      "vegan",
+      "gluten-free",
+      "healthy",
+      "lunch",
+      "snack",
+      "wrap"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "Vegan",
+    "totalTimeMin": 20,
     "shard": "z"
   },
   {
@@ -16438,6 +16439,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-light-korean-chicken-wings-bowl--french",
+    "title": "French Chicken Wings Bowl",
+    "tags": [
+      "chicken",
+      "korean-french",
+      "fried-wings"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "z"
   }
 ]
