@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-velvety-mediterranean-eggplant-tagine",
+  "title": "Eggplant Tagine with Zesty Yoghurt Sauce",
+  "description": "A flavorful North African-inspired eggplant dish cooked in a rich and aromatic tagine sauce, served with a refreshing zesty yoghurt sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "zesty yoghurt sauce (see notes)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add eggplant and cook until tender, about 10 minutes.",
+    "Stir in tagine and cook for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with zesty yoghurt sauce.",
+    "To make zesty yoghurt sauce, combine 1 cup yoghurt, 1 tablespoon lemon juice, and 1/4 cup chopped fresh parsley in a bowl. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "tagine",
+    "north-african",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-mediterranean-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:33:33.849Z"
+}
