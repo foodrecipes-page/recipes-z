@@ -13946,18 +13946,16 @@
   },
   {
     "slug": "zingy-peppery-algerian-chicken-tagine",
-    "title": "Zingy Peppery Algerian Chicken Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
+      "algerian",
       "chicken",
-      "high-protein",
+      "tagine",
       "north-african",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "moroccan"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
     "shard": "z"
   },
   {
@@ -16349,6 +16347,84 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-arabian-cheese-bowl--thai",
+    "title": "Thai Zesty Cheese Bowl",
+    "tags": [
+      "thai",
+      "lunch",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ethiopian-lemongrass-berbere-stew--indian",
+    "title": "Ethiopian Chicken Stew",
+    "tags": [
+      "indian",
+      "ethiopian",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-slovakian-pork-roast--italian",
+    "title": "Slovakian-Italian Roast Pork",
+    "tags": [
+      "pork",
+      "roast",
+      "italian",
+      "slow-cooker",
+      "crock-pot",
+      "slovakian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 165,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-turkish-flour-kebabs--mexican",
+    "title": "Turkish Kebab Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "kebabs",
+      "turkish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-silky-turkish-flour-kebabs--gluten-free",
+    "title": "Turkish Kebabs with Gluten-Free Wraps",
+    "tags": [
+      "gluten-free",
+      "kebabs",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-salmon-soup--vegan",
+    "title": "Irish Zesty Soup",
+    "tags": [
+      "comfort-food",
+      "soup",
+      "irish-cuisine",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
