@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-buttery-russian-duck-noodles",
+  "title": "Duck Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with duck, noodles, and a hint of Russian spice.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Duck breast",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Buttery zesty sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add the sliced duck breast and cook until browned and cooked through.",
+    "Add the cooked noodles to the pan and stir in the zesty sauce.",
+    "Cook for an additional 2-3 minutes until the sauce is bubbly and the noodles are well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "noodles",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-russian-duck-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:26:42.518Z"
+}
