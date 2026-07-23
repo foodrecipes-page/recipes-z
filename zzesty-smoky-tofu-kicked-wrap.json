@@ -1,0 +1,76 @@
+{
+  "slug": "zzesty-smoky-tofu-kicked-wrap",
+  "title": "Smoky Tofu Wrap",
+  "description": "A delicious and healthy wrap filled with smoky tofu, crunchy vegetables, and a hint of spices. Perfect for a quick snack or lunch.",
+  "cuisine": "Vegan",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Drained and cut into small cubes"
+    },
+    {
+      "name": "Smoky Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Zesty Lettuce",
+      "amount": "1 cup",
+      "notes": "Roughly chopped"
+    },
+    {
+      "name": "Kicked Hummus",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or grill pan over medium-high heat.",
+    "Add 1-2 tablespoons of oil to the pan and cook the tofu until golden brown on all sides.",
+    "Warm the wrap in the microwave or in a dry pan for 10-15 seconds.",
+    "Spread the hummus on the wrap, leaving a 1-inch border around the edges.",
+    "Add the cooked tofu, lettuce, tomato, and onion on top of the hummus.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "healthy",
+    "lunch",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zzesty-smoky-tofu-kicked-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:05:40.800Z"
+}
