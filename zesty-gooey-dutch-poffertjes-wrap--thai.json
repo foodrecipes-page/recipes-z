@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-gooey-dutch-poffertjes-wrap--thai",
+  "title": "Thai-Style Poffertjes Wrap",
+  "description": "A fusion of traditional Thai flavors with Dutch poffertjes, wrapped in a crispy treat.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "poffertjes",
+      "amount": "1 package (about 20 pieces)",
+      "notes": "Dutch mini pancakes"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": ""
+    },
+    {
+      "name": "goey",
+      "amount": "1/4 cup",
+      "notes": "sweet and sticky sauce (e.g. honey, maple syrup)"
+    },
+    {
+      "name": "zesty",
+      "amount": "1/4 cup",
+      "notes": "Thai-style peanut sauce (or substitute with peanut butter)"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/4 cup",
+      "notes": "crushed peanuts for garnish"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "1. Cook poffertjes according to package instructions.",
+    "2. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "3. Spread a thin layer of zesty sauce on the tortilla.",
+    "4. Arrange 4-5 poffertjes on one half of the tortilla.",
+    "5. Drizzle gooey sauce over the poffertjes.",
+    "6. Sprinkle crushed peanuts over the top.",
+    "7. Fold the tortilla in half to enclose the filling.",
+    "8. Serve immediately and drizzle with sugar, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dutch",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-dutch-poffertjes-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:41:44.439Z"
+}
