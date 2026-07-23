@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-light-korean-chicken-wings-bowl--french",
+  "title": "French Chicken Wings Bowl",
+  "description": "A twist on traditional Korean-style fried chicken wings, served in a light and zesty French-inspired bowl.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bowl ingredients",
+      "amount": "to taste",
+      "notes": "see below for suggestions"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep fryer or a large pot to 375°F (190°C).",
+    "In a shallow dish, mix together the cornstarch, flour, and a pinch of salt.",
+    "Dredge the chicken wings in the cornstarch mixture, shaking off excess.",
+    "Dip the wings in the egg, making sure they're fully coated.",
+    "Dredge the wings in the flour mixture again, pressing the coating onto the wings to adhere.",
+    "Heat the buttermilk in a separate shallow dish.",
+    "Add the coated wings to the buttermilk, making sure they're fully submerged.",
+    "Let the wings marinate for at least 30 minutes.",
+    "Remove the wings from the buttermilk, letting any excess liquid drip off.",
+    "Fry the wings in batches until golden brown and cooked through, about 8-10 minutes per batch.",
+    "In a small bowl, mix together the zesty sauce, light soy sauce, and korean chili flakes.",
+    "Toss the fried wings in the sauce until fully coated.",
+    "Serve the wings in a bowl with your choice of additional ingredients, such as steamed vegetables, pickled ginger, and kimchi."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "korean-french",
+    "fried-wings"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-korean-chicken-wings-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:35:03.348Z"
+}
