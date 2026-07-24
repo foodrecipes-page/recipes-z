@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-smoky-kenyan-chicken-flatbread--mexican",
+  "title": "Kenyan Chicken Fajitas",
+  "description": "Spicy fajitas with a Kenyan twist, featuring smoky chicken and crispy flatbread.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "zesty peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the chicken with Kenyan spices, smoky paprika, salt, and black pepper.",
+    "3. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "4. Meanwhile, grill the peppers and onion for 3-4 minutes per side, or until tender.",
+    "5. Warm the flatbread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "6. Slice the grilled chicken and serve with peppers, onion, and flatbread.",
+    "7. Serve with your favorite toppings, such as sour cream, salsa, or avocado."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "mexican",
+    "fajitas",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-kenyan-chicken-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:05:00.400Z"
+}
