@@ -1,0 +1,97 @@
+{
+  "slug": "zesty-light-korean-chicken-wings-bowl--japanese",
+  "title": "Korean Zesty Chicken Wings Bowl",
+  "description": "A delicious and spicy Korean-style dish featuring crispy fried chicken wings tossed in a zesty sauce, served in a light and flavorful bowl.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together the soy sauce, brown sugar, garlic, and ginger.",
+    "3. Add the chicken wings to the bowl and toss to coat.",
+    "4. Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "5. Arrange the chicken wings on the baking sheet and bake for 25 minutes.",
+    "6. While the chicken is baking, heat the sesame oil in a large skillet over medium-high heat.",
+    "7. Add the Korean chili flakes and cook for 1 minute.",
+    "8. Add the light soy sauce and rice vinegar to the skillet and stir to combine.",
+    "9. Remove the chicken from the oven and toss in the skillet to coat with the zesty sauce.",
+    "10. Return the chicken to the baking sheet and bake for an additional 5-7 minutes, or until crispy.",
+    "11. Garnish with chopped green onions and serve in a light and flavorful bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chicken",
+    "wings",
+    "bowl",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-korean-chicken-wings-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:36:40.861Z"
+}
