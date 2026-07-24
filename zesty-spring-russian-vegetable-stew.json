@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-spring-russian-vegetable-stew",
+  "title": "Russian Spring Vegetable Stew",
+  "description": "A hearty and flavorful stew made with fresh spring vegetables and a touch of zesty goodness. Perfect for a chilly evening.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spring Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Russian Vegetable Stew Mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped spring onions and cook until softened, about 3-4 minutes.",
+    "Add sliced carrots and cook for an additional 5 minutes.",
+    "Add diced potatoes and cook for 5 minutes.",
+    "Add sliced zucchini and cook for 2-3 minutes.",
+    "Add Russian Vegetable Stew Mix and cook for 1 minute.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until vegetables are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "spring",
+    "vegetable",
+    "stew",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spring-russian-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:35:19.492Z"
+}
