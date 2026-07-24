@@ -1,0 +1,59 @@
+{
+  "slug": "zesty-split-irish-peas-stew--chinese",
+  "title": "Chinese Stew with Peas",
+  "description": "A hearty Chinese-inspired stew made with tender beef and a variety of vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "irish stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "split peas",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the Irish stew, peas, and zesty, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "stew",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-split-irish-peas-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:55:23.222Z"
+}
