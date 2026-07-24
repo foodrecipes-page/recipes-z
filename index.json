@@ -5953,16 +5953,15 @@
   },
   {
     "slug": "zesty-gooey-norwegian-celery-casserole",
-    "title": "Zesty Gooey Norwegian Celery Casserole",
+    "title": "Gooey Norwegian Casserole",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "norwegian-cuisine",
-      "vegetarian-friendly",
-      "winter-nights"
+      "casserole",
+      "norwegian",
+      "cheese",
+      "meatballs"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -16540,6 +16539,58 @@
       "almonds"
     ],
     "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-cheese-fondue--french",
+    "title": "French Fondue",
+    "tags": [
+      "french",
+      "fondue",
+      "cheese",
+      "appetizer"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ukrainian-fennel-dumplings--french",
+    "title": "French-Style Fennel Dumplings",
+    "tags": [
+      "french-cuisine",
+      "homemade-dumplings",
+      "fennel-recipe",
+      "cozy-dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-split-irish-peas-stew--chinese",
+    "title": "Chinese Stew with Peas",
+    "tags": [
+      "chinese",
+      "beef",
+      "stew",
+      "vegetables"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 105,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-kenyan-chicken-flatbread--mexican",
+    "title": "Kenyan Chicken Fajitas",
+    "tags": [
+      "kenyan",
+      "mexican",
+      "fajitas",
+      "chicken"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "z"
   }
