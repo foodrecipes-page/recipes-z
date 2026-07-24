@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-uruguayan-beef-casserole--gluten-free",
+  "title": "Uruguayan Beef Casserole",
+  "description": "A hearty and flavorful Uruguayan-inspired beef casserole, made with gluten-free ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1.5 lb",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Zesty Uruguayan Seasoning",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Gluten-free Tomato Sauce",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Gluten-free Casserole Crust",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the ground beef in a skillet over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the Uruguayan seasoning and cook for 1 minute.",
+    "Add the gluten-free tomato sauce to the skillet and stir to combine.",
+    "Transfer the meat mixture to a 9x13 inch baking dish.",
+    "Roll out the gluten-free casserole crust to fit the top of the baking dish.",
+    "Place the crust on top of the meat mixture and crimp the edges to seal.",
+    "Cut a few slits in the top of the crust to allow steam to escape.",
+    "Bake the casserole in the preheated oven for 30-40 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Remove the casserole from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "casserole",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-uruguayan-beef-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:27:58.785Z"
+}
