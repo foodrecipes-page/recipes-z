@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-briny-thai-tofu-curry--gluten-free",
+  "title": "Thai-Style Gluten-Free Tofu Curry",
+  "description": "A flavorful and spicy Thai-inspired dish made with pan-seared tofu and a blend of aromatic spices, all served over a bed of fluffy rice.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup leaves",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium heat.",
+    "Add the curry paste and cook, stirring constantly, for 2 minutes.",
+    "Add the coconut milk, fish sauce, brown sugar, and curry powder. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the tofu and cook for an additional 3-4 minutes, or until heated through.",
+    "Stir in the Thai basil and zesty lime juice.",
+    "Season with salt to taste.",
+    "Serve the curry over a bed of fluffy rice.",
+    "Garnish with additional Thai basil leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegan",
+    "thaicurry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-briny-thai-tofu-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:31:19.508Z"
+}
