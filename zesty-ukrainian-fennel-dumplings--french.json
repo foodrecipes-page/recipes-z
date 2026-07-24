@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-ukrainian-fennel-dumplings--french",
+  "title": "French-Style Fennel Dumplings",
+  "description": "A hearty French-inspired dish featuring fennel and homemade dumplings. Perfect for a cozy dinner.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "1 large bulb, thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "zesty butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "ukrainian sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour and salt. Gradually add warm water, mixing until a dough forms.",
+    "2. Knead the dough for 5 minutes until smooth and elastic. Cover with plastic wrap and let rest for 30 minutes.",
+    "3. Divide the dough into 8 equal pieces. Roll each piece into a thin circle.",
+    "4. Heat 2 tbsp of zesty butter in a large skillet over medium-high heat. Add 4 dumplings and cook for 2-3 minutes on each side, until golden brown.",
+    "5. Repeat with remaining dumplings.",
+    "6. In a separate saucepan, melt 2 tbsp of zesty butter over medium heat. Add sliced fennel and cook until tender, about 5 minutes.",
+    "7. Stir in ukrainian sour cream and chopped parsley. Season with black pepper to taste.",
+    "8. Serve the fennel sauce over the cooked dumplings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "homemade-dumplings",
+    "fennel-recipe",
+    "cozy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-fennel-dumplings--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:47:58.001Z"
+}
