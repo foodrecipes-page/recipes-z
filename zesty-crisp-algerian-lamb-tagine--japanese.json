@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-crisp-algerian-lamb-tagine--japanese",
+  "title": "Japanese-Style Lamb Tagine",
+  "description": "A fusion of Japanese and North African flavors, this lamb tagine is a unique and delicious twist on traditional Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leg of lamb",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Algerian zesty spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crisp rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp",
+      "notes": "Japanese sweet sake"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with zesty spice blend, making sure to coat evenly.",
+    "In a large Dutch oven or clay tagine, heat 2 tbsp of oil over medium-high heat.",
+    "Sear the lamb on all sides until browned, about 2-3 minutes per side. Remove from heat and set aside.",
+    "Add 2 tbsp of oil to the pot and sauté the ginger and garlic until fragrant, about 1 minute.",
+    "Add the sake and mirin to the pot, scraping up any browned bits from the bottom.",
+    "Add the crispy rice to the pot and stir to combine.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "tagine",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-algerian-lamb-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:28:09.705Z"
+}
