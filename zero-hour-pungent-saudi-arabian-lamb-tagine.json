@@ -1,0 +1,90 @@
+{
+  "slug": "zero-hour-pungent-saudi-arabian-lamb-tagine",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A traditional Saudi Arabian stew made with lamb, spices, and dried fruits.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "arabian lamb broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "zero-hour sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pungent spices",
+      "amount": "1 tsp",
+      "notes": "Ground cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "saudi saffron",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried dates",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay pot or Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the broth, zero-hour sauce, spices, saffron, dates, almonds, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped parsley and serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "saudi-arabian",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-hour-pungent-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:54:31.610Z"
+}
