@@ -16452,5 +16452,31 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-algerian-lamb-tagine--japanese",
+    "title": "Japanese-Style Lamb Tagine",
+    "tags": [
+      "japanese",
+      "lamb",
+      "tagine",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-uruguayan-beef-casserole--gluten-free",
+    "title": "Uruguayan Beef Casserole",
+    "tags": [
+      "uruguayan",
+      "beef",
+      "casserole",
+      "gluten-free"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "z"
   }
 ]
