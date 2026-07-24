@@ -12043,16 +12043,16 @@
   },
   {
     "slug": "zesty-spring-russian-vegetable-stew",
-    "title": "Zesty Spring Russian Vegetable Stew",
+    "title": "Russian Spring Vegetable Stew",
     "tags": [
-      "hot-pot-recipe",
-      "russian-cuisine",
-      "spring-recipe",
-      "vegetarian-stew",
-      "weeknight-dinner"
+      "russian",
+      "spring",
+      "vegetable",
+      "stew",
+      "veggie"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -16503,6 +16503,19 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-middle-eastern-apricot-tagine--japanese",
+    "title": "Apricot Tagine Chicken",
+    "tags": [
+      "apricot",
+      "tagine",
+      "chicken",
+      "japanese-cuisine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "z"
   }
 ]
