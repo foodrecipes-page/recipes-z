@@ -1,0 +1,72 @@
+{
+  "slug": "zesty-buttery-italian-almonds-saltimbocca--vegan",
+  "title": "Vegan Stuffed Portobello Mushrooms",
+  "description": "A flavorful and filling vegan dish featuring portobello mushrooms stuffed with a savory almond mixture. Perfect for a meatless dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Saltimbocca sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean and prepare the portobello mushrooms by removing the stems and gills.",
+    "In a bowl, mix together almond butter, Italian seasoning, and Saltimbocca sauce.",
+    "Stuff each mushroom cap with the almond mixture, dividing it evenly.",
+    "Top each mushroom with chopped almonds.",
+    "Bake for 20-25 minutes or until the mushrooms are tender and the filling is golden brown.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "mushrooms",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-buttery-italian-almonds-saltimbocca--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:03:01.975Z"
+}
