@@ -439,16 +439,15 @@
   },
   {
     "slug": "zero-hour-pungent-saudi-arabian-lamb-tagine",
-    "title": "Zero Hour Pungent Saudi Arabian Lamb Tagine",
+    "title": "Saudi Arabian Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "low-carb",
-      "middle-eastern",
-      "ramekin-recipe",
-      "slow-cooked"
+      "lamb",
+      "saudi-arabian",
+      "tagine",
+      "stew"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "z"
   },
   {
