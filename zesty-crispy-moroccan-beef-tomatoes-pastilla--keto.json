@@ -1,0 +1,68 @@
+{
+  "slug": "zesty-crispy-moroccan-beef-tomatoes-pastilla--keto",
+  "title": "Moroccan Beef Pastilla Bites",
+  "description": "A keto twist on the classic Moroccan dish, these bites are crispy, flavorful, and packed with beef. Serve as a snack or appetizer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, ground",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup, diced",
+      "notes": "fresh or canned, drained"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 tablespoons, spice blend",
+      "notes": "includes cumin, coriander, cinnamon"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tablespoon, lemon juice",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "pastilla",
+      "amount": "1 cup, shredded, flaky pastry",
+      "notes": "keto-friendly option"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the diced tomatoes, Moroccan spice blend, and lemon juice to the skillet. Cook for 2-3 minutes, stirring frequently.",
+    "Cut the shredded pastry into small squares, about 2 inches (5 cm) per side.",
+    "Place a tablespoon of the beef mixture onto the center of each pastry square, leaving a 1/2-inch border around the edges.",
+    "Fold the pastry squares in half to form triangles, pressing the edges to seal.",
+    "Brush the tops of the pastilla bites with a little bit of zesty, then bake for 12-15 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "beef",
+    "pastilla",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-moroccan-beef-tomatoes-pastilla--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:43:03.095Z"
+}
