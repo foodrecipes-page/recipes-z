@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-gooey-norwegian-celery-casserole",
+  "title": "Gooey Norwegian Casserole",
+  "description": "A delicious and savory Norwegian-inspired casserole filled with gooey cheese and zesty flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zesty Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Norwegian Meatballs",
+      "amount": "1 package frozen"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks chopped"
+    },
+    {
+      "name": "Casserole Mix",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare casserole mix according to package instructions.",
+    "Combine chopped celery and Norwegian meatballs in a separate bowl.",
+    "In a greased 9x13 inch baking dish, arrange casserole mix.",
+    "Top with Norwegian meatball mixture.",
+    "Cover with gooey cheese slices.",
+    "Sprinkle zesty cheese on top.",
+    "Bake for 25-30 minutes or until cheese is melted and bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "norwegian",
+    "cheese",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-norwegian-celery-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:09:03.366Z"
+}
