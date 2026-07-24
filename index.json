@@ -16517,5 +16517,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa--french",
+    "title": "French-Style Grilled Chicken à la Brasa",
+    "tags": [
+      "french",
+      "grilled",
+      "chicken",
+      "peruvian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-buttery-italian-almonds-saltimbocca--vegan",
+    "title": "Vegan Stuffed Portobello Mushrooms",
+    "tags": [
+      "vegan",
+      "mushrooms",
+      "almonds"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
