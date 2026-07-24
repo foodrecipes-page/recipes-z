@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-crisp-argentinian-cheese-empanadas--thai",
+  "title": "Argentinian Empanada Crispy Spring Rolls",
+  "description": "A twist on traditional Thai spring rolls, we add crispy empanada dough and zesty Argentinian flair to this dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "mixed vegetables (bean sprouts, carrots, cabbage)",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cheese (Monterey Jack or Cheddar)",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "spring onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "zesty Argentinian sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F.",
+    "Prepare empanada dough according to package instructions.",
+    "In a separate pan, sauté mixed vegetables and spring onion until softened.",
+    "Add cheese and stir until melted.",
+    "Cut empanada dough into thin strips.",
+    "Wrap empanada strips around vegetable mixture, sealing edges.",
+    "Deep fry empanada spring rolls until golden brown.",
+    "Drain excess oil and serve with zesty Argentinian sauce and crispy fried shallots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "spring-rolls",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-argentinian-cheese-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:24:45.940Z"
+}
