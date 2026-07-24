@@ -1,0 +1,58 @@
+{
+  "slug": "zesty-irish-cheese-fondue--french",
+  "title": "French Fondue",
+  "description": "A classic French dish, perfect for snacking and entertaining. Made with a rich, creamy fondue and served with a variety of dipping options.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fondue Cheese",
+      "amount": "1 cup",
+      "notes": "A mix of Emmental and Gruyère"
+    },
+    {
+      "name": "Wine",
+      "amount": "1/2 cup",
+      "notes": "Dry, white wine"
+    },
+    {
+      "name": "Zesty Mustard",
+      "amount": "2 tablespoons",
+      "notes": "To add a tangy kick"
+    },
+    {
+      "name": "Irish Whiskey (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the wine in a medium saucepan over medium heat until it starts to simmer.",
+    "Gradually add the Fondue Cheese, stirring constantly until melted and smooth.",
+    "Remove from heat and stir in the Zesty Mustard and Irish Whiskey (if using).",
+    "Transfer the fondue to a fondue pot or a small ceramic bowl set over a candle warmer.",
+    "Serve immediately with dipping options such as bread, vegetables, and meats."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fondue",
+    "cheese",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-irish-cheese-fondue--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:34:14.674Z"
+}
