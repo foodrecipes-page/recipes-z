@@ -11008,13 +11008,16 @@
   },
   {
     "slug": "zesty-smoked-uruguayan-peas-gratin",
-    "title": "Zesty Smoked Uruguayan Peas Gratin",
+    "title": "Uruguayan Smoked Pea Gratin",
     "tags": [
-      "nut-free",
-      "salt-block-serving"
+      "uruguayan",
+      "smoked",
+      "gratin",
+      "peas",
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -16605,6 +16608,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crisp-argentinian-cheese-empanadas--thai",
+    "title": "Argentinian Empanada Crispy Spring Rolls",
+    "tags": [
+      "empanadas",
+      "spring-rolls",
+      "argentinian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
     "shard": "z"
   }
 ]
