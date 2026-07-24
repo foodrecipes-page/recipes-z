@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-grilled-peruvian-chicken-pollo-a-la-brasa--french",
+  "title": "French-Style Grilled Chicken à la Brasa",
+  "description": "A Peruvian-inspired twist on traditional French grilled chicken, marinated in zesty flavors and grilled to perfection.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken legs",
+      "amount": "4-6 legs",
+      "notes": "Bone-in, skin-on for extra flavor"
+    },
+    {
+      "name": "Zesty Peruvian marinade",
+      "amount": "1 cup",
+      "notes": "See below for marinade ingredients"
+    },
+    {
+      "name": "Grilled lemon wedges",
+      "amount": "4-6 wedges",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing chicken"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine marinade ingredients and blend until smooth.",
+    "Place chicken legs in a large zip-top plastic bag or a shallow dish. Pour marinade over chicken and massage to coat.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Remove chicken from marinade, letting any excess liquid drip off.",
+    "Brush chicken with avocado oil and season with salt, pepper, and garlic powder (if using).",
+    "Grill chicken for 5-7 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before serving.",
+    "Serve hot with grilled lemon wedges and fresh rosemary sprigs on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "grilled",
+    "chicken",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-grilled-peruvian-chicken-pollo-a-la-brasa--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:43:06.186Z"
+}
