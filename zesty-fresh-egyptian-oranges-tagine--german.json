@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-fresh-egyptian-oranges-tagine--german",
+  "title": "Egyptian Orange Tagine",
+  "description": "A sweet and tangy German-inspired dessert featuring orange and Egyptian spices. Tagine is a traditional North African cooking method, but here used to evoke German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "zesty orange marmalade",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egyptian spices (cinnamon, ginger, cardamom)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix orange marmalade and orange juice in a saucepan.",
+    "Add Egyptian spices and tagine spice blend; heat until fragrant.",
+    "Pour mixture into a 9-inch round baking dish.",
+    "Top with almonds and sugar.",
+    "Bake for 25 minutes or until sugar caramelizes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "tagine",
+    "orange",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fresh-egyptian-oranges-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:07:43.678Z"
+}
