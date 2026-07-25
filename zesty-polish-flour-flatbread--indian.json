@@ -1,0 +1,61 @@
+{
+  "slug": "zesty-polish-flour-flatbread--indian",
+  "title": "Chickpea and Spiced Flatbread",
+  "description": "A flavorful and spicy flatbread recipe from the streets of India, perfect for snacking or serving with a meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "preferably polish"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix together chickpeas, zesty, and a pinch of salt.",
+    "3. Place flatbread on a baking sheet, dust with flour.",
+    "4. Spoon chickpea mixture onto flatbread, spreading evenly.",
+    "5. Bake for 10-12 minutes or until flatbread is crispy.",
+    "6. Remove from oven and let cool for a few minutes.",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-polish-flour-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:51:34.327Z"
+}
