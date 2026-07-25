@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-algerian-pineapple-tagine",
+  "title": "Algerian Pineapple Tagine",
+  "description": "A sweet and tangy Moroccan-inspired stew made with pineapple, zesty spices, and tender chicken. Serve with crusty bread or couscous for a flavorful and exotic meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Algerian zesty spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add pineapple juice, spice blend, and salt. Stir to combine.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 20-25 minutes, or until chicken is cooked through.",
+    "Serve with couscous, if desired, and garnish with parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "moroccan",
+    "pineapple",
+    "tagine",
+    "chicken",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "34g",
+    "carbs": "24g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-algerian-pineapple-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:32:14.354Z"
+}
