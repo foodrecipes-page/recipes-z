@@ -1,0 +1,53 @@
+{
+  "slug": "zesty-syrian-onion-kebabs--vegetarian",
+  "title": "Syrian Zesty Kebabs",
+  "description": "A flavorful vegetarian kebab recipe with the perfect blend of zesty and syrian spices.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zesty bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "syrian kebab meat substitute",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kebabs spices (syrian)",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high temperature.",
+    "Soak the zesty bread in water for 5 minutes, then cut into 1-inch cubes.",
+    "In a large bowl, combine the kebab meat substitute and 1 tsp of kebabs spices.",
+    "Add the thinly sliced onion to the bowl and mix well.",
+    "Thread the kebab meat mixture onto the zesty bread cubes.",
+    "Brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally.",
+    "Serve hot and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "kebabs",
+    "syrian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-syrian-onion-kebabs--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:25:23.598Z"
+}
