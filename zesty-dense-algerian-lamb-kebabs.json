@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-dense-algerian-lamb-kebabs",
+  "title": "Algerian Lamb Kebabs",
+  "description": "A flavorful Algerian-inspired lamb kebab recipe with a zesty twist, perfect for a quick and delicious dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to trim excess fat"
+    },
+    {
+      "name": "Zesty lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Dense olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Algerian spice blend (or Moroccan spice blend)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "About 1 cup"
+    },
+    {
+      "name": "Bell pepper, chopped",
+      "amount": "1 large",
+      "notes": "About 1 cup"
+    },
+    {
+      "name": "Tomato, chopped",
+      "amount": "1 medium",
+      "notes": "About 1 cup"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together lemon juice, olive oil, Algerian spice blend, and a pinch of salt and pepper.",
+    "3. Add the lamb cubes to the marinade and mix well to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "5. Thread the lamb and vegetables onto skewers, leaving a little space between each piece.",
+    "6. Brush the kebabs with the remaining marinade and season with salt and pepper.",
+    "7. Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked through and the vegetables are tender.",
+    "8. Garnish with chopped parsley and serve hot.",
+    "9. Let the kebabs rest for a few minutes before serving.",
+    "10. Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-algerian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:19:36.744Z"
+}
