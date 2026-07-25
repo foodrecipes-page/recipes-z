@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-light-norwegian-rice-flour-wrap",
+  "title": "Norwegian-Style Wrap",
+  "description": "A simple and delicious wrap filled with Norwegian-inspired flavors. This recipe is quick and easy to make.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour Tortilla Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Feta Cheese",
+      "amount": "2 oz",
+      "notes": ""
+    },
+    {
+      "name": "Light Norwegian Salmon Fillet",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan to medium heat.",
+    "Cook the salmon fillet for 3-4 minutes per side, or until cooked through.",
+    "Let the salmon rest for 1-2 minutes before slicing into thin strips.",
+    "Warm the tortilla wrap by wrapping it in a damp paper towel and microwaving for 10-15 seconds.",
+    "Assemble the wrap by spreading a layer of rice on the bottom half of the tortilla, followed by a layer of sliced salmon, crumbled feta cheese, and a sprig of fresh dill.",
+    "Fold the bottom half of the tortilla up over the filling and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "salmon",
+    "norwegian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-light-norwegian-rice-flour-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:22:26.484Z"
+}
