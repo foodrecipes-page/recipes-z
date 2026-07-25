@@ -3882,14 +3882,12 @@
   },
   {
     "slug": "zesty-dense-algerian-lamb-kebabs",
-    "title": "Zesty Dense Algerian Lamb Kebabs",
+    "title": "Algerian Lamb Kebabs",
     "tags": [
-      "grilled-meat",
-      "high-protein",
-      "lamb-recipes",
-      "north-african",
-      "post-workout",
-      "shojin-friendly"
+      "algerian",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 35,
@@ -16620,6 +16618,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-polish-flour-flatbread--indian",
+    "title": "Chickpea and Spiced Flatbread",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 17,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-ethiopian-chickpeas-stew--chinese",
+    "title": "Stewed Chickpeas in a Chinese Zesty Sauce",
+    "tags": [
+      "chinese-fusion",
+      "stew",
+      "chickpeas",
+      "zesty-sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
