@@ -16705,5 +16705,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 50,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-fresh-egyptian-oranges-tagine--german",
+    "title": "Egyptian Orange Tagine",
+    "tags": [
+      "german",
+      "tagine",
+      "orange",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
