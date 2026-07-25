@@ -670,17 +670,17 @@
   },
   {
     "slug": "zesty-algerian-pineapple-tagine",
-    "title": "Zesty Algerian Pineapple Tagine",
+    "title": "Algerian Pineapple Tagine",
     "tags": [
-      "jain-friendly",
-      "hangover-cure",
-      "tagine",
+      "algerian",
+      "moroccan",
       "pineapple",
-      "citrus",
-      "vegetarian"
+      "tagine",
+      "chicken",
+      "couscous"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
