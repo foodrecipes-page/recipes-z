@@ -16682,5 +16682,19 @@
     "cuisine": "indian",
     "totalTimeMin": 170,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-gooey-chinese-pork-noodles--thai",
+    "title": "Spicy Thai Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "noodles",
+      "pork",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
