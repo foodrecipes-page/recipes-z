@@ -16695,5 +16695,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-spanish-lentil-bake--chinese",
+    "title": "Szechuan Lentil Bake",
+    "tags": [
+      "chinese",
+      "lentils",
+      "bake",
+      "szechuan"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "z"
   }
 ]
