@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-spanish-lentil-bake--chinese",
+  "title": "Szechuan Lentil Bake",
+  "description": "A flavorful and spicy take on a traditional Chinese dish. Lentils are baked with aromatic spices and zesty Spanish sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "Red or green, rinsed and drained"
+    },
+    {
+      "name": "Zesty Spanish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Bake mix",
+      "amount": "1 cup",
+      "notes": "Gluten-free, store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the lentils, bake mix, sesame oil, ginger, garlic, soy sauce, sugar, and red pepper flakes.",
+    "Add the Zesty Spanish Sauce and mix until the lentils are well coated.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the lentils are tender and the top is lightly browned.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "lentils",
+    "bake",
+    "szechuan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-spanish-lentil-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:44:16.512Z"
+}
