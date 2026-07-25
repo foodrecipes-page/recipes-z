@@ -16656,5 +16656,19 @@
     "cuisine": "middle eastern",
     "totalTimeMin": 22,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-indian-beef-curry--french",
+    "title": "Beef Bourguignon",
+    "tags": [
+      "beef",
+      "french",
+      "stew",
+      "red-wine",
+      "bourguignon"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 180,
+    "shard": "z"
   }
 ]
