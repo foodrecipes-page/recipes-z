@@ -16671,5 +16671,16 @@
     "cuisine": "french",
     "totalTimeMin": 180,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-charred-irish-beef-stew--indian",
+    "title": "Irish Beef Stew",
+    "tags": [
+      "indian",
+      "beef-stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 170,
+    "shard": "z"
   }
 ]
