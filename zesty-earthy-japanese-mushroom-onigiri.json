@@ -1,0 +1,67 @@
+{
+  "slug": "zesty-earthy-japanese-mushroom-onigiri",
+  "title": "Japanese-Style Mushroom Onigiri",
+  "description": "A twist on the classic Japanese rice ball, filled with sautéed mushrooms and served as a snack or light meal. This recipe showcases the earthy flavors of mushrooms and the simplicity of Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Short-grain Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the Japanese rice according to the package instructions.",
+    "Sauté the mushrooms in a pan with a little oil until they're tender and fragrant.",
+    "In a small saucepan, combine soy sauce, rice vinegar, sugar, and salt. Bring to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Once the rice is cooked, allow it to cool slightly. Mix in the soy sauce mixture and mushrooms.",
+    "Wet your hands with water and shape the rice mixture into small triangles or cylinders.",
+    "Serve the onigiri with additional soy sauce or pickled ginger, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-cuisine",
+    "mushroom-recipies",
+    "vegetarian-options",
+    "gluten-free-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-japanese-mushroom-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:47:11.516Z"
+}
