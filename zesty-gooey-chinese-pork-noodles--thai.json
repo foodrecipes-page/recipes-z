@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-gooey-chinese-pork-noodles--thai",
+  "title": "Spicy Thai Stir Fry",
+  "description": "Enjoy a quick and flavorful Thai stir fry with noodles, pork, and a touch of zesty goodness.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork (ground)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Noodles (Thai Rice Noodles)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gooey soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Zesty chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chinese broccoli (or regular broccoli)",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add broccoli, garlic, and ginger; cook until the broccoli is tender.",
+    "Add noodles and stir to combine.",
+    "In a small bowl, whisk together soy sauce and chili flakes. Pour the sauce over the noodles and stir-fry until the noodles are well coated.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "If using Chinese broccoli, remove the leaves and slice into smaller pieces before cooking.",
+    "Ginger can be grated or sliced thinly before cooking.",
+    "Use a thermometer to ensure the oil reaches a safe temperature for cooking.",
+    "If you prefer a thicker sauce, mix 1 tablespoon of cornstarch with 2 tablespoons of water and stir it into the sauce before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "noodles",
+    "pork",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-gooey-chinese-pork-noodles--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:32:33.970Z"
+}
