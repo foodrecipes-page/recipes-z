@@ -16644,5 +16644,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-syrian-onion-kebabs--vegetarian",
+    "title": "Syrian Zesty Kebabs",
+    "tags": [
+      "vegetarian",
+      "kebabs",
+      "syrian"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 22,
+    "shard": "z"
   }
 ]
