@@ -1,0 +1,76 @@
+{
+  "slug": "zucchini-zest-monsoon-zweet",
+  "title": "Monsoon Zucchini Fritters",
+  "description": "A flavorful vegetarian dish that combines the sweetness of zucchini with the brightness of lemon zest. Perfect as a snack or side for any meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "monsoon",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Shred the zucchini and squeeze out excess moisture.",
+    "In a bowl, whisk together flour, eggs, parmesan cheese, salt, and pepper.",
+    "Add the shredded zucchini and chopped monsoon to the bowl and mix until just combined.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a spoon, drop the zucchini mixture into the pan and flatten slightly.",
+    "Cook for 3-4 minutes on each side, until golden brown.",
+    "Serve hot with a dollop of yogurt or a sprinkle of parmesan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "fritters",
+    "zucchini",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zucchini-zest-monsoon-zweet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:39:43.405Z"
+}
