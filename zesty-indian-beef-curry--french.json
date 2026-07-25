@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-indian-beef-curry--french",
+  "title": "Beef Bourguignon",
+  "description": "A French classic beef stew cooked in red wine with a hint of spice.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (chuck or short ribs)",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Red wine (Burgundy or Pinot Noir)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Zesty Indian curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, then set aside.",
+    "Add the onion, carrots, and celery to the pot and sauté until the vegetables are tender.",
+    "Add the garlic, thyme, and bay leaves to the pot and sauté for 1 minute.",
+    "Add the red wine, beef broth, and curry powder to the pot, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the stew for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Skim the fat from the surface of the stew and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "stew",
+    "red-wine",
+    "bourguignon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indian-beef-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:28:25.323Z"
+}
