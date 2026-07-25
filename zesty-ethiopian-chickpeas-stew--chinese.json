@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-ethiopian-chickpeas-stew--chinese",
+  "title": "Stewed Chickpeas in a Chinese Zesty Sauce",
+  "description": "A fusion dish combining the flavors of Chinese cuisine with the comfort of a hearty stew. The zesty sauce brings a tangy kick to the rich flavors of the chickpeas.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ethiopian stew spices",
+      "amount": "2 tsp",
+      "notes": "or 1 tsp ground cumin and 1 tsp smoked paprika"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Stir in the Ethiopian stew spices and cook for 1 minute.",
+    "Add the chickpeas, zesty sauce, soy sauce, brown sugar, and rice vinegar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the sauce has thickened.",
+    "Stir in the chopped green onions.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-fusion",
+    "stew",
+    "chickpeas",
+    "zesty-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-chickpeas-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:36:08.985Z"
+}
