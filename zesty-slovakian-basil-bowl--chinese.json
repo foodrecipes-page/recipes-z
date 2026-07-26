@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-slovakian-basil-bowl--chinese",
+  "title": "Slovakian Basil Stir Fry",
+  "description": "A unique and flavorful stir fry that combines the bold flavors of Slovakia with the freshness of basil. Best served over a bed of rice.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basil",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the Slovakian sausage and cook for 2-3 minutes, until browned.",
+    "Add the basil and cook for 1-2 minutes, until wilted.",
+    "Add the zesty sauce, soy sauce, salt, and pepper, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve over a bed of rice.",
+    "Garnish with additional basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "stir-fry",
+    "basil",
+    "slovakian-sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-slovakian-basil-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:40:33.946Z"
+}
