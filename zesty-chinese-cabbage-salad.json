@@ -1,0 +1,64 @@
+{
+  "slug": "zesty-chinese-cabbage-salad",
+  "title": "Chinese Cabbage Salad",
+  "description": "A simple and crunchy salad recipe using Chinese cabbage, perfect for a quick lunch.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "zesty dressing",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cabbage salad",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salad seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Wash the Chinese cabbage and cut it into thin strips.",
+    "2. In a large bowl, combine the Chinese cabbage, salad seeds, salt, and pepper.",
+    "3. In a small bowl, whisk together the zesty dressing and 2 tablespoons of water.",
+    "4. Pour the dressing over the cabbage mixture and toss until well coated.",
+    "5. Chill the salad in the refrigerator for at least 30 minutes.",
+    "6. Serve the salad cold, garnished with additional salad seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chinese-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:14:48.048Z"
+}
