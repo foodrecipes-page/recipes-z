@@ -4173,17 +4173,16 @@
   },
   {
     "slug": "zesty-dense-tunisian-lamb-tagine",
-    "title": "Zesty Dense Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "bain-marie",
-      "dairy-free",
-      "gluten-free",
-      "lamb-based",
-      "north-african",
-      "one-pot"
+      "north african",
+      "stew",
+      "lamb",
+      "dates",
+      "olives"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "z"
   },
   {
@@ -16886,6 +16885,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-garlicky-canadian-fennel-skillet--thai",
+    "title": "Thai-Style Skillet Chicken",
+    "tags": [
+      "thai-cuisine",
+      "chicken-dish",
+      "skillet-cooking"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
     "shard": "z"
   }
 ]
