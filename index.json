@@ -16780,5 +16780,18 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-earthy-japanese-mushroom-onigiri--japanese",
+    "title": "Pan-Seared Onigiri with Mushroom Dashi",
+    "tags": [
+      "japanese",
+      "mushroom",
+      "onigiri",
+      "dashi"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
