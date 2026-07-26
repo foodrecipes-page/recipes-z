@@ -16960,5 +16960,19 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-ukrainian-white-asparagus-wrap--keto",
+    "title": "Asparagus and Ukrainian White Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "wrap",
+      "sausage",
+      "asparagus"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "z"
   }
 ]
