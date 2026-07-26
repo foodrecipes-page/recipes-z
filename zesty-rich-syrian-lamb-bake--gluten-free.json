@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-rich-syrian-lamb-bake--gluten-free",
+  "title": "Syrian Lamb Koftas",
+  "description": "A flavorful and gluten-free take on traditional Syrian lamb koftas, perfect for a quick dinner or lunch. These lamb koftas are marinated in a rich and zesty mixture, then baked to perfection.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "minced"
+    },
+    {
+      "name": "Breadcrumbs (gluten-free)",
+      "amount": "100g",
+      "notes": "to help bind the mixture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large bowl, combine the lamb, breadcrumbs, onion, garlic, parsley, lemon juice, salt, and black pepper. Mix well with your hands until just combined.",
+    "Use your hands to shape the mixture into small koftas, about 5cm (2 inches) in length. You should end up with around 12-15 koftas.",
+    "Place the koftas on a baking tray lined with parchment paper, leaving a little space between each one.",
+    "Brush the tops of the koftas with olive oil.",
+    "Bake the koftas in the preheated oven for 15-20 minutes, or until cooked through and lightly browned on the outside.",
+    "Remove the koftas from the oven and let them rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "gluten-free",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-rich-syrian-lamb-bake--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:13:56.556Z"
+}
