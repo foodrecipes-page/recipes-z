@@ -2614,16 +2614,15 @@
   },
   {
     "slug": "zesty-crisp-german-ackee-skillet",
-    "title": "Zesty Crisp German Ackee Skillet",
+    "title": "Crisp German Skillet with Ackee",
     "tags": [
-      "breakfast-ideas",
-      "german-cuisine",
-      "one-pan",
-      "paleo-friendly",
-      "yeasty-dishes"
+      "german",
+      "breakfast",
+      "skillet",
+      "ackee"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "z"
   },
   {
@@ -16922,6 +16921,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 140,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-grilled-tunisian-shrimp-skewers--vegan",
+    "title": "Tunisian Shrimp Skewers",
+    "tags": [
+      "grilled",
+      "north-african",
+      "shrimp",
+      "skewers"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 16,
     "shard": "z"
   }
 ]
