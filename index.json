@@ -2079,14 +2079,11 @@
   },
   {
     "slug": "zesty-chinese-cabbage-salad",
-    "title": "Zesty Chinese Cabbage Salad",
+    "title": "Chinese Cabbage Salad",
     "tags": [
-      "cabbage",
-      "no-onion",
-      "no-oven",
-      "quick",
-      "sour-sweet",
-      "weekend"
+      "salad",
+      "chinese",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 10,
@@ -16755,6 +16752,32 @@
       "syrian-cuisine"
     ],
     "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-middle-eastern-toor-dal-soup--french",
+    "title": "French Toor Dal Soup",
+    "tags": [
+      "french-cuisine",
+      "vegetarian-soup",
+      "toor-dal"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-croatian-rocket-soup--french",
+    "title": "Crêpes with Zesty Rocket Salad",
+    "tags": [
+      "french",
+      "crêpes",
+      "rocket",
+      "salad",
+      "dessert"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "z"
   }
