@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-earthy-japanese-mushroom-onigiri--japanese",
+  "title": "Pan-Seared Onigiri with Mushroom Dashi",
+  "description": "A Japanese-inspired dish featuring pan-seared onigiri topped with a savory mushroom dashi sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onigiri",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (shimeji or shiitake)",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake (or dry white wine)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add sliced mushrooms and cook until tender, about 3-4 minutes.",
+    "Add dashi powder and cook for 1 minute, stirring constantly.",
+    "Add soy sauce and sake (or dry white wine), and cook for an additional 2 minutes.",
+    "Pan-sear the onigiri until lightly browned on both sides.",
+    "Serve the onigiri topped with the mushroom dashi sauce and green onions (if using).",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "mushroom",
+    "onigiri",
+    "dashi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-japanese-mushroom-onigiri--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:33:14.189Z"
+}
