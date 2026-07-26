@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-ethiopian-lamb-berbere-stew--french",
+  "title": "French Lamb Stew with Berbere Spice",
+  "description": "A hearty, flavorful stew originating from France, infused with the bold flavors of Ethiopian berbere spice.",
+  "cuisine": "french",
+  "diet": [
+    "serves 4"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb cubes until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and add remaining 1 tbsp olive oil. Add chopped onions and cook until softened, about 5 minutes.",
+    "Add chopped carrots and potatoes, cooking for 5 minutes.",
+    "Add berbere spice, red wine, beef broth, and browned lamb. Stir to combine.",
+    "Bring stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lamb",
+    "stew",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-lamb-berbere-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:16:46.741Z"
+}
