@@ -16821,5 +16821,32 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-argentinian-cabbage-empanadas--italian",
+    "title": "Argentinian Empanada Cabbage Fritters (Italian Twist)",
+    "tags": [
+      "italian",
+      "argentinian",
+      "empanadas",
+      "cabbage",
+      "fritters"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-german-haricot-bean-stew--italian",
+    "title": "Italian Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
