@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-crisp-german-ackee-skillet",
+  "title": "Crisp German Skillet with Ackee",
+  "description": "A twist on a classic German dish, this skillet recipe features ackee, a Caribbean favorite. The crisp texture and zesty flavors come together for a unique and delicious meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "skillet-cooked sausage",
+      "amount": "4 slices, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "zesty mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crisp bacon",
+      "amount": "2 slices, crumbled"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "german bread",
+      "amount": "4 slices, toasted"
+    }
+  ],
+  "instructions": [
+    "1. Cook the sausage in a large skillet over medium-high heat until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "2. In the same skillet, add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "3. Add the ackee to the skillet and stir to combine with the onion and sausage.",
+    "4. In a separate bowl, whisk together the eggs and zesty mustard.",
+    "5. Pour the egg mixture over the ackee mixture in the skillet.",
+    "6. Sprinkle the crumbled bacon over the top of the egg mixture.",
+    "7. Cook until the eggs are set, about 3-4 minutes.",
+    "8. Serve the skillet hot, topped with toasted German bread.",
+    "9. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "skillet",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crisp-german-ackee-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:06:50.371Z"
+}
