@@ -1,0 +1,83 @@
+{
+  "slug": "zesty-venezuelan-cheese-crumble--italian",
+  "title": "Italian Cheese Crumble",
+  "description": "A crispy Italian-inspired cheese crumble made with a blend of zesty flavors and a touch of Venezuelan spice. Perfect as a snack or appetizer.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zesty cheese blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "italian breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "venezuelan spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Mix together zesty cheese blend and parmesan cheese in a bowl.",
+    "3. Add italian breadcrumbs and mix until well combined.",
+    "4. Add vegan butter and venezuelan spice blend to the cheese mixture and mix until a crumbly mixture forms.",
+    "5. Transfer the crumbly mixture to a baking dish and top with crumble.",
+    "6. Bake for 15-20 minutes or until the top is golden brown.",
+    "7. Remove from oven and sprinkle with fresh parsley.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cheese",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-venezuelan-cheese-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:31:17.861Z"
+}
