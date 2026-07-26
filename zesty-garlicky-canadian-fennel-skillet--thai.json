@@ -1,0 +1,89 @@
+{
+  "slug": "zesty-garlicky-canadian-fennel-skillet--thai",
+  "title": "Thai-Style Skillet Chicken",
+  "description": "A spicy Thai-inspired dish made by sautéing chicken, fennel, and Canadian ingredients in a skillet.",
+  "cuisine": "thai",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fennel",
+      "amount": "1 large bulb",
+      "notes": "sliced"
+    },
+    {
+      "name": "canadian maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlicky soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large, preferably cast-iron"
+    },
+    {
+      "name": "zesty fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced fennel to the skillet and cook until it starts to soften, about 3-4 minutes.",
+    "Add the maple syrup, soy sauce, fish sauce, and red pepper flakes to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10-12 minutes.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "chicken-dish",
+    "skillet-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-garlicky-canadian-fennel-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:55:32.218Z"
+}
