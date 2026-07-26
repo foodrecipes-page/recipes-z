@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-smoky-saudi-arabian-lamb-kebabs--keto",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "Grilled lamb kebabs made with zesty and smoky flavors, inspired by the cuisine of Saudi Arabia. This keto-friendly recipe is perfect for a quick and delicious meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Zesty Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a zesty olive oil to add flavor to the kebabs"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Add a smoky flavor to the kebabs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality salt to enhance the flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Use for garnish"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Use freshly squeezed lemon juice for the best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced and mixed with olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the lamb is cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and garnish with chopped parsley.",
+    "Serve immediately, with a squeeze of lemon juice on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "saudi-arabian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 0,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-saudi-arabian-lamb-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:40:23.565Z"
+}
