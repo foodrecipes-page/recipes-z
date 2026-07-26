@@ -16744,5 +16744,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-rich-syrian-lamb-bake--gluten-free",
+    "title": "Syrian Lamb Koftas",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "gluten-free",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
