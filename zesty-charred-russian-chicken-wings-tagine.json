@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-charred-russian-chicken-wings-tagine",
+  "title": "Charred Chicken Wings Tagine",
+  "description": "A North African-inspired dish with charred chicken wings cooked in a flavorful tagine sauce. Serve with crusty bread or couscous for a hearty meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "tagine sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "zesty lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "russian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken wings and pat dry with paper towels.",
+    "In a large bowl, whisk together the tagine sauce, zesty lemon juice, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat with the sauce.",
+    "Brush the chicken wings with the russian olive oil and place on a baking sheet.",
+    "Roast in the preheated oven for 25-30 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, warm the tagine sauce in a small saucepan over medium heat.",
+    "Once the chicken is done, toss with the warmed tagine sauce and serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "chicken",
+    "wings",
+    "tagine",
+    "lemon"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-russian-chicken-wings-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:01:05.180Z"
+}
