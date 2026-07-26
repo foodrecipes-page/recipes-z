@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-croatian-rocket-soup--french",
+  "title": "Crêpes with Zesty Rocket Salad",
+  "description": "A French-inspired crêpes recipe with a fresh zesty rocket salad. Perfect for a light and easy meal or snack.",
+  "cuisine": "french",
+  "diet": [
+    null,
+    null,
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large eggs"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty salad dressing",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rocket leaves",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons, melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, eggs, and milk. Whisk until smooth.",
+    "Heat a small non-stick pan over medium heat. Add a small amount of butter to the pan.",
+    "Pour a small amount of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crêpe with a spatula and flip. Cook for another minute.",
+    "Repeat with the remaining batter to make more crêpes.",
+    "To make the salad, combine the chopped rocket leaves, grated Parmesan cheese, and zesty salad dressing in a bowl.",
+    "Season with salt to taste.",
+    "Serve the crêpes with the rocket salad and melted butter on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "crêpes",
+    "rocket",
+    "salad",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-rocket-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:41:52.081Z"
+}
