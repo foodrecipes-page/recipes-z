@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-ukrainian-white-asparagus-wrap--keto",
+  "title": "Asparagus and Ukrainian White Wrap",
+  "description": "A keto-friendly wrap filled with sautéed asparagus, zesty Ukrainian sausage, and creamy white sauce.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1/2 pound",
+      "notes": "Zesty, sliced"
+    },
+    {
+      "name": "white sauce",
+      "amount": "1/4 cup",
+      "notes": "(mayo or sour cream)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap asparagus in foil and roast for 10-12 minutes, or until tender.",
+    "Cook Ukrainian sausage in a pan over medium-high heat, breaking up into small pieces, until browned.",
+    "Add garlic and parsley to the pan and cook for 1 minute.",
+    "Stir in white sauce and cook for an additional minute.",
+    "Warm the white wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the sausage mixture on the wrap, followed by roasted asparagus.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "wrap",
+    "sausage",
+    "asparagus"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ukrainian-white-asparagus-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:18:21.699Z"
+}
