@@ -1,0 +1,91 @@
+{
+  "slug": "zesty-roasted-korean-beef-ssam--mexican",
+  "title": "Korean Beef Tacos",
+  "description": "A fusion twist on traditional tacos, featuring marinated Korean-style beef, roasted vegetables, and a zesty slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "such as flank steak"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "zesty slaw (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "roasted vegetables (such as carrots, bell peppers, and onions)",
+      "amount": "1 cup",
+      "notes": "roasted in the oven"
+    },
+    {
+      "name": "tortillas (corn or flour)",
+      "amount": "8-10",
+      "notes": "for tacos"
+    },
+    {
+      "name": "ssam sauce (store-bought or homemade)",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together chili flakes, soy sauce, and brown sugar. Add sliced beef and marinate for at least 30 minutes.",
+    "Preheat oven to 400°F (200°C). Toss roasted vegetables with a drizzle of oil and season with salt and pepper. Roast for 20-25 minutes or until tender.",
+    "Heat a large skillet over medium-high heat. Remove beef from marinade, letting any excess liquid drip off. Cook for 3-4 minutes per side or until cooked to your desired level of doneness.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked beef onto a tortilla, followed by roasted vegetables, zesty slaw, and a drizzle of ssam sauce. Garnish with green onions and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-mexican",
+    "tacos",
+    "fusion",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-roasted-korean-beef-ssam--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:00:39.240Z"
+}
