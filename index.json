@@ -16718,5 +16718,31 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-ethiopian-lamb-berbere-stew--french",
+    "title": "French Lamb Stew with Berbere Spice",
+    "tags": [
+      "french",
+      "lamb",
+      "stew",
+      "berbere"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 180,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-roasted-korean-beef-ssam--mexican",
+    "title": "Korean Beef Tacos",
+    "tags": [
+      "korean-mexican",
+      "tacos",
+      "fusion",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
