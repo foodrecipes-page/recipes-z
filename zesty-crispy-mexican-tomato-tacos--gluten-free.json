@@ -1,0 +1,70 @@
+{
+  "slug": "zesty-crispy-mexican-tomato-tacos--gluten-free",
+  "title": "Crunchy Taco Bites",
+  "description": "A flavorful, gluten-free snack that combines crispy shells with zesty taco filling.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy taco shells",
+      "amount": "6-8 shells"
+    },
+    {
+      "name": "Mexican zesty shredded chicken",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake taco shells for 5-7 minutes, or until crispy.",
+    "In a bowl, combine shredded chicken, diced tomatoes, and shredded cheese.",
+    "Stir in sour cream and salsa.",
+    "Spoon the chicken mixture into the crispy taco shells.",
+    "Serve immediately, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "mexican-food",
+    "tacos",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-mexican-tomato-tacos--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:26:29.835Z"
+}
