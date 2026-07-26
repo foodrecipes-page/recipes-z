@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-kenyan-nectarine-skewers--thai",
+  "title": "Thai Grilled Nectarine Skewers",
+  "description": "Sweet and tangy nectarine skewers, infused with the bold flavors of Thai cuisine. Perfect for a light and refreshing dessert or snack.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarine",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kenyan zesty peanut sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread nectarine pieces onto bamboo skewers.",
+    "3. In a small bowl, whisk together peanut sauce and honey (if using).",
+    "4. Brush coconut oil onto bamboo skewers.",
+    "5. Grill skewers for 2-3 minutes per side, or until nectarine is slightly charred.",
+    "6. Brush peanut sauce mixture onto skewers during last minute of grilling.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-cuisine",
+    "grilled",
+    "dessert",
+    "snack",
+    "nectarine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-kenyan-nectarine-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:47:08.341Z"
+}
