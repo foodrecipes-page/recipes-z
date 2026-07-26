@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty--thai",
+  "title": "Cornish Pasty with Thai Twist",
+  "description": "A fusion of traditional Cornish pasty with Thai flavors, featuring zesty cornish style chicken filling.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cornish Pasty Pastry",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fermented Filling",
+      "amount": "1 cup",
+      "notes": "mix of fermented veggies and spices"
+    },
+    {
+      "name": "British Cottage Cheese",
+      "amount": "1 cup",
+      "notes": "crumbly cottage cheese for added texture"
+    },
+    {
+      "name": "Zesty Cheese",
+      "amount": "1/2 cup",
+      "notes": "melted for added flavor"
+    },
+    {
+      "name": "Ferment",
+      "amount": "1 tbsp",
+      "notes": "fermented chili sauce for heat"
+    },
+    {
+      "name": "British Filled Pastry",
+      "amount": "1 tsp",
+      "notes": "flaky filling pastry for added flakiness"
+    },
+    {
+      "name": "Cornish Style Chicken",
+      "amount": "1 lb",
+      "notes": "grilled or baked chicken for protein"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out Cornish Pasty Pastry and place on a baking sheet.",
+    "Spoon Fermented Filling and British Cottage Cheese mixture onto the center of the pastry.",
+    "Add Zesty Cheese and Ferment on top of the filling.",
+    "Fold the pastry to seal the pasty and crimp the edges.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Grill or bake Cornish Style Chicken separately and slice.",
+    "Serve pasty with chicken and additional Fermented Filling on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornish",
+    "thai",
+    "fusion",
+    "pasty"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ferment-filled-british-cottage-cheese-cornish-style-pasty--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:26:48.490Z"
+}
