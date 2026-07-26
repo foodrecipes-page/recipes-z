@@ -16898,5 +16898,30 @@
     "cuisine": "thai",
     "totalTimeMin": 27,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-smoky-saudi-arabian-lamb-kebabs--keto",
+    "title": "Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "saudi-arabian",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-charred-irish-beef-stew--japanese",
+    "title": "Japanese Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 140,
+    "shard": "z"
   }
 ]
