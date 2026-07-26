@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-argentinian-cabbage-empanadas--italian",
+  "title": "Argentinian Empanada Cabbage Fritters (Italian Twist)",
+  "description": "A delicious Italian-inspired twist on traditional Argentinian empanadas, featuring crispy cabbage fritters filled with savory cheese and served with a zesty dipping sauce.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grated cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zesty cheese",
+      "amount": "1/2 cup",
+      "notes": "such as parmesan or romano"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "4-6 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, combine flour, cabbage, cheese, milk, eggs, and salt. Mix well.",
+    "Shape empanada dough into small balls and flatten slightly.",
+    "Place a tablespoon of the cabbage mixture onto the center of each dough round.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Fry the empanada fritters for 2-3 minutes on each side, until golden brown.",
+    "Drain on paper towels and serve hot with a zesty dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "argentinian",
+    "empanadas",
+    "cabbage",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-argentinian-cabbage-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:30:50.708Z"
+}
