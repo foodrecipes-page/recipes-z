@@ -1,0 +1,96 @@
+{
+  "slug": "zesty-charred-irish-beef-stew--japanese",
+  "title": "Japanese Beef Stew",
+  "description": "A hearty, charred Japanese-inspired beef stew with rich flavors and tender beef.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Beef Stew Meat",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Zesty Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Charred Onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Season beef with sesame oil, sugar, and red pepper flakes.",
+    "2. In a large Dutch oven, heat 1 tbsp of sesame oil over medium-high.",
+    "3. Sear beef until browned on all sides, about 5 minutes.",
+    "4. Remove beef from pot and set aside.",
+    "5. Reduce heat to medium and add 2 tbsp of sesame oil.",
+    "6. Add charred onions and cook until caramelized, about 5 minutes.",
+    "7. Add ginger and cook for 1 minute.",
+    "8. Add soy sauce, sake, and mirin to pot.",
+    "9. Return beef to pot and bring to a simmer.",
+    "10. Cover pot and transfer to oven.",
+    "11. Braise beef in oven at 300°F (150°C) for 2 hours.",
+    "12. Remove beef from pot and let rest for 10 minutes.",
+    "13. Slice beef and return to pot.",
+    "14. Stir in green onions and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-irish-beef-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:59:57.574Z"
+}
