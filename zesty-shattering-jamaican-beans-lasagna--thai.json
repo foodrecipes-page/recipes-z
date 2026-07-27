@@ -1,0 +1,62 @@
+{
+  "slug": "zesty-shattering-jamaican-beans-lasagna--thai",
+  "title": "Jamaican Beans Thai Lasagna",
+  "description": "A unique twist on traditional lasagna, infused with the flavors of Jamaica and Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shattering",
+      "amount": "1 cup frozen spinach, thawed"
+    },
+    {
+      "name": "lasagna",
+      "amount": "8 lasagna noodles"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp jerk seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat 1 tbsp of zesty over medium heat.",
+    "Add beans, shattering, and jamaican. Stir well.",
+    "Combine cooked lasagna noodles and bean mixture.",
+    "Transfer to a baking dish and cover with cheese.",
+    "Bake for 25-30 minutes or until cheese is melted and bubbly.",
+    "Let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lentil-lasagna",
+    "jamaican-spices"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-shattering-jamaican-beans-lasagna--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:44:08.681Z"
+}
