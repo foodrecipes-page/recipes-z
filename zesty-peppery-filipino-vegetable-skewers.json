@@ -1,0 +1,87 @@
+{
+  "slug": "zesty-peppery-filipino-vegetable-skewers",
+  "title": "Filipino Vegetable Skewers",
+  "description": "Delicious and easy to make, these Filipino vegetable skewers are perfect for a quick snack or appetizer.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegetable skewers",
+      "amount": "1 dozen",
+      "notes": " Wooden or bamboo skewers"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Button or cremini"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Cherry or grape"
+    },
+    {
+      "name": "Zesty Filipino-style BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Soak the skewers in water for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread the vegetables onto the skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together the BBQ sauce, peppercorns, garlic, and salt.",
+    "Brush the sauce mixture onto both sides of the vegetables.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "filipino",
+    "skewers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-peppery-filipino-vegetable-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:40:10.462Z"
+}
