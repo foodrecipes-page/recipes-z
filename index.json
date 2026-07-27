@@ -613,17 +613,15 @@
   },
   {
     "slug": "zesty-aerated-korean-tomatoes-stew",
-    "title": "Zesty Aerated Korean Tomatoes Stew",
+    "title": "Spicy Korean Stew",
     "tags": [
-      "flavorful",
-      "healthy",
-      "korean-cuisine",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "korean",
+      "stew",
+      "vegetarian",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -16973,6 +16971,33 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-german-cheese-toast--thai",
+    "title": "Thai Toast with Zesty Cheese",
+    "tags": [
+      "cheese",
+      "thai",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-turkish-lamb-kofte--indian",
+    "title": "Turkish-Style Lamb Kofte",
+    "tags": [
+      "indian",
+      "turkish",
+      "lamb",
+      "kofte",
+      "appetizer"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
