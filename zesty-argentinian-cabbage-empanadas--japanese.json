@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-argentinian-cabbage-empanadas--japanese",
+  "title": "Zesty Cabbage Empanadas with Japanese Twist",
+  "description": "A fusion of Japanese flavors with the classic Argentinean empanadas, filled with a zesty cabbage mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tbsp",
+      "notes": "Asian-style hot sauce"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "If using homemade empanadas, bake for 10-12 minutes or until golden brown.",
+    "In a pan, heat 1 tsp of sesame oil over medium heat.",
+    "Add shredded cabbage and cook until wilted, about 3-4 minutes.",
+    "Stir in zesty, soy sauce, sugar, and rice vinegar (if using).",
+    "Let the mixture cool slightly.",
+    "Place a spoonful of the cabbage mixture onto each empanada, leaving a small border around the edges.",
+    "Brush the empanadas with sesame oil and bake for an additional 2-3 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "empanadas",
+    "cabbage",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-argentinian-cabbage-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:49:30.974Z"
+}
