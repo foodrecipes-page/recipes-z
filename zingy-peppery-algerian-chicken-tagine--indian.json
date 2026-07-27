@@ -1,0 +1,87 @@
+{
+  "slug": "zingy-peppery-algerian-chicken-tagine--indian",
+  "title": "Chicken Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish from India, made with chicken, tagine, and spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken thighs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "zingy",
+      "amount": "1 teaspoon",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/2 teaspoon",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "algerian",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add tagine, zingy, peppery, and Alpine spices and stir to combine.",
+    "Add chicken broth and bring to a simmer.",
+    "Cover the pot and cook for 20-25 minutes or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "north-african",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zingy-peppery-algerian-chicken-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:32:10.459Z"
+}
