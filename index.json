@@ -17036,5 +17036,32 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-chewy-sicilian-lamb-cassata--mexican",
+    "title": "Cassata-Crusted Lamb Tacos",
+    "tags": [
+      "tacos",
+      "lamb",
+      "cassata",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-moroccan-chicken-leg-tagine--thai",
+    "title": "Spicy Chicken Tagine",
+    "tags": [
+      "chicken",
+      "thai",
+      "moroccan",
+      "spicy",
+      "one-pot"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
