@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-velvety-thai-meat-larb--japanese",
+  "title": "Thai-Style Beef Larb Buns",
+  "description": "A twist on traditional Japanese buns, these bite-sized treats are filled with spicy Thai-style beef larb. Perfect as an appetizer or snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mung bean noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soft buns",
+      "amount": "4-6",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cook the mung bean noodles according to package instructions.",
+    "2. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "3. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "4. Add the Thai red curry paste and cook for 1 minute.",
+    "5. Stir in the fish sauce and lime juice.",
+    "6. Cook for an additional 2-3 minutes until the sauce has thickened.",
+    "7. Stir in the chopped cilantro.",
+    "8. To assemble the buns, spread a small amount of the beef larb mixture onto the bottom of each bun.",
+    "9. Top with cooked noodles and a sprinkle of sesame seeds.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "thai",
+    "beef",
+    "larb",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-velvety-thai-meat-larb--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:58:49.729Z"
+}
