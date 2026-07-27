@@ -17023,5 +17023,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zingy-peppery-algerian-chicken-tagine--indian",
+    "title": "Chicken Tagine",
+    "tags": [
+      "indian",
+      "north-african",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
