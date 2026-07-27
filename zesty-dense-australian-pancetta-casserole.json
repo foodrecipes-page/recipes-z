@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-dense-australian-pancetta-casserole",
+  "title": "Australian Pan-Seared Pancetta Casserole",
+  "description": "An Australian-inspired casserole dish with crispy pancetta and a flavorful twist. Perfect for a hearty dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "mushroom-based"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "250g",
+      "notes": "crushed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pancetta in a pan over medium heat until crispy.",
+    "Add the onions and garlic to the pan and cook until the onions are translucent.",
+    "Add the casserole, tomatoes, chili flakes, and oregano to the pan.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Transfer the mixture to a baking dish and season with salt and pepper to taste.",
+    "Bake in the preheated oven for 25-30 minutes or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "pancetta",
+    "hearty",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-australian-pancetta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:44:16.762Z"
+}
