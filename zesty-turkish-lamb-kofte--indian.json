@@ -1,0 +1,82 @@
+{
+  "slug": "zesty-turkish-lamb-kofte--indian",
+  "title": "Turkish-Style Lamb Kofte",
+  "description": "A flavorful and spicy twist on traditional Indian street food. This dish combines the best of Turkish and Indian cuisine with the bold flavors of lamb kofte.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zesty Turkish seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large mixing bowl, combine the lamb mince, chopped onion, minced garlic, zesty Turkish seasoning, cumin powder, coriander powder, salt, and black pepper. Mix well until all the ingredients are fully incorporated.",
+    "Using your hands, shape the mixture into small kofte shapes. You should end up with around 8-10 kofte.",
+    "Place the kofte on a baking tray lined with parchment paper and drizzle with a little bit of oil.",
+    "Bake the kofte in the preheated oven for 12-15 minutes, or until they are cooked through and lightly browned on the outside.",
+    "While the kofte are baking, toast the breadcrumbs in a pan over medium heat until lightly browned.",
+    "Once the kofte are done, remove them from the oven and sprinkle with toasted breadcrumbs.",
+    "Serve the kofte warm, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "turkish",
+    "lamb",
+    "kofte",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-turkish-lamb-kofte--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:20:34.253Z"
+}
