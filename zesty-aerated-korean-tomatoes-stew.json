@@ -1,0 +1,66 @@
+{
+  "slug": "zesty-aerated-korean-tomatoes-stew",
+  "title": "Spicy Korean Stew",
+  "description": "A hearty, flavorful stew made with Korean chili flakes and tender tomatoes.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and diced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Zesty dressing",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of zesty dressing in a large pot over medium heat.",
+    "Add 2 cups of stew and cook until the stew is heated through.",
+    "Add 2 teaspoons of Korean chili flakes and stir to combine.",
+    "Add 1 can (14 oz) of diced tomatoes and stir to combine.",
+    "Add 4 cups of aerated water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve with steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-aerated-korean-tomatoes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:07:42.528Z"
+}
