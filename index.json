@@ -3888,17 +3888,16 @@
   },
   {
     "slug": "zesty-dense-australian-pancetta-casserole",
-    "title": "Zesty Dense Australian Pancetta Casserole",
+    "title": "Australian Pan-Seared Pancetta Casserole",
     "tags": [
-      "australian-cuisine",
-      "dinner-party",
-      "fondue-pot-recipe",
-      "shojin-friendly",
-      "special-occasion",
-      "umami-rich"
+      "australian",
+      "casserole",
+      "pancetta",
+      "hearty",
+      "dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 70,
+    "cuisine": "australian",
+    "totalTimeMin": 45,
     "shard": "z"
   },
   {
@@ -17088,6 +17087,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-argentinian-cabbage-empanadas--japanese",
+    "title": "Zesty Cabbage Empanadas with Japanese Twist",
+    "tags": [
+      "japanese",
+      "empanadas",
+      "cabbage",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "z"
   }
 ]
