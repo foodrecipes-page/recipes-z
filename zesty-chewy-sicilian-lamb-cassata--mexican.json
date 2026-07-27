@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-chewy-sicilian-lamb-cassata--mexican",
+  "title": "Cassata-Crusted Lamb Tacos",
+  "description": "A twist on traditional tacos, this recipe features lamb coated in a crispy cassata crust, served in a taco shell with a hint of zesty sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Cassata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zesty Sauce (or Salsa)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "4-6"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed Sicilian Olives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shredded Cheese (optional)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Roll out the cassata crust and coat the lamb shoulder, pressing the crust onto the meat.",
+    "Place the coated lamb on a baking sheet and bake for 20 minutes.",
+    "While the lamb is cooking, warm the taco shells in the oven.",
+    "Remove the lamb from the oven and let it rest for 5 minutes.",
+    "Slice the lamb into thin strips and serve in the warmed taco shells.",
+    "Drizzle the zesty sauce over the lamb and top with chopped cilantro and crushed sicilian olives.",
+    "Serve with shredded cheese on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "lamb",
+    "cassata",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chewy-sicilian-lamb-cassata--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:19:14.899Z"
+}
