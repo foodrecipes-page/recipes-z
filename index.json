@@ -17063,5 +17063,31 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-ethiopian-steak-atakilt-wat--chinese",
+    "title": "Steak and Atakilt Stir Fry",
+    "tags": [
+      "chinese",
+      "ethiopian",
+      "beef",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-irish-bacon-pasta--vegan",
+    "title": "Irish Vegan Pasta Bake",
+    "tags": [
+      "vegan",
+      "irish",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "z"
   }
 ]
