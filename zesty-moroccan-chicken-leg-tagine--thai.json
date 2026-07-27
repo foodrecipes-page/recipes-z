@@ -1,0 +1,95 @@
+{
+  "slug": "zesty-moroccan-chicken-leg-tagine--thai",
+  "title": "Spicy Chicken Tagine",
+  "description": "A flavorful Thai-inspired dish made with chicken, zesty spices, and the signature moroccan tagine cooking vessel.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken leg",
+      "amount": "1",
+      "notes": "bone-in"
+    },
+    {
+      "name": "tagine",
+      "amount": "",
+      "notes": "traditional moroccan cooking vessel"
+    },
+    {
+      "name": "zesty spice blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "or water"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add chicken; cook until browned, about 5 minutes.",
+    "Add zesty spice blend, salt, and broth; stir to combine.",
+    "Bring mixture to a simmer, then reduce heat to low.",
+    "Cover and cook for 20-25 minutes or until chicken is cooked through.",
+    "Stir in coconut milk; cook for an additional 5 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "thai",
+    "moroccan",
+    "spicy",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-moroccan-chicken-leg-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:37:49.499Z"
+}
