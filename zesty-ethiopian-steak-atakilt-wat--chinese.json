@@ -1,0 +1,77 @@
+{
+  "slug": "zesty-ethiopian-steak-atakilt-wat--chinese",
+  "title": "Steak and Atakilt Stir Fry",
+  "description": "A Chinese-inspired stir fry combining the bold flavors of Ethiopia with tender steak and crunchy atakilt.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "New York steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Atakilt (Ethiopian cabbage)",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Zesty red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian spices (berbere, niter kibbeh)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wok or large skillet to 400°F (200°C).",
+    "Season the steak with salt and pepper.",
+    "In a small bowl, mix together the berbere, niter kibbeh, and soy sauce.",
+    "Add 1 tablespoon of vegetable oil to the preheated wok and add the steak.",
+    "Sear the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Remove the steak from the wok and set it aside to rest.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the atakilt and zesty red bell pepper to the wok.",
+    "Stir-fry the atakilt and bell pepper for 4-5 minutes, or until they are tender.",
+    "Return the steak to the wok and stir-fry everything together for 1-2 minutes.",
+    "Serve the steak and atakilt stir-fry hot, garnished with additional berbere if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "ethiopian",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-ethiopian-steak-atakilt-wat--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:32:21.517Z"
+}
