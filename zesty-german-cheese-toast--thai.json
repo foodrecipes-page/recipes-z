@@ -1,0 +1,69 @@
+{
+  "slug": "zesty-german-cheese-toast--thai",
+  "title": "Thai Toast with Zesty Cheese",
+  "description": "A simple and flavorful Thai-inspired toast dish with zesty cheese and crunchy texture.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "german bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "zesty cheese",
+      "amount": "8 oz",
+      "notes": "such as pepper jack or cheddar"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Thai chili sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat broiler to high.",
+    "2. Arrange bread slices on a baking sheet.",
+    "3. Broil for 2-3 minutes or until lightly toasted and crispy.",
+    "4. Meanwhile, slice the zesty cheese into 1/4-inch thick slices.",
+    "5. Remove bread from the oven and top each slice with a slice of cheese.",
+    "6. Return to the broiler and cook for an additional 1-2 minutes or until cheese is melted and bubbly.",
+    "7. Garnish with toasted sesame seeds and green onions, if desired.",
+    "8. Serve immediately with Thai chili sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "thai",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-german-cheese-toast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:17:29.741Z"
+}
