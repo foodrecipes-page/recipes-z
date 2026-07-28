@@ -17261,5 +17261,31 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-croatian-pear-tagine--vegan",
+    "title": "Vegan Croatian Tagine with Pear",
+    "tags": [
+      "vegan",
+      "croatian",
+      "stew",
+      "pear"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-mediterranean-eggplant-tagine--german",
+    "title": "German Eggplant Tagine",
+    "tags": [
+      "german",
+      "eggplant",
+      "tagine",
+      "mediterranean"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
