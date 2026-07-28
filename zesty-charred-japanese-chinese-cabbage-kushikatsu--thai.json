@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-charred-japanese-chinese-cabbage-kushikatsu--thai",
+  "title": "Pan-Seared Kushikatsu with Cabbage Slaw",
+  "description": "A Thai-inspired twist on the Japanese classic, kushikatsu, featuring crispy fried breaded pork cutlets served with a refreshing cabbage slaw.",
+  "cuisine": "thai",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "battered with zesty breading"
+    },
+    {
+      "name": "kushikatsu sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "japanese breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for breading"
+    }
+  ],
+  "instructions": [
+    "Heat 1/2 cup vegetable oil in a deep frying pan to 350°F.",
+    "Dredge pork cutlets in flour, shaking off excess.",
+    "Dip floured pork cutlets in beaten eggs, then coat with japanese breadcrumbs.",
+    "Fry breaded pork cutlets until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain on paper towels.",
+    "In a separate pan, heat kushikatsu sauce over medium heat.",
+    "Assemble kushikatsu by placing a fried pork cutlet on a plate, then spooning kushikatsu sauce over the top.",
+    "Serve immediately with shredded cabbage slaw on the side.",
+    "To make slaw, combine shredded cabbage, 1 tablespoon vegetable oil, and 1 tablespoon kushikatsu sauce in a bowl.",
+    "Mix well to combine.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-food",
+    "japanese-cuisine",
+    "kushikatsu",
+    "cabbage-slaw"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 32,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-japanese-chinese-cabbage-kushikatsu--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:14:00.305Z"
+}
