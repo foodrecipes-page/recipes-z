@@ -17171,5 +17171,31 @@
     "cuisine": "indian",
     "totalTimeMin": 23,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-crunchy-ukrainian-date-skewers--thai",
+    "title": "Thai Date and Chicken Skewers",
+    "tags": [
+      "thai",
+      "grilled",
+      "skewers",
+      "date",
+      "peanut-butter"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "z"
+  },
+  {
+    "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--german",
+    "title": "Traditional German Schnitzel",
+    "tags": [
+      "german",
+      "pork",
+      "schnitzel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "z"
   }
 ]
