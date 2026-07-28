@@ -17197,5 +17197,31 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-charred-japanese-chinese-cabbage-kushikatsu--thai",
+    "title": "Pan-Seared Kushikatsu with Cabbage Slaw",
+    "tags": [
+      "thai-food",
+      "japanese-cuisine",
+      "kushikatsu",
+      "cabbage-slaw"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-malaysian-chickpea-wrap--vegan",
+    "title": "Malaysian Chickpea Wrap",
+    "tags": [
+      "vegan",
+      "lunch",
+      "malaysian",
+      "chickpea"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 15,
+    "shard": "z"
   }
 ]
