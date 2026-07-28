@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-mexican-kidney-beans-tacos--german",
+  "title": "Kidney Bean Tacos with German Twist",
+  "description": "A fusion of German and Mexican flavors, this dish combines the comfort of traditional German cuisine with the vibrant taste of Mexican tacos.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zesty kidney beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "mexican taco seasoning",
+      "amount": "1 packet",
+      "notes": "or homemade blend"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour, your preference"
+    },
+    {
+      "name": "relish",
+      "amount": "4 oz",
+      "notes": "such as sauerkraut or pickled vegetables"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "or German-style yogurt"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high.",
+    "Add diced onions and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add kidney beans and taco seasoning; stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning bean mixture onto tortillas.",
+    "Top with shredded cheese, sour cream, relish, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "german-mexican-fusion",
+    "kidney-beans",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-mexican-kidney-beans-tacos--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:53:10.065Z"
+}
