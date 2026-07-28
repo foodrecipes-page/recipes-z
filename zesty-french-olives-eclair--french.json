@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-french-olives-eclair--french",
+  "title": "French Country Olive Tart",
+  "description": "A classic French tart with a zesty twist featuring olives and a flaky crust.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ice water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "zesty olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eclair pastry cream",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "french sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch and place in a tart pan.",
+    "In a separate bowl, mix the eclair pastry cream with the grated cheese (if using).",
+    "Arrange the olives in a decorative pattern on the pastry dough, leaving a 1-inch border around the edges.",
+    "Spread the eclair pastry cream mixture over the olives.",
+    "Sprinkle the french sea salt over the top and garnish with fresh thyme.",
+    "Bake for 25-30 minutes or until the crust is golden brown and the filling is set.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "olives",
+    "eclair",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-french-olives-eclair--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:46:56.603Z"
+}
