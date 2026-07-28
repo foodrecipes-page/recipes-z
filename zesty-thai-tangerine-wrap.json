@@ -1,0 +1,79 @@
+{
+  "slug": "zesty-thai-tangerine-wrap",
+  "title": "Thai Zesty Chicken Wrap",
+  "description": "A flavorful and easy-to-make chicken wrap recipe, perfect for a quick lunch or dinner. This recipe combines the zesty flavors of Thailand with the convenience of a wrap.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "zesty Thai sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tangerine juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "wrap"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together zesty Thai sauce and tangerine juice.",
+    "2. Heat a large skillet or wok over medium-high heat.",
+    "3. Add coconut oil to the pan and swirl it around.",
+    "4. Add the chicken breast to the pan and cook for 5-6 minutes per side, or until cooked through.",
+    "5. Let the chicken rest for a few minutes before slicing it thinly.",
+    "6. Warm the large flour tortilla in the microwave or in a dry pan for a few seconds.",
+    "7. Assemble the wrap by placing the sliced chicken on the tortilla, followed by shredded carrots and chopped cilantro.",
+    "8. Drizzle the zesty Thai sauce over the top of the wrap.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "thai",
+    "wrap",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-thai-tangerine-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:40:14.781Z"
+}
