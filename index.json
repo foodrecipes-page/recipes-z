@@ -12637,15 +12637,15 @@
   },
   {
     "slug": "zesty-thai-tangerine-wrap",
-    "title": "Zesty Thai Tangerine Wrap",
+    "title": "Thai Zesty Chicken Wrap",
     "tags": [
+      "chicken",
       "thai",
       "wrap",
-      "zesty",
-      "tangy"
+      "easy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 5,
+    "totalTimeMin": 22,
     "shard": "z"
   },
   {
@@ -17101,6 +17101,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-split-irish-peas-stew--mexican",
+    "title": "Irish Stew with Peas and Zesty Cornbread",
+    "tags": [
+      "cornbread",
+      "stew",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-crispy-middle-eastern-lamb-fatteh--french",
+    "title": "French Lamb Fattah",
+    "tags": [
+      "french",
+      "lamb",
+      "fattah",
+      "middle eastern"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 75,
     "shard": "z"
   }
 ]
