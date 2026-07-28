@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-fermented-spanish-lentils-paella",
+  "title": "Spanish Lentil Paella",
+  "description": "A twist on the classic Spanish dish, incorporating lentils for added protein and nutrition. This recipe serves 4-6 people.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "Green or brown lentils work well"
+    },
+    {
+      "name": "Spanish Rice",
+      "amount": "2 cups",
+      "notes": "Use gluten-free if necessary"
+    },
+    {
+      "name": "Zesty Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Add extra for extra flavor"
+    },
+    {
+      "name": "Fermented Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use for sautéing"
+    },
+    {
+      "name": "Paella Spices",
+      "amount": "1 teaspoon",
+      "notes": "Use a mix of paprika, saffron, and thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the fermented olive oil in a large paella pan over medium-high heat.",
+    "Add the paella spices and cook for 1 minute, until fragrant.",
+    "Add the lentils and cook for 2-3 minutes, until they begin to brown.",
+    "Add the Spanish rice and cook for 2-3 minutes, until it begins to brown.",
+    "Add the zesty tomato paste and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, until the rice and lentils are cooked.",
+    "Fluff the paella with a fork and garnish with fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "lentils",
+    "paella",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-fermented-spanish-lentils-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:35:23.427Z"
+}
