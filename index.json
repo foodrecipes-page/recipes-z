@@ -4650,18 +4650,16 @@
   },
   {
     "slug": "zesty-fermented-spanish-lentils-paella",
-    "title": "zesty fermented spanish lentils paella",
+    "title": "Spanish Lentil Paella",
     "tags": [
-      "fermented",
-      "flexitarian-friendly",
-      "high-protein",
-      "lentils",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "lentils",
+      "paella",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "z"
   },
   {
@@ -6633,17 +6631,14 @@
   },
   {
     "slug": "zesty-indulgent-vietnamese-pork-che-ba-mau",
-    "title": "Zesty Indulgent Vietnamese Pork Che Ba Mau",
+    "title": "Braised Pork Belly with Vietnamese Flavors",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "pork-recipes",
-      "vietnamese-cuisine"
+      "pork",
+      "vietnamese",
+      "braised"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "z"
   },
   {
@@ -17126,6 +17121,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 75,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-velvety-saudi-arabian-date-pudding--indian",
+    "title": "Date Pudding with Saudi Twist",
+    "tags": [
+      "indian-cuisine",
+      "middle-eastern-cuisine",
+      "date-pudding",
+      "saudi-twist"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "z"
   }
 ]
