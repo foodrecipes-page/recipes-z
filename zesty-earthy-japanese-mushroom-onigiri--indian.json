@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-earthy-japanese-mushroom-onigiri--indian",
+  "title": "Onigiri Shaped Mushroom Koftas",
+  "description": "A unique twist on traditional koftas, these Indian-inspired bites feature onigiri-shaped mushroom filling wrapped in Japanese-style bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onigiri",
+      "amount": "4-6"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "earthy",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "japanese",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. In a bowl, mix together mushrooms, zesty, earthy, japanese, salt, and black pepper.",
+    "3. On a flat surface, shape onigiri into small disks.",
+    "4. Place a spoonful of the mushroom mixture onto the center of each onigiri.",
+    "5. Fold the onigiri in half to enclose the filling, and press gently to seal.",
+    "6. Brush the tops of the koftas with oil.",
+    "7. Grill the koftas for 3-4 minutes per side, or until crispy and golden brown.",
+    "8. Serve hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-earthy-japanese-mushroom-onigiri--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:36:49.991Z"
+}
