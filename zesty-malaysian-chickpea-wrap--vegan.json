@@ -1,0 +1,86 @@
+{
+  "slug": "zesty-malaysian-chickpea-wrap--vegan",
+  "title": "Malaysian Chickpea Wrap",
+  "description": "A flavorful and healthy vegan wrap filled with spicy chickpea mixture, served in a crispy malaysian-style wrap.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "vegan mayonnaise"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "malaysian-style wrap, vegan"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chickpea, zesty, onion, garlic, cilantro, and lime juice. Blend until smooth.",
+    "Transfer the mixture to a bowl and stir in diced cucumber and bell pepper.",
+    "Warm the malaysian-style wrap in a pan or microwave for a few seconds.",
+    "Spoon the chickpea mixture onto the center of the wrap, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "lunch",
+    "malaysian",
+    "chickpea"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-malaysian-chickpea-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:39:24.106Z"
+}
