@@ -1,0 +1,80 @@
+{
+  "slug": "zesty-crunchy-ukrainian-date-skewers--thai",
+  "title": "Thai Date and Chicken Skewers",
+  "description": "Sweet and savory Thai-inspired chicken skewers infused with the natural sweetness of dates. Perfect for a quick and easy dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Pitted dates",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crunchy peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Ukrainian dark rye flour",
+      "amount": "2 tablespoons",
+      "notes": "For dusting skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together peanut butter, lime juice, and 1 tablespoon of coconut oil.",
+    "Add chicken to the bowl and toss to coat with marinade.",
+    "Thread chicken, dates, and onion (if using) onto skewers.",
+    "Dust skewers with rye flour.",
+    "Grill skewers for 8-10 minutes, flipping halfway through.",
+    "Brush with remaining coconut oil during last 2 minutes of grilling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "grilled",
+    "skewers",
+    "date",
+    "peanut-butter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crunchy-ukrainian-date-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:05:08.356Z"
+}
