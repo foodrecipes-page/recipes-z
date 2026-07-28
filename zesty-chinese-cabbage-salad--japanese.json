@@ -1,0 +1,74 @@
+{
+  "slug": "zesty-chinese-cabbage-salad--japanese",
+  "title": "Japanese Cabbage Salad",
+  "description": "A quick and simple salad recipe featuring Japanese flavors with cabbage, zesty dressing, and a dash of Chinese taste.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Zesty salad dressing",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese chili oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Cut the napa cabbage into thin strips.",
+    "2. In a small bowl, whisk together rice vinegar, soy sauce, ginger, and chili oil.",
+    "3. Add the sliced green onions and toasted sesame seeds to the bowl.",
+    "4. Toss the cabbage with the dressing and top with zesty salad dressing.",
+    "5. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage-salad",
+    "quick-and-easy",
+    "vegetarian",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-chinese-cabbage-salad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:34:47.930Z"
+}
