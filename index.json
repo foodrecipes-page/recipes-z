@@ -1302,16 +1302,14 @@
   },
   {
     "slug": "zesty-brazilian-shojin-wrap",
-    "title": "zesty brazilian shojin wrap",
+    "title": "Brazilian Wrap",
     "tags": [
+      "lunch",
       "brazilian",
-      "high-protein",
-      "one-pan",
-      "shojin",
-      "vegan",
-      "weeknight"
+      "chicken",
+      "wrap"
     ],
-    "cuisine": "brazilian",
+    "cuisine": "Brazilian",
     "totalTimeMin": 25,
     "shard": "z"
   },
@@ -17134,6 +17132,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-charred-japanese-chicken-tsukune--keto",
+    "title": "Keto Japanese-Style Chicken Tsukune Skewers",
+    "tags": [
+      "keto",
+      "japanese",
+      "chicken"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-chinese-cabbage-salad--japanese",
+    "title": "Japanese Cabbage Salad",
+    "tags": [
+      "cabbage-salad",
+      "quick-and-easy",
+      "vegetarian",
+      "salad"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
     "shard": "z"
   }
 ]
