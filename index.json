@@ -11599,17 +11599,16 @@
   },
   {
     "slug": "zesty-smoky-venezuelan-beef-empanadas",
-    "title": "Zesty Smoky Venezuelan Beef Empanadas",
+    "title": "Venezuelan Beef Empanadas",
     "tags": [
-      "beef-empanadas",
-      "flaky-crust",
-      "kid-friendly",
-      "kosher-friendly",
-      "smoky-flavor",
-      "venezuelan-cuisine"
+      "beef",
+      "empanadas",
+      "venezuelan",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "z"
   },
   {
@@ -17235,6 +17234,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-french-olives-eclair--french",
+    "title": "French Country Olive Tart",
+    "tags": [
+      "french",
+      "tart",
+      "olives",
+      "eclair",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-mexican-kidney-beans-tacos--german",
+    "title": "Kidney Bean Tacos with German Twist",
+    "tags": [
+      "german-mexican-fusion",
+      "kidney-beans",
+      "tacos"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "z"
   }
 ]
