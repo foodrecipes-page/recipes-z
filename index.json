@@ -17223,5 +17223,18 @@
     "cuisine": "malaysian",
     "totalTimeMin": 15,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-malaysian-chickpea-wrap--german",
+    "title": "Currywurst Wrap",
+    "tags": [
+      "german",
+      "currywurst",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "z"
   }
 ]
