@@ -1,0 +1,81 @@
+{
+  "slug": "zesty-smoky-venezuelan-beef-empanadas",
+  "title": "Venezuelan Beef Empanadas",
+  "description": "A delicious Venezuelan-inspired beef empanada recipe with a smoky twist. Perfect as a snack or appetizer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Smoky Salsa",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zesty Cheese (Queso Fresco)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Crumble the beef into small pieces and cook in a pan with olive oil until browned, breaking it up into small pieces as it cooks.",
+    "Add the Venezuelan Smoky Salsa and cook until heated through.",
+    "Stir in the Zesty Cheese until melted.",
+    "Cut the Empanada Dough into 4-6 pieces, depending on the size you want your empanadas to be.",
+    "Place a tablespoon or two of the beef mixture onto one half of each piece of dough, leaving a small border around the edges.",
+    "Fold the dough in half to enclose the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and cut a few slits in the top of each to allow steam to escape.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "venezuelan",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-smoky-venezuelan-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:01:24.812Z"
+}
