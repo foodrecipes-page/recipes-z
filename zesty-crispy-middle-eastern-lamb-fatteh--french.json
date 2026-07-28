@@ -1,0 +1,88 @@
+{
+  "slug": "zesty-crispy-middle-eastern-lamb-fatteh--french",
+  "title": "French Lamb Fattah",
+  "description": "A modern twist on the classic Middle Eastern dish, this French-inspired lamb fattah features crispy fried onions and a zesty tzatziki sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (1.5 pound)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Zesty Tzatziki Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to the preheated oven and roast for 20 minutes.",
+    "While the lamb is cooking, heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the sliced onions and cook until crispy and golden brown, about 15-20 minutes.",
+    "In a separate bowl, mix together the breadcrumbs and minced garlic.",
+    "Remove the lamb from the oven and top with the crispy onions and breadcrumb mixture.",
+    "Return the lamb to the oven and continue cooking for an additional 10-15 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Let the lamb rest for 10 minutes before slicing and serving with zesty tzatziki sauce and fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lamb",
+    "fattah",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-crispy-middle-eastern-lamb-fatteh--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:59:17.378Z"
+}
