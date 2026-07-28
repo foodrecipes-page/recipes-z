@@ -1,0 +1,94 @@
+{
+  "slug": "zesty-split-irish-peas-stew--mexican",
+  "title": "Irish Stew with Peas and Zesty Cornbread",
+  "description": "A hearty and flavorful twist on traditional Irish stew, served with a side of zesty cornbread.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zesty cornmeal mix",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "irish sausage",
+      "amount": "1 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together cornmeal mix, eggs, and milk to form a batter.",
+    "Pour batter into a greased 8-inch square baking dish.",
+    "Bake cornbread for 20-25 minutes, or until golden brown.",
+    "In a large pot or Dutch oven, cook sausage over medium-high heat, breaking up with a spoon as it cooks.",
+    "Add onion and garlic to pot and cook until onion is translucent.",
+    "Add carrots, potatoes, peas, and stew broth to pot.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 20-25 minutes, or until vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve cornbread alongside stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornbread",
+    "stew",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-split-irish-peas-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:53:58.877Z"
+}
