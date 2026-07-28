@@ -1,0 +1,92 @@
+{
+  "slug": "zesty-indulgent-vietnamese-pork-che-ba-mau",
+  "title": "Braised Pork Belly with Vietnamese Flavors",
+  "description": "A rich, comforting dish that combines the unctuousness of pork belly with the bright, spicy flavors of Vietnam. Serve with steamed rice or noodles for a satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "2 lbs",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Zesty fish sauce",
+      "amount": "2 tbsp",
+      "notes": "such as nam pla"
+    },
+    {
+      "name": "Indulgent brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mau curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Che rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ba soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300° F (150° C).",
+    "Score the pork belly in a crisscross pattern, cutting about 1/4 inch deep.",
+    "In a large Dutch oven or oven-safe pot, combine the fish sauce, brown sugar, curry powder, rice vinegar, soy sauce, ginger, and garlic.",
+    "Add the pork belly to the pot, skin side up, and pour in the fish stock until the meat is covered.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork belly for 2 1/2 hours, or until the meat is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the braising liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Bring the liquid to a boil over high heat, then reduce the heat to medium-low and simmer for 10-15 minutes, or until the sauce has thickened.",
+    "Using two forks, shred the pork belly into bite-sized pieces.",
+    "Add the shredded pork back to the saucepan with the braising liquid and toss to coat.",
+    "Serve the pork belly hot, garnished with fresh herbs or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "vietnamese",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-indulgent-vietnamese-pork-che-ba-mau",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:20:25.888Z"
+}
