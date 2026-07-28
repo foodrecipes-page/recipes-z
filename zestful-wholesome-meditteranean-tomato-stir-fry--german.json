@@ -1,0 +1,82 @@
+{
+  "slug": "zestful-wholesome-meditteranean-tomato-stir-fry--german",
+  "title": "Traditional German Schnitzel",
+  "description": "A classic German dish made with breaded and fried pork cutlets. This recipe is easy to make and always a crowd pleaser.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "stir",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "meditteranean seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "tomato slices",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Season the pork cutlets with salt, black pepper, and meditteranean seasoning.",
+    "In a shallow dish, mix together flour, eggs, and stir.",
+    "Dip each pork cutlet into the flour mixture, coating both sides evenly.",
+    "Heat a large skillet over medium-high heat and add 1/4 cup of fry.",
+    "Add the breaded pork cutlets to the skillet and cook for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Transfer the cooked pork cutlets to a plate and serve with lemon wedges and tomato slices.",
+    "Optional: Serve with a side of wholesome mashed potatoes or meditteranean salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zestful-wholesome-meditteranean-tomato-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:10:49.355Z"
+}
