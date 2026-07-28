@@ -1,0 +1,90 @@
+{
+  "slug": "zesty-croatian-pear-tagine--vegan",
+  "title": "Vegan Croatian Tagine with Pear",
+  "description": "A hearty, flavorful vegan stew originating from Croatia, made with a tagine and featuring sweet pear. Perfect for a cold evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Zesty",
+      "amount": "1/4 cup",
+      "notes": "zesty vinegar or lemon juice"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add the onion and cook until softened.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Add the pear and zesty vinegar, and stir to combine.",
+    "Season with Croatian paprika and serve hot.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "croatian",
+    "stew",
+    "pear"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-pear-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:48:13.005Z"
+}
