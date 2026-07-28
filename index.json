@@ -17158,5 +17158,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 10,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-earthy-japanese-mushroom-onigiri--indian",
+    "title": "Onigiri Shaped Mushroom Koftas",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "snack",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 23,
+    "shard": "z"
   }
 ]
