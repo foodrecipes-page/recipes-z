@@ -1,0 +1,76 @@
+{
+  "slug": "zesty-charred-japanese-chicken-tsukune--keto",
+  "title": "Keto Japanese-Style Chicken Tsukune Skewers",
+  "description": "A keto-friendly twist on traditional Japanese yakitori, these chicken tsukune skewers are charred to perfection and served with a side of zesty sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "japanese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "sugar-free soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken cubes onto skewers, leaving a small space between each piece.",
+    "Brush grapeseed oil onto skewers and season with Japanese chili flakes.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Meanwhile, whisk together zesty sauce ingredients in a small bowl.",
+    "Once skewers are cooked, brush with zesty sauce and garnish with green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "japanese",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-charred-japanese-chicken-tsukune--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:07:53.226Z"
+}
