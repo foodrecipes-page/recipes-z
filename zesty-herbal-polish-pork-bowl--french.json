@@ -1,0 +1,71 @@
+{
+  "slug": "zesty-herbal-polish-pork-bowl--french",
+  "title": "Pork Tenderloin with Zesty Herb Crust",
+  "description": "A classic French dish with a zesty twist, featuring a tender pork tenderloin topped with a flavorful herb crust.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 (1-1.5 pound)"
+    },
+    ")",
+    {
+      "name": "Zesty herbs",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh parsley, thyme, and rosemary"
+    },
+    {
+      "name": "Polish breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the pork tenderloin and pat it dry with paper towels.",
+    "In a small bowl, mix together the zesty herbs, garlic, salt, and pepper.",
+    "Dredge the pork tenderloin in the zesty herb mixture, coating it evenly.",
+    "Dip the coated pork tenderloin in the Polish breadcrumbs, pressing the crumbs onto the meat to help them stick.",
+    "Place the pork tenderloin on a baking sheet lined with parchment paper.",
+    "Bake the pork tenderloin in the preheated oven for 20-25 minutes, or until it reaches an internal temperature of 145°F (63°C).",
+    "Let the pork tenderloin rest for 5 minutes before slicing it thinly and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pork",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-herbal-polish-pork-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:08:09.600Z"
+}
