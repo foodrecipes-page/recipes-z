@@ -17377,5 +17377,17 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-herbal-polish-pork-bowl--french",
+    "title": "Pork Tenderloin with Zesty Herb Crust",
+    "tags": [
+      "french",
+      "pork",
+      "herbs"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
