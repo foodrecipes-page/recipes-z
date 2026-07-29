@@ -17328,5 +17328,18 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-bitter-french-ginger-crepes--japanese",
+    "title": "Japanese Crepes with Ginger Filling",
+    "tags": [
+      "japanese",
+      "crepes",
+      "ginger",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
