@@ -17353,5 +17353,29 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zero-gravity-crispy-syrian-chicken-kebabs--thai",
+    "title": "Chicken Kebabs with Syran Sauce",
+    "tags": [
+      "chicken",
+      "kebabs",
+      "thaifood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "z"
+  },
+  {
+    "slug": "zesty-dense-slovakian-meat-stew--thai",
+    "title": "Slovakian Stew with Thai Twist",
+    "tags": [
+      "thai",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "z"
   }
 ]
