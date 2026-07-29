@@ -1,0 +1,84 @@
+{
+  "slug": "zesty-croatian-pear-tagine--german",
+  "title": "Classic German Pear Strudel with Zesty Topping",
+  "description": "A traditional German dessert featuring layers of flaky pastry, sweet pears, and a tangy zesty topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": "2 large pears, peeled and sliced",
+      "notes": ""
+    },
+    {
+      "name": "Croation pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Zesty topping",
+      "amount": "1/2 cup powdered sugar",
+      "notes": "see below for zesty topping recipe"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 egg, beaten (for egg wash)",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the sliced pears and cinnamon. Mix well to coat.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Arrange the pear mixture in the center of the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Fold the pastry over the pear mixture, pressing the edges to seal.",
+    "Brush the top of the pastry with melted butter.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "While the strudel is baking, prepare the zesty topping by mixing the powdered sugar and vanilla in a small bowl.",
+    "Remove the strudel from the oven and let cool for 5 minutes.",
+    "Drizzle the zesty topping over the warm strudel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "strudel",
+    "pear",
+    "zesty",
+    "cinnamon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-croatian-pear-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:09:32.852Z"
+}
