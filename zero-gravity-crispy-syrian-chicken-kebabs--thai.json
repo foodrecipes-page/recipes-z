@@ -1,0 +1,74 @@
+{
+  "slug": "zero-gravity-crispy-syrian-chicken-kebabs--thai",
+  "title": "Chicken Kebabs with Syran Sauce",
+  "description": "A popular Thai street food dish that combines the flavors of chicken, kebabs, and syran sauce. This dish is perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Kebabs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Syran Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, honey, ginger, garlic, and olive oil.",
+    "3. Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "4. Thread the marinated chicken and kebabs onto skewers.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "6. While the skewers are cooking, heat the syran sauce in a small saucepan over medium heat.",
+    "7. Serve the grilled skewers with syran sauce drizzled on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-gravity-crispy-syrian-chicken-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:47:57.151Z"
+}
