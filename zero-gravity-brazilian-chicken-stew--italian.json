@@ -1,0 +1,85 @@
+{
+  "slug": "zero-gravity-brazilian-chicken-stew--italian",
+  "title": "Chicken alla Cacciatora",
+  "description": "A classic Italian hunter-style chicken dish made with onions, bell peppers, tomatoes, and mushrooms. This hearty recipe is perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken breast or thighs, cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large bell peppers, sliced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 ounces mushrooms, sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large tomatoes, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes. Remove the chicken from the skillet and set aside.",
+    "Add the sliced onions and bell peppers to the skillet and cook until they start to soften, about 5 minutes.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes to the skillet and cook for 2-3 minutes, until they start to break down.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and sauce.",
+    "Season the chicken with salt and black pepper to taste.",
+    "Simmer the chicken and vegetables in the sauce for 10-15 minutes, until the chicken is cooked through.",
+    "Serve the chicken and vegetables hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "hunter-style",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zero-gravity-brazilian-chicken-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:10:29.906Z"
+}
