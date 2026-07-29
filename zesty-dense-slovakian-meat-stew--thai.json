@@ -1,0 +1,85 @@
+{
+  "slug": "zesty-dense-slovakian-meat-stew--thai",
+  "title": "Slovakian Stew with Thai Twist",
+  "description": "A hearty Slovakian stew infused with the bold flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Stew Mix (dense)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté the onions and garlic until softened.",
+    "Add the Slovakian Stew Mix, Thai Red Curry Paste, coconut milk, water, fish sauce, and soy sauce. Stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-dense-slovakian-meat-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:51:09.520Z"
+}
