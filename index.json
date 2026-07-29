@@ -17287,5 +17287,46 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "z"
+  },
+  {
+    "slug": "zesty-croatian-pear-tagine--german",
+    "title": "Classic German Pear Strudel with Zesty Topping",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel",
+      "pear",
+      "zesty",
+      "cinnamon"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "z"
+  },
+  {
+    "slug": "zapotec-crunchy-bread--indian",
+    "title": "Indian-Style Crunchy Bread Toast",
+    "tags": [
+      "indian",
+      "snack",
+      "crunchy",
+      "bread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "z"
+  },
+  {
+    "slug": "zero-gravity-brazilian-chicken-stew--italian",
+    "title": "Chicken alla Cacciatora",
+    "tags": [
+      "italian",
+      "chicken",
+      "hunter-style",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "z"
   }
 ]
