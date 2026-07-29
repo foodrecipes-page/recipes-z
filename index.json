@@ -17341,5 +17341,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "z"
+  },
+  {
+    "slug": "zero-gravity-brazilian-chicken-stew--vegetarian",
+    "title": "Brazilian Chicken Stew",
+    "tags": [
+      "brazilian",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "z"
   }
 ]
