@@ -1,0 +1,73 @@
+{
+  "slug": "zesty-bitter-french-ginger-crepes--japanese",
+  "title": "Japanese Crepes with Ginger Filling",
+  "description": "Delicious crepes filled with a sweet and spicy ginger filling, perfect for a Japanese-inspired dessert or snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "French Crepes",
+      "amount": "4-6",
+      "notes": "Thaw crepes according to package instructions"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1/4 cup",
+      "notes": "Grated daikon"
+    },
+    {
+      "name": "Zesty",
+      "amount": "2 tablespoons",
+      "notes": "Yuzu juice"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine ginger, bitter, sugar, and water. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Strain the ginger mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much liquid as possible. Discard the solids.",
+    "Add yuzu juice to the ginger mixture and stir to combine.",
+    "Lay a crepe flat on a work surface. Spoon about 1/4 cup of the ginger mixture onto the center of the crepe.",
+    "Fold the crepe in half over the filling, then fold in the sides and roll the crepe into a tight cylinder.",
+    "Serve the crepes warm or at room temperature.",
+    "Repeat with remaining crepes and filling.",
+    "Garnish with additional yuzu juice and grated ginger, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "crepes",
+    "ginger",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/zesty-bitter-french-ginger-crepes--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:30:31.106Z"
+}
